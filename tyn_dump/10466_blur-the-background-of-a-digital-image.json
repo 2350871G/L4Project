@@ -1,0 +1,463 @@
+{
+    "title": "How to Blur the Background of a Digital Image",
+    "url": "https://www.wikihow.com/Blur-the-Background-of-a-Digital-Image",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Photography",
+        "Photography Editing"
+    ],
+    "methods": [
+        {
+            "name": "Steps",
+            "steps": [
+                {
+                    "headline": "Use a graphics editing application such as Photoshop, Paint Shop Pro, or GIMP.",
+                    "description": ""
+                },
+                {
+                    "headline": "Open the image file.",
+                    "description": "Choose an image with a good resolution to blur the background."
+                },
+                {
+                    "headline": "Use Save As to begin working on a copy of the photo.",
+                    "description": "Never modify your original image."
+                },
+                {
+                    "headline": "Determine which areas you want to stay in focus (the foreground), and what areas you want to have blurred (the background).",
+                    "description": "Set the zoom to see the entire image on your monitor; this will help you get an idea of where to make your selections."
+                }
+            ]
+        },
+        {
+            "name": "Photoshop: Quick Method",
+            "steps": [
+                {
+                    "headline": "Select Layers > Duplicate Layer.",
+                    "description": "This will stack a second, identical layer over your original image."
+                },
+                {
+                    "headline": "Select Filter > Blur > Gaussian Blur.",
+                    "description": "This will blur the entire image; you\u2019ll work backwards from here. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Make sure you\u2019re working on the top layer when you add the blur."
+                },
+                {
+                    "headline": "Erase your subject(s) back into focus.",
+                    "description": "Since the original layer is still intact beneath the blurred one, using the eraser tool on your top layer will expose the clear image underneath. Select the Eraser tool from the toolbar to the left. Adjust the eraser size as you go. For larger swaths, use a large eraser; for details and edges, use a smaller, more precise eraser. Adjust the eraser opacity as you go. For large, interior areas, use a high opacity to erase as thoroughly as possible; for edges, lower the opacity to create a softer, subtle effect. Running a low-opacity eraser over the same place multiple times will have a cumulative effect, so err on the side of low opacity where necessary."
+                },
+                {
+                    "headline": "When you\u2019re completely satisfied, go to Layer > Flatten Image.",
+                    "description": "This will combine your various layers into one."
+                }
+            ]
+        },
+        {
+            "name": "Photoshop: Detailed Method 1",
+            "steps": [
+                {
+                    "headline": "Select the Lasso Tool from your tool palette.",
+                    "description": "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Choose the selection type based on what is most suitable for your particular image. Ex. :\nIf the image you want to emphasize has very straight edges, right-click to change the lasso to Polygonal, which will create straight lines between the points you click. If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the lasso to Magnetic, which will find the edge for you."
+                },
+                {
+                    "headline": "Increase the feather to between 1 and 3 pixels.",
+                    "description": "Feathering your edges will make them softer and subtle \u2013 and much more forgiving."
+                },
+                {
+                    "headline": "Zoom in on your subject(s) so that you can see the edges clearly.",
+                    "description": "This will help you freehand-select more accurately."
+                },
+                {
+                    "headline": "Click or drag the Lasso tool along the edges of your subject.",
+                    "description": "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Make sure you\u2019re working on the top layer when you lasso. To add to an already-completed selection, hold down the Shift key while you continue to select. This is a great way to either modify your current selection or simultaneously select a separate subject. To subtract from an already-completed selection, hold town the Alt key and select the area you wish to remove, which will then become unselected."
+                },
+                {
+                    "headline": "Copy the foreground selection by pressing Ctrl-C.",
+                    "description": ""
+                },
+                {
+                    "headline": "Paste the foreground selection over top of the existing image.",
+                    "description": "This will create a new layer on top of your original one. Usually, this will paste the copied image directly on top of the original one, which means it might not look like anything has changed. Look at your Layers tab (usually in the bottom right-hand corner) to see if a new layer has appeared. If this \"Layers\" toolbar is not visible in Photoshop, go to Window and select in Layers the drop-down list. If necessary, use the Move tool, which looks like a cursor arrow, to drag the newly pasted foreground on top of the existing image so that they match."
+                },
+                {
+                    "headline": "Select the layer that contains the original image.",
+                    "description": "This is found in the Layers toolbar."
+                },
+                {
+                    "headline": "Go to Filter > Blur > Blur More.",
+                    "description": "This will blur the background but not the duplicated image of the subject. Repeat this Blur More command until you achieve the desired effect. In Photoshop, the Ctrl-F keyboard shortcut will repeat the last filter command. Alternately, use Gaussian Blur and play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1."
+                },
+                {
+                    "headline": "Make sure your foreground doesn\u2019t appear too sharp.",
+                    "description": "The easiest way to do this is to look at the History toolbar and undo some of your Blur More commands. Alternately, changing how your layers combine can produce nice effects. To do this:\nTry changing the newly copied foreground layer's Opacity. This is visible in the Layers toolbar. A good opacity level to start at is 50%; move up a little at a time until you find a good blend. Try changing how the layer combines with other layers by changing its property, also available in the Layers toolbar. For example, try Darken instead of Normal for an artistic sketch effect."
+                },
+                {
+                    "headline": "Use the Blur Tool to soften the edges of your in-focus foreground.",
+                    "description": "This should be on the same toolbar as the Lasso Tool. Set the blur tool's strength to somewhere around 33%. Set your brush size to a comfortable level such as a radius of 5 to 15 pixels. If you don't see a brush size option, select Brushes from the Window menu in Photoshop. Use the blur tool to touch up the outside edge of your foreground, especially where the image seems pixelated. This will help to create a sense of transition between your foreground and background that is easy on the eyes."
+                },
+                {
+                    "headline": "When you\u2019re completely satisfied, go to Layer > Flatten Image.",
+                    "description": "This will combine your various layers into one."
+                }
+            ]
+        },
+        {
+            "name": "Photoshop: Detailed Method 2",
+            "steps": [
+                {
+                    "headline": "Select Layers > Duplicate Layer.",
+                    "description": "This will stack a second, identical layer over your original image."
+                },
+                {
+                    "headline": "Select the Lasso Tool from your tool palette.",
+                    "description": "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Choose the selection type based on what is most suitable for your particular image. Ex. :\nIf the image you want to emphasize has very straight edges, right-click to change the lasso to Polygonal, which will create straight lines between the points you click. If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the lasso to Magnetic, which will find the edge for you."
+                },
+                {
+                    "headline": "Increase the feather to between 1 and 3 pixels.",
+                    "description": "Feathering your edges will make them softer and subtle \u2013 and much more forgiving."
+                },
+                {
+                    "headline": "Zoom in on your subject(s) so that you can see the edges clearly.",
+                    "description": "This will help you freehand-select more accurately."
+                },
+                {
+                    "headline": "Click or drag the Lasso tool along the edges of your subject.",
+                    "description": "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Make sure you\u2019re working on the top layer when you lasso. To add to an already-completed selection, hold down the Shift key while you continue to select. This is a great way to either modify your current selection or simultaneously select a separate subject. To subtract from an already-completed selection, hold town the Alt key and select the area you wish to remove, which will then become unselected. Don\u2019t worry about making your selection perfect the first time around; you will adjust it later."
+                },
+                {
+                    "headline": "Go to Select > Inverse.",
+                    "description": "This will select your background instead of your subject(s)."
+                },
+                {
+                    "headline": "Go to Filter > Blur > Gaussian Blur.",
+                    "description": "This will blur the background of your image. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1."
+                },
+                {
+                    "headline": "Go to Select > Inverse.",
+                    "description": "This will re-select your subject(s) instead of your background."
+                },
+                {
+                    "headline": "Go to Layer > Add Layer Mask > Hide Selection.",
+                    "description": "The subject of your photo will disappear from the top layer, revealing the intact image from the layer underneath."
+                },
+                {
+                    "headline": "Use the Brush tool to modify your selection.",
+                    "description": "It may seem like a mistake to \u201cpaint\u201d over your photo, but what you are really modifying is the size and shape of the \u201chole\u201d between your top and bottom layer. In other words, this is a way of fine-tuning that lasso selection you made originally. Use black to hide more of your top layer. For example, if the blurring overlaps your subject in places, use a black paintbrush to hide some of that top-layer blurring. Use white to show more of your top layer. For example, if the blurring isn\u2019t close enough to the edges of your subject, simply fill in the gaps with a white paintbrush. Be sure to use shades of gray. Especially for edging, it\u2019s important to keep the look soft and subtle, which will make errors harder to detect."
+                },
+                {
+                    "headline": "When you\u2019re completely satisfied, go to Layer > Flatten Image.",
+                    "description": "This will combine your various layers into one."
+                }
+            ]
+        },
+        {
+            "name": "Paint Shop Pro: Quick Method",
+            "steps": [
+                {
+                    "headline": "Select Layers > Duplicate.",
+                    "description": "This will stack a second, identical layer over your original image."
+                },
+                {
+                    "headline": "Select Adjust > Blur > Gaussian Blur.",
+                    "description": "This will blur the entire image; you\u2019ll work backwards from here. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Make sure you\u2019re working on the top layer when you add the blur."
+                },
+                {
+                    "headline": "Erase your subject(s) back into focus.",
+                    "description": "Since the original layer is still intact beneath the blurred one, using the eraser tool on your top layer will expose the clear image underneath. Select the Eraser tool from the toolbar to the left. Adjust the eraser size as you go. For larger swaths, use a large eraser; for details and edges, use a smaller, more precise eraser. Adjust the eraser opacity as you go. For large, interior areas, use a high opacity to erase as thoroughly as possible; for edges, lower the opacity to create a softer, subtle effect. Running a low-opacity eraser over the same place multiple times will have a cumulative effect, so err on the side of low opacity where necessary."
+                },
+                {
+                    "headline": "When you\u2019re completely satisfied, go to Layers > Merge > Merge All.",
+                    "description": "This will combine your various layers into one."
+                }
+            ]
+        },
+        {
+            "name": "Paint Shop Pro: Detailed Method",
+            "steps": [
+                {
+                    "headline": "Select Layers > Duplicate.",
+                    "description": "This will stack a second, identical layer over your original image."
+                },
+                {
+                    "headline": "Select the Freehand Selection tool (which looks like a lasso) from your tool palette.",
+                    "description": "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Choose the selection type based on what is most suitable for your particular image. Ex. :\nIf the image you want to emphasize has very straight edges, change the selection type to Point-to-Point, which will create straight lines between the points you click. If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the selection type to Smart Edge, which will find the edge for you."
+                },
+                {
+                    "headline": "Increase the feather to between 1 and 3 pixels.",
+                    "description": "Feathering your edges will make them softer and subtle \u2013 and much more forgiving."
+                },
+                {
+                    "headline": "Zoom in on your subject(s) so that you can see the edges clearly.",
+                    "description": "This will help you freehand-select more accurately."
+                },
+                {
+                    "headline": "Click or drag the Freehand-Select tool along the edges of your subject.",
+                    "description": "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Make sure you\u2019re working on the top layer when you freehand-select. To add to an already-completed selection, hold down the Shift key while you continue to select. This is a great way to either modify your current selection or simultaneously select a separate subject. To subtract from an already-completed selection, hold town the Control key and select the area you wish to remove, which will then become unselected. Don\u2019t worry about making your selection perfect the first time around; you will adjust it later."
+                },
+                {
+                    "headline": "Go to Select > Inverse.",
+                    "description": "This will select your background instead of your subject(s)."
+                },
+                {
+                    "headline": "Go to Image > Blur > Gaussian Blur.",
+                    "description": "This will blur the background of your image. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1."
+                },
+                {
+                    "headline": "Go to Select > Inverse.",
+                    "description": "This will re-select your subject(s) instead of your background)."
+                },
+                {
+                    "headline": "Select Masks > New > Hide Selection.",
+                    "description": "The subject of your photo will disappear from the top layer, revealing the intact image from the layer underneath."
+                },
+                {
+                    "headline": "Use the Paintbrush tool to modify your selection.",
+                    "description": "It may seem like a mistake to \u201cpaint\u201d over your photo, but what you are really modifying is the size and shape of the \u201chole\u201d between your top and bottom layer. In other words, this is a way of fine-tuning that lasso selection you made originally. Use black to hide more of your top layer. For example, if the blurring overlaps your subject in places, use a black paintbrush to hide some of that top-layer blurring. Use white to show more of your top layer. For example, if the blurring isn\u2019t close enough to the edges of your subject, simply fill in the gaps with a white paintbrush. Be sure to use shades of gray. Especially for edging, it\u2019s important to keep the look soft and subtle, which will make errors harder to detect."
+                },
+                {
+                    "headline": "When you\u2019re completely satisfied, go to Layers > Merge > Merge All.",
+                    "description": "This will combine your various layers into one."
+                }
+            ]
+        },
+        {
+            "name": "GIMP: Quick Method",
+            "steps": [
+                {
+                    "headline": "Select the Free Select tool (which looks like a lasso) from your tool palette.",
+                    "description": "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background."
+                },
+                {
+                    "headline": "Zoom in on your subject(s) so that you can see the edges clearly.",
+                    "description": "This will help you free-select more accurately."
+                },
+                {
+                    "headline": "Click or drag the Freehand-Select tool along the edges of your subject.",
+                    "description": "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges."
+                },
+                {
+                    "headline": "Go to Select > Feather to soften your selection.",
+                    "description": "A good place to start is between 1 and 3 pixels. The higher the number, the softer your edges will become."
+                },
+                {
+                    "headline": "Go to Select > Invert.",
+                    "description": "This will select your background instead of your subject."
+                },
+                {
+                    "headline": "Go to Filters > Blur > Gaussian Blur.",
+                    "description": "This will blur the background of your image. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1."
+                },
+                {
+                    "headline": "Go to Select > None to release your selection.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Adobe Photoshop, Paint Shop Pro, or GIMP",
+        "A digital image of adequate resolution",
+        "A drawing tablet is a recommended tool to make precise selections."
+    ],
+    "text": " Steps Use a graphics editing application such as Photoshop, Paint Shop Pro, or GIMP.  Open the image file. Choose an image with a good resolution to blur the background. Use Save As to begin working on a copy of the photo. Never modify your original image. Determine which areas you want to stay in focus (the foreground), and what areas you want to have blurred (the background). Set the zoom to see the entire image on your monitor; this will help you get an idea of where to make your selections. Photoshop: Quick Method Select Layers > Duplicate Layer. This will stack a second, identical layer over your original image. Select Filter > Blur > Gaussian Blur. This will blur the entire image; you\u2019ll work backwards from here. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Make sure you\u2019re working on the top layer when you add the blur. Erase your subject(s) back into focus. Since the original layer is still intact beneath the blurred one, using the eraser tool on your top layer will expose the clear image underneath. Select the Eraser tool from the toolbar to the left. Adjust the eraser size as you go. For larger swaths, use a large eraser; for details and edges, use a smaller, more precise eraser. Adjust the eraser opacity as you go. For large, interior areas, use a high opacity to erase as thoroughly as possible; for edges, lower the opacity to create a softer, subtle effect. Running a low-opacity eraser over the same place multiple times will have a cumulative effect, so err on the side of low opacity where necessary. When you\u2019re completely satisfied, go to Layer > Flatten Image. This will combine your various layers into one. Photoshop: Detailed Method 1 Select the Lasso Tool from your tool palette. You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Choose the selection type based on what is most suitable for your particular image. Ex. :\nIf the image you want to emphasize has very straight edges, right-click to change the lasso to Polygonal, which will create straight lines between the points you click. If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the lasso to Magnetic, which will find the edge for you. Increase the feather to between 1 and 3 pixels. Feathering your edges will make them softer and subtle \u2013 and much more forgiving. Zoom in on your subject(s) so that you can see the edges clearly. This will help you freehand-select more accurately. Click or drag the Lasso tool along the edges of your subject. Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Make sure you\u2019re working on the top layer when you lasso. To add to an already-completed selection, hold down the Shift key while you continue to select. This is a great way to either modify your current selection or simultaneously select a separate subject. To subtract from an already-completed selection, hold town the Alt key and select the area you wish to remove, which will then become unselected. Copy the foreground selection by pressing Ctrl-C.  Paste the foreground selection over top of the existing image. This will create a new layer on top of your original one. Usually, this will paste the copied image directly on top of the original one, which means it might not look like anything has changed. Look at your Layers tab (usually in the bottom right-hand corner) to see if a new layer has appeared. If this \"Layers\" toolbar is not visible in Photoshop, go to Window and select in Layers the drop-down list. If necessary, use the Move tool, which looks like a cursor arrow, to drag the newly pasted foreground on top of the existing image so that they match. Select the layer that contains the original image. This is found in the Layers toolbar. Go to Filter > Blur > Blur More. This will blur the background but not the duplicated image of the subject. Repeat this Blur More command until you achieve the desired effect. In Photoshop, the Ctrl-F keyboard shortcut will repeat the last filter command. Alternately, use Gaussian Blur and play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Make sure your foreground doesn\u2019t appear too sharp. The easiest way to do this is to look at the History toolbar and undo some of your Blur More commands. Alternately, changing how your layers combine can produce nice effects. To do this:\nTry changing the newly copied foreground layer's Opacity. This is visible in the Layers toolbar. A good opacity level to start at is 50%; move up a little at a time until you find a good blend. Try changing how the layer combines with other layers by changing its property, also available in the Layers toolbar. For example, try Darken instead of Normal for an artistic sketch effect. Use the Blur Tool to soften the edges of your in-focus foreground. This should be on the same toolbar as the Lasso Tool. Set the blur tool's strength to somewhere around 33%. Set your brush size to a comfortable level such as a radius of 5 to 15 pixels. If you don't see a brush size option, select Brushes from the Window menu in Photoshop. Use the blur tool to touch up the outside edge of your foreground, especially where the image seems pixelated. This will help to create a sense of transition between your foreground and background that is easy on the eyes. When you\u2019re completely satisfied, go to Layer > Flatten Image. This will combine your various layers into one. Photoshop: Detailed Method 2 Select Layers > Duplicate Layer. This will stack a second, identical layer over your original image. Select the Lasso Tool from your tool palette. You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Choose the selection type based on what is most suitable for your particular image. Ex. :\nIf the image you want to emphasize has very straight edges, right-click to change the lasso to Polygonal, which will create straight lines between the points you click. If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the lasso to Magnetic, which will find the edge for you. Increase the feather to between 1 and 3 pixels. Feathering your edges will make them softer and subtle \u2013 and much more forgiving. Zoom in on your subject(s) so that you can see the edges clearly. This will help you freehand-select more accurately. Click or drag the Lasso tool along the edges of your subject. Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Make sure you\u2019re working on the top layer when you lasso. To add to an already-completed selection, hold down the Shift key while you continue to select. This is a great way to either modify your current selection or simultaneously select a separate subject. To subtract from an already-completed selection, hold town the Alt key and select the area you wish to remove, which will then become unselected. Don\u2019t worry about making your selection perfect the first time around; you will adjust it later. Go to Select > Inverse. This will select your background instead of your subject(s). Go to Filter > Blur > Gaussian Blur. This will blur the background of your image. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Go to Select > Inverse. This will re-select your subject(s) instead of your background. Go to Layer > Add Layer Mask > Hide Selection. The subject of your photo will disappear from the top layer, revealing the intact image from the layer underneath. Use the Brush tool to modify your selection. It may seem like a mistake to \u201cpaint\u201d over your photo, but what you are really modifying is the size and shape of the \u201chole\u201d between your top and bottom layer. In other words, this is a way of fine-tuning that lasso selection you made originally. Use black to hide more of your top layer. For example, if the blurring overlaps your subject in places, use a black paintbrush to hide some of that top-layer blurring. Use white to show more of your top layer. For example, if the blurring isn\u2019t close enough to the edges of your subject, simply fill in the gaps with a white paintbrush. Be sure to use shades of gray. Especially for edging, it\u2019s important to keep the look soft and subtle, which will make errors harder to detect. When you\u2019re completely satisfied, go to Layer > Flatten Image. This will combine your various layers into one. Paint Shop Pro: Quick Method Select Layers > Duplicate. This will stack a second, identical layer over your original image. Select Adjust > Blur > Gaussian Blur. This will blur the entire image; you\u2019ll work backwards from here. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Make sure you\u2019re working on the top layer when you add the blur. Erase your subject(s) back into focus. Since the original layer is still intact beneath the blurred one, using the eraser tool on your top layer will expose the clear image underneath. Select the Eraser tool from the toolbar to the left. Adjust the eraser size as you go. For larger swaths, use a large eraser; for details and edges, use a smaller, more precise eraser. Adjust the eraser opacity as you go. For large, interior areas, use a high opacity to erase as thoroughly as possible; for edges, lower the opacity to create a softer, subtle effect. Running a low-opacity eraser over the same place multiple times will have a cumulative effect, so err on the side of low opacity where necessary. When you\u2019re completely satisfied, go to Layers > Merge > Merge All. This will combine your various layers into one. Paint Shop Pro: Detailed Method Select Layers > Duplicate. This will stack a second, identical layer over your original image. Select the Freehand Selection tool (which looks like a lasso) from your tool palette. You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Choose the selection type based on what is most suitable for your particular image. Ex. :\nIf the image you want to emphasize has very straight edges, change the selection type to Point-to-Point, which will create straight lines between the points you click. If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the selection type to Smart Edge, which will find the edge for you. Increase the feather to between 1 and 3 pixels. Feathering your edges will make them softer and subtle \u2013 and much more forgiving. Zoom in on your subject(s) so that you can see the edges clearly. This will help you freehand-select more accurately. Click or drag the Freehand-Select tool along the edges of your subject. Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Make sure you\u2019re working on the top layer when you freehand-select. To add to an already-completed selection, hold down the Shift key while you continue to select. This is a great way to either modify your current selection or simultaneously select a separate subject. To subtract from an already-completed selection, hold town the Control key and select the area you wish to remove, which will then become unselected. Don\u2019t worry about making your selection perfect the first time around; you will adjust it later. Go to Select > Inverse. This will select your background instead of your subject(s). Go to Image > Blur > Gaussian Blur. This will blur the background of your image. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Go to Select > Inverse. This will re-select your subject(s) instead of your background). Select Masks > New > Hide Selection. The subject of your photo will disappear from the top layer, revealing the intact image from the layer underneath. Use the Paintbrush tool to modify your selection. It may seem like a mistake to \u201cpaint\u201d over your photo, but what you are really modifying is the size and shape of the \u201chole\u201d between your top and bottom layer. In other words, this is a way of fine-tuning that lasso selection you made originally. Use black to hide more of your top layer. For example, if the blurring overlaps your subject in places, use a black paintbrush to hide some of that top-layer blurring. Use white to show more of your top layer. For example, if the blurring isn\u2019t close enough to the edges of your subject, simply fill in the gaps with a white paintbrush. Be sure to use shades of gray. Especially for edging, it\u2019s important to keep the look soft and subtle, which will make errors harder to detect. When you\u2019re completely satisfied, go to Layers > Merge > Merge All. This will combine your various layers into one. GIMP: Quick Method Select the Free Select tool (which looks like a lasso) from your tool palette. You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background. Zoom in on your subject(s) so that you can see the edges clearly. This will help you free-select more accurately. Click or drag the Freehand-Select tool along the edges of your subject. Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point. You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges. Go to Select > Feather to soften your selection. A good place to start is between 1 and 3 pixels. The higher the number, the softer your edges will become. Go to Select > Invert. This will select your background instead of your subject. Go to Filters > Blur > Gaussian Blur. This will blur the background of your image. Play around with different blur radii to create the background effect you want. The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low. For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10. If you want your background just barely blurred, use a radius of .5 or 1. Go to Select > None to release your selection. ",
+    "sentences": [
+        " Steps Use a graphics editing application such as Photoshop, Paint Shop Pro, or GIMP.",
+        "Open the image file.",
+        "Choose an image with a good resolution to blur the background.",
+        "Use Save As to begin working on a copy of the photo.",
+        "Never modify your original image.",
+        "Determine which areas you want to stay in focus (the foreground), and what areas you want to have blurred (the background).",
+        "Set the zoom to see the entire image on your monitor; this will help you get an idea of where to make your selections.",
+        "Photoshop: Quick Method Select Layers > Duplicate Layer.",
+        "This will stack a second, identical layer over your original image.",
+        "Select Filter > Blur > Gaussian Blur.",
+        "This will blur the entire image; you\u2019ll work backwards from here.",
+        "Play around with different blur radii to create the background effect you want.",
+        "The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low.",
+        "For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10.",
+        "If you want your background just barely blurred, use a radius of .5 or 1.",
+        "Make sure you\u2019re working on the top layer when you add the blur.",
+        "Erase your subject(s) back into focus.",
+        "Since the original layer is still intact beneath the blurred one, using the eraser tool on your top layer will expose the clear image underneath.",
+        "Select the Eraser tool from the toolbar to the left.",
+        "Adjust the eraser size as you go.",
+        "For larger swaths, use a large eraser; for details and edges, use a smaller, more precise eraser.",
+        "Adjust the eraser opacity as you go.",
+        "For large, interior areas, use a high opacity to erase as thoroughly as possible; for edges, lower the opacity to create a softer, subtle effect.",
+        "Running a low-opacity eraser over the same place multiple times will have a cumulative effect, so err on the side of low opacity where necessary.",
+        "When you\u2019re completely satisfied, go to Layer > Flatten Image.",
+        "This will combine your various layers into one.",
+        "Photoshop: Detailed Method 1 Select the Lasso Tool from your tool palette.",
+        "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background.",
+        "Choose the selection type based on what is most suitable for your particular image.",
+        "Ex.",
+        ":\nIf the image you want to emphasize has very straight edges, right-click to change the lasso to Polygonal, which will create straight lines between the points you click.",
+        "If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the lasso to Magnetic, which will find the edge for you.",
+        "Increase the feather to between 1 and 3 pixels.",
+        "Feathering your edges will make them softer and subtle \u2013 and much more forgiving.",
+        "Zoom in on your subject(s) so that you can see the edges clearly.",
+        "This will help you freehand-select more accurately.",
+        "Click or drag the Lasso tool along the edges of your subject.",
+        "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point.",
+        "You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges.",
+        "Make sure you\u2019re working on the top layer when you lasso.",
+        "To add to an already-completed selection, hold down the Shift key while you continue to select.",
+        "This is a great way to either modify your current selection or simultaneously select a separate subject.",
+        "To subtract from an already-completed selection, hold town the Alt key and select the area you wish to remove, which will then become unselected.",
+        "Copy the foreground selection by pressing Ctrl-C.",
+        "Paste the foreground selection over top of the existing image.",
+        "This will create a new layer on top of your original one.",
+        "Usually, this will paste the copied image directly on top of the original one, which means it might not look like anything has changed.",
+        "Look at your Layers tab (usually in the bottom right-hand corner) to see if a new layer has appeared.",
+        "If this \"Layers\" toolbar is not visible in Photoshop, go to Window and select in Layers the drop-down list.",
+        "If necessary, use the Move tool, which looks like a cursor arrow, to drag the newly pasted foreground on top of the existing image so that they match.",
+        "Select the layer that contains the original image.",
+        "This is found in the Layers toolbar.",
+        "Go to Filter > Blur > Blur More.",
+        "This will blur the background but not the duplicated image of the subject.",
+        "Repeat this Blur More command until you achieve the desired effect.",
+        "In Photoshop, the Ctrl-F keyboard shortcut will repeat the last filter command.",
+        "Alternately, use Gaussian Blur and play around with different blur radii to create the background effect you want.",
+        "The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low.",
+        "For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10.",
+        "If you want your background just barely blurred, use a radius of .5 or 1.",
+        "Make sure your foreground doesn\u2019t appear too sharp.",
+        "The easiest way to do this is to look at the History toolbar and undo some of your Blur More commands.",
+        "Alternately, changing how your layers combine can produce nice effects.",
+        "To do this:\nTry changing the newly copied foreground layer's Opacity.",
+        "This is visible in the Layers toolbar.",
+        "A good opacity level to start at is 50%; move up a little at a time until you find a good blend.",
+        "Try changing how the layer combines with other layers by changing its property, also available in the Layers toolbar.",
+        "For example, try Darken instead of Normal for an artistic sketch effect.",
+        "Use the Blur Tool to soften the edges of your in-focus foreground.",
+        "This should be on the same toolbar as the Lasso Tool.",
+        "Set the blur tool's strength to somewhere around 33%.",
+        "Set your brush size to a comfortable level such as a radius of 5 to 15 pixels.",
+        "If you don't see a brush size option, select Brushes from the Window menu in Photoshop.",
+        "Use the blur tool to touch up the outside edge of your foreground, especially where the image seems pixelated.",
+        "This will help to create a sense of transition between your foreground and background that is easy on the eyes.",
+        "When you\u2019re completely satisfied, go to Layer > Flatten Image.",
+        "This will combine your various layers into one.",
+        "Photoshop: Detailed Method 2 Select Layers > Duplicate Layer.",
+        "This will stack a second, identical layer over your original image.",
+        "Select the Lasso Tool from your tool palette.",
+        "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background.",
+        "Choose the selection type based on what is most suitable for your particular image.",
+        "Ex.",
+        ":\nIf the image you want to emphasize has very straight edges, right-click to change the lasso to Polygonal, which will create straight lines between the points you click.",
+        "If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the lasso to Magnetic, which will find the edge for you.",
+        "Increase the feather to between 1 and 3 pixels.",
+        "Feathering your edges will make them softer and subtle \u2013 and much more forgiving.",
+        "Zoom in on your subject(s) so that you can see the edges clearly.",
+        "This will help you freehand-select more accurately.",
+        "Click or drag the Lasso tool along the edges of your subject.",
+        "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point.",
+        "You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges.",
+        "Make sure you\u2019re working on the top layer when you lasso.",
+        "To add to an already-completed selection, hold down the Shift key while you continue to select.",
+        "This is a great way to either modify your current selection or simultaneously select a separate subject.",
+        "To subtract from an already-completed selection, hold town the Alt key and select the area you wish to remove, which will then become unselected.",
+        "Don\u2019t worry about making your selection perfect the first time around; you will adjust it later.",
+        "Go to Select > Inverse.",
+        "This will select your background instead of your subject(s).",
+        "Go to Filter > Blur > Gaussian Blur.",
+        "This will blur the background of your image.",
+        "Play around with different blur radii to create the background effect you want.",
+        "The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low.",
+        "For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10.",
+        "If you want your background just barely blurred, use a radius of .5 or 1.",
+        "Go to Select > Inverse.",
+        "This will re-select your subject(s) instead of your background.",
+        "Go to Layer > Add Layer Mask > Hide Selection.",
+        "The subject of your photo will disappear from the top layer, revealing the intact image from the layer underneath.",
+        "Use the Brush tool to modify your selection.",
+        "It may seem like a mistake to \u201cpaint\u201d over your photo, but what you are really modifying is the size and shape of the \u201chole\u201d between your top and bottom layer.",
+        "In other words, this is a way of fine-tuning that lasso selection you made originally.",
+        "Use black to hide more of your top layer.",
+        "For example, if the blurring overlaps your subject in places, use a black paintbrush to hide some of that top-layer blurring.",
+        "Use white to show more of your top layer.",
+        "For example, if the blurring isn\u2019t close enough to the edges of your subject, simply fill in the gaps with a white paintbrush.",
+        "Be sure to use shades of gray.",
+        "Especially for edging, it\u2019s important to keep the look soft and subtle, which will make errors harder to detect.",
+        "When you\u2019re completely satisfied, go to Layer > Flatten Image.",
+        "This will combine your various layers into one.",
+        "Paint Shop Pro: Quick Method Select Layers > Duplicate.",
+        "This will stack a second, identical layer over your original image.",
+        "Select Adjust > Blur > Gaussian Blur.",
+        "This will blur the entire image; you\u2019ll work backwards from here.",
+        "Play around with different blur radii to create the background effect you want.",
+        "The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low.",
+        "For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10.",
+        "If you want your background just barely blurred, use a radius of .5 or 1.",
+        "Make sure you\u2019re working on the top layer when you add the blur.",
+        "Erase your subject(s) back into focus.",
+        "Since the original layer is still intact beneath the blurred one, using the eraser tool on your top layer will expose the clear image underneath.",
+        "Select the Eraser tool from the toolbar to the left.",
+        "Adjust the eraser size as you go.",
+        "For larger swaths, use a large eraser; for details and edges, use a smaller, more precise eraser.",
+        "Adjust the eraser opacity as you go.",
+        "For large, interior areas, use a high opacity to erase as thoroughly as possible; for edges, lower the opacity to create a softer, subtle effect.",
+        "Running a low-opacity eraser over the same place multiple times will have a cumulative effect, so err on the side of low opacity where necessary.",
+        "When you\u2019re completely satisfied, go to Layers > Merge > Merge All.",
+        "This will combine your various layers into one.",
+        "Paint Shop Pro: Detailed Method Select Layers > Duplicate.",
+        "This will stack a second, identical layer over your original image.",
+        "Select the Freehand Selection tool (which looks like a lasso) from your tool palette.",
+        "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background.",
+        "Choose the selection type based on what is most suitable for your particular image.",
+        "Ex.",
+        ":\nIf the image you want to emphasize has very straight edges, change the selection type to Point-to-Point, which will create straight lines between the points you click.",
+        "If there\u2019s a sharp, clear edge between the background and the image you want to emphasize, change the selection type to Smart Edge, which will find the edge for you.",
+        "Increase the feather to between 1 and 3 pixels.",
+        "Feathering your edges will make them softer and subtle \u2013 and much more forgiving.",
+        "Zoom in on your subject(s) so that you can see the edges clearly.",
+        "This will help you freehand-select more accurately.",
+        "Click or drag the Freehand-Select tool along the edges of your subject.",
+        "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point.",
+        "You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges.",
+        "Make sure you\u2019re working on the top layer when you freehand-select.",
+        "To add to an already-completed selection, hold down the Shift key while you continue to select.",
+        "This is a great way to either modify your current selection or simultaneously select a separate subject.",
+        "To subtract from an already-completed selection, hold town the Control key and select the area you wish to remove, which will then become unselected.",
+        "Don\u2019t worry about making your selection perfect the first time around; you will adjust it later.",
+        "Go to Select > Inverse.",
+        "This will select your background instead of your subject(s).",
+        "Go to Image > Blur > Gaussian Blur.",
+        "This will blur the background of your image.",
+        "Play around with different blur radii to create the background effect you want.",
+        "The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low.",
+        "For example, if you  want the background to be very soft and only somewhat identifiable, try a radius of 10.",
+        "If you want your background just barely blurred, use a radius of .5 or 1.",
+        "Go to Select > Inverse.",
+        "This will re-select your subject(s) instead of your background).",
+        "Select Masks > New > Hide Selection.",
+        "The subject of your photo will disappear from the top layer, revealing the intact image from the layer underneath.",
+        "Use the Paintbrush tool to modify your selection.",
+        "It may seem like a mistake to \u201cpaint\u201d over your photo, but what you are really modifying is the size and shape of the \u201chole\u201d between your top and bottom layer.",
+        "In other words, this is a way of fine-tuning that lasso selection you made originally.",
+        "Use black to hide more of your top layer.",
+        "For example, if the blurring overlaps your subject in places, use a black paintbrush to hide some of that top-layer blurring.",
+        "Use white to show more of your top layer.",
+        "For example, if the blurring isn\u2019t close enough to the edges of your subject, simply fill in the gaps with a white paintbrush.",
+        "Be sure to use shades of gray.",
+        "Especially for edging, it\u2019s important to keep the look soft and subtle, which will make errors harder to detect.",
+        "When you\u2019re completely satisfied, go to Layers > Merge > Merge All.",
+        "This will combine your various layers into one.",
+        "GIMP: Quick Method Select the Free Select tool (which looks like a lasso) from your tool palette.",
+        "You\u2019ll use this to select the image(s) in the photo that you want to distinguish from your blurred background.",
+        "Zoom in on your subject(s) so that you can see the edges clearly.",
+        "This will help you free-select more accurately.",
+        "Click or drag the Freehand-Select tool along the edges of your subject.",
+        "Be sure to \u201cclose the circle\u201d by ending up back where you started and clicking on your origin point.",
+        "You\u2019ll know your selection is complete once a dotted \u201cmarquee\u201d line appears around the edges.",
+        "Go to Select > Feather to soften your selection.",
+        "A good place to start is between 1 and 3 pixels.",
+        "The higher the number, the softer your edges will become.",
+        "Go to Select > Invert.",
+        "This will select your background instead of your subject.",
+        "Go to Filters > Blur > Gaussian Blur.",
+        "This will blur the background of your image.",
+        "Play around with different blur radii to create the background effect you want.",
+        "The larger the radius, the blurrier the image, so if you\u2019re going for a subtle effect, aim low.",
+        "For example, if you want the background to be very soft and only somewhat identifiable, try a radius of 10.",
+        "If you want your background just barely blurred, use a radius of .5 or 1.",
+        "Go to Select > None to release your selection."
+    ]
+}

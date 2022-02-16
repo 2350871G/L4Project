@@ -1,0 +1,70 @@
+{
+    "title": "How to Create a Forum",
+    "url": "https://www.wikihow.com/Create-a-Forum",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Internet",
+        "Online Communications",
+        "Internet Forums and Message Boards"
+    ],
+    "steps": [
+        {
+            "headline": "Register a domain at a host who supports PHP.",
+            "description": "Many services provide a place to host your BBS, and generally offer guaranteed uptime, easy setup, domain names, and customer support. Many forum hosting providers now include a service that automates forum installation of 2 of the more popular forum software applications, SimpleMachines and phpBB (if so, follow your hosts instructions to install and then skip to the login portion of the instructions below)."
+        },
+        {
+            "headline": "Download forum software.",
+            "description": "Consider free open source software that's very well supported, both in terms of development and community support."
+        },
+        {
+            "headline": "Download an FTP client.",
+            "description": "You will need this to upload your PHP content to your host."
+        },
+        {
+            "headline": "Create a MySQL database.",
+            "description": "Set this up on your host through the control panel of your domain."
+        },
+        {
+            "headline": "Set up your forums.",
+            "description": "Go to example.com/forumdirectory/install.php to install and configure your forums."
+        },
+        {
+            "headline": "If you are using phpBB: In your FTP client, go to config.php > Properties and set the CHMOD settings to 666.",
+            "description": "Follow the instructions on install.php. After finishing installation, go to the CHMOD settings of config.php and change them to 644 (if you are using phpBB 2)."
+        },
+        {
+            "headline": "Clean up time.",
+            "description": "Delete the install and contrib directories."
+        },
+        {
+            "headline": "Login and Customize",
+            "description": "Go to example.com/forumdirectory/index.php. Login and go to the admin panel to customize your forum."
+        }
+    ],
+    "tyn": [
+        "A host that supports PHP",
+        "An FTP client",
+        "Knowledge of how to CHMOD."
+    ],
+    "text": " Register a domain at a host who supports PHP. Many services provide a place to host your BBS, and generally offer guaranteed uptime, easy setup, domain names, and customer support. Many forum hosting providers now include a service that automates forum installation of 2 of the more popular forum software applications, SimpleMachines and phpBB (if so, follow your hosts instructions to install and then skip to the login portion of the instructions below). Download forum software. Consider free open source software that's very well supported, both in terms of development and community support. Download an FTP client. You will need this to upload your PHP content to your host. Create a MySQL database. Set this up on your host through the control panel of your domain. Set up your forums. Go to example.com/forumdirectory/install.php to install and configure your forums. If you are using phpBB: In your FTP client, go to config.php > Properties and set the CHMOD settings to 666. Follow the instructions on install.php. After finishing installation, go to the CHMOD settings of config.php and change them to 644 (if you are using phpBB 2). Clean up time. Delete the install and contrib directories. Login and Customize Go to example.com/forumdirectory/index.php. Login and go to the admin panel to customize your forum.",
+    "sentences": [
+        " Register a domain at a host who supports PHP.",
+        "Many services provide a place to host your BBS, and generally offer guaranteed uptime, easy setup, domain names, and customer support.",
+        "Many forum hosting providers now include a service that automates forum installation of 2 of the more popular forum software applications, SimpleMachines and phpBB (if so, follow your hosts instructions to install and then skip to the login portion of the instructions below).",
+        "Download forum software.",
+        "Consider free open source software that's very well supported, both in terms of development and community support.",
+        "Download an FTP client.",
+        "You will need this to upload your PHP content to your host.",
+        "Create a MySQL database.",
+        "Set this up on your host through the control panel of your domain.",
+        "Set up your forums.",
+        "Go to example.com/forumdirectory/install.php to install and configure your forums.",
+        "If you are using phpBB: In your FTP client, go to config.php > Properties and set the CHMOD settings to 666.",
+        "Follow the instructions on install.php.",
+        "After finishing installation, go to the CHMOD settings of config.php and change them to 644 (if you are using phpBB 2).",
+        "Clean up time.",
+        "Delete the install and contrib directories.",
+        "Login and Customize Go to example.com/forumdirectory/index.php.",
+        "Login and go to the admin panel to customize your forum."
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "How to Use the Compositor in Blender",
+    "url": "https://www.wikihow.com/Use-the-Compositor-in-Blender",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Graphics",
+        "3D Graphics Software",
+        "Blender"
+    ],
+    "steps": [
+        {
+            "headline": "Get the node editor up.",
+            "description": "Click on the window type menu, located on the bottom left corner. Select the node editor."
+        },
+        {
+            "headline": "Change to composite nodes.",
+            "description": "On the bottom of the node editor, there will be a button with a portrait. That is for turning the editor so it will control the render image. Click on it. Click 'Use Nodes'"
+        },
+        {
+            "headline": "You will see two boxes: 'Render Layer' and 'Composite'.",
+            "description": "The boxes are called 'nodes'. You can resize them, close them, make them smaller, or cut line apart (unplug each other), by dragging a box. Unplug the nodes."
+        },
+        {
+            "headline": "Press space and add a node.",
+            "description": ""
+        },
+        {
+            "headline": "Connect the Render Layers button to the node you just added and that to the Composite node.",
+            "description": ""
+        },
+        {
+            "headline": "Drag from the 'image' yellow circle on the Render Layers to the 'image' circle of the node, same with the node to the Composite.",
+            "description": "It will not work if you plug them to wrong ones (usually). {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Use-the-Compositor-in-Blender-Step-6.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Use-the-Compositor-in-Blender-Step-6.png\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Make a simple scene, and render.",
+            "description": "You may notice something in the rendered image. Look at the nodes. Your image passed through the Render Layers node, through node(s) and into the Composite node. Andrew Price from Blender Guru ([1]) Describes compositing as a food factory. The rendered image will come from the render layers node, get processed in nodes and come out at the Composite node. Things can get added to the food, things can get taken out, or changed. The other circles one the nodes that say, for example, alpha or size, are self-explanatory. They dynamically control settings."
+        },
+        {
+            "headline": "Add more nodes, and change the settings in them.",
+            "description": "Some of them, like Blur will be easy to use, others, like Glare will be hard to use. Just keep experimenting."
+        },
+        {
+            "headline": "Organize.",
+            "description": "Your editor will start getting crowded."
+        }
+    ],
+    "tyn": [
+        "Blender (software)"
+    ],
+    "text": " Get the node editor up. Click on the window type menu, located on the bottom left corner. Select the node editor. Change to composite nodes. On the bottom of the node editor, there will be a button with a portrait. That is for turning the editor so it will control the render image. Click on it. Click 'Use Nodes' You will see two boxes: 'Render Layer' and 'Composite'. The boxes are called 'nodes'. You can resize them, close them, make them smaller, or cut line apart (unplug each other), by dragging a box. Unplug the nodes. Press space and add a node.  Connect the Render Layers button to the node you just added and that to the Composite node.  Drag from the 'image' yellow circle on the Render Layers to the 'image' circle of the node, same with the node to the Composite. It will not work if you plug them to wrong ones (usually). {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Use-the-Compositor-in-Blender-Step-6.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Use-the-Compositor-in-Blender-Step-6.png\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Make a simple scene, and render. You may notice something in the rendered image. Look at the nodes. Your image passed through the Render Layers node, through node(s) and into the Composite node. Andrew Price from Blender Guru ([1]) Describes compositing as a food factory. The rendered image will come from the render layers node, get processed in nodes and come out at the Composite node. Things can get added to the food, things can get taken out, or changed. The other circles one the nodes that say, for example, alpha or size, are self-explanatory. They dynamically control settings. Add more nodes, and change the settings in them. Some of them, like Blur will be easy to use, others, like Glare will be hard to use. Just keep experimenting. Organize. Your editor will start getting crowded.",
+    "sentences": [
+        " Get the node editor up.",
+        "Click on the window type menu, located on the bottom left corner.",
+        "Select the node editor.",
+        "Change to composite nodes.",
+        "On the bottom of the node editor, there will be a button with a portrait.",
+        "That is for turning the editor so it will control the render image.",
+        "Click on it.",
+        "Click 'Use Nodes' You will see two boxes: 'Render Layer' and 'Composite'.",
+        "The boxes are called 'nodes'.",
+        "You can resize them, close them, make them smaller, or cut line apart (unplug each other), by dragging a box.",
+        "Unplug the nodes.",
+        "Press space and add a node.",
+        "Connect the Render Layers button to the node you just added and that to the Composite node.",
+        "Drag from the 'image' yellow circle on the Render Layers to the 'image' circle of the node, same with the node to the Composite.",
+        "It will not work if you plug them to wrong ones (usually).",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Use-the-Compositor-in-Blender-Step-6.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Use-the-Compositor-in-Blender-Step-6.png\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Make a simple scene, and render.",
+        "You may notice something in the rendered image.",
+        "Look at the nodes.",
+        "Your image passed through the Render Layers node, through node(s) and into the Composite node.",
+        "Andrew Price from Blender Guru ([1]) Describes compositing as a food factory.",
+        "The rendered image will come from the render layers node, get processed in nodes and come out at the Composite node.",
+        "Things can get added to the food, things can get taken out, or changed.",
+        "The other circles one the nodes that say, for example, alpha or size, are self-explanatory.",
+        "They dynamically control settings.",
+        "Add more nodes, and change the settings in them.",
+        "Some of them, like Blur will be easy to use, others, like Glare will be hard to use.",
+        "Just keep experimenting.",
+        "Organize.",
+        "Your editor will start getting crowded."
+    ]
+}

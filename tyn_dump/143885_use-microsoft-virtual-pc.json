@@ -1,0 +1,111 @@
+{
+    "title": "How to Use Microsoft Virtual PC",
+    "url": "https://www.wikihow.com/Use-Microsoft-Virtual-PC",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows"
+    ],
+    "steps": [
+        {
+            "headline": "Download Microsoft Virtual PC off Microsoft's website[1].",
+            "description": ""
+        },
+        {
+            "headline": "Install the program.",
+            "description": "Note: You must be running Windows XP or higher. However, the program still may possibly run on older systems."
+        },
+        {
+            "headline": "Once you start the program, it should ask you to make a virtual machine.",
+            "description": "If not, click the \"New...\" button."
+        },
+        {
+            "headline": "Click the Create A Virtual Machine Button and click next.",
+            "description": ""
+        },
+        {
+            "headline": "Type a name for the machine (for example, the operating system you are going to install).",
+            "description": "Click next."
+        },
+        {
+            "headline": "Select the operating system you are going to install.",
+            "description": "(This sets up the recommended specs for your virtual machine) If the operating system you are going to install is not there, click \"Other\"."
+        },
+        {
+            "headline": "Depending on the operating system you are using, you may want to adjust the amount of RAM it will use.",
+            "description": "Remember: Don't choose more RAM than your real computer has. The main operating system is still running too. For example, if you have 1 GB (1024 MB) of real RAM, you may want the virtual RAM to be 256 MB. And also, some older operating systems don't support RAM over 512 MB. So it's just a waste to have more than what that operating system supports."
+        },
+        {
+            "headline": "Click \"A New Virtual Hard Disk\" and click next.",
+            "description": "Now you get to choose where to put the Virtual Hard Disk. Usually the default is fine. Also set the size of your hard drive in megabytes (1024 Megabytes = 1 Gigabyte)."
+        },
+        {
+            "headline": "Finish the wizard.",
+            "description": "You should see something new in the Virtual PC Console box. It should have your virtual PC."
+        },
+        {
+            "headline": "Click on it and click \"Start\".",
+            "description": "You should see a bunch of lines of text, similar to the lines you see when you first start your computer."
+        },
+        {
+            "headline": "Insert the install disk for your operating system.",
+            "description": ""
+        },
+        {
+            "headline": "Follow the directions on the install disk for your operating system.",
+            "description": "(If you get bored while it's installing, and you can't move the mouse out of the windows, hold the right Alt key and drag it out of the operating system's box. Or do the right Alt key and press Enter . The install will keep proceeding as normal.)"
+        },
+        {
+            "headline": "If done properly, the install should go smoothly.",
+            "description": "If it asks you to restart the computer, hold the right Alt key and press R. When the virtual system asks to restart, just restart the virtual system, not the real computer. The system should boot just as you were using it as a real computer."
+        },
+        {
+            "headline": "Congratulations.",
+            "description": "You set up your first virtual system. What you do next is completely up to you."
+        }
+    ],
+    "tyn": [
+        "Windows XP or higher for the host operating system.",
+        "Operating system install disk/s for the operating system/s that you want to virtualize\u00a0."
+    ],
+    "text": " Download Microsoft Virtual PC off Microsoft's website[1].  Install the program. Note: You must be running Windows XP or higher. However, the program still may possibly run on older systems. Once you start the program, it should ask you to make a virtual machine. If not, click the \"New...\" button. Click the Create A Virtual Machine Button and click next.  Type a name for the machine (for example, the operating system you are going to install). Click next. Select the operating system you are going to install. (This sets up the recommended specs for your virtual machine) If the operating system you are going to install is not there, click \"Other\". Depending on the operating system you are using, you may want to adjust the amount of RAM it will use. Remember: Don't choose more RAM than your real computer has. The main operating system is still running too. For example, if you have 1 GB (1024 MB) of real RAM, you may want the virtual RAM to be 256 MB. And also, some older operating systems don't support RAM over 512 MB. So it's just a waste to have more than what that operating system supports. Click \"A New Virtual Hard Disk\" and click next. Now you get to choose where to put the Virtual Hard Disk. Usually the default is fine. Also set the size of your hard drive in megabytes (1024 Megabytes = 1 Gigabyte). Finish the wizard. You should see something new in the Virtual PC Console box. It should have your virtual PC. Click on it and click \"Start\". You should see a bunch of lines of text, similar to the lines you see when you first start your computer. Insert the install disk for your operating system.  Follow the directions on the install disk for your operating system. (If you get bored while it's installing, and you can't move the mouse out of the windows, hold the right Alt key and drag it out of the operating system's box. Or do the right Alt key and press Enter . The install will keep proceeding as normal.) If done properly, the install should go smoothly. If it asks you to restart the computer, hold the right Alt key and press R. When the virtual system asks to restart, just restart the virtual system, not the real computer. The system should boot just as you were using it as a real computer. Congratulations. You set up your first virtual system. What you do next is completely up to you.",
+    "sentences": [
+        " Download Microsoft Virtual PC off Microsoft's website[1].",
+        "Install the program.",
+        "Note: You must be running Windows XP or higher.",
+        "However, the program still may possibly run on older systems.",
+        "Once you start the program, it should ask you to make a virtual machine.",
+        "If not, click the \"New...\" button.",
+        "Click the Create A Virtual Machine Button and click next.",
+        "Type a name for the machine (for example, the operating system you are going to install).",
+        "Click next.",
+        "Select the operating system you are going to install.",
+        "(This sets up the recommended specs for your virtual machine) If the operating system you are going to install is not there, click \"Other\".",
+        "Depending on the operating system you are using, you may want to adjust the amount of RAM it will use.",
+        "Remember: Don't choose more RAM than your real computer has.",
+        "The main operating system is still running too.",
+        "For example, if you have 1 GB (1024 MB) of real RAM, you may want the virtual RAM to be 256 MB.",
+        "And also, some older operating systems don't support RAM over 512 MB.",
+        "So it's just a waste to have more than what that operating system supports.",
+        "Click \"A New Virtual Hard Disk\" and click next.",
+        "Now you get to choose where to put the Virtual Hard Disk.",
+        "Usually the default is fine.",
+        "Also set the size of your hard drive in megabytes (1024 Megabytes = 1 Gigabyte).",
+        "Finish the wizard.",
+        "You should see something new in the Virtual PC Console box.",
+        "It should have your virtual PC.",
+        "Click on it and click \"Start\".",
+        "You should see a bunch of lines of text, similar to the lines you see when you first start your computer.",
+        "Insert the install disk for your operating system.",
+        "Follow the directions on the install disk for your operating system.",
+        "(If you get bored while it's installing, and you can't move the mouse out of the windows, hold the right Alt key and drag it out of the operating system's box.",
+        "Or do the right Alt key and press Enter .",
+        "The install will keep proceeding as normal.)",
+        "If done properly, the install should go smoothly.",
+        "If it asks you to restart the computer, hold the right Alt key and press R. When the virtual system asks to restart, just restart the virtual system, not the real computer.",
+        "The system should boot just as you were using it as a real computer.",
+        "Congratulations.",
+        "You set up your first virtual system.",
+        "What you do next is completely up to you."
+    ]
+}

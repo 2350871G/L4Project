@@ -1,0 +1,64 @@
+{
+    "title": "How to Use the Fdisk Tool and the Format Tool to Partition a Hard Drive",
+    "url": "https://www.wikihow.com/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computers",
+        "Computer Hardware"
+    ],
+    "steps": [
+        {
+            "headline": "Insert your boot diskette and turn on your pc.",
+            "description": ""
+        },
+        {
+            "headline": "At the a: prompt type fdisk then hit enter.",
+            "description": ""
+        },
+        {
+            "headline": "Click yes you want to use large disk support.",
+            "description": ""
+        },
+        {
+            "headline": "To Delete the existing partition, Type 3 and press Enter.",
+            "description": "Select your partition type you want to delete (Primary/Extended/Logical/Non-Dos){\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/98\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/98\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nSelect shown partition by typing the displayed number of partition and press Enter for confirmation for deleting partition. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "To re-create a new partition, Type 1 and press Enter.",
+            "description": "Select what type of partition you want to create and type related value and press Enter for creating new partition. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Restart your pc.",
+            "description": ""
+        },
+        {
+            "headline": "At the a: prompt type fdisk/mbr ( that fdisk your master boot record.",
+            "description": ""
+        },
+        {
+            "headline": "When done, restart PC.",
+            "description": ""
+        },
+        {
+            "headline": "At the a: prompt type format c:/s/u and yes you want to erase all data so type \"y\" when prompted...",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "1 boot disk"
+    ],
+    "text": " Insert your boot diskette and turn on your pc.  At the a: prompt type fdisk then hit enter.  Click yes you want to use large disk support.  To Delete the existing partition, Type 3 and press Enter. Select your partition type you want to delete (Primary/Extended/Logical/Non-Dos){\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/98\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/98\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nSelect shown partition by typing the displayed number of partition and press Enter for confirmation for deleting partition. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} To re-create a new partition, Type 1 and press Enter. Select what type of partition you want to create and type related value and press Enter for creating new partition. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Restart your pc.  At the a: prompt type fdisk/mbr ( that fdisk your master boot record.  When done, restart PC.  At the a: prompt type format c:/s/u and yes you want to erase all data so type \"y\" when prompted... ",
+    "sentences": [
+        " Insert your boot diskette and turn on your pc.",
+        "At the a: prompt type fdisk then hit enter.",
+        "Click yes you want to use large disk support.",
+        "To Delete the existing partition, Type 3 and press Enter.",
+        "Select your partition type you want to delete (Primary/Extended/Logical/Non-Dos){\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/98\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/98\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nSelect shown partition by typing the displayed number of partition and press Enter for confirmation for deleting partition.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-4Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} To re-create a new partition, Type 1 and press Enter.",
+        "Select what type of partition you want to create and type related value and press Enter for creating new partition.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\\/v4-460px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\\/v4-760px-Use-the-Fdisk-Tool-and-the-Format-Tool-to-Partition-a-Hard-Drive-Step-5Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Restart your pc.",
+        "At the a: prompt type fdisk/mbr ( that fdisk your master boot record.",
+        "When done, restart PC.",
+        "At the a: prompt type format c:/s/u and yes you want to erase all data so type \"y\" when prompted..."
+    ]
+}

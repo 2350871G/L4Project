@@ -1,0 +1,196 @@
+{
+    "title": "How to Make a Computer Game for Free",
+    "url": "https://www.wikihow.com/Make-a-Computer-Game-for-Free",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Games",
+        "Creating Games"
+    ],
+    "methods": [
+        {
+            "name": "Planning Phase",
+            "steps": [
+                {
+                    "headline": "Formulate and create a plan of work for your project.",
+                    "description": "This step is usually neglected by most people who are seeking to create a new game, programmers and non-programmers alike. However, it is also one of the major reasons for most of the failed first trials. This mainly includes deciding how much time and resources will be dedicated to each task within the project and the relationship between these tasks. The processes themselves need to be identified first of course. Read further on this article to identify the different tasks that you will eventually need to perform."
+                },
+                {
+                    "headline": "Decide the genre of your game.",
+                    "description": "Game genres are categorizations of games based on game-play style and interaction. This can be:\n\nAction Games: where the game-play relies heavily on quick user reflexes, good timing, accuracy, or any combination of these factors to progress further in the game. Adventure Games: where the game-play relies on non-confrontational approaches that requires little or no quick reflexes. The game progresses through solving puzzles, performing tasks or interacting with the environment of the game and characters in it. Action-Adventure Games: where the game-play style is a mixture of the two previous genres. For example, there are long term goals/tasks the requires quick reflexes to be completed and the game progresses through performing sequential tasks, each or some of which is a kind of a mini-game that is action based. Role Playing Games (RPGs): where the players take on specific \"roles\" in the game's setting and progress their character in-game through acquiring skill-points or experience. Some of these games are turn based but some use a more real-time approach. Massively multi-player online role-playing games (MMORPGs) is a sub-genre of this genre, where multiple players share the same game environment and some tasks requires the cooperation of multiple players to perform. Simulation Games: where the game-play depends on simulating aspects of real-life or some imaginary fantasy setting. Strategy Games: where the playing style requires mostly careful planning and skillful thinking. Board and Card Games: the game play is based on a set of cards that needs to be handled according to a certain set of rules or on manipulating \"pieces\" on a board."
+                },
+                {
+                    "headline": "Decide the Setting of your game.",
+                    "description": "The setting of the game includes one or more of the following components:\n\nLocation/Geography. The location at which the story of the game takes place. This might be the detailed map of a fictional land or the layout of a military compound. This can be a fictional/fantasy world, a parallel universe, another dimension, a new continent, a certain country in a certain era, a specific-use compound ... etc. History. The back-story of the game outlining what happened so far in the location decided for the game that is of interest to the game-play. Mode. This decides the general theme of the game in some way. It can be a \"dark\" themed game, a utopian one or a childish one even. This is vastly influenced by the target group of your game, which you should decide during the planning phase. Game Society. You have to give the background necessary for the characters involved in the game-play including back-stories and features."
+                },
+                {
+                    "headline": "Decide the graphical/visual style of the game.",
+                    "description": "Will your game be a two dimensional or three dimensional game? Will graphics be fancy or crude? Will characters be rendered in cartoon-like manner, comical one, or real-life style?"
+                }
+            ]
+        },
+        {
+            "name": "Logistics Phase",
+            "steps": [
+                {
+                    "headline": "Calculate your available budget.",
+                    "description": "Neither over, nor underestimate your resources."
+                },
+                {
+                    "headline": "Research available gaming engines based on the choices you made during the planning phase.",
+                    "description": "For example, if you choose to create a cards/board game, you probably won't need a fancy graphics engine and you'll find many open source game engines dedicated to card games. However, if you're planning on creating a first person shooter action game, chances are you'll need a more powerful game and graphics engine(s). Take into consideration your current level of programming skill and the programming languages you're skilled at. For example, if you have no prior knowledge of programming, you'll need an engine that requires no programming skills. Take into consideration the level of documentation the game engine provides. If you can't find an engine that fits your criteria of budget and prior-programming knowledge, research game engines that require programming knowledge at the simplest level possible and see if you find one that fits your other criteria. If not go up a little in the programming skill requirement until you find an engine that fits you other criteria."
+                },
+                {
+                    "headline": "Decide whether you need to learn programming or not.",
+                    "description": "This includes deciding:\nWhether you need to learn a programming language at all according to your game engine of choice. What programming language you need to learn and for what platform. What skill level you're required to reach to be able to use your game engine of choice"
+                },
+                {
+                    "headline": "Research you options for reaching the required level of skill at the programming language necessary.",
+                    "description": "Will you have to take courses or will an online tutorial be enough? How will that affect your budget?"
+                },
+                {
+                    "headline": "Make the necessary purchases.",
+                    "description": "Make sure to include the game engine documentation in your purchases if the documentation is sold separately."
+                },
+                {
+                    "headline": "Learn to use your game engine.",
+                    "description": ""
+                },
+                {
+                    "headline": "Read at least an introduction to software engineering models.",
+                    "description": "Though not an absolute necessity, it will greatly help."
+                }
+            ]
+        },
+        {
+            "name": "Implementation Phase",
+            "steps": [
+                {
+                    "headline": "Start small.",
+                    "description": "Trying to start with a sophisticated game implementing the whole thing at once will most likely end up being frustrating."
+                },
+                {
+                    "headline": "Divide and conquer.",
+                    "description": "Don't try to solve all problems at once. Instead, try dividing problems into smaller ones and so on until you get to manageable problems that you can tackle."
+                },
+                {
+                    "headline": "Take notes and use feedback.",
+                    "description": "Show what's finished to closed circuits of friends or family. Modify your design according to the feedback you take from reviewers."
+                },
+                {
+                    "headline": "Use a design model, and stick to it.",
+                    "description": "Do not make the mistake of changing models halfway unless it is absolutely necessary."
+                },
+                {
+                    "headline": "Be patient.",
+                    "description": "Creating a game is not a one day/week job. Some games are not a one year job!"
+                }
+            ]
+        },
+        {
+            "name": "End Product Phase",
+            "steps": [
+                {
+                    "headline": "Design you marketing campaign.",
+                    "description": "This does not necessarily be a commercial-based one. However, you need to increase the visibility of your game so that you can get more feedback which will eventually help in improving your game and your game-creation abilities alike."
+                },
+                {
+                    "headline": "Test, test, and test again.",
+                    "description": "Though nothing is perfect, you should try to be as close as you can to it."
+                },
+                {
+                    "headline": "Implement your marketing campaign and publish your game.",
+                    "description": ""
+                },
+                {
+                    "headline": "Take feedback from gamers who play your game.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A Computer",
+        "A Game Engine",
+        "A Lot of Patience"
+    ],
+    "text": " Planning Phase Formulate and create a plan of work for your project. This step is usually neglected by most people who are seeking to create a new game, programmers and non-programmers alike. However, it is also one of the major reasons for most of the failed first trials. This mainly includes deciding how much time and resources will be dedicated to each task within the project and the relationship between these tasks. The processes themselves need to be identified first of course. Read further on this article to identify the different tasks that you will eventually need to perform. Decide the genre of your game. Game genres are categorizations of games based on game-play style and interaction. This can be:\n\nAction Games: where the game-play relies heavily on quick user reflexes, good timing, accuracy, or any combination of these factors to progress further in the game. Adventure Games: where the game-play relies on non-confrontational approaches that requires little or no quick reflexes. The game progresses through solving puzzles, performing tasks or interacting with the environment of the game and characters in it. Action-Adventure Games: where the game-play style is a mixture of the two previous genres. For example, there are long term goals/tasks the requires quick reflexes to be completed and the game progresses through performing sequential tasks, each or some of which is a kind of a mini-game that is action based. Role Playing Games (RPGs): where the players take on specific \"roles\" in the game's setting and progress their character in-game through acquiring skill-points or experience. Some of these games are turn based but some use a more real-time approach. Massively multi-player online role-playing games (MMORPGs) is a sub-genre of this genre, where multiple players share the same game environment and some tasks requires the cooperation of multiple players to perform. Simulation Games: where the game-play depends on simulating aspects of real-life or some imaginary fantasy setting. Strategy Games: where the playing style requires mostly careful planning and skillful thinking. Board and Card Games: the game play is based on a set of cards that needs to be handled according to a certain set of rules or on manipulating \"pieces\" on a board. Decide the Setting of your game. The setting of the game includes one or more of the following components:\n\nLocation/Geography. The location at which the story of the game takes place. This might be the detailed map of a fictional land or the layout of a military compound. This can be a fictional/fantasy world, a parallel universe, another dimension, a new continent, a certain country in a certain era, a specific-use compound ... etc. History. The back-story of the game outlining what happened so far in the location decided for the game that is of interest to the game-play. Mode. This decides the general theme of the game in some way. It can be a \"dark\" themed game, a utopian one or a childish one even. This is vastly influenced by the target group of your game, which you should decide during the planning phase. Game Society. You have to give the background necessary for the characters involved in the game-play including back-stories and features. Decide the graphical/visual style of the game. Will your game be a two dimensional or three dimensional game? Will graphics be fancy or crude? Will characters be rendered in cartoon-like manner, comical one, or real-life style? Logistics Phase Calculate your available budget. Neither over, nor underestimate your resources. Research available gaming engines based on the choices you made during the planning phase. For example, if you choose to create a cards/board game, you probably won't need a fancy graphics engine and you'll find many open source game engines dedicated to card games. However, if you're planning on creating a first person shooter action game, chances are you'll need a more powerful game and graphics engine(s). Take into consideration your current level of programming skill and the programming languages you're skilled at. For example, if you have no prior knowledge of programming, you'll need an engine that requires no programming skills. Take into consideration the level of documentation the game engine provides. If you can't find an engine that fits your criteria of budget and prior-programming knowledge, research game engines that require programming knowledge at the simplest level possible and see if you find one that fits your other criteria. If not go up a little in the programming skill requirement until you find an engine that fits you other criteria. Decide whether you need to learn programming or not. This includes deciding:\nWhether you need to learn a programming language at all according to your game engine of choice. What programming language you need to learn and for what platform. What skill level you're required to reach to be able to use your game engine of choice Research you options for reaching the required level of skill at the programming language necessary. Will you have to take courses or will an online tutorial be enough? How will that affect your budget? Make the necessary purchases. Make sure to include the game engine documentation in your purchases if the documentation is sold separately. Learn to use your game engine.  Read at least an introduction to software engineering models. Though not an absolute necessity, it will greatly help. Implementation Phase Start small. Trying to start with a sophisticated game implementing the whole thing at once will most likely end up being frustrating. Divide and conquer. Don't try to solve all problems at once. Instead, try dividing problems into smaller ones and so on until you get to manageable problems that you can tackle. Take notes and use feedback. Show what's finished to closed circuits of friends or family. Modify your design according to the feedback you take from reviewers. Use a design model, and stick to it. Do not make the mistake of changing models halfway unless it is absolutely necessary. Be patient. Creating a game is not a one day/week job. Some games are not a one year job! End Product Phase Design you marketing campaign. This does not necessarily be a commercial-based one. However, you need to increase the visibility of your game so that you can get more feedback which will eventually help in improving your game and your game-creation abilities alike. Test, test, and test again. Though nothing is perfect, you should try to be as close as you can to it. Implement your marketing campaign and publish your game.  Take feedback from gamers who play your game. ",
+    "sentences": [
+        " Planning Phase Formulate and create a plan of work for your project.",
+        "This step is usually neglected by most people who are seeking to create a new game, programmers and non-programmers alike.",
+        "However, it is also one of the major reasons for most of the failed first trials.",
+        "This mainly includes deciding how much time and resources will be dedicated to each task within the project and the relationship between these tasks.",
+        "The processes themselves need to be identified first of course.",
+        "Read further on this article to identify the different tasks that you will eventually need to perform.",
+        "Decide the genre of your game.",
+        "Game genres are categorizations of games based on game-play style and interaction.",
+        "This can be:\n\nAction Games: where the game-play relies heavily on quick user reflexes, good timing, accuracy, or any combination of these factors to progress further in the game.",
+        "Adventure Games: where the game-play relies on non-confrontational approaches that requires little or no quick reflexes.",
+        "The game progresses through solving puzzles, performing tasks or interacting with the environment of the game and characters in it.",
+        "Action-Adventure Games: where the game-play style is a mixture of the two previous genres.",
+        "For example, there are long term goals/tasks the requires quick reflexes to be completed and the game progresses through performing sequential tasks, each or some of which is a kind of a mini-game that is action based.",
+        "Role Playing Games (RPGs): where the players take on specific \"roles\" in the game's setting and progress their character in-game through acquiring skill-points or experience.",
+        "Some of these games are turn based but some use a more real-time approach.",
+        "Massively multi-player online role-playing games (MMORPGs) is a sub-genre of this genre, where multiple players share the same game environment and some tasks requires the cooperation of multiple players to perform.",
+        "Simulation Games: where the game-play depends on simulating aspects of real-life or some imaginary fantasy setting.",
+        "Strategy Games: where the playing style requires mostly careful planning and skillful thinking.",
+        "Board and Card Games: the game play is based on a set of cards that needs to be handled according to a certain set of rules or on manipulating \"pieces\" on a board.",
+        "Decide the Setting of your game.",
+        "The setting of the game includes one or more of the following components:\n\nLocation/Geography.",
+        "The location at which the story of the game takes place.",
+        "This might be the detailed map of a fictional land or the layout of a military compound.",
+        "This can be a fictional/fantasy world, a parallel universe, another dimension, a new continent, a certain country in a certain era, a specific-use compound ... etc.",
+        "History.",
+        "The back-story of the game outlining what happened so far in the location decided for the game that is of interest to the game-play.",
+        "Mode.",
+        "This decides the general theme of the game in some way.",
+        "It can be a \"dark\" themed game, a utopian one or a childish one even.",
+        "This is vastly influenced by the target group of your game, which you should decide during the planning phase.",
+        "Game Society.",
+        "You have to give the background necessary for the characters involved in the game-play including back-stories and features.",
+        "Decide the graphical/visual style of the game.",
+        "Will your game be a two dimensional or three dimensional game?",
+        "Will graphics be fancy or crude?",
+        "Will characters be rendered in cartoon-like manner, comical one, or real-life style?",
+        "Logistics Phase Calculate your available budget.",
+        "Neither over, nor underestimate your resources.",
+        "Research available gaming engines based on the choices you made during the planning phase.",
+        "For example, if you choose to create a cards/board game, you probably won't need a fancy graphics engine and you'll find many open source game engines dedicated to card games.",
+        "However, if you're planning on creating a first person shooter action game, chances are you'll need a more powerful game and graphics engine(s).",
+        "Take into consideration your current level of programming skill and the programming languages you're skilled at.",
+        "For example, if you have no prior knowledge of programming, you'll need an engine that requires no programming skills.",
+        "Take into consideration the level of documentation the game engine provides.",
+        "If you can't find an engine that fits your criteria of budget and prior-programming knowledge, research game engines that require programming knowledge at the simplest level possible and see if you find one that fits your other criteria.",
+        "If not go up a little in the programming skill requirement until you find an engine that fits you other criteria.",
+        "Decide whether you need to learn programming or not.",
+        "This includes deciding:\nWhether you need to learn a programming language at all according to your game engine of choice.",
+        "What programming language you need to learn and for what platform.",
+        "What skill level you're required to reach to be able to use your game engine of choice Research you options for reaching the required level of skill at the programming language necessary.",
+        "Will you have to take courses or will an online tutorial be enough?",
+        "How will that affect your budget?",
+        "Make the necessary purchases.",
+        "Make sure to include the game engine documentation in your purchases if the documentation is sold separately.",
+        "Learn to use your game engine.",
+        "Read at least an introduction to software engineering models.",
+        "Though not an absolute necessity, it will greatly help.",
+        "Implementation Phase Start small.",
+        "Trying to start with a sophisticated game implementing the whole thing at once will most likely end up being frustrating.",
+        "Divide and conquer.",
+        "Don't try to solve all problems at once.",
+        "Instead, try dividing problems into smaller ones and so on until you get to manageable problems that you can tackle.",
+        "Take notes and use feedback.",
+        "Show what's finished to closed circuits of friends or family.",
+        "Modify your design according to the feedback you take from reviewers.",
+        "Use a design model, and stick to it.",
+        "Do not make the mistake of changing models halfway unless it is absolutely necessary.",
+        "Be patient.",
+        "Creating a game is not a one day/week job.",
+        "Some games are not a one year job!",
+        "End Product Phase Design you marketing campaign.",
+        "This does not necessarily be a commercial-based one.",
+        "However, you need to increase the visibility of your game so that you can get more feedback which will eventually help in improving your game and your game-creation abilities alike.",
+        "Test, test, and test again.",
+        "Though nothing is perfect, you should try to be as close as you can to it.",
+        "Implement your marketing campaign and publish your game.",
+        "Take feedback from gamers who play your game."
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "How to Use Your Mobile Broadband Connection Card for Your Wireless Router",
+    "url": "https://www.wikihow.com/Use-Your-Mobile-Broadband-Connection-Card-for-Your-Wireless-Router",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking"
+    ],
+    "steps": [
+        {
+            "headline": "Make sure you have an active mobile broadband connection from a cellular provider it could be from a USB or Laptop card device.",
+            "description": ""
+        },
+        {
+            "headline": "Log onto the administrator or host account of your computer.",
+            "description": ""
+        },
+        {
+            "headline": "Go to Start, then click on Control Panel.",
+            "description": ""
+        },
+        {
+            "headline": "Find Network and internet Connections and click on it.",
+            "description": ""
+        },
+        {
+            "headline": "Select Network Connections.",
+            "description": ""
+        },
+        {
+            "headline": "Select your type of internet connection, then click Properties.",
+            "description": ""
+        },
+        {
+            "headline": "Click on the Advanced tab.",
+            "description": ""
+        },
+        {
+            "headline": "Look under Internet Connection Sharing, there should be a check-off box that says Allow other network users to connect through this computer's Internet connection.",
+            "description": "Check off that box."
+        },
+        {
+            "headline": "If you use dial-up for your internet connection, check off Establish a dial-up connection whenever a computer on my network attempts to access the Internet.",
+            "description": "Then click OK."
+        },
+        {
+            "headline": "Click \"Yes\" when you receive this message;",
+            "description": "When Internet Connection Sharing is enabled, your LAN adapter will be set to use IP address 192.168.0.1. Your computer may lose connectivity with other computers on your network. If these other computers have static IP addresses, it is a good idea to set them to obtain their IP addresses automatically. Are you sure you want to enable Internet Connection Sharing?"
+        },
+        {
+            "headline": "Run a Cat 5 cable from your desktop or laptop with active Mobile broadband ICS connection from the computers LAN port to the Routers Internet In Port.",
+            "description": "And Voila !"
+        }
+    ],
+    "tyn": [
+        "A wireless Broadband Card or USB stick from a cellular provider",
+        "Desktop or Laptop",
+        "Wireless or Regular Router",
+        "A little know how"
+    ],
+    "text": " Make sure you have an active mobile broadband connection from a cellular provider it could be from a USB or Laptop card device.  Log onto the administrator or host account of your computer.  Go to Start, then click on Control Panel.  Find Network and internet Connections and click on it.  Select Network Connections.  Select your type of internet connection, then click Properties.  Click on the Advanced tab.  Look under Internet Connection Sharing, there should be a check-off box that says Allow other network users to connect through this computer's Internet connection. Check off that box. If you use dial-up for your internet connection, check off Establish a dial-up connection whenever a computer on my network attempts to access the Internet. Then click OK. Click \"Yes\" when you receive this message; When Internet Connection Sharing is enabled, your LAN adapter will be set to use IP address 192.168.0.1. Your computer may lose connectivity with other computers on your network. If these other computers have static IP addresses, it is a good idea to set them to obtain their IP addresses automatically. Are you sure you want to enable Internet Connection Sharing? Run a Cat 5 cable from your desktop or laptop with active Mobile broadband ICS connection from the computers LAN port to the Routers Internet In Port. And Voila !",
+    "sentences": [
+        " Make sure you have an active mobile broadband connection from a cellular provider it could be from a USB or Laptop card device.",
+        "Log onto the administrator or host account of your computer.",
+        "Go to Start, then click on Control Panel.",
+        "Find Network and internet Connections and click on it.",
+        "Select Network Connections.",
+        "Select your type of internet connection, then click Properties.",
+        "Click on the Advanced tab.",
+        "Look under Internet Connection Sharing, there should be a check-off box that says Allow other network users to connect through this computer's Internet connection.",
+        "Check off that box.",
+        "If you use dial-up for your internet connection, check off Establish a dial-up connection whenever a computer on my network attempts to access the Internet.",
+        "Then click OK. Click \"Yes\" when you receive this message; When Internet Connection Sharing is enabled, your LAN adapter will be set to use IP address 192.168.0.1.",
+        "Your computer may lose connectivity with other computers on your network.",
+        "If these other computers have static IP addresses, it is a good idea to set them to obtain their IP addresses automatically.",
+        "Are you sure you want to enable Internet Connection Sharing?",
+        "Run a Cat 5 cable from your desktop or laptop with active Mobile broadband ICS connection from the computers LAN port to the Routers Internet In Port.",
+        "And Voila !"
+    ]
+}

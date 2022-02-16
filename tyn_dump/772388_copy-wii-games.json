@@ -1,0 +1,291 @@
+{
+    "title": "How to Copy Wii Games",
+    "url": "https://www.wikihow.com/Copy-Wii-Games",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Games",
+        "Video Games",
+        "Nintendo Video Game Consoles",
+        "Nintendo Wii"
+    ],
+    "parts": [
+        {
+            "name": "Preparing to Mod the Wii",
+            "steps": [
+                {
+                    "headline": "Assemble the items you\u2019ll need.",
+                    "description": "In order to mod the Wii and backup games, you\u2019ll need a few things. You\u2019ll need an SD card to copy hack files from your computer to your Wii. You\u2019ll also need an external hard drive big enough to store multiple games. Game sizes range from around 1GB all the way up to 6GB per game, so find a drive with at least 250GB to store your library. To run the USB backup system, you will need to mod your Wii system. It is done completely through software and no special tools are required. This guide will run you through the steps."
+                },
+                {
+                    "headline": "Find your Wii version number.",
+                    "description": "In order to install the right hack, you need to know which version of the Wii operating system you are using. Start the Wii. Open the Wii menu, then click Wii Settings. Your Wii version number will appear in the top-left corner."
+                },
+                {
+                    "headline": "Download the appropriate hack for your version.",
+                    "description": "For system version 4.2 or lower, download the correct bannerbomb hack. If you have system version 4.3, you will need the correct official game and hack. For this guide, we will use LEGO Star Wars: The Complete Saga. You will need the game disc as well as the \u201cReturn of the Jodi\u201d save hack."
+                }
+            ]
+        },
+        {
+            "name": "Modding Your Wii",
+            "steps": [
+                {
+                    "headline": "Download and unzip the correct bannerbomb hack.",
+                    "description": "Download the the HackMii installer as well."
+                },
+                {
+                    "headline": "Insert an SD card.",
+                    "description": "If you are using an SD card that the Wii has already used, rename the Private folder to avoid conflicts."
+                },
+                {
+                    "headline": "Copy the files.",
+                    "description": "Copy the contents of the bannerbomb zip file to the SD card, preserving the file structure. Copy the installer.elf file from the HackMii download, and rename it to boot.elf."
+                },
+                {
+                    "headline": "Remove the SD card and turn on the Wii.",
+                    "description": "Insert the SD card. Open the Wii menu, click Data Management, then Channels. Select the SD tab."
+                },
+                {
+                    "headline": "Go to Data Management in Wii Options, then click Channels.",
+                    "description": "Click the SD card tab."
+                },
+                {
+                    "headline": "Confirm the pop-up.",
+                    "description": "A window will appear when the SD card is inserted with the message \u201cload boot.dol/elf?\u201d Select Yes to proceed with the softmod."
+                },
+                {
+                    "headline": "Install the Homebrew Channel and DVDx.",
+                    "description": "Use the direction pad to navigate the menus, and the A button to make selections. The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies."
+                },
+                {
+                    "headline": "Finish the installation.",
+                    "description": "After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed. You can return to the Wii menu and access Homebrew anytime from the Channels."
+                },
+                {
+                    "headline": "Download and unzip the correct bannerbomb hack.",
+                    "description": "Download the the HackMii installer as well."
+                },
+                {
+                    "headline": "Insert an SD card.",
+                    "description": "If you are using an SD card that the Wii has already used, rename the Private folder to avoid conflicts."
+                },
+                {
+                    "headline": "Copy the files.",
+                    "description": "Copy the contents of the bannerbomb zip file to the SD card, preserving the file structure. Copy the installer.elf file from the HackMii download, and rename it to boot.elf."
+                },
+                {
+                    "headline": "Remove the SD card and turn on the Wii.",
+                    "description": "Insert the SD card. Press the SD card icon."
+                },
+                {
+                    "headline": "Confirm the pop-up.",
+                    "description": "A window will appear when the SD card button is pressed with the message \u201cload boot.dol/elf?\u201d Select Yes to proceed with the softmod."
+                },
+                {
+                    "headline": "Install the Homebrew Channel and DVDx.",
+                    "description": "Use the direction pad to navigate the menus, and the A button to make selections. The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies."
+                },
+                {
+                    "headline": "Finish the installation.",
+                    "description": "After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed. You can return to the Wii menu and access Homebrew anytime from the Channels."
+                },
+                {
+                    "headline": "Download and extract the Return of the Jodi hack.",
+                    "description": "Place the files on an SD card, keeping the file structure intact."
+                },
+                {
+                    "headline": "Insert the SD card in the Wii.",
+                    "description": "Turn on the Wii, open the Wii menu and select Data Management. Open the Save Games menu, select Wii, then the SD tab. Copy the Return of the Jodi save that matches your region."
+                },
+                {
+                    "headline": "Start LEGO Star Wars.",
+                    "description": "Load the saved game. After the game loads, walk to the bar on the right and switch characters. Select the character named \u201cReturn of the Jodi.\u201d This will begin the hack process."
+                },
+                {
+                    "headline": "Install the Homebrew Channel and DVDx.",
+                    "description": "Use the direction pad to navigate the menus, and the A button to make selections. The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies."
+                },
+                {
+                    "headline": "Finish the installation.",
+                    "description": "After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed. You can return to the Wii menu and access Homebrew anytime from the Channels."
+                }
+            ]
+        },
+        {
+            "name": "Installing the Backup Program",
+            "steps": [
+                {
+                    "headline": "Download the necessary software.",
+                    "description": "In order to install the backup software, you will need to install a few more tools for the Wii now that it is softmodded. Download the latest version of DOP-Mii as well the cIOS iauncher."
+                },
+                {
+                    "headline": "Extract DOP-Mii onto the SD card.",
+                    "description": "Keep the file structure intact. Insert the SD card into the Wii and open the Homebrew channel. Run DOP-Mii from the list of programs and select \u201cInstall IOS36 (v3351) w/ FakeSign\u201d. Select Yes when asked to Apply NAND permissions and download the patches from the internet server. Select Yes again when it prompts you to restore. When it completes, it will drop you back at the Homebrew channel. Remove the SD card and put it back in your PC."
+                },
+                {
+                    "headline": "Extract the cIOS installer onto the SD card into the Apps folder.",
+                    "description": "Keep the file structure intact. Insert the SD card back into the Wii and navigate to the Homebrew channel. Open the cIOS installer. Select IOS36 from the version options."
+                },
+                {
+                    "headline": "Select Network Installation.",
+                    "description": "Confirm by pressing A. After installing successfully, the program will ask you to press any button to restart the Wii."
+                },
+                {
+                    "headline": "Prepare your external hard drive.",
+                    "description": "Plug your external hard drive into your computer. You will need to download a program that will format your hard drive to match the file system of the Wii. WBFS (Wii Backup File System) Manager is a free, open-source program that will properly format the drive. Run WBFS Manager with your external connected, and select it from the dropdown menu in the program. Be sure to select the right drive, because all data will be lost when it is formatted. After formatting, remove the external hard drive from your computer and attach it to the Wii in the bottom USB port."
+                },
+                {
+                    "headline": "Install the USB Loader.",
+                    "description": "Insert the SD card into your computer. Download the latest version of USB Loader GX free from the website. The site offers an executable file for download that will automatically put the files into the right section of the SD card."
+                },
+                {
+                    "headline": "Launch USB Loader GX.",
+                    "description": "Once you\u2019ve copied the files to the SD card, insert it in the Wii and open the Homebrew channel. Select USB Loader GX from the list of programs."
+                }
+            ]
+        },
+        {
+            "name": "Copying Wii Games",
+            "steps": [
+                {
+                    "headline": "Insert a game disc.",
+                    "description": "With the USB Loader open, click the install button. Depending on the size of the game, this could take up to several minutes. Once the game is finished copying, it will appear in the main window of USB Loader. Repeat this step for as many games as you want to copy."
+                },
+                {
+                    "headline": "Download cover art.",
+                    "description": "Press 1 on the Wiimote to open the Cover download menu. You can choose between several different types of images, including cover images and disc images."
+                },
+                {
+                    "headline": "Play a game.",
+                    "description": "You can select any game from the list to begin playing. You can also change the way games are listed by using the top buttons in USB Loader."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Wii console",
+        "PC with SD card reader",
+        "External USB hard drive (recommended 250GB or larger)",
+        "LEGO Star Wars: The Complete Saga (If modding a Wii ver. 4.3)"
+    ],
+    "text": " Preparing to Mod the Wii Assemble the items you\u2019ll need. In order to mod the Wii and backup games, you\u2019ll need a few things. You\u2019ll need an SD card to copy hack files from your computer to your Wii. You\u2019ll also need an external hard drive big enough to store multiple games. Game sizes range from around 1GB all the way up to 6GB per game, so find a drive with at least 250GB to store your library. To run the USB backup system, you will need to mod your Wii system. It is done completely through software and no special tools are required. This guide will run you through the steps. Find your Wii version number. In order to install the right hack, you need to know which version of the Wii operating system you are using. Start the Wii. Open the Wii menu, then click Wii Settings. Your Wii version number will appear in the top-left corner. Download the appropriate hack for your version. For system version 4.2 or lower, download the correct bannerbomb hack. If you have system version 4.3, you will need the correct official game and hack. For this guide, we will use LEGO Star Wars: The Complete Saga. You will need the game disc as well as the \u201cReturn of the Jodi\u201d save hack. Modding Your Wii Download and unzip the correct bannerbomb hack. Download the the HackMii installer as well. Insert an SD card. If you are using an SD card that the Wii has already used, rename the Private folder to avoid conflicts. Copy the files. Copy the contents of the bannerbomb zip file to the SD card, preserving the file structure. Copy the installer.elf file from the HackMii download, and rename it to boot.elf. Remove the SD card and turn on the Wii. Insert the SD card. Open the Wii menu, click Data Management, then Channels. Select the SD tab. Go to Data Management in Wii Options, then click Channels. Click the SD card tab. Confirm the pop-up. A window will appear when the SD card is inserted with the message \u201cload boot.dol/elf?\u201d Select Yes to proceed with the softmod. Install the Homebrew Channel and DVDx. Use the direction pad to navigate the menus, and the A button to make selections. The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies. Finish the installation. After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed. You can return to the Wii menu and access Homebrew anytime from the Channels. Download and unzip the correct bannerbomb hack. Download the the HackMii installer as well. Insert an SD card. If you are using an SD card that the Wii has already used, rename the Private folder to avoid conflicts. Copy the files. Copy the contents of the bannerbomb zip file to the SD card, preserving the file structure. Copy the installer.elf file from the HackMii download, and rename it to boot.elf. Remove the SD card and turn on the Wii. Insert the SD card. Press the SD card icon. Confirm the pop-up. A window will appear when the SD card button is pressed with the message \u201cload boot.dol/elf?\u201d Select Yes to proceed with the softmod. Install the Homebrew Channel and DVDx. Use the direction pad to navigate the menus, and the A button to make selections. The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies. Finish the installation. After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed. You can return to the Wii menu and access Homebrew anytime from the Channels. Download and extract the Return of the Jodi hack. Place the files on an SD card, keeping the file structure intact. Insert the SD card in the Wii. Turn on the Wii, open the Wii menu and select Data Management. Open the Save Games menu, select Wii, then the SD tab. Copy the Return of the Jodi save that matches your region. Start LEGO Star Wars. Load the saved game. After the game loads, walk to the bar on the right and switch characters. Select the character named \u201cReturn of the Jodi.\u201d This will begin the hack process. Install the Homebrew Channel and DVDx. Use the direction pad to navigate the menus, and the A button to make selections. The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies. Finish the installation. After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed. You can return to the Wii menu and access Homebrew anytime from the Channels. Installing the Backup Program Download the necessary software. In order to install the backup software, you will need to install a few more tools for the Wii now that it is softmodded. Download the latest version of DOP-Mii as well the cIOS iauncher. Extract DOP-Mii onto the SD card. Keep the file structure intact. Insert the SD card into the Wii and open the Homebrew channel. Run DOP-Mii from the list of programs and select \u201cInstall IOS36 (v3351) w/ FakeSign\u201d. Select Yes when asked to Apply NAND permissions and download the patches from the internet server. Select Yes again when it prompts you to restore. When it completes, it will drop you back at the Homebrew channel. Remove the SD card and put it back in your PC. Extract the cIOS installer onto the SD card into the Apps folder. Keep the file structure intact. Insert the SD card back into the Wii and navigate to the Homebrew channel. Open the cIOS installer. Select IOS36 from the version options. Select Network Installation. Confirm by pressing A. After installing successfully, the program will ask you to press any button to restart the Wii. Prepare your external hard drive. Plug your external hard drive into your computer. You will need to download a program that will format your hard drive to match the file system of the Wii. WBFS (Wii Backup File System) Manager is a free, open-source program that will properly format the drive. Run WBFS Manager with your external connected, and select it from the dropdown menu in the program. Be sure to select the right drive, because all data will be lost when it is formatted. After formatting, remove the external hard drive from your computer and attach it to the Wii in the bottom USB port. Install the USB Loader. Insert the SD card into your computer. Download the latest version of USB Loader GX free from the website. The site offers an executable file for download that will automatically put the files into the right section of the SD card. Launch USB Loader GX. Once you\u2019ve copied the files to the SD card, insert it in the Wii and open the Homebrew channel. Select USB Loader GX from the list of programs. Copying Wii Games Insert a game disc. With the USB Loader open, click the install button. Depending on the size of the game, this could take up to several minutes. Once the game is finished copying, it will appear in the main window of USB Loader. Repeat this step for as many games as you want to copy. Download cover art. Press 1 on the Wiimote to open the Cover download menu. You can choose between several different types of images, including cover images and disc images. Play a game. You can select any game from the list to begin playing. You can also change the way games are listed by using the top buttons in USB Loader.",
+    "sentences": [
+        " Preparing to Mod the Wii Assemble the items you\u2019ll need.",
+        "In order to mod the Wii and backup games, you\u2019ll need a few things.",
+        "You\u2019ll need an SD card to copy hack files from your computer to your Wii.",
+        "You\u2019ll also need an external hard drive big enough to store multiple games.",
+        "Game sizes range from around 1GB all the way up to 6GB per game, so find a drive with at least 250GB to store your library.",
+        "To run the USB backup system, you will need to mod your Wii system.",
+        "It is done completely through software and no special tools are required.",
+        "This guide will run you through the steps.",
+        "Find your Wii version number.",
+        "In order to install the right hack, you need to know which version of the Wii operating system you are using.",
+        "Start the Wii.",
+        "Open the Wii menu, then click Wii Settings.",
+        "Your Wii version number will appear in the top-left corner.",
+        "Download the appropriate hack for your version.",
+        "For system version 4.2 or lower, download the correct bannerbomb hack.",
+        "If you have system version 4.3, you will need the correct official game and hack.",
+        "For this guide, we will use LEGO Star Wars: The Complete Saga.",
+        "You will need the game disc as well as the \u201cReturn of the Jodi\u201d save hack.",
+        "Modding Your Wii Download and unzip the correct bannerbomb hack.",
+        "Download the the HackMii installer as well.",
+        "Insert an SD card.",
+        "If you are using an SD card that the Wii has already used, rename the Private folder to avoid conflicts.",
+        "Copy the files.",
+        "Copy the contents of the bannerbomb zip file to the SD card, preserving the file structure.",
+        "Copy the installer.elf file from the HackMii download, and rename it to boot.elf.",
+        "Remove the SD card and turn on the Wii.",
+        "Insert the SD card.",
+        "Open the Wii menu, click Data Management, then Channels.",
+        "Select the SD tab.",
+        "Go to Data Management in Wii Options, then click Channels.",
+        "Click the SD card tab.",
+        "Confirm the pop-up.",
+        "A window will appear when the SD card is inserted with the message \u201cload boot.dol/elf?\u201d Select Yes to proceed with the softmod.",
+        "Install the Homebrew Channel and DVDx.",
+        "Use the direction pad to navigate the menus, and the A button to make selections.",
+        "The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies.",
+        "Finish the installation.",
+        "After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed.",
+        "You can return to the Wii menu and access Homebrew anytime from the Channels.",
+        "Download and unzip the correct bannerbomb hack.",
+        "Download the the HackMii installer as well.",
+        "Insert an SD card.",
+        "If you are using an SD card that the Wii has already used, rename the Private folder to avoid conflicts.",
+        "Copy the files.",
+        "Copy the contents of the bannerbomb zip file to the SD card, preserving the file structure.",
+        "Copy the installer.elf file from the HackMii download, and rename it to boot.elf.",
+        "Remove the SD card and turn on the Wii.",
+        "Insert the SD card.",
+        "Press the SD card icon.",
+        "Confirm the pop-up.",
+        "A window will appear when the SD card button is pressed with the message \u201cload boot.dol/elf?\u201d Select Yes to proceed with the softmod.",
+        "Install the Homebrew Channel and DVDx.",
+        "Use the direction pad to navigate the menus, and the A button to make selections.",
+        "The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies.",
+        "Finish the installation.",
+        "After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed.",
+        "You can return to the Wii menu and access Homebrew anytime from the Channels.",
+        "Download and extract the Return of the Jodi hack.",
+        "Place the files on an SD card, keeping the file structure intact.",
+        "Insert the SD card in the Wii.",
+        "Turn on the Wii, open the Wii menu and select Data Management.",
+        "Open the Save Games menu, select Wii, then the SD tab.",
+        "Copy the Return of the Jodi save that matches your region.",
+        "Start LEGO Star Wars.",
+        "Load the saved game.",
+        "After the game loads, walk to the bar on the right and switch characters.",
+        "Select the character named \u201cReturn of the Jodi.\u201d This will begin the hack process.",
+        "Install the Homebrew Channel and DVDx.",
+        "Use the direction pad to navigate the menus, and the A button to make selections.",
+        "The Homebrew Channel will allow you to install custom software, and the DVDx utility will allow your Wii to play DVD movies.",
+        "Finish the installation.",
+        "After a few moments, you should receive a Success message letting you know that Homebrew has been successfully installed.",
+        "You can return to the Wii menu and access Homebrew anytime from the Channels.",
+        "Installing the Backup Program Download the necessary software.",
+        "In order to install the backup software, you will need to install a few more tools for the Wii now that it is softmodded.",
+        "Download the latest version of DOP-Mii as well the cIOS iauncher.",
+        "Extract DOP-Mii onto the SD card.",
+        "Keep the file structure intact.",
+        "Insert the SD card into the Wii and open the Homebrew channel.",
+        "Run DOP-Mii from the list of programs and select \u201cInstall IOS36 (v3351) w/ FakeSign\u201d.",
+        "Select Yes when asked to Apply NAND permissions and download the patches from the internet server.",
+        "Select Yes again when it prompts you to restore.",
+        "When it completes, it will drop you back at the Homebrew channel.",
+        "Remove the SD card and put it back in your PC.",
+        "Extract the cIOS installer onto the SD card into the Apps folder.",
+        "Keep the file structure intact.",
+        "Insert the SD card back into the Wii and navigate to the Homebrew channel.",
+        "Open the cIOS installer.",
+        "Select IOS36 from the version options.",
+        "Select Network Installation.",
+        "Confirm by pressing A.",
+        "After installing successfully, the program will ask you to press any button to restart the Wii.",
+        "Prepare your external hard drive.",
+        "Plug your external hard drive into your computer.",
+        "You will need to download a program that will format your hard drive to match the file system of the Wii.",
+        "WBFS (Wii Backup File System) Manager is a free, open-source program that will properly format the drive.",
+        "Run WBFS Manager with your external connected, and select it from the dropdown menu in the program.",
+        "Be sure to select the right drive, because all data will be lost when it is formatted.",
+        "After formatting, remove the external hard drive from your computer and attach it to the Wii in the bottom USB port.",
+        "Install the USB Loader.",
+        "Insert the SD card into your computer.",
+        "Download the latest version of USB Loader GX free from the website.",
+        "The site offers an executable file for download that will automatically put the files into the right section of the SD card.",
+        "Launch USB Loader GX.",
+        "Once you\u2019ve copied the files to the SD card, insert it in the Wii and open the Homebrew channel.",
+        "Select USB Loader GX from the list of programs.",
+        "Copying Wii Games Insert a game disc.",
+        "With the USB Loader open, click the install button.",
+        "Depending on the size of the game, this could take up to several minutes.",
+        "Once the game is finished copying, it will appear in the main window of USB Loader.",
+        "Repeat this step for as many games as you want to copy.",
+        "Download cover art.",
+        "Press 1 on the Wiimote to open the Cover download menu.",
+        "You can choose between several different types of images, including cover images and disc images.",
+        "Play a game.",
+        "You can select any game from the list to begin playing.",
+        "You can also change the way games are listed by using the top buttons in USB Loader."
+    ]
+}

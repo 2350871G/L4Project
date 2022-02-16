@@ -1,0 +1,78 @@
+{
+    "title": "How to Use the MediaWiki API",
+    "url": "https://www.wikihow.com/Use-the-MediaWiki-API",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Web Programming"
+    ],
+    "steps": [
+        {
+            "headline": "Read the MediaWiki API documentation.",
+            "description": "It is located at 'api.php' in the same directory as the usual index.php. Example: https://www.wikihow.com/api.php."
+        },
+        {
+            "headline": "Select an output format.",
+            "description": "The MediaWiki offers data output in the form of JSON, JSONFM, PHP (serialized format), PHPFM, WDDX, WDDXFM, XML, XMLFM, YAML, YAMLFM, and RAWFM. The formats suffixed \"FM\" are pretty-print in HTML."
+        },
+        {
+            "headline": "Choose an action.",
+            "description": "The MediaWiki API supports the following actions:\nhelp - See the help screen\nlogin - Login to MediaWiki\nopensearch - Implement the opensearch protocol. (Not all MediaWiki installations have this). feedwatchlist - Return a watchlist feed. query - Has a variety of options. See the MediaWiki API documentation for them."
+        },
+        {
+            "headline": "Select a query or a list.",
+            "description": "Besides the standard actions, MediaWiki supports different queries and lists, such as listing pages that contain a link to another article, number of recent changes diffs, contributions, etc."
+        },
+        {
+            "headline": "Pass the posted data to the API through the use of CURL or another tool that allows you to use the POST method to the script.",
+            "description": "The GET method may also work."
+        },
+        {
+            "headline": "Make sure to keep cookies sent to an application (Some scripts/applications may wish to store it in a subfolder.",
+            "description": ""
+        },
+        {
+            "headline": "When interacting with the MediaWiki user interface, mind your edit token kept in most edit pages.",
+            "description": "The edit token is used to determine edit collisions and avoid overriding another edit already done (This is used in rollback as well.). Keep in mind it is easier for things to go awry if you are acting with the user interface of the wiki. Be mindful of any regexes you use to make sure that they will only do the intended result."
+        },
+        {
+            "headline": "Read the results sent by the wiki.",
+            "description": "The results will be sent to you in an HTTP response, which can be read by many parsers. Take extra care of the format you choose. Make sure you use the appropriate parser for that format. It is usually a good practice to explicitly state the format to MediaWiki even if it has a default format that you want to use."
+        }
+    ],
+    "tyn": [
+        "Knowledge of a computer programming language (ex: C++, C, PHP, Perl, Java, or similar).",
+        "Knowledge of the specific code libraries of your language of choice that deals with sending and receiving HTTP requests and responses. Also code libraries that deal with parsing the output format of choice might be a necessity. For example, in PHP, much of this can be done with CURL, which is available as a PHP extension.",
+        "Knowledge of one of the output formats supported by the MediaWiki API, and how to convert it to a usable form. (e.g in PHP, unserialize() changes the \"php\" data format to an array)",
+        "General knowledge of the HTTP protocol and the internet communication architecture (sending POSTs vs GETs, and header responses)"
+    ],
+    "text": " Read the MediaWiki API documentation. It is located at 'api.php' in the same directory as the usual index.php. Example: https://www.wikihow.com/api.php. Select an output format. The MediaWiki offers data output in the form of JSON, JSONFM, PHP (serialized format), PHPFM, WDDX, WDDXFM, XML, XMLFM, YAML, YAMLFM, and RAWFM. The formats suffixed \"FM\" are pretty-print in HTML. Choose an action. The MediaWiki API supports the following actions:\nhelp - See the help screen\nlogin - Login to MediaWiki\nopensearch - Implement the opensearch protocol. (Not all MediaWiki installations have this). feedwatchlist - Return a watchlist feed. query - Has a variety of options. See the MediaWiki API documentation for them. Select a query or a list. Besides the standard actions, MediaWiki supports different queries and lists, such as listing pages that contain a link to another article, number of recent changes diffs, contributions, etc. Pass the posted data to the API through the use of CURL or another tool that allows you to use the POST method to the script. The GET method may also work. Make sure to keep cookies sent to an application (Some scripts/applications may wish to store it in a subfolder.  When interacting with the MediaWiki user interface, mind your edit token kept in most edit pages. The edit token is used to determine edit collisions and avoid overriding another edit already done (This is used in rollback as well.). Keep in mind it is easier for things to go awry if you are acting with the user interface of the wiki. Be mindful of any regexes you use to make sure that they will only do the intended result. Read the results sent by the wiki. The results will be sent to you in an HTTP response, which can be read by many parsers. Take extra care of the format you choose. Make sure you use the appropriate parser for that format. It is usually a good practice to explicitly state the format to MediaWiki even if it has a default format that you want to use.",
+    "sentences": [
+        " Read the MediaWiki API documentation.",
+        "It is located at 'api.php' in the same directory as the usual index.php.",
+        "Example: https://www.wikihow.com/api.php.",
+        "Select an output format.",
+        "The MediaWiki offers data output in the form of JSON, JSONFM, PHP (serialized format), PHPFM, WDDX, WDDXFM, XML, XMLFM, YAML, YAMLFM, and RAWFM.",
+        "The formats suffixed \"FM\" are pretty-print in HTML.",
+        "Choose an action.",
+        "The MediaWiki API supports the following actions:\nhelp - See the help screen\nlogin - Login to MediaWiki\nopensearch - Implement the opensearch protocol.",
+        "(Not all MediaWiki installations have this).",
+        "feedwatchlist - Return a watchlist feed.",
+        "query - Has a variety of options.",
+        "See the MediaWiki API documentation for them.",
+        "Select a query or a list.",
+        "Besides the standard actions, MediaWiki supports different queries and lists, such as listing pages that contain a link to another article, number of recent changes diffs, contributions, etc.",
+        "Pass the posted data to the API through the use of CURL or another tool that allows you to use the POST method to the script.",
+        "The GET method may also work.",
+        "Make sure to keep cookies sent to an application (Some scripts/applications may wish to store it in a subfolder.",
+        "When interacting with the MediaWiki user interface, mind your edit token kept in most edit pages.",
+        "The edit token is used to determine edit collisions and avoid overriding another edit already done (This is used in rollback as well.).",
+        "Keep in mind it is easier for things to go awry if you are acting with the user interface of the wiki.",
+        "Be mindful of any regexes you use to make sure that they will only do the intended result.",
+        "Read the results sent by the wiki.",
+        "The results will be sent to you in an HTTP response, which can be read by many parsers.",
+        "Take extra care of the format you choose.",
+        "Make sure you use the appropriate parser for that format.",
+        "It is usually a good practice to explicitly state the format to MediaWiki even if it has a default format that you want to use."
+    ]
+}

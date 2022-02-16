@@ -1,0 +1,86 @@
+{
+    "title": "How to Use Linux",
+    "url": "https://www.wikihow.com/Use-Linux",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Linux"
+    ],
+    "steps": [
+        {
+            "headline": "Become familiar with the system.",
+            "description": "Try downloading and installing it on your computer. If you're not sure, be aware that it's possible to keep your current operating system and dedicate part of your hard drive to Linux (and you can even run both at the same time if you run one on a virtual machine.)"
+        },
+        {
+            "headline": "Test your hardware with a \"Live CD\" that is supplied by many of the distributions of Linux.",
+            "description": "This is helpful if you feel uncomfortable with installing a second operating system on your computer. A live CD will allow you to boot into a Linux environment from the CD, without the need to install anything on your computer. Ubuntu and some other Linux distributions also offer CDs or DVDs that allow you to boot into a Live mode, and then install from the same disk."
+        },
+        {
+            "headline": "Attempt the tasks you usually use your computer for.",
+            "description": "Search for solutions if you can't word-process or burn a CD for example. Make a note of what you want to do, can do and cannot do before you take the plunge."
+        },
+        {
+            "headline": "Learn the distributions of Linux.",
+            "description": "When referring to \"Linux\", this most often means a \"GNU/Linux Distribution.\" A distribution is a collection of software that runs on top of a very small program called the Linux kernel."
+        },
+        {
+            "headline": "Consider dual-booting.",
+            "description": "This will help you understand partitioning as well as letting you continue to use Windows. But be sure to back up all your personal data and settings before you try to set up a dual boot."
+        },
+        {
+            "headline": "Install software.",
+            "description": "Get used to installing and uninstalling software as soon as you can. Understanding package management and repositories is good for fundamentally understanding Linux."
+        },
+        {
+            "headline": "Learn to use (and enjoy using) the command-line interface.",
+            "description": "This is known as 'Terminal', 'terminal window', or 'shell'. One of the primary reasons many users switch to Linux is because it features the terminal, so don't be intimidated by it. It is a powerful ally that doesn't have the same limitations of a Windows command prompt. You can just as easily use Linux without ever using a terminal as you would on Mac OSX. Using \"apropos\" can help you find a command that does a certain task. Try \"apropos user\" to see a list of commands that have the word \"user\" in their description."
+        },
+        {
+            "headline": "Familiarize yourself with the Linux file system.",
+            "description": "You will first notice that there is no longer the \"C:\\\" you are used to in Windows. Everything starts at the root of the file system (aka \"/\") and different hard drives are accessed through the /dev directory. Your home directory, which you typically find in C:\\Documents and Settings in Windows XP and 2000, is now located in /home/(your user name)/."
+        },
+        {
+            "headline": "Keep investigating the potential of your Linux install.",
+            "description": "Try encrypted partitions, new and very fast file system (like btrfs), redundant parallel disks that increase both speed and reliability (RAID's) and try to install Linux on a bootable USB stick. You'll soon discover that you can do a lot of things!"
+        }
+    ],
+    "tyn": [
+        "Linux distribution (can generally be downloaded for free from the Internet)"
+    ],
+    "text": " Become familiar with the system. Try downloading and installing it on your computer. If you're not sure, be aware that it's possible to keep your current operating system and dedicate part of your hard drive to Linux (and you can even run both at the same time if you run one on a virtual machine.) Test your hardware with a \"Live CD\" that is supplied by many of the distributions of Linux. This is helpful if you feel uncomfortable with installing a second operating system on your computer. A live CD will allow you to boot into a Linux environment from the CD, without the need to install anything on your computer. Ubuntu and some other Linux distributions also offer CDs or DVDs that allow you to boot into a Live mode, and then install from the same disk. Attempt the tasks you usually use your computer for. Search for solutions if you can't word-process or burn a CD for example. Make a note of what you want to do, can do and cannot do before you take the plunge. Learn the distributions of Linux. When referring to \"Linux\", this most often means a \"GNU/Linux Distribution.\" A distribution is a collection of software that runs on top of a very small program called the Linux kernel. Consider dual-booting. This will help you understand partitioning as well as letting you continue to use Windows. But be sure to back up all your personal data and settings before you try to set up a dual boot. Install software. Get used to installing and uninstalling software as soon as you can. Understanding package management and repositories is good for fundamentally understanding Linux. Learn to use (and enjoy using) the command-line interface. This is known as 'Terminal', 'terminal window', or 'shell'. One of the primary reasons many users switch to Linux is because it features the terminal, so don't be intimidated by it. It is a powerful ally that doesn't have the same limitations of a Windows command prompt. You can just as easily use Linux without ever using a terminal as you would on Mac OSX. Using \"apropos\" can help you find a command that does a certain task. Try \"apropos user\" to see a list of commands that have the word \"user\" in their description. Familiarize yourself with the Linux file system. You will first notice that there is no longer the \"C:\\\" you are used to in Windows. Everything starts at the root of the file system (aka \"/\") and different hard drives are accessed through the /dev directory. Your home directory, which you typically find in C:\\Documents and Settings in Windows XP and 2000, is now located in /home/(your user name)/. Keep investigating the potential of your Linux install. Try encrypted partitions, new and very fast file system (like btrfs), redundant parallel disks that increase both speed and reliability (RAID's) and try to install Linux on a bootable USB stick. You'll soon discover that you can do a lot of things!",
+    "sentences": [
+        " Become familiar with the system.",
+        "Try downloading and installing it on your computer.",
+        "If you're not sure, be aware that it's possible to keep your current operating system and dedicate part of your hard drive to Linux (and you can even run both at the same time if you run one on a virtual machine.)",
+        "Test your hardware with a \"Live CD\" that is supplied by many of the distributions of Linux.",
+        "This is helpful if you feel uncomfortable with installing a second operating system on your computer.",
+        "A live CD will allow you to boot into a Linux environment from the CD, without the need to install anything on your computer.",
+        "Ubuntu and some other Linux distributions also offer CDs or DVDs that allow you to boot into a Live mode, and then install from the same disk.",
+        "Attempt the tasks you usually use your computer for.",
+        "Search for solutions if you can't word-process or burn a CD for example.",
+        "Make a note of what you want to do, can do and cannot do before you take the plunge.",
+        "Learn the distributions of Linux.",
+        "When referring to \"Linux\", this most often means a \"GNU/Linux Distribution.\"",
+        "A distribution is a collection of software that runs on top of a very small program called the Linux kernel.",
+        "Consider dual-booting.",
+        "This will help you understand partitioning as well as letting you continue to use Windows.",
+        "But be sure to back up all your personal data and settings before you try to set up a dual boot.",
+        "Install software.",
+        "Get used to installing and uninstalling software as soon as you can.",
+        "Understanding package management and repositories is good for fundamentally understanding Linux.",
+        "Learn to use (and enjoy using) the command-line interface.",
+        "This is known as 'Terminal', 'terminal window', or 'shell'.",
+        "One of the primary reasons many users switch to Linux is because it features the terminal, so don't be intimidated by it.",
+        "It is a powerful ally that doesn't have the same limitations of a Windows command prompt.",
+        "You can just as easily use Linux without ever using a terminal as you would on Mac OSX.",
+        "Using \"apropos\" can help you find a command that does a certain task.",
+        "Try \"apropos user\" to see a list of commands that have the word \"user\" in their description.",
+        "Familiarize yourself with the Linux file system.",
+        "You will first notice that there is no longer the \"C:\\\" you are used to in Windows.",
+        "Everything starts at the root of the file system (aka \"/\") and different hard drives are accessed through the /dev directory.",
+        "Your home directory, which you typically find in C:\\Documents and Settings in Windows XP and 2000, is now located in /home/(your user name)/.",
+        "Keep investigating the potential of your Linux install.",
+        "Try encrypted partitions, new and very fast file system (like btrfs), redundant parallel disks that increase both speed and reliability (RAID's) and try to install Linux on a bootable USB stick.",
+        "You'll soon discover that you can do a lot of things!"
+    ]
+}

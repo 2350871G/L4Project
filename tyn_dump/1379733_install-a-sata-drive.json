@@ -1,0 +1,233 @@
+{
+    "title": "How to Install a SATA Drive",
+    "url": "https://www.wikihow.com/Install-a-SATA-Drive",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computers",
+        "Computer Hardware"
+    ],
+    "methods": [
+        {
+            "name": "Installing a Desktop SATA Hard Drive",
+            "steps": [
+                {
+                    "headline": "Power down your computer.",
+                    "description": "Turn off the power switch on the back of the case and remove the side panel. Most cases have thumbscrews, but older cases may require the use of a screwdriver to open. Many cases will require you to remove both panels in order to secure the hard drive, though some have removable housings."
+                },
+                {
+                    "headline": "Ground yourself.",
+                    "description": "Before you begin working on the interior of your computer, make sure you discharge any electrostatic charge you may have. If your computer is still plugged into the wall (with the switch off), you can touch any of the exposed metal of the case to discharge. You can also touch a water tap to discharge your electrostatic charge. The safest way to work inside of a computer is to wear an antistatic wrist strap while working on the computer."
+                },
+                {
+                    "headline": "Find the hard drive bay.",
+                    "description": "The location will vary depending on the case, but it can typically be found beneath the optical drive bay. If you are upgrading or replacing a hard drive, you should see one already installed."
+                },
+                {
+                    "headline": "Disconnect the old hard drive (if replacing).",
+                    "description": "Locate the HDD you wish to replace and disconnect each of the two cables coming out from the rear of the drive. If you are adding storage to your existing configuration, you should leave the original hard drive installed where it is and skip down to Step 5. Notice that the cable on the left is insulated and has a wider connector than the other. This is the Serial ATA power cable which connects the HDD to the computer's power supply. The flat, red cable on the right has a smaller connector. This is the SATA Data Connector which connects the hard drive to the motherboard. Disconnect each from the drive by pulling gently on the connectors."
+                },
+                {
+                    "headline": "Remove the old hard drive.",
+                    "description": "The method for securing the HDD into the drive bay will vary somewhat from system to system, but it typically requires two small screws on each side of the drive that hold it in the bay. Remove the screws and slide the old HDD out from the drive bay. The old drive has now been removed."
+                },
+                {
+                    "headline": "Insert the new hard drive into an empty bay.",
+                    "description": "If your case permits, try to maintain some space between the new drive and any existing drives to help promote airflow and cooling. Be sure that the metal side faces up and the black, plastic side faces down. Also verify that the two SATA connection ports in back of the drive are accessible."
+                },
+                {
+                    "headline": "Secure the drive.",
+                    "description": "Secure the drive into the drive bay by inserting two screws into each side of the hard drive through the corresponding holes in the drive bay. Make sure to only use short screws designed for hard drives; if the screws are too long they could seriously damage the hard drive when it is running."
+                },
+                {
+                    "headline": "Connect the SATA cables to the hard drive.",
+                    "description": "Connect the insulated power cable with the wider tip into the larger connection port situated on the left-rear of the HDD. If the power cable does not fit easily, check to make sure that it is not upside down. Connect the data cable to the smaller SATA port on the hard drive. If the power supply is older, it may not have any SATA power connectors. If this is the case, you will need a Molex-to-SATA adapter. Molex plugs have four pins, and may be white or black."
+                },
+                {
+                    "headline": "Connect the data cable to the motherboard.",
+                    "description": "If you are adding a new drive, you will need to connect the data cable to a SATA port on the motherboard (if you are replacing and old drive, the data cable should already be connected). SATA ports are usually grouped together and labeled. If you can\u2019t see the labels, refer to your motherboard\u2019s documentation. Your primary (boot) drive should be connected to the lowest SATA port on your motherboard, unless otherwise specified in your motherboard documentation. This is usually SATA0 or SATA1. If you don\u2019t have any SATA ports on your motherboard, your motherboard does not support the SATA interface. You will need to install a motherboard that supports the SATA format."
+                },
+                {
+                    "headline": "Finish the installation.",
+                    "description": "Once the hard drive is secured and connected, close up your computer and power it back on. Before you can use your new drive, you will need to format it. If you are replacing the primary drive or building a new computer, you will need to install your operating system. Follow one of the guides below for more detailed instructions:\n\nInstall Windows 7. Install Windows 8. Install Linux. Format your new storage drive."
+                }
+            ]
+        },
+        {
+            "name": "Installing a Desktop SATA Optical Drive",
+            "steps": [
+                {
+                    "headline": "Power down your computer.",
+                    "description": "Turn of the power switch on the back of the power supply, but leave the cable plugged in if possible. This will help keep you grounded. If you have to unplug everything, be sure to follow Step 2 closely. Open the case using the thumbscrews (or a screwdriver if necessary). You will need to remove both side panels on many older cases and some newer ones in order to properly secure the drive."
+                },
+                {
+                    "headline": "Ground yourself.",
+                    "description": "Before you begin working on the interior of your computer, make sure you discharge any electrostatic charge you may have. If your computer is still plugged into the wall (with the switch off), you can touch any of the exposed metal of the case to discharge. You can also touch a water tap to discharge your electrostatic charge. The safest way to work inside of a computer is to wear an antistatic wrist strap while working on the computer."
+                },
+                {
+                    "headline": "Insert your new optical drive.",
+                    "description": "Most optical drives are inserted from the front of the case. You may need to remove a drive bay cover from your case\u2019s front bezel before you can insert the drive. Refer to your case\u2019s documentation for specific instructions for your case. Secure the drive using two screws on each side, or by using rails if your case has them."
+                },
+                {
+                    "headline": "Connect the power supply to the optical drive.",
+                    "description": "Use the SATA power connector to plug into the larger SATA slot on your optical drive. The cable can only be inserted in one direction, so don\u2019t force it. If your power supply is older, it may only have Molex (4-pin) connectors. If this is the case, you will need to use a Molex-to-SATA adapter."
+                },
+                {
+                    "headline": "Connect the optical drive to the motherboard.",
+                    "description": "Use the smaller SATA data cable to connect the optical drive to the motherboard. Use the SATA port on the motherboard directly after your last hard drive. For example, if your hard drive is in SATA1 on the motherboard, install the optical drive into SATA2. If your hard drive does not have any SATA ports, your motherboard does not support the SATA connection. You will need to install a new motherboard if you want to use your SATA drive."
+                },
+                {
+                    "headline": "Finish the installation.",
+                    "description": "Once the optical drive is secured and connected, you can close up your computer and power it back on. Your new drive should be automatically detected, and any necessary drivers will be installed automatically. If they are not, you may need to use the driver disc that came with the drive, or download the drivers from the manufacturer\u2019s website."
+                }
+            ]
+        },
+        {
+            "name": "Installing a Laptop SATA Hard Drive",
+            "steps": [
+                {
+                    "headline": "Back up your data.",
+                    "description": "Most laptops only have one hard drive slot, so if you replace your hard drive you will lose access to all of your old data. Ensure that anything you need is properly backed up, and that you have your operating system installation discs handy to install the operating system after the new drive is installed."
+                },
+                {
+                    "headline": "Power down the laptop.",
+                    "description": "Turn it over and remove the battery. Make sure that the power cable is not plugged it. Ground yourself, either by wearing an antistatic wrist strap, or by touching grounded metal."
+                },
+                {
+                    "headline": "Access the old hard drive.",
+                    "description": "The location varies from laptop to laptop, but generally it will be located behind a panel on the underside of the laptop. You may need to remove stickers to access all of the screws."
+                },
+                {
+                    "headline": "Remove the old hard drive.",
+                    "description": "Usually, you can pull a piece of ribbon to pop the hard drive out of the connectors. The method will vary depending on your laptop model. The hard drive should be easy to remove from the laptop once it has been disconnected. Some hard drives will have cages attached to them. You will need to unscrew the cage and then attach it to the new hard drive before inserting it."
+                },
+                {
+                    "headline": "Install your new drive.",
+                    "description": "Place the hard drive in the bay and press it firmly into the connectors. Make sure that the hard drive is lined up correctly before applying pressure. The hard drive should plug snugly into the connectors without a significant amount of force. Secure the hard drive with any screws or clips that you removed to get the old one out."
+                },
+                {
+                    "headline": "Close up the laptop.",
+                    "description": "Once your hard drive is secured and the panels have been replaced, you can power up your laptop. Your new hard drive should be recognized automatically, but will not boot since there is no operating system present. Follow one of the guides below for detailed instructions on reinstalling your specific operating system:\n\nInstall Windows 7. Install Windows 8. Install Windows Vista\n\nInstall Linux."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Antistatic wrist strap",
+        "Phillips head screwdriver"
+    ],
+    "text": " Installing a Desktop SATA Hard Drive Power down your computer. Turn off the power switch on the back of the case and remove the side panel. Most cases have thumbscrews, but older cases may require the use of a screwdriver to open. Many cases will require you to remove both panels in order to secure the hard drive, though some have removable housings. Ground yourself. Before you begin working on the interior of your computer, make sure you discharge any electrostatic charge you may have. If your computer is still plugged into the wall (with the switch off), you can touch any of the exposed metal of the case to discharge. You can also touch a water tap to discharge your electrostatic charge. The safest way to work inside of a computer is to wear an antistatic wrist strap while working on the computer. Find the hard drive bay. The location will vary depending on the case, but it can typically be found beneath the optical drive bay. If you are upgrading or replacing a hard drive, you should see one already installed. Disconnect the old hard drive (if replacing). Locate the HDD you wish to replace and disconnect each of the two cables coming out from the rear of the drive. If you are adding storage to your existing configuration, you should leave the original hard drive installed where it is and skip down to Step 5. Notice that the cable on the left is insulated and has a wider connector than the other. This is the Serial ATA power cable which connects the HDD to the computer's power supply. The flat, red cable on the right has a smaller connector. This is the SATA Data Connector which connects the hard drive to the motherboard. Disconnect each from the drive by pulling gently on the connectors. Remove the old hard drive. The method for securing the HDD into the drive bay will vary somewhat from system to system, but it typically requires two small screws on each side of the drive that hold it in the bay. Remove the screws and slide the old HDD out from the drive bay. The old drive has now been removed. Insert the new hard drive into an empty bay. If your case permits, try to maintain some space between the new drive and any existing drives to help promote airflow and cooling. Be sure that the metal side faces up and the black, plastic side faces down. Also verify that the two SATA connection ports in back of the drive are accessible. Secure the drive. Secure the drive into the drive bay by inserting two screws into each side of the hard drive through the corresponding holes in the drive bay. Make sure to only use short screws designed for hard drives; if the screws are too long they could seriously damage the hard drive when it is running. Connect the SATA cables to the hard drive. Connect the insulated power cable with the wider tip into the larger connection port situated on the left-rear of the HDD. If the power cable does not fit easily, check to make sure that it is not upside down. Connect the data cable to the smaller SATA port on the hard drive. If the power supply is older, it may not have any SATA power connectors. If this is the case, you will need a Molex-to-SATA adapter. Molex plugs have four pins, and may be white or black. Connect the data cable to the motherboard. If you are adding a new drive, you will need to connect the data cable to a SATA port on the motherboard (if you are replacing and old drive, the data cable should already be connected). SATA ports are usually grouped together and labeled. If you can\u2019t see the labels, refer to your motherboard\u2019s documentation. Your primary (boot) drive should be connected to the lowest SATA port on your motherboard, unless otherwise specified in your motherboard documentation. This is usually SATA0 or SATA1. If you don\u2019t have any SATA ports on your motherboard, your motherboard does not support the SATA interface. You will need to install a motherboard that supports the SATA format. Finish the installation. Once the hard drive is secured and connected, close up your computer and power it back on. Before you can use your new drive, you will need to format it. If you are replacing the primary drive or building a new computer, you will need to install your operating system. Follow one of the guides below for more detailed instructions:\n\nInstall Windows 7. Install Windows 8. Install Linux. Format your new storage drive. Installing a Desktop SATA Optical Drive Power down your computer. Turn of the power switch on the back of the power supply, but leave the cable plugged in if possible. This will help keep you grounded. If you have to unplug everything, be sure to follow Step 2 closely. Open the case using the thumbscrews (or a screwdriver if necessary). You will need to remove both side panels on many older cases and some newer ones in order to properly secure the drive. Ground yourself. Before you begin working on the interior of your computer, make sure you discharge any electrostatic charge you may have. If your computer is still plugged into the wall (with the switch off), you can touch any of the exposed metal of the case to discharge. You can also touch a water tap to discharge your electrostatic charge. The safest way to work inside of a computer is to wear an antistatic wrist strap while working on the computer. Insert your new optical drive. Most optical drives are inserted from the front of the case. You may need to remove a drive bay cover from your case\u2019s front bezel before you can insert the drive. Refer to your case\u2019s documentation for specific instructions for your case. Secure the drive using two screws on each side, or by using rails if your case has them. Connect the power supply to the optical drive. Use the SATA power connector to plug into the larger SATA slot on your optical drive. The cable can only be inserted in one direction, so don\u2019t force it. If your power supply is older, it may only have Molex (4-pin) connectors. If this is the case, you will need to use a Molex-to-SATA adapter. Connect the optical drive to the motherboard. Use the smaller SATA data cable to connect the optical drive to the motherboard. Use the SATA port on the motherboard directly after your last hard drive. For example, if your hard drive is in SATA1 on the motherboard, install the optical drive into SATA2. If your hard drive does not have any SATA ports, your motherboard does not support the SATA connection. You will need to install a new motherboard if you want to use your SATA drive. Finish the installation. Once the optical drive is secured and connected, you can close up your computer and power it back on. Your new drive should be automatically detected, and any necessary drivers will be installed automatically. If they are not, you may need to use the driver disc that came with the drive, or download the drivers from the manufacturer\u2019s website. Installing a Laptop SATA Hard Drive Back up your data. Most laptops only have one hard drive slot, so if you replace your hard drive you will lose access to all of your old data. Ensure that anything you need is properly backed up, and that you have your operating system installation discs handy to install the operating system after the new drive is installed. Power down the laptop. Turn it over and remove the battery. Make sure that the power cable is not plugged it. Ground yourself, either by wearing an antistatic wrist strap, or by touching grounded metal. Access the old hard drive. The location varies from laptop to laptop, but generally it will be located behind a panel on the underside of the laptop. You may need to remove stickers to access all of the screws. Remove the old hard drive. Usually, you can pull a piece of ribbon to pop the hard drive out of the connectors. The method will vary depending on your laptop model. The hard drive should be easy to remove from the laptop once it has been disconnected. Some hard drives will have cages attached to them. You will need to unscrew the cage and then attach it to the new hard drive before inserting it. Install your new drive. Place the hard drive in the bay and press it firmly into the connectors. Make sure that the hard drive is lined up correctly before applying pressure. The hard drive should plug snugly into the connectors without a significant amount of force. Secure the hard drive with any screws or clips that you removed to get the old one out. Close up the laptop. Once your hard drive is secured and the panels have been replaced, you can power up your laptop. Your new hard drive should be recognized automatically, but will not boot since there is no operating system present. Follow one of the guides below for detailed instructions on reinstalling your specific operating system:\n\nInstall Windows 7. Install Windows 8. Install Windows Vista\n\nInstall Linux.",
+    "sentences": [
+        " Installing a Desktop SATA Hard Drive Power down your computer.",
+        "Turn off the power switch on the back of the case and remove the side panel.",
+        "Most cases have thumbscrews, but older cases may require the use of a screwdriver to open.",
+        "Many cases will require you to remove both panels in order to secure the hard drive, though some have removable housings.",
+        "Ground yourself.",
+        "Before you begin working on the interior of your computer, make sure you discharge any electrostatic charge you may have.",
+        "If your computer is still plugged into the wall (with the switch off), you can touch any of the exposed metal of the case to discharge.",
+        "You can also touch a water tap to discharge your electrostatic charge.",
+        "The safest way to work inside of a computer is to wear an antistatic wrist strap while working on the computer.",
+        "Find the hard drive bay.",
+        "The location will vary depending on the case, but it can typically be found beneath the optical drive bay.",
+        "If you are upgrading or replacing a hard drive, you should see one already installed.",
+        "Disconnect the old hard drive (if replacing).",
+        "Locate the HDD you wish to replace and disconnect each of the two cables coming out from the rear of the drive.",
+        "If you are adding storage to your existing configuration, you should leave the original hard drive installed where it is and skip down to Step 5.",
+        "Notice that the cable on the left is insulated and has a wider connector than the other.",
+        "This is the Serial ATA power cable which connects the HDD to the computer's power supply.",
+        "The flat, red cable on the right has a smaller connector.",
+        "This is the SATA Data Connector which connects the hard drive to the motherboard.",
+        "Disconnect each from the drive by pulling gently on the connectors.",
+        "Remove the old hard drive.",
+        "The method for securing the HDD into the drive bay will vary somewhat from system to system, but it typically requires two small screws on each side of the drive that hold it in the bay.",
+        "Remove the screws and slide the old HDD out from the drive bay.",
+        "The old drive has now been removed.",
+        "Insert the new hard drive into an empty bay.",
+        "If your case permits, try to maintain some space between the new drive and any existing drives to help promote airflow and cooling.",
+        "Be sure that the metal side faces up and the black, plastic side faces down.",
+        "Also verify that the two SATA connection ports in back of the drive are accessible.",
+        "Secure the drive.",
+        "Secure the drive into the drive bay by inserting two screws into each side of the hard drive through the corresponding holes in the drive bay.",
+        "Make sure to only use short screws designed for hard drives; if the screws are too long they could seriously damage the hard drive when it is running.",
+        "Connect the SATA cables to the hard drive.",
+        "Connect the insulated power cable with the wider tip into the larger connection port situated on the left-rear of the HDD.",
+        "If the power cable does not fit easily, check to make sure that it is not upside down.",
+        "Connect the data cable to the smaller SATA port on the hard drive.",
+        "If the power supply is older, it may not have any SATA power connectors.",
+        "If this is the case, you will need a Molex-to-SATA adapter.",
+        "Molex plugs have four pins, and may be white or black.",
+        "Connect the data cable to the motherboard.",
+        "If you are adding a new drive, you will need to connect the data cable to a SATA port on the motherboard (if you are replacing and old drive, the data cable should already be connected).",
+        "SATA ports are usually grouped together and labeled.",
+        "If you can\u2019t see the labels, refer to your motherboard\u2019s documentation.",
+        "Your primary (boot) drive should be connected to the lowest SATA port on your motherboard, unless otherwise specified in your motherboard documentation.",
+        "This is usually SATA0 or SATA1.",
+        "If you don\u2019t have any SATA ports on your motherboard, your motherboard does not support the SATA interface.",
+        "You will need to install a motherboard that supports the SATA format.",
+        "Finish the installation.",
+        "Once the hard drive is secured and connected, close up your computer and power it back on.",
+        "Before you can use your new drive, you will need to format it.",
+        "If you are replacing the primary drive or building a new computer, you will need to install your operating system.",
+        "Follow one of the guides below for more detailed instructions:\n\nInstall Windows 7.",
+        "Install Windows 8.",
+        "Install Linux.",
+        "Format your new storage drive.",
+        "Installing a Desktop SATA Optical Drive Power down your computer.",
+        "Turn of the power switch on the back of the power supply, but leave the cable plugged in if possible.",
+        "This will help keep you grounded.",
+        "If you have to unplug everything, be sure to follow Step 2 closely.",
+        "Open the case using the thumbscrews (or a screwdriver if necessary).",
+        "You will need to remove both side panels on many older cases and some newer ones in order to properly secure the drive.",
+        "Ground yourself.",
+        "Before you begin working on the interior of your computer, make sure you discharge any electrostatic charge you may have.",
+        "If your computer is still plugged into the wall (with the switch off), you can touch any of the exposed metal of the case to discharge.",
+        "You can also touch a water tap to discharge your electrostatic charge.",
+        "The safest way to work inside of a computer is to wear an antistatic wrist strap while working on the computer.",
+        "Insert your new optical drive.",
+        "Most optical drives are inserted from the front of the case.",
+        "You may need to remove a drive bay cover from your case\u2019s front bezel before you can insert the drive.",
+        "Refer to your case\u2019s documentation for specific instructions for your case.",
+        "Secure the drive using two screws on each side, or by using rails if your case has them.",
+        "Connect the power supply to the optical drive.",
+        "Use the SATA power connector to plug into the larger SATA slot on your optical drive.",
+        "The cable can only be inserted in one direction, so don\u2019t force it.",
+        "If your power supply is older, it may only have Molex (4-pin) connectors.",
+        "If this is the case, you will need to use a Molex-to-SATA adapter.",
+        "Connect the optical drive to the motherboard.",
+        "Use the smaller SATA data cable to connect the optical drive to the motherboard.",
+        "Use the SATA port on the motherboard directly after your last hard drive.",
+        "For example, if your hard drive is in SATA1 on the motherboard, install the optical drive into SATA2.",
+        "If your hard drive does not have any SATA ports, your motherboard does not support the SATA connection.",
+        "You will need to install a new motherboard if you want to use your SATA drive.",
+        "Finish the installation.",
+        "Once the optical drive is secured and connected, you can close up your computer and power it back on.",
+        "Your new drive should be automatically detected, and any necessary drivers will be installed automatically.",
+        "If they are not, you may need to use the driver disc that came with the drive, or download the drivers from the manufacturer\u2019s website.",
+        "Installing a Laptop SATA Hard Drive Back up your data.",
+        "Most laptops only have one hard drive slot, so if you replace your hard drive you will lose access to all of your old data.",
+        "Ensure that anything you need is properly backed up, and that you have your operating system installation discs handy to install the operating system after the new drive is installed.",
+        "Power down the laptop.",
+        "Turn it over and remove the battery.",
+        "Make sure that the power cable is not plugged it.",
+        "Ground yourself, either by wearing an antistatic wrist strap, or by touching grounded metal.",
+        "Access the old hard drive.",
+        "The location varies from laptop to laptop, but generally it will be located behind a panel on the underside of the laptop.",
+        "You may need to remove stickers to access all of the screws.",
+        "Remove the old hard drive.",
+        "Usually, you can pull a piece of ribbon to pop the hard drive out of the connectors.",
+        "The method will vary depending on your laptop model.",
+        "The hard drive should be easy to remove from the laptop once it has been disconnected.",
+        "Some hard drives will have cages attached to them.",
+        "You will need to unscrew the cage and then attach it to the new hard drive before inserting it.",
+        "Install your new drive.",
+        "Place the hard drive in the bay and press it firmly into the connectors.",
+        "Make sure that the hard drive is lined up correctly before applying pressure.",
+        "The hard drive should plug snugly into the connectors without a significant amount of force.",
+        "Secure the hard drive with any screws or clips that you removed to get the old one out.",
+        "Close up the laptop.",
+        "Once your hard drive is secured and the panels have been replaced, you can power up your laptop.",
+        "Your new hard drive should be recognized automatically, but will not boot since there is no operating system present.",
+        "Follow one of the guides below for detailed instructions on reinstalling your specific operating system:\n\nInstall Windows 7.",
+        "Install Windows 8.",
+        "Install Windows Vista\n\nInstall Linux."
+    ]
+}

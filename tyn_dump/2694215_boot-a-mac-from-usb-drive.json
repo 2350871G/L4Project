@@ -1,0 +1,165 @@
+{
+    "title": "How to Boot a Mac from USB Drive",
+    "url": "https://www.wikihow.com/Boot-a-Mac-from-USB-Drive",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Mac"
+    ],
+    "steps": [
+        {
+            "headline": "Download the Mac OS X Lion Installer from the App Store.",
+            "description": "The latest versions of the Mac operating system are only available through the App Store."
+        },
+        {
+            "headline": "The download can take some time depending on your internet connection.",
+            "description": "Don't worry if you lose connection halfway through download, it will resume as soon as you are re-connected to the App Store."
+        },
+        {
+            "headline": "Make a backup of the installer you downloaded from App Store and save it on your desktop.",
+            "description": "Under no condition should you work on the original installer file."
+        },
+        {
+            "headline": "Use the backup file to make a bootable USB drive.",
+            "description": ""
+        },
+        {
+            "headline": "Right click on the installer file and click on \"Show Package Contents\".",
+            "description": ""
+        },
+        {
+            "headline": "This will open a new window with the contents of the installer file.",
+            "description": ""
+        },
+        {
+            "headline": "Navigate to Contents \u00bb SharedSupport.",
+            "description": ""
+        },
+        {
+            "headline": "You\u2019ll see a disk image called \u201cInstallESD.dmg.\u201d This is your ticket to creating a bootable copy of OSX Mountain Lion.",
+            "description": ""
+        },
+        {
+            "headline": "Click on the magnifying glass icon in the menu bar and type \"Disk Utility\".",
+            "description": ""
+        },
+        {
+            "headline": "Click on \"Disk Utility\" Application and wait for it to open.",
+            "description": ""
+        },
+        {
+            "headline": "Drag the \u201cInstallESD.dmg\u201d file from installer folder into the white box on the left side of Disk Utility, and the disk image will be added.",
+            "description": ""
+        },
+        {
+            "headline": "Connect your USB drive to the Mac using the provided USB slots.",
+            "description": ""
+        },
+        {
+            "headline": "Wait for it to be recognized and displayed on the desktop.",
+            "description": ""
+        },
+        {
+            "headline": "Select the USB drive from the list in Disk Utility.",
+            "description": ""
+        },
+        {
+            "headline": "Click on Erase.",
+            "description": ""
+        },
+        {
+            "headline": "Ensure it\u2019s partitioned as \u201cMac OS Extended (Journaled)\u201d under the \u201cPartition\u201d section in Disk Utility.",
+            "description": ""
+        },
+        {
+            "headline": "The name will be \"Untitled\" by default, you are free to change it as per your liking.",
+            "description": ""
+        },
+        {
+            "headline": "Click on Erase in the bottom right corner.",
+            "description": ""
+        },
+        {
+            "headline": "Wait for USB disk to be erased and restored to single clean and usable partition.",
+            "description": ""
+        },
+        {
+            "headline": "Click on the InstallESD.dmg icon on the left side of Disk Utility app.",
+            "description": ""
+        },
+        {
+            "headline": "Click on the Restore tab in the center-top part of Disk Utility App.",
+            "description": "\u201cInstallESD.dmg\u201d should already be present in the source tab."
+        },
+        {
+            "headline": "Drag the drive you just added to Disk Utility from the source list in the top left of the app white space to the \u201cDestination\u201d path.",
+            "description": ""
+        },
+        {
+            "headline": "Hit Restore and let Disk Utility work its magic.",
+            "description": "This can take some time so please be patient."
+        },
+        {
+            "headline": "Close Disk Utility.",
+            "description": "You now have a bootable USB disk drive with Mac OS X Mountain Lion installed and good to go!"
+        },
+        {
+            "headline": "Restart the computer you wish to boot from this disk.",
+            "description": ""
+        },
+        {
+            "headline": "While restarting, hold down the \u2325 Option key.",
+            "description": ""
+        },
+        {
+            "headline": "Select the Installer app from the menu and you will be able to boot from it.",
+            "description": ""
+        },
+        {
+            "headline": "Congratulations!",
+            "description": "You can now use this disk to verify/repair disk partitions, repair current installed OSX, upgrade to new OSX, or perform a clean install of existing or better OSX."
+        }
+    ],
+    "tyn": [
+        "8GB+ USB external drive",
+        "Mac OSX Installer from App Store"
+    ],
+    "text": " Download the Mac OS X Lion Installer from the App Store. The latest versions of the Mac operating system are only available through the App Store. The download can take some time depending on your internet connection. Don't worry if you lose connection halfway through download, it will resume as soon as you are re-connected to the App Store. Make a backup of the installer you downloaded from App Store and save it on your desktop. Under no condition should you work on the original installer file. Use the backup file to make a bootable USB drive.  Right click on the installer file and click on \"Show Package Contents\".  This will open a new window with the contents of the installer file.  Navigate to Contents \u00bb SharedSupport.  You\u2019ll see a disk image called \u201cInstallESD.dmg.\u201d This is your ticket to creating a bootable copy of OSX Mountain Lion.  Click on the magnifying glass icon in the menu bar and type \"Disk Utility\".  Click on \"Disk Utility\" Application and wait for it to open.  Drag the \u201cInstallESD.dmg\u201d file from installer folder into the white box on the left side of Disk Utility, and the disk image will be added.  Connect your USB drive to the Mac using the provided USB slots.  Wait for it to be recognized and displayed on the desktop.  Select the USB drive from the list in Disk Utility.  Click on Erase.  Ensure it\u2019s partitioned as \u201cMac OS Extended (Journaled)\u201d under the \u201cPartition\u201d section in Disk Utility.  The name will be \"Untitled\" by default, you are free to change it as per your liking.  Click on Erase in the bottom right corner.  Wait for USB disk to be erased and restored to single clean and usable partition.  Click on the InstallESD.dmg icon on the left side of Disk Utility app.  Click on the Restore tab in the center-top part of Disk Utility App. \u201cInstallESD.dmg\u201d should already be present in the source tab. Drag the drive you just added to Disk Utility from the source list in the top left of the app white space to the \u201cDestination\u201d path.  Hit Restore and let Disk Utility work its magic. This can take some time so please be patient. Close Disk Utility. You now have a bootable USB disk drive with Mac OS X Mountain Lion installed and good to go! Restart the computer you wish to boot from this disk.  While restarting, hold down the \u2325 Option key.  Select the Installer app from the menu and you will be able to boot from it.  Congratulations! You can now use this disk to verify/repair disk partitions, repair current installed OSX, upgrade to new OSX, or perform a clean install of existing or better OSX.",
+    "sentences": [
+        " Download the Mac OS X Lion Installer from the App Store.",
+        "The latest versions of the Mac operating system are only available through the App Store.",
+        "The download can take some time depending on your internet connection.",
+        "Don't worry if you lose connection halfway through download, it will resume as soon as you are re-connected to the App Store.",
+        "Make a backup of the installer you downloaded from App Store and save it on your desktop.",
+        "Under no condition should you work on the original installer file.",
+        "Use the backup file to make a bootable USB drive.",
+        "Right click on the installer file and click on \"Show Package Contents\".",
+        "This will open a new window with the contents of the installer file.",
+        "Navigate to Contents \u00bb SharedSupport.",
+        "You\u2019ll see a disk image called \u201cInstallESD.dmg.\u201d This is your ticket to creating a bootable copy of OSX Mountain Lion.",
+        "Click on the magnifying glass icon in the menu bar and type \"Disk Utility\".",
+        "Click on \"Disk Utility\" Application and wait for it to open.",
+        "Drag the \u201cInstallESD.dmg\u201d file from installer folder into the white box on the left side of Disk Utility, and the disk image will be added.",
+        "Connect your USB drive to the Mac using the provided USB slots.",
+        "Wait for it to be recognized and displayed on the desktop.",
+        "Select the USB drive from the list in Disk Utility.",
+        "Click on Erase.",
+        "Ensure it\u2019s partitioned as \u201cMac OS Extended (Journaled)\u201d under the \u201cPartition\u201d section in Disk Utility.",
+        "The name will be \"Untitled\" by default, you are free to change it as per your liking.",
+        "Click on Erase in the bottom right corner.",
+        "Wait for USB disk to be erased and restored to single clean and usable partition.",
+        "Click on the InstallESD.dmg icon on the left side of Disk Utility app.",
+        "Click on the Restore tab in the center-top part of Disk Utility App.",
+        "\u201cInstallESD.dmg\u201d should already be present in the source tab.",
+        "Drag the drive you just added to Disk Utility from the source list in the top left of the app white space to the \u201cDestination\u201d path.",
+        "Hit Restore and let Disk Utility work its magic.",
+        "This can take some time so please be patient.",
+        "Close Disk Utility.",
+        "You now have a bootable USB disk drive with Mac OS X Mountain Lion installed and good to go!",
+        "Restart the computer you wish to boot from this disk.",
+        "While restarting, hold down the \u2325 Option key.",
+        "Select the Installer app from the menu and you will be able to boot from it.",
+        "Congratulations!",
+        "You can now use this disk to verify/repair disk partitions, repair current installed OSX, upgrade to new OSX, or perform a clean install of existing or better OSX."
+    ]
+}

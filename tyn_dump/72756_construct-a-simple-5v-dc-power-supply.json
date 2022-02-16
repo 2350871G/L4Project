@@ -1,0 +1,56 @@
+{
+    "title": "How to Construct a Simple 5V DC Power Supply",
+    "url": "https://www.wikihow.com/Construct-a-Simple-5V-DC-Power-Supply",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Hardware",
+        "Internal Components"
+    ],
+    "steps": [
+        {
+            "headline": "Consider one wire from the AC adapter the positive terminal.",
+            "description": "Consider the other wire ground. At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on."
+        },
+        {
+            "headline": "Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it.",
+            "description": "You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later."
+        },
+        {
+            "headline": "Locate the lead on the side of the capacitor that has a stripe.",
+            "description": "Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter."
+        },
+        {
+            "headline": "Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe.",
+            "description": "That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle."
+        },
+        {
+            "headline": "Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.",
+            "description": "Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground."
+        }
+    ],
+    "tyn": [
+        "An AC adapter (generic) giving anywhere from 8-30V AC output and up to 1.5 amps of output",
+        "A rectifying diode such as a 1N5392, or equivalent capable of at least 1.5A average forward current and 50V reverse voltage",
+        "A 100uF electrolytic capacitor, radial leaded, rated for at least 35V",
+        "A TL780-05 5V fixed voltage regulator IC or equivalent in a TO-220 package (if it is marked 7805 it will work.)",
+        "A soldering iron and solder (if you're not using a prototype board)."
+    ],
+    "text": " Consider one wire from the AC adapter the positive terminal. Consider the other wire ground. At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on. Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it. You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later. Locate the lead on the side of the capacitor that has a stripe. Usually this stripe is white and has a minus sign on it. This is the negative side, which you should connect to the ground terminal of the AC adapter. Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe. That is, connect the positive terminal of the capacitor to the cathode of the diode. The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle. Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect. Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter. Pin 3 is the output. There will be 5 volts held between Pin 3 and ground.",
+    "sentences": [
+        " Consider one wire from the AC adapter the positive terminal.",
+        "Consider the other wire ground.",
+        "At this point it does not matter which one you choose to be positive or ground, but remember which is which from now on.",
+        "Connect the positive wire from the AC adapter to the side of the diode without the stripe marking on it.",
+        "You are connecting the positive wire to the anode of the diode where current will flow through the diode in only one way to charge the capacitor you will connect later.",
+        "Locate the lead on the side of the capacitor that has a stripe.",
+        "Usually this stripe is white and has a minus sign on it.",
+        "This is the negative side, which you should connect to the ground terminal of the AC adapter.",
+        "Connect the remaining terminal of the capacitor to the terminal of the diode with the stripe.",
+        "That is, connect the positive terminal of the capacitor to the cathode of the diode.",
+        "The diode allows the current from the transformer to charge the capacitor while stopping the capacitor from discharging back through the transformer on the negative cycle.",
+        "Connect Pin 1 of the voltage regulator IC to the node where the positive side of the capacitor and striped side of the diode connect.",
+        "Pin 2 is the ground reference, also called the \"common\", and should be connected to the ground wire of the AC adapter.",
+        "Pin 3 is the output.",
+        "There will be 5 volts held between Pin 3 and ground."
+    ]
+}

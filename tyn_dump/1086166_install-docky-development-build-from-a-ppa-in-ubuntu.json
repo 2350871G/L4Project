@@ -1,0 +1,35 @@
+{
+    "title": "How to Install Docky Development Build from a PPA in Ubuntu",
+    "url": "https://www.wikihow.com/Install-Docky-Development-Build-from-a-PPA-in-Ubuntu",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Linux",
+        "Ubuntu"
+    ],
+    "steps": [
+        {
+            "headline": "Enable third party and community software repositories from your \"Software Sources\"",
+            "description": ""
+        },
+        {
+            "headline": "Start the legendary Linux terminal from Accessories>Terminal",
+            "description": ""
+        },
+        {
+            "headline": "Punch in these commands without the quotes:",
+            "description": "\"sudo add-apt-repository ppa:docky-core/ppa\" \"sudo apt-get update\" \"sudo apt-get install docky\" Then start Docky from Accessories>Docky"
+        },
+        {
+            "headline": "Run Docky after installation and you will see Dock bar at the bottom of the desktop.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "Ubuntu Linux"
+    ],
+    "text": " Enable third party and community software repositories from your \"Software Sources\"  Start the legendary Linux terminal from Accessories>Terminal  Punch in these commands without the quotes: \"sudo add-apt-repository ppa:docky-core/ppa\" \"sudo apt-get update\" \"sudo apt-get install docky\" Then start Docky from Accessories>Docky Run Docky after installation and you will see Dock bar at the bottom of the desktop. ",
+    "sentences": [
+        " Enable third party and community software repositories from your \"Software Sources\"  Start the legendary Linux terminal from Accessories>Terminal  Punch in these commands without the quotes: \"sudo add-apt-repository ppa:docky-core/ppa\" \"sudo apt-get update\" \"sudo apt-get install docky\" Then start Docky from Accessories>Docky Run Docky after installation and you will see Dock bar at the bottom of the desktop."
+    ]
+}

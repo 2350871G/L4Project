@@ -1,0 +1,157 @@
+{
+    "title": "How to Calculate a Diagonal of a Square",
+    "url": "https://www.wikihow.com/Calculate-a-Diagonal-of-a-Square",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Geometry"
+    ],
+    "methods": [
+        {
+            "name": "If You Know the Length of One Side",
+            "steps": [
+                {
+                    "headline": "Find the length of one side of the square.",
+                    "description": "This will probably be given to you. If you are working with a square in the real world, use a ruler or piece of measuring tape to find the length. Since all four sides of the square are the same length, you can use any side of the square. If you do not know the length of one side of the square, you cannot use this method. For example, you might want to find the length of the diagonal of a square that has sides 5 centimeters long."
+                },
+                {
+                    "headline": "Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}.",
+                    "description": "In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square. This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}. A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle)."
+                },
+                {
+                    "headline": "Plug the side length of the square into the formula.",
+                    "description": "Make sure you are substituting for the variable s{\\displaystyle s}. For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}}"
+                },
+                {
+                    "headline": "Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}.",
+                    "description": "This will give you the length of the diagonal. It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result. If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414. For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long."
+                }
+            ]
+        },
+        {
+            "name": "If You Know the Perimeter",
+            "steps": [
+                {
+                    "headline": "Set up the formula for the perimeter of a square.",
+                    "description": "The formula is P=4s{\\displaystyle P=4s}, where P{\\displaystyle P} equals the perimeter of the square, and s{\\displaystyle s} equals the length of one side of the square. This method only works if you are given the perimeter of the square. To find the length of the diagonal, you must first find the length of one side of the square, so you need to set up the perimeter formula and solve for s{\\displaystyle s}."
+                },
+                {
+                    "headline": "Plug the length of the perimeter into the formula.",
+                    "description": "Make sure you are substituting for the variable P{\\displaystyle P}. For example, if the perimeter of the square is 20 centimeters, your formula will look like this:20=4s{\\displaystyle 20=4s}"
+                },
+                {
+                    "headline": "Solve for s{\\displaystyle s}.",
+                    "description": "To do this, divide each side of the equation by 4. This will give you the length of one side of the square. For example:20=4s{\\displaystyle 20=4s}204=4s4{\\displaystyle {\\frac {20}{4}}={\\frac {4s}{4}}}5=s{\\displaystyle 5=s}"
+                },
+                {
+                    "headline": "Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}.",
+                    "description": "In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square. This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}. A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle)."
+                },
+                {
+                    "headline": "Plug the side length of the square into the formula.",
+                    "description": "Make sure you are substituting for the variable s{\\displaystyle s}. For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}}"
+                },
+                {
+                    "headline": "Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}.",
+                    "description": "This will give you the length of the diagonal. It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result. If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414. For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long."
+                }
+            ]
+        },
+        {
+            "name": "If You Know the Area",
+            "steps": [
+                {
+                    "headline": "Set up the formula for the area of a square.",
+                    "description": "The formula is A=s2{\\displaystyle A=s^{2}}, where A{\\displaystyle A} equals the area of the square, and s{\\displaystyle s} equals the length of one side of the square. This method only works if you are given the area of the square. To find the length of the diagonal, you have to first find the length of one side of the square, which is why you must set up the area formula and solve for s{\\displaystyle s}."
+                },
+                {
+                    "headline": "Plug the area measurement into the formula.",
+                    "description": "Make sure you are substituting for the variable A{\\displaystyle A}. For example, if the area of the square is 25 square centimeters, your formula will look like this:25=s2{\\displaystyle 25=s^{2}}"
+                },
+                {
+                    "headline": "Solve for s{\\displaystyle s}.",
+                    "description": "To do this, find the square root of the area. This will give you the length of one side of the square. To find the square root, use a calculator. If you need help calculating the square root by hand, read Calculate a Square Root by Hand. For example:25=s2{\\displaystyle 25=s^{2}}25=s2{\\displaystyle {\\sqrt {25}}={\\sqrt {s^{2}}}}5=s{\\displaystyle 5=s}"
+                },
+                {
+                    "headline": "Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}.",
+                    "description": "In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square. This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}. A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle)."
+                },
+                {
+                    "headline": "Plug the side length of the square into the formula.",
+                    "description": "Make sure you are substituting for the variable s{\\displaystyle s}. For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}}"
+                },
+                {
+                    "headline": "Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}.",
+                    "description": "This will give you the length of the diagonal. *It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result. If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414. For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Calculator"
+    ],
+    "text": " If You Know the Length of One Side Find the length of one side of the square. This will probably be given to you. If you are working with a square in the real world, use a ruler or piece of measuring tape to find the length. Since all four sides of the square are the same length, you can use any side of the square. If you do not know the length of one side of the square, you cannot use this method. For example, you might want to find the length of the diagonal of a square that has sides 5 centimeters long. Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}. In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square. This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}. A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle). Plug the side length of the square into the formula. Make sure you are substituting for the variable s{\\displaystyle s}. For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}} Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}. This will give you the length of the diagonal. It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result. If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414. For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long. If You Know the Perimeter Set up the formula for the perimeter of a square. The formula is P=4s{\\displaystyle P=4s}, where P{\\displaystyle P} equals the perimeter of the square, and s{\\displaystyle s} equals the length of one side of the square. This method only works if you are given the perimeter of the square. To find the length of the diagonal, you must first find the length of one side of the square, so you need to set up the perimeter formula and solve for s{\\displaystyle s}. Plug the length of the perimeter into the formula. Make sure you are substituting for the variable P{\\displaystyle P}. For example, if the perimeter of the square is 20 centimeters, your formula will look like this:20=4s{\\displaystyle 20=4s} Solve for s{\\displaystyle s}. To do this, divide each side of the equation by 4. This will give you the length of one side of the square. For example:20=4s{\\displaystyle 20=4s}204=4s4{\\displaystyle {\\frac {20}{4}}={\\frac {4s}{4}}}5=s{\\displaystyle 5=s} Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}. In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square. This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}. A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle). Plug the side length of the square into the formula. Make sure you are substituting for the variable s{\\displaystyle s}. For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}} Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}. This will give you the length of the diagonal. It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result. If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414. For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long. If You Know the Area Set up the formula for the area of a square. The formula is A=s2{\\displaystyle A=s^{2}}, where A{\\displaystyle A} equals the area of the square, and s{\\displaystyle s} equals the length of one side of the square. This method only works if you are given the area of the square. To find the length of the diagonal, you have to first find the length of one side of the square, which is why you must set up the area formula and solve for s{\\displaystyle s}. Plug the area measurement into the formula. Make sure you are substituting for the variable A{\\displaystyle A}. For example, if the area of the square is 25 square centimeters, your formula will look like this:25=s2{\\displaystyle 25=s^{2}} Solve for s{\\displaystyle s}. To do this, find the square root of the area. This will give you the length of one side of the square. To find the square root, use a calculator. If you need help calculating the square root by hand, read Calculate a Square Root by Hand. For example:25=s2{\\displaystyle 25=s^{2}}25=s2{\\displaystyle {\\sqrt {25}}={\\sqrt {s^{2}}}}5=s{\\displaystyle 5=s} Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}. In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square. This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}. A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle). Plug the side length of the square into the formula. Make sure you are substituting for the variable s{\\displaystyle s}. For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}} Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}. This will give you the length of the diagonal. *It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result. If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414. For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long.",
+    "sentences": [
+        " If You Know the Length of One Side Find the length of one side of the square.",
+        "This will probably be given to you.",
+        "If you are working with a square in the real world, use a ruler or piece of measuring tape to find the length.",
+        "Since all four sides of the square are the same length, you can use any side of the square.",
+        "If you do not know the length of one side of the square, you cannot use this method.",
+        "For example, you might want to find the length of the diagonal of a square that has sides 5 centimeters long.",
+        "Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}.",
+        "In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square.",
+        "This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}.",
+        "A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle).",
+        "Plug the side length of the square into the formula.",
+        "Make sure you are substituting for the variable s{\\displaystyle s}.",
+        "For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}} Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}.",
+        "This will give you the length of the diagonal.",
+        "It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result.",
+        "If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414.",
+        "For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long.",
+        "If You Know the Perimeter Set up the formula for the perimeter of a square.",
+        "The formula is P=4s{\\displaystyle P=4s}, where P{\\displaystyle P} equals the perimeter of the square, and s{\\displaystyle s} equals the length of one side of the square.",
+        "This method only works if you are given the perimeter of the square.",
+        "To find the length of the diagonal, you must first find the length of one side of the square, so you need to set up the perimeter formula and solve for s{\\displaystyle s}.",
+        "Plug the length of the perimeter into the formula.",
+        "Make sure you are substituting for the variable P{\\displaystyle P}.",
+        "For example, if the perimeter of the square is 20 centimeters, your formula will look like this:20=4s{\\displaystyle 20=4s} Solve for s{\\displaystyle s}.",
+        "To do this, divide each side of the equation by 4.",
+        "This will give you the length of one side of the square.",
+        "For example:20=4s{\\displaystyle 20=4s}204=4s4{\\displaystyle {\\frac {20}{4}}={\\frac {4s}{4}}}5=s{\\displaystyle 5=s} Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}.",
+        "In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square.",
+        "This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}.",
+        "A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle).",
+        "Plug the side length of the square into the formula.",
+        "Make sure you are substituting for the variable s{\\displaystyle s}.",
+        "For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}} Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}.",
+        "This will give you the length of the diagonal.",
+        "It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result.",
+        "If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414.",
+        "For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long.",
+        "If You Know the Area Set up the formula for the area of a square.",
+        "The formula is A=s2{\\displaystyle A=s^{2}}, where A{\\displaystyle A} equals the area of the square, and s{\\displaystyle s} equals the length of one side of the square.",
+        "This method only works if you are given the area of the square.",
+        "To find the length of the diagonal, you have to first find the length of one side of the square, which is why you must set up the area formula and solve for s{\\displaystyle s}.",
+        "Plug the area measurement into the formula.",
+        "Make sure you are substituting for the variable A{\\displaystyle A}.",
+        "For example, if the area of the square is 25 square centimeters, your formula will look like this:25=s2{\\displaystyle 25=s^{2}} Solve for s{\\displaystyle s}.",
+        "To do this, find the square root of the area.",
+        "This will give you the length of one side of the square.",
+        "To find the square root, use a calculator.",
+        "If you need help calculating the square root by hand, read Calculate a Square Root by Hand.",
+        "For example:25=s2{\\displaystyle 25=s^{2}}25=s2{\\displaystyle {\\sqrt {25}}={\\sqrt {s^{2}}}}5=s{\\displaystyle 5=s} Set up the formula d=s2{\\displaystyle d=s{\\sqrt {2}}}.",
+        "In the formula d{\\displaystyle d} equals the length of the diagonal and s{\\displaystyle s} equals one side of the square.",
+        "This formula is derived from the Pythagorean Theorem (a2+b2=c2){\\displaystyle a^{2}+b^{2}=c^{2})}.",
+        "A diagonal divides a square into two congruent right triangles, thus, you can use the side lengths of the square to find the length of the diagonal (which would be the hypotenuse of the right triangle).",
+        "Plug the side length of the square into the formula.",
+        "Make sure you are substituting for the variable s{\\displaystyle s}.",
+        "For example, if the square has a side length of 5 centimeters, set up the formula like this:d=52{\\displaystyle d=5{\\sqrt {2}}} Multiply the length of the side by 2{\\displaystyle {\\sqrt {2}}}.",
+        "This will give you the length of the diagonal.",
+        "*It\u2019s best to perform the calculation on a calculator, so that you can get a more precise result.",
+        "If you don\u2019t have a calculator, you can round 2{\\displaystyle {\\sqrt {2}}} to 1.414.",
+        "For example, if you are calculating the diagonal of a 5-centimeter square, your formula will look like this:d=52{\\displaystyle d=5{\\sqrt {2}}}d=7.07{\\displaystyle d=7.07}So, the diagonal of the square is 7.07 centimeters long."
+    ]
+}

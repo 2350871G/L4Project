@@ -1,0 +1,81 @@
+{
+    "title": "How to Make Your Computer Welcome You",
+    "url": "https://www.wikihow.com/Make-Your-Computer-Welcome-You",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows"
+    ],
+    "steps": [
+        {
+            "headline": "Press 'Windows+R' from your keyboard.",
+            "description": "It'll open 'Run' window."
+        },
+        {
+            "headline": "Type notepad without the quote, and press the 'Enter' key.",
+            "description": "It'll open a 'Notepad' window."
+        },
+        {
+            "headline": "Type these lines shown in the image below carefully.",
+            "description": ""
+        },
+        {
+            "headline": "In the 2nd line, i.e.",
+            "description": "\"speaks=\" Type whatever you want your computer to speak\" \"."
+        },
+        {
+            "headline": "Type the rest all as shown in the image.",
+            "description": ""
+        },
+        {
+            "headline": "Save the file under any name, but make sure to put in '.vbs' followed by the file name (just like filename.vbs.)",
+            "description": "For example, if you write \"abc.vbs\", 'abc' will be the name of the file."
+        },
+        {
+            "headline": "Click 'windows start button', and then 'all programs'.",
+            "description": "Scroll down,and look for a folder with a name that says 'Startup'. (This step won't work in Windows XP.)"
+        },
+        {
+            "headline": "Right click 'Startup' and click open.",
+            "description": "It'll open this folder window for you."
+        },
+        {
+            "headline": "Place that file 'abc.vbs' in this folder.",
+            "description": "Simple cut/copy and paste here."
+        },
+        {
+            "headline": "Close the folder.",
+            "description": ""
+        },
+        {
+            "headline": "Turn off or restart your computer.",
+            "description": "If you followed the same steps without any mistake, your computer will speak whatever you typed."
+        }
+    ],
+    "tyn": [
+        "External speakers (if you use desktop)"
+    ],
+    "text": " Press 'Windows+R' from your keyboard. It'll open 'Run' window. Type notepad without the quote, and press the 'Enter' key. It'll open a 'Notepad' window. Type these lines shown in the image below carefully.  In the 2nd line, i.e. \"speaks=\" Type whatever you want your computer to speak\" \". Type the rest all as shown in the image.  Save the file under any name, but make sure to put in '.vbs' followed by the file name (just like filename.vbs.) For example, if you write \"abc.vbs\", 'abc' will be the name of the file. Click 'windows start button', and then 'all programs'. Scroll down,and look for a folder with a name that says 'Startup'. (This step won't work in Windows XP.) Right click 'Startup' and click open. It'll open this folder window for you. Place that file 'abc.vbs' in this folder. Simple cut/copy and paste here. Close the folder.  Turn off or restart your computer. If you followed the same steps without any mistake, your computer will speak whatever you typed.",
+    "sentences": [
+        " Press 'Windows+R' from your keyboard.",
+        "It'll open 'Run' window.",
+        "Type notepad without the quote, and press the 'Enter' key.",
+        "It'll open a 'Notepad' window.",
+        "Type these lines shown in the image below carefully.",
+        "In the 2nd line, i.e.",
+        "\"speaks=\" Type whatever you want your computer to speak\" \".",
+        "Type the rest all as shown in the image.",
+        "Save the file under any name, but make sure to put in '.vbs' followed by the file name (just like filename.vbs.)",
+        "For example, if you write \"abc.vbs\", 'abc' will be the name of the file.",
+        "Click 'windows start button', and then 'all programs'.",
+        "Scroll down,and look for a folder with a name that says 'Startup'.",
+        "(This step won't work in Windows XP.)",
+        "Right click 'Startup' and click open.",
+        "It'll open this folder window for you.",
+        "Place that file 'abc.vbs' in this folder.",
+        "Simple cut/copy and paste here.",
+        "Close the folder.",
+        "Turn off or restart your computer.",
+        "If you followed the same steps without any mistake, your computer will speak whatever you typed."
+    ]
+}

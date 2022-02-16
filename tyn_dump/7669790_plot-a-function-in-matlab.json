@@ -1,0 +1,126 @@
+{
+    "title": "How to Plot a Function in MATLAB",
+    "url": "https://www.wikihow.com/Plot-a-Function-in-MATLAB",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Programming",
+        "MATLAB"
+    ],
+    "steps": [
+        {
+            "headline": "Open MATLAB on your computer.",
+            "description": ""
+        },
+        {
+            "headline": "Know what function you want to graph.",
+            "description": "Anonymous functions are not stored to any program file. They can accept multiple inputs and return outputs. You must know what function you want to graph because you need to let MATLAB know what independent variables your function has before you write the function. Some examples of anonymous functions include:\nTrigonometric functions\nRational functions\nPolynomials\nLogarithmic functions"
+        },
+        {
+            "headline": "Know what interval you want your function to be graphed on.",
+            "description": "You will want to know what interval you want your function to be graphed on because it is entered before you graph the function. It is a good idea to know your interval before you begin typing. Intervals always have lower and upper bounds. Entering the interval will be explained later."
+        },
+        {
+            "headline": "Click inside the command window.",
+            "description": "This is where you will place individual statements. Inside the command window you can assign values to variables, assign functions to variables, plot functions etc."
+        },
+        {
+            "headline": "Name the function.",
+            "description": "The first thing you will begin to type is the name of the function. Typical names for functions are \u201cf\u201d and \u201cg\u201d. However, you can name the function anything that you want. The name of the function must start with a letter. It should not contain any special characters. It may contain numbers as long as the first character is a letter."
+        },
+        {
+            "headline": "Set up independent variables.",
+            "description": "Directly after the function you will set up the independent variables. You do this by putting an equal sign \u201c=\u201d after the function name. Then put a space and an \u201c@\u201d. Immediately after the \u201c@\u201d you will put an open parenthesis \u201c(\u201c. Now you can start listing all the of the independent variables. If your independent variable is \u201cx\u201d, it should look like this: \u201c@(x)\u201d. If you wish to have more independent variables, then you put a comma after each variable. For example, @(x,y)."
+        },
+        {
+            "headline": "Type your function.",
+            "description": "After you set up the independent variables you can type the function. It is a good idea to put a space in between them so your code looks neat. Here are some basic tips to help type functions in MATLAB. Cosine- cos(x)\nSine-sin(x)\nTangent-tan(x)\nCosine(in degrees)-cosd(x)\nSine(in degrees)-sind(x)\nTangent(in degrees)-tand(x)\nMultiplication- \u201c2*x\u201d\nDivision- \u201c2/x\u201d\nAddition- \u201c2+x\u201d\nSubtraction- \u201c2-x\nExponent- x^2\ne- exp(x)\nExample of how to type a polynomial - \"2*x^2+3*x+7\""
+        },
+        {
+            "headline": "Press \u21b5 Enter.",
+            "description": "This saves the function to the variable. After you press enter, the function should come up on the next line. If you get an error, then you may have typed something in wrong."
+        },
+        {
+            "headline": "Plot the function.",
+            "description": "On the next line you will write a statement to plot the function. To plot an anonymous function, you must use \u201cfplot\u201d even if your function is not named \"f\". The proper syntax for fplot is: fplot(name of function, interval). So you will basically type in the name of the function first and then type in the interval. The interval is written [lower bound upper bound]. For example: fplot(f,[0 2*pi]). If you do not know the interval, then you can just put \u201cfplot(f)\u201d. MATLAB will pick the interval. After you type this, then you will press enter again."
+        },
+        {
+            "headline": "Click back in the command window.",
+            "description": "Make sure you click back in the command window. Do not exit out of the graph. If you exit out of the graph, then you will not be able to add to the graph."
+        },
+        {
+            "headline": "Add label axes and title.",
+            "description": "After each time you label an axes or the title, you will hit \u21b5 Enter. Each time, the graph window will change. Make sure your cursor is still in the command window. Here is how you give a name to each:\nx-axis: xlabel('name')\ny-axis: ylabel('name')\ntitle:title('name')."
+        },
+        {
+            "headline": "Save the graph.",
+            "description": "If you want to save the graph, click file on the graph window. Then press \"save as\" and choose where you want to save it."
+        }
+    ],
+    "tyn": [
+        "Computer",
+        "MATLAB"
+    ],
+    "text": " Open MATLAB on your computer.  Know what function you want to graph. Anonymous functions are not stored to any program file. They can accept multiple inputs and return outputs. You must know what function you want to graph because you need to let MATLAB know what independent variables your function has before you write the function. Some examples of anonymous functions include:\nTrigonometric functions\nRational functions\nPolynomials\nLogarithmic functions Know what interval you want your function to be graphed on. You will want to know what interval you want your function to be graphed on because it is entered before you graph the function. It is a good idea to know your interval before you begin typing. Intervals always have lower and upper bounds. Entering the interval will be explained later. Click inside the command window. This is where you will place individual statements. Inside the command window you can assign values to variables, assign functions to variables, plot functions etc. Name the function. The first thing you will begin to type is the name of the function. Typical names for functions are \u201cf\u201d and \u201cg\u201d. However, you can name the function anything that you want. The name of the function must start with a letter. It should not contain any special characters. It may contain numbers as long as the first character is a letter. Set up independent variables. Directly after the function you will set up the independent variables. You do this by putting an equal sign \u201c=\u201d after the function name. Then put a space and an \u201c@\u201d. Immediately after the \u201c@\u201d you will put an open parenthesis \u201c(\u201c. Now you can start listing all the of the independent variables. If your independent variable is \u201cx\u201d, it should look like this: \u201c@(x)\u201d. If you wish to have more independent variables, then you put a comma after each variable. For example, @(x,y). Type your function. After you set up the independent variables you can type the function. It is a good idea to put a space in between them so your code looks neat. Here are some basic tips to help type functions in MATLAB. Cosine- cos(x)\nSine-sin(x)\nTangent-tan(x)\nCosine(in degrees)-cosd(x)\nSine(in degrees)-sind(x)\nTangent(in degrees)-tand(x)\nMultiplication- \u201c2*x\u201d\nDivision- \u201c2/x\u201d\nAddition- \u201c2+x\u201d\nSubtraction- \u201c2-x\nExponent- x^2\ne- exp(x)\nExample of how to type a polynomial - \"2*x^2+3*x+7\" Press \u21b5 Enter. This saves the function to the variable. After you press enter, the function should come up on the next line. If you get an error, then you may have typed something in wrong. Plot the function. On the next line you will write a statement to plot the function. To plot an anonymous function, you must use \u201cfplot\u201d even if your function is not named \"f\". The proper syntax for fplot is: fplot(name of function, interval). So you will basically type in the name of the function first and then type in the interval. The interval is written [lower bound upper bound]. For example: fplot(f,[0 2*pi]). If you do not know the interval, then you can just put \u201cfplot(f)\u201d. MATLAB will pick the interval. After you type this, then you will press enter again. Click back in the command window. Make sure you click back in the command window. Do not exit out of the graph. If you exit out of the graph, then you will not be able to add to the graph. Add label axes and title. After each time you label an axes or the title, you will hit \u21b5 Enter. Each time, the graph window will change. Make sure your cursor is still in the command window. Here is how you give a name to each:\nx-axis: xlabel('name')\ny-axis: ylabel('name')\ntitle:title('name'). Save the graph. If you want to save the graph, click file on the graph window. Then press \"save as\" and choose where you want to save it.",
+    "sentences": [
+        " Open MATLAB on your computer.",
+        "Know what function you want to graph.",
+        "Anonymous functions are not stored to any program file.",
+        "They can accept multiple inputs and return outputs.",
+        "You must know what function you want to graph because you need to let MATLAB know what independent variables your function has before you write the function.",
+        "Some examples of anonymous functions include:\nTrigonometric functions\nRational functions\nPolynomials\nLogarithmic functions Know what interval you want your function to be graphed on.",
+        "You will want to know what interval you want your function to be graphed on because it is entered before you graph the function.",
+        "It is a good idea to know your interval before you begin typing.",
+        "Intervals always have lower and upper bounds.",
+        "Entering the interval will be explained later.",
+        "Click inside the command window.",
+        "This is where you will place individual statements.",
+        "Inside the command window you can assign values to variables, assign functions to variables, plot functions etc.",
+        "Name the function.",
+        "The first thing you will begin to type is the name of the function.",
+        "Typical names for functions are \u201cf\u201d and \u201cg\u201d.",
+        "However, you can name the function anything that you want.",
+        "The name of the function must start with a letter.",
+        "It should not contain any special characters.",
+        "It may contain numbers as long as the first character is a letter.",
+        "Set up independent variables.",
+        "Directly after the function you will set up the independent variables.",
+        "You do this by putting an equal sign \u201c=\u201d after the function name.",
+        "Then put a space and an \u201c@\u201d.",
+        "Immediately after the \u201c@\u201d you will put an open parenthesis \u201c(\u201c.",
+        "Now you can start listing all the of the independent variables.",
+        "If your independent variable is \u201cx\u201d, it should look like this: \u201c@(x)\u201d.",
+        "If you wish to have more independent variables, then you put a comma after each variable.",
+        "For example, @(x,y).",
+        "Type your function.",
+        "After you set up the independent variables you can type the function.",
+        "It is a good idea to put a space in between them so your code looks neat.",
+        "Here are some basic tips to help type functions in MATLAB.",
+        "Cosine- cos(x)\nSine-sin(x)\nTangent-tan(x)\nCosine(in degrees)-cosd(x)\nSine(in degrees)-sind(x)\nTangent(in degrees)-tand(x)\nMultiplication- \u201c2*x\u201d\nDivision- \u201c2/x\u201d\nAddition- \u201c2+x\u201d\nSubtraction- \u201c2-x\nExponent- x^2\ne- exp(x)\nExample of how to type a polynomial - \"2*x^2+3*x+7\" Press \u21b5 Enter.",
+        "This saves the function to the variable.",
+        "After you press enter, the function should come up on the next line.",
+        "If you get an error, then you may have typed something in wrong.",
+        "Plot the function.",
+        "On the next line you will write a statement to plot the function.",
+        "To plot an anonymous function, you must use \u201cfplot\u201d even if your function is not named \"f\".",
+        "The proper syntax for fplot is: fplot(name of function, interval).",
+        "So you will basically type in the name of the function first and then type in the interval.",
+        "The interval is written [lower bound upper bound].",
+        "For example: fplot(f,[0 2*pi]).",
+        "If you do not know the interval, then you can just put \u201cfplot(f)\u201d.",
+        "MATLAB will pick the interval.",
+        "After you type this, then you will press enter again.",
+        "Click back in the command window.",
+        "Make sure you click back in the command window.",
+        "Do not exit out of the graph.",
+        "If you exit out of the graph, then you will not be able to add to the graph.",
+        "Add label axes and title.",
+        "After each time you label an axes or the title, you will hit \u21b5 Enter.",
+        "Each time, the graph window will change.",
+        "Make sure your cursor is still in the command window.",
+        "Here is how you give a name to each:\nx-axis: xlabel('name')\ny-axis: ylabel('name')\ntitle:title('name').",
+        "Save the graph.",
+        "If you want to save the graph, click file on the graph window.",
+        "Then press \"save as\" and choose where you want to save it."
+    ]
+}

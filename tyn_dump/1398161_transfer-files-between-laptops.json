@@ -1,0 +1,238 @@
+{
+    "title": "How to Transfer Files Between Laptops",
+    "url": "https://www.wikihow.com/Transfer-Files-Between-Laptops",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computers",
+        "Laptops"
+    ],
+    "methods": [
+        {
+            "name": "Setting Up an SMB Transfer",
+            "steps": [
+                {
+                    "headline": "Ensure both computers are on same network.",
+                    "description": "A Server Message Block (SMB) is a protocol (set of rules) for transferring files between computers over the internet. The laptops can be either PCs or Macs (or a combination) for this method to work. This is the easiest and fastest method for large scale file transfer between laptops. Use only a secure connection - don't try this over a public network. Make sure to password-protect your user profiles on both computers for extra security. Your server laptop is the one with the files, the client laptop is the one you want to transfer the files to."
+                },
+                {
+                    "headline": "Set up your server laptop.",
+                    "description": "The server computer is the one currently holding the files you want to transfer. You'll need to change the network settings by designating a workgroup name. This workgroup will act like a conference room where your two computers will meet. The name for the workgroup can be anything you decide. In Windows OS, choose a workgroup name through \"computer domain and workgroup settings\". Applying this change will trigger a restart for your PC. On a Mac, choose a workgroup name through System Preferences->Network->Advanced->WINS. Choose your workgroup name and apply the changes. In either case, make a mental note of the \"name\" of the the server computer."
+                },
+                {
+                    "headline": "Switch to the client laptop.",
+                    "description": "Go through the same network workgroup setup process on your client computer. Make sure to use the exact same workgroup name as you did with your server computer."
+                },
+                {
+                    "headline": "Access the files and begin the transfer.",
+                    "description": "Now it's time to begin moving your files. Look for the \"name\" of the server laptop and click into it to access all shared folders from that laptop. In Windows, open your \"Network\" application. All computers in the shared network workgroup should appear within a few seconds, including the server laptop you just set up. On a Mac, all computers in the shared network workgroup will appear in your Finder window."
+                }
+            ]
+        },
+        {
+            "name": "Using an FTP",
+            "steps": [
+                {
+                    "headline": "Set up an FTP server.",
+                    "description": "An FTP (File Transfer Protocol) is another handy way to transfer files between machines using only the internet. First you'll work with the server computer - the one that has the files you want to transfer - in order to make it accessible. FTP is generally best if you feel you need recurring access between your two laptops. On a Mac, go to System Preferences->Sharing->Services and check \"FTP Access\". Next click \"Start\" and wait for the change to apply. Note that this path may be slightly different in different versions of OSX. In Windows, go to Control Panel->Programs->Programs and Features->Turn Windows features on or off. Next click the plus symbol next to \"Internet Information Services\" (IIS), then put a check next to \"FTP Server.\" Click \"OK\"."
+                },
+                {
+                    "headline": "Install an FTP client on the client computer.",
+                    "description": "This is software that allows you to easily access FTP servers with only the server address or IP address. Popular ones include FileZilla, WinSCP, Cyberduck, and WebDrive."
+                },
+                {
+                    "headline": "Access the files on the FTP server from the FTP client.",
+                    "description": "Now all you need to do is log in to the FTP server from the client computer and access your files for fast and secure transfer. On a Mac, go to Finder->Go->Connect to Server. You will be prompted for the server or IP address of the server computer. Enter it and click \"Connect\". In Windows, open your internet browser and type the server computer's IP address into the address bar directly. Go to File->Login As. Enter the username and password to log in. If you're having trouble finding your server computer's IP address, consult Find Your IP Address on a Mac or Find the IP Address of Your PC. For more details on the FTP method of transferring files, check out Set up an FTP Between Two Computers."
+                }
+            ]
+        },
+        {
+            "name": "Using a Storage Device",
+            "steps": [
+                {
+                    "headline": "Find a compatible storage device.",
+                    "description": "External hard drives and other USB flash drives are sometimes formatted to work with one operating system (OSX or Windows) only. Depending on the computers you're transferring between you may need to reformat to a more universal formatting option (FAT32) before attempting the transfer. Using a storage device is one of the slowest methods for file transfer but may be the simplest to execute if you're feeling intimidated by the more technical methods. If the storage device is recognized and the files are accessible on both computers, you can proceed. If reformatting is necessary you can find more information at Format FAT32\n\nThe limitation of this method is typically speed, as numerous large files will take a significant amount of time to transfer in this fashion."
+                },
+                {
+                    "headline": "Plug the storage device into the server computer.",
+                    "description": "Check that you have enough space on the storage device to house all the files you'd like to transfer before beginning. Your best bet is to know in advance how much space you will need and to plan accordingly."
+                },
+                {
+                    "headline": "Move the files to the storage device.",
+                    "description": "This process will be like other file management on your laptop - simply drag and drop the files you need and wait while they are fully transferred to the storage device."
+                },
+                {
+                    "headline": "Eject the drive and connect to the client laptop.",
+                    "description": "Make sure to disconnect properly to avoid damaging the files, then drag and drop to the client laptop's desktop or another more appropriate location."
+                }
+            ]
+        },
+        {
+            "name": "Transferring Via the Cloud",
+            "steps": [
+                {
+                    "headline": "Choose a cloud storage service.",
+                    "description": "Companies like Dropbox, Google Drive and many others offer cloud storage for your most important files and can also act as an effective file transfer method between laptops. You'll need an account with one of these providers (initial membership and some storage space is typically free). The limitations to this method will be storage space, upload time, and potential cost -  however if you need to move smaller files on a more frequently basis this may be a great solution for you."
+                },
+                {
+                    "headline": "Move your files into the cloud.",
+                    "description": "Depending on the service this may be as simple as dragging and dropping the files to your open internet browser, or could involve a more formal file upload procedure. Wait while the cloud service uploads your files in full."
+                },
+                {
+                    "headline": "Access your cloud account from the client computer.",
+                    "description": "Download the files you want to this laptop and the transfer is complete! Cloud services also provide extra security through consistent file backup and the possibility of collaborative file editing, so getting to know cloud storage may be a smart move for you regardless!"
+                }
+            ]
+        },
+        {
+            "name": "Connecting Directly with Firewire",
+            "steps": [
+                {
+                    "headline": "Check the compatibility of your laptops.",
+                    "description": "Both laptops will require a firewire input and you will need an appropriate firewire cord to connect them. This method makes the most sense if you are transferring between either two Macs or two PCs. If instead you are transferring between operating systems then look into a different method."
+                },
+                {
+                    "headline": "Plug in both ends of the firewire.",
+                    "description": "Firewire plugs take a few different forms - double check you have the right cord and appropriate adaptors to fit both of your laptops before beginning."
+                },
+                {
+                    "headline": "Access the server computer through the client computer.",
+                    "description": "Use the client laptop (the one you want files transferred to) to find and access the server laptop (the one with the files). Once connected it should appear on the desktop or else where external drives normally appear."
+                },
+                {
+                    "headline": "Drag and drop files as normal.",
+                    "description": "Now that your laptops are directly connected you can shift files as needed, similar to any other file management on your computer."
+                }
+            ]
+        },
+        {
+            "name": "Emailing Attachments to Yourself",
+            "steps": [
+                {
+                    "headline": "Set the receiver of the email as your own email address.",
+                    "description": "Emailing yourself can be a quick and simple way to send one or two smaller-sized files to a different computer, for anything more try one of the other methods."
+                },
+                {
+                    "headline": "Attach files to the email.",
+                    "description": "Different email clients (e..g gmail, hotmail, yahoo) have different attachment size limitations. Some allow you to drag and drop files directly to the email body while others require you to click \"attach\" and then browse your computer's file trees."
+                },
+                {
+                    "headline": "Log into your email on the client computer.",
+                    "description": "Now download the attachment."
+                }
+            ]
+        },
+        {
+            "name": "Using Crossover Cable",
+            "steps": [
+                {
+                    "headline": "You can set up a network between 2 PCs directly without access point",
+                    "description": ""
+                },
+                {
+                    "headline": "You have to use a crossover ethernet cable",
+                    "description": "Set up the IP addresses and subnet mask to be with the same network Share a folder on one PC Copy files from the other PC to the shared folder"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "2 laptops",
+        "A secure (private) network connection",
+        "Firewire cable",
+        "External hard drive or other USB drive formatted to work with both laptops"
+    ],
+    "text": " Setting Up an SMB Transfer Ensure both computers are on same network. A Server Message Block (SMB) is a protocol (set of rules) for transferring files between computers over the internet. The laptops can be either PCs or Macs (or a combination) for this method to work. This is the easiest and fastest method for large scale file transfer between laptops. Use only a secure connection - don't try this over a public network. Make sure to password-protect your user profiles on both computers for extra security. Your server laptop is the one with the files, the client laptop is the one you want to transfer the files to. Set up your server laptop. The server computer is the one currently holding the files you want to transfer. You'll need to change the network settings by designating a workgroup name. This workgroup will act like a conference room where your two computers will meet. The name for the workgroup can be anything you decide. In Windows OS, choose a workgroup name through \"computer domain and workgroup settings\". Applying this change will trigger a restart for your PC. On a Mac, choose a workgroup name through System Preferences->Network->Advanced->WINS. Choose your workgroup name and apply the changes. In either case, make a mental note of the \"name\" of the the server computer. Switch to the client laptop. Go through the same network workgroup setup process on your client computer. Make sure to use the exact same workgroup name as you did with your server computer. Access the files and begin the transfer. Now it's time to begin moving your files. Look for the \"name\" of the server laptop and click into it to access all shared folders from that laptop. In Windows, open your \"Network\" application. All computers in the shared network workgroup should appear within a few seconds, including the server laptop you just set up. On a Mac, all computers in the shared network workgroup will appear in your Finder window. Using an FTP Set up an FTP server. An FTP (File Transfer Protocol) is another handy way to transfer files between machines using only the internet. First you'll work with the server computer - the one that has the files you want to transfer - in order to make it accessible. FTP is generally best if you feel you need recurring access between your two laptops. On a Mac, go to System Preferences->Sharing->Services and check \"FTP Access\". Next click \"Start\" and wait for the change to apply. Note that this path may be slightly different in different versions of OSX. In Windows, go to Control Panel->Programs->Programs and Features->Turn Windows features on or off. Next click the plus symbol next to \"Internet Information Services\" (IIS), then put a check next to \"FTP Server.\" Click \"OK\". Install an FTP client on the client computer. This is software that allows you to easily access FTP servers with only the server address or IP address. Popular ones include FileZilla, WinSCP, Cyberduck, and WebDrive. Access the files on the FTP server from the FTP client. Now all you need to do is log in to the FTP server from the client computer and access your files for fast and secure transfer. On a Mac, go to Finder->Go->Connect to Server. You will be prompted for the server or IP address of the server computer. Enter it and click \"Connect\". In Windows, open your internet browser and type the server computer's IP address into the address bar directly. Go to File->Login As. Enter the username and password to log in. If you're having trouble finding your server computer's IP address, consult Find Your IP Address on a Mac or Find the IP Address of Your PC. For more details on the FTP method of transferring files, check out Set up an FTP Between Two Computers. Using a Storage Device Find a compatible storage device. External hard drives and other USB flash drives are sometimes formatted to work with one operating system (OSX or Windows) only. Depending on the computers you're transferring between you may need to reformat to a more universal formatting option (FAT32) before attempting the transfer. Using a storage device is one of the slowest methods for file transfer but may be the simplest to execute if you're feeling intimidated by the more technical methods. If the storage device is recognized and the files are accessible on both computers, you can proceed. If reformatting is necessary you can find more information at Format FAT32\n\nThe limitation of this method is typically speed, as numerous large files will take a significant amount of time to transfer in this fashion. Plug the storage device into the server computer. Check that you have enough space on the storage device to house all the files you'd like to transfer before beginning. Your best bet is to know in advance how much space you will need and to plan accordingly. Move the files to the storage device. This process will be like other file management on your laptop - simply drag and drop the files you need and wait while they are fully transferred to the storage device. Eject the drive and connect to the client laptop. Make sure to disconnect properly to avoid damaging the files, then drag and drop to the client laptop's desktop or another more appropriate location. Transferring Via the Cloud Choose a cloud storage service. Companies like Dropbox, Google Drive and many others offer cloud storage for your most important files and can also act as an effective file transfer method between laptops. You'll need an account with one of these providers (initial membership and some storage space is typically free). The limitations to this method will be storage space, upload time, and potential cost -  however if you need to move smaller files on a more frequently basis this may be a great solution for you. Move your files into the cloud. Depending on the service this may be as simple as dragging and dropping the files to your open internet browser, or could involve a more formal file upload procedure. Wait while the cloud service uploads your files in full. Access your cloud account from the client computer. Download the files you want to this laptop and the transfer is complete! Cloud services also provide extra security through consistent file backup and the possibility of collaborative file editing, so getting to know cloud storage may be a smart move for you regardless! Connecting Directly with Firewire Check the compatibility of your laptops. Both laptops will require a firewire input and you will need an appropriate firewire cord to connect them. This method makes the most sense if you are transferring between either two Macs or two PCs. If instead you are transferring between operating systems then look into a different method. Plug in both ends of the firewire. Firewire plugs take a few different forms - double check you have the right cord and appropriate adaptors to fit both of your laptops before beginning. Access the server computer through the client computer. Use the client laptop (the one you want files transferred to) to find and access the server laptop (the one with the files). Once connected it should appear on the desktop or else where external drives normally appear. Drag and drop files as normal. Now that your laptops are directly connected you can shift files as needed, similar to any other file management on your computer. Emailing Attachments to Yourself Set the receiver of the email as your own email address. Emailing yourself can be a quick and simple way to send one or two smaller-sized files to a different computer, for anything more try one of the other methods. Attach files to the email. Different email clients (e..g gmail, hotmail, yahoo) have different attachment size limitations. Some allow you to drag and drop files directly to the email body while others require you to click \"attach\" and then browse your computer's file trees. Log into your email on the client computer. Now download the attachment. Using Crossover Cable You can set up a network between 2 PCs directly without access point  You have to use a crossover ethernet cable Set up the IP addresses and subnet mask to be with the same network Share a folder on one PC Copy files from the other PC to the shared folder",
+    "sentences": [
+        " Setting Up an SMB Transfer Ensure both computers are on same network.",
+        "A Server Message Block (SMB) is a protocol (set of rules) for transferring files between computers over the internet.",
+        "The laptops can be either PCs or Macs (or a combination) for this method to work.",
+        "This is the easiest and fastest method for large scale file transfer between laptops.",
+        "Use only a secure connection - don't try this over a public network.",
+        "Make sure to password-protect your user profiles on both computers for extra security.",
+        "Your server laptop is the one with the files, the client laptop is the one you want to transfer the files to.",
+        "Set up your server laptop.",
+        "The server computer is the one currently holding the files you want to transfer.",
+        "You'll need to change the network settings by designating a workgroup name.",
+        "This workgroup will act like a conference room where your two computers will meet.",
+        "The name for the workgroup can be anything you decide.",
+        "In Windows OS, choose a workgroup name through \"computer domain and workgroup settings\".",
+        "Applying this change will trigger a restart for your PC.",
+        "On a Mac, choose a workgroup name through System Preferences->Network->Advanced->WINS.",
+        "Choose your workgroup name and apply the changes.",
+        "In either case, make a mental note of the \"name\" of the the server computer.",
+        "Switch to the client laptop.",
+        "Go through the same network workgroup setup process on your client computer.",
+        "Make sure to use the exact same workgroup name as you did with your server computer.",
+        "Access the files and begin the transfer.",
+        "Now it's time to begin moving your files.",
+        "Look for the \"name\" of the server laptop and click into it to access all shared folders from that laptop.",
+        "In Windows, open your \"Network\" application.",
+        "All computers in the shared network workgroup should appear within a few seconds, including the server laptop you just set up.",
+        "On a Mac, all computers in the shared network workgroup will appear in your Finder window.",
+        "Using an FTP Set up an FTP server.",
+        "An FTP (File Transfer Protocol) is another handy way to transfer files between machines using only the internet.",
+        "First you'll work with the server computer - the one that has the files you want to transfer - in order to make it accessible.",
+        "FTP is generally best if you feel you need recurring access between your two laptops.",
+        "On a Mac, go to System Preferences->Sharing->Services and check \"FTP Access\".",
+        "Next click \"Start\" and wait for the change to apply.",
+        "Note that this path may be slightly different in different versions of OSX.",
+        "In Windows, go to Control Panel->Programs->Programs and Features->Turn Windows features on or off.",
+        "Next click the plus symbol next to \"Internet Information Services\" (IIS), then put a check next to \"FTP Server.\"",
+        "Click \"OK\".",
+        "Install an FTP client on the client computer.",
+        "This is software that allows you to easily access FTP servers with only the server address or IP address.",
+        "Popular ones include FileZilla, WinSCP, Cyberduck, and WebDrive.",
+        "Access the files on the FTP server from the FTP client.",
+        "Now all you need to do is log in to the FTP server from the client computer and access your files for fast and secure transfer.",
+        "On a Mac, go to Finder->Go->Connect to Server.",
+        "You will be prompted for the server or IP address of the server computer.",
+        "Enter it and click \"Connect\".",
+        "In Windows, open your internet browser and type the server computer's IP address into the address bar directly.",
+        "Go to File->Login As.",
+        "Enter the username and password to log in.",
+        "If you're having trouble finding your server computer's IP address, consult Find Your IP Address on a Mac or Find the IP Address of Your PC.",
+        "For more details on the FTP method of transferring files, check out Set up an FTP Between Two Computers.",
+        "Using a Storage Device Find a compatible storage device.",
+        "External hard drives and other USB flash drives are sometimes formatted to work with one operating system (OSX or Windows) only.",
+        "Depending on the computers you're transferring between you may need to reformat to a more universal formatting option (FAT32) before attempting the transfer.",
+        "Using a storage device is one of the slowest methods for file transfer but may be the simplest to execute if you're feeling intimidated by the more technical methods.",
+        "If the storage device is recognized and the files are accessible on both computers, you can proceed.",
+        "If reformatting is necessary you can find more information at Format FAT32\n\nThe limitation of this method is typically speed, as numerous large files will take a significant amount of time to transfer in this fashion.",
+        "Plug the storage device into the server computer.",
+        "Check that you have enough space on the storage device to house all the files you'd like to transfer before beginning.",
+        "Your best bet is to know in advance how much space you will need and to plan accordingly.",
+        "Move the files to the storage device.",
+        "This process will be like other file management on your laptop - simply drag and drop the files you need and wait while they are fully transferred to the storage device.",
+        "Eject the drive and connect to the client laptop.",
+        "Make sure to disconnect properly to avoid damaging the files, then drag and drop to the client laptop's desktop or another more appropriate location.",
+        "Transferring Via the Cloud Choose a cloud storage service.",
+        "Companies like Dropbox, Google Drive and many others offer cloud storage for your most important files and can also act as an effective file transfer method between laptops.",
+        "You'll need an account with one of these providers (initial membership and some storage space is typically free).",
+        "The limitations to this method will be storage space, upload time, and potential cost -  however if you need to move smaller files on a more frequently basis this may be a great solution for you.",
+        "Move your files into the cloud.",
+        "Depending on the service this may be as simple as dragging and dropping the files to your open internet browser, or could involve a more formal file upload procedure.",
+        "Wait while the cloud service uploads your files in full.",
+        "Access your cloud account from the client computer.",
+        "Download the files you want to this laptop and the transfer is complete!",
+        "Cloud services also provide extra security through consistent file backup and the possibility of collaborative file editing, so getting to know cloud storage may be a smart move for you regardless!",
+        "Connecting Directly with Firewire Check the compatibility of your laptops.",
+        "Both laptops will require a firewire input and you will need an appropriate firewire cord to connect them.",
+        "This method makes the most sense if you are transferring between either two Macs or two PCs.",
+        "If instead you are transferring between operating systems then look into a different method.",
+        "Plug in both ends of the firewire.",
+        "Firewire plugs take a few different forms - double check you have the right cord and appropriate adaptors to fit both of your laptops before beginning.",
+        "Access the server computer through the client computer.",
+        "Use the client laptop (the one you want files transferred to) to find and access the server laptop (the one with the files).",
+        "Once connected it should appear on the desktop or else where external drives normally appear.",
+        "Drag and drop files as normal.",
+        "Now that your laptops are directly connected you can shift files as needed, similar to any other file management on your computer.",
+        "Emailing Attachments to Yourself Set the receiver of the email as your own email address.",
+        "Emailing yourself can be a quick and simple way to send one or two smaller-sized files to a different computer, for anything more try one of the other methods.",
+        "Attach files to the email.",
+        "Different email clients (e..g gmail, hotmail, yahoo) have different attachment size limitations.",
+        "Some allow you to drag and drop files directly to the email body while others require you to click \"attach\" and then browse your computer's file trees.",
+        "Log into your email on the client computer.",
+        "Now download the attachment.",
+        "Using Crossover Cable You can set up a network between 2 PCs directly without access point  You have to use a crossover ethernet cable Set up the IP addresses and subnet mask to be with the same network Share a folder on one PC Copy files from the other PC to the shared folder"
+    ]
+}

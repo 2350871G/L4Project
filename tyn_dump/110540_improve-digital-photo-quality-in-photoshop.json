@@ -1,0 +1,199 @@
+{
+    "title": "How to Improve Digital Photo Quality in Photoshop",
+    "url": "https://www.wikihow.com/Improve-Digital-Photo-Quality-in-Photoshop",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Adobe Software"
+    ],
+    "methods": [
+        {
+            "name": "Improving Color and Clarity",
+            "steps": [
+                {
+                    "headline": "Use the Brightness/Contrast sliders to get dark, complete blacks and vivid whites.",
+                    "description": "No matter what picture you're editing, the difference between your darkest areas and your lightest areas (called Contrast) should be distinct. This leads to more compelling photos. Your goal is a well-lit picture with deep, dark blacks and bright, well-defined whites. Use the brightness to make sure the picture is still clear as well. Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Brightness/Contrast...\"\nMake sure \"Preview\" is checked so you can see how the image changes as you move the slider. Almost all images can benefit from 10-15 points of higher contrast, at the least."
+                },
+                {
+                    "headline": "Increase an image's Saturation to make the colors more vibrant and eye-popping.",
+                    "description": "Going too far can make the picture look like something out of Willy Wonka, but saturation is a necessary adjustment in almost every shot, especially with a lower-cost camera. Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Hue/Saturation.\" Increase saturation by 5-10 points, adding a few points at a time until you hit your desired level. Slide the saturation bar all the way to the left to put the picture in black and white."
+                },
+                {
+                    "headline": "Edit the picture's hue if the whole thing is tinted the wrong color.",
+                    "description": "This can happen under some indoor lights, which can make the whole shot look yellow or green. Hue settings, found along with Saturation, let you change the overall color palate of the picture for strange, artsy effects or to correct these all-over color issues. Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Hue/Saturation.\" Even small changes to Hue can make dramatic effects, so work slowly."
+                },
+                {
+                    "headline": "Use the \"Shadows/Highlights\" settings to remove any overly bright areas and weaken dark shadows.",
+                    "description": "The most common use of this is when the sun forms a big, unsightly bloom of white light in the corner of the picture, washing out part of the actual photo. Alternatively, it helps when a shadow obscures half of someone's face. Shadow/HIghlights targets the lightest and darkest parts of a shot directly while leaving the other areas intact:\nClick \"Image\" \u2192 \"Adjustments\" \u2192 \"Shadows/Highlights.\" Lower the Shadow slider to make the dark areas lighter. Raise the Highlight slider to darken up any bright areas."
+                },
+                {
+                    "headline": "Use the Sharpen filter to help combat semi-blurry or out of focus shots.",
+                    "description": "This filter is not god, and can't fix seriously blurry photos. But it can make a serious difference for slightly \"soft\" shots, bringing back some clarity and definition in the photo's lines. To use it:\nClick \"Filter\" from the top Menu. Under \"Sharpen...\", choose \"Sharpen\" for a minor adjustment, and \"Smart Sharpen\" for a more detailed effect. Under \"Smart Sharpen,\" use \"Amount\" to choose how severely you'll sharpen sharpen, \"radius\" to make more precise lines, and \"Reduce Noise\" to smooth out any over-sharpened areas."
+                },
+                {
+                    "headline": "Consider shrinking very blurry or lower-quality images to minimize the problem.",
+                    "description": "The bigger the image, the more apparent the blemishes and issues. Shrinking the image will provide some clarity, as the pixels are more compact and our eyes do a better job filling over blurry or grainy areas. To shrink an image:\nClick \"Image\" \u2192 \"Image Size.\" Choose whether or not to change the size in inches, pixels, or even as a percentage of the original. Make sure the chain icon is on -- this keeps the proportions of your new image the same instead of shrinking it unevenly. Cut 25% or so of the image, shrinking more if needed."
+                }
+            ]
+        },
+        {
+            "name": "Improving Composition & Blemishes",
+            "steps": [
+                {
+                    "headline": "Crop pictures using the \"Rule of Thirds\" as a guide for compelling shots.",
+                    "description": "Never assume a photo's original framing is the best option available. The Rule of Thirds is one of photography's oldest and most trusted guides. It states that if you cut the image in thirds horizontally and vertically (making 9 mini squares), the most interesting elements should always be the lines and intersections. In Photoshop, these lines appear automatically when cropping, making it easy to improve. Even small crops can dramatically improve a photo. Are there any unnecessary elements in the corners of the frame that you can eliminate to focus on more interesting things? Always put major lines, like the horizon in the example above, on a third line. To crop a photo, press \"C\" to pull up the crop tool."
+                },
+                {
+                    "headline": "Use the Red Eye Tool to simply clean up the eyes of any portraits.",
+                    "description": "The Red Eye Tool is found under the Patch tool, which is found underneath the eyedropper icon in your toolbar. You can also press J to bring up the Patch tool, then click and hold on the icon to reveal the red eye tool. Once you have it, simply click and drag over the eyes to remove red eye."
+                },
+                {
+                    "headline": "Play with the spot healing brush to remove small blemishes.",
+                    "description": "Want to get rid of that small pimple on your forehead? The spot healer is here to help. Click and hold the Patch tool (press \"J\") to find it, as it will pop up in the small menu under the Patch tool. This tool simply replaces the spot you click on with pixels surrounding it, blending them in perfectly. This means thin, small issues, like a zit or a power-line in the background, can be quickly erased without ruining the image. The healing brush works similarly, but you can tell it which pixels to replace from. To select the \"healing area,\" hold the Alt/Opt key, click once, then start healing your blemish area."
+                },
+                {
+                    "headline": "Use the Content-Fill effect to remove objects and simple imperfections.",
+                    "description": "For example, imagine there was some dirt on the lens that you missed, which put a big brown spot in the sky of your beautiful landscape shot. Content-fill can cover it up for you. To do so, use Quick Selection tool (found under the Lasso icon) to select the smudge. From there:\nClick \"Select\" \u2192 \"Modify\" \u2192 \"Expand.\" Expand the selection by 5-10 pixels. Select \"Edit\" \u2192 \"Fill.\" Select \"Content Aware\" in the Fill, dialogue box and select \"okay.\""
+                },
+                {
+                    "headline": "Use the patch tool to replace small sections of a photo with another section of the photo.",
+                    "description": "Imagine you've got a great shot of a soccer player in action but there is one fan in the background up against a fence that you want out of there. Of course, you need to remove him while keeping the fence, which may seem impossible when he's covering the fence up! The patch tool will take another section of the fence and duplicate it over your man to replace him. Use a selection tool (like \"Quick Selection\") to select the thing you want to be removed. Select the Patch Tool by pressing J. It can also be found underneath the eyedropper icon. Click on the selected area (the place you're replacing), but don't let go of the mouse. Drag the selected area to the spot you want to replace it with and let go of the mouse."
+                }
+            ]
+        },
+        {
+            "name": "Working Effectively in Photoshop",
+            "steps": [
+                {
+                    "headline": "Use the \"Save as a Copy\" feature to make a duplicate image before editing.",
+                    "description": "It is the best practice, especially if you're new to digital editing, to always save a copy of your image before working on it. This allows you to experiment and edit without worrying about making a mistake. While you can also click \"Undo,\" this gets much harder if you're trying multiple things at once, like cropping, tinting, sharpening, etc. Click \"File\" \u2192 \"Save As,\" or simply press Ctrl+Shift+S (Windows) or Cmmd+Shift+S. At the bottom of the \"Save As\" menu, click \"Save as a Copy.\""
+                },
+                {
+                    "headline": "Learn the power of Adjustment Layers to gain permanent control of most edits.",
+                    "description": "The last thing you want to do is experiment color, contrast, saturation, etc. and not have the ability to fix it when you go too far. While you should always save a separate copy of an image before editing, Adjustment masks let you keep tinkering with these setting at any point in the future, including turning them on/off, without using \"Undo.\" Click \"Window\" in the top bar. Select \"Adjustments.\" Choose your adjustment, from Brightness/Contrast to Gradient Maps. Note how a new layer is created. Delete, re-order, or change the opacity of your layers at any time, or double-click to change the settings."
+                },
+                {
+                    "headline": "Set Photoshop to open photos in \"Camera Raw\" mode to quickly fine-tune any photo without ruining the original.",
+                    "description": "Camera Raw opens a new copy of your picture with sliders for color temperature, contrast, light control, clarity, saturation, and cropping. This allows you to make quick, basic changes with real-time sliders and effects. It will appear automatically when the picture is open if you set it properly:\nClick on \"Photoshop\" in the upper left corner. Click on \"Preferences\" \u2192 \"File Handling\"\nUnder \"File Compatibility,\" check \"Prefer Adobe Camera Raw for Supported Raw Files.\" Click on \"Camera Raw Preferences\" and set JPEG and TIFF Handling to \"Automatically Open all Supported.\""
+                },
+                {
+                    "headline": "Use \"Batch Commands\" to make the same edits on multiple photos automatically.",
+                    "description": "Say, for example, you know that most of your images are a bit too dark, and they all could use an extra 10 points of Brightness. Instead of manually editing each photo, you can teach Photoshop to do it for you on many pictures at once. For learning's sake, say you want to add 10 points Brightness to 15 images:\nClick \"Window\" &Rarr; \"Action\" to bring up the Actions menu. Click \"New Action\" in the bottom of the menu and name it after whatever you're doing. The button looks like a sticky note. Click on \"Image\" \u2192 \"Adjustments\" \u2192 \"Brightness/Contrast\" and add your 10 points Brightness like normal. Click the square \"Stop\" button in the actions menu to end the recording. Click \"File\" \u2192 \"Automate\" \u2192 \"Batch\" from the top bar. Under \"Play,\" select the action you just made (it will be whatever you titled it). Select \"Choose...\" and select the photos you want to edit. Check the boxes \"Suppress File Open Option Dialogs\" and \"Suppress Color Profile Warnings\" and hit OK to edit your images all at once once."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Photoshop, Digital camera"
+    ],
+    "text": " Improving Color and Clarity Use the Brightness/Contrast sliders to get dark, complete blacks and vivid whites. No matter what picture you're editing, the difference between your darkest areas and your lightest areas (called Contrast) should be distinct. This leads to more compelling photos. Your goal is a well-lit picture with deep, dark blacks and bright, well-defined whites. Use the brightness to make sure the picture is still clear as well. Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Brightness/Contrast...\"\nMake sure \"Preview\" is checked so you can see how the image changes as you move the slider. Almost all images can benefit from 10-15 points of higher contrast, at the least. Increase an image's Saturation to make the colors more vibrant and eye-popping. Going too far can make the picture look like something out of Willy Wonka, but saturation is a necessary adjustment in almost every shot, especially with a lower-cost camera. Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Hue/Saturation.\" Increase saturation by 5-10 points, adding a few points at a time until you hit your desired level. Slide the saturation bar all the way to the left to put the picture in black and white. Edit the picture's hue if the whole thing is tinted the wrong color. This can happen under some indoor lights, which can make the whole shot look yellow or green. Hue settings, found along with Saturation, let you change the overall color palate of the picture for strange, artsy effects or to correct these all-over color issues. Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Hue/Saturation.\" Even small changes to Hue can make dramatic effects, so work slowly. Use the \"Shadows/Highlights\" settings to remove any overly bright areas and weaken dark shadows. The most common use of this is when the sun forms a big, unsightly bloom of white light in the corner of the picture, washing out part of the actual photo. Alternatively, it helps when a shadow obscures half of someone's face. Shadow/HIghlights targets the lightest and darkest parts of a shot directly while leaving the other areas intact:\nClick \"Image\" \u2192 \"Adjustments\" \u2192 \"Shadows/Highlights.\" Lower the Shadow slider to make the dark areas lighter. Raise the Highlight slider to darken up any bright areas. Use the Sharpen filter to help combat semi-blurry or out of focus shots. This filter is not god, and can't fix seriously blurry photos. But it can make a serious difference for slightly \"soft\" shots, bringing back some clarity and definition in the photo's lines. To use it:\nClick \"Filter\" from the top Menu. Under \"Sharpen...\", choose \"Sharpen\" for a minor adjustment, and \"Smart Sharpen\" for a more detailed effect. Under \"Smart Sharpen,\" use \"Amount\" to choose how severely you'll sharpen sharpen, \"radius\" to make more precise lines, and \"Reduce Noise\" to smooth out any over-sharpened areas. Consider shrinking very blurry or lower-quality images to minimize the problem. The bigger the image, the more apparent the blemishes and issues. Shrinking the image will provide some clarity, as the pixels are more compact and our eyes do a better job filling over blurry or grainy areas. To shrink an image:\nClick \"Image\" \u2192 \"Image Size.\" Choose whether or not to change the size in inches, pixels, or even as a percentage of the original. Make sure the chain icon is on -- this keeps the proportions of your new image the same instead of shrinking it unevenly. Cut 25% or so of the image, shrinking more if needed. Improving Composition & Blemishes Crop pictures using the \"Rule of Thirds\" as a guide for compelling shots. Never assume a photo's original framing is the best option available. The Rule of Thirds is one of photography's oldest and most trusted guides. It states that if you cut the image in thirds horizontally and vertically (making 9 mini squares), the most interesting elements should always be the lines and intersections. In Photoshop, these lines appear automatically when cropping, making it easy to improve. Even small crops can dramatically improve a photo. Are there any unnecessary elements in the corners of the frame that you can eliminate to focus on more interesting things? Always put major lines, like the horizon in the example above, on a third line. To crop a photo, press \"C\" to pull up the crop tool. Use the Red Eye Tool to simply clean up the eyes of any portraits. The Red Eye Tool is found under the Patch tool, which is found underneath the eyedropper icon in your toolbar. You can also press J to bring up the Patch tool, then click and hold on the icon to reveal the red eye tool. Once you have it, simply click and drag over the eyes to remove red eye. Play with the spot healing brush to remove small blemishes. Want to get rid of that small pimple on your forehead? The spot healer is here to help. Click and hold the Patch tool (press \"J\") to find it, as it will pop up in the small menu under the Patch tool. This tool simply replaces the spot you click on with pixels surrounding it, blending them in perfectly. This means thin, small issues, like a zit or a power-line in the background, can be quickly erased without ruining the image. The healing brush works similarly, but you can tell it which pixels to replace from. To select the \"healing area,\" hold the Alt/Opt key, click once, then start healing your blemish area. Use the Content-Fill effect to remove objects and simple imperfections. For example, imagine there was some dirt on the lens that you missed, which put a big brown spot in the sky of your beautiful landscape shot. Content-fill can cover it up for you. To do so, use Quick Selection tool (found under the Lasso icon) to select the smudge. From there:\nClick \"Select\" \u2192 \"Modify\" \u2192 \"Expand.\" Expand the selection by 5-10 pixels. Select \"Edit\" \u2192 \"Fill.\" Select \"Content Aware\" in the Fill, dialogue box and select \"okay.\" Use the patch tool to replace small sections of a photo with another section of the photo. Imagine you've got a great shot of a soccer player in action but there is one fan in the background up against a fence that you want out of there. Of course, you need to remove him while keeping the fence, which may seem impossible when he's covering the fence up! The patch tool will take another section of the fence and duplicate it over your man to replace him. Use a selection tool (like \"Quick Selection\") to select the thing you want to be removed. Select the Patch Tool by pressing J. It can also be found underneath the eyedropper icon. Click on the selected area (the place you're replacing), but don't let go of the mouse. Drag the selected area to the spot you want to replace it with and let go of the mouse. Working Effectively in Photoshop Use the \"Save as a Copy\" feature to make a duplicate image before editing. It is the best practice, especially if you're new to digital editing, to always save a copy of your image before working on it. This allows you to experiment and edit without worrying about making a mistake. While you can also click \"Undo,\" this gets much harder if you're trying multiple things at once, like cropping, tinting, sharpening, etc. Click \"File\" \u2192 \"Save As,\" or simply press Ctrl+Shift+S (Windows) or Cmmd+Shift+S. At the bottom of the \"Save As\" menu, click \"Save as a Copy.\" Learn the power of Adjustment Layers to gain permanent control of most edits. The last thing you want to do is experiment color, contrast, saturation, etc. and not have the ability to fix it when you go too far. While you should always save a separate copy of an image before editing, Adjustment masks let you keep tinkering with these setting at any point in the future, including turning them on/off, without using \"Undo.\" Click \"Window\" in the top bar. Select \"Adjustments.\" Choose your adjustment, from Brightness/Contrast to Gradient Maps. Note how a new layer is created. Delete, re-order, or change the opacity of your layers at any time, or double-click to change the settings. Set Photoshop to open photos in \"Camera Raw\" mode to quickly fine-tune any photo without ruining the original. Camera Raw opens a new copy of your picture with sliders for color temperature, contrast, light control, clarity, saturation, and cropping. This allows you to make quick, basic changes with real-time sliders and effects. It will appear automatically when the picture is open if you set it properly:\nClick on \"Photoshop\" in the upper left corner. Click on \"Preferences\" \u2192 \"File Handling\"\nUnder \"File Compatibility,\" check \"Prefer Adobe Camera Raw for Supported Raw Files.\" Click on \"Camera Raw Preferences\" and set JPEG and TIFF Handling to \"Automatically Open all Supported.\" Use \"Batch Commands\" to make the same edits on multiple photos automatically. Say, for example, you know that most of your images are a bit too dark, and they all could use an extra 10 points of Brightness. Instead of manually editing each photo, you can teach Photoshop to do it for you on many pictures at once. For learning's sake, say you want to add 10 points Brightness to 15 images:\nClick \"Window\" &Rarr; \"Action\" to bring up the Actions menu. Click \"New Action\" in the bottom of the menu and name it after whatever you're doing. The button looks like a sticky note. Click on \"Image\" \u2192 \"Adjustments\" \u2192 \"Brightness/Contrast\" and add your 10 points Brightness like normal. Click the square \"Stop\" button in the actions menu to end the recording. Click \"File\" \u2192 \"Automate\" \u2192 \"Batch\" from the top bar. Under \"Play,\" select the action you just made (it will be whatever you titled it). Select \"Choose...\" and select the photos you want to edit. Check the boxes \"Suppress File Open Option Dialogs\" and \"Suppress Color Profile Warnings\" and hit OK to edit your images all at once once.",
+    "sentences": [
+        " Improving Color and Clarity Use the Brightness/Contrast sliders to get dark, complete blacks and vivid whites.",
+        "No matter what picture you're editing, the difference between your darkest areas and your lightest areas (called Contrast) should be distinct.",
+        "This leads to more compelling photos.",
+        "Your goal is a well-lit picture with deep, dark blacks and bright, well-defined whites.",
+        "Use the brightness to make sure the picture is still clear as well.",
+        "Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Brightness/Contrast...\"\nMake sure \"Preview\" is checked so you can see how the image changes as you move the slider.",
+        "Almost all images can benefit from 10-15 points of higher contrast, at the least.",
+        "Increase an image's Saturation to make the colors more vibrant and eye-popping.",
+        "Going too far can make the picture look like something out of Willy Wonka, but saturation is a necessary adjustment in almost every shot, especially with a lower-cost camera.",
+        "Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Hue/Saturation.\"",
+        "Increase saturation by 5-10 points, adding a few points at a time until you hit your desired level.",
+        "Slide the saturation bar all the way to the left to put the picture in black and white.",
+        "Edit the picture's hue if the whole thing is tinted the wrong color.",
+        "This can happen under some indoor lights, which can make the whole shot look yellow or green.",
+        "Hue settings, found along with Saturation, let you change the overall color palate of the picture for strange, artsy effects or to correct these all-over color issues.",
+        "Click \"Image\" \u2192 \"Adjustments\" \u2192 \"Hue/Saturation.\"",
+        "Even small changes to Hue can make dramatic effects, so work slowly.",
+        "Use the \"Shadows/Highlights\" settings to remove any overly bright areas and weaken dark shadows.",
+        "The most common use of this is when the sun forms a big, unsightly bloom of white light in the corner of the picture, washing out part of the actual photo.",
+        "Alternatively, it helps when a shadow obscures half of someone's face.",
+        "Shadow/HIghlights targets the lightest and darkest parts of a shot directly while leaving the other areas intact:\nClick \"Image\" \u2192 \"Adjustments\" \u2192 \"Shadows/Highlights.\"",
+        "Lower the Shadow slider to make the dark areas lighter.",
+        "Raise the Highlight slider to darken up any bright areas.",
+        "Use the Sharpen filter to help combat semi-blurry or out of focus shots.",
+        "This filter is not god, and can't fix seriously blurry photos.",
+        "But it can make a serious difference for slightly \"soft\" shots, bringing back some clarity and definition in the photo's lines.",
+        "To use it:\nClick \"Filter\" from the top Menu.",
+        "Under \"Sharpen...\", choose \"Sharpen\" for a minor adjustment, and \"Smart Sharpen\" for a more detailed effect.",
+        "Under \"Smart Sharpen,\" use \"Amount\" to choose how severely you'll sharpen sharpen, \"radius\" to make more precise lines, and \"Reduce Noise\" to smooth out any over-sharpened areas.",
+        "Consider shrinking very blurry or lower-quality images to minimize the problem.",
+        "The bigger the image, the more apparent the blemishes and issues.",
+        "Shrinking the image will provide some clarity, as the pixels are more compact and our eyes do a better job filling over blurry or grainy areas.",
+        "To shrink an image:\nClick \"Image\" \u2192 \"Image Size.\"",
+        "Choose whether or not to change the size in inches, pixels, or even as a percentage of the original.",
+        "Make sure the chain icon is on -- this keeps the proportions of your new image the same instead of shrinking it unevenly.",
+        "Cut 25% or so of the image, shrinking more if needed.",
+        "Improving Composition & Blemishes Crop pictures using the \"Rule of Thirds\" as a guide for compelling shots.",
+        "Never assume a photo's original framing is the best option available.",
+        "The Rule of Thirds is one of photography's oldest and most trusted guides.",
+        "It states that if you cut the image in thirds horizontally and vertically (making 9 mini squares), the most interesting elements should always be the lines and intersections.",
+        "In Photoshop, these lines appear automatically when cropping, making it easy to improve.",
+        "Even small crops can dramatically improve a photo.",
+        "Are there any unnecessary elements in the corners of the frame that you can eliminate to focus on more interesting things?",
+        "Always put major lines, like the horizon in the example above, on a third line.",
+        "To crop a photo, press \"C\" to pull up the crop tool.",
+        "Use the Red Eye Tool to simply clean up the eyes of any portraits.",
+        "The Red Eye Tool is found under the Patch tool, which is found underneath the eyedropper icon in your toolbar.",
+        "You can also press J to bring up the Patch tool, then click and hold on the icon to reveal the red eye tool.",
+        "Once you have it, simply click and drag over the eyes to remove red eye.",
+        "Play with the spot healing brush to remove small blemishes.",
+        "Want to get rid of that small pimple on your forehead?",
+        "The spot healer is here to help.",
+        "Click and hold the Patch tool (press \"J\") to find it, as it will pop up in the small menu under the Patch tool.",
+        "This tool simply replaces the spot you click on with pixels surrounding it, blending them in perfectly.",
+        "This means thin, small issues, like a zit or a power-line in the background, can be quickly erased without ruining the image.",
+        "The healing brush works similarly, but you can tell it which pixels to replace from.",
+        "To select the \"healing area,\" hold the Alt/Opt key, click once, then start healing your blemish area.",
+        "Use the Content-Fill effect to remove objects and simple imperfections.",
+        "For example, imagine there was some dirt on the lens that you missed, which put a big brown spot in the sky of your beautiful landscape shot.",
+        "Content-fill can cover it up for you.",
+        "To do so, use Quick Selection tool (found under the Lasso icon) to select the smudge.",
+        "From there:\nClick \"Select\" \u2192 \"Modify\" \u2192 \"Expand.\"",
+        "Expand the selection by 5-10 pixels.",
+        "Select \"Edit\" \u2192 \"Fill.\"",
+        "Select \"Content Aware\" in the Fill, dialogue box and select \"okay.\"",
+        "Use the patch tool to replace small sections of a photo with another section of the photo.",
+        "Imagine you've got a great shot of a soccer player in action but there is one fan in the background up against a fence that you want out of there.",
+        "Of course, you need to remove him while keeping the fence, which may seem impossible when he's covering the fence up!",
+        "The patch tool will take another section of the fence and duplicate it over your man to replace him.",
+        "Use a selection tool (like \"Quick Selection\") to select the thing you want to be removed.",
+        "Select the Patch Tool by pressing J.",
+        "It can also be found underneath the eyedropper icon.",
+        "Click on the selected area (the place you're replacing), but don't let go of the mouse.",
+        "Drag the selected area to the spot you want to replace it with and let go of the mouse.",
+        "Working Effectively in Photoshop Use the \"Save as a Copy\" feature to make a duplicate image before editing.",
+        "It is the best practice, especially if you're new to digital editing, to always save a copy of your image before working on it.",
+        "This allows you to experiment and edit without worrying about making a mistake.",
+        "While you can also click \"Undo,\" this gets much harder if you're trying multiple things at once, like cropping, tinting, sharpening, etc.",
+        "Click \"File\" \u2192 \"Save As,\" or simply press Ctrl+Shift+S (Windows) or Cmmd+Shift+S.",
+        "At the bottom of the \"Save As\" menu, click \"Save as a Copy.\"",
+        "Learn the power of Adjustment Layers to gain permanent control of most edits.",
+        "The last thing you want to do is experiment color, contrast, saturation, etc.",
+        "and not have the ability to fix it when you go too far.",
+        "While you should always save a separate copy of an image before editing, Adjustment masks let you keep tinkering with these setting at any point in the future, including turning them on/off, without using \"Undo.\"",
+        "Click \"Window\" in the top bar.",
+        "Select \"Adjustments.\"",
+        "Choose your adjustment, from Brightness/Contrast to Gradient Maps.",
+        "Note how a new layer is created.",
+        "Delete, re-order, or change the opacity of your layers at any time, or double-click to change the settings.",
+        "Set Photoshop to open photos in \"Camera Raw\" mode to quickly fine-tune any photo without ruining the original.",
+        "Camera Raw opens a new copy of your picture with sliders for color temperature, contrast, light control, clarity, saturation, and cropping.",
+        "This allows you to make quick, basic changes with real-time sliders and effects.",
+        "It will appear automatically when the picture is open if you set it properly:\nClick on \"Photoshop\" in the upper left corner.",
+        "Click on \"Preferences\" \u2192 \"File Handling\"\nUnder \"File Compatibility,\" check \"Prefer Adobe Camera Raw for Supported Raw Files.\"",
+        "Click on \"Camera Raw Preferences\" and set JPEG and TIFF Handling to \"Automatically Open all Supported.\"",
+        "Use \"Batch Commands\" to make the same edits on multiple photos automatically.",
+        "Say, for example, you know that most of your images are a bit too dark, and they all could use an extra 10 points of Brightness.",
+        "Instead of manually editing each photo, you can teach Photoshop to do it for you on many pictures at once.",
+        "For learning's sake, say you want to add 10 points Brightness to 15 images:\nClick \"Window\" &Rarr; \"Action\" to bring up the Actions menu.",
+        "Click \"New Action\" in the bottom of the menu and name it after whatever you're doing.",
+        "The button looks like a sticky note.",
+        "Click on \"Image\" \u2192 \"Adjustments\" \u2192 \"Brightness/Contrast\" and add your 10 points Brightness like normal.",
+        "Click the square \"Stop\" button in the actions menu to end the recording.",
+        "Click \"File\" \u2192 \"Automate\" \u2192 \"Batch\" from the top bar.",
+        "Under \"Play,\" select the action you just made (it will be whatever you titled it).",
+        "Select \"Choose...\" and select the photos you want to edit.",
+        "Check the boxes \"Suppress File Open Option Dialogs\" and \"Suppress Color Profile Warnings\" and hit OK to edit your images all at once once."
+    ]
+}

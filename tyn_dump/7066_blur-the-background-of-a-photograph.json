@@ -1,0 +1,181 @@
+{
+    "title": "How to Blur the Background of a Photograph",
+    "url": "https://www.wikihow.com/Blur-the-Background-of-a-Photograph",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Photography",
+        "Photography Editing",
+        "Editing Photo Backgrounds"
+    ],
+    "methods": [
+        {
+            "name": "Blurring the Background by Adjusting Aperture",
+            "steps": [
+                {
+                    "headline": "Set your DSLR camera to the aperture setting.",
+                    "description": "You will find a circular dial, usually on the top of your camera, that has several shooting options such as \u201cAuto\u201d. Turn the dial so that the aperture priority setting is selected. The aperture setting is identified by an \u201cA\u201d and sometimes an \u201cAv\u201d on certain Canon models. Aperture is the size of the hole in the lens through which light travels, similar to the pupil of an eye. Aperture is measured in f-numbers (Ex: f/1.4), known as \u201cf-stops\u201d. And while it may sound confusing, the larger the f-stop, the smaller the f-stop. So a f/1.4 will have a larger aperture (hole) than a f/2. A smaller f-stop will create a larger depth of field and be able to separate the foreground and background better, blurring the background."
+                },
+                {
+                    "headline": "Create distance between the camera, subject, and background.",
+                    "description": "To better blur the background of your photograph you want to create enough distance between the camera and the subject so that you can zoom on your camera to better focus it on your foreground. In addition, the further your subject is from the background, the easier it will be to get a nice blurred look. Depending on your lens, play with this distance having your subject stand 5, 10, or 15 feet away from the background."
+                },
+                {
+                    "headline": "Fill the frame with the subject in a medium shot.",
+                    "description": "This is a shot that has your subject in the frame from about the waist up. For a great portrait photo you may then want to get a bit closer, or zoom on your camera so you can really focus on the shoulders and head. But starting further out can help you adjust at the beginning. Focus directly on the eyes. Note: The nose, ears and hair will be in varying degrees of focus. At smaller apertures, the background of a shot will be in focus. At larger apertures, the background will be blurred."
+                },
+                {
+                    "headline": "Zoom in.",
+                    "description": "Narrow the depth of field further by zooming in. To make as shallow a depth of field as possible, use a long/telephoto lens set on maximum zoom. Stand as close to the subject as possible. If you have a very long lens, this might still be quite far away from your subject. If you only have the lens your camera came with, you may have to stand closer to the subject. You should still try and get a fair amount of zoom on your camera, and in general, you will be closer to your subject than your subject is from the background. Play around with zoom and snap a couple of test photos to see if you\u2019re getting close to the desired results."
+                },
+                {
+                    "headline": "Pan with a moving target.",
+                    "description": "If the subject is moving, move your camera to follow the subject and keep it sharp while blurring the background. Try different shutter speeds to balance the background blur you want against the subject blur you don't want. Try a 1/125 second shutter speed to begin. Keep your body and the camera as steady as possible. Track the subject through the viewfinder and ensure your camera is focusing properly on the subject. Take the photo with confidence. This technique uses the blurred background to highlight the motion of the subject, whereas background blurred solely through a shallow depth of field is used to make the subject stand out from its surroundings."
+                }
+            ]
+        },
+        {
+            "name": "Using your Camera\u2019s Other Settings",
+            "steps": [
+                {
+                    "headline": "Set your camera to the auto setting and use portrait mode.",
+                    "description": "If you don\u2019t have a particularly advanced camera you can still blur the background of a photograph by using your camera\u2019s other settings like portrait mode which will adjust the camera automatically to help you with the desired effect. The portrait mode is found on the dial usually under the \u201cP\u201d or the little image of a woman. Switch your dial to Portrait mode to have your camera automatically adjust your aperture and shutter speed."
+                },
+                {
+                    "headline": "Adjust your auto focus settings in the menu.",
+                    "description": "You can hit the \u201cMenu\u201d button on your camera and navigate to the focus selection. In a lot of cameras you will see several boxes with the center one filled in. Move your cursor to fill in one of the other boxes that will be closest to where your subject\u2019s eyes are. This will allow the camera to automatically focus the most on your selected area, blurring the rest out the further away from the focus area an object is."
+                },
+                {
+                    "headline": "Place your subject as far away from the background as possible.",
+                    "description": "You can manually narrow your depth of field if you don\u2019t have a lens that will easily do it for you by creating a large distance between the foreground and background. If you are taking a photo of your subject in front of say, a wall, then try and move them 10 or so feet away from the wall. With your portrait mode set, your camera should be able to blur the background on its own."
+                },
+                {
+                    "headline": "Zoom in as far as you can.If you are using a kit lens (the default lens that comes with your camera) then you want to zoom to get a longer focal length, or the distance between the lens and the subject.",
+                    "description": "You\u2019ll have to play with distance here depending on how far your lens can zoom. You want to be able to zoom in as far as possible while still getting both your subject and some background in the shot. This method will mean that there will be less background in your photo, but it will help you get the desired effect. Your subject will remain the same and only the background will shrink if you zoom correctly. But it will help to blur the background."
+                }
+            ]
+        },
+        {
+            "name": "Blurring in Photoshop",
+            "steps": [
+                {
+                    "headline": "Employ Photoshop\u2019s Blur tool to blur the background of a photograph.",
+                    "description": "Select the raindrop looking icon from the toolbar, this is the blur tool. At the top of your screen will see options for brush size, and strength of your stroke. You can adjust these to your liking. For a portrait style photo with a fair amount of background you can select a larger brush size. Hold down your mouse and move it over the background of your photo to blur it. Keep in mind that this technique does not create true depth - it blurs everything in the background uniformly rather than independently based on distance from the lens. An image blurred \"in camera\" collects visual information from a scene that a Photoshop blurred image can never obtain because the data is not there in a Photoshop file. The \"in camera\" image is a much truer and organic image/record."
+                },
+                {
+                    "headline": "Blur using layers.",
+                    "description": "For this option you\u2019ll want to create a duplicate layer going to Layers > Duplicate layers. With your duplicate layer, click Filters > Blur > Gaussian Blur. Now your entire image will be blurred out. But because you have the original image as a layer under this one, you can use the erase tool to erase the blur over the part of your photo you want in focus. Once you have done that, go to Layer > Flatten Image. This will flatten the two layers into one, with your blurred background."
+                },
+                {
+                    "headline": "Blur the background of your photograph by making your image a \u201cSmart Object\u201d.",
+                    "description": "This will allow you to use an iris blur to keep your subject in focus while blurring the background. In your Layers panel right-click on your background layer, the image, and select \u201cConvert to Smart Object\u201d. From your top menu click Filter > Blur Gallery > Iris Blur. Now drag your iris over your subject. You can adjust the size and shape of the iris by clicking and dragging on the different boxes you see. You can also hold shift while you drag to convert the rectangular iris into a circle, adjusting it to the proper size."
+                },
+                {
+                    "headline": "Use the Quick Selection tool to blur a background.",
+                    "description": "Find the Quick Selection tool in your toolbar, it looks like a paintbrush with a dashed oval shape next to it. Hold and drag it around your subject that you want to remain in focus. This tool uses distinctive edges to select your image, and is much easier to use if you were able to blur your background on your camera even slightly when taking your photo. Use the Refine Edge button in the \u201cOptions\u201d bar to further refine your selection to make sure everything you want is selected. From your top bar menu go to Select > Inverse. Now everything that is not your subject will be selected. From here you want to go to Filter > Gaussian Blur. Simply adjust the Radius slider to your preferred blur setting and click \u201cOK\u201d."
+                },
+                {
+                    "headline": "If you are using an updated version of Photoshop, try using the \"smart blur\" option.",
+                    "description": "This filter evaluates the range of pixels in the background and foreground, and gives you more control over the image. The filter is also adjustable which enables the photographer to manipulate the photo even more."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A camera with a large imaging plate/chip, such as a 35mm film camera.",
+        "A \"fast\" lens, that is, a lens with a maximum aperture (opening) of f/2.8 or larger. The lower f-number, the larger the aperture.  Large apertures, in conjunction with the imaging size, provide very shallow depths of field: they blur the area in front of and behind the subject."
+    ],
+    "text": " Blurring the Background by Adjusting Aperture Set your DSLR camera to the aperture setting. You will find a circular dial, usually on the top of your camera, that has several shooting options such as \u201cAuto\u201d. Turn the dial so that the aperture priority setting is selected. The aperture setting is identified by an \u201cA\u201d and sometimes an \u201cAv\u201d on certain Canon models. Aperture is the size of the hole in the lens through which light travels, similar to the pupil of an eye. Aperture is measured in f-numbers (Ex: f/1.4), known as \u201cf-stops\u201d. And while it may sound confusing, the larger the f-stop, the smaller the f-stop. So a f/1.4 will have a larger aperture (hole) than a f/2. A smaller f-stop will create a larger depth of field and be able to separate the foreground and background better, blurring the background. Create distance between the camera, subject, and background. To better blur the background of your photograph you want to create enough distance between the camera and the subject so that you can zoom on your camera to better focus it on your foreground. In addition, the further your subject is from the background, the easier it will be to get a nice blurred look. Depending on your lens, play with this distance having your subject stand 5, 10, or 15 feet away from the background. Fill the frame with the subject in a medium shot. This is a shot that has your subject in the frame from about the waist up. For a great portrait photo you may then want to get a bit closer, or zoom on your camera so you can really focus on the shoulders and head. But starting further out can help you adjust at the beginning. Focus directly on the eyes. Note: The nose, ears and hair will be in varying degrees of focus. At smaller apertures, the background of a shot will be in focus. At larger apertures, the background will be blurred. Zoom in. Narrow the depth of field further by zooming in. To make as shallow a depth of field as possible, use a long/telephoto lens set on maximum zoom. Stand as close to the subject as possible. If you have a very long lens, this might still be quite far away from your subject. If you only have the lens your camera came with, you may have to stand closer to the subject. You should still try and get a fair amount of zoom on your camera, and in general, you will be closer to your subject than your subject is from the background. Play around with zoom and snap a couple of test photos to see if you\u2019re getting close to the desired results. Pan with a moving target. If the subject is moving, move your camera to follow the subject and keep it sharp while blurring the background. Try different shutter speeds to balance the background blur you want against the subject blur you don't want. Try a 1/125 second shutter speed to begin. Keep your body and the camera as steady as possible. Track the subject through the viewfinder and ensure your camera is focusing properly on the subject. Take the photo with confidence. This technique uses the blurred background to highlight the motion of the subject, whereas background blurred solely through a shallow depth of field is used to make the subject stand out from its surroundings. Using your Camera\u2019s Other Settings Set your camera to the auto setting and use portrait mode. If you don\u2019t have a particularly advanced camera you can still blur the background of a photograph by using your camera\u2019s other settings like portrait mode which will adjust the camera automatically to help you with the desired effect. The portrait mode is found on the dial usually under the \u201cP\u201d or the little image of a woman. Switch your dial to Portrait mode to have your camera automatically adjust your aperture and shutter speed. Adjust your auto focus settings in the menu. You can hit the \u201cMenu\u201d button on your camera and navigate to the focus selection. In a lot of cameras you will see several boxes with the center one filled in. Move your cursor to fill in one of the other boxes that will be closest to where your subject\u2019s eyes are. This will allow the camera to automatically focus the most on your selected area, blurring the rest out the further away from the focus area an object is. Place your subject as far away from the background as possible. You can manually narrow your depth of field if you don\u2019t have a lens that will easily do it for you by creating a large distance between the foreground and background. If you are taking a photo of your subject in front of say, a wall, then try and move them 10 or so feet away from the wall. With your portrait mode set, your camera should be able to blur the background on its own. Zoom in as far as you can.If you are using a kit lens (the default lens that comes with your camera) then you want to zoom to get a longer focal length, or the distance between the lens and the subject. You\u2019ll have to play with distance here depending on how far your lens can zoom. You want to be able to zoom in as far as possible while still getting both your subject and some background in the shot. This method will mean that there will be less background in your photo, but it will help you get the desired effect. Your subject will remain the same and only the background will shrink if you zoom correctly. But it will help to blur the background. Blurring in Photoshop Employ Photoshop\u2019s Blur tool to blur the background of a photograph. Select the raindrop looking icon from the toolbar, this is the blur tool. At the top of your screen will see options for brush size, and strength of your stroke. You can adjust these to your liking. For a portrait style photo with a fair amount of background you can select a larger brush size. Hold down your mouse and move it over the background of your photo to blur it. Keep in mind that this technique does not create true depth - it blurs everything in the background uniformly rather than independently based on distance from the lens. An image blurred \"in camera\" collects visual information from a scene that a Photoshop blurred image can never obtain because the data is not there in a Photoshop file. The \"in camera\" image is a much truer and organic image/record. Blur using layers. For this option you\u2019ll want to create a duplicate layer going to Layers > Duplicate layers. With your duplicate layer, click Filters > Blur > Gaussian Blur. Now your entire image will be blurred out. But because you have the original image as a layer under this one, you can use the erase tool to erase the blur over the part of your photo you want in focus. Once you have done that, go to Layer > Flatten Image. This will flatten the two layers into one, with your blurred background. Blur the background of your photograph by making your image a \u201cSmart Object\u201d. This will allow you to use an iris blur to keep your subject in focus while blurring the background. In your Layers panel right-click on your background layer, the image, and select \u201cConvert to Smart Object\u201d. From your top menu click Filter > Blur Gallery > Iris Blur. Now drag your iris over your subject. You can adjust the size and shape of the iris by clicking and dragging on the different boxes you see. You can also hold shift while you drag to convert the rectangular iris into a circle, adjusting it to the proper size. Use the Quick Selection tool to blur a background. Find the Quick Selection tool in your toolbar, it looks like a paintbrush with a dashed oval shape next to it. Hold and drag it around your subject that you want to remain in focus. This tool uses distinctive edges to select your image, and is much easier to use if you were able to blur your background on your camera even slightly when taking your photo. Use the Refine Edge button in the \u201cOptions\u201d bar to further refine your selection to make sure everything you want is selected. From your top bar menu go to Select > Inverse. Now everything that is not your subject will be selected. From here you want to go to Filter > Gaussian Blur. Simply adjust the Radius slider to your preferred blur setting and click \u201cOK\u201d. If you are using an updated version of Photoshop, try using the \"smart blur\" option. This filter evaluates the range of pixels in the background and foreground, and gives you more control over the image. The filter is also adjustable which enables the photographer to manipulate the photo even more.",
+    "sentences": [
+        " Blurring the Background by Adjusting Aperture Set your DSLR camera to the aperture setting.",
+        "You will find a circular dial, usually on the top of your camera, that has several shooting options such as \u201cAuto\u201d.",
+        "Turn the dial so that the aperture priority setting is selected.",
+        "The aperture setting is identified by an \u201cA\u201d and sometimes an \u201cAv\u201d on certain Canon models.",
+        "Aperture is the size of the hole in the lens through which light travels, similar to the pupil of an eye.",
+        "Aperture is measured in f-numbers (Ex: f/1.4), known as \u201cf-stops\u201d.",
+        "And while it may sound confusing, the larger the f-stop, the smaller the f-stop.",
+        "So a f/1.4 will have a larger aperture (hole) than a f/2.",
+        "A smaller f-stop will create a larger depth of field and be able to separate the foreground and background better, blurring the background.",
+        "Create distance between the camera, subject, and background.",
+        "To better blur the background of your photograph you want to create enough distance between the camera and the subject so that you can zoom on your camera to better focus it on your foreground.",
+        "In addition, the further your subject is from the background, the easier it will be to get a nice blurred look.",
+        "Depending on your lens, play with this distance having your subject stand 5, 10, or 15 feet away from the background.",
+        "Fill the frame with the subject in a medium shot.",
+        "This is a shot that has your subject in the frame from about the waist up.",
+        "For a great portrait photo you may then want to get a bit closer, or zoom on your camera so you can really focus on the shoulders and head.",
+        "But starting further out can help you adjust at the beginning.",
+        "Focus directly on the eyes.",
+        "Note: The nose, ears and hair will be in varying degrees of focus.",
+        "At smaller apertures, the background of a shot will be in focus.",
+        "At larger apertures, the background will be blurred.",
+        "Zoom in.",
+        "Narrow the depth of field further by zooming in.",
+        "To make as shallow a depth of field as possible, use a long/telephoto lens set on maximum zoom.",
+        "Stand as close to the subject as possible.",
+        "If you have a very long lens, this might still be quite far away from your subject.",
+        "If you only have the lens your camera came with, you may have to stand closer to the subject.",
+        "You should still try and get a fair amount of zoom on your camera, and in general, you will be closer to your subject than your subject is from the background.",
+        "Play around with zoom and snap a couple of test photos to see if you\u2019re getting close to the desired results.",
+        "Pan with a moving target.",
+        "If the subject is moving, move your camera to follow the subject and keep it sharp while blurring the background.",
+        "Try different shutter speeds to balance the background blur you want against the subject blur you don't want.",
+        "Try a 1/125 second shutter speed to begin.",
+        "Keep your body and the camera as steady as possible.",
+        "Track the subject through the viewfinder and ensure your camera is focusing properly on the subject.",
+        "Take the photo with confidence.",
+        "This technique uses the blurred background to highlight the motion of the subject, whereas background blurred solely through a shallow depth of field is used to make the subject stand out from its surroundings.",
+        "Using your Camera\u2019s Other Settings Set your camera to the auto setting and use portrait mode.",
+        "If you don\u2019t have a particularly advanced camera you can still blur the background of a photograph by using your camera\u2019s other settings like portrait mode which will adjust the camera automatically to help you with the desired effect.",
+        "The portrait mode is found on the dial usually under the \u201cP\u201d or the little image of a woman.",
+        "Switch your dial to Portrait mode to have your camera automatically adjust your aperture and shutter speed.",
+        "Adjust your auto focus settings in the menu.",
+        "You can hit the \u201cMenu\u201d button on your camera and navigate to the focus selection.",
+        "In a lot of cameras you will see several boxes with the center one filled in.",
+        "Move your cursor to fill in one of the other boxes that will be closest to where your subject\u2019s eyes are.",
+        "This will allow the camera to automatically focus the most on your selected area, blurring the rest out the further away from the focus area an object is.",
+        "Place your subject as far away from the background as possible.",
+        "You can manually narrow your depth of field if you don\u2019t have a lens that will easily do it for you by creating a large distance between the foreground and background.",
+        "If you are taking a photo of your subject in front of say, a wall, then try and move them 10 or so feet away from the wall.",
+        "With your portrait mode set, your camera should be able to blur the background on its own.",
+        "Zoom in as far as you can.If you are using a kit lens (the default lens that comes with your camera) then you want to zoom to get a longer focal length, or the distance between the lens and the subject.",
+        "You\u2019ll have to play with distance here depending on how far your lens can zoom.",
+        "You want to be able to zoom in as far as possible while still getting both your subject and some background in the shot.",
+        "This method will mean that there will be less background in your photo, but it will help you get the desired effect.",
+        "Your subject will remain the same and only the background will shrink if you zoom correctly.",
+        "But it will help to blur the background.",
+        "Blurring in Photoshop Employ Photoshop\u2019s Blur tool to blur the background of a photograph.",
+        "Select the raindrop looking icon from the toolbar, this is the blur tool.",
+        "At the top of your screen will see options for brush size, and strength of your stroke.",
+        "You can adjust these to your liking.",
+        "For a portrait style photo with a fair amount of background you can select a larger brush size.",
+        "Hold down your mouse and move it over the background of your photo to blur it.",
+        "Keep in mind that this technique does not create true depth - it blurs everything in the background uniformly rather than independently based on distance from the lens.",
+        "An image blurred \"in camera\" collects visual information from a scene that a Photoshop blurred image can never obtain because the data is not there in a Photoshop file.",
+        "The \"in camera\" image is a much truer and organic image/record.",
+        "Blur using layers.",
+        "For this option you\u2019ll want to create a duplicate layer going to Layers > Duplicate layers.",
+        "With your duplicate layer, click Filters > Blur > Gaussian Blur.",
+        "Now your entire image will be blurred out.",
+        "But because you have the original image as a layer under this one, you can use the erase tool to erase the blur over the part of your photo you want in focus.",
+        "Once you have done that, go to Layer > Flatten Image.",
+        "This will flatten the two layers into one, with your blurred background.",
+        "Blur the background of your photograph by making your image a \u201cSmart Object\u201d.",
+        "This will allow you to use an iris blur to keep your subject in focus while blurring the background.",
+        "In your Layers panel right-click on your background layer, the image, and select \u201cConvert to Smart Object\u201d.",
+        "From your top menu click Filter > Blur Gallery > Iris Blur.",
+        "Now drag your iris over your subject.",
+        "You can adjust the size and shape of the iris by clicking and dragging on the different boxes you see.",
+        "You can also hold shift while you drag to convert the rectangular iris into a circle, adjusting it to the proper size.",
+        "Use the Quick Selection tool to blur a background.",
+        "Find the Quick Selection tool in your toolbar, it looks like a paintbrush with a dashed oval shape next to it.",
+        "Hold and drag it around your subject that you want to remain in focus.",
+        "This tool uses distinctive edges to select your image, and is much easier to use if you were able to blur your background on your camera even slightly when taking your photo.",
+        "Use the Refine Edge button in the \u201cOptions\u201d bar to further refine your selection to make sure everything you want is selected.",
+        "From your top bar menu go to Select > Inverse.",
+        "Now everything that is not your subject will be selected.",
+        "From here you want to go to Filter > Gaussian Blur.",
+        "Simply adjust the Radius slider to your preferred blur setting and click \u201cOK\u201d.",
+        "If you are using an updated version of Photoshop, try using the \"smart blur\" option.",
+        "This filter evaluates the range of pixels in the background and foreground, and gives you more control over the image.",
+        "The filter is also adjustable which enables the photographer to manipulate the photo even more."
+    ]
+}

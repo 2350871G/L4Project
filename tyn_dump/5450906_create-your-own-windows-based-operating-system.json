@@ -1,0 +1,98 @@
+{
+    "title": "How to Create Your Own Windows Based Operating System",
+    "url": "https://www.wikihow.com/Create-Your-Own-Windows-Based-Operating-System",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows"
+    ],
+    "steps": [
+        {
+            "headline": "Make sure you have all the requirements ready, you will need them.",
+            "description": "The requirements are listed under Things You'll Need below."
+        },
+        {
+            "headline": "Decide what CPU the OS is compatible with.",
+            "description": "For example: x86 (32-bit), x64 (64-bit). Make sure your computer that you will target matches the CPU type you will specify later. Write down what processor architecture, you need to remember that."
+        },
+        {
+            "headline": "Decide what you want to use as storage (CD, DVD, USB, HDD).",
+            "description": "Note: If you choose a CD or DVD, your image file of your system must be smaller than 1G. We will talk about the image file later."
+        },
+        {
+            "headline": "Download the Windows 7 AIK from this link: http://www.microsoft.com/en-us/download/details.aspx?id=5753",
+            "description": ""
+        },
+        {
+            "headline": "Install it and then turn off your User Account Control (UAC) in the control panel.",
+            "description": "This allows us to do anything to the system files stored in the image file we are going to change."
+        },
+        {
+            "headline": "Find and open the Deployment Tools Command Prompt in the start menu.",
+            "description": ""
+        },
+        {
+            "headline": "Set up the image file.",
+            "description": "The image file is 120MB. If you install it on a CD as a live filesystem, then you are not able to save anything. Type the following command in the Deployment Tools Command Prompt: copype _Your_Chosen_Processor_Architecture_ C:\\PathWhereYouWantToStoreTheImageFile. Example: copype x64 X:\\Data\\MyWindowsOS"
+        },
+        {
+            "headline": "Mount the image.",
+            "description": "So you have created our image (if it has been done right) and now you need to mount it so that you can change its contents. Type the following: imagex /mountrw PathOfImage 1 PathOfImageFolder/mount. Example: imagex /mountrw X:\\MWOS\\winpe.wim 1 X:\\MWOS\\mount."
+        },
+        {
+            "headline": "Add anything you want to it, the mount point is your specified mount point.",
+            "description": "When you are done with modifying its contents, type imagex /unmount MountPointPath /commit. Example: imagex /unmount X:\\MWOS\\mount /commit"
+        },
+        {
+            "headline": "Type move PathOfImageFile PathOfImageFolder/ISO/sources/boot.wim",
+            "description": ""
+        },
+        {
+            "headline": "When that is done, type the following command to create a CD image.",
+            "description": "Type: oscdimg -n -bPathOfImageFolder\\etfsboot.com PathOfImageFolder\\ISO PathIfImageFolder\\winpe_x86.iso"
+        },
+        {
+            "headline": "Test your image in virtualbox, vmware or even for real.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "Internet connection",
+        "Target system must have 1GB of RAM (or 500MB if deploying on USB/HDD)",
+        "Tiny or big knowledge of C++",
+        "Test computer/laptop- CD/DVD Windows 7 AIK/ADK, CMD enabled",
+        "Windows 7",
+        "10GB of disk space",
+        "Windows 7 boot updater tool (for modifying boot logo)",
+        "Resource hacker",
+        "Visual studio (for creating programs for your os)",
+        "Probably a USB (if you deploy a system with more than 900MB)"
+    ],
+    "text": " Make sure you have all the requirements ready, you will need them. The requirements are listed under Things You'll Need below. Decide what CPU the OS is compatible with. For example: x86 (32-bit), x64 (64-bit). Make sure your computer that you will target matches the CPU type you will specify later. Write down what processor architecture, you need to remember that. Decide what you want to use as storage (CD, DVD, USB, HDD). Note: If you choose a CD or DVD, your image file of your system must be smaller than 1G. We will talk about the image file later. Download the Windows 7 AIK from this link: http://www.microsoft.com/en-us/download/details.aspx?id=5753  Install it and then turn off your User Account Control (UAC) in the control panel. This allows us to do anything to the system files stored in the image file we are going to change. Find and open the Deployment Tools Command Prompt in the start menu.  Set up the image file. The image file is 120MB. If you install it on a CD as a live filesystem, then you are not able to save anything. Type the following command in the Deployment Tools Command Prompt: copype _Your_Chosen_Processor_Architecture_ C:\\PathWhereYouWantToStoreTheImageFile. Example: copype x64 X:\\Data\\MyWindowsOS Mount the image. So you have created our image (if it has been done right) and now you need to mount it so that you can change its contents. Type the following: imagex /mountrw PathOfImage 1 PathOfImageFolder/mount. Example: imagex /mountrw X:\\MWOS\\winpe.wim 1 X:\\MWOS\\mount. Add anything you want to it, the mount point is your specified mount point. When you are done with modifying its contents, type imagex /unmount MountPointPath /commit. Example: imagex /unmount X:\\MWOS\\mount /commit Type move PathOfImageFile PathOfImageFolder/ISO/sources/boot.wim  When that is done, type the following command to create a CD image. Type: oscdimg -n -bPathOfImageFolder\\etfsboot.com PathOfImageFolder\\ISO PathIfImageFolder\\winpe_x86.iso Test your image in virtualbox, vmware or even for real. ",
+    "sentences": [
+        " Make sure you have all the requirements ready, you will need them.",
+        "The requirements are listed under Things You'll Need below.",
+        "Decide what CPU the OS is compatible with.",
+        "For example: x86 (32-bit), x64 (64-bit).",
+        "Make sure your computer that you will target matches the CPU type you will specify later.",
+        "Write down what processor architecture, you need to remember that.",
+        "Decide what you want to use as storage (CD, DVD, USB, HDD).",
+        "Note: If you choose a CD or DVD, your image file of your system must be smaller than 1G.",
+        "We will talk about the image file later.",
+        "Download the Windows 7 AIK from this link: http://www.microsoft.com/en-us/download/details.aspx?id=5753  Install it and then turn off your User Account Control (UAC) in the control panel.",
+        "This allows us to do anything to the system files stored in the image file we are going to change.",
+        "Find and open the Deployment Tools Command Prompt in the start menu.",
+        "Set up the image file.",
+        "The image file is 120MB.",
+        "If you install it on a CD as a live filesystem, then you are not able to save anything.",
+        "Type the following command in the Deployment Tools Command Prompt: copype _Your_Chosen_Processor_Architecture_ C:\\PathWhereYouWantToStoreTheImageFile.",
+        "Example: copype x64 X:\\Data\\MyWindowsOS Mount the image.",
+        "So you have created our image (if it has been done right) and now you need to mount it so that you can change its contents.",
+        "Type the following: imagex /mountrw PathOfImage 1 PathOfImageFolder/mount.",
+        "Example: imagex /mountrw X:\\MWOS\\winpe.wim 1 X:\\MWOS\\mount.",
+        "Add anything you want to it, the mount point is your specified mount point.",
+        "When you are done with modifying its contents, type imagex /unmount MountPointPath /commit.",
+        "Example: imagex /unmount X:\\MWOS\\mount /commit Type move PathOfImageFile PathOfImageFolder/ISO/sources/boot.wim  When that is done, type the following command to create a CD image.",
+        "Type: oscdimg -n -bPathOfImageFolder\\etfsboot.com PathOfImageFolder\\ISO PathIfImageFolder\\winpe_x86.iso Test your image in virtualbox, vmware or even for real."
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "title": "How to Test a Fuel Pump Relay with a Multimeter",
+    "url": "https://www.wikihow.com/Test-a-Fuel-Pump-Relay-with-a-Multimeter",
+    "category_hierarchy": [
+        "Cars & Other Vehicles",
+        "Cars",
+        "Car Maintenance and Repair",
+        "Car Engines"
+    ],
+    "parts": [
+        {
+            "name": "Removing and Cleaning the Relay",
+            "steps": [
+                {
+                    "headline": "Turn off your vehicle and remove the key from the ignition.",
+                    "description": "Since the fuel pump relay connects to your vehicle\u2019s electrical system, you won\u2019t be able to remove it while your vehicle is turned on. Make sure you turn off the engine and pull the key out so there\u2019s no chance of the vehicle starting while you\u2019re working. Don\u2019t try to work on your vehicle while it\u2019s turned on since you could get shocked."
+                },
+                {
+                    "headline": "Find the fuel pump relay in your vehicle\u2019s fuse box.",
+                    "description": "The main fuse box is usually located underneath the hood near the front of your vehicle, but there may be a smaller fuse box under the steering column inside your vehicle as well. Pull the cover off of the fuse box and look at the diagram printed on it to know where the fuel pump relay is located. The fuel pump relay is usually colored green or gray. If you can\u2019t find the fuel pump relay, check your vehicle\u2019s manual to see if it lists the location."
+                },
+                {
+                    "headline": "Pull the relay straight out from the fuse box to remove it.",
+                    "description": "Grab the relay firmly on either side and pull it straight up and out from the terminals of the fuse box. If the relay doesn\u2019t pull out right away, try rocking it back and forth to loosen the connection. You won\u2019t be able to start your engine after you remove the relay because the fuel pump won\u2019t work.Tip: Try putting a new relay in your fuse box and starting your vehicle. If your vehicle starts without a problem, then the old relay is broken. If your vehicle still doesn\u2019t work properly, then you may have a larger underlying problem."
+                },
+                {
+                    "headline": "Clean the relay prongs with a wire brush.",
+                    "description": "The fuel pump relay may be faulty or have a loose connection if it\u2019s developed any rust or corrosion on the prongs. Hold the relay upside down so the prongs point up and firmly scrape them with a wire brush. Scrape off as much corrosion as you\u2019re able to so the relay has a solid connection when you plug it back in. You can also try cleaning the terminal ports on the fuse box with the wire brush as well. Wet a cloth with an electrical contact cleaner and rub it into the prongs if you can\u2019t clean all the corrosion off of the prongs."
+                }
+            ]
+        },
+        {
+            "name": "Testing the Relay\u2019s Resistance",
+            "steps": [
+                {
+                    "headline": "Read the circuit diagram on the relay to know what prongs to connect power and the multimeter to.",
+                    "description": "Look on the main body of your relay for a printed diagram of the circuit it controls. Look for the 2 points on the diagram that have a box in between them to know which prongs control the power. The 2 points that have a break in the line connecting them are the prongs that you\u2019ll need to test. Look at the numbers printed next to the prongs to determine which point corresponds with them. The \u201cpower\u201d prongs are usually labeled 85 and 86, while the prongs that you need to test are labeled 87 and 30."
+                },
+                {
+                    "headline": "Set your multimeter to the ohm setting.",
+                    "description": "Look for the setting on your multimeter that has the ohm symbol (\u03a9) to use for testing your relay. If your multimeter only has 1 ohm setting, then turn the dial so the arrow points at that setting. If the multimeter has multiple ranges within the ohm setting, choose the lowest range possible to get the most accurate reading. You can buy a multimeter from your local hardware store. The ohm setting on your multimeter measures the resistance between the terminals on the relay to check if they\u2019re working properly."
+                },
+                {
+                    "headline": "Attach jumper wires to the terminals on your vehicle\u2019s battery.",
+                    "description": "Jumper wires are smaller cables with alligator clips on both ends so you can easily transfer a current. Clip one of the jumper wires to the positive terminal on your vehicle\u2019s battery. Attach another jumper wire to the negative terminal on the battery so it can carry the current. You can buy jumper wires from an automotive or hardware store. It doesn\u2019t matter which wire you connect to each terminal.Warning: Don\u2019t touch the ends of the jumper wires together while they\u2019re attached to the battery since you could create a spark."
+                },
+                {
+                    "headline": "Connect the jumper wires to the positive and negative relay terminals.",
+                    "description": "Flip the relay over so the prongs point straight up so you can connect the jumper wires. Clip the wire leading from the negative terminal on your battery to the terminal labeled with an 85. Attach the wire connected to the positive battery terminal to the pin labeled with an 86."
+                },
+                {
+                    "headline": "Listen for a clicking sound when you attach power to know if the relay still works.",
+                    "description": "As soon as you attach both of the jumper wires to the relay, a switch on the internal circuit will close and make an audible noise. If you didn\u2019t notice the clicking sound when you first attached the second wire, unclip it from the prong. Touch the end of the jumper wire to the prong repeatedly so you can hear the clicking noise before clipping it back on. If you don\u2019t hear a clicking noise when you attach both of the jumper wires, then the circuit inside the relay isn\u2019t working properly."
+                },
+                {
+                    "headline": "Hold the multimeter probes against the other 2 prongs on the relay.",
+                    "description": "Plug the multimeter probes into the ports on the bottom of the machine so you can use them for testing. Hold either of the probes against one of the prongs labeled with 30 or 87. Then press the second probe against the last prong on the relay. The multimeter will measure the resistance of the internal circuit between the prongs. You can also get multimeter probes that have alligator clips on the end so you don\u2019t have to hold them against the prongs the entire time."
+                },
+                {
+                    "headline": "Check the multimeter for a 0 reading to know the relay still functions.",
+                    "description": "When the circuit inside the relay has power, the prongs should not have any resistance between them. Look at the readout on the multimeter\u2019s screen to see if it reads 0, meaning the circuit has no resistance between the points. If the reading is greater than 0, then the circuit inside the relay is faulty. Depending on the ohm range of the multimeter, the reading may also be a small decimal, such as 0.001 or 0.005. If your relay functions and has correct readings, then you may have a different problem with your fuel pump or electrical system."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Wire brush",
+        "Digital multimeter",
+        "Car battery",
+        "Jumper wires"
+    ],
+    "text": " Removing and Cleaning the Relay Turn off your vehicle and remove the key from the ignition. Since the fuel pump relay connects to your vehicle\u2019s electrical system, you won\u2019t be able to remove it while your vehicle is turned on. Make sure you turn off the engine and pull the key out so there\u2019s no chance of the vehicle starting while you\u2019re working. Don\u2019t try to work on your vehicle while it\u2019s turned on since you could get shocked. Find the fuel pump relay in your vehicle\u2019s fuse box. The main fuse box is usually located underneath the hood near the front of your vehicle, but there may be a smaller fuse box under the steering column inside your vehicle as well. Pull the cover off of the fuse box and look at the diagram printed on it to know where the fuel pump relay is located. The fuel pump relay is usually colored green or gray. If you can\u2019t find the fuel pump relay, check your vehicle\u2019s manual to see if it lists the location. Pull the relay straight out from the fuse box to remove it. Grab the relay firmly on either side and pull it straight up and out from the terminals of the fuse box. If the relay doesn\u2019t pull out right away, try rocking it back and forth to loosen the connection. You won\u2019t be able to start your engine after you remove the relay because the fuel pump won\u2019t work.Tip: Try putting a new relay in your fuse box and starting your vehicle. If your vehicle starts without a problem, then the old relay is broken. If your vehicle still doesn\u2019t work properly, then you may have a larger underlying problem. Clean the relay prongs with a wire brush. The fuel pump relay may be faulty or have a loose connection if it\u2019s developed any rust or corrosion on the prongs. Hold the relay upside down so the prongs point up and firmly scrape them with a wire brush. Scrape off as much corrosion as you\u2019re able to so the relay has a solid connection when you plug it back in. You can also try cleaning the terminal ports on the fuse box with the wire brush as well. Wet a cloth with an electrical contact cleaner and rub it into the prongs if you can\u2019t clean all the corrosion off of the prongs. Testing the Relay\u2019s Resistance Read the circuit diagram on the relay to know what prongs to connect power and the multimeter to. Look on the main body of your relay for a printed diagram of the circuit it controls. Look for the 2 points on the diagram that have a box in between them to know which prongs control the power. The 2 points that have a break in the line connecting them are the prongs that you\u2019ll need to test. Look at the numbers printed next to the prongs to determine which point corresponds with them. The \u201cpower\u201d prongs are usually labeled 85 and 86, while the prongs that you need to test are labeled 87 and 30. Set your multimeter to the ohm setting. Look for the setting on your multimeter that has the ohm symbol (\u03a9) to use for testing your relay. If your multimeter only has 1 ohm setting, then turn the dial so the arrow points at that setting. If the multimeter has multiple ranges within the ohm setting, choose the lowest range possible to get the most accurate reading. You can buy a multimeter from your local hardware store. The ohm setting on your multimeter measures the resistance between the terminals on the relay to check if they\u2019re working properly. Attach jumper wires to the terminals on your vehicle\u2019s battery. Jumper wires are smaller cables with alligator clips on both ends so you can easily transfer a current. Clip one of the jumper wires to the positive terminal on your vehicle\u2019s battery. Attach another jumper wire to the negative terminal on the battery so it can carry the current. You can buy jumper wires from an automotive or hardware store. It doesn\u2019t matter which wire you connect to each terminal.Warning: Don\u2019t touch the ends of the jumper wires together while they\u2019re attached to the battery since you could create a spark. Connect the jumper wires to the positive and negative relay terminals. Flip the relay over so the prongs point straight up so you can connect the jumper wires. Clip the wire leading from the negative terminal on your battery to the terminal labeled with an 85. Attach the wire connected to the positive battery terminal to the pin labeled with an 86. Listen for a clicking sound when you attach power to know if the relay still works. As soon as you attach both of the jumper wires to the relay, a switch on the internal circuit will close and make an audible noise. If you didn\u2019t notice the clicking sound when you first attached the second wire, unclip it from the prong. Touch the end of the jumper wire to the prong repeatedly so you can hear the clicking noise before clipping it back on. If you don\u2019t hear a clicking noise when you attach both of the jumper wires, then the circuit inside the relay isn\u2019t working properly. Hold the multimeter probes against the other 2 prongs on the relay. Plug the multimeter probes into the ports on the bottom of the machine so you can use them for testing. Hold either of the probes against one of the prongs labeled with 30 or 87. Then press the second probe against the last prong on the relay. The multimeter will measure the resistance of the internal circuit between the prongs. You can also get multimeter probes that have alligator clips on the end so you don\u2019t have to hold them against the prongs the entire time. Check the multimeter for a 0 reading to know the relay still functions. When the circuit inside the relay has power, the prongs should not have any resistance between them. Look at the readout on the multimeter\u2019s screen to see if it reads 0, meaning the circuit has no resistance between the points. If the reading is greater than 0, then the circuit inside the relay is faulty. Depending on the ohm range of the multimeter, the reading may also be a small decimal, such as 0.001 or 0.005. If your relay functions and has correct readings, then you may have a different problem with your fuel pump or electrical system.",
+    "sentences": [
+        " Removing and Cleaning the Relay Turn off your vehicle and remove the key from the ignition.",
+        "Since the fuel pump relay connects to your vehicle\u2019s electrical system, you won\u2019t be able to remove it while your vehicle is turned on.",
+        "Make sure you turn off the engine and pull the key out so there\u2019s no chance of the vehicle starting while you\u2019re working.",
+        "Don\u2019t try to work on your vehicle while it\u2019s turned on since you could get shocked.",
+        "Find the fuel pump relay in your vehicle\u2019s fuse box.",
+        "The main fuse box is usually located underneath the hood near the front of your vehicle, but there may be a smaller fuse box under the steering column inside your vehicle as well.",
+        "Pull the cover off of the fuse box and look at the diagram printed on it to know where the fuel pump relay is located.",
+        "The fuel pump relay is usually colored green or gray.",
+        "If you can\u2019t find the fuel pump relay, check your vehicle\u2019s manual to see if it lists the location.",
+        "Pull the relay straight out from the fuse box to remove it.",
+        "Grab the relay firmly on either side and pull it straight up and out from the terminals of the fuse box.",
+        "If the relay doesn\u2019t pull out right away, try rocking it back and forth to loosen the connection.",
+        "You won\u2019t be able to start your engine after you remove the relay because the fuel pump won\u2019t work.Tip: Try putting a new relay in your fuse box and starting your vehicle.",
+        "If your vehicle starts without a problem, then the old relay is broken.",
+        "If your vehicle still doesn\u2019t work properly, then you may have a larger underlying problem.",
+        "Clean the relay prongs with a wire brush.",
+        "The fuel pump relay may be faulty or have a loose connection if it\u2019s developed any rust or corrosion on the prongs.",
+        "Hold the relay upside down so the prongs point up and firmly scrape them with a wire brush.",
+        "Scrape off as much corrosion as you\u2019re able to so the relay has a solid connection when you plug it back in.",
+        "You can also try cleaning the terminal ports on the fuse box with the wire brush as well.",
+        "Wet a cloth with an electrical contact cleaner and rub it into the prongs if you can\u2019t clean all the corrosion off of the prongs.",
+        "Testing the Relay\u2019s Resistance Read the circuit diagram on the relay to know what prongs to connect power and the multimeter to.",
+        "Look on the main body of your relay for a printed diagram of the circuit it controls.",
+        "Look for the 2 points on the diagram that have a box in between them to know which prongs control the power.",
+        "The 2 points that have a break in the line connecting them are the prongs that you\u2019ll need to test.",
+        "Look at the numbers printed next to the prongs to determine which point corresponds with them.",
+        "The \u201cpower\u201d prongs are usually labeled 85 and 86, while the prongs that you need to test are labeled 87 and 30.",
+        "Set your multimeter to the ohm setting.",
+        "Look for the setting on your multimeter that has the ohm symbol (\u03a9) to use for testing your relay.",
+        "If your multimeter only has 1 ohm setting, then turn the dial so the arrow points at that setting.",
+        "If the multimeter has multiple ranges within the ohm setting, choose the lowest range possible to get the most accurate reading.",
+        "You can buy a multimeter from your local hardware store.",
+        "The ohm setting on your multimeter measures the resistance between the terminals on the relay to check if they\u2019re working properly.",
+        "Attach jumper wires to the terminals on your vehicle\u2019s battery.",
+        "Jumper wires are smaller cables with alligator clips on both ends so you can easily transfer a current.",
+        "Clip one of the jumper wires to the positive terminal on your vehicle\u2019s battery.",
+        "Attach another jumper wire to the negative terminal on the battery so it can carry the current.",
+        "You can buy jumper wires from an automotive or hardware store.",
+        "It doesn\u2019t matter which wire you connect to each terminal.Warning: Don\u2019t touch the ends of the jumper wires together while they\u2019re attached to the battery since you could create a spark.",
+        "Connect the jumper wires to the positive and negative relay terminals.",
+        "Flip the relay over so the prongs point straight up so you can connect the jumper wires.",
+        "Clip the wire leading from the negative terminal on your battery to the terminal labeled with an 85.",
+        "Attach the wire connected to the positive battery terminal to the pin labeled with an 86.",
+        "Listen for a clicking sound when you attach power to know if the relay still works.",
+        "As soon as you attach both of the jumper wires to the relay, a switch on the internal circuit will close and make an audible noise.",
+        "If you didn\u2019t notice the clicking sound when you first attached the second wire, unclip it from the prong.",
+        "Touch the end of the jumper wire to the prong repeatedly so you can hear the clicking noise before clipping it back on.",
+        "If you don\u2019t hear a clicking noise when you attach both of the jumper wires, then the circuit inside the relay isn\u2019t working properly.",
+        "Hold the multimeter probes against the other 2 prongs on the relay.",
+        "Plug the multimeter probes into the ports on the bottom of the machine so you can use them for testing.",
+        "Hold either of the probes against one of the prongs labeled with 30 or 87.",
+        "Then press the second probe against the last prong on the relay.",
+        "The multimeter will measure the resistance of the internal circuit between the prongs.",
+        "You can also get multimeter probes that have alligator clips on the end so you don\u2019t have to hold them against the prongs the entire time.",
+        "Check the multimeter for a 0 reading to know the relay still functions.",
+        "When the circuit inside the relay has power, the prongs should not have any resistance between them.",
+        "Look at the readout on the multimeter\u2019s screen to see if it reads 0, meaning the circuit has no resistance between the points.",
+        "If the reading is greater than 0, then the circuit inside the relay is faulty.",
+        "Depending on the ohm range of the multimeter, the reading may also be a small decimal, such as 0.001 or 0.005.",
+        "If your relay functions and has correct readings, then you may have a different problem with your fuel pump or electrical system."
+    ]
+}

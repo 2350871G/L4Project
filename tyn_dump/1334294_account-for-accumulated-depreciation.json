@@ -1,0 +1,155 @@
+{
+    "title": "How to Account For Accumulated Depreciation",
+    "url": "https://www.wikihow.com/Account-For-Accumulated-Depreciation",
+    "category_hierarchy": [
+        "Finance and Business",
+        "Business",
+        "Running a Business",
+        "Business Finances",
+        "Accounting"
+    ],
+    "methods": [
+        {
+            "name": "Understanding Accumulated Depreciation",
+            "steps": [
+                {
+                    "headline": "Learn the basics of depreciation.",
+                    "description": "Understanding accumulated depreciation is impossible without understanding depreciation. Depreciation is the reduction of the value of a fixed asset over a pre-defined period of time. For example, the value of a piece of machinery worth $10,000 at purchase may depreciate by $1,000 per year over a period of 10 years. What is a fixed asset? A fixed asset refers to a piece of property owned by a business that used in the production of income, and is not expected to be converted into cash for at least a year. This can include real estate, office equipment, machinery, vehicles, furniture, and much more. When depreciating an asset, you must know the cost of the asset (how much you paid), the useful life of the asset (how long it is expected to be productive), the salvage value (how much it is worth at the end of its life) and the depreciation method (the rate at which the asset is depreciated over its useful life). Depreciation reflects how the value of an asset is used up over time."
+                },
+                {
+                    "headline": "Account for depreciation.",
+                    "description": "The purpose of depreciation is to match part of the expense of an asset to the income it produces. Because of this, you need to record the depreciation during each period as an expense on the income statement. For example, if your machine depreciates by $1,000 each year, this will be a $1,000 expense on the income statement annually. Having this $1,000 expense on the income statement allows you to match the cost of the asset with the revenues it produces. If you are accounting for the depreciation of an asset, record it as a debit to the Depreciation Expense account."
+                },
+                {
+                    "headline": "Learn what accumulated depreciation is.",
+                    "description": "Accumulated depreciation is simply the total amount of an asset's cost that has been depreciated since the asset was purchased. In other words, it is the total amount of an asset's cost that has been charged as an expense since the asset was purchased. For example, for a $10,000 machine depreciating at $1,000 per year for 10 years, after year five, the accumulated depreciation would be $5,000, reflecting five years of charging $1,000 of the assets value to the depreciation account. If you take the original the cost of the asset (your purchase price), and subtract the accumulated depreciation, you get the \"book value\" or the \"carrying value\" of the asset. Accumulated depreciation is known as a \"contra-asset\". This means that accumulated depreciation is an asset account with a credit balance. In other words, while the price of a machine is listed as an asset, accumulated depreciation has a credit balance which increases over time, and therefore offsets the cost of the asset. It can almost be thought of as a \"negative asset\"."
+                },
+                {
+                    "headline": "Discover what accumulated depreciation is not.",
+                    "description": "It is important to remember that you cannot use accumulated depreciation to value an asset. In other words, if you purchased an asset for $10,000, and there has been accumulated depreciation of $6,000, it does not mean your asset is now worth $4,000. This is because the value of that that asset is determined by what the market is willing to pay for it (also known as the market value). In other words, the carrying value of an asset (cost minus accumulated depreciation), is not the value of the asset. The value of the asset is equal to what it would sell for on the open market."
+                }
+            ]
+        },
+        {
+            "name": "Accounting for Accumulated Depreciation",
+            "steps": [
+                {
+                    "headline": "Determine your yearly depreciation expense.",
+                    "description": "The IRS has guidelines for determining how long an asset is of use and what the salvage value of the item will be after said number of years. If you know how long an asset is of use, and what the salvage value (or the left over value at the end of the period) is, you can determine your yearly depreciation expense. For example, imagine your firm purchases a piece of machinery for $10,000. The machinery is expected to last ten years and has no salvage value. Using straight-line depreciation (the most common method), the yearly expense is $10,000 / 10 or $1,000. Straight-line depreciation simply depreciates a set amount each year for the useful life. The amount is equal to the purchase price minus the salvage value, divided by the useful life of the asset. The tax methods allowed by the IRS are different than the accounting methods for accumulated depreciation. When filing, make sure you are following the regulations and directions set forth by the IRS."
+                },
+                {
+                    "headline": "Record the journal entries for the depreciation expenses.",
+                    "description": "At the end of each accounting period (a year in this example) you can begin by making entries in the general journal to reflect the charging of depreciation expenses to the income statement. To do this, you will need to open whatever accounting software you are using. You will then open the Depreciation Expense account (or create the account if it is not already there by using the create account feature in the software you are using), and enter a debit entry for $1,000. You will then open the Accumulated Depreciation account, and enter a credit entry for $1,000. In doing this, you have made the year's $1,000 in depreciation for the asset appear as an expense on the income statement. You are also increasing accumulated depreciation by $1,000. This means the carrying value of your asset will now be $9,000 (the purchase price of $10,000 which is listed as an asset, minus the accumulated depreciation of $1,000)."
+                },
+                {
+                    "headline": "Close out the Depreciation Expense account.",
+                    "description": "Expense accounts are temporary, so they must be closed at the end of each accounting period. To do this move the $1,000 balance from the Depreciation Expense account into the Income Summary account. From there it will be moved into the Retained Earnings account."
+                },
+                {
+                    "headline": "Maintain the asset's accumulated depreciation on the balance sheet even when the asset is fully depreciated.",
+                    "description": "As long as the asset is on the balance sheet, the accumulated depreciation needs to be as well. For example, after ten years, the asset in the example above will still be recorded on the balance sheet at its cost of $10,000. Accumulated depreciation will also be recorded at $10,000. The asset is now fully depreciated, and these amounts should stay fixed on the balance sheet until the asset is retired."
+                }
+            ]
+        },
+        {
+            "name": "Retiring or Disposing of the Asset",
+            "steps": [
+                {
+                    "headline": "Understanding asset removal.",
+                    "description": "Assets do not live forever, and when an asset is sold or retired, you need to perform a series of accounting entries to make sure that both the asset, and its accumulated depreciation are completely purged from the balance sheet. If this did not happen, fixed assets would just build up over time, as would accumulated depreciation."
+                },
+                {
+                    "headline": "Record the proper journal entry when an asset with no salvage value is retired.",
+                    "description": "This entry is fairly straightforward but will differ depending on the amount the asset sells for and when it is sold. In the example above, imagine the asset is discarded after ten or more years. To record the journal entry, debit Accumulated Depreciation for $10,000 and credit Equipment for $10,000. This reduces the equipment asset account by the value of the machine, and reduces the accumulated depreciation contra-asset account. The end result is that the asset is removed from the balance sheet."
+                },
+                {
+                    "headline": "Record the proper journal entry when an asset with a salvage value is retired.",
+                    "description": "Imagine the asset is sold after ten or more years for $500. In this case, you would debit Accumulated Depreciation for $10,000 and Credit Equipment for $10,000 the same as you would for an asset with no value. You would also need to debit the Cash account for $500 and credit the Gain on Asset Disposal account for $500. What if you sell the asset before it is fully depreciated? Imagine you sell the asset after six years for $4,000. To record the journal entry, you would debit Accumulated Depreciation for $6,000, debit Cash for $4,000, and credit Equipment for $10,000. In this example, the sales price is equal to the asset's book value. Thus, there is no gain or loss to record. Finally, imagine you discard the asset before it is fully depreciated, say after seven years. To record the journal entry, debit Accumulated Depreciation for $7,000, debit Loss on Asset Disposal for $3,000, and credit Equipment for $10,000."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Accounting software"
+    ],
+    "text": " Understanding Accumulated Depreciation Learn the basics of depreciation. Understanding accumulated depreciation is impossible without understanding depreciation. Depreciation is the reduction of the value of a fixed asset over a pre-defined period of time. For example, the value of a piece of machinery worth $10,000 at purchase may depreciate by $1,000 per year over a period of 10 years. What is a fixed asset? A fixed asset refers to a piece of property owned by a business that used in the production of income, and is not expected to be converted into cash for at least a year. This can include real estate, office equipment, machinery, vehicles, furniture, and much more. When depreciating an asset, you must know the cost of the asset (how much you paid), the useful life of the asset (how long it is expected to be productive), the salvage value (how much it is worth at the end of its life) and the depreciation method (the rate at which the asset is depreciated over its useful life). Depreciation reflects how the value of an asset is used up over time. Account for depreciation. The purpose of depreciation is to match part of the expense of an asset to the income it produces. Because of this, you need to record the depreciation during each period as an expense on the income statement. For example, if your machine depreciates by $1,000 each year, this will be a $1,000 expense on the income statement annually. Having this $1,000 expense on the income statement allows you to match the cost of the asset with the revenues it produces. If you are accounting for the depreciation of an asset, record it as a debit to the Depreciation Expense account. Learn what accumulated depreciation is. Accumulated depreciation is simply the total amount of an asset's cost that has been depreciated since the asset was purchased. In other words, it is the total amount of an asset's cost that has been charged as an expense since the asset was purchased. For example, for a $10,000 machine depreciating at $1,000 per year for 10 years, after year five, the accumulated depreciation would be $5,000, reflecting five years of charging $1,000 of the assets value to the depreciation account. If you take the original the cost of the asset (your purchase price), and subtract the accumulated depreciation, you get the \"book value\" or the \"carrying value\" of the asset. Accumulated depreciation is known as a \"contra-asset\". This means that accumulated depreciation is an asset account with a credit balance. In other words, while the price of a machine is listed as an asset, accumulated depreciation has a credit balance which increases over time, and therefore offsets the cost of the asset. It can almost be thought of as a \"negative asset\". Discover what accumulated depreciation is not. It is important to remember that you cannot use accumulated depreciation to value an asset. In other words, if you purchased an asset for $10,000, and there has been accumulated depreciation of $6,000, it does not mean your asset is now worth $4,000. This is because the value of that that asset is determined by what the market is willing to pay for it (also known as the market value). In other words, the carrying value of an asset (cost minus accumulated depreciation), is not the value of the asset. The value of the asset is equal to what it would sell for on the open market. Accounting for Accumulated Depreciation Determine your yearly depreciation expense. The IRS has guidelines for determining how long an asset is of use and what the salvage value of the item will be after said number of years. If you know how long an asset is of use, and what the salvage value (or the left over value at the end of the period) is, you can determine your yearly depreciation expense. For example, imagine your firm purchases a piece of machinery for $10,000. The machinery is expected to last ten years and has no salvage value. Using straight-line depreciation (the most common method), the yearly expense is $10,000 / 10 or $1,000. Straight-line depreciation simply depreciates a set amount each year for the useful life. The amount is equal to the purchase price minus the salvage value, divided by the useful life of the asset. The tax methods allowed by the IRS are different than the accounting methods for accumulated depreciation. When filing, make sure you are following the regulations and directions set forth by the IRS. Record the journal entries for the depreciation expenses. At the end of each accounting period (a year in this example) you can begin by making entries in the general journal to reflect the charging of depreciation expenses to the income statement. To do this, you will need to open whatever accounting software you are using. You will then open the Depreciation Expense account (or create the account if it is not already there by using the create account feature in the software you are using), and enter a debit entry for $1,000. You will then open the Accumulated Depreciation account, and enter a credit entry for $1,000. In doing this, you have made the year's $1,000 in depreciation for the asset appear as an expense on the income statement. You are also increasing accumulated depreciation by $1,000. This means the carrying value of your asset will now be $9,000 (the purchase price of $10,000 which is listed as an asset, minus the accumulated depreciation of $1,000). Close out the Depreciation Expense account. Expense accounts are temporary, so they must be closed at the end of each accounting period. To do this move the $1,000 balance from the Depreciation Expense account into the Income Summary account. From there it will be moved into the Retained Earnings account. Maintain the asset's accumulated depreciation on the balance sheet even when the asset is fully depreciated. As long as the asset is on the balance sheet, the accumulated depreciation needs to be as well. For example, after ten years, the asset in the example above will still be recorded on the balance sheet at its cost of $10,000. Accumulated depreciation will also be recorded at $10,000. The asset is now fully depreciated, and these amounts should stay fixed on the balance sheet until the asset is retired. Retiring or Disposing of the Asset Understanding asset removal. Assets do not live forever, and when an asset is sold or retired, you need to perform a series of accounting entries to make sure that both the asset, and its accumulated depreciation are completely purged from the balance sheet. If this did not happen, fixed assets would just build up over time, as would accumulated depreciation. Record the proper journal entry when an asset with no salvage value is retired. This entry is fairly straightforward but will differ depending on the amount the asset sells for and when it is sold. In the example above, imagine the asset is discarded after ten or more years. To record the journal entry, debit Accumulated Depreciation for $10,000 and credit Equipment for $10,000. This reduces the equipment asset account by the value of the machine, and reduces the accumulated depreciation contra-asset account. The end result is that the asset is removed from the balance sheet. Record the proper journal entry when an asset with a salvage value is retired. Imagine the asset is sold after ten or more years for $500. In this case, you would debit Accumulated Depreciation for $10,000 and Credit Equipment for $10,000 the same as you would for an asset with no value. You would also need to debit the Cash account for $500 and credit the Gain on Asset Disposal account for $500. What if you sell the asset before it is fully depreciated? Imagine you sell the asset after six years for $4,000. To record the journal entry, you would debit Accumulated Depreciation for $6,000, debit Cash for $4,000, and credit Equipment for $10,000. In this example, the sales price is equal to the asset's book value. Thus, there is no gain or loss to record. Finally, imagine you discard the asset before it is fully depreciated, say after seven years. To record the journal entry, debit Accumulated Depreciation for $7,000, debit Loss on Asset Disposal for $3,000, and credit Equipment for $10,000.",
+    "sentences": [
+        " Understanding Accumulated Depreciation Learn the basics of depreciation.",
+        "Understanding accumulated depreciation is impossible without understanding depreciation.",
+        "Depreciation is the reduction of the value of a fixed asset over a pre-defined period of time.",
+        "For example, the value of a piece of machinery worth $10,000 at purchase may depreciate by $1,000 per year over a period of 10 years.",
+        "What is a fixed asset?",
+        "A fixed asset refers to a piece of property owned by a business that used in the production of income, and is not expected to be converted into cash for at least a year.",
+        "This can include real estate, office equipment, machinery, vehicles, furniture, and much more.",
+        "When depreciating an asset, you must know the cost of the asset (how much you paid), the useful life of the asset (how long it is expected to be productive), the salvage value (how much it is worth at the end of its life) and the depreciation method (the rate at which the asset is depreciated over its useful life).",
+        "Depreciation reflects how the value of an asset is used up over time.",
+        "Account for depreciation.",
+        "The purpose of depreciation is to match part of the expense of an asset to the income it produces.",
+        "Because of this, you need to record the depreciation during each period as an expense on the income statement.",
+        "For example, if your machine depreciates by $1,000 each year, this will be a $1,000 expense on the income statement annually.",
+        "Having this $1,000 expense on the income statement allows you to match the cost of the asset with the revenues it produces.",
+        "If you are accounting for the depreciation of an asset, record it as a debit to the Depreciation Expense account.",
+        "Learn what accumulated depreciation is.",
+        "Accumulated depreciation is simply the total amount of an asset's cost that has been depreciated since the asset was purchased.",
+        "In other words, it is the total amount of an asset's cost that has been charged as an expense since the asset was purchased.",
+        "For example, for a $10,000 machine depreciating at $1,000 per year for 10 years, after year five, the accumulated depreciation would be $5,000, reflecting five years of charging $1,000 of the assets value to the depreciation account.",
+        "If you take the original the cost of the asset (your purchase price), and subtract the accumulated depreciation, you get the \"book value\" or the \"carrying value\" of the asset.",
+        "Accumulated depreciation is known as a \"contra-asset\".",
+        "This means that accumulated depreciation is an asset account with a credit balance.",
+        "In other words, while the price of a machine is listed as an asset, accumulated depreciation has a credit balance which increases over time, and therefore offsets the cost of the asset.",
+        "It can almost be thought of as a \"negative asset\".",
+        "Discover what accumulated depreciation is not.",
+        "It is important to remember that you cannot use accumulated depreciation to value an asset.",
+        "In other words, if you purchased an asset for $10,000, and there has been accumulated depreciation of $6,000, it does not mean your asset is now worth $4,000.",
+        "This is because the value of that that asset is determined by what the market is willing to pay for it (also known as the market value).",
+        "In other words, the carrying value of an asset (cost minus accumulated depreciation), is not the value of the asset.",
+        "The value of the asset is equal to what it would sell for on the open market.",
+        "Accounting for Accumulated Depreciation Determine your yearly depreciation expense.",
+        "The IRS has guidelines for determining how long an asset is of use and what the salvage value of the item will be after said number of years.",
+        "If you know how long an asset is of use, and what the salvage value (or the left over value at the end of the period) is, you can determine your yearly depreciation expense.",
+        "For example, imagine your firm purchases a piece of machinery for $10,000.",
+        "The machinery is expected to last ten years and has no salvage value.",
+        "Using straight-line depreciation (the most common method), the yearly expense is $10,000 / 10 or $1,000.",
+        "Straight-line depreciation simply depreciates a set amount each year for the useful life.",
+        "The amount is equal to the purchase price minus the salvage value, divided by the useful life of the asset.",
+        "The tax methods allowed by the IRS are different than the accounting methods for accumulated depreciation.",
+        "When filing, make sure you are following the regulations and directions set forth by the IRS.",
+        "Record the journal entries for the depreciation expenses.",
+        "At the end of each accounting period (a year in this example) you can begin by making entries in the general journal to reflect the charging of depreciation expenses to the income statement.",
+        "To do this, you will need to open whatever accounting software you are using.",
+        "You will then open the Depreciation Expense account (or create the account if it is not already there by using the create account feature in the software you are using), and enter a debit entry for $1,000.",
+        "You will then open the Accumulated Depreciation account, and enter a credit entry for $1,000.",
+        "In doing this, you have made the year's $1,000 in depreciation for the asset appear as an expense on the income statement.",
+        "You are also increasing accumulated depreciation by $1,000.",
+        "This means the carrying value of your asset will now be $9,000 (the purchase price of $10,000 which is listed as an asset, minus the accumulated depreciation of $1,000).",
+        "Close out the Depreciation Expense account.",
+        "Expense accounts are temporary, so they must be closed at the end of each accounting period.",
+        "To do this move the $1,000 balance from the Depreciation Expense account into the Income Summary account.",
+        "From there it will be moved into the Retained Earnings account.",
+        "Maintain the asset's accumulated depreciation on the balance sheet even when the asset is fully depreciated.",
+        "As long as the asset is on the balance sheet, the accumulated depreciation needs to be as well.",
+        "For example, after ten years, the asset in the example above will still be recorded on the balance sheet at its cost of $10,000.",
+        "Accumulated depreciation will also be recorded at $10,000.",
+        "The asset is now fully depreciated, and these amounts should stay fixed on the balance sheet until the asset is retired.",
+        "Retiring or Disposing of the Asset Understanding asset removal.",
+        "Assets do not live forever, and when an asset is sold or retired, you need to perform a series of accounting entries to make sure that both the asset, and its accumulated depreciation are completely purged from the balance sheet.",
+        "If this did not happen, fixed assets would just build up over time, as would accumulated depreciation.",
+        "Record the proper journal entry when an asset with no salvage value is retired.",
+        "This entry is fairly straightforward but will differ depending on the amount the asset sells for and when it is sold.",
+        "In the example above, imagine the asset is discarded after ten or more years.",
+        "To record the journal entry, debit Accumulated Depreciation for $10,000 and credit Equipment for $10,000.",
+        "This reduces the equipment asset account by the value of the machine, and reduces the accumulated depreciation contra-asset account.",
+        "The end result is that the asset is removed from the balance sheet.",
+        "Record the proper journal entry when an asset with a salvage value is retired.",
+        "Imagine the asset is sold after ten or more years for $500.",
+        "In this case, you would debit Accumulated Depreciation for $10,000 and Credit Equipment for $10,000 the same as you would for an asset with no value.",
+        "You would also need to debit the Cash account for $500 and credit the Gain on Asset Disposal account for $500.",
+        "What if you sell the asset before it is fully depreciated?",
+        "Imagine you sell the asset after six years for $4,000.",
+        "To record the journal entry, you would debit Accumulated Depreciation for $6,000, debit Cash for $4,000, and credit Equipment for $10,000.",
+        "In this example, the sales price is equal to the asset's book value.",
+        "Thus, there is no gain or loss to record.",
+        "Finally, imagine you discard the asset before it is fully depreciated, say after seven years.",
+        "To record the journal entry, debit Accumulated Depreciation for $7,000, debit Loss on Asset Disposal for $3,000, and credit Equipment for $10,000."
+    ]
+}

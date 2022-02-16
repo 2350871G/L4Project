@@ -1,0 +1,111 @@
+{
+    "title": "How to Install Snow Leopard on an Intel PC",
+    "url": "https://www.wikihow.com/Install-Snow-Leopard-on-an-Intel-PC",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Mac",
+        "Mac OS X"
+    ],
+    "methods": [
+        {
+            "name": "Prepare Your USB Memory",
+            "steps": [
+                {
+                    "headline": "Install Snow Leopard on your PC from USB memory, rather than from the installation DVD, this is due to the need to customize some things to run the installer on your PC, which we will customize the how to load this setup, more specifically we will load a custom bootloader.",
+                    "description": ""
+                },
+                {
+                    "headline": "Format the USB stick and then turn converts the Snow Leopard disc into an image on the desktop of a Mac, here's how:",
+                    "description": "Application Open Disk Utility (Disk Utility) on the Mac that you have given (this application is in / Applications / Utilities / Disk Utility)"
+                },
+                {
+                    "headline": "Partition and format the USB drive: Insert the USB memory, after a second is displayed in the sidebar of Disk Utility.",
+                    "description": "Click on it. Click on Partition. Choose a partition volume scheme. Give a name (Hackintosh) and select Mac OS Extended (Case Sensitive., Recorded), now very important. Click on the button options, and check the option that says GUID Partition Table, once you've done all the above;\nClick Apply. You have an installation DVD image from Snow Leopard on your hard drive: for it inserted into the Mac provided the Snow Leopard DVD and when it appears in the sidebar of Disk Utility (1) you click it, then ( 2) you click on the \"new image\" then choose where to save, I recommend using the desktop, to finish Click Save and go to the bathroom or take a cold drink because it will take some time, when finished go to the next step."
+                },
+                {
+                    "headline": "Restore the image of Snow Leopard since your hard drive to your USB drive: Now from the same application Disk Utility, (1) click on the USB memory is called Hackintosh, (2) you click restore.",
+                    "description": "(3) Drag and drop the image created from the installation DVD Mac OS X Install DVD.dmg of the sidebar to the field that says Font, then (4) drag and drop the USB from the sidebar to the field that says Target . Now simply (5) click on the restore button and enter the password when prompted (the password for the Mac the administrator lent you), this could take a few minutes."
+                },
+                {
+                    "headline": "Make some modifications in order to boot the installer from the USB drive.This requires some work from the Terminal in Mac OS X, and this is what can be a little difficult for some users.",
+                    "description": "If you have no idea how to use the terminal, ask a friend who does know."
+                },
+                {
+                    "headline": "Make sure your USB is still connected and open the Terminal (/ Utilities / Terminal) and type the following command:",
+                    "description": "diskutil list Here we will see what the ID of the USB drive should be 2 identifiers, one for the GUID partition and one for the HFS partition, copy these names, as they will be needed later."
+                },
+                {
+                    "headline": "Go to the Chameleon page and download the latest version of Chameleon, once downloaded, unzip it and put it in an accessible location as the desktop.",
+                    "description": ""
+                },
+                {
+                    "headline": "Go to the i386 folder that is inside the folder Chameleon.",
+                    "description": "cd / Users / your name /Desktop/Chameleon-2.0-RC2-r640-bin/i386 /"
+                },
+                {
+                    "headline": "Once inside the folder you run the following commands from the terminal (the ID in bold replace it by one of the IDs you copied in step 1).",
+                    "description": "boot0 sudo fdisk-f-u-y / dev/rdisk2"
+                },
+                {
+                    "headline": "Repeat the action, but change the name of the identifier on the other you copied in step 1",
+                    "description": "sudo dd if = boot1h of = / dev/rdisk2s2"
+                },
+                {
+                    "headline": "Place the custom Bootloader USB memory, for that netkas.org download it and unzip it into an accessible, then go to copy the bootloader to the USB stick using the Terminal, in this case it is necessary to use the Terminal and not the Finder, so it uses a command like this, changing the routes you use:",
+                    "description": "sudo cp / Users / adam / Desktop / boot / Volumes / Hackintosh"
+                },
+                {
+                    "headline": "Finish preparing the USB drive with extra download this file unzip it and copy and paste it into the USB memory.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Install Snow Leopard",
+            "steps": [
+                {
+                    "headline": "Install Snow Leopard.",
+                    "description": ""
+                },
+                {
+                    "headline": "Make sure you have set the boot priority in BIOS to boot from your USB drive, just plug the USB drive and ready for your turn on the PC Hackintosh.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "ATX cabinet with 500W power supply.",
+        "A motherboard (Motherboard) GIGABYTE GA-EP45-UD3P Intel P45 ATX",
+        "An Intel Core 2 Quad 3.0GHz LGA 775 95W Quad-Core Processor",
+        "Video card GeForce 9800 GTX + 512MB 256-bit GDDR3 PCI Express 2.0 x16",
+        "Two Card Patriot Extreme Performance RAM 4GB (2 x 2GB) DDR2 800 (PC2 6400) *Dual Channel Kit Desktop Memory x 2 (for a total of 8GB)",
+        "A hard drive from Western Digital Caviar Green WD10EADS 1 Terabyte SATA 3.0Gb / s 3.5 \"",
+        "A CD burner / DVD with SATA connection",
+        "A network card 10 / 100 / 1000 / 2000Mbps PCI Copper Gigabyte"
+    ],
+    "text": " Prepare Your USB Memory Install Snow Leopard on your PC from USB memory, rather than from the installation DVD, this is due to the need to customize some things to run the installer on your PC, which we will customize the how to load this setup, more specifically we will load a custom bootloader.  Format the USB stick and then turn converts the Snow Leopard disc into an image on the desktop of a Mac, here's how: Application Open Disk Utility (Disk Utility) on the Mac that you have given (this application is in / Applications / Utilities / Disk Utility) Partition and format the USB drive: Insert the USB memory, after a second is displayed in the sidebar of Disk Utility. Click on it. Click on Partition. Choose a partition volume scheme. Give a name (Hackintosh) and select Mac OS Extended (Case Sensitive., Recorded), now very important. Click on the button options, and check the option that says GUID Partition Table, once you've done all the above;\nClick Apply. You have an installation DVD image from Snow Leopard on your hard drive: for it inserted into the Mac provided the Snow Leopard DVD and when it appears in the sidebar of Disk Utility (1) you click it, then ( 2) you click on the \"new image\" then choose where to save, I recommend using the desktop, to finish Click Save and go to the bathroom or take a cold drink because it will take some time, when finished go to the next step. Restore the image of Snow Leopard since your hard drive to your USB drive: Now from the same application Disk Utility, (1) click on the USB memory is called Hackintosh, (2) you click restore. (3) Drag and drop the image created from the installation DVD Mac OS X Install DVD.dmg of the sidebar to the field that says Font, then (4) drag and drop the USB from the sidebar to the field that says Target . Now simply (5) click on the restore button and enter the password when prompted (the password for the Mac the administrator lent you), this could take a few minutes. Make some modifications in order to boot the installer from the USB drive.This requires some work from the Terminal in Mac OS X, and this is what can be a little difficult for some users. If you have no idea how to use the terminal, ask a friend who does know. Make sure your USB is still connected and open the Terminal (/ Utilities / Terminal) and type the following command: diskutil list Here we will see what the ID of the USB drive should be 2 identifiers, one for the GUID partition and one for the HFS partition, copy these names, as they will be needed later. Go to the Chameleon page and download the latest version of Chameleon, once downloaded, unzip it and put it in an accessible location as the desktop.  Go to the i386 folder that is inside the folder Chameleon. cd / Users / your name /Desktop/Chameleon-2.0-RC2-r640-bin/i386 / Once inside the folder you run the following commands from the terminal (the ID in bold replace it by one of the IDs you copied in step 1). boot0 sudo fdisk-f-u-y / dev/rdisk2 Repeat the action, but change the name of the identifier on the other you copied in step 1 sudo dd if = boot1h of = / dev/rdisk2s2 Place the custom Bootloader USB memory, for that netkas.org download it and unzip it into an accessible, then go to copy the bootloader to the USB stick using the Terminal, in this case it is necessary to use the Terminal and not the Finder, so it uses a command like this, changing the routes you use: sudo cp / Users / adam / Desktop / boot / Volumes / Hackintosh Finish preparing the USB drive with extra download this file unzip it and copy and paste it into the USB memory.  Install Snow Leopard Install Snow Leopard.  Make sure you have set the boot priority in BIOS to boot from your USB drive, just plug the USB drive and ready for your turn on the PC Hackintosh. ",
+    "sentences": [
+        " Prepare Your USB Memory Install Snow Leopard on your PC from USB memory, rather than from the installation DVD, this is due to the need to customize some things to run the installer on your PC, which we will customize the how to load this setup, more specifically we will load a custom bootloader.",
+        "Format the USB stick and then turn converts the Snow Leopard disc into an image on the desktop of a Mac, here's how: Application Open Disk Utility (Disk Utility) on the Mac that you have given (this application is in / Applications / Utilities / Disk Utility) Partition and format the USB drive: Insert the USB memory, after a second is displayed in the sidebar of Disk Utility.",
+        "Click on it.",
+        "Click on Partition.",
+        "Choose a partition volume scheme.",
+        "Give a name (Hackintosh) and select Mac OS Extended (Case Sensitive., Recorded), now very important.",
+        "Click on the button options, and check the option that says GUID Partition Table, once you've done all the above;\nClick Apply.",
+        "You have an installation DVD image from Snow Leopard on your hard drive: for it inserted into the Mac provided the Snow Leopard DVD and when it appears in the sidebar of Disk Utility (1) you click it, then ( 2) you click on the \"new image\" then choose where to save, I recommend using the desktop, to finish Click Save and go to the bathroom or take a cold drink because it will take some time, when finished go to the next step.",
+        "Restore the image of Snow Leopard since your hard drive to your USB drive: Now from the same application Disk Utility, (1) click on the USB memory is called Hackintosh, (2) you click restore.",
+        "(3) Drag and drop the image created from the installation DVD Mac OS X Install DVD.dmg of the sidebar to the field that says Font, then (4) drag and drop the USB from the sidebar to the field that says Target .",
+        "Now simply (5) click on the restore button and enter the password when prompted (the password for the Mac the administrator lent you), this could take a few minutes.",
+        "Make some modifications in order to boot the installer from the USB drive.This requires some work from the Terminal in Mac OS X, and this is what can be a little difficult for some users.",
+        "If you have no idea how to use the terminal, ask a friend who does know.",
+        "Make sure your USB is still connected and open the Terminal (/ Utilities / Terminal) and type the following command: diskutil list Here we will see what the ID of the USB drive should be 2 identifiers, one for the GUID partition and one for the HFS partition, copy these names, as they will be needed later.",
+        "Go to the Chameleon page and download the latest version of Chameleon, once downloaded, unzip it and put it in an accessible location as the desktop.",
+        "Go to the i386 folder that is inside the folder Chameleon.",
+        "cd / Users / your name /Desktop/Chameleon-2.0-RC2-r640-bin/i386 / Once inside the folder you run the following commands from the terminal (the ID in bold replace it by one of the IDs you copied in step 1).",
+        "boot0 sudo fdisk-f-u-y / dev/rdisk2 Repeat the action, but change the name of the identifier on the other you copied in step 1 sudo dd if = boot1h of = / dev/rdisk2s2 Place the custom Bootloader USB memory, for that netkas.org download it and unzip it into an accessible, then go to copy the bootloader to the USB stick using the Terminal, in this case it is necessary to use the Terminal and not the Finder, so it uses a command like this, changing the routes you use: sudo cp / Users / adam / Desktop / boot / Volumes / Hackintosh Finish preparing the USB drive with extra download this file unzip it and copy and paste it into the USB memory.",
+        "Install Snow Leopard Install Snow Leopard.",
+        "Make sure you have set the boot priority in BIOS to boot from your USB drive, just plug the USB drive and ready for your turn on the PC Hackintosh."
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "How to Change the Startup Sound for Windows 7 and 8",
+    "url": "https://www.wikihow.com/Change-the-Startup-Sound-for-Windows-7-and-8",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Windows 8"
+    ],
+    "steps": [
+        {
+            "headline": "Right-click the Sounds icon in the system tray (on the right end of the taskbar).",
+            "description": ""
+        },
+        {
+            "headline": "Choose the option Sounds.",
+            "description": ""
+        },
+        {
+            "headline": "If a check box saying \"Play startup sound\" is there and checked, then uncheck  it.",
+            "description": ""
+        },
+        {
+            "headline": "Close the dialogue box.",
+            "description": ""
+        },
+        {
+            "headline": "Open Windows Explorer.",
+            "description": "Windows 7: Go to \"Organize\" menu and select \"Folder and search options\". Then go to the \"View\" tab and search for the check box saying \"Hide extensions for known file types\". If checked, uncheck it. Windows 8: Go to \"View\" menu and select \"Folder and search options\" (last one). Then go to the \"View\" tab and search for the check-box saying \"Hide extensions for known file types\". If checked, uncheck it."
+        },
+        {
+            "headline": "Close the dialogue box.",
+            "description": ""
+        },
+        {
+            "headline": "Go to C:\\Users\\{Username}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\" (for Windows 7 and 8).",
+            "description": ""
+        },
+        {
+            "headline": "Create a text document.",
+            "description": ""
+        },
+        {
+            "headline": "Open it and paste the code exactly, not even one change (including 'Enter the source....'):strSoundFile = \" \"     'Enter the source of the startup sound file in the quotesSet objShell = CreateObject(\"Wscript.Shell\")strCommand = \"wmplayer /play\" & chr(34) & strSoundFile & chr(34)objShell.Run strCommand, 0, True",
+            "description": ""
+        },
+        {
+            "headline": "Save the file (Ctrl+S) and close Notepad.",
+            "description": ""
+        },
+        {
+            "headline": "Rename the file as \"something\" and instead of \"txt\" in the end, replace it as \"vbs\" with the dot before \"vbs\".",
+            "description": ""
+        },
+        {
+            "headline": "Finished!",
+            "description": "Next time when you start your computer, the new sound will play."
+        }
+    ],
+    "tyn": [
+        "A computer running Microsoft\u00ae Windows\u00ae 7/8"
+    ],
+    "text": " Right-click the Sounds icon in the system tray (on the right end of the taskbar).  Choose the option Sounds.  If a check box saying \"Play startup sound\" is there and checked, then uncheck  it.  Close the dialogue box.  Open Windows Explorer. Windows 7: Go to \"Organize\" menu and select \"Folder and search options\". Then go to the \"View\" tab and search for the check box saying \"Hide extensions for known file types\". If checked, uncheck it. Windows 8: Go to \"View\" menu and select \"Folder and search options\" (last one). Then go to the \"View\" tab and search for the check-box saying \"Hide extensions for known file types\". If checked, uncheck it. Close the dialogue box.  Go to C:\\Users\\{Username}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\" (for Windows 7 and 8).  Create a text document.  Open it and paste the code exactly, not even one change (including 'Enter the source....'):strSoundFile = \" \"     'Enter the source of the startup sound file in the quotesSet objShell = CreateObject(\"Wscript.Shell\")strCommand = \"wmplayer /play\" & chr(34) & strSoundFile & chr(34)objShell.Run strCommand, 0, True  Save the file (Ctrl+S) and close Notepad.  Rename the file as \"something\" and instead of \"txt\" in the end, replace it as \"vbs\" with the dot before \"vbs\".  Finished! Next time when you start your computer, the new sound will play.",
+    "sentences": [
+        " Right-click the Sounds icon in the system tray (on the right end of the taskbar).",
+        "Choose the option Sounds.",
+        "If a check box saying \"Play startup sound\" is there and checked, then uncheck  it.",
+        "Close the dialogue box.",
+        "Open Windows Explorer.",
+        "Windows 7: Go to \"Organize\" menu and select \"Folder and search options\".",
+        "Then go to the \"View\" tab and search for the check box saying \"Hide extensions for known file types\".",
+        "If checked, uncheck it.",
+        "Windows 8: Go to \"View\" menu and select \"Folder and search options\" (last one).",
+        "Then go to the \"View\" tab and search for the check-box saying \"Hide extensions for known file types\".",
+        "If checked, uncheck it.",
+        "Close the dialogue box.",
+        "Go to C:\\Users\\{Username}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\" (for Windows 7 and 8).",
+        "Create a text document.",
+        "Open it and paste the code exactly, not even one change (including 'Enter the source....'):strSoundFile = \" \"     'Enter the source of the startup sound file in the quotesSet objShell = CreateObject(\"Wscript.Shell\")strCommand = \"wmplayer /play\" & chr(34) & strSoundFile & chr(34)objShell.Run strCommand, 0, True  Save the file (Ctrl+S) and close Notepad.",
+        "Rename the file as \"something\" and instead of \"txt\" in the end, replace it as \"vbs\" with the dot before \"vbs\".",
+        "Finished!",
+        "Next time when you start your computer, the new sound will play."
+    ]
+}

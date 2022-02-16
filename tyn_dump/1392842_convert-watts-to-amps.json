@@ -1,0 +1,126 @@
+{
+    "title": "How to Convert Watts to Amps",
+    "url": "https://www.wikihow.com/Convert-Watts-to-Amps",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Conversion Aids"
+    ],
+    "methods": [
+        {
+            "name": "Converting Watts to Amps at a Fixed Voltage",
+            "steps": [
+                {
+                    "headline": "Locate a Watt to Amps table.",
+                    "description": "For specialized applications, such as home wiring or automotive wiring, there are specific voltage values. Since these values are always the same, it is possible to construct a chart that links a wattage value to an amperage value. These charts are based on the equations that link wattage, amperes (amps), and voltage in any circuit. If you plan to use this type of table, it can be found online. Just make sure that you are using a table with the correct fixed voltage. For example, a house usually uses 120V AC (in the United States) and a car generally uses 12V DC. You can use an online amperage calculator to make things even simpler."
+                },
+                {
+                    "headline": "Look for the power value (in Watts) that you want to convert.",
+                    "description": "Once you have your chart, you should skim it to find the value you are looking for. These types of charts usually have several rows and columns. There will be a column labeled \u201cPower\u201d or \u201cWatts.\u201d Start there and locate the exact power of the circuit in you are dealing with."
+                },
+                {
+                    "headline": "Find the corresponding current (in amps).",
+                    "description": "When you have located your Watt measurement in the Power column, follow that same row to the \u201cCurrent\u201d or \u201cAmps\u201d column. There may be several columns on the table, so be sure to read the column titles and ensure that you get the correct value. Once you find the amp column, double check the value to make sure it is in the same row as your Watt value."
+                }
+            ]
+        },
+        {
+            "name": "Calculating Amps Using Watts and DC Voltage",
+            "steps": [
+                {
+                    "headline": "Find the circuit\u2019s power.",
+                    "description": "Look for a label on the circuit you are working with. The power is measured in watts. This value measures the amount of energy used or made in a given amount of time. For example 1 Watt = 1 Joule/ 1 second. This value is necessary to calculate the current, measured in amperes (amps for short)."
+                },
+                {
+                    "headline": "Find the voltage.",
+                    "description": "Voltage is the electrical potential of a circuit and should also be listed on a label along with power. It is created because one side of the circuit is electron dense and the other side is electron poor. This causes an electric field (the voltage) to exist between the two points. This voltage causes current to flow through the circuit in an attempt to discharge the voltage (equalize the charges from one side to the other). You need to know the magnitude of voltage to calculate the current, or amps."
+                },
+                {
+                    "headline": "Set up the equation.",
+                    "description": "For a DC circuit, the equation is very straight forward. Watts are equal to amps times volts. Therefore, dividing Watts by volts will allow you to calculate amps. Amps = Watts/Volts"
+                },
+                {
+                    "headline": "Solve for current.",
+                    "description": "Once you have set up the equation, you can solve for amps. Carry out the division to get the magnitude of the amps. Check your units to make sure that you end up with coulombs per second. 1 Amp = 1 Coulomb / Second. A coulomb is the SI unit for electric charge and is defined as the amount of charge moved in one second by a constant current of one amp."
+                }
+            ]
+        },
+        {
+            "name": "Calculating Amps Using Watts and Single Phase AC Voltage",
+            "steps": [
+                {
+                    "headline": "Know the power factor.",
+                    "description": "The power factor in a circuit is the ratio of true power to the apparent power supplied to the system. The apparent power is always greater than or equal to the true power, and thus the power factor will have values from 0 to 1. Look for the power factor posted on the circuit label or schematic."
+                },
+                {
+                    "headline": "Use the single phase equation.",
+                    "description": "The single phase AC power equation that relates volts, amps, and watts is similar to the equation used for DC power. The difference is the use of the power factor. Amps = Watts / (PF X Volts) where the power factor (PF) is a unitless value."
+                },
+                {
+                    "headline": "Solve for current.",
+                    "description": "Once you have plugged in the values for watts, volts, and power factor, you can simply solve for amps. You should come up with the units of coulombs per second. If you do not, you set up your equation incorrectly and should redo your work. Solving for three phase AC power has more variables than single phase. You will have to decide whether you are using line to line or line to neutral voltage to calculate amps with three phase."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Calculator"
+    ],
+    "text": " Converting Watts to Amps at a Fixed Voltage Locate a Watt to Amps table. For specialized applications, such as home wiring or automotive wiring, there are specific voltage values. Since these values are always the same, it is possible to construct a chart that links a wattage value to an amperage value. These charts are based on the equations that link wattage, amperes (amps), and voltage in any circuit. If you plan to use this type of table, it can be found online. Just make sure that you are using a table with the correct fixed voltage. For example, a house usually uses 120V AC (in the United States) and a car generally uses 12V DC. You can use an online amperage calculator to make things even simpler. Look for the power value (in Watts) that you want to convert. Once you have your chart, you should skim it to find the value you are looking for. These types of charts usually have several rows and columns. There will be a column labeled \u201cPower\u201d or \u201cWatts.\u201d Start there and locate the exact power of the circuit in you are dealing with. Find the corresponding current (in amps). When you have located your Watt measurement in the Power column, follow that same row to the \u201cCurrent\u201d or \u201cAmps\u201d column. There may be several columns on the table, so be sure to read the column titles and ensure that you get the correct value. Once you find the amp column, double check the value to make sure it is in the same row as your Watt value. Calculating Amps Using Watts and DC Voltage Find the circuit\u2019s power. Look for a label on the circuit you are working with. The power is measured in watts. This value measures the amount of energy used or made in a given amount of time. For example 1 Watt = 1 Joule/ 1 second. This value is necessary to calculate the current, measured in amperes (amps for short). Find the voltage. Voltage is the electrical potential of a circuit and should also be listed on a label along with power. It is created because one side of the circuit is electron dense and the other side is electron poor. This causes an electric field (the voltage) to exist between the two points. This voltage causes current to flow through the circuit in an attempt to discharge the voltage (equalize the charges from one side to the other). You need to know the magnitude of voltage to calculate the current, or amps. Set up the equation. For a DC circuit, the equation is very straight forward. Watts are equal to amps times volts. Therefore, dividing Watts by volts will allow you to calculate amps. Amps = Watts/Volts Solve for current. Once you have set up the equation, you can solve for amps. Carry out the division to get the magnitude of the amps. Check your units to make sure that you end up with coulombs per second. 1 Amp = 1 Coulomb / Second. A coulomb is the SI unit for electric charge and is defined as the amount of charge moved in one second by a constant current of one amp. Calculating Amps Using Watts and Single Phase AC Voltage Know the power factor. The power factor in a circuit is the ratio of true power to the apparent power supplied to the system. The apparent power is always greater than or equal to the true power, and thus the power factor will have values from 0 to 1. Look for the power factor posted on the circuit label or schematic. Use the single phase equation. The single phase AC power equation that relates volts, amps, and watts is similar to the equation used for DC power. The difference is the use of the power factor. Amps = Watts / (PF X Volts) where the power factor (PF) is a unitless value. Solve for current. Once you have plugged in the values for watts, volts, and power factor, you can simply solve for amps. You should come up with the units of coulombs per second. If you do not, you set up your equation incorrectly and should redo your work. Solving for three phase AC power has more variables than single phase. You will have to decide whether you are using line to line or line to neutral voltage to calculate amps with three phase.",
+    "sentences": [
+        " Converting Watts to Amps at a Fixed Voltage Locate a Watt to Amps table.",
+        "For specialized applications, such as home wiring or automotive wiring, there are specific voltage values.",
+        "Since these values are always the same, it is possible to construct a chart that links a wattage value to an amperage value.",
+        "These charts are based on the equations that link wattage, amperes (amps), and voltage in any circuit.",
+        "If you plan to use this type of table, it can be found online.",
+        "Just make sure that you are using a table with the correct fixed voltage.",
+        "For example, a house usually uses 120V AC (in the United States) and a car generally uses 12V DC.",
+        "You can use an online amperage calculator to make things even simpler.",
+        "Look for the power value (in Watts) that you want to convert.",
+        "Once you have your chart, you should skim it to find the value you are looking for.",
+        "These types of charts usually have several rows and columns.",
+        "There will be a column labeled \u201cPower\u201d or \u201cWatts.\u201d Start there and locate the exact power of the circuit in you are dealing with.",
+        "Find the corresponding current (in amps).",
+        "When you have located your Watt measurement in the Power column, follow that same row to the \u201cCurrent\u201d or \u201cAmps\u201d column.",
+        "There may be several columns on the table, so be sure to read the column titles and ensure that you get the correct value.",
+        "Once you find the amp column, double check the value to make sure it is in the same row as your Watt value.",
+        "Calculating Amps Using Watts and DC Voltage Find the circuit\u2019s power.",
+        "Look for a label on the circuit you are working with.",
+        "The power is measured in watts.",
+        "This value measures the amount of energy used or made in a given amount of time.",
+        "For example 1 Watt = 1 Joule/ 1 second.",
+        "This value is necessary to calculate the current, measured in amperes (amps for short).",
+        "Find the voltage.",
+        "Voltage is the electrical potential of a circuit and should also be listed on a label along with power.",
+        "It is created because one side of the circuit is electron dense and the other side is electron poor.",
+        "This causes an electric field (the voltage) to exist between the two points.",
+        "This voltage causes current to flow through the circuit in an attempt to discharge the voltage (equalize the charges from one side to the other).",
+        "You need to know the magnitude of voltage to calculate the current, or amps.",
+        "Set up the equation.",
+        "For a DC circuit, the equation is very straight forward.",
+        "Watts are equal to amps times volts.",
+        "Therefore, dividing Watts by volts will allow you to calculate amps.",
+        "Amps = Watts/Volts Solve for current.",
+        "Once you have set up the equation, you can solve for amps.",
+        "Carry out the division to get the magnitude of the amps.",
+        "Check your units to make sure that you end up with coulombs per second.",
+        "1 Amp = 1 Coulomb / Second.",
+        "A coulomb is the SI unit for electric charge and is defined as the amount of charge moved in one second by a constant current of one amp.",
+        "Calculating Amps Using Watts and Single Phase AC Voltage Know the power factor.",
+        "The power factor in a circuit is the ratio of true power to the apparent power supplied to the system.",
+        "The apparent power is always greater than or equal to the true power, and thus the power factor will have values from 0 to 1.",
+        "Look for the power factor posted on the circuit label or schematic.",
+        "Use the single phase equation.",
+        "The single phase AC power equation that relates volts, amps, and watts is similar to the equation used for DC power.",
+        "The difference is the use of the power factor.",
+        "Amps = Watts / (PF X Volts) where the power factor (PF) is a unitless value.",
+        "Solve for current.",
+        "Once you have plugged in the values for watts, volts, and power factor, you can simply solve for amps.",
+        "You should come up with the units of coulombs per second.",
+        "If you do not, you set up your equation incorrectly and should redo your work.",
+        "Solving for three phase AC power has more variables than single phase.",
+        "You will have to decide whether you are using line to line or line to neutral voltage to calculate amps with three phase."
+    ]
+}

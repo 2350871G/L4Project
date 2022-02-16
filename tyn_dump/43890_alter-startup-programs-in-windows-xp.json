@@ -1,0 +1,106 @@
+{
+    "title": "How to Alter Startup Programs in Windows XP",
+    "url": "https://www.wikihow.com/Alter-Startup-Programs-in-Windows-XP",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "XP Instructions"
+    ],
+    "methods": [
+        {
+            "name": "MSConfig",
+            "steps": [
+                {
+                    "headline": "Open Microsoft's System Configuration Utility (called MSConfig).",
+                    "description": "Go to START -> Run, and enter msconfig. Hit enter to start the program. The following window should appear. Choose Selective Startup. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d4\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d4\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nIf Run is not found in the Start Menu, to add the \"Run command\": Right click Start -> Properties -> select tab \"Start Menu\" -> Customize -> Customize Start Menu -> check the Run box -> Apply -> OK . {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/71\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/71\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Click on the 'Startup' tab.",
+                    "description": "Here, you will see a list of programs that is similar to the one below:"
+                },
+                {
+                    "headline": "Uncheck any programs that you do not want Windows to run at startup.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click 'OK'.",
+                    "description": "A new window will appear, asking you to restart your computer."
+                },
+                {
+                    "headline": "Click 'Restart.'",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Windows Defender",
+            "steps": [
+                {
+                    "headline": "Download Windows Defender from Microsoft.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click on the Start menu.",
+                    "description": "Click All Programs and then select Windows Defender."
+                },
+                {
+                    "headline": "Choose Tools and the Software Explorer.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click the names of the programs in the Name column that you want to disable.",
+                    "description": "When you are finished, click Disable."
+                }
+            ]
+        },
+        {
+            "name": "Registry Editor",
+            "steps": [
+                {
+                    "headline": "Open the Start menu and click Run.",
+                    "description": "Type regedit into the field."
+                },
+                {
+                    "headline": "Locate 1 of the following registry keys:",
+                    "description": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/79\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/79\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/cc\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/cc\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Find the program that you want to remove from the startup sequence.",
+                    "description": "Delete that one program from either or both of those registry keys. Caution: Do not delete other items in regedit that you see. Many may be unknown, peculiarly named system files. You could easily disable program associations, needed services, make the system fail or to be unstable."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "PC with Windows XP",
+        "Windows Defender (optional)"
+    ],
+    "text": " MSConfig Open Microsoft's System Configuration Utility (called MSConfig). Go to START -> Run, and enter msconfig. Hit enter to start the program. The following window should appear. Choose Selective Startup. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d4\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d4\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nIf Run is not found in the Start Menu, to add the \"Run command\": Right click Start -> Properties -> select tab \"Start Menu\" -> Customize -> Customize Start Menu -> check the Run box -> Apply -> OK . {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/71\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/71\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Click on the 'Startup' tab. Here, you will see a list of programs that is similar to the one below: Uncheck any programs that you do not want Windows to run at startup.  Click 'OK'. A new window will appear, asking you to restart your computer. Click 'Restart.'  Windows Defender Download Windows Defender from Microsoft.  Click on the Start menu. Click All Programs and then select Windows Defender. Choose Tools and the Software Explorer.  Click the names of the programs in the Name column that you want to disable. When you are finished, click Disable. Registry Editor Open the Start menu and click Run. Type regedit into the field. Locate 1 of the following registry keys: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/79\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/79\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/cc\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/cc\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Find the program that you want to remove from the startup sequence. Delete that one program from either or both of those registry keys. Caution: Do not delete other items in regedit that you see. Many may be unknown, peculiarly named system files. You could easily disable program associations, needed services, make the system fail or to be unstable.",
+    "sentences": [
+        " MSConfig Open Microsoft's System Configuration Utility (called MSConfig).",
+        "Go to START -> Run, and enter msconfig.",
+        "Hit enter to start the program.",
+        "The following window should appear.",
+        "Choose Selective Startup.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d4\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d4\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet1-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nIf Run is not found in the Start Menu, to add the \"Run command\": Right click Start -> Properties -> select tab \"Start Menu\" -> Customize -> Customize Start Menu -> check the Run box -> Apply -> OK .",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/71\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/71\\/Alter-Startup-Programs-in-Windows-XP-Step-1Bullet2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Click on the 'Startup' tab.",
+        "Here, you will see a list of programs that is similar to the one below: Uncheck any programs that you do not want Windows to run at startup.",
+        "Click 'OK'.",
+        "A new window will appear, asking you to restart your computer.",
+        "Click 'Restart.'",
+        "Windows Defender Download Windows Defender from Microsoft.",
+        "Click on the Start menu.",
+        "Click All Programs and then select Windows Defender.",
+        "Choose Tools and the Software Explorer.",
+        "Click the names of the programs in the Name column that you want to disable.",
+        "When you are finished, click Disable.",
+        "Registry Editor Open the Start menu and click Run.",
+        "Type regedit into the field.",
+        "Locate 1 of the following registry keys: HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/79\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/79\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet1-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\RunOnce{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/cc\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\\/v4-460px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/cc\\/Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\\/v4-760px-Alter-Startup-Programs-in-Windows-XP-Step-11Bullet2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Find the program that you want to remove from the startup sequence.",
+        "Delete that one program from either or both of those registry keys.",
+        "Caution: Do not delete other items in regedit that you see.",
+        "Many may be unknown, peculiarly named system files.",
+        "You could easily disable program associations, needed services, make the system fail or to be unstable."
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "title": "How to Install Windows Server 2008",
+    "url": "https://www.wikihow.com/Install-Windows-Server-2008",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking",
+        "Servers"
+    ],
+    "methods": [
+        {
+            "name": "Installation",
+            "steps": [
+                {
+                    "headline": "Select your 'Language', 'Time and currency format' and your 'Keyboard or input type' then click next.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click Install now.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type in your product key, select whether you want to 'Automatically activate Windows when' and click Next.",
+                    "description": "There is a trial period of 60 days so if you can't find your product key, leave the field blank and click Next."
+                },
+                {
+                    "headline": "The 'Automatically activate Windows'  is a personal preference but the box was checked for this tutorial.",
+                    "description": ""
+                },
+                {
+                    "headline": "If you have not entered a product key you will get this screen.",
+                    "description": "Press Yes to enter the product key now or No to activate it later."
+                },
+                {
+                    "headline": "Choose your edition of Windows Server 2008, check the 'I have selected the edition of Windows that I have purchased' box and click Next.",
+                    "description": "Server Core Installation is a text based version of Windows Server 2008 whilst the full edition is a graphical display. You could be cheeky and choose a different version of Windows Server 2008 to the one you have bought but you will have to use a product key for that different version which will not be the same as the one you have bought."
+                },
+                {
+                    "headline": "Check the 'I accept the license terms' and click next.",
+                    "description": "It's a good idea to read the license agreement so you know what you're agreeing to."
+                },
+                {
+                    "headline": "Select the type of installation that you want.",
+                    "description": "Upgrade allows you to keep your files, settings etc. before upgrading. Custom (selected in this tutorial) does a clean install of Windows."
+                },
+                {
+                    "headline": "Choose where you want to install Windows and click Next.",
+                    "description": ""
+                },
+                {
+                    "headline": "The next part requires no input from the user.",
+                    "description": "The screen may flicker during this process. However, this is completely normal."
+                },
+                {
+                    "headline": "Restart your computer by click Restart Now or the computer will do it automatically.",
+                    "description": ""
+                },
+                {
+                    "headline": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a0\\/Windows-Server-2008-install-10.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a0\\/Windows-Server-2008-install-10.png\",\"smallWidth\":460,\"smallHeight\":63,\"bigWidth\":760,\"bigHeight\":103.63636363636364,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Do not press anything here.",
+                    "description": "Pressing anything here will result in you being put in a setup loop. If you did press something and setup began again, restart the computer and you'll be fine."
+                },
+                {
+                    "headline": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/2e\\/Windows-Server-2008-install-11.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/2e\\/Windows-Server-2008-install-11.png\",\"smallWidth\":460,\"smallHeight\":70,\"bigWidth\":760,\"bigHeight\":115.15151515151516,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Wait for windows to setup the computer.",
+                    "description": ""
+                },
+                {
+                    "headline": "Installation may hang here.",
+                    "description": "Be patient and allow for a few minutes for the computer to continue with the installation. If there is no disk activity (usually indicated by a flashing light on the computer) for several minutes, then restart the computer."
+                },
+                {
+                    "headline": "This step requires no input from the user but it might take some time.",
+                    "description": ""
+                },
+                {
+                    "headline": "Installation may hang here but be patient.",
+                    "description": ""
+                },
+                {
+                    "headline": "Press OK to continue.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/ab\\/Windows-Server-2008-install-15.png\\/460px-Windows-Server-2008-install-15.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Windows-Server-2008-install-15.png\",\"smallWidth\":460,\"smallHeight\":346,\"bigWidth\":760,\"bigHeight\":571.3013698630137,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Pressing Cancel will do nothing."
+                },
+                {
+                    "headline": "Type in a password and then retype the same password underneath and click the arrow.",
+                    "description": "The password must contain numbers and a capital letter. You must type in a password or else you cannot continue."
+                },
+                {
+                    "headline": "Click OK",
+                    "description": ""
+                },
+                {
+                    "headline": "The main installation is complete but this program can be used to configure settings for Windows.",
+                    "description": "Click the check box at the bottom if you do not want this to be displayed each time you start the computer."
+                },
+                {
+                    "headline": "This is the Server Manager which contains tools etc.",
+                    "description": "for your server. Click the check box in the 'Computer Information' if you do not want this to be displayed at start up."
+                }
+            ]
+        },
+        {
+            "name": "Shutting down",
+            "steps": [
+                {
+                    "headline": "Click start.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click this icon.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/56\\/Windows-Server-2008-install-23.png\\/460px-Windows-Server-2008-install-23.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/56\\/Windows-Server-2008-install-23.png\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570.3247863247864,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Alternatively you can click the little arrow and then Shut Down."
+                },
+                {
+                    "headline": "You must type in a reason for the Shutdown that's at least one character or longer and then click OK.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Windows Server 2008 installation disk",
+        "A computer with the following specifications:",
+        "CPU: 1GHz (32 bit) or 1.4GHz (64 bit)",
+        "RAM: 512MB",
+        "HDD: 20GB (32bit), 32GB (64bit)"
+    ],
+    "text": " Installation Select your 'Language', 'Time and currency format' and your 'Keyboard or input type' then click next.  Click Install now.  Type in your product key, select whether you want to 'Automatically activate Windows when' and click Next. There is a trial period of 60 days so if you can't find your product key, leave the field blank and click Next. The 'Automatically activate Windows'  is a personal preference but the box was checked for this tutorial.  If you have not entered a product key you will get this screen. Press Yes to enter the product key now or No to activate it later. Choose your edition of Windows Server 2008, check the 'I have selected the edition of Windows that I have purchased' box and click Next. Server Core Installation is a text based version of Windows Server 2008 whilst the full edition is a graphical display. You could be cheeky and choose a different version of Windows Server 2008 to the one you have bought but you will have to use a product key for that different version which will not be the same as the one you have bought. Check the 'I accept the license terms' and click next. It's a good idea to read the license agreement so you know what you're agreeing to. Select the type of installation that you want. Upgrade allows you to keep your files, settings etc. before upgrading. Custom (selected in this tutorial) does a clean install of Windows. Choose where you want to install Windows and click Next.  The next part requires no input from the user. The screen may flicker during this process. However, this is completely normal. Restart your computer by click Restart Now or the computer will do it automatically.  {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a0\\/Windows-Server-2008-install-10.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a0\\/Windows-Server-2008-install-10.png\",\"smallWidth\":460,\"smallHeight\":63,\"bigWidth\":760,\"bigHeight\":103.63636363636364,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Do not press anything here. Pressing anything here will result in you being put in a setup loop. If you did press something and setup began again, restart the computer and you'll be fine. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/2e\\/Windows-Server-2008-install-11.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/2e\\/Windows-Server-2008-install-11.png\",\"smallWidth\":460,\"smallHeight\":70,\"bigWidth\":760,\"bigHeight\":115.15151515151516,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Wait for windows to setup the computer.  Installation may hang here. Be patient and allow for a few minutes for the computer to continue with the installation. If there is no disk activity (usually indicated by a flashing light on the computer) for several minutes, then restart the computer. This step requires no input from the user but it might take some time.  Installation may hang here but be patient.  Press OK to continue. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/ab\\/Windows-Server-2008-install-15.png\\/460px-Windows-Server-2008-install-15.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Windows-Server-2008-install-15.png\",\"smallWidth\":460,\"smallHeight\":346,\"bigWidth\":760,\"bigHeight\":571.3013698630137,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Pressing Cancel will do nothing. Type in a password and then retype the same password underneath and click the arrow. The password must contain numbers and a capital letter. You must type in a password or else you cannot continue. Click OK  The main installation is complete but this program can be used to configure settings for Windows. Click the check box at the bottom if you do not want this to be displayed each time you start the computer. This is the Server Manager which contains tools etc. for your server. Click the check box in the 'Computer Information' if you do not want this to be displayed at start up. Shutting down Click start.  Click this icon. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/56\\/Windows-Server-2008-install-23.png\\/460px-Windows-Server-2008-install-23.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/56\\/Windows-Server-2008-install-23.png\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570.3247863247864,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Alternatively you can click the little arrow and then Shut Down. You must type in a reason for the Shutdown that's at least one character or longer and then click OK. ",
+    "sentences": [
+        " Installation Select your 'Language', 'Time and currency format' and your 'Keyboard or input type' then click next.",
+        "Click Install now.",
+        "Type in your product key, select whether you want to 'Automatically activate Windows when' and click Next.",
+        "There is a trial period of 60 days so if you can't find your product key, leave the field blank and click Next.",
+        "The 'Automatically activate Windows'  is a personal preference but the box was checked for this tutorial.",
+        "If you have not entered a product key you will get this screen.",
+        "Press Yes to enter the product key now or No to activate it later.",
+        "Choose your edition of Windows Server 2008, check the 'I have selected the edition of Windows that I have purchased' box and click Next.",
+        "Server Core Installation is a text based version of Windows Server 2008 whilst the full edition is a graphical display.",
+        "You could be cheeky and choose a different version of Windows Server 2008 to the one you have bought but you will have to use a product key for that different version which will not be the same as the one you have bought.",
+        "Check the 'I accept the license terms' and click next.",
+        "It's a good idea to read the license agreement so you know what you're agreeing to.",
+        "Select the type of installation that you want.",
+        "Upgrade allows you to keep your files, settings etc.",
+        "before upgrading.",
+        "Custom (selected in this tutorial) does a clean install of Windows.",
+        "Choose where you want to install Windows and click Next.",
+        "The next part requires no input from the user.",
+        "The screen may flicker during this process.",
+        "However, this is completely normal.",
+        "Restart your computer by click Restart Now or the computer will do it automatically.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a0\\/Windows-Server-2008-install-10.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a0\\/Windows-Server-2008-install-10.png\",\"smallWidth\":460,\"smallHeight\":63,\"bigWidth\":760,\"bigHeight\":103.63636363636364,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Do not press anything here.",
+        "Pressing anything here will result in you being put in a setup loop.",
+        "If you did press something and setup began again, restart the computer and you'll be fine.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/2e\\/Windows-Server-2008-install-11.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/2e\\/Windows-Server-2008-install-11.png\",\"smallWidth\":460,\"smallHeight\":70,\"bigWidth\":760,\"bigHeight\":115.15151515151516,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Wait for windows to setup the computer.",
+        "Installation may hang here.",
+        "Be patient and allow for a few minutes for the computer to continue with the installation.",
+        "If there is no disk activity (usually indicated by a flashing light on the computer) for several minutes, then restart the computer.",
+        "This step requires no input from the user but it might take some time.",
+        "Installation may hang here but be patient.",
+        "Press OK to continue.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/ab\\/Windows-Server-2008-install-15.png\\/460px-Windows-Server-2008-install-15.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/ab\\/Windows-Server-2008-install-15.png\",\"smallWidth\":460,\"smallHeight\":346,\"bigWidth\":760,\"bigHeight\":571.3013698630137,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Pressing Cancel will do nothing.",
+        "Type in a password and then retype the same password underneath and click the arrow.",
+        "The password must contain numbers and a capital letter.",
+        "You must type in a password or else you cannot continue.",
+        "Click OK  The main installation is complete but this program can be used to configure settings for Windows.",
+        "Click the check box at the bottom if you do not want this to be displayed each time you start the computer.",
+        "This is the Server Manager which contains tools etc.",
+        "for your server.",
+        "Click the check box in the 'Computer Information' if you do not want this to be displayed at start up.",
+        "Shutting down Click start.",
+        "Click this icon.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/56\\/Windows-Server-2008-install-23.png\\/460px-Windows-Server-2008-install-23.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/56\\/Windows-Server-2008-install-23.png\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570.3247863247864,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}Alternatively you can click the little arrow and then Shut Down.",
+        "You must type in a reason for the Shutdown that's at least one character or longer and then click OK."
+    ]
+}

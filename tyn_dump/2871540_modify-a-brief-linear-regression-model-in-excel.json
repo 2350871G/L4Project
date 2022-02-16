@@ -1,0 +1,313 @@
+{
+    "title": "How to Modify a Brief Linear Regression Model in Excel",
+    "url": "https://www.wikihow.com/Modify-a-Brief-Linear-Regression-Model-in-Excel",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics"
+    ],
+    "parts": [
+        {
+            "name": "The Tutorial",
+            "steps": [
+                {
+                    "headline": "Open a new workbook in Excel and make 3 worksheets:  Data, Chart, and Saves.",
+                    "description": "Save the workbook as Linear Regression - Modified Lesson, or something similar, into a logical file folder."
+                },
+                {
+                    "headline": "Set Preferences:  Open Preferences in the Excel menu.",
+                    "description": "Recommended Settings: Set General to  R1C1 Off and Show the 10 Most Recent Documents; Edit - set all the Top  options to checked except Automatically Convert Date System. Display  number of decimal places = blank (for integers preferred), Preserve  display of dates and set 30 for 21st century cutoff; View - show Formula  Bar and Status Bar, hover for comments and all of Objects, Show  gridlines and all boxes below that auto or checked; Chart - show chart  names and data markers on hover. Leave rest unchecked for now;  Calculation -- Automatically and calc before save, max change  .000,000,000,000,01 w/o commas as goal-seeking is done a lot and save  external link values and use 1904 system; Error checking - check all;  Save - save preview picture with new files and Save Autorecover after 5  minutes; Ribbon -- all checked except Hide group titles and Developer."
+                },
+                {
+                    "headline": "Select between the 1 and  the A in the top left worksheet corner to select the entire sheet and  do Format Cells Alignment Horizontal Center and Font Size 9 or 10, or  whatever you're comfortable with viewing.",
+                    "description": ""
+                },
+                {
+                    "headline": "Enter the column headers in row 1:  B1: X; C1: Y; D1: X. E1: Y F1: Y.",
+                    "description": "Enter the column headers of rows 2:  A2: Student; B2 SAT; C2: GPA; D2: VARIANCE; E2: VARIANCE; F2: TREND, G2:  Change."
+                },
+                {
+                    "headline": "Edit Go To cell range A3:  A22, enter 1, and do Edit Fill Series Columns Linear Step Value 1 OK,  There are 20 students who want to know the Trend of their Dependent GPAs  given the Independent Variable of the SAT Exam score when entering a  new college, i.e.",
+                    "description": "are their grades likely to rise, fall or remain about  the same?"
+                },
+                {
+                    "headline": "Enter the data to answer this question.",
+                    "description": "In {x,y} pairs as shown in the picture below Step 22, or as follows: for  student 1, {X,Y} = {935 for X or SAT, 2.2 for Y or GPA}; student 2  {1260,3,1}; then {1105,2.6}; {1320,3.3}; {1450,3.8}; {960,2.2;  {1360,3.2}; {900,2.2}; {1020,2.2}; {1380,3.6}; {940,2.3}; {1190,2.8};  {1000,2.2}; {945,2.3}; {990,2.4}; {1000,2.2}; {1040,2.3}; {1570,3.9};  {1530,3.8}; {980,2.4}."
+                },
+                {
+                    "headline": "Select cell A23 and enter MEAN.",
+                    "description": "Input the formulas w/o quotes into cell B23 \"=AVERAGE(B3:B22)\" and copy  it and paste it to cell C23. Select cell C23 and Insert Name Define name  Y_Bar for cell $C$23. Select cell B23 and Insert Name Define name X_Bar  for cell $B$23. Select cell range B23:C23 and Format Cells Font color  Red and Bold."
+                },
+                {
+                    "headline": "Edit Go To cell range D3:D22  and with cell D3 the active and high-lighted cell, enter w/o quotes the  formula \"=(B3-X_BAR)^2\" and Edit Fill Down.",
+                    "description": "Edit Go To cell range  E3:E22 and with cell E3 the active and high-lighted cell, enter w/o  quotes the formula \"=(C3-Y_BAR)^2\" and Edit Fill Down. Select cell range  D3:D23 and do Format Cells Number Number Decimal places 4."
+                },
+                {
+                    "headline": "Select cell D23 and enter w/o quotes the formula \"=SUM(D3:D22)/(20-1)\"  and copy it and paste it to cell E23.",
+                    "description": "Select cell range E3:E23 and do  Format Cells Number Number Decimal places 6. Select cell A24 and enter  VARIANCE and select cell B24 and input the formula \"=D23\" and copy it  and paste it to cell C24. Select cell range B24:D25 and do Format Cells  Number Number Decimal places 6."
+                },
+                {
+                    "headline": "Select cell A25 and enter STD DEV.",
+                    "description": "(for Standard Deviation) and select cell B25 and enter w/o quotes the  formula \"=STDEVPA(B3:B22)\" and copy and paste it to cell C25. Do Format  Cells Number Number Decimal Places 7 for selected cell range B25:C25."
+                },
+                {
+                    "headline": "Select cell A27 and enter FORECAST and select cell B27 and enter w/o quotes the formula \"{=FORECAST(1290,C4:C23,B4)}\"  which is an array formula so you must press CONTROL+ SHIFT+ENTER to  properly enter the array formula with brackets.",
+                    "description": "That is the projection  of one student's GPA given an SAT of 1290 and the rest of the population  or sample data. S/he may expect a GPA of 3.170409192 once you Format  Cells Number Number Decimal Places 9 (which is matched later on,  exactly). Not that such an accurate GPA is necessary, but the point is  to prove the formula, and that requires some accuracy."
+                },
+                {
+                    "headline": "Edit Go To cell range F3:F22  and input the formula w/o quotes \"=TREND(C3:C22,B3:B22,,TRUE)\" which is  an array formula so you must press CONTROL+ SHIFT+ENTER to properly  enter the array formula with brackets.That is the projection of the  Student Population's GPAs given their prior performance.",
+                    "description": ""
+                },
+                {
+                    "headline": "Edit Go To cell range G3:G22  and with G3 the active high-lighted cell, enter the formula w/o quotes  \"=F3-C3\" and Edit Fill Down.",
+                    "description": "Do Format Cells Number Number Custom  +0.0;-0.0;+0.0."
+                }
+            ]
+        },
+        {
+            "name": "Explanatory Charts, Diagrams, Photos",
+            "steps": [
+                {
+                    "headline": "Create the chart.",
+                    "description": "Select cell range B3:C23 and go to the Ribbon (or do Chart Wizard) and  select Charts, All, scroll down to Scatter, Marked Scatter.. Then Edit  cut or copy the new chart to the Charts worksheet. Do Chart Layout Chart  Title - Title Above Chart and fill it in with \"Line Regression - SATs  vs. GPAs\" (without quotes). Select Gridlines Vertical Gridlines Major  Gridlines checked. Select Axis Titles Horizontal Axis Title, Title Title  Below Axis and edit in \"SAT Score\" (without quotes). Select Axis Titles  Vertical Axis Title, Horizontal Title and edit in \"G.P.A.\" (without  quotes). By convention, the Independent x variable goes on the bottom  horizontal axis and the Dependent y variable  goes on the left vertical  axis."
+                },
+                {
+                    "headline": "Locate the data marker for the Mean at {1143.75,2.755}  which will read \"Series 1 Point 1143.75\" (1143.75, 2.8) when you're  hovering over it or have clicked on it.",
+                    "description": "Click on it and do menu Format,  Data Point Marker Style Automatic Size 9, then Marker Fill Color Red."
+                },
+                {
+                    "headline": "Return to the Data worksheet to figure out the Regression Line of Y' = mX + b, where m = the slope and b =  the y-intercept.",
+                    "description": "Looking at the chart data with low values below 10 on the left and  values around 1000 on the bottom, one would expect a very slight decimal  slope and a y-intercept close to 0. Scaled charts can be deceiving as  to slope sometimes."
+                },
+                {
+                    "headline": "Select cell G1 and enter Y.",
+                    "description": "Select cell H1 and enter m and copy H1 and paste it to I1 via command  c, select I1, and command v. Select cell H2 and enter Numerator and  select cell I2 and enter Denominator. Select cell range H3:H22 and with  H3 as the active highlighted cell, enter w/o quotes the formula  \"=(B3-X_BAR)*(C3-Y_BAR)\". Edit Fill Down. Select cell range I3:I22 and  with I3 as the active highlighted cell, enter w/o quotes the formula  \"=(B3-X_BAR)^2\". Edit Fill Down. Select columns H and I and Format  Cells Number Number Decimal Places 1."
+                },
+                {
+                    "headline": "Select cell  H23 and enter the formula w/o quotes \"=SUM(H3:H22)\" and Format Cells Border Black bold Outline and copy it to I23.",
+                    "description": ""
+                },
+                {
+                    "headline": "Select cell H24 and enter m and do Format Cells Font Color Red.",
+                    "description": "Copy it to cell H25 and enter b in cell H25. Select cell I24 and enter  w/o quotes the formula \"=H23/I23\", which is the slope m, and then select  cell I25 and enter the formula w/o quotes \"=Y_BAR-I24*X_BAR\", that is,  the y-intercept b = Y_Mean-m*X_Mean."
+                },
+                {
+                    "headline": "Copy cell H25 and paste it to cell I26 and enter into I26 Y' - mX + b.",
+                    "description": "Select cell H27 and enter Forecast, then enter the formula into I27 w/o  quotes \"=I24*1290+I25\". Your answer should exactly equal the FORECAST  answer in B27 once you have Format Cells Number Number Decimal Places 9."
+                },
+                {
+                    "headline": "Edit copy cell I26 to cell range H29:I29.",
+                    "description": "Into cell H29 enter Line X and into cell I29 enter Line Y. Enter 800  into cell H30 and 1600 into cell H31. Select cell I 27 and copy its  formula up in the formula bar -- do not copy the cell and paste it --  that won't work out right. Select cell I30 and paste into the editing  Formula Bar the formula you just copied. Do the same for cell I31. Edit  cell I31's formula to read \"=I24*H31+I25\" and press enter and then edit  cell I30's formula in the formula bar to read \"=I24*H30+I25\" and press  enter. I30'S result should be 1.7786108729206 and I31's result should  be 4.05093465957812 (which I realize is higher than a 4.0 GPA, but we're  creating a regression line, so that doesn't matter so much."
+                },
+                {
+                    "headline": "Activate  the Chart worksheet and click in the chart and in the menu, do Chart  Add Data and in response to the range query, go back to the Data  worksheet and select cell range H30:I31.",
+                    "description": "Now mine comes out wrong  and I have to edit the series. Not a big deal. Select the data marker  and in the formula bar, edit the series to read  \"=SERIES(,Sheet1!$H$30:$H$31,Sheet1!$I$30:$I$31,2)\" and click on the  data marker at {800,1.78} and make Line red and Weight 0.75 pt, then  Marker Fill Color Red, then Marker Style Round Dot size 5. Your data and chart should look like this:"
+                },
+                {
+                    "headline": "Now for the modifications, First please enter the new student SAT-GPA paired data:",
+                    "description": "Enter the data to answer the question. In {x,y} pairs as shown in the picture at  the very top of this article, or as follows: for  student 1, {X,Y} into columns B and C = {990 for X or SAT in B3, 2.2 for Y or GPA IN C3}; student 2  {1150,3.2}; then {1080,2.6}; {1100,3.3}; {1280,3.8}; {990,2.2};  {1110,3.2}; {920, 2.0}; {1000,2.2}; {1200,3.6}; {1000, 2.2}; {1200, 3.6};  {1000, 2.1}; {1150, 2.8}; {1070, 2.2}; {1120, 2.1}; {1250, 2.4}; {1550,3.9};  {1480,3.8}; {1010, 2.0}."
+                },
+                {
+                    "headline": "Select cell range A24:C24 and Insert Cells - Shift Cells Down.",
+                    "description": "Into cell A24 enter Midpoint. Into cell B24 enter the formula w/o quotes \"=xCenter\" and select cell C24 and input w/o quotes the formula \"=yCenter\". Select cell H32 and Insert Name Define name xCenter to cell $H$32, and select I32 and Insert Name define Name yCenter to cell $I$32. Into H32 enter the formula w/o quotes \"=(H30+H31)/2\" and into I32 enter the formula w/o quotes \"=(I30+I31)/2\"."
+                },
+                {
+                    "headline": "Perform Goal Seeking on value range of Line XY.",
+                    "description": "Into cell J30 enter the formula, \"=2-I30\" and do Tools Goal Seek Set cell J30, to value 0, by changing the value in cell: H30. H30 should become approx. 920.690991; go to cell J31 enter the formula, \"=4-I30\" and do Tools Goal Seek Set cell J311, to value 0, by changing the value in cell: H31. H31 should become approx. 1212.61866"
+                },
+                {
+                    "headline": "The following information is not used yet.",
+                    "description": "It has to do with the fact that when a line is added to a circle the result is an ellipse. Select cell I33 and enter radius and align center and underline. Select cell H34 and enter Dist of Line a, and select cell I34 and input the formula w/o quotes \"=SQRT((H31-H32)^2+(I31-I32)^2)\" -- that's the long segment or line a. It should = approx. 291.9293847"
+                },
+                {
+                    "headline": "In row 1, enter the Ellipse's Defined Variable names.",
+                    "description": "K1: Aj_X; L1: Aj_Y; M1: m_Slope_; N1: Stretch_x; O1: Stretch_y; P1: Intercept"
+                },
+                {
+                    "headline": "Enter the following values in row 2:  K2: 1200; L2: 4.15; M2: \"=m\"; N2: 0.0024950665406049 (achieved by goal seeking); O2: \"=m-0.0005\"; P2: \"=b\".",
+                    "description": "Insert Name Define Name m for cell I24, and Insert Name Define name for b for cell I25."
+                },
+                {
+                    "headline": "Select cell range K1:P2 and Insert Names Create Names in Top Row, OK.",
+                    "description": ""
+                },
+                {
+                    "headline": "Edit Go To cell range K4:K54 and into the top cell enter the formula \"=-2*PI()\" and then hit shift+tab to go to the bottom cell and enter \"=2*PI()\".",
+                    "description": "With cell range K4:K54 selected, do Edit Fill Series, columns linear, accept the proposed step value, or hit Trend if the proposed step value wrongly = 1, OK."
+                },
+                {
+                    "headline": "Skip a column and Edit Go To cell range M4:M54 and with M4 the active cell, enter the formula w/o quotes \"=SIN(K4)\" and Edit Fill Down.",
+                    "description": ""
+                },
+                {
+                    "headline": "Edit Go To cell range N4:N54 and with N4 the active cell, enter the formula w/o quotes \"=m_Slope_*SIN((K4-1))\" and Edit Fill Down.",
+                    "description": ""
+                },
+                {
+                    "headline": "Edit Go To cell range O4:O54 and with O4 the active cell, enter the  formula w/o quotes \"=(M4)/Stretch_x+Aj_X\" and Edit Fill Down.",
+                    "description": ""
+                },
+                {
+                    "headline": "Edit Go To cell range P4:P54 and with P4 the active cell, enter the  formula w/o quotes \"=(N4)/Stretch_y+Aj_Y+Intercept\" and Edit Fill Down.",
+                    "description": ""
+                },
+                {
+                    "headline": "Make a small worksheet chart.",
+                    "description": "Select cell range O4:P54 and using Chart Wizard or the Ribbon do Charts All/Other and scroll down to Scatter Smoothed Line Scatter and a small chart should appear over your data. Important: The x-values should range from 800 to 1600 and the y-values should range from about 1.8 to 4.1 -- if this is not the case, look for a misplaced decimal point in the top rows 2 of Defined Variables, or a difference between out calculations of m and b. Else, it's a data entry error somewhere along the line, to be checked one column at a time. See also the Warnings Section below on Errors."
+                },
+                {
+                    "headline": "Click on the series plot of the new small chart on the Data Sheet and Command+c copy it, then go to the Chart worksheet and click in the chart and Command+v paste it.",
+                    "description": "If it works like mine, it's FUBAR and must be corrected one series at a time."
+                },
+                {
+                    "headline": "If the regression line is still showing, edit its series in the formula bar to the right of the first parenthesis by entering with quotes\"Regression Line\" before the comma.",
+                    "description": "Then press the down arrow on your keyboard to access Series 1 and do Chart Layout edit Line (No Line), Marker Style red size 5, Marker Fill - Red, and edit into the series in the formula bar past the first left parenthesis with quotes, \"SAT-GPA Pairs\" before the first comma."
+                },
+                {
+                    "headline": "Hit the OK and then the Enter Key and the Down Key once or twice to access Series 3, which is the Ellipse.",
+                    "description": "Do Chart Layout Format Selection, Marker Fill Blue-Green, Marker Line Automatic with Smoothed Line checked, OK."
+                },
+                {
+                    "headline": "Activate the Data worksheet and select cell range B23:C24 and copy and activate the Chart worksheet and Command+v paste the range in.",
+                    "description": "It doesn't work right for me and I must edit it and delete an extra series besides, What you want to end up with is series that read in the formula bar, \"=SERIES(\"Mean and Midpoint\",Data!$B$23:$B$24,Data!$C$23:$C$24,4)\", No Marker Line, Marker Style Round Dot, Size 9, Marker Fill Dark Blue or Purple."
+                },
+                {
+                    "headline": "Go To Insert Picture Word Art to create a Heading for the Chart that has some luster to it.",
+                    "description": ""
+                },
+                {
+                    "headline": "Done!!",
+                    "description": "Nice job. In a future article, how to analyze the various sectors of the ellipse may be taken on. For now, surrounding the data set has been achieved, which was the objective. For those anxious to get started on this analysis, a hint: when calculating the area of a slanted ellipse sector: Look, pretend you are in the plane where it is not slanted and is just a normal ellipse. That is the recommended approach from my mentor. Hint #2:  Look at your data to find the length of line b. In Tips are included the data and small chart for the un-adjusted slanted ellipse which you may use as a starting point in your analyses."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Microsoft Excel. The above was done with Microsoft\u00ae Excel\u00ae for Mac 2011, v 14.3.1 and other versions are compatible, except for Reflection, Shadow, Glow and other more recent Effects additions."
+    ],
+    "text": " The Tutorial Open a new workbook in Excel and make 3 worksheets:  Data, Chart, and Saves. Save the workbook as Linear Regression - Modified Lesson, or something similar, into a logical file folder. Set Preferences:  Open Preferences in the Excel menu. Recommended Settings: Set General to  R1C1 Off and Show the 10 Most Recent Documents; Edit - set all the Top  options to checked except Automatically Convert Date System. Display  number of decimal places = blank (for integers preferred), Preserve  display of dates and set 30 for 21st century cutoff; View - show Formula  Bar and Status Bar, hover for comments and all of Objects, Show  gridlines and all boxes below that auto or checked; Chart - show chart  names and data markers on hover. Leave rest unchecked for now;  Calculation -- Automatically and calc before save, max change  .000,000,000,000,01 w/o commas as goal-seeking is done a lot and save  external link values and use 1904 system; Error checking - check all;  Save - save preview picture with new files and Save Autorecover after 5  minutes; Ribbon -- all checked except Hide group titles and Developer. Select between the 1 and  the A in the top left worksheet corner to select the entire sheet and  do Format Cells Alignment Horizontal Center and Font Size 9 or 10, or  whatever you're comfortable with viewing.  Enter the column headers in row 1:  B1: X; C1: Y; D1: X. E1: Y F1: Y. Enter the column headers of rows 2:  A2: Student; B2 SAT; C2: GPA; D2: VARIANCE; E2: VARIANCE; F2: TREND, G2:  Change. Edit Go To cell range A3:  A22, enter 1, and do Edit Fill Series Columns Linear Step Value 1 OK,  There are 20 students who want to know the Trend of their Dependent GPAs  given the Independent Variable of the SAT Exam score when entering a  new college, i.e. are their grades likely to rise, fall or remain about  the same? Enter the data to answer this question. In {x,y} pairs as shown in the picture below Step 22, or as follows: for  student 1, {X,Y} = {935 for X or SAT, 2.2 for Y or GPA}; student 2  {1260,3,1}; then {1105,2.6}; {1320,3.3}; {1450,3.8}; {960,2.2;  {1360,3.2}; {900,2.2}; {1020,2.2}; {1380,3.6}; {940,2.3}; {1190,2.8};  {1000,2.2}; {945,2.3}; {990,2.4}; {1000,2.2}; {1040,2.3}; {1570,3.9};  {1530,3.8}; {980,2.4}. Select cell A23 and enter MEAN. Input the formulas w/o quotes into cell B23 \"=AVERAGE(B3:B22)\" and copy  it and paste it to cell C23. Select cell C23 and Insert Name Define name  Y_Bar for cell $C$23. Select cell B23 and Insert Name Define name X_Bar  for cell $B$23. Select cell range B23:C23 and Format Cells Font color  Red and Bold. Edit Go To cell range D3:D22  and with cell D3 the active and high-lighted cell, enter w/o quotes the  formula \"=(B3-X_BAR)^2\" and Edit Fill Down. Edit Go To cell range  E3:E22 and with cell E3 the active and high-lighted cell, enter w/o  quotes the formula \"=(C3-Y_BAR)^2\" and Edit Fill Down. Select cell range  D3:D23 and do Format Cells Number Number Decimal places 4. Select cell D23 and enter w/o quotes the formula \"=SUM(D3:D22)/(20-1)\"  and copy it and paste it to cell E23. Select cell range E3:E23 and do  Format Cells Number Number Decimal places 6. Select cell A24 and enter  VARIANCE and select cell B24 and input the formula \"=D23\" and copy it  and paste it to cell C24. Select cell range B24:D25 and do Format Cells  Number Number Decimal places 6. Select cell A25 and enter STD DEV. (for Standard Deviation) and select cell B25 and enter w/o quotes the  formula \"=STDEVPA(B3:B22)\" and copy and paste it to cell C25. Do Format  Cells Number Number Decimal Places 7 for selected cell range B25:C25. Select cell A27 and enter FORECAST and select cell B27 and enter w/o quotes the formula \"{=FORECAST(1290,C4:C23,B4)}\"  which is an array formula so you must press CONTROL+ SHIFT+ENTER to  properly enter the array formula with brackets. That is the projection  of one student's GPA given an SAT of 1290 and the rest of the population  or sample data. S/he may expect a GPA of 3.170409192 once you Format  Cells Number Number Decimal Places 9 (which is matched later on,  exactly). Not that such an accurate GPA is necessary, but the point is  to prove the formula, and that requires some accuracy. Edit Go To cell range F3:F22  and input the formula w/o quotes \"=TREND(C3:C22,B3:B22,,TRUE)\" which is  an array formula so you must press CONTROL+ SHIFT+ENTER to properly  enter the array formula with brackets.That is the projection of the  Student Population's GPAs given their prior performance.  Edit Go To cell range G3:G22  and with G3 the active high-lighted cell, enter the formula w/o quotes  \"=F3-C3\" and Edit Fill Down. Do Format Cells Number Number Custom  +0.0;-0.0;+0.0. Explanatory Charts, Diagrams, Photos Create the chart. Select cell range B3:C23 and go to the Ribbon (or do Chart Wizard) and  select Charts, All, scroll down to Scatter, Marked Scatter.. Then Edit  cut or copy the new chart to the Charts worksheet. Do Chart Layout Chart  Title - Title Above Chart and fill it in with \"Line Regression - SATs  vs. GPAs\" (without quotes). Select Gridlines Vertical Gridlines Major  Gridlines checked. Select Axis Titles Horizontal Axis Title, Title Title  Below Axis and edit in \"SAT Score\" (without quotes). Select Axis Titles  Vertical Axis Title, Horizontal Title and edit in \"G.P.A.\" (without  quotes). By convention, the Independent x variable goes on the bottom  horizontal axis and the Dependent y variable  goes on the left vertical  axis. Locate the data marker for the Mean at {1143.75,2.755}  which will read \"Series 1 Point 1143.75\" (1143.75, 2.8) when you're  hovering over it or have clicked on it. Click on it and do menu Format,  Data Point Marker Style Automatic Size 9, then Marker Fill Color Red. Return to the Data worksheet to figure out the Regression Line of Y' = mX + b, where m = the slope and b =  the y-intercept. Looking at the chart data with low values below 10 on the left and  values around 1000 on the bottom, one would expect a very slight decimal  slope and a y-intercept close to 0. Scaled charts can be deceiving as  to slope sometimes. Select cell G1 and enter Y. Select cell H1 and enter m and copy H1 and paste it to I1 via command  c, select I1, and command v. Select cell H2 and enter Numerator and  select cell I2 and enter Denominator. Select cell range H3:H22 and with  H3 as the active highlighted cell, enter w/o quotes the formula  \"=(B3-X_BAR)*(C3-Y_BAR)\". Edit Fill Down. Select cell range I3:I22 and  with I3 as the active highlighted cell, enter w/o quotes the formula  \"=(B3-X_BAR)^2\". Edit Fill Down. Select columns H and I and Format  Cells Number Number Decimal Places 1. Select cell  H23 and enter the formula w/o quotes \"=SUM(H3:H22)\" and Format Cells Border Black bold Outline and copy it to I23.  Select cell H24 and enter m and do Format Cells Font Color Red. Copy it to cell H25 and enter b in cell H25. Select cell I24 and enter  w/o quotes the formula \"=H23/I23\", which is the slope m, and then select  cell I25 and enter the formula w/o quotes \"=Y_BAR-I24*X_BAR\", that is,  the y-intercept b = Y_Mean-m*X_Mean. Copy cell H25 and paste it to cell I26 and enter into I26 Y' - mX + b. Select cell H27 and enter Forecast, then enter the formula into I27 w/o  quotes \"=I24*1290+I25\". Your answer should exactly equal the FORECAST  answer in B27 once you have Format Cells Number Number Decimal Places 9. Edit copy cell I26 to cell range H29:I29. Into cell H29 enter Line X and into cell I29 enter Line Y. Enter 800  into cell H30 and 1600 into cell H31. Select cell I 27 and copy its  formula up in the formula bar -- do not copy the cell and paste it --  that won't work out right. Select cell I30 and paste into the editing  Formula Bar the formula you just copied. Do the same for cell I31. Edit  cell I31's formula to read \"=I24*H31+I25\" and press enter and then edit  cell I30's formula in the formula bar to read \"=I24*H30+I25\" and press  enter. I30'S result should be 1.7786108729206 and I31's result should  be 4.05093465957812 (which I realize is higher than a 4.0 GPA, but we're  creating a regression line, so that doesn't matter so much. Activate  the Chart worksheet and click in the chart and in the menu, do Chart  Add Data and in response to the range query, go back to the Data  worksheet and select cell range H30:I31. Now mine comes out wrong  and I have to edit the series. Not a big deal. Select the data marker  and in the formula bar, edit the series to read  \"=SERIES(,Sheet1!$H$30:$H$31,Sheet1!$I$30:$I$31,2)\" and click on the  data marker at {800,1.78} and make Line red and Weight 0.75 pt, then  Marker Fill Color Red, then Marker Style Round Dot size 5. Your data and chart should look like this: Now for the modifications, First please enter the new student SAT-GPA paired data: Enter the data to answer the question. In {x,y} pairs as shown in the picture at  the very top of this article, or as follows: for  student 1, {X,Y} into columns B and C = {990 for X or SAT in B3, 2.2 for Y or GPA IN C3}; student 2  {1150,3.2}; then {1080,2.6}; {1100,3.3}; {1280,3.8}; {990,2.2};  {1110,3.2}; {920, 2.0}; {1000,2.2}; {1200,3.6}; {1000, 2.2}; {1200, 3.6};  {1000, 2.1}; {1150, 2.8}; {1070, 2.2}; {1120, 2.1}; {1250, 2.4}; {1550,3.9};  {1480,3.8}; {1010, 2.0}. Select cell range A24:C24 and Insert Cells - Shift Cells Down. Into cell A24 enter Midpoint. Into cell B24 enter the formula w/o quotes \"=xCenter\" and select cell C24 and input w/o quotes the formula \"=yCenter\". Select cell H32 and Insert Name Define name xCenter to cell $H$32, and select I32 and Insert Name define Name yCenter to cell $I$32. Into H32 enter the formula w/o quotes \"=(H30+H31)/2\" and into I32 enter the formula w/o quotes \"=(I30+I31)/2\". Perform Goal Seeking on value range of Line XY. Into cell J30 enter the formula, \"=2-I30\" and do Tools Goal Seek Set cell J30, to value 0, by changing the value in cell: H30. H30 should become approx. 920.690991; go to cell J31 enter the formula, \"=4-I30\" and do Tools Goal Seek Set cell J311, to value 0, by changing the value in cell: H31. H31 should become approx. 1212.61866 The following information is not used yet. It has to do with the fact that when a line is added to a circle the result is an ellipse. Select cell I33 and enter radius and align center and underline. Select cell H34 and enter Dist of Line a, and select cell I34 and input the formula w/o quotes \"=SQRT((H31-H32)^2+(I31-I32)^2)\" -- that's the long segment or line a. It should = approx. 291.9293847 In row 1, enter the Ellipse's Defined Variable names. K1: Aj_X; L1: Aj_Y; M1: m_Slope_; N1: Stretch_x; O1: Stretch_y; P1: Intercept Enter the following values in row 2:  K2: 1200; L2: 4.15; M2: \"=m\"; N2: 0.0024950665406049 (achieved by goal seeking); O2: \"=m-0.0005\"; P2: \"=b\". Insert Name Define Name m for cell I24, and Insert Name Define name for b for cell I25. Select cell range K1:P2 and Insert Names Create Names in Top Row, OK.  Edit Go To cell range K4:K54 and into the top cell enter the formula \"=-2*PI()\" and then hit shift+tab to go to the bottom cell and enter \"=2*PI()\". With cell range K4:K54 selected, do Edit Fill Series, columns linear, accept the proposed step value, or hit Trend if the proposed step value wrongly = 1, OK. Skip a column and Edit Go To cell range M4:M54 and with M4 the active cell, enter the formula w/o quotes \"=SIN(K4)\" and Edit Fill Down.  Edit Go To cell range N4:N54 and with N4 the active cell, enter the formula w/o quotes \"=m_Slope_*SIN((K4-1))\" and Edit Fill Down.  Edit Go To cell range O4:O54 and with O4 the active cell, enter the  formula w/o quotes \"=(M4)/Stretch_x+Aj_X\" and Edit Fill Down.  Edit Go To cell range P4:P54 and with P4 the active cell, enter the  formula w/o quotes \"=(N4)/Stretch_y+Aj_Y+Intercept\" and Edit Fill Down.  Make a small worksheet chart. Select cell range O4:P54 and using Chart Wizard or the Ribbon do Charts All/Other and scroll down to Scatter Smoothed Line Scatter and a small chart should appear over your data. Important: The x-values should range from 800 to 1600 and the y-values should range from about 1.8 to 4.1 -- if this is not the case, look for a misplaced decimal point in the top rows 2 of Defined Variables, or a difference between out calculations of m and b. Else, it's a data entry error somewhere along the line, to be checked one column at a time. See also the Warnings Section below on Errors. Click on the series plot of the new small chart on the Data Sheet and Command+c copy it, then go to the Chart worksheet and click in the chart and Command+v paste it. If it works like mine, it's FUBAR and must be corrected one series at a time. If the regression line is still showing, edit its series in the formula bar to the right of the first parenthesis by entering with quotes\"Regression Line\" before the comma. Then press the down arrow on your keyboard to access Series 1 and do Chart Layout edit Line (No Line), Marker Style red size 5, Marker Fill - Red, and edit into the series in the formula bar past the first left parenthesis with quotes, \"SAT-GPA Pairs\" before the first comma. Hit the OK and then the Enter Key and the Down Key once or twice to access Series 3, which is the Ellipse. Do Chart Layout Format Selection, Marker Fill Blue-Green, Marker Line Automatic with Smoothed Line checked, OK. Activate the Data worksheet and select cell range B23:C24 and copy and activate the Chart worksheet and Command+v paste the range in. It doesn't work right for me and I must edit it and delete an extra series besides, What you want to end up with is series that read in the formula bar, \"=SERIES(\"Mean and Midpoint\",Data!$B$23:$B$24,Data!$C$23:$C$24,4)\", No Marker Line, Marker Style Round Dot, Size 9, Marker Fill Dark Blue or Purple. Go To Insert Picture Word Art to create a Heading for the Chart that has some luster to it.  Done!! Nice job. In a future article, how to analyze the various sectors of the ellipse may be taken on. For now, surrounding the data set has been achieved, which was the objective. For those anxious to get started on this analysis, a hint: when calculating the area of a slanted ellipse sector: Look, pretend you are in the plane where it is not slanted and is just a normal ellipse. That is the recommended approach from my mentor. Hint #2:  Look at your data to find the length of line b. In Tips are included the data and small chart for the un-adjusted slanted ellipse which you may use as a starting point in your analyses.",
+    "sentences": [
+        " The Tutorial Open a new workbook in Excel and make 3 worksheets:  Data, Chart, and Saves.",
+        "Save the workbook as Linear Regression - Modified Lesson, or something similar, into a logical file folder.",
+        "Set Preferences:  Open Preferences in the Excel menu.",
+        "Recommended Settings: Set General to  R1C1 Off and Show the 10 Most Recent Documents; Edit - set all the Top  options to checked except Automatically Convert Date System.",
+        "Display  number of decimal places = blank (for integers preferred), Preserve  display of dates and set 30 for 21st century cutoff; View - show Formula  Bar and Status Bar, hover for comments and all of Objects, Show  gridlines and all boxes below that auto or checked; Chart - show chart  names and data markers on hover.",
+        "Leave rest unchecked for now;  Calculation -- Automatically and calc before save, max change  .000,000,000,000,01 w/o commas as goal-seeking is done a lot and save  external link values and use 1904 system; Error checking - check all;  Save - save preview picture with new files and Save Autorecover after 5  minutes; Ribbon -- all checked except Hide group titles and Developer.",
+        "Select between the 1 and  the A in the top left worksheet corner to select the entire sheet and  do Format Cells Alignment Horizontal Center and Font Size 9 or 10, or  whatever you're comfortable with viewing.",
+        "Enter the column headers in row 1:  B1: X; C1: Y; D1: X. E1: Y F1: Y.",
+        "Enter the column headers of rows 2:  A2: Student; B2 SAT; C2: GPA; D2: VARIANCE; E2: VARIANCE; F2: TREND, G2:  Change.",
+        "Edit Go To cell range A3:  A22, enter 1, and do Edit Fill Series Columns Linear Step Value 1 OK,  There are 20 students who want to know the Trend of their Dependent GPAs  given the Independent Variable of the SAT Exam score when entering a  new college, i.e.",
+        "are their grades likely to rise, fall or remain about  the same?",
+        "Enter the data to answer this question.",
+        "In {x,y} pairs as shown in the picture below Step 22, or as follows: for  student 1, {X,Y} = {935 for X or SAT, 2.2 for Y or GPA}; student 2  {1260,3,1}; then {1105,2.6}; {1320,3.3}; {1450,3.8}; {960,2.2;  {1360,3.2}; {900,2.2}; {1020,2.2}; {1380,3.6}; {940,2.3}; {1190,2.8};  {1000,2.2}; {945,2.3}; {990,2.4}; {1000,2.2}; {1040,2.3}; {1570,3.9};  {1530,3.8}; {980,2.4}.",
+        "Select cell A23 and enter MEAN.",
+        "Input the formulas w/o quotes into cell B23 \"=AVERAGE(B3:B22)\" and copy  it and paste it to cell C23.",
+        "Select cell C23 and Insert Name Define name  Y_Bar for cell $C$23.",
+        "Select cell B23 and Insert Name Define name X_Bar  for cell $B$23.",
+        "Select cell range B23:C23 and Format Cells Font color  Red and Bold.",
+        "Edit Go To cell range D3:D22  and with cell D3 the active and high-lighted cell, enter w/o quotes the  formula \"=(B3-X_BAR)^2\" and Edit Fill Down.",
+        "Edit Go To cell range  E3:E22 and with cell E3 the active and high-lighted cell, enter w/o  quotes the formula \"=(C3-Y_BAR)^2\" and Edit Fill Down.",
+        "Select cell range  D3:D23 and do Format Cells Number Number Decimal places 4.",
+        "Select cell D23 and enter w/o quotes the formula \"=SUM(D3:D22)/(20-1)\"  and copy it and paste it to cell E23.",
+        "Select cell range E3:E23 and do  Format Cells Number Number Decimal places 6.",
+        "Select cell A24 and enter  VARIANCE and select cell B24 and input the formula \"=D23\" and copy it  and paste it to cell C24.",
+        "Select cell range B24:D25 and do Format Cells  Number Number Decimal places 6.",
+        "Select cell A25 and enter STD DEV.",
+        "(for Standard Deviation) and select cell B25 and enter w/o quotes the  formula \"=STDEVPA(B3:B22)\" and copy and paste it to cell C25.",
+        "Do Format  Cells Number Number Decimal Places 7 for selected cell range B25:C25.",
+        "Select cell A27 and enter FORECAST and select cell B27 and enter w/o quotes the formula \"{=FORECAST(1290,C4:C23,B4)}\"  which is an array formula so you must press CONTROL+ SHIFT+ENTER to  properly enter the array formula with brackets.",
+        "That is the projection  of one student's GPA given an SAT of 1290 and the rest of the population  or sample data.",
+        "S/he may expect a GPA of 3.170409192 once you Format  Cells Number Number Decimal Places 9 (which is matched later on,  exactly).",
+        "Not that such an accurate GPA is necessary, but the point is  to prove the formula, and that requires some accuracy.",
+        "Edit Go To cell range F3:F22  and input the formula w/o quotes \"=TREND(C3:C22,B3:B22,,TRUE)\" which is  an array formula so you must press CONTROL+ SHIFT+ENTER to properly  enter the array formula with brackets.That is the projection of the  Student Population's GPAs given their prior performance.",
+        "Edit Go To cell range G3:G22  and with G3 the active high-lighted cell, enter the formula w/o quotes  \"=F3-C3\" and Edit Fill Down.",
+        "Do Format Cells Number Number Custom  +0.0;-0.0;+0.0.",
+        "Explanatory Charts, Diagrams, Photos Create the chart.",
+        "Select cell range B3:C23 and go to the Ribbon (or do Chart Wizard) and  select Charts, All, scroll down to Scatter, Marked Scatter.. Then Edit  cut or copy the new chart to the Charts worksheet.",
+        "Do Chart Layout Chart  Title - Title Above Chart and fill it in with \"Line Regression - SATs  vs. GPAs\" (without quotes).",
+        "Select Gridlines Vertical Gridlines Major  Gridlines checked.",
+        "Select Axis Titles Horizontal Axis Title, Title Title  Below Axis and edit in \"SAT Score\" (without quotes).",
+        "Select Axis Titles  Vertical Axis Title, Horizontal Title and edit in \"G.P.A.\"",
+        "(without  quotes).",
+        "By convention, the Independent x variable goes on the bottom  horizontal axis and the Dependent y variable  goes on the left vertical  axis.",
+        "Locate the data marker for the Mean at {1143.75,2.755}  which will read \"Series 1 Point 1143.75\" (1143.75, 2.8) when you're  hovering over it or have clicked on it.",
+        "Click on it and do menu Format,  Data Point Marker Style Automatic Size 9, then Marker Fill Color Red.",
+        "Return to the Data worksheet to figure out the Regression Line of Y' = mX + b, where m = the slope and b =  the y-intercept.",
+        "Looking at the chart data with low values below 10 on the left and  values around 1000 on the bottom, one would expect a very slight decimal  slope and a y-intercept close to 0.",
+        "Scaled charts can be deceiving as  to slope sometimes.",
+        "Select cell G1 and enter Y.",
+        "Select cell H1 and enter m and copy H1 and paste it to I1 via command  c, select I1, and command v. Select cell H2 and enter Numerator and  select cell I2 and enter Denominator.",
+        "Select cell range H3:H22 and with  H3 as the active highlighted cell, enter w/o quotes the formula  \"=(B3-X_BAR)*(C3-Y_BAR)\".",
+        "Edit Fill Down.",
+        "Select cell range I3:I22 and  with I3 as the active highlighted cell, enter w/o quotes the formula  \"=(B3-X_BAR)^2\".",
+        "Edit Fill Down.",
+        "Select columns H and I and Format  Cells Number Number Decimal Places 1.",
+        "Select cell  H23 and enter the formula w/o quotes \"=SUM(H3:H22)\" and Format Cells Border Black bold Outline and copy it to I23.",
+        "Select cell H24 and enter m and do Format Cells Font Color Red.",
+        "Copy it to cell H25 and enter b in cell H25.",
+        "Select cell I24 and enter  w/o quotes the formula \"=H23/I23\", which is the slope m, and then select  cell I25 and enter the formula w/o quotes \"=Y_BAR-I24*X_BAR\", that is,  the y-intercept b = Y_Mean-m*X_Mean.",
+        "Copy cell H25 and paste it to cell I26 and enter into I26 Y' - mX + b.",
+        "Select cell H27 and enter Forecast, then enter the formula into I27 w/o  quotes \"=I24*1290+I25\".",
+        "Your answer should exactly equal the FORECAST  answer in B27 once you have Format Cells Number Number Decimal Places 9.",
+        "Edit copy cell I26 to cell range H29:I29.",
+        "Into cell H29 enter Line X and into cell I29 enter Line Y.",
+        "Enter 800  into cell H30 and 1600 into cell H31.",
+        "Select cell I 27 and copy its  formula up in the formula bar -- do not copy the cell and paste it --  that won't work out right.",
+        "Select cell I30 and paste into the editing  Formula Bar the formula you just copied.",
+        "Do the same for cell I31.",
+        "Edit  cell I31's formula to read \"=I24*H31+I25\" and press enter and then edit  cell I30's formula in the formula bar to read \"=I24*H30+I25\" and press  enter.",
+        "I30'S result should be 1.7786108729206 and I31's result should  be 4.05093465957812 (which I realize is higher than a 4.0 GPA, but we're  creating a regression line, so that doesn't matter so much.",
+        "Activate  the Chart worksheet and click in the chart and in the menu, do Chart  Add Data and in response to the range query, go back to the Data  worksheet and select cell range H30:I31.",
+        "Now mine comes out wrong  and I have to edit the series.",
+        "Not a big deal.",
+        "Select the data marker  and in the formula bar, edit the series to read  \"=SERIES(,Sheet1!$H$30:$H$31,Sheet1!$I$30:$I$31,2)\" and click on the  data marker at {800,1.78} and make Line red and Weight 0.75 pt, then  Marker Fill Color Red, then Marker Style Round Dot size 5.",
+        "Your data and chart should look like this: Now for the modifications, First please enter the new student SAT-GPA paired data: Enter the data to answer the question.",
+        "In {x,y} pairs as shown in the picture at  the very top of this article, or as follows: for  student 1, {X,Y} into columns B and C = {990 for X or SAT in B3, 2.2 for Y or GPA IN C3}; student 2  {1150,3.2}; then {1080,2.6}; {1100,3.3}; {1280,3.8}; {990,2.2};  {1110,3.2}; {920, 2.0}; {1000,2.2}; {1200,3.6}; {1000, 2.2}; {1200, 3.6};  {1000, 2.1}; {1150, 2.8}; {1070, 2.2}; {1120, 2.1}; {1250, 2.4}; {1550,3.9};  {1480,3.8}; {1010, 2.0}.",
+        "Select cell range A24:C24 and Insert Cells - Shift Cells Down.",
+        "Into cell A24 enter Midpoint.",
+        "Into cell B24 enter the formula w/o quotes \"=xCenter\" and select cell C24 and input w/o quotes the formula \"=yCenter\".",
+        "Select cell H32 and Insert Name Define name xCenter to cell $H$32, and select I32 and Insert Name define Name yCenter to cell $I$32.",
+        "Into H32 enter the formula w/o quotes \"=(H30+H31)/2\" and into I32 enter the formula w/o quotes \"=(I30+I31)/2\".",
+        "Perform Goal Seeking on value range of Line XY.",
+        "Into cell J30 enter the formula, \"=2-I30\" and do Tools Goal Seek Set cell J30, to value 0, by changing the value in cell: H30.",
+        "H30 should become approx.",
+        "920.690991; go to cell J31 enter the formula, \"=4-I30\" and do Tools Goal Seek Set cell J311, to value 0, by changing the value in cell: H31.",
+        "H31 should become approx.",
+        "1212.61866 The following information is not used yet.",
+        "It has to do with the fact that when a line is added to a circle the result is an ellipse.",
+        "Select cell I33 and enter radius and align center and underline.",
+        "Select cell H34 and enter Dist of Line a, and select cell I34 and input the formula w/o quotes \"=SQRT((H31-H32)^2+(I31-I32)^2)\" -- that's the long segment or line a.",
+        "It should = approx.",
+        "291.9293847 In row 1, enter the Ellipse's Defined Variable names.",
+        "K1: Aj_X; L1: Aj_Y; M1: m_Slope_; N1: Stretch_x; O1: Stretch_y; P1: Intercept Enter the following values in row 2:  K2: 1200; L2: 4.15; M2: \"=m\"; N2: 0.0024950665406049 (achieved by goal seeking); O2: \"=m-0.0005\"; P2: \"=b\".",
+        "Insert Name Define Name m for cell I24, and Insert Name Define name for b for cell I25.",
+        "Select cell range K1:P2 and Insert Names Create Names in Top Row, OK.  Edit Go To cell range K4:K54 and into the top cell enter the formula \"=-2*PI()\" and then hit shift+tab to go to the bottom cell and enter \"=2*PI()\".",
+        "With cell range K4:K54 selected, do Edit Fill Series, columns linear, accept the proposed step value, or hit Trend if the proposed step value wrongly = 1, OK.",
+        "Skip a column and Edit Go To cell range M4:M54 and with M4 the active cell, enter the formula w/o quotes \"=SIN(K4)\" and Edit Fill Down.",
+        "Edit Go To cell range N4:N54 and with N4 the active cell, enter the formula w/o quotes \"=m_Slope_*SIN((K4-1))\" and Edit Fill Down.",
+        "Edit Go To cell range O4:O54 and with O4 the active cell, enter the  formula w/o quotes \"=(M4)/Stretch_x+Aj_X\" and Edit Fill Down.",
+        "Edit Go To cell range P4:P54 and with P4 the active cell, enter the  formula w/o quotes \"=(N4)/Stretch_y+Aj_Y+Intercept\" and Edit Fill Down.",
+        "Make a small worksheet chart.",
+        "Select cell range O4:P54 and using Chart Wizard or the Ribbon do Charts All/Other and scroll down to Scatter Smoothed Line Scatter and a small chart should appear over your data.",
+        "Important: The x-values should range from 800 to 1600 and the y-values should range from about 1.8 to 4.1 -- if this is not the case, look for a misplaced decimal point in the top rows 2 of Defined Variables, or a difference between out calculations of m and b.",
+        "Else, it's a data entry error somewhere along the line, to be checked one column at a time.",
+        "See also the Warnings Section below on Errors.",
+        "Click on the series plot of the new small chart on the Data Sheet and Command+c copy it, then go to the Chart worksheet and click in the chart and Command+v paste it.",
+        "If it works like mine, it's FUBAR and must be corrected one series at a time.",
+        "If the regression line is still showing, edit its series in the formula bar to the right of the first parenthesis by entering with quotes\"Regression Line\" before the comma.",
+        "Then press the down arrow on your keyboard to access Series 1 and do Chart Layout edit Line (No Line), Marker Style red size 5, Marker Fill - Red, and edit into the series in the formula bar past the first left parenthesis with quotes, \"SAT-GPA Pairs\" before the first comma.",
+        "Hit the OK and then the Enter Key and the Down Key once or twice to access Series 3, which is the Ellipse.",
+        "Do Chart Layout Format Selection, Marker Fill Blue-Green, Marker Line Automatic with Smoothed Line checked, OK. Activate the Data worksheet and select cell range B23:C24 and copy and activate the Chart worksheet and Command+v paste the range in.",
+        "It doesn't work right for me and I must edit it and delete an extra series besides, What you want to end up with is series that read in the formula bar, \"=SERIES(\"Mean and Midpoint\",Data!$B$23:$B$24,Data!$C$23:$C$24,4)\", No Marker Line, Marker Style Round Dot, Size 9, Marker Fill Dark Blue or Purple.",
+        "Go To Insert Picture Word Art to create a Heading for the Chart that has some luster to it.",
+        "Done!!",
+        "Nice job.",
+        "In a future article, how to analyze the various sectors of the ellipse may be taken on.",
+        "For now, surrounding the data set has been achieved, which was the objective.",
+        "For those anxious to get started on this analysis, a hint: when calculating the area of a slanted ellipse sector: Look, pretend you are in the plane where it is not slanted and is just a normal ellipse.",
+        "That is the recommended approach from my mentor.",
+        "Hint #2:  Look at your data to find the length of line b.",
+        "In Tips are included the data and small chart for the un-adjusted slanted ellipse which you may use as a starting point in your analyses."
+    ]
+}

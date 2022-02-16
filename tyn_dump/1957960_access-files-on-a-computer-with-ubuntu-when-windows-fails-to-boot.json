@@ -1,0 +1,111 @@
+{
+    "title": "How to Access Files on a Computer With Ubuntu when Windows Fails to Boot",
+    "url": "https://www.wikihow.com/Access-Files-on-a-Computer-With-Ubuntu-when-Windows-Fails-to-Boot",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Linux",
+        "Ubuntu"
+    ],
+    "steps": [
+        {
+            "headline": "Go to http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ and scroll all the way to the bottom of the screen and click on  download universal-USB-Installer.",
+            "description": ""
+        },
+        {
+            "headline": "Locate the downloaded file once the program has finished downloading and double click on it to begin the installation process.",
+            "description": "(Note: Click on the yes button when windows user account control pops up and asks \u201cDo you want to allow the following program from an unknown publisher to make changes to this computer?\u201d)"
+        },
+        {
+            "headline": "Read through the license agreement then click on the I agree button",
+            "description": ""
+        },
+        {
+            "headline": "Select Ubuntu 11.10 Desktop from the drop down menu under step 1 and also check the box where it says download the iso.",
+            "description": ""
+        },
+        {
+            "headline": "Click the yes button to start the download process.",
+            "description": ""
+        },
+        {
+            "headline": "Click on the browse button in step 2 after completing the download for Ubuntu 11.10 and locate the downloaded file of Ubuntu 11.10.",
+            "description": ""
+        },
+        {
+            "headline": "Select your USB flash drive letter from the drop down menu in step 3.",
+            "description": "(Tips: Make sure you select the correct letter for your USB flash drive or else you might wipe your other hard drives on your computer. Double check the drive letter in my computers.)"
+        },
+        {
+            "headline": "(This step is optional) Choose how much space you want to allocate for storing changes to the Ubuntu operating system on the USB flash drive by sliding the slider to the right and click the create button.",
+            "description": ""
+        },
+        {
+            "headline": "A window will appear telling you what the program will be doing and to make sure that you have selected the correct drive letter for the USB flash drive.",
+            "description": "Then click on the yes button."
+        },
+        {
+            "headline": "After clicking on the yes button two screens will be displayed.",
+            "description": "You don\u2019t really have to worry about these screens; they are just showing the installation process. The installation process will take a while to complete about 20 minutes or so. Go grab a coffee or a bite to eat then come back."
+        },
+        {
+            "headline": "Once the installation process is finished click on the close button and now your USB flash drive is ready to go.",
+            "description": "Now you have successfully installed the Ubuntu operating system on your USB flash drive."
+        },
+        {
+            "headline": "Turn off your computer.",
+            "description": "Then plug in the USB flash drive containing the Ubuntu operating system into a USB port on your computer if the USB flash drive is not already plugged in."
+        },
+        {
+            "headline": "Turn on your computer and immediately hold the F2 key while the computer is booting up.",
+            "description": "This will access your computer\u2019s boot device menu. From there select your USB flash drive and hit enter. Now the computer will restart and boot up from the USB flash drive. (Note: Different computers may have a different hotkey to press that will bring up that menu. For example on an Asus laptop holding F2 key will bring up the boot device menu. Please refer to your user\u2019s manual; common keys are F2, F10, F11, F12)"
+        },
+        {
+            "headline": "Highlight the first option which is run Ubuntu from this USB and then hit enter and wait for the Ubuntu operating system to load up.",
+            "description": ""
+        },
+        {
+            "headline": "Once you are in the Ubuntu operating system move the mouse cursor to the black bar at the top and click on Go then from the submenu click computer.",
+            "description": ""
+        },
+        {
+            "headline": "Locate your hard disk that contains the files that you are looking for.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "An empty USB flash drive with minimum 2GB of free space",
+        "A fully functional computer with Windows installed on it (Recommended Windows 7)"
+    ],
+    "text": " Go to http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ and scroll all the way to the bottom of the screen and click on  download universal-USB-Installer.  Locate the downloaded file once the program has finished downloading and double click on it to begin the installation process. (Note: Click on the yes button when windows user account control pops up and asks \u201cDo you want to allow the following program from an unknown publisher to make changes to this computer?\u201d) Read through the license agreement then click on the I agree button  Select Ubuntu 11.10 Desktop from the drop down menu under step 1 and also check the box where it says download the iso.  Click the yes button to start the download process.  Click on the browse button in step 2 after completing the download for Ubuntu 11.10 and locate the downloaded file of Ubuntu 11.10.  Select your USB flash drive letter from the drop down menu in step 3. (Tips: Make sure you select the correct letter for your USB flash drive or else you might wipe your other hard drives on your computer. Double check the drive letter in my computers.) (This step is optional) Choose how much space you want to allocate for storing changes to the Ubuntu operating system on the USB flash drive by sliding the slider to the right and click the create button.  A window will appear telling you what the program will be doing and to make sure that you have selected the correct drive letter for the USB flash drive. Then click on the yes button. After clicking on the yes button two screens will be displayed. You don\u2019t really have to worry about these screens; they are just showing the installation process. The installation process will take a while to complete about 20 minutes or so. Go grab a coffee or a bite to eat then come back. Once the installation process is finished click on the close button and now your USB flash drive is ready to go. Now you have successfully installed the Ubuntu operating system on your USB flash drive. Turn off your computer. Then plug in the USB flash drive containing the Ubuntu operating system into a USB port on your computer if the USB flash drive is not already plugged in. Turn on your computer and immediately hold the F2 key while the computer is booting up. This will access your computer\u2019s boot device menu. From there select your USB flash drive and hit enter. Now the computer will restart and boot up from the USB flash drive. (Note: Different computers may have a different hotkey to press that will bring up that menu. For example on an Asus laptop holding F2 key will bring up the boot device menu. Please refer to your user\u2019s manual; common keys are F2, F10, F11, F12) Highlight the first option which is run Ubuntu from this USB and then hit enter and wait for the Ubuntu operating system to load up.  Once you are in the Ubuntu operating system move the mouse cursor to the black bar at the top and click on Go then from the submenu click computer.  Locate your hard disk that contains the files that you are looking for. ",
+    "sentences": [
+        " Go to http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ and scroll all the way to the bottom of the screen and click on  download universal-USB-Installer.",
+        "Locate the downloaded file once the program has finished downloading and double click on it to begin the installation process.",
+        "(Note: Click on the yes button when windows user account control pops up and asks \u201cDo you want to allow the following program from an unknown publisher to make changes to this computer?\u201d) Read through the license agreement then click on the I agree button  Select Ubuntu 11.10 Desktop from the drop down menu under step 1 and also check the box where it says download the iso.",
+        "Click the yes button to start the download process.",
+        "Click on the browse button in step 2 after completing the download for Ubuntu 11.10 and locate the downloaded file of Ubuntu 11.10.",
+        "Select your USB flash drive letter from the drop down menu in step 3.",
+        "(Tips: Make sure you select the correct letter for your USB flash drive or else you might wipe your other hard drives on your computer.",
+        "Double check the drive letter in my computers.)",
+        "(This step is optional) Choose how much space you want to allocate for storing changes to the Ubuntu operating system on the USB flash drive by sliding the slider to the right and click the create button.",
+        "A window will appear telling you what the program will be doing and to make sure that you have selected the correct drive letter for the USB flash drive.",
+        "Then click on the yes button.",
+        "After clicking on the yes button two screens will be displayed.",
+        "You don\u2019t really have to worry about these screens; they are just showing the installation process.",
+        "The installation process will take a while to complete about 20 minutes or so.",
+        "Go grab a coffee or a bite to eat then come back.",
+        "Once the installation process is finished click on the close button and now your USB flash drive is ready to go.",
+        "Now you have successfully installed the Ubuntu operating system on your USB flash drive.",
+        "Turn off your computer.",
+        "Then plug in the USB flash drive containing the Ubuntu operating system into a USB port on your computer if the USB flash drive is not already plugged in.",
+        "Turn on your computer and immediately hold the F2 key while the computer is booting up.",
+        "This will access your computer\u2019s boot device menu.",
+        "From there select your USB flash drive and hit enter.",
+        "Now the computer will restart and boot up from the USB flash drive.",
+        "(Note: Different computers may have a different hotkey to press that will bring up that menu.",
+        "For example on an Asus laptop holding F2 key will bring up the boot device menu.",
+        "Please refer to your user\u2019s manual; common keys are F2, F10, F11, F12) Highlight the first option which is run Ubuntu from this USB and then hit enter and wait for the Ubuntu operating system to load up.",
+        "Once you are in the Ubuntu operating system move the mouse cursor to the black bar at the top and click on Go then from the submenu click computer.",
+        "Locate your hard disk that contains the files that you are looking for."
+    ]
+}

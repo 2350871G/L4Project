@@ -1,0 +1,192 @@
+{
+    "title": "How to Check a Microwave for Leaks",
+    "url": "https://www.wikihow.com/Check-a-Microwave-for-Leaks",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Home Appliances"
+    ],
+    "methods": [
+        {
+            "name": "Detecting Leaks Directly",
+            "steps": [
+                {
+                    "headline": "Find a light bulb that reacts to microwaves.",
+                    "description": "Certain objects react to microwave frequencies:\nA straight fluorescent light bulb (not a compact one)\nA neon \"NE-2\" bulb from an electronics store, powered and hooked up to a voltage divider so it is just barely glowing\nCheap, consumer-grade microwave testers are often inaccurate, but fine as a first test\nA professional-grade microwave tester can cost several hundred dollars USD. This is only necessary in professional contexts."
+                },
+                {
+                    "headline": "Darken the room.",
+                    "description": "If you are using a light bulb, dim the lights so you'll be able to see the bulb glow. Skip this step if you are using a microwave testing device."
+                },
+                {
+                    "headline": "Put a glass of water in the microwave.",
+                    "description": "Running an empty microwave exposes the magnetron (the part that actually creates the microwaves) to high power levels, which can damage or destroy it. A small glass of water (roughly 275 mL / a little over 1 cup) will reduce this risk, while still leaving plenty of un-absorbed microwaves to test for leaks. This is especially important for older microwaves, which may have lower quality shielding around the magnetron."
+                },
+                {
+                    "headline": "Turn on the microwave.",
+                    "description": "Set it to run for one minute."
+                },
+                {
+                    "headline": "Move the object slowly around the microwave.",
+                    "description": "Hold the light bulb or tester at least 5 cm (2 inches) away from the surface of the microwave, including the handle. Move the object slowly (about 2.5 cm / 1 inch per minute) around the door seal and any areas that look damaged. The microwave's power decreases rapidly with distance. Consider testing it at the distance you normally stand from the microwave, for instance the edge of the kitchen counter. If the microwave stops before you are done, replace the glass of water and run the oven for another minute."
+                },
+                {
+                    "headline": "Look for a reaction.",
+                    "description": "If your microwave leaks, the fluorescent tube will glow, or the neon bulb will become noticeably brighter. Electronic testers react in different ways, so check the manual. If the tester displays a measurement, anything about 5 mW/cm at a distance of 5 cm (2 inches) is cause for concern. All of these methods are just quick tests, even the consumer-grade tester. These results do not necessarily mean your microwave is dangerous, but it does mean it's worth taking steps to address the problem."
+                }
+            ]
+        },
+        {
+            "name": "Using a Laptop's WiFi Connection",
+            "steps": [
+                {
+                    "headline": "Find two WiFi-enabled devices.",
+                    "description": "Some WiFi networks use roughly the same frequency as microwave ovens (about 2.4 GHz), so the oven's shielding should block the WiFi too. To test whether the oven can do this as intended, you'll need a laptop that fits inside your microwave, plus a second device that can connect to your home WiFi network. The instructions below assume you are using two computers, but you can use WiFi-enabled phones instead if you know how to use them to ping each other. You can use Find my iPhone to ping an iPhone or an iPad or Find my Device to ping an Android. Make sure that the device's data is turned off and that the device is connected to a 2.4 GHz connection."
+                },
+                {
+                    "headline": "Set your WiFi to 2.4GHz.",
+                    "description": "If you're not sure how to change your WiFi frequency, access your router settings and look for the \"802.11 mode\" info (usually under advanced settings):\n802.11b or 802.11g means you are on a 2.4 GHz network. Continue to the next step. 802.11a or 802.11ac means you are on a 5 GHz network. Some routers give you the option to switch to another standard. If your router does not have this option, this test won't work. 802.11n can operate on either frequency. Look for the frequency setting and set it to 2.4GHz. If the router produces two WiFi networks, one of these is 2.4Ghz."
+                },
+                {
+                    "headline": "Unplug your microwave from the power socket.",
+                    "description": "Remove the whole electric plug from the wall socket rather than simply turning off the switch. You'll be putting your computer inside the microwave, and the last thing you want is to accidentally turn the oven on."
+                },
+                {
+                    "headline": "Prepare the computer.",
+                    "description": "Turn your laptop on and connect to the local WiFI connection. Check the energy saver or display settings so the computer won't go to sleep while it's in the microwave."
+                },
+                {
+                    "headline": "Find your computer's IP address.",
+                    "description": "You'll need this to send a signal to your laptop. Here's how to find it:\nWindows: Open Control Panel. Go to Network and Sharing... \u2192 View network connections \u2192 select your WiFi connection \u2192 click the chevron to expand (if necessary) \u2192 View status of this connection \u2192 Details. Look for the number next to \"IPv4.\" Mac: Open System Preferences. Click Network. Select WiFi on the left and find your IP address on the right."
+                },
+                {
+                    "headline": "Place the laptop in the microwave.",
+                    "description": "Do not turn the microwave on! You're just testing whether the microwave's shielding can block the WiFi signal."
+                },
+                {
+                    "headline": "Ping from the other device.",
+                    "description": "Open Command Prompt (on Windows) or Terminal (on Mac). Type ping, then a space, then your computer's IP address. For example, type ping 192.168.86.150."
+                },
+                {
+                    "headline": "Wait for a response.",
+                    "description": "If the ping is answered, the computer has successfully returned the signal through the microwave door. This means your microwave is leaking. If the packets time out, the microwave has blocked the signal from returning. This is not a guarantee that your microwave isn't leaking (since the microwave in operation produces much more powerful waves), but it is a good sign. Microwaves are legally allowed to leak a certain, safe amount. If your router is in the same room as your microwave or on the other side of a wall, a working ping doesn't necessarily mean a dangerous leak. As a rough estimate, a router with a strong signal strength (-40 dBm) should be at least 20 feet (6m) from the microwave (based on US and Canada regulations)."
+                }
+            ]
+        },
+        {
+            "name": "Fixing a Leak",
+            "steps": [
+                {
+                    "headline": "Check the seals around the door.",
+                    "description": "Microwave leaks are often the result of worn or broken elements on the microwave oven's door. If you have detected a leak, look for these common causes:\nCracks on the hinges\nWorn areas or cracks on the seal\nDents or breaks in the door itself\nBroken door hinges or door that fails to close firmly\nDamage to the metal mesh of the door (especially holes wider than 4.7 in / 12 cm)\nBroken door latch that does not immediately turn off the oven when you open the door."
+                },
+                {
+                    "headline": "Take the microwave to a professional repair shop.",
+                    "description": "An electronics repair shop has access to much more accurate microwave testing equipment. Its staff can confirm whether your microwave is safe, and identify the problem in need of repair. You may be able to convince a repair shop to rent you the testing equipment for a smaller fee. However, these devices do require calibration and training to use, so hiring a professional may give more accurate results."
+                },
+                {
+                    "headline": "Report a leaking microwave.",
+                    "description": "If your microwave is leaking, especially if it is new and undamaged, consider contacting the manufacturer. In the United States, all manufacturers are required to pass on your report to the FDA. You can also report it to the FDA directly at this form. Outside of the US, report the issue to consumer safety organizations or government health departments."
+                },
+                {
+                    "headline": "Understand the danger.",
+                    "description": "Microwave radiation is the same kind of \"radiation\" as visible light and radio waves, not the ionizing radiation that can cause cancer or radioactivity. The only known risk of a leaking microwave is the high levels of heat it produces. This is most dangerous to the eye (where it can lead to cataracts) and the testes (where it can cause temporary sterility). Extreme levels of microwave radiation can cause skin burns. If you do not notice any symptoms and you stop using the leaking microwave, lasting damage is very unlikely."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Microwave oven",
+        "Fluorescent tube, NE-2 neon bulb, microwave tester, or two WiFi-connected devices",
+        "Repair store if there is a problem"
+    ],
+    "text": " Detecting Leaks Directly Find a light bulb that reacts to microwaves. Certain objects react to microwave frequencies:\nA straight fluorescent light bulb (not a compact one)\nA neon \"NE-2\" bulb from an electronics store, powered and hooked up to a voltage divider so it is just barely glowing\nCheap, consumer-grade microwave testers are often inaccurate, but fine as a first test\nA professional-grade microwave tester can cost several hundred dollars USD. This is only necessary in professional contexts. Darken the room. If you are using a light bulb, dim the lights so you'll be able to see the bulb glow. Skip this step if you are using a microwave testing device. Put a glass of water in the microwave. Running an empty microwave exposes the magnetron (the part that actually creates the microwaves) to high power levels, which can damage or destroy it. A small glass of water (roughly 275 mL / a little over 1 cup) will reduce this risk, while still leaving plenty of un-absorbed microwaves to test for leaks. This is especially important for older microwaves, which may have lower quality shielding around the magnetron. Turn on the microwave. Set it to run for one minute. Move the object slowly around the microwave. Hold the light bulb or tester at least 5 cm (2 inches) away from the surface of the microwave, including the handle. Move the object slowly (about 2.5 cm / 1 inch per minute) around the door seal and any areas that look damaged. The microwave's power decreases rapidly with distance. Consider testing it at the distance you normally stand from the microwave, for instance the edge of the kitchen counter. If the microwave stops before you are done, replace the glass of water and run the oven for another minute. Look for a reaction. If your microwave leaks, the fluorescent tube will glow, or the neon bulb will become noticeably brighter. Electronic testers react in different ways, so check the manual. If the tester displays a measurement, anything about 5 mW/cm at a distance of 5 cm (2 inches) is cause for concern. All of these methods are just quick tests, even the consumer-grade tester. These results do not necessarily mean your microwave is dangerous, but it does mean it's worth taking steps to address the problem. Using a Laptop's WiFi Connection Find two WiFi-enabled devices. Some WiFi networks use roughly the same frequency as microwave ovens (about 2.4 GHz), so the oven's shielding should block the WiFi too. To test whether the oven can do this as intended, you'll need a laptop that fits inside your microwave, plus a second device that can connect to your home WiFi network. The instructions below assume you are using two computers, but you can use WiFi-enabled phones instead if you know how to use them to ping each other. You can use Find my iPhone to ping an iPhone or an iPad or Find my Device to ping an Android. Make sure that the device's data is turned off and that the device is connected to a 2.4 GHz connection. Set your WiFi to 2.4GHz. If you're not sure how to change your WiFi frequency, access your router settings and look for the \"802.11 mode\" info (usually under advanced settings):\n802.11b or 802.11g means you are on a 2.4 GHz network. Continue to the next step. 802.11a or 802.11ac means you are on a 5 GHz network. Some routers give you the option to switch to another standard. If your router does not have this option, this test won't work. 802.11n can operate on either frequency. Look for the frequency setting and set it to 2.4GHz. If the router produces two WiFi networks, one of these is 2.4Ghz. Unplug your microwave from the power socket. Remove the whole electric plug from the wall socket rather than simply turning off the switch. You'll be putting your computer inside the microwave, and the last thing you want is to accidentally turn the oven on. Prepare the computer. Turn your laptop on and connect to the local WiFI connection. Check the energy saver or display settings so the computer won't go to sleep while it's in the microwave. Find your computer's IP address. You'll need this to send a signal to your laptop. Here's how to find it:\nWindows: Open Control Panel. Go to Network and Sharing... \u2192 View network connections \u2192 select your WiFi connection \u2192 click the chevron to expand (if necessary) \u2192 View status of this connection \u2192 Details. Look for the number next to \"IPv4.\" Mac: Open System Preferences. Click Network. Select WiFi on the left and find your IP address on the right. Place the laptop in the microwave. Do not turn the microwave on! You're just testing whether the microwave's shielding can block the WiFi signal. Ping from the other device. Open Command Prompt (on Windows) or Terminal (on Mac). Type ping, then a space, then your computer's IP address. For example, type ping 192.168.86.150. Wait for a response. If the ping is answered, the computer has successfully returned the signal through the microwave door. This means your microwave is leaking. If the packets time out, the microwave has blocked the signal from returning. This is not a guarantee that your microwave isn't leaking (since the microwave in operation produces much more powerful waves), but it is a good sign. Microwaves are legally allowed to leak a certain, safe amount. If your router is in the same room as your microwave or on the other side of a wall, a working ping doesn't necessarily mean a dangerous leak. As a rough estimate, a router with a strong signal strength (-40 dBm) should be at least 20 feet (6m) from the microwave (based on US and Canada regulations). Fixing a Leak Check the seals around the door. Microwave leaks are often the result of worn or broken elements on the microwave oven's door. If you have detected a leak, look for these common causes:\nCracks on the hinges\nWorn areas or cracks on the seal\nDents or breaks in the door itself\nBroken door hinges or door that fails to close firmly\nDamage to the metal mesh of the door (especially holes wider than 4.7 in / 12 cm)\nBroken door latch that does not immediately turn off the oven when you open the door. Take the microwave to a professional repair shop. An electronics repair shop has access to much more accurate microwave testing equipment. Its staff can confirm whether your microwave is safe, and identify the problem in need of repair. You may be able to convince a repair shop to rent you the testing equipment for a smaller fee. However, these devices do require calibration and training to use, so hiring a professional may give more accurate results. Report a leaking microwave. If your microwave is leaking, especially if it is new and undamaged, consider contacting the manufacturer. In the United States, all manufacturers are required to pass on your report to the FDA. You can also report it to the FDA directly at this form. Outside of the US, report the issue to consumer safety organizations or government health departments. Understand the danger. Microwave radiation is the same kind of \"radiation\" as visible light and radio waves, not the ionizing radiation that can cause cancer or radioactivity. The only known risk of a leaking microwave is the high levels of heat it produces. This is most dangerous to the eye (where it can lead to cataracts) and the testes (where it can cause temporary sterility). Extreme levels of microwave radiation can cause skin burns. If you do not notice any symptoms and you stop using the leaking microwave, lasting damage is very unlikely.",
+    "sentences": [
+        " Detecting Leaks Directly Find a light bulb that reacts to microwaves.",
+        "Certain objects react to microwave frequencies:\nA straight fluorescent light bulb (not a compact one)\nA neon \"NE-2\" bulb from an electronics store, powered and hooked up to a voltage divider so it is just barely glowing\nCheap, consumer-grade microwave testers are often inaccurate, but fine as a first test\nA professional-grade microwave tester can cost several hundred dollars USD.",
+        "This is only necessary in professional contexts.",
+        "Darken the room.",
+        "If you are using a light bulb, dim the lights so you'll be able to see the bulb glow.",
+        "Skip this step if you are using a microwave testing device.",
+        "Put a glass of water in the microwave.",
+        "Running an empty microwave exposes the magnetron (the part that actually creates the microwaves) to high power levels, which can damage or destroy it.",
+        "A small glass of water (roughly 275 mL / a little over 1 cup) will reduce this risk, while still leaving plenty of un-absorbed microwaves to test for leaks.",
+        "This is especially important for older microwaves, which may have lower quality shielding around the magnetron.",
+        "Turn on the microwave.",
+        "Set it to run for one minute.",
+        "Move the object slowly around the microwave.",
+        "Hold the light bulb or tester at least 5 cm (2 inches) away from the surface of the microwave, including the handle.",
+        "Move the object slowly (about 2.5 cm / 1 inch per minute) around the door seal and any areas that look damaged.",
+        "The microwave's power decreases rapidly with distance.",
+        "Consider testing it at the distance you normally stand from the microwave, for instance the edge of the kitchen counter.",
+        "If the microwave stops before you are done, replace the glass of water and run the oven for another minute.",
+        "Look for a reaction.",
+        "If your microwave leaks, the fluorescent tube will glow, or the neon bulb will become noticeably brighter.",
+        "Electronic testers react in different ways, so check the manual.",
+        "If the tester displays a measurement, anything about 5 mW/cm at a distance of 5 cm (2 inches) is cause for concern.",
+        "All of these methods are just quick tests, even the consumer-grade tester.",
+        "These results do not necessarily mean your microwave is dangerous, but it does mean it's worth taking steps to address the problem.",
+        "Using a Laptop's WiFi Connection Find two WiFi-enabled devices.",
+        "Some WiFi networks use roughly the same frequency as microwave ovens (about 2.4 GHz), so the oven's shielding should block the WiFi too.",
+        "To test whether the oven can do this as intended, you'll need a laptop that fits inside your microwave, plus a second device that can connect to your home WiFi network.",
+        "The instructions below assume you are using two computers, but you can use WiFi-enabled phones instead if you know how to use them to ping each other.",
+        "You can use Find my iPhone to ping an iPhone or an iPad or Find my Device to ping an Android.",
+        "Make sure that the device's data is turned off and that the device is connected to a 2.4 GHz connection.",
+        "Set your WiFi to 2.4GHz.",
+        "If you're not sure how to change your WiFi frequency, access your router settings and look for the \"802.11 mode\" info (usually under advanced settings):\n802.11b or 802.11g means you are on a 2.4 GHz network.",
+        "Continue to the next step.",
+        "802.11a or 802.11ac means you are on a 5 GHz network.",
+        "Some routers give you the option to switch to another standard.",
+        "If your router does not have this option, this test won't work.",
+        "802.11n can operate on either frequency.",
+        "Look for the frequency setting and set it to 2.4GHz.",
+        "If the router produces two WiFi networks, one of these is 2.4Ghz.",
+        "Unplug your microwave from the power socket.",
+        "Remove the whole electric plug from the wall socket rather than simply turning off the switch.",
+        "You'll be putting your computer inside the microwave, and the last thing you want is to accidentally turn the oven on.",
+        "Prepare the computer.",
+        "Turn your laptop on and connect to the local WiFI connection.",
+        "Check the energy saver or display settings so the computer won't go to sleep while it's in the microwave.",
+        "Find your computer's IP address.",
+        "You'll need this to send a signal to your laptop.",
+        "Here's how to find it:\nWindows: Open Control Panel.",
+        "Go to Network and Sharing... \u2192 View network connections \u2192 select your WiFi connection \u2192 click the chevron to expand (if necessary) \u2192 View status of this connection \u2192 Details.",
+        "Look for the number next to \"IPv4.\"",
+        "Mac: Open System Preferences.",
+        "Click Network.",
+        "Select WiFi on the left and find your IP address on the right.",
+        "Place the laptop in the microwave.",
+        "Do not turn the microwave on!",
+        "You're just testing whether the microwave's shielding can block the WiFi signal.",
+        "Ping from the other device.",
+        "Open Command Prompt (on Windows) or Terminal (on Mac).",
+        "Type ping, then a space, then your computer's IP address.",
+        "For example, type ping 192.168.86.150.",
+        "Wait for a response.",
+        "If the ping is answered, the computer has successfully returned the signal through the microwave door.",
+        "This means your microwave is leaking.",
+        "If the packets time out, the microwave has blocked the signal from returning.",
+        "This is not a guarantee that your microwave isn't leaking (since the microwave in operation produces much more powerful waves), but it is a good sign.",
+        "Microwaves are legally allowed to leak a certain, safe amount.",
+        "If your router is in the same room as your microwave or on the other side of a wall, a working ping doesn't necessarily mean a dangerous leak.",
+        "As a rough estimate, a router with a strong signal strength (-40 dBm) should be at least 20 feet (6m) from the microwave (based on US and Canada regulations).",
+        "Fixing a Leak Check the seals around the door.",
+        "Microwave leaks are often the result of worn or broken elements on the microwave oven's door.",
+        "If you have detected a leak, look for these common causes:\nCracks on the hinges\nWorn areas or cracks on the seal\nDents or breaks in the door itself\nBroken door hinges or door that fails to close firmly\nDamage to the metal mesh of the door (especially holes wider than 4.7 in / 12 cm)\nBroken door latch that does not immediately turn off the oven when you open the door.",
+        "Take the microwave to a professional repair shop.",
+        "An electronics repair shop has access to much more accurate microwave testing equipment.",
+        "Its staff can confirm whether your microwave is safe, and identify the problem in need of repair.",
+        "You may be able to convince a repair shop to rent you the testing equipment for a smaller fee.",
+        "However, these devices do require calibration and training to use, so hiring a professional may give more accurate results.",
+        "Report a leaking microwave.",
+        "If your microwave is leaking, especially if it is new and undamaged, consider contacting the manufacturer.",
+        "In the United States, all manufacturers are required to pass on your report to the FDA.",
+        "You can also report it to the FDA directly at this form.",
+        "Outside of the US, report the issue to consumer safety organizations or government health departments.",
+        "Understand the danger.",
+        "Microwave radiation is the same kind of \"radiation\" as visible light and radio waves, not the ionizing radiation that can cause cancer or radioactivity.",
+        "The only known risk of a leaking microwave is the high levels of heat it produces.",
+        "This is most dangerous to the eye (where it can lead to cataracts) and the testes (where it can cause temporary sterility).",
+        "Extreme levels of microwave radiation can cause skin burns.",
+        "If you do not notice any symptoms and you stop using the leaking microwave, lasting damage is very unlikely."
+    ]
+}

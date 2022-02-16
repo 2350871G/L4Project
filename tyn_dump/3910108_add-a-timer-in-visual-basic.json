@@ -1,0 +1,58 @@
+{
+    "title": "How to Add a Timer in Visual Basic",
+    "url": "https://www.wikihow.com/Add-a-Timer-in-Visual-Basic",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Programming",
+        "BASIC Programming Languages",
+        "Visual Basic"
+    ],
+    "steps": [
+        {
+            "headline": "Add a label to your form.",
+            "description": "This will hold the number that you want to be linked with the timer."
+        },
+        {
+            "headline": "Add a button to your form.",
+            "description": "This will initiate the timer to start."
+        },
+        {
+            "headline": "Add a timer to your form.",
+            "description": "You can find the timer function in the toolbox -> components -> timer"
+        },
+        {
+            "headline": "Change the properties for the Timer1 component.",
+            "description": "Under \"Behavior\" change \"Enabled\" to \"False\" and \"Interval\" to \"1000\"."
+        },
+        {
+            "headline": "Double-click the Timer1 component and add the correct coding.",
+            "description": ""
+        },
+        {
+            "headline": "Double-Click the button you have used to commence the timer and add the correct coding.",
+            "description": ""
+        },
+        {
+            "headline": "Start debugging.",
+            "description": "Test your timer, making sure it works correctly and stops at 0."
+        }
+    ],
+    "tyn": [
+        "Microsoft Visual Basic"
+    ],
+    "text": " Add a label to your form. This will hold the number that you want to be linked with the timer. Add a button to your form. This will initiate the timer to start. Add a timer to your form. You can find the timer function in the toolbox -> components -> timer Change the properties for the Timer1 component. Under \"Behavior\" change \"Enabled\" to \"False\" and \"Interval\" to \"1000\". Double-click the Timer1 component and add the correct coding.  Double-Click the button you have used to commence the timer and add the correct coding.  Start debugging. Test your timer, making sure it works correctly and stops at 0.",
+    "sentences": [
+        " Add a label to your form.",
+        "This will hold the number that you want to be linked with the timer.",
+        "Add a button to your form.",
+        "This will initiate the timer to start.",
+        "Add a timer to your form.",
+        "You can find the timer function in the toolbox -> components -> timer Change the properties for the Timer1 component.",
+        "Under \"Behavior\" change \"Enabled\" to \"False\" and \"Interval\" to \"1000\".",
+        "Double-click the Timer1 component and add the correct coding.",
+        "Double-Click the button you have used to commence the timer and add the correct coding.",
+        "Start debugging.",
+        "Test your timer, making sure it works correctly and stops at 0."
+    ]
+}

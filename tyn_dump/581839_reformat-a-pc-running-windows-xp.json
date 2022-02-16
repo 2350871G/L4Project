@@ -1,0 +1,217 @@
+{
+    "title": "How to Reformat a PC Running Windows XP",
+    "url": "https://www.wikihow.com/Reformat-a-PC-Running-Windows-XP",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "XP Instructions"
+    ],
+    "methods": [
+        {
+            "name": "Preparing to Reformat Your PC",
+            "steps": [
+                {
+                    "headline": "Consider defragging or using an anti-malware program first.",
+                    "description": "This might help your PC performance so you can avoid formatting. You may also consider re-installing Windows XP. If you are trying to eradicate a virus, this will not remove all the files. The virus may still be present after re-installing."
+                },
+                {
+                    "headline": "Check to see if your PC manufacturer included a restore-disk.",
+                    "description": "Most brand name manufacturers include a disk that can restore your computer to the state it was the day you purchased it. Some only include a Windows XP disk, and some provide nothing at all. If you have a restore-disk you can save yourself from having to reformat your computer."
+                },
+                {
+                    "headline": "Write down or print out all instructions you need to reformat.",
+                    "description": "Once you begin the process you will not be able to access files on your computer or the web. If you have a printed copy of the necessary steps and troubleshooting procedures you will be able to reference them as needed."
+                },
+                {
+                    "headline": "Back up your data.",
+                    "description": "All important data should be backed up before starting this procedure. Remember that all hard disk data will be lost when you reformat. Check out this article on how to backup your data in Windows XP. Ensure that you save that backup to a CD, thumb drive, or external drive. Note whether you have the software CDs to extra devices such as printers or software you may have purchased. If you downloaded them, then ensure that you either can re-download them or backup those files so you are able to re-install them after you reformat your computer. You may also want to note the make and model of your devices. You can find these by searching for \u201cdevice manager\u201d from the start menu. Once inside the Device Manager, you can click on each category to see what devices are installed."
+                }
+            ]
+        },
+        {
+            "name": "Partitioning Your Computer",
+            "steps": [
+                {
+                    "headline": "Insert the Windows XP CD-ROM or DVD-ROM into your computer.",
+                    "description": "You may also use the Windows XP Setup disks. If using the disks you will have to install each disk when prompted during the setup."
+                },
+                {
+                    "headline": "Restart the PC.",
+                    "description": "This will start the Windows XP setup program."
+                },
+                {
+                    "headline": "Press any key to boot from CD when prompted.",
+                    "description": "This prompt will appear shortly after the (POST) power-on self test. Once the CD loads, press the Enter key at the Welcome to Setup screen."
+                },
+                {
+                    "headline": "Press the F8 key to agree to the Microsoft end user license agreement when prompted to do so.",
+                    "description": "Since there is already an existing Windows XP installation you may receive a prompt to repair it. Press the ESC key to bypass this option and continue formatting the disk."
+                },
+                {
+                    "headline": "Select each field that does not say \"Unallocated Space.\"",
+                    "description": "All your existing partitioned and non-partitioned spaces will be listed on the screen. Use the arrow keys to select fields to be deleted."
+                },
+                {
+                    "headline": "Press the D key to delete each field.",
+                    "description": "When prompted, press the L key to confirm partition deletion. This will clear old data from the hard drive of the computer."
+                },
+                {
+                    "headline": "Repeat steps 6 and 7 until the only field left is \"Unallocated Space.\"",
+                    "description": "Now that all the partitioned spaces are deleted, press the C key to create a new partitioned space. Press enter to create a new partition of the maximum size."
+                }
+            ]
+        },
+        {
+            "name": "Formatting and Installing Windows XP",
+            "steps": [
+                {
+                    "headline": "Use the arrow keys to select the new partition.",
+                    "description": "Press enter to install Windows XP to the unallocated space. This will be followed by a list of installation options."
+                },
+                {
+                    "headline": "Select Quick Format installation.",
+                    "description": "You will want to select the NTSF file system. That is the preferred file system of Windows XP. If you're reformatting to recover from error, you will want to do a Full Format otherwise your error may still exist."
+                },
+                {
+                    "headline": "The PC should restart, then select your language and local preferences when prompted to do so.",
+                    "description": "There are quick selection options or you can click on custom settings to receive more options."
+                },
+                {
+                    "headline": "Enter your desired password.",
+                    "description": "When the administrator password prompt comes up you can enter your desired password. Pick a password only you would know, but difficult enough for anyone else to guess."
+                }
+            ]
+        },
+        {
+            "name": "Restoring Your Data",
+            "steps": [
+                {
+                    "headline": "Get your disc or thumb drive containing your backup.",
+                    "description": "Place your backup in the appropriate drive to restore the documents you backed up before starting this procedure and re-install your applications."
+                },
+                {
+                    "headline": "Click on the \"Start\" menu.",
+                    "description": "This is located in the lower left hand corner of the screen. To restore your backup, choose \"All programs\" and \"Accessories.\" Then choose \"System Tools\" and \"Backup.\" When the Backup program is opened, click \"Next\" to continue."
+                },
+                {
+                    "headline": "Select \"Restore Files and Settings.\"",
+                    "description": "Click \"Next\" to continue to the next pane. Click \"Browse\" to find your backup in either the CD or the thumb drive and then \"Next\" to continue."
+                },
+                {
+                    "headline": "Click \"Finish\" to mount your backup.",
+                    "description": "It may take some time to restore completely if it was a large backup. Click \"Close\" when the restoration is complete. The files from your backup should appear on your newly formatted computer."
+                }
+            ]
+        },
+        {
+            "name": "Troubleshooting",
+            "steps": [
+                {
+                    "headline": "If the CD won't complete reformatting then try running a memory test on the PC.",
+                    "description": "You may need to replace one or both of the memory sticks if there are many errors."
+                },
+                {
+                    "headline": "Try replacing the optical drive and data cables.",
+                    "description": "Some cables may wear over time, so these may need to be replace if damaged or defective."
+                },
+                {
+                    "headline": "Check your CD drive.",
+                    "description": "Try putting in another CD and see if your computer can read the CD. If it cannot, then you may need to replace your CD drive."
+                },
+                {
+                    "headline": "Ensure that the CD is not scratched.",
+                    "description": "Flip the CD over in your hand and look at it in the light. If the CD is scratched then your CD drive may have difficulty reading it. Try using a different CD or try repairing the scratched CD."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A personal computer that meets the Windows XP requirements",
+        "A windows XP install disc",
+        "A windows XP CD-Key",
+        "About an hour worth of time."
+    ],
+    "text": " Preparing to Reformat Your PC Consider defragging or using an anti-malware program first. This might help your PC performance so you can avoid formatting. You may also consider re-installing Windows XP. If you are trying to eradicate a virus, this will not remove all the files. The virus may still be present after re-installing. Check to see if your PC manufacturer included a restore-disk. Most brand name manufacturers include a disk that can restore your computer to the state it was the day you purchased it. Some only include a Windows XP disk, and some provide nothing at all. If you have a restore-disk you can save yourself from having to reformat your computer. Write down or print out all instructions you need to reformat. Once you begin the process you will not be able to access files on your computer or the web. If you have a printed copy of the necessary steps and troubleshooting procedures you will be able to reference them as needed. Back up your data. All important data should be backed up before starting this procedure. Remember that all hard disk data will be lost when you reformat. Check out this article on how to backup your data in Windows XP. Ensure that you save that backup to a CD, thumb drive, or external drive. Note whether you have the software CDs to extra devices such as printers or software you may have purchased. If you downloaded them, then ensure that you either can re-download them or backup those files so you are able to re-install them after you reformat your computer. You may also want to note the make and model of your devices. You can find these by searching for \u201cdevice manager\u201d from the start menu. Once inside the Device Manager, you can click on each category to see what devices are installed. Partitioning Your Computer Insert the Windows XP CD-ROM or DVD-ROM into your computer. You may also use the Windows XP Setup disks. If using the disks you will have to install each disk when prompted during the setup. Restart the PC. This will start the Windows XP setup program. Press any key to boot from CD when prompted. This prompt will appear shortly after the (POST) power-on self test. Once the CD loads, press the Enter key at the Welcome to Setup screen. Press the F8 key to agree to the Microsoft end user license agreement when prompted to do so. Since there is already an existing Windows XP installation you may receive a prompt to repair it. Press the ESC key to bypass this option and continue formatting the disk. Select each field that does not say \"Unallocated Space.\" All your existing partitioned and non-partitioned spaces will be listed on the screen. Use the arrow keys to select fields to be deleted. Press the D key to delete each field. When prompted, press the L key to confirm partition deletion. This will clear old data from the hard drive of the computer. Repeat steps 6 and 7 until the only field left is \"Unallocated Space.\" Now that all the partitioned spaces are deleted, press the C key to create a new partitioned space. Press enter to create a new partition of the maximum size. Formatting and Installing Windows XP Use the arrow keys to select the new partition. Press enter to install Windows XP to the unallocated space. This will be followed by a list of installation options. Select Quick Format installation. You will want to select the NTSF file system. That is the preferred file system of Windows XP. If you're reformatting to recover from error, you will want to do a Full Format otherwise your error may still exist. The PC should restart, then select your language and local preferences when prompted to do so. There are quick selection options or you can click on custom settings to receive more options. Enter your desired password. When the administrator password prompt comes up you can enter your desired password. Pick a password only you would know, but difficult enough for anyone else to guess. Restoring Your Data Get your disc or thumb drive containing your backup. Place your backup in the appropriate drive to restore the documents you backed up before starting this procedure and re-install your applications. Click on the \"Start\" menu. This is located in the lower left hand corner of the screen. To restore your backup, choose \"All programs\" and \"Accessories.\" Then choose \"System Tools\" and \"Backup.\" When the Backup program is opened, click \"Next\" to continue. Select \"Restore Files and Settings.\" Click \"Next\" to continue to the next pane. Click \"Browse\" to find your backup in either the CD or the thumb drive and then \"Next\" to continue. Click \"Finish\" to mount your backup. It may take some time to restore completely if it was a large backup. Click \"Close\" when the restoration is complete. The files from your backup should appear on your newly formatted computer. Troubleshooting If the CD won't complete reformatting then try running a memory test on the PC. You may need to replace one or both of the memory sticks if there are many errors. Try replacing the optical drive and data cables. Some cables may wear over time, so these may need to be replace if damaged or defective. Check your CD drive. Try putting in another CD and see if your computer can read the CD. If it cannot, then you may need to replace your CD drive. Ensure that the CD is not scratched. Flip the CD over in your hand and look at it in the light. If the CD is scratched then your CD drive may have difficulty reading it. Try using a different CD or try repairing the scratched CD.",
+    "sentences": [
+        " Preparing to Reformat Your PC Consider defragging or using an anti-malware program first.",
+        "This might help your PC performance so you can avoid formatting.",
+        "You may also consider re-installing Windows XP.",
+        "If you are trying to eradicate a virus, this will not remove all the files.",
+        "The virus may still be present after re-installing.",
+        "Check to see if your PC manufacturer included a restore-disk.",
+        "Most brand name manufacturers include a disk that can restore your computer to the state it was the day you purchased it.",
+        "Some only include a Windows XP disk, and some provide nothing at all.",
+        "If you have a restore-disk you can save yourself from having to reformat your computer.",
+        "Write down or print out all instructions you need to reformat.",
+        "Once you begin the process you will not be able to access files on your computer or the web.",
+        "If you have a printed copy of the necessary steps and troubleshooting procedures you will be able to reference them as needed.",
+        "Back up your data.",
+        "All important data should be backed up before starting this procedure.",
+        "Remember that all hard disk data will be lost when you reformat.",
+        "Check out this article on how to backup your data in Windows XP.",
+        "Ensure that you save that backup to a CD, thumb drive, or external drive.",
+        "Note whether you have the software CDs to extra devices such as printers or software you may have purchased.",
+        "If you downloaded them, then ensure that you either can re-download them or backup those files so you are able to re-install them after you reformat your computer.",
+        "You may also want to note the make and model of your devices.",
+        "You can find these by searching for \u201cdevice manager\u201d from the start menu.",
+        "Once inside the Device Manager, you can click on each category to see what devices are installed.",
+        "Partitioning Your Computer Insert the Windows XP CD-ROM or DVD-ROM into your computer.",
+        "You may also use the Windows XP Setup disks.",
+        "If using the disks you will have to install each disk when prompted during the setup.",
+        "Restart the PC.",
+        "This will start the Windows XP setup program.",
+        "Press any key to boot from CD when prompted.",
+        "This prompt will appear shortly after the (POST) power-on self test.",
+        "Once the CD loads, press the Enter key at the Welcome to Setup screen.",
+        "Press the F8 key to agree to the Microsoft end user license agreement when prompted to do so.",
+        "Since there is already an existing Windows XP installation you may receive a prompt to repair it.",
+        "Press the ESC key to bypass this option and continue formatting the disk.",
+        "Select each field that does not say \"Unallocated Space.\"",
+        "All your existing partitioned and non-partitioned spaces will be listed on the screen.",
+        "Use the arrow keys to select fields to be deleted.",
+        "Press the D key to delete each field.",
+        "When prompted, press the L key to confirm partition deletion.",
+        "This will clear old data from the hard drive of the computer.",
+        "Repeat steps 6 and 7 until the only field left is \"Unallocated Space.\"",
+        "Now that all the partitioned spaces are deleted, press the C key to create a new partitioned space.",
+        "Press enter to create a new partition of the maximum size.",
+        "Formatting and Installing Windows XP Use the arrow keys to select the new partition.",
+        "Press enter to install Windows XP to the unallocated space.",
+        "This will be followed by a list of installation options.",
+        "Select Quick Format installation.",
+        "You will want to select the NTSF file system.",
+        "That is the preferred file system of Windows XP.",
+        "If you're reformatting to recover from error, you will want to do a Full Format otherwise your error may still exist.",
+        "The PC should restart, then select your language and local preferences when prompted to do so.",
+        "There are quick selection options or you can click on custom settings to receive more options.",
+        "Enter your desired password.",
+        "When the administrator password prompt comes up you can enter your desired password.",
+        "Pick a password only you would know, but difficult enough for anyone else to guess.",
+        "Restoring Your Data Get your disc or thumb drive containing your backup.",
+        "Place your backup in the appropriate drive to restore the documents you backed up before starting this procedure and re-install your applications.",
+        "Click on the \"Start\" menu.",
+        "This is located in the lower left hand corner of the screen.",
+        "To restore your backup, choose \"All programs\" and \"Accessories.\"",
+        "Then choose \"System Tools\" and \"Backup.\"",
+        "When the Backup program is opened, click \"Next\" to continue.",
+        "Select \"Restore Files and Settings.\"",
+        "Click \"Next\" to continue to the next pane.",
+        "Click \"Browse\" to find your backup in either the CD or the thumb drive and then \"Next\" to continue.",
+        "Click \"Finish\" to mount your backup.",
+        "It may take some time to restore completely if it was a large backup.",
+        "Click \"Close\" when the restoration is complete.",
+        "The files from your backup should appear on your newly formatted computer.",
+        "Troubleshooting If the CD won't complete reformatting then try running a memory test on the PC.",
+        "You may need to replace one or both of the memory sticks if there are many errors.",
+        "Try replacing the optical drive and data cables.",
+        "Some cables may wear over time, so these may need to be replace if damaged or defective.",
+        "Check your CD drive.",
+        "Try putting in another CD and see if your computer can read the CD.",
+        "If it cannot, then you may need to replace your CD drive.",
+        "Ensure that the CD is not scratched.",
+        "Flip the CD over in your hand and look at it in the light.",
+        "If the CD is scratched then your CD drive may have difficulty reading it.",
+        "Try using a different CD or try repairing the scratched CD."
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "title": "How to Install Windows NT 4.0 Workstation",
+    "url": "https://www.wikihow.com/Install-Windows-NT-4.0-Workstation",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows"
+    ],
+    "parts": [
+        {
+            "name": "Preparing to Install",
+            "steps": [
+                {
+                    "headline": "Enter the Windows NT 4.0 installation disc.",
+                    "description": ""
+                },
+                {
+                    "headline": "Press \u21b5 Enter to continue with the installation.",
+                    "description": ""
+                },
+                {
+                    "headline": "Press the \u21df PgDn key until you get to the bottom.",
+                    "description": "Lots of people don't bother to read the Terms and Conditions but it's advisable to read them so you know exactly what you're signing up for."
+                },
+                {
+                    "headline": "Press F8 to accept the terms and conditions.",
+                    "description": ""
+                },
+                {
+                    "headline": "Check to see that the above list matches the specifications of your computer.",
+                    "description": ""
+                },
+                {
+                    "headline": "Select the partitioning of your hard drive that you want to install Windows NT 4.0 on and press \u21b5 Enter.",
+                    "description": "(The instructions will show you what to do on an unpartitioned hard drive)."
+                },
+                {
+                    "headline": "Choose the file system you would like to partition your hard drive as.",
+                    "description": "For this tutorial, NTFS was used. In general, NTFS is best if you use files larger than 4GB but cannot be used on floppy disks."
+                },
+                {
+                    "headline": "Wait for the process to complete.",
+                    "description": ""
+                },
+                {
+                    "headline": "Choose where you want the operating system's main files to be stored and press \u21b5 Enter when that's done.",
+                    "description": "(Often just leaving it where the system recommends in best)."
+                },
+                {
+                    "headline": "If all goes well you should see this screen.",
+                    "description": "When you do press \u21b5 Enter. Make sure though to boot from your hard drive from the boot menu (sometimes the F12 key) and not the disk (or else it will repeat the installation)."
+                }
+            ]
+        },
+        {
+            "name": "Setting Your Preferences",
+            "steps": [
+                {
+                    "headline": "Wait for this screen to pop up.",
+                    "description": "Click Next."
+                },
+                {
+                    "headline": "Choose the type of setup you want and click Next.",
+                    "description": "It's a matter of personal preference but for this tutorial, we will be using the 'Typical' setup which is a Microsoft default setup."
+                },
+                {
+                    "headline": "Type your name and/or your organisation and click Next.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type in a name for your computer (can be anything) and click Next.",
+                    "description": ""
+                },
+                {
+                    "headline": "Add a password if desired.",
+                    "description": "It's a good idea (but not essential) to come up with a password to your computer to prevent unauthorized access."
+                },
+                {
+                    "headline": "Consider adding an emergency repair disk which can be used to repair Windows NT 4.0 should something bad occur.",
+                    "description": "For this tutorial, we won't be making one."
+                },
+                {
+                    "headline": "Choose your components preference.",
+                    "description": "Again personal preference but for this tutorial we will 'Install the most common components'."
+                },
+                {
+                    "headline": "Click Next.",
+                    "description": ""
+                },
+                {
+                    "headline": "Pick your network preferences.",
+                    "description": "Personal preference yet again. If you want to be able to connect to the internet (and you have the required equipment) choose 'This computer will participate on a network.' Otherwise choose 'Do not connect this computer to a network at this time.' You can connect to a network at anytime so for this tutorial, we will pick the latter option."
+                },
+                {
+                    "headline": "Click Finish.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Checking Your Installation",
+            "steps": [
+                {
+                    "headline": "Make sure your date, time and time zone is correct and then click close.",
+                    "description": ""
+                },
+                {
+                    "headline": "Ensure your display settings are correct and click OK.",
+                    "description": "Unless there is a real issue with the display, leave these settings alone."
+                },
+                {
+                    "headline": "Remove all floppy disks and CDs and then click restart computer.",
+                    "description": ""
+                },
+                {
+                    "headline": "Press Ctrl+Alt+Delete keys in order.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type in your password and press OK.",
+                    "description": "The Administrator is the main account on the computer and can change critical settings of the computer. You can always create another account if you want to keep the Administrator account separate."
+                },
+                {
+                    "headline": "Once you are presented with this screen, Windows NT 4.0 has been fully installed!",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Windows NT 4.0 Workstation installation disk."
+    ],
+    "text": " Preparing to Install Enter the Windows NT 4.0 installation disc.  Press \u21b5 Enter to continue with the installation.  Press the \u21df PgDn key until you get to the bottom. Lots of people don't bother to read the Terms and Conditions but it's advisable to read them so you know exactly what you're signing up for. Press F8 to accept the terms and conditions.  Check to see that the above list matches the specifications of your computer.  Select the partitioning of your hard drive that you want to install Windows NT 4.0 on and press \u21b5 Enter. (The instructions will show you what to do on an unpartitioned hard drive). Choose the file system you would like to partition your hard drive as. For this tutorial, NTFS was used. In general, NTFS is best if you use files larger than 4GB but cannot be used on floppy disks. Wait for the process to complete.  Choose where you want the operating system's main files to be stored and press \u21b5 Enter when that's done. (Often just leaving it where the system recommends in best). If all goes well you should see this screen. When you do press \u21b5 Enter. Make sure though to boot from your hard drive from the boot menu (sometimes the F12 key) and not the disk (or else it will repeat the installation). Setting Your Preferences Wait for this screen to pop up. Click Next. Choose the type of setup you want and click Next. It's a matter of personal preference but for this tutorial, we will be using the 'Typical' setup which is a Microsoft default setup. Type your name and/or your organisation and click Next.  Type in a name for your computer (can be anything) and click Next.  Add a password if desired. It's a good idea (but not essential) to come up with a password to your computer to prevent unauthorized access. Consider adding an emergency repair disk which can be used to repair Windows NT 4.0 should something bad occur. For this tutorial, we won't be making one. Choose your components preference. Again personal preference but for this tutorial we will 'Install the most common components'. Click Next.  Pick your network preferences. Personal preference yet again. If you want to be able to connect to the internet (and you have the required equipment) choose 'This computer will participate on a network.' Otherwise choose 'Do not connect this computer to a network at this time.' You can connect to a network at anytime so for this tutorial, we will pick the latter option. Click Finish.  Checking Your Installation Make sure your date, time and time zone is correct and then click close.  Ensure your display settings are correct and click OK. Unless there is a real issue with the display, leave these settings alone. Remove all floppy disks and CDs and then click restart computer.  Press Ctrl+Alt+Delete keys in order.  Type in your password and press OK. The Administrator is the main account on the computer and can change critical settings of the computer. You can always create another account if you want to keep the Administrator account separate. Once you are presented with this screen, Windows NT 4.0 has been fully installed! ",
+    "sentences": [
+        " Preparing to Install Enter the Windows NT 4.0 installation disc.",
+        "Press \u21b5 Enter to continue with the installation.",
+        "Press the \u21df PgDn key until you get to the bottom.",
+        "Lots of people don't bother to read the Terms and Conditions but it's advisable to read them so you know exactly what you're signing up for.",
+        "Press F8 to accept the terms and conditions.",
+        "Check to see that the above list matches the specifications of your computer.",
+        "Select the partitioning of your hard drive that you want to install Windows NT 4.0 on and press \u21b5 Enter.",
+        "(The instructions will show you what to do on an unpartitioned hard drive).",
+        "Choose the file system you would like to partition your hard drive as.",
+        "For this tutorial, NTFS was used.",
+        "In general, NTFS is best if you use files larger than 4GB but cannot be used on floppy disks.",
+        "Wait for the process to complete.",
+        "Choose where you want the operating system's main files to be stored and press \u21b5 Enter when that's done.",
+        "(Often just leaving it where the system recommends in best).",
+        "If all goes well you should see this screen.",
+        "When you do press \u21b5 Enter.",
+        "Make sure though to boot from your hard drive from the boot menu (sometimes the F12 key) and not the disk (or else it will repeat the installation).",
+        "Setting Your Preferences Wait for this screen to pop up.",
+        "Click Next.",
+        "Choose the type of setup you want and click Next.",
+        "It's a matter of personal preference but for this tutorial, we will be using the 'Typical' setup which is a Microsoft default setup.",
+        "Type your name and/or your organisation and click Next.",
+        "Type in a name for your computer (can be anything) and click Next.",
+        "Add a password if desired.",
+        "It's a good idea (but not essential) to come up with a password to your computer to prevent unauthorized access.",
+        "Consider adding an emergency repair disk which can be used to repair Windows NT 4.0 should something bad occur.",
+        "For this tutorial, we won't be making one.",
+        "Choose your components preference.",
+        "Again personal preference but for this tutorial we will 'Install the most common components'.",
+        "Click Next.",
+        "Pick your network preferences.",
+        "Personal preference yet again.",
+        "If you want to be able to connect to the internet (and you have the required equipment) choose 'This computer will participate on a network.'",
+        "Otherwise choose 'Do not connect this computer to a network at this time.'",
+        "You can connect to a network at anytime so for this tutorial, we will pick the latter option.",
+        "Click Finish.",
+        "Checking Your Installation Make sure your date, time and time zone is correct and then click close.",
+        "Ensure your display settings are correct and click OK.",
+        "Unless there is a real issue with the display, leave these settings alone.",
+        "Remove all floppy disks and CDs and then click restart computer.",
+        "Press Ctrl+Alt+Delete keys in order.",
+        "Type in your password and press OK.",
+        "The Administrator is the main account on the computer and can change critical settings of the computer.",
+        "You can always create another account if you want to keep the Administrator account separate.",
+        "Once you are presented with this screen, Windows NT 4.0 has been fully installed!"
+    ]
+}

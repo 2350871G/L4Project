@@ -1,0 +1,77 @@
+{
+    "title": "How to Use a Graphic Flight Computer to Find Ground Speed and True Heading",
+    "url": "https://www.wikihow.com/Use-a-Graphic-Flight-Computer-to-Find-Ground-Speed-and-True-Heading",
+    "category_hierarchy": [
+        "Cars & Other Vehicles",
+        "Aviation"
+    ],
+    "steps": [
+        {
+            "headline": "Align the wind direction under the \"True Index\" mark by rotating the azimuth plate.",
+            "description": "If the winds are from 330\u00b0 at 20 knots, align 330 under the true index."
+        },
+        {
+            "headline": "Align the grid so the center grommet is over one of the heavy lines.",
+            "description": "It doesn't matter which line is used at this point."
+        },
+        {
+            "headline": "Mark the wind speed by counting up from the center grommet.",
+            "description": "Each light line represents two knots. Mark a dot or an X in pencil on the 20 knot line (two heavy lines above the center grommet). This is the wind dot."
+        },
+        {
+            "headline": "Rotate the azimuth plate until your desired course (true course) is aligned under the True Index mark.",
+            "description": "Use 175\u00b0 for this example."
+        },
+        {
+            "headline": "Slide the grid until the wind dot is over your true airspeed.",
+            "description": "In this example, the true airspeed is 120 knots."
+        },
+        {
+            "headline": "Read ground speed under the grommet.",
+            "description": "Ground speed is the speed of the aircraft over the ground and in this example is 138 knots."
+        },
+        {
+            "headline": "Find the wind correction angle (WCA) by checking the number of degrees to the right or left between the center grommet and the wind dot.",
+            "description": "If the wind dot is to the right, the WCA is positive. If it is to the left, the WCA is negative. In the example, the wind correction angle is +4\u00b0."
+        },
+        {
+            "headline": "Add or subtract the wind correction angle from the true course to find true heading.",
+            "description": "Adding 4\u00b0 to 175 equals 179\u00b0 for the true heading."
+        },
+        {
+            "headline": "Add (or subtract) magnetic variation and compass deviation to find the compass heading to be flown.",
+            "description": "The variation is the difference between true north and magnetic north and can be found on a VFR or IFR chart. Easterly variations are subtracted and westerly variations are added. Compass deviation is printed on a placard under the magnetic compass in the airplane."
+        }
+    ],
+    "tyn": [
+        "E-6B graphic flight computer.",
+        "Pencil."
+    ],
+    "text": " Align the wind direction under the \"True Index\" mark by rotating the azimuth plate. If the winds are from 330\u00b0 at 20 knots, align 330 under the true index. Align the grid so the center grommet is over one of the heavy lines. It doesn't matter which line is used at this point. Mark the wind speed by counting up from the center grommet. Each light line represents two knots. Mark a dot or an X in pencil on the 20 knot line (two heavy lines above the center grommet). This is the wind dot. Rotate the azimuth plate until your desired course (true course) is aligned under the True Index mark. Use 175\u00b0 for this example. Slide the grid until the wind dot is over your true airspeed. In this example, the true airspeed is 120 knots. Read ground speed under the grommet. Ground speed is the speed of the aircraft over the ground and in this example is 138 knots. Find the wind correction angle (WCA) by checking the number of degrees to the right or left between the center grommet and the wind dot. If the wind dot is to the right, the WCA is positive. If it is to the left, the WCA is negative. In the example, the wind correction angle is +4\u00b0. Add or subtract the wind correction angle from the true course to find true heading. Adding 4\u00b0 to 175 equals 179\u00b0 for the true heading. Add (or subtract) magnetic variation and compass deviation to find the compass heading to be flown. The variation is the difference between true north and magnetic north and can be found on a VFR or IFR chart. Easterly variations are subtracted and westerly variations are added. Compass deviation is printed on a placard under the magnetic compass in the airplane.",
+    "sentences": [
+        " Align the wind direction under the \"True Index\" mark by rotating the azimuth plate.",
+        "If the winds are from 330\u00b0 at 20 knots, align 330 under the true index.",
+        "Align the grid so the center grommet is over one of the heavy lines.",
+        "It doesn't matter which line is used at this point.",
+        "Mark the wind speed by counting up from the center grommet.",
+        "Each light line represents two knots.",
+        "Mark a dot or an X in pencil on the 20 knot line (two heavy lines above the center grommet).",
+        "This is the wind dot.",
+        "Rotate the azimuth plate until your desired course (true course) is aligned under the True Index mark.",
+        "Use 175\u00b0 for this example.",
+        "Slide the grid until the wind dot is over your true airspeed.",
+        "In this example, the true airspeed is 120 knots.",
+        "Read ground speed under the grommet.",
+        "Ground speed is the speed of the aircraft over the ground and in this example is 138 knots.",
+        "Find the wind correction angle (WCA) by checking the number of degrees to the right or left between the center grommet and the wind dot.",
+        "If the wind dot is to the right, the WCA is positive.",
+        "If it is to the left, the WCA is negative.",
+        "In the example, the wind correction angle is +4\u00b0.",
+        "Add or subtract the wind correction angle from the true course to find true heading.",
+        "Adding 4\u00b0 to 175 equals 179\u00b0 for the true heading.",
+        "Add (or subtract) magnetic variation and compass deviation to find the compass heading to be flown.",
+        "The variation is the difference between true north and magnetic north and can be found on a VFR or IFR chart.",
+        "Easterly variations are subtracted and westerly variations are added.",
+        "Compass deviation is printed on a placard under the magnetic compass in the airplane."
+    ]
+}

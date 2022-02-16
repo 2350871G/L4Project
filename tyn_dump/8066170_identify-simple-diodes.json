@@ -1,0 +1,74 @@
+{
+    "title": "How to Identify Simple Diodes",
+    "url": "https://www.wikihow.com/Identify-Simple-Diodes",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Home Maintenance",
+        "Electrical Maintenance",
+        "Electrical and Electronic Circuits"
+    ],
+    "methods": [
+        {
+            "name": "By Shape",
+            "steps": [
+                {
+                    "headline": "Look for legs on the side:",
+                    "description": " 1. Standard Signal - This is the regular forward-biased diode. 2. Zener - Operated in reverse-biased to hold a constant voltage\n\n3. Small Signal - Used for applications with a much smaller current but with much more accuracy"
+                },
+                {
+                    "headline": "Look for both legs under:",
+                    "description": " 1. Light Emitting Diode - Emits a colored light based on the materials used internally\n\n2. Photodiode - Captures photons to generate current\n\n3. Infra-Red - Emits light at the infra-red spectrum\n\n4. Varactor - A reverse-biased diode used as a capacitor\n\n5. Schottky - Used for precision and when voltage needs to be conserved"
+                },
+                {
+                    "headline": "Look for pins.",
+                    "description": "These will be chips in the form of a SMD (surface mounted device). To identify these you will need to look at the number."
+                }
+            ]
+        },
+        {
+            "name": "By Number",
+            "steps": [
+                {
+                    "headline": "Rotate or read the number off the surface of the diode.",
+                    "description": ""
+                },
+                {
+                    "headline": "Go to alldatasheet.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type the number in the search bar.",
+                    "description": ""
+                },
+                {
+                    "headline": "Determine the type from the results and even get the datasheet while doing it.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Diode",
+        "Good light source (for seeing the numbers)",
+        "Device with internet connection"
+    ],
+    "text": " By Shape Look for legs on the side:  1. Standard Signal - This is the regular forward-biased diode. 2. Zener - Operated in reverse-biased to hold a constant voltage\n\n3. Small Signal - Used for applications with a much smaller current but with much more accuracy Look for both legs under:  1. Light Emitting Diode - Emits a colored light based on the materials used internally\n\n2. Photodiode - Captures photons to generate current\n\n3. Infra-Red - Emits light at the infra-red spectrum\n\n4. Varactor - A reverse-biased diode used as a capacitor\n\n5. Schottky - Used for precision and when voltage needs to be conserved Look for pins. These will be chips in the form of a SMD (surface mounted device). To identify these you will need to look at the number. By Number Rotate or read the number off the surface of the diode.  Go to alldatasheet.  Type the number in the search bar.  Determine the type from the results and even get the datasheet while doing it. ",
+    "sentences": [
+        " By Shape Look for legs on the side:  1.",
+        "Standard Signal - This is the regular forward-biased diode.",
+        "2.",
+        "Zener - Operated in reverse-biased to hold a constant voltage\n\n3.",
+        "Small Signal - Used for applications with a much smaller current but with much more accuracy Look for both legs under:  1.",
+        "Light Emitting Diode - Emits a colored light based on the materials used internally\n\n2.",
+        "Photodiode - Captures photons to generate current\n\n3.",
+        "Infra-Red - Emits light at the infra-red spectrum\n\n4.",
+        "Varactor - A reverse-biased diode used as a capacitor\n\n5.",
+        "Schottky - Used for precision and when voltage needs to be conserved Look for pins.",
+        "These will be chips in the form of a SMD (surface mounted device).",
+        "To identify these you will need to look at the number.",
+        "By Number Rotate or read the number off the surface of the diode.",
+        "Go to alldatasheet.",
+        "Type the number in the search bar.",
+        "Determine the type from the results and even get the datasheet while doing it."
+    ]
+}

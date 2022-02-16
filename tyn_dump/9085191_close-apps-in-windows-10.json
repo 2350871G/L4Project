@@ -1,0 +1,156 @@
+{
+    "title": "How to Close Apps in Windows 10",
+    "url": "https://www.wikihow.com/Close-Apps-in-Windows-10",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Windows 10"
+    ],
+    "methods": [
+        {
+            "name": "Closing Apps in Regular (Desktop) Mode",
+            "steps": [
+                {
+                    "headline": "Use the \u2715 button window control.",
+                    "description": "Move your mouse to the top-right. Be sure to hover over the \u2715 button. Watch for it to turn red. It should happen instantaneously. Click it. The app will close."
+                },
+                {
+                    "headline": "Right-click the taskbar icon.",
+                    "description": "Right-clicking the taskbar brings up a list of options, including the ability to close the window(s). Locate the icon of the app you wish to close. Right-click the app icon. Click \u2715 Close window. It's the option closest to the icon. Note: The option will be listed as \u2715 Close all windows if the app has multiple windows open and you've configured the icons to combine. You can configure this setting in \"Settings > Personalization > Taskbar > \"Combine taskbar buttons\" dropdown\"."
+                },
+                {
+                    "headline": "Use the Task View window.",
+                    "description": "Click the taskbar task view {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/8b\\/Taskview.png\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8b\\/Taskview.png\\/41px-Taskview.png\",\"smallWidth\":460,\"smallHeight\":337,\"bigWidth\":\"41\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Task view icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} icon. It's to the right of the search bar/icon. Alternatively, press \u229e Win+Tab \u21b9 together. Locate the app you wish to close. Move your pointer to the top-right of the app preview, parallel to the title. Click the \u2715 button. It'll turn red when highlighted."
+                },
+                {
+                    "headline": "End the task via Task Manager.",
+                    "description": "Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x. Open Task Manager. Right-click an empty spot on the taskbar and click Task Manager. Ensure you're in the advanced view. If so, you'll see a collection of tabs towards the top. If you find yourself in the simplified view, click \"More details\" at the bottom. Ensure you're on the Processes tab. Click an app from below the \"Apps\" header. Click End task from the bottom-right. The app should close within a few seconds."
+                },
+                {
+                    "headline": "Use the title bar context menu.",
+                    "description": "Right-click the title bar of the app. Choose \u00d7 Close. It's at the bottom of the menu."
+                },
+                {
+                    "headline": "Use the Alt+F4 keys.",
+                    "description": "Pressing these two keys will close the currently selected app window. Unselected windows won't be affected."
+                }
+            ]
+        },
+        {
+            "name": "Closing Apps in Tablet Mode",
+            "steps": [
+                {
+                    "headline": "Use the \u2715 button window control.",
+                    "description": "Tap the red \u2715 button at the top-right of your screen. Note: The window control for Windows Store apps is hidden until provoked (only by a mouse). Tap it. The app will close and the full screen Start menu will open."
+                },
+                {
+                    "headline": "Pull the app's title bar to the bottom of the screen.",
+                    "description": "This was introduced as the way to close Windows 8 Metro apps. It's slightly different in Windows 10\u2014there is no flip animation. Just pull the title bar to the bottom of the screen and release."
+                },
+                {
+                    "headline": "Use the Task View window.",
+                    "description": "Click the taskbar task view {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/8b\\/Taskview.png\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8b\\/Taskview.png\\/41px-Taskview.png\",\"smallWidth\":460,\"smallHeight\":337,\"bigWidth\":\"41\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Task view icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} icon. It's to the right of the search bar/icon. Alternatively, press \u229e Win+Tab \u21b9 together. Locate the app you wish to close. From here, you can drag it to the bottom or continue reading. Press and hold on the app preview. Choose Close."
+                },
+                {
+                    "headline": "Use Task Manager.",
+                    "description": "Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x. Press the Cortana/search icon on the taskbar. Search for task manager. Choose the matching result. Task Manager: Alternatively, right-click the listing and click End task from the context menu. Tap End task from the bottom-right. The app should close within a few seconds."
+                },
+                {
+                    "headline": "Use the title bar context menu.",
+                    "description": "Hold down and release the title bar of the app. Choose \u00d7 Close. It's at the bottom of the menu."
+                },
+                {
+                    "headline": "Use the taskbar app icon context menu.",
+                    "description": "Press and hold the taskbar. Ensure there is a check mark next to Show app icons. If not, tap it. Locate the icon of the app you wish to close. Hold down and release the app icon. Tap \u2715 Close window. It's the option closest to the icon. Note: The option will be listed as \u2715 Close all windows if the app has multiple windows open and you've configured the icons to combine. You can configure this setting in \"Settings > Personalization > Taskbar > \"Combine taskbar buttons\" dropdown\"."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Device running Windows 10"
+    ],
+    "text": " Closing Apps in Regular (Desktop) Mode Use the \u2715 button window control. Move your mouse to the top-right. Be sure to hover over the \u2715 button. Watch for it to turn red. It should happen instantaneously. Click it. The app will close. Right-click the taskbar icon. Right-clicking the taskbar brings up a list of options, including the ability to close the window(s). Locate the icon of the app you wish to close. Right-click the app icon. Click \u2715 Close window. It's the option closest to the icon. Note: The option will be listed as \u2715 Close all windows if the app has multiple windows open and you've configured the icons to combine. You can configure this setting in \"Settings > Personalization > Taskbar > \"Combine taskbar buttons\" dropdown\". Use the Task View window. Click the taskbar task view {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/8b\\/Taskview.png\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8b\\/Taskview.png\\/41px-Taskview.png\",\"smallWidth\":460,\"smallHeight\":337,\"bigWidth\":\"41\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Task view icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} icon. It's to the right of the search bar/icon. Alternatively, press \u229e Win+Tab \u21b9 together. Locate the app you wish to close. Move your pointer to the top-right of the app preview, parallel to the title. Click the \u2715 button. It'll turn red when highlighted. End the task via Task Manager. Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x. Open Task Manager. Right-click an empty spot on the taskbar and click Task Manager. Ensure you're in the advanced view. If so, you'll see a collection of tabs towards the top. If you find yourself in the simplified view, click \"More details\" at the bottom. Ensure you're on the Processes tab. Click an app from below the \"Apps\" header. Click End task from the bottom-right. The app should close within a few seconds. Use the title bar context menu. Right-click the title bar of the app. Choose \u00d7 Close. It's at the bottom of the menu. Use the Alt+F4 keys. Pressing these two keys will close the currently selected app window. Unselected windows won't be affected. Closing Apps in Tablet Mode Use the \u2715 button window control. Tap the red \u2715 button at the top-right of your screen. Note: The window control for Windows Store apps is hidden until provoked (only by a mouse). Tap it. The app will close and the full screen Start menu will open. Pull the app's title bar to the bottom of the screen. This was introduced as the way to close Windows 8 Metro apps. It's slightly different in Windows 10\u2014there is no flip animation. Just pull the title bar to the bottom of the screen and release. Use the Task View window. Click the taskbar task view {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/8b\\/Taskview.png\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8b\\/Taskview.png\\/41px-Taskview.png\",\"smallWidth\":460,\"smallHeight\":337,\"bigWidth\":\"41\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Task view icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} icon. It's to the right of the search bar/icon. Alternatively, press \u229e Win+Tab \u21b9 together. Locate the app you wish to close. From here, you can drag it to the bottom or continue reading. Press and hold on the app preview. Choose Close. Use Task Manager. Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x. Press the Cortana/search icon on the taskbar. Search for task manager. Choose the matching result. Task Manager: Alternatively, right-click the listing and click End task from the context menu. Tap End task from the bottom-right. The app should close within a few seconds. Use the title bar context menu. Hold down and release the title bar of the app. Choose \u00d7 Close. It's at the bottom of the menu. Use the taskbar app icon context menu. Press and hold the taskbar. Ensure there is a check mark next to Show app icons. If not, tap it. Locate the icon of the app you wish to close. Hold down and release the app icon. Tap \u2715 Close window. It's the option closest to the icon. Note: The option will be listed as \u2715 Close all windows if the app has multiple windows open and you've configured the icons to combine. You can configure this setting in \"Settings > Personalization > Taskbar > \"Combine taskbar buttons\" dropdown\".",
+    "sentences": [
+        " Closing Apps in Regular (Desktop) Mode Use the \u2715 button window control.",
+        "Move your mouse to the top-right.",
+        "Be sure to hover over the \u2715 button.",
+        "Watch for it to turn red.",
+        "It should happen instantaneously.",
+        "Click it.",
+        "The app will close.",
+        "Right-click the taskbar icon.",
+        "Right-clicking the taskbar brings up a list of options, including the ability to close the window(s).",
+        "Locate the icon of the app you wish to close.",
+        "Right-click the app icon.",
+        "Click \u2715 Close window.",
+        "It's the option closest to the icon.",
+        "Note: The option will be listed as \u2715 Close all windows if the app has multiple windows open and you've configured the icons to combine.",
+        "You can configure this setting in \"Settings > Personalization > Taskbar > \"Combine taskbar buttons\" dropdown\".",
+        "Use the Task View window.",
+        "Click the taskbar task view {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/8b\\/Taskview.png\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8b\\/Taskview.png\\/41px-Taskview.png\",\"smallWidth\":460,\"smallHeight\":337,\"bigWidth\":\"41\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Task view icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} icon.",
+        "It's to the right of the search bar/icon.",
+        "Alternatively, press \u229e Win+Tab \u21b9 together.",
+        "Locate the app you wish to close.",
+        "Move your pointer to the top-right of the app preview, parallel to the title.",
+        "Click the \u2715 button.",
+        "It'll turn red when highlighted.",
+        "End the task via Task Manager.",
+        "Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x.",
+        "Open Task Manager.",
+        "Right-click an empty spot on the taskbar and click Task Manager.",
+        "Ensure you're in the advanced view.",
+        "If so, you'll see a collection of tabs towards the top.",
+        "If you find yourself in the simplified view, click \"More details\" at the bottom.",
+        "Ensure you're on the Processes tab.",
+        "Click an app from below the \"Apps\" header.",
+        "Click End task from the bottom-right.",
+        "The app should close within a few seconds.",
+        "Use the title bar context menu.",
+        "Right-click the title bar of the app.",
+        "Choose \u00d7 Close.",
+        "It's at the bottom of the menu.",
+        "Use the Alt+F4 keys.",
+        "Pressing these two keys will close the currently selected app window.",
+        "Unselected windows won't be affected.",
+        "Closing Apps in Tablet Mode Use the \u2715 button window control.",
+        "Tap the red \u2715 button at the top-right of your screen.",
+        "Note: The window control for Windows Store apps is hidden until provoked (only by a mouse).",
+        "Tap it.",
+        "The app will close and the full screen Start menu will open.",
+        "Pull the app's title bar to the bottom of the screen.",
+        "This was introduced as the way to close Windows 8 Metro apps.",
+        "It's slightly different in Windows 10\u2014there is no flip animation.",
+        "Just pull the title bar to the bottom of the screen and release.",
+        "Use the Task View window.",
+        "Click the taskbar task view {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/8b\\/Taskview.png\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8b\\/Taskview.png\\/41px-Taskview.png\",\"smallWidth\":460,\"smallHeight\":337,\"bigWidth\":\"41\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Task view icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} icon.",
+        "It's to the right of the search bar/icon.",
+        "Alternatively, press \u229e Win+Tab \u21b9 together.",
+        "Locate the app you wish to close.",
+        "From here, you can drag it to the bottom or continue reading.",
+        "Press and hold on the app preview.",
+        "Choose Close.",
+        "Use Task Manager.",
+        "Ending tasks in Task Manager has been commonly used to close frozen apps since Windows 9x.",
+        "Press the Cortana/search icon on the taskbar.",
+        "Search for task manager.",
+        "Choose the matching result.",
+        "Task Manager: Alternatively, right-click the listing and click End task from the context menu.",
+        "Tap End task from the bottom-right.",
+        "The app should close within a few seconds.",
+        "Use the title bar context menu.",
+        "Hold down and release the title bar of the app.",
+        "Choose \u00d7 Close.",
+        "It's at the bottom of the menu.",
+        "Use the taskbar app icon context menu.",
+        "Press and hold the taskbar.",
+        "Ensure there is a check mark next to Show app icons.",
+        "If not, tap it.",
+        "Locate the icon of the app you wish to close.",
+        "Hold down and release the app icon.",
+        "Tap \u2715 Close window.",
+        "It's the option closest to the icon.",
+        "Note: The option will be listed as \u2715 Close all windows if the app has multiple windows open and you've configured the icons to combine.",
+        "You can configure this setting in \"Settings > Personalization > Taskbar > \"Combine taskbar buttons\" dropdown\"."
+    ]
+}

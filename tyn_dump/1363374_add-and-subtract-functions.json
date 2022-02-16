@@ -1,0 +1,118 @@
+{
+    "title": "How to Add and Subtract Functions",
+    "url": "https://www.wikihow.com/Add-and-Subtract-Functions",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Algebra"
+    ],
+    "methods": [
+        {
+            "name": "Adding or Subtracting Functions without an Input",
+            "steps": [
+                {
+                    "headline": "Write out the functions that are being added or subtracted.",
+                    "description": "Functions are usually stated as f(x) = relationship, where x is the variable input, and the relationship is stated as a formula for the variable x. Since you are adding or subtracting more than one function, they will be labeled differently, most likely f(x){\\displaystyle f(x)} and g(x){\\displaystyle g(x)}. For example, you might be asked to add the function f(x)=3x+2{\\displaystyle f(x)=3x+2}, and the function g(x)=4\u22125x{\\displaystyle g(x)=4-5x}. If you are being asked to add, you will often be asked to find (f+g)x{\\displaystyle (f+g)x}. If you are being asked to subtract, you will often be asked to find (f\u2212g)x{\\displaystyle (f-g)x}."
+                },
+                {
+                    "headline": "Reorder the functions by degree of terms.",
+                    "description": "This means ordering the formula by exponents, beginning with the largest exponent (x3,x2,x,{\\displaystyle x^{3},x^{2},x,} etc.). If there is no exponent, order the first-degree term first (x), followed the constants (numbers without variables). For example, the function g(x){\\displaystyle g(x)} would be reordered as \u22125x+4{\\displaystyle -5x+4}. The f(x) function is already ordered by degree of terms."
+                },
+                {
+                    "headline": "Create an addition or subtraction problem using the two formulas.",
+                    "description": "You can add/subtract horizontally or vertically, since you have ordered the functions by terms. For example, your function can be set up as (f+g)x=(3x+2)+(\u22125x+4){\\displaystyle (f+g)x=(3x+2)+(-5x+4)}, or it could be set up vertically, with like terms lined up:+3x+2\u22125x+4{\\displaystyle +{\\begin{matrix}3x&+&2\\\\-5x&+&4\\end{matrix}}}."
+                },
+                {
+                    "headline": "Add or subtract like terms.",
+                    "description": "It is helpful to add/subtract in order of the degree of terms, beginning with the highest exponent (if any). For example, for (f+g)x=(3x+2)+(\u22125x+4){\\displaystyle (f+g)x=(3x+2)+(-5x+4)}, you would first add the first-degree terms:3x+(\u22125x)=\u22122x{\\displaystyle 3x+(-5x)=-2x}.Second, you would add the constants:2+4=6{\\displaystyle 2+4=6}.So (f+g)x=\u22122x+6{\\displaystyle (f+g)x=-2x+6}."
+                },
+                {
+                    "headline": "Follow the same process for adding or subtracting more than two functions.",
+                    "description": "Adding or subtracting functions is always just a matter of adding/subtracting the like terms in the relationship formulas."
+                }
+            ]
+        },
+        {
+            "name": "Adding or Subtracting Functions with the Same Input",
+            "steps": [
+                {
+                    "headline": "Add or subtract the functions, as described in Method 1.",
+                    "description": "This will give you the formula relationship for your variable input (x). For example, you might find that (f+g)x=\u22122x+6{\\displaystyle (f+g)x=-2x+6}."
+                },
+                {
+                    "headline": "Plug in the variable.",
+                    "description": "Remember, this method only works if you are adding/subtracting functions with the same input variable. For example, you might be asked to find (f+g)(2){\\displaystyle (f+g)(2)}. Your added function would then look like (f+g)(2)=\u22122(2)+6{\\displaystyle (f+g)(2)=-2(2)+6}."
+                },
+                {
+                    "headline": "Complete the calculation.",
+                    "description": "Remember to use the order of operations. For example:(f+g)(2)=\u22122(2)+6{\\displaystyle (f+g)(2)=-2(2)+6}(f+g)(2)=\u22124+6{\\displaystyle (f+g)(2)=-4+6}(f+g)(2)=2{\\displaystyle (f+g)(2)=2}."
+                }
+            ]
+        },
+        {
+            "name": "Adding or Subtracting Functions with Different Inputs",
+            "steps": [
+                {
+                    "headline": "Plug the appropriate variable into the first function and solve.",
+                    "description": "Since you are working with two different variables (inputs), you cannot add the formulas and plug in one input, you have to complete one function at a time. For example, if you are given f(x)=3x+2{\\displaystyle f(x)=3x+2} and g(x)=4\u22125x{\\displaystyle g(x)=4-5x}, and are asked to find f(2)+g(3){\\displaystyle f(2)+g(3)}, you would start by finding f(2){\\displaystyle f(2)}. When you plug in the 2, you get:f(2)=3(2)+2{\\displaystyle f(2)=3(2)+2}f(2)=6+2{\\displaystyle f(2)=6+2}f(2)=8{\\displaystyle f(2)=8}."
+                },
+                {
+                    "headline": "Plug the appropriate variable into the second function and solve.",
+                    "description": "Make sure you are plugging in the correct variable to the correct function. For example, if g(x)=4\u22125x{\\displaystyle g(x)=4-5x}, then: g(3)=4\u22125(3){\\displaystyle g(3)=4-5(3)}g(3)=4\u221215{\\displaystyle g(3)=4-15}g(3)=\u221211{\\displaystyle g(3)=-11}"
+                },
+                {
+                    "headline": "Add or subtract the two outputs.",
+                    "description": "The result will be the sum or difference of the two functions, given the provided variables. For example, if f(2)=8{\\displaystyle f(2)=8} and g(3)=\u221211{\\displaystyle g(3)=-11}, then: f(2)+g(3)=8+(\u221211){\\displaystyle f(2)+g(3)=8+(-11)}f(2)+g(3)=\u22123{\\displaystyle f(2)+g(3)=-3}."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil",
+        "Paper",
+        "Calculator (optional)"
+    ],
+    "text": " Adding or Subtracting Functions without an Input Write out the functions that are being added or subtracted. Functions are usually stated as f(x) = relationship, where x is the variable input, and the relationship is stated as a formula for the variable x. Since you are adding or subtracting more than one function, they will be labeled differently, most likely f(x){\\displaystyle f(x)} and g(x){\\displaystyle g(x)}. For example, you might be asked to add the function f(x)=3x+2{\\displaystyle f(x)=3x+2}, and the function g(x)=4\u22125x{\\displaystyle g(x)=4-5x}. If you are being asked to add, you will often be asked to find (f+g)x{\\displaystyle (f+g)x}. If you are being asked to subtract, you will often be asked to find (f\u2212g)x{\\displaystyle (f-g)x}. Reorder the functions by degree of terms. This means ordering the formula by exponents, beginning with the largest exponent (x3,x2,x,{\\displaystyle x^{3},x^{2},x,} etc.). If there is no exponent, order the first-degree term first (x), followed the constants (numbers without variables). For example, the function g(x){\\displaystyle g(x)} would be reordered as \u22125x+4{\\displaystyle -5x+4}. The f(x) function is already ordered by degree of terms. Create an addition or subtraction problem using the two formulas. You can add/subtract horizontally or vertically, since you have ordered the functions by terms. For example, your function can be set up as (f+g)x=(3x+2)+(\u22125x+4){\\displaystyle (f+g)x=(3x+2)+(-5x+4)}, or it could be set up vertically, with like terms lined up:+3x+2\u22125x+4{\\displaystyle +{\\begin{matrix}3x&+&2\\\\-5x&+&4\\end{matrix}}}. Add or subtract like terms. It is helpful to add/subtract in order of the degree of terms, beginning with the highest exponent (if any). For example, for (f+g)x=(3x+2)+(\u22125x+4){\\displaystyle (f+g)x=(3x+2)+(-5x+4)}, you would first add the first-degree terms:3x+(\u22125x)=\u22122x{\\displaystyle 3x+(-5x)=-2x}.Second, you would add the constants:2+4=6{\\displaystyle 2+4=6}.So (f+g)x=\u22122x+6{\\displaystyle (f+g)x=-2x+6}. Follow the same process for adding or subtracting more than two functions. Adding or subtracting functions is always just a matter of adding/subtracting the like terms in the relationship formulas. Adding or Subtracting Functions with the Same Input Add or subtract the functions, as described in Method 1. This will give you the formula relationship for your variable input (x). For example, you might find that (f+g)x=\u22122x+6{\\displaystyle (f+g)x=-2x+6}. Plug in the variable. Remember, this method only works if you are adding/subtracting functions with the same input variable. For example, you might be asked to find (f+g)(2){\\displaystyle (f+g)(2)}. Your added function would then look like (f+g)(2)=\u22122(2)+6{\\displaystyle (f+g)(2)=-2(2)+6}. Complete the calculation. Remember to use the order of operations. For example:(f+g)(2)=\u22122(2)+6{\\displaystyle (f+g)(2)=-2(2)+6}(f+g)(2)=\u22124+6{\\displaystyle (f+g)(2)=-4+6}(f+g)(2)=2{\\displaystyle (f+g)(2)=2}. Adding or Subtracting Functions with Different Inputs Plug the appropriate variable into the first function and solve. Since you are working with two different variables (inputs), you cannot add the formulas and plug in one input, you have to complete one function at a time. For example, if you are given f(x)=3x+2{\\displaystyle f(x)=3x+2} and g(x)=4\u22125x{\\displaystyle g(x)=4-5x}, and are asked to find f(2)+g(3){\\displaystyle f(2)+g(3)}, you would start by finding f(2){\\displaystyle f(2)}. When you plug in the 2, you get:f(2)=3(2)+2{\\displaystyle f(2)=3(2)+2}f(2)=6+2{\\displaystyle f(2)=6+2}f(2)=8{\\displaystyle f(2)=8}. Plug the appropriate variable into the second function and solve. Make sure you are plugging in the correct variable to the correct function. For example, if g(x)=4\u22125x{\\displaystyle g(x)=4-5x}, then: g(3)=4\u22125(3){\\displaystyle g(3)=4-5(3)}g(3)=4\u221215{\\displaystyle g(3)=4-15}g(3)=\u221211{\\displaystyle g(3)=-11} Add or subtract the two outputs. The result will be the sum or difference of the two functions, given the provided variables. For example, if f(2)=8{\\displaystyle f(2)=8} and g(3)=\u221211{\\displaystyle g(3)=-11}, then: f(2)+g(3)=8+(\u221211){\\displaystyle f(2)+g(3)=8+(-11)}f(2)+g(3)=\u22123{\\displaystyle f(2)+g(3)=-3}.",
+    "sentences": [
+        " Adding or Subtracting Functions without an Input Write out the functions that are being added or subtracted.",
+        "Functions are usually stated as f(x) = relationship, where x is the variable input, and the relationship is stated as a formula for the variable x.",
+        "Since you are adding or subtracting more than one function, they will be labeled differently, most likely f(x){\\displaystyle f(x)} and g(x){\\displaystyle g(x)}.",
+        "For example, you might be asked to add the function f(x)=3x+2{\\displaystyle f(x)=3x+2}, and the function g(x)=4\u22125x{\\displaystyle g(x)=4-5x}.",
+        "If you are being asked to add, you will often be asked to find (f+g)x{\\displaystyle (f+g)x}.",
+        "If you are being asked to subtract, you will often be asked to find (f\u2212g)x{\\displaystyle (f-g)x}.",
+        "Reorder the functions by degree of terms.",
+        "This means ordering the formula by exponents, beginning with the largest exponent (x3,x2,x,{\\displaystyle x^{3},x^{2},x,} etc.).",
+        "If there is no exponent, order the first-degree term first (x), followed the constants (numbers without variables).",
+        "For example, the function g(x){\\displaystyle g(x)} would be reordered as \u22125x+4{\\displaystyle -5x+4}.",
+        "The f(x) function is already ordered by degree of terms.",
+        "Create an addition or subtraction problem using the two formulas.",
+        "You can add/subtract horizontally or vertically, since you have ordered the functions by terms.",
+        "For example, your function can be set up as (f+g)x=(3x+2)+(\u22125x+4){\\displaystyle (f+g)x=(3x+2)+(-5x+4)}, or it could be set up vertically, with like terms lined up:+3x+2\u22125x+4{\\displaystyle +{\\begin{matrix}3x&+&2\\\\-5x&+&4\\end{matrix}}}.",
+        "Add or subtract like terms.",
+        "It is helpful to add/subtract in order of the degree of terms, beginning with the highest exponent (if any).",
+        "For example, for (f+g)x=(3x+2)+(\u22125x+4){\\displaystyle (f+g)x=(3x+2)+(-5x+4)}, you would first add the first-degree terms:3x+(\u22125x)=\u22122x{\\displaystyle 3x+(-5x)=-2x}.Second, you would add the constants:2+4=6{\\displaystyle 2+4=6}.So (f+g)x=\u22122x+6{\\displaystyle (f+g)x=-2x+6}.",
+        "Follow the same process for adding or subtracting more than two functions.",
+        "Adding or subtracting functions is always just a matter of adding/subtracting the like terms in the relationship formulas.",
+        "Adding or Subtracting Functions with the Same Input Add or subtract the functions, as described in Method 1.",
+        "This will give you the formula relationship for your variable input (x).",
+        "For example, you might find that (f+g)x=\u22122x+6{\\displaystyle (f+g)x=-2x+6}.",
+        "Plug in the variable.",
+        "Remember, this method only works if you are adding/subtracting functions with the same input variable.",
+        "For example, you might be asked to find (f+g)(2){\\displaystyle (f+g)(2)}.",
+        "Your added function would then look like (f+g)(2)=\u22122(2)+6{\\displaystyle (f+g)(2)=-2(2)+6}.",
+        "Complete the calculation.",
+        "Remember to use the order of operations.",
+        "For example:(f+g)(2)=\u22122(2)+6{\\displaystyle (f+g)(2)=-2(2)+6}(f+g)(2)=\u22124+6{\\displaystyle (f+g)(2)=-4+6}(f+g)(2)=2{\\displaystyle (f+g)(2)=2}.",
+        "Adding or Subtracting Functions with Different Inputs Plug the appropriate variable into the first function and solve.",
+        "Since you are working with two different variables (inputs), you cannot add the formulas and plug in one input, you have to complete one function at a time.",
+        "For example, if you are given f(x)=3x+2{\\displaystyle f(x)=3x+2} and g(x)=4\u22125x{\\displaystyle g(x)=4-5x}, and are asked to find f(2)+g(3){\\displaystyle f(2)+g(3)}, you would start by finding f(2){\\displaystyle f(2)}.",
+        "When you plug in the 2, you get:f(2)=3(2)+2{\\displaystyle f(2)=3(2)+2}f(2)=6+2{\\displaystyle f(2)=6+2}f(2)=8{\\displaystyle f(2)=8}.",
+        "Plug the appropriate variable into the second function and solve.",
+        "Make sure you are plugging in the correct variable to the correct function.",
+        "For example, if g(x)=4\u22125x{\\displaystyle g(x)=4-5x}, then: g(3)=4\u22125(3){\\displaystyle g(3)=4-5(3)}g(3)=4\u221215{\\displaystyle g(3)=4-15}g(3)=\u221211{\\displaystyle g(3)=-11} Add or subtract the two outputs.",
+        "The result will be the sum or difference of the two functions, given the provided variables.",
+        "For example, if f(2)=8{\\displaystyle f(2)=8} and g(3)=\u221211{\\displaystyle g(3)=-11}, then: f(2)+g(3)=8+(\u221211){\\displaystyle f(2)+g(3)=8+(-11)}f(2)+g(3)=\u22123{\\displaystyle f(2)+g(3)=-3}."
+    ]
+}

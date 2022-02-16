@@ -1,0 +1,101 @@
+{
+    "title": "How to Unlock Huawei E585 Mifi Router",
+    "url": "https://www.wikihow.com/Unlock-Huawei-E585-Mifi-Router",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking"
+    ],
+    "steps": [
+        {
+            "headline": "Install and setup",
+            "description": ""
+        },
+        {
+            "headline": "1.",
+            "description": "Get the necessary software (3 wireless Manager, PSAS Software, and MS Windows Notepad) you need."
+        },
+        {
+            "headline": "2.",
+            "description": "Then install the PSAS Software."
+        },
+        {
+            "headline": "3.",
+            "description": "After this, change the sim card inside your modem to a different network sim card)"
+        },
+        {
+            "headline": "4.",
+            "description": "Connect to the computer with USB cable and install the software that come with your Mi-Fi,then close down the Mi-Fi software."
+        },
+        {
+            "headline": "(make sure that you are not connected to the modem via wireless and the software that come with your Mi-Fi is not running, this step is only for installation of the Mi-Fi Drivers)",
+            "description": ""
+        },
+        {
+            "headline": "Get the unlock code",
+            "description": ""
+        },
+        {
+            "headline": "1.",
+            "description": "Switch On your E585 and wait for it to start up completely."
+        },
+        {
+            "headline": "2.",
+            "description": "Run PSAS."
+        },
+        {
+            "headline": "3.",
+            "description": "PSAS main page -> Hardware Forensics -> Use Mobile Port, then another PSAS program window appear."
+        },
+        {
+            "headline": "4.",
+            "description": "In the new window: SETUP -> Serial COM Port (3G Application Interface) -> baud speed, and that'\u0080\u0099s all you have to do for the setup menu tab."
+        },
+        {
+            "headline": "5.",
+            "description": "DIAG -> send -> Diag Functions box -> Read EFS -> Alternative Method -> max page -> type 250 (range from 200 to 600 depending on the lines), then click \u00e2\u0080\u009clets go\u00e2\u0080\u009d, this will ask you to save a file so just name it and save it onto desktop."
+        },
+        {
+            "headline": "6.",
+            "description": "Open the PSAS log file with Notepad and search for your code. Click Ctrl F to search \u00e2\u0080\u009cPST\u00e2\u0080\u009d (NB: See also below) this will send you to your unlock code which are the numbers after the word PST, if you look around you will also see your serial. number."
+        },
+        {
+            "headline": "Unlock E585 with code",
+            "description": ""
+        },
+        {
+            "headline": "Now connect your computer to your Mi-Fi wireless and try to open any page.",
+            "description": "This will redirect you to 192.168.1.1/simlock.asp, if not type \"http://192.168.1.1/simlock.asp\"\u0080\u009dinto your browser and when the page loads type the code that you got from notepad."
+        }
+    ],
+    "tyn": [
+        "3g wireless manager",
+        "PSAS software",
+        "Unlock discussion"
+    ],
+    "text": " Install and setup  1. Get the necessary software (3 wireless Manager, PSAS Software, and MS Windows Notepad) you need. 2. Then install the PSAS Software. 3. After this, change the sim card inside your modem to a different network sim card) 4. Connect to the computer with USB cable and install the software that come with your Mi-Fi,then close down the Mi-Fi software. (make sure that you are not connected to the modem via wireless and the software that come with your Mi-Fi is not running, this step is only for installation of the Mi-Fi Drivers)  Get the unlock code  1. Switch On your E585 and wait for it to start up completely. 2. Run PSAS. 3. PSAS main page -> Hardware Forensics -> Use Mobile Port, then another PSAS program window appear. 4. In the new window: SETUP -> Serial COM Port (3G Application Interface) -> baud speed, and that'\u0080\u0099s all you have to do for the setup menu tab. 5. DIAG -> send -> Diag Functions box -> Read EFS -> Alternative Method -> max page -> type 250 (range from 200 to 600 depending on the lines), then click \u00e2\u0080\u009clets go\u00e2\u0080\u009d, this will ask you to save a file so just name it and save it onto desktop. 6. Open the PSAS log file with Notepad and search for your code. Click Ctrl F to search \u00e2\u0080\u009cPST\u00e2\u0080\u009d (NB: See also below) this will send you to your unlock code which are the numbers after the word PST, if you look around you will also see your serial. number. Unlock E585 with code  Now connect your computer to your Mi-Fi wireless and try to open any page. This will redirect you to 192.168.1.1/simlock.asp, if not type \"http://192.168.1.1/simlock.asp\"\u0080\u009dinto your browser and when the page loads type the code that you got from notepad.",
+    "sentences": [
+        " Install and setup  1.",
+        "Get the necessary software (3 wireless Manager, PSAS Software, and MS Windows Notepad) you need.",
+        "2.",
+        "Then install the PSAS Software.",
+        "3.",
+        "After this, change the sim card inside your modem to a different network sim card) 4.",
+        "Connect to the computer with USB cable and install the software that come with your Mi-Fi,then close down the Mi-Fi software.",
+        "(make sure that you are not connected to the modem via wireless and the software that come with your Mi-Fi is not running, this step is only for installation of the Mi-Fi Drivers)  Get the unlock code  1.",
+        "Switch On your E585 and wait for it to start up completely.",
+        "2.",
+        "Run PSAS.",
+        "3.",
+        "PSAS main page -> Hardware Forensics -> Use Mobile Port, then another PSAS program window appear.",
+        "4.",
+        "In the new window: SETUP -> Serial COM Port (3G Application Interface) -> baud speed, and that'\u0080\u0099s all you have to do for the setup menu tab.",
+        "5.",
+        "DIAG -> send -> Diag Functions box -> Read EFS -> Alternative Method -> max page -> type 250 (range from 200 to 600 depending on the lines), then click \u00e2\u0080\u009clets go\u00e2\u0080\u009d, this will ask you to save a file so just name it and save it onto desktop.",
+        "6.",
+        "Open the PSAS log file with Notepad and search for your code.",
+        "Click Ctrl F to search \u00e2\u0080\u009cPST\u00e2\u0080\u009d (NB: See also below) this will send you to your unlock code which are the numbers after the word PST, if you look around you will also see your serial.",
+        "number.",
+        "Unlock E585 with code  Now connect your computer to your Mi-Fi wireless and try to open any page.",
+        "This will redirect you to 192.168.1.1/simlock.asp, if not type \"http://192.168.1.1/simlock.asp\"\u0080\u009dinto your browser and when the page loads type the code that you got from notepad."
+    ]
+}

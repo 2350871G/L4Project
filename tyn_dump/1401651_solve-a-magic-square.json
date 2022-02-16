@@ -1,0 +1,187 @@
+{
+    "title": "How to Solve a Magic Square",
+    "url": "https://www.wikihow.com/Solve-a-Magic-Square",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Games",
+        "Puzzles and Memory Games",
+        "Mathematical Puzzles"
+    ],
+    "methods": [
+        {
+            "name": "Solving an Odd-Numbered Magic Square",
+            "steps": [
+                {
+                    "headline": "Calculate the magic constant.",
+                    "description": "You can find this number by using a simple math formula, where n = the number of rows or columns in your magic square. So, for example, in a 3x3 magic square, n = 3. The magic constant = n[(n^2+1)/2]. So, in the example of the 3x3 square:\nsum = 3 * [(9 + 1) / 2]\nsum = 3 * (10 / 2)\nsum = 3 * (5)\nsum = 15\nThe magic constant for a 3x3 square is 15. All rows, columns, and diagonals must add up to this number."
+                },
+                {
+                    "headline": "Place the number 1 in the center box on the top row.",
+                    "description": "This is always where you begin when your magic square has odd-numbered sides, regardless of how large or small that number is. So, if you have a 3x3 square, place the number 1 in Box 2; in a 15x15 square, place the number 1 in Box 8."
+                },
+                {
+                    "headline": "Fill in the remaining numbers using an up-one, right-one pattern.",
+                    "description": "You will always fill in the numbers sequentially (1, 2, 3, 4, etc.) by moving up one row, then one column to the right. You\u2019ll notice immediately that in order to place the number 2, you\u2019ll move above the top row, off the magic square. That\u2019s okay \u2014 although you always work in this up-one, right-one manner, there are three exceptions that also have patterned, predictable rules:\nIf the movement takes you to a \u201cbox\u201d above the magic square\u2019s top row, remain in that box\u2019s column, but place the number in the bottom row of that column. If the movement takes you to a \u201cbox\u201d to the right of the magic square\u2019s right column, remain in that box\u2019s row, but place the number in the furthest left column of that row. If the movement takes you to a box that is already occupied, go back to the last box that has been filled in, and place the next number directly below it."
+                }
+            ]
+        },
+        {
+            "name": "Solving a Singly Even Magic Square",
+            "steps": [
+                {
+                    "headline": "Understand what a singly even square is.",
+                    "description": "Everyone knows that an even number is divisible by 2, but in magic squares, there are different methodologies for solving singly and doubly even squares. A singly even square has a number of boxes per side that is divisible by 2, but not 4. The smallest possible singly even magic square is 6x6, since 2x2 magic squares can\u2019t be made."
+                },
+                {
+                    "headline": "Calculate the magic constant.",
+                    "description": "Use the same method as you would with odd magic squares: the magic constant = [n * (n^2 + 1)] / 2, where n = the number of boxes per side. So, in the example of a 6x6 square:\nsum = [6 * (62 + 1)] / 2\nsum = [6 * (36 + 1)] / 2\nsum = (6 * 37) / 2\nsum = 222 / 2\nThe magic constant for a 6x6 square is 222/2, or 111. All rows, columns, and diagonals must add up to this number."
+                },
+                {
+                    "headline": "Divide the magic square into four quadrants of equal size.",
+                    "description": "Label them A (top left), C (top right), D (bottom left) and B (bottom right). To figure out how large each square should be, simply divide the number of boxes in each row or column by half. So, for a 6x6 square, each quadrant would be 3x3 boxes."
+                },
+                {
+                    "headline": "Assign each quadrant a number range.",
+                    "description": "Quadrant A gets for the quarter of numbers; Quadrant B the second quarter; Quadrant C the third quarter, and Quadrant D the final quarter of the total number range for the 6x6 magic square. In the example of a 6x6 square, Quadrant A would be solved with the numbers from 1-9; Quadrant B with 10-18; Quadrant C with 19-27; and Quadrant D with 28-36."
+                },
+                {
+                    "headline": "Solve each quadrant using the methodology for odd-numbered magic squares.",
+                    "description": "Quadrant A will be simple to fill out, as it starts with the number 1, as magic squares usually do. Quadrants B-D, however, will start with strange numbers \u2014 10, 19, and 28, respectively, in our example. Treat the first number of each quadrant as though it is the number one. Place it in the center box on the top row of each quadrant. Treat each quadrant like its own magic square. Even if a box is available in an adjacent quadrant, ignore it and jump to the \u201cexception\u201d rule that fits your situation."
+                },
+                {
+                    "headline": "Create Highlights A and D. If you tried to add up your columns, rows, and diagonals right now, you\u2019d notice that they don\u2019t yet add up to your magic constant.",
+                    "description": "You have to swap some boxes between the top left and bottom left quadrants to finish your magic square. We\u2019ll call those swapped areas Highlight A and Highlight D.\nUsing a pencil, mark all the squares in the top row until you read the median box position of Quadrant A. So, in a 6x6 square, you would only mark Box 1 (which would have the number 8 in it), but in a 10x10 square, you would mark Boxes 1 and 2 (which would have the numbers 17 and 24 in them, respectively). Mark out a square using the boxes you just marked as the top row. If you only marked one box, your square is just that one box. We\u2019ll call this area Highlight A-1. So, in a 10x10 magic square, Highlight A-1 would consist of Boxes 1 and 2 in Rows 1 and 2, creating a 2x2 square in the top left of the quadrant. In the row directly below Highlight A-1, skip the number in the first column, then mark as many boxes across as you marked in Highlight A-1. We\u2019ll call this middle row Highlight A-2. Highlight A-3 is a box identical to A-1, but placed in the bottom left corner of the quadrant. Highlight A-1, A-2, and A-3 together comprise Highlight A.\nRepeat this process in Quadrant D, creating an identical highlighted area called Highlight D."
+                },
+                {
+                    "headline": "Swap Highlights A and D. This is a one-to-one swap; simply lift and replace the boxes between Quadrant A and Quadrant D without changing their order at all.",
+                    "description": "Once you\u2019ve done this, all the rows, columns, and diagonals in your magic square should add up to the magic constant you calculated."
+                },
+                {
+                    "headline": "Do an additional swap for singly even magic squares larger than 6x6.",
+                    "description": "In addition to the swap for quadrants A & D mentioned above, you also need to do a swap for quadrants C & B. Highlight columns from the right side of the square toward the left one less than the number of columns highlighted for highlight A-1. Swap the values in quadrant C with the values in quadrant B for those columns, using the same one-to-one method. Here are two images of a 14x14 Magic Square before and after doing both swaps. Quadrant A swap area is highlighted blue, Quadrant D swap area is highlighted green, Quadrant C swap area is highlighted yellow, and Quadrant B swap area is highlighted orange. 14x14 Magic Square before making swaps (steps 6, 7, & 8)\n14x14 Magic Square after making swaps (steps 6, 7, & 8)"
+                }
+            ]
+        },
+        {
+            "name": "Solving a Doubly Even Magic Square",
+            "steps": [
+                {
+                    "headline": "Understand what a doubly even square is.",
+                    "description": "A singly even square has a number of boxes per side that\u2019s divisible by 2. A doubly even square has a number of boxes per side divisible by double that \u2014 4. The smallest doubly-even box that can be made is a 4x4 square."
+                },
+                {
+                    "headline": "Calculate the magic constant.",
+                    "description": "Use the same method as you would with odd-numbered or singly-even magic squares: the magic constant = [n * (n^2 + 1)] / 2, where n = the number of boxes per side. So, in the example of a 4x4 square:\nsum = [4 * (4^2 + 1)] / 2\nsum = [4 * (16 + 1)] / 2\nsum = (4 * 17) / 2\nsum = 68 / 2\nThe magic constant for a 4x4 square is 68/2, or 34. All rows, columns, and diagonals must add up to this number."
+                },
+                {
+                    "headline": "Create Highlights A-D.",
+                    "description": "In each corner of the magic square, mark a mini-square with sides a length of n/4, where n = the length of a side of the whole magic square. Label them Highlights A, B, C, and D in a counter-clockwise manner. In a 4x4 square, you would simply mark the four corner boxes. In an 8x8 square, each Highlight would be a 2x2 area in the corners. In a 12x12 square, each Highlight would be a 3x3 area in the corners, and so on."
+                },
+                {
+                    "headline": "Create the Central Highlight.",
+                    "description": "Mark all the boxes in the center of the magic square in a square area of length n/2, where n = the length of a side of the whole magic square. The Central Highlight should not overlap with Highlights A-D at all, but touch each of them at the corners. In a 4x4 square, the Central Highlight would be a 2x2 area in the center. In an 8x8 square, the Central Highlight would be a 4x4 area in the center, and so on."
+                },
+                {
+                    "headline": "Fill in the magic square, but only in Highlighted areas.",
+                    "description": "Begin filling in the numbers of your magic square from left to right, but only write in the number if the box falls into a Highlight. So, in a 4x4 box, you would fill in the following boxes:\n1 in the top-left box and 4 in the top-right box\n6 and 7 in the center boxes in Row 2\n10 and 11 in the center boxes in Row 3\n13 in the bottom-left box and 16 in the bottom-right box."
+                },
+                {
+                    "headline": "Fill in the rest of the magic square by counting backwards.",
+                    "description": "The is essentially the inverse of the previous step. Begin again with the top left box, but this time, skip all boxes that fall in Highlighted area, and fill in non-higlighted boxes by counting backwards. Begin with the largest number in your number range. So, in a 4x4 magic square, you would fill in the following:\n15 and 14 in the center boxes in Row 1\n12 in the left-most box and 9 in the right-most box in Row 2\n8 in the left-most box and 5 in the right-most box in Row 3\n3 and 2 in the center boxes in Row 4\nAt this point, all your columns, rows, and diagonals should up to your magic constant you calculated."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil",
+        "Paper",
+        "Eraser"
+    ],
+    "text": " Solving an Odd-Numbered Magic Square Calculate the magic constant. You can find this number by using a simple math formula, where n = the number of rows or columns in your magic square. So, for example, in a 3x3 magic square, n = 3. The magic constant = n[(n^2+1)/2]. So, in the example of the 3x3 square:\nsum = 3 * [(9 + 1) / 2]\nsum = 3 * (10 / 2)\nsum = 3 * (5)\nsum = 15\nThe magic constant for a 3x3 square is 15. All rows, columns, and diagonals must add up to this number. Place the number 1 in the center box on the top row. This is always where you begin when your magic square has odd-numbered sides, regardless of how large or small that number is. So, if you have a 3x3 square, place the number 1 in Box 2; in a 15x15 square, place the number 1 in Box 8. Fill in the remaining numbers using an up-one, right-one pattern. You will always fill in the numbers sequentially (1, 2, 3, 4, etc.) by moving up one row, then one column to the right. You\u2019ll notice immediately that in order to place the number 2, you\u2019ll move above the top row, off the magic square. That\u2019s okay \u2014 although you always work in this up-one, right-one manner, there are three exceptions that also have patterned, predictable rules:\nIf the movement takes you to a \u201cbox\u201d above the magic square\u2019s top row, remain in that box\u2019s column, but place the number in the bottom row of that column. If the movement takes you to a \u201cbox\u201d to the right of the magic square\u2019s right column, remain in that box\u2019s row, but place the number in the furthest left column of that row. If the movement takes you to a box that is already occupied, go back to the last box that has been filled in, and place the next number directly below it. Solving a Singly Even Magic Square Understand what a singly even square is. Everyone knows that an even number is divisible by 2, but in magic squares, there are different methodologies for solving singly and doubly even squares. A singly even square has a number of boxes per side that is divisible by 2, but not 4. The smallest possible singly even magic square is 6x6, since 2x2 magic squares can\u2019t be made. Calculate the magic constant. Use the same method as you would with odd magic squares: the magic constant = [n * (n^2 + 1)] / 2, where n = the number of boxes per side. So, in the example of a 6x6 square:\nsum = [6 * (62 + 1)] / 2\nsum = [6 * (36 + 1)] / 2\nsum = (6 * 37) / 2\nsum = 222 / 2\nThe magic constant for a 6x6 square is 222/2, or 111. All rows, columns, and diagonals must add up to this number. Divide the magic square into four quadrants of equal size. Label them A (top left), C (top right), D (bottom left) and B (bottom right). To figure out how large each square should be, simply divide the number of boxes in each row or column by half. So, for a 6x6 square, each quadrant would be 3x3 boxes. Assign each quadrant a number range. Quadrant A gets for the quarter of numbers; Quadrant B the second quarter; Quadrant C the third quarter, and Quadrant D the final quarter of the total number range for the 6x6 magic square. In the example of a 6x6 square, Quadrant A would be solved with the numbers from 1-9; Quadrant B with 10-18; Quadrant C with 19-27; and Quadrant D with 28-36. Solve each quadrant using the methodology for odd-numbered magic squares. Quadrant A will be simple to fill out, as it starts with the number 1, as magic squares usually do. Quadrants B-D, however, will start with strange numbers \u2014 10, 19, and 28, respectively, in our example. Treat the first number of each quadrant as though it is the number one. Place it in the center box on the top row of each quadrant. Treat each quadrant like its own magic square. Even if a box is available in an adjacent quadrant, ignore it and jump to the \u201cexception\u201d rule that fits your situation. Create Highlights A and D. If you tried to add up your columns, rows, and diagonals right now, you\u2019d notice that they don\u2019t yet add up to your magic constant. You have to swap some boxes between the top left and bottom left quadrants to finish your magic square. We\u2019ll call those swapped areas Highlight A and Highlight D.\nUsing a pencil, mark all the squares in the top row until you read the median box position of Quadrant A. So, in a 6x6 square, you would only mark Box 1 (which would have the number 8 in it), but in a 10x10 square, you would mark Boxes 1 and 2 (which would have the numbers 17 and 24 in them, respectively). Mark out a square using the boxes you just marked as the top row. If you only marked one box, your square is just that one box. We\u2019ll call this area Highlight A-1. So, in a 10x10 magic square, Highlight A-1 would consist of Boxes 1 and 2 in Rows 1 and 2, creating a 2x2 square in the top left of the quadrant. In the row directly below Highlight A-1, skip the number in the first column, then mark as many boxes across as you marked in Highlight A-1. We\u2019ll call this middle row Highlight A-2. Highlight A-3 is a box identical to A-1, but placed in the bottom left corner of the quadrant. Highlight A-1, A-2, and A-3 together comprise Highlight A.\nRepeat this process in Quadrant D, creating an identical highlighted area called Highlight D. Swap Highlights A and D. This is a one-to-one swap; simply lift and replace the boxes between Quadrant A and Quadrant D without changing their order at all. Once you\u2019ve done this, all the rows, columns, and diagonals in your magic square should add up to the magic constant you calculated. Do an additional swap for singly even magic squares larger than 6x6. In addition to the swap for quadrants A & D mentioned above, you also need to do a swap for quadrants C & B. Highlight columns from the right side of the square toward the left one less than the number of columns highlighted for highlight A-1. Swap the values in quadrant C with the values in quadrant B for those columns, using the same one-to-one method. Here are two images of a 14x14 Magic Square before and after doing both swaps. Quadrant A swap area is highlighted blue, Quadrant D swap area is highlighted green, Quadrant C swap area is highlighted yellow, and Quadrant B swap area is highlighted orange. 14x14 Magic Square before making swaps (steps 6, 7, & 8)\n14x14 Magic Square after making swaps (steps 6, 7, & 8) Solving a Doubly Even Magic Square Understand what a doubly even square is. A singly even square has a number of boxes per side that\u2019s divisible by 2. A doubly even square has a number of boxes per side divisible by double that \u2014 4. The smallest doubly-even box that can be made is a 4x4 square. Calculate the magic constant. Use the same method as you would with odd-numbered or singly-even magic squares: the magic constant = [n * (n^2 + 1)] / 2, where n = the number of boxes per side. So, in the example of a 4x4 square:\nsum = [4 * (4^2 + 1)] / 2\nsum = [4 * (16 + 1)] / 2\nsum = (4 * 17) / 2\nsum = 68 / 2\nThe magic constant for a 4x4 square is 68/2, or 34. All rows, columns, and diagonals must add up to this number. Create Highlights A-D. In each corner of the magic square, mark a mini-square with sides a length of n/4, where n = the length of a side of the whole magic square. Label them Highlights A, B, C, and D in a counter-clockwise manner. In a 4x4 square, you would simply mark the four corner boxes. In an 8x8 square, each Highlight would be a 2x2 area in the corners. In a 12x12 square, each Highlight would be a 3x3 area in the corners, and so on. Create the Central Highlight. Mark all the boxes in the center of the magic square in a square area of length n/2, where n = the length of a side of the whole magic square. The Central Highlight should not overlap with Highlights A-D at all, but touch each of them at the corners. In a 4x4 square, the Central Highlight would be a 2x2 area in the center. In an 8x8 square, the Central Highlight would be a 4x4 area in the center, and so on. Fill in the magic square, but only in Highlighted areas. Begin filling in the numbers of your magic square from left to right, but only write in the number if the box falls into a Highlight. So, in a 4x4 box, you would fill in the following boxes:\n1 in the top-left box and 4 in the top-right box\n6 and 7 in the center boxes in Row 2\n10 and 11 in the center boxes in Row 3\n13 in the bottom-left box and 16 in the bottom-right box. Fill in the rest of the magic square by counting backwards. The is essentially the inverse of the previous step. Begin again with the top left box, but this time, skip all boxes that fall in Highlighted area, and fill in non-higlighted boxes by counting backwards. Begin with the largest number in your number range. So, in a 4x4 magic square, you would fill in the following:\n15 and 14 in the center boxes in Row 1\n12 in the left-most box and 9 in the right-most box in Row 2\n8 in the left-most box and 5 in the right-most box in Row 3\n3 and 2 in the center boxes in Row 4\nAt this point, all your columns, rows, and diagonals should up to your magic constant you calculated.",
+    "sentences": [
+        " Solving an Odd-Numbered Magic Square Calculate the magic constant.",
+        "You can find this number by using a simple math formula, where n = the number of rows or columns in your magic square.",
+        "So, for example, in a 3x3 magic square, n = 3.",
+        "The magic constant = n[(n^2+1)/2].",
+        "So, in the example of the 3x3 square:\nsum = 3 * [(9 + 1) / 2]\nsum = 3 * (10 / 2)\nsum = 3 * (5)\nsum = 15\nThe magic constant for a 3x3 square is 15.",
+        "All rows, columns, and diagonals must add up to this number.",
+        "Place the number 1 in the center box on the top row.",
+        "This is always where you begin when your magic square has odd-numbered sides, regardless of how large or small that number is.",
+        "So, if you have a 3x3 square, place the number 1 in Box 2; in a 15x15 square, place the number 1 in Box 8.",
+        "Fill in the remaining numbers using an up-one, right-one pattern.",
+        "You will always fill in the numbers sequentially (1, 2, 3, 4, etc.)",
+        "by moving up one row, then one column to the right.",
+        "You\u2019ll notice immediately that in order to place the number 2, you\u2019ll move above the top row, off the magic square.",
+        "That\u2019s okay \u2014 although you always work in this up-one, right-one manner, there are three exceptions that also have patterned, predictable rules:\nIf the movement takes you to a \u201cbox\u201d above the magic square\u2019s top row, remain in that box\u2019s column, but place the number in the bottom row of that column.",
+        "If the movement takes you to a \u201cbox\u201d to the right of the magic square\u2019s right column, remain in that box\u2019s row, but place the number in the furthest left column of that row.",
+        "If the movement takes you to a box that is already occupied, go back to the last box that has been filled in, and place the next number directly below it.",
+        "Solving a Singly Even Magic Square Understand what a singly even square is.",
+        "Everyone knows that an even number is divisible by 2, but in magic squares, there are different methodologies for solving singly and doubly even squares.",
+        "A singly even square has a number of boxes per side that is divisible by 2, but not 4.",
+        "The smallest possible singly even magic square is 6x6, since 2x2 magic squares can\u2019t be made.",
+        "Calculate the magic constant.",
+        "Use the same method as you would with odd magic squares: the magic constant = [n * (n^2 + 1)] / 2, where n = the number of boxes per side.",
+        "So, in the example of a 6x6 square:\nsum = [6 * (62 + 1)] / 2\nsum = [6 * (36 + 1)] / 2\nsum = (6 * 37) / 2\nsum = 222 / 2\nThe magic constant for a 6x6 square is 222/2, or 111.",
+        "All rows, columns, and diagonals must add up to this number.",
+        "Divide the magic square into four quadrants of equal size.",
+        "Label them A (top left), C (top right), D (bottom left) and B (bottom right).",
+        "To figure out how large each square should be, simply divide the number of boxes in each row or column by half.",
+        "So, for a 6x6 square, each quadrant would be 3x3 boxes.",
+        "Assign each quadrant a number range.",
+        "Quadrant A gets for the quarter of numbers; Quadrant B the second quarter; Quadrant C the third quarter, and Quadrant D the final quarter of the total number range for the 6x6 magic square.",
+        "In the example of a 6x6 square, Quadrant A would be solved with the numbers from 1-9; Quadrant B with 10-18; Quadrant C with 19-27; and Quadrant D with 28-36.",
+        "Solve each quadrant using the methodology for odd-numbered magic squares.",
+        "Quadrant A will be simple to fill out, as it starts with the number 1, as magic squares usually do.",
+        "Quadrants B-D, however, will start with strange numbers \u2014 10, 19, and 28, respectively, in our example.",
+        "Treat the first number of each quadrant as though it is the number one.",
+        "Place it in the center box on the top row of each quadrant.",
+        "Treat each quadrant like its own magic square.",
+        "Even if a box is available in an adjacent quadrant, ignore it and jump to the \u201cexception\u201d rule that fits your situation.",
+        "Create Highlights A and D. If you tried to add up your columns, rows, and diagonals right now, you\u2019d notice that they don\u2019t yet add up to your magic constant.",
+        "You have to swap some boxes between the top left and bottom left quadrants to finish your magic square.",
+        "We\u2019ll call those swapped areas Highlight A and Highlight D.\nUsing a pencil, mark all the squares in the top row until you read the median box position of Quadrant A.",
+        "So, in a 6x6 square, you would only mark Box 1 (which would have the number 8 in it), but in a 10x10 square, you would mark Boxes 1 and 2 (which would have the numbers 17 and 24 in them, respectively).",
+        "Mark out a square using the boxes you just marked as the top row.",
+        "If you only marked one box, your square is just that one box.",
+        "We\u2019ll call this area Highlight A-1.",
+        "So, in a 10x10 magic square, Highlight A-1 would consist of Boxes 1 and 2 in Rows 1 and 2, creating a 2x2 square in the top left of the quadrant.",
+        "In the row directly below Highlight A-1, skip the number in the first column, then mark as many boxes across as you marked in Highlight A-1.",
+        "We\u2019ll call this middle row Highlight A-2.",
+        "Highlight A-3 is a box identical to A-1, but placed in the bottom left corner of the quadrant.",
+        "Highlight A-1, A-2, and A-3 together comprise Highlight A.\nRepeat this process in Quadrant D, creating an identical highlighted area called Highlight D. Swap Highlights A and D. This is a one-to-one swap; simply lift and replace the boxes between Quadrant A and Quadrant D without changing their order at all.",
+        "Once you\u2019ve done this, all the rows, columns, and diagonals in your magic square should add up to the magic constant you calculated.",
+        "Do an additional swap for singly even magic squares larger than 6x6.",
+        "In addition to the swap for quadrants A & D mentioned above, you also need to do a swap for quadrants C & B.",
+        "Highlight columns from the right side of the square toward the left one less than the number of columns highlighted for highlight A-1.",
+        "Swap the values in quadrant C with the values in quadrant B for those columns, using the same one-to-one method.",
+        "Here are two images of a 14x14 Magic Square before and after doing both swaps.",
+        "Quadrant A swap area is highlighted blue, Quadrant D swap area is highlighted green, Quadrant C swap area is highlighted yellow, and Quadrant B swap area is highlighted orange.",
+        "14x14 Magic Square before making swaps (steps 6, 7, & 8)\n14x14 Magic Square after making swaps (steps 6, 7, & 8) Solving a Doubly Even Magic Square Understand what a doubly even square is.",
+        "A singly even square has a number of boxes per side that\u2019s divisible by 2.",
+        "A doubly even square has a number of boxes per side divisible by double that \u2014 4.",
+        "The smallest doubly-even box that can be made is a 4x4 square.",
+        "Calculate the magic constant.",
+        "Use the same method as you would with odd-numbered or singly-even magic squares: the magic constant = [n * (n^2 + 1)] / 2, where n = the number of boxes per side.",
+        "So, in the example of a 4x4 square:\nsum = [4 * (4^2 + 1)] / 2\nsum = [4 * (16 + 1)] / 2\nsum = (4 * 17) / 2\nsum = 68 / 2\nThe magic constant for a 4x4 square is 68/2, or 34.",
+        "All rows, columns, and diagonals must add up to this number.",
+        "Create Highlights A-D.",
+        "In each corner of the magic square, mark a mini-square with sides a length of n/4, where n = the length of a side of the whole magic square.",
+        "Label them Highlights A, B, C, and D in a counter-clockwise manner.",
+        "In a 4x4 square, you would simply mark the four corner boxes.",
+        "In an 8x8 square, each Highlight would be a 2x2 area in the corners.",
+        "In a 12x12 square, each Highlight would be a 3x3 area in the corners, and so on.",
+        "Create the Central Highlight.",
+        "Mark all the boxes in the center of the magic square in a square area of length n/2, where n = the length of a side of the whole magic square.",
+        "The Central Highlight should not overlap with Highlights A-D at all, but touch each of them at the corners.",
+        "In a 4x4 square, the Central Highlight would be a 2x2 area in the center.",
+        "In an 8x8 square, the Central Highlight would be a 4x4 area in the center, and so on.",
+        "Fill in the magic square, but only in Highlighted areas.",
+        "Begin filling in the numbers of your magic square from left to right, but only write in the number if the box falls into a Highlight.",
+        "So, in a 4x4 box, you would fill in the following boxes:\n1 in the top-left box and 4 in the top-right box\n6 and 7 in the center boxes in Row 2\n10 and 11 in the center boxes in Row 3\n13 in the bottom-left box and 16 in the bottom-right box.",
+        "Fill in the rest of the magic square by counting backwards.",
+        "The is essentially the inverse of the previous step.",
+        "Begin again with the top left box, but this time, skip all boxes that fall in Highlighted area, and fill in non-higlighted boxes by counting backwards.",
+        "Begin with the largest number in your number range.",
+        "So, in a 4x4 magic square, you would fill in the following:\n15 and 14 in the center boxes in Row 1\n12 in the left-most box and 9 in the right-most box in Row 2\n8 in the left-most box and 5 in the right-most box in Row 3\n3 and 2 in the center boxes in Row 4\nAt this point, all your columns, rows, and diagonals should up to your magic constant you calculated."
+    ]
+}

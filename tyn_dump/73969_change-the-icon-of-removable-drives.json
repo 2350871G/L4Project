@@ -1,0 +1,74 @@
+{
+    "title": "How to Change the Icon of Removable Drives",
+    "url": "https://www.wikihow.com/Change-the-Icon-of-Removable-Drives",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Hacks"
+    ],
+    "steps": [
+        {
+            "headline": "Create your icon, or find one online.",
+            "description": "A good size is 34 pixels square."
+        },
+        {
+            "headline": "Open Notepad to create your Autorun file.",
+            "description": ""
+        },
+        {
+            "headline": "Type [AutoRun] in the first line.",
+            "description": ""
+        },
+        {
+            "headline": "Name your drive in the second line: label=Name",
+            "description": ""
+        },
+        {
+            "headline": "Specify your icon in the third line: ICON=your-icon-file.ico.",
+            "description": "If you wanted to call your drive \"My USB Drive\" with an icon named \"myusbdrive.ico\""
+        },
+        {
+            "headline": "Click File, then Save As.",
+            "description": "Change the file type to \"All\" and name it AUTORUN.inf"
+        },
+        {
+            "headline": "Your autorun.inf file would look like this:",
+            "description": "[AutoRun]label=My USB DriveICON=myusbdrive.ico"
+        },
+        {
+            "headline": "Keep in mind that the ICON name should match the name of the icon you wish to use.",
+            "description": ""
+        },
+        {
+            "headline": "Note:",
+            "description": "Depending on the label you choose, and the location of your icon file,   you may need to wrap the label and folder names in quotes (\") to handle long filenames. It has been reported that on some systems your \".INF\" file extension may need to be capitalized in order to work."
+        },
+        {
+            "headline": "Ensure that both your autorun.inf and any .ico files are in the ROOT of your removable drive, instead of a folder, unless you have specified the correct folder for the icon in your .inf file.",
+            "description": ""
+        },
+        {
+            "headline": "Highlight both files.",
+            "description": "Right click and select properties, set files to \"hidden\" to hide files from view."
+        }
+    ],
+    "tyn": [
+        "A removable drive",
+        "An icon for your drive",
+        "A text editor, such as Notepad/Notepad++"
+    ],
+    "text": " Create your icon, or find one online. A good size is 34 pixels square. Open Notepad to create your Autorun file.  Type [AutoRun] in the first line.  Name your drive in the second line: label=Name  Specify your icon in the third line: ICON=your-icon-file.ico. If you wanted to call your drive \"My USB Drive\" with an icon named \"myusbdrive.ico\" Click File, then Save As. Change the file type to \"All\" and name it AUTORUN.inf Your autorun.inf file would look like this: [AutoRun]label=My USB DriveICON=myusbdrive.ico Keep in mind that the ICON name should match the name of the icon you wish to use.  Note: Depending on the label you choose, and the location of your icon file,   you may need to wrap the label and folder names in quotes (\") to handle long filenames. It has been reported that on some systems your \".INF\" file extension may need to be capitalized in order to work. Ensure that both your autorun.inf and any .ico files are in the ROOT of your removable drive, instead of a folder, unless you have specified the correct folder for the icon in your .inf file.  Highlight both files. Right click and select properties, set files to \"hidden\" to hide files from view.",
+    "sentences": [
+        " Create your icon, or find one online.",
+        "A good size is 34 pixels square.",
+        "Open Notepad to create your Autorun file.",
+        "Type [AutoRun] in the first line.",
+        "Name your drive in the second line: label=Name  Specify your icon in the third line: ICON=your-icon-file.ico.",
+        "If you wanted to call your drive \"My USB Drive\" with an icon named \"myusbdrive.ico\" Click File, then Save As.",
+        "Change the file type to \"All\" and name it AUTORUN.inf Your autorun.inf file would look like this: [AutoRun]label=My USB DriveICON=myusbdrive.ico Keep in mind that the ICON name should match the name of the icon you wish to use.",
+        "Note: Depending on the label you choose, and the location of your icon file,   you may need to wrap the label and folder names in quotes (\") to handle long filenames.",
+        "It has been reported that on some systems your \".INF\" file extension may need to be capitalized in order to work.",
+        "Ensure that both your autorun.inf and any .ico files are in the ROOT of your removable drive, instead of a folder, unless you have specified the correct folder for the icon in your .inf file.",
+        "Highlight both files.",
+        "Right click and select properties, set files to \"hidden\" to hide files from view."
+    ]
+}

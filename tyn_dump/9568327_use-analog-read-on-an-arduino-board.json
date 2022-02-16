@@ -1,0 +1,78 @@
+{
+    "title": "How to Use Analog Read on an Arduino Board",
+    "url": "https://www.wikihow.com/Use-Analog-Read-on-an-Arduino-Board",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computers",
+        "Building Your Own Computer"
+    ],
+    "steps": [
+        {
+            "headline": "Set up your Arduino Board and Circuit.",
+            "description": "Plug in the Arduino into the computer\nSet up a Circuit with a potentiometer, where the 5V pin is connected to the right pin of the potentiometer, the A0 pin is connected to the middle pin of the potentiometer, and left pin of the potentiometer is connected to ground. Set up another circuit with an LED by connecting an LED with a 220 Ohm resistor to a digital I/O pin."
+        },
+        {
+            "headline": "Start Programming the Arduino.",
+            "description": "Open the Arduino Software and make sure you're connected by clicking on Tools>Board. Set it as Arduino/Genuino UNO, click on Tools>Port and make sure you are connected to the port with Arduino on it."
+        },
+        {
+            "headline": "Program the Arduino (Void Setup).",
+            "description": "Before the Void setup, initialize a variable as an integer by typing \"int Value;\"\n\"void setup()\" is where functions are ran before the Arduino goes through a loop\nIn the void setup() set your pins by typing \"pinMode(A0, INPUT);\" and \"pinMode(11, Output);\". This will initialize the pins. Pin A0 will become an analogue input and pin 11 becomes a digital output. Pin A0 will read the voltage received from the circuit from 0V-5V and set it as a value between 0-1023. This is essentially 0.0049V per unit. Type in \"Serial.begin(9600)\" to begin a serial connection. This will allow you to read the values of the analog input in the loop"
+        },
+        {
+            "headline": "Program the Arduino (Void Loop): Reading the Value",
+            "description": "\"void loop()\" is where you're main code will go. This will continue to repeat while the Arduino is powered. To read the voltage of the potentiometer type in the code \"Value = analogRead(A0);\"\nThis will read the voltage and set the variable as the voltage between the number 0-1023\nTo be able to view this value type in \"Serial.printIn(Value);\"\nWhen running the code you can pull up the serial monitor by clicking Tools>Serial Monitor."
+        },
+        {
+            "headline": "Program the Arduino (Void Loop): Using the Value",
+            "description": "To use the value, you can type an if/else statement after the code to read the value. Type in \"if (Value500) { digitalWrite(11, HIGH); }\nThis code means if pin A0 is reading a value lower than 500 pin 11 will turn off (The LED should not be lit), but if pin A0 reads a value higher than 500 pin 11 will turn on (The LED should be lit)."
+        },
+        {
+            "headline": "Use the Code",
+            "description": "To use the Arduino Code first compile the code by clicking \"Verify\". If you typed in everything correctly you should get no errors. If you get error, recheck your syntax. Once the code is compiled upload the code in the Arduino by clicking \"Upload\". Next open the Serial monitor by clicking \"Tools>Serial Monitor\" You should then see the value being read by the Arduino. Try turning the potentiometer, this should change the value being seen in the monitor. Try turning the potentiometer, so the light will turn off and on."
+        },
+        {
+            "headline": "Congrats you have now read values from a potentiometer and gave an output according to an input!",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "Arduino UNO",
+        "Rotary Potentiometer",
+        "LED",
+        "Breadboard",
+        "Jumper Cables",
+        "220 Ohm Resistor",
+        "A to B Male/Male type peripheral cable (Computer to Arduino Cable)",
+        "Arduino Software"
+    ],
+    "text": " Set up your Arduino Board and Circuit. Plug in the Arduino into the computer\nSet up a Circuit with a potentiometer, where the 5V pin is connected to the right pin of the potentiometer, the A0 pin is connected to the middle pin of the potentiometer, and left pin of the potentiometer is connected to ground. Set up another circuit with an LED by connecting an LED with a 220 Ohm resistor to a digital I/O pin. Start Programming the Arduino. Open the Arduino Software and make sure you're connected by clicking on Tools>Board. Set it as Arduino/Genuino UNO, click on Tools>Port and make sure you are connected to the port with Arduino on it. Program the Arduino (Void Setup). Before the Void setup, initialize a variable as an integer by typing \"int Value;\"\n\"void setup()\" is where functions are ran before the Arduino goes through a loop\nIn the void setup() set your pins by typing \"pinMode(A0, INPUT);\" and \"pinMode(11, Output);\". This will initialize the pins. Pin A0 will become an analogue input and pin 11 becomes a digital output. Pin A0 will read the voltage received from the circuit from 0V-5V and set it as a value between 0-1023. This is essentially 0.0049V per unit. Type in \"Serial.begin(9600)\" to begin a serial connection. This will allow you to read the values of the analog input in the loop Program the Arduino (Void Loop): Reading the Value \"void loop()\" is where you're main code will go. This will continue to repeat while the Arduino is powered. To read the voltage of the potentiometer type in the code \"Value = analogRead(A0);\"\nThis will read the voltage and set the variable as the voltage between the number 0-1023\nTo be able to view this value type in \"Serial.printIn(Value);\"\nWhen running the code you can pull up the serial monitor by clicking Tools>Serial Monitor. Program the Arduino (Void Loop): Using the Value To use the value, you can type an if/else statement after the code to read the value. Type in \"if (Value500) { digitalWrite(11, HIGH); }\nThis code means if pin A0 is reading a value lower than 500 pin 11 will turn off (The LED should not be lit), but if pin A0 reads a value higher than 500 pin 11 will turn on (The LED should be lit). Use the Code To use the Arduino Code first compile the code by clicking \"Verify\". If you typed in everything correctly you should get no errors. If you get error, recheck your syntax. Once the code is compiled upload the code in the Arduino by clicking \"Upload\". Next open the Serial monitor by clicking \"Tools>Serial Monitor\" You should then see the value being read by the Arduino. Try turning the potentiometer, this should change the value being seen in the monitor. Try turning the potentiometer, so the light will turn off and on. Congrats you have now read values from a potentiometer and gave an output according to an input! ",
+    "sentences": [
+        " Set up your Arduino Board and Circuit.",
+        "Plug in the Arduino into the computer\nSet up a Circuit with a potentiometer, where the 5V pin is connected to the right pin of the potentiometer, the A0 pin is connected to the middle pin of the potentiometer, and left pin of the potentiometer is connected to ground.",
+        "Set up another circuit with an LED by connecting an LED with a 220 Ohm resistor to a digital I/O pin.",
+        "Start Programming the Arduino.",
+        "Open the Arduino Software and make sure you're connected by clicking on Tools>Board.",
+        "Set it as Arduino/Genuino UNO, click on Tools>Port and make sure you are connected to the port with Arduino on it.",
+        "Program the Arduino (Void Setup).",
+        "Before the Void setup, initialize a variable as an integer by typing \"int Value;\"\n\"void setup()\" is where functions are ran before the Arduino goes through a loop\nIn the void setup() set your pins by typing \"pinMode(A0, INPUT);\" and \"pinMode(11, Output);\".",
+        "This will initialize the pins.",
+        "Pin A0 will become an analogue input and pin 11 becomes a digital output.",
+        "Pin A0 will read the voltage received from the circuit from 0V-5V and set it as a value between 0-1023.",
+        "This is essentially 0.0049V per unit.",
+        "Type in \"Serial.begin(9600)\" to begin a serial connection.",
+        "This will allow you to read the values of the analog input in the loop Program the Arduino (Void Loop): Reading the Value \"void loop()\" is where you're main code will go.",
+        "This will continue to repeat while the Arduino is powered.",
+        "To read the voltage of the potentiometer type in the code \"Value = analogRead(A0);\"\nThis will read the voltage and set the variable as the voltage between the number 0-1023\nTo be able to view this value type in \"Serial.printIn(Value);\"\nWhen running the code you can pull up the serial monitor by clicking Tools>Serial Monitor.",
+        "Program the Arduino (Void Loop): Using the Value To use the value, you can type an if/else statement after the code to read the value.",
+        "Type in \"if (Value500) { digitalWrite(11, HIGH); }\nThis code means if pin A0 is reading a value lower than 500 pin 11 will turn off (The LED should not be lit), but if pin A0 reads a value higher than 500 pin 11 will turn on (The LED should be lit).",
+        "Use the Code To use the Arduino Code first compile the code by clicking \"Verify\".",
+        "If you typed in everything correctly you should get no errors.",
+        "If you get error, recheck your syntax.",
+        "Once the code is compiled upload the code in the Arduino by clicking \"Upload\".",
+        "Next open the Serial monitor by clicking \"Tools>Serial Monitor\" You should then see the value being read by the Arduino.",
+        "Try turning the potentiometer, this should change the value being seen in the monitor.",
+        "Try turning the potentiometer, so the light will turn off and on.",
+        "Congrats you have now read values from a potentiometer and gave an output according to an input!"
+    ]
+}

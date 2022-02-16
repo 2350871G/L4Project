@@ -1,0 +1,73 @@
+{
+    "title": "How to Remove an Item from System Preferences on a Mac",
+    "url": "https://www.wikihow.com/Remove-an-Item-from-System-Preferences-on-a-Mac",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Mac"
+    ],
+    "methods": [
+        {
+            "name": "Remove an Item from System Preferences Directly",
+            "steps": [
+                {
+                    "headline": "Open the System Preferences menu.",
+                    "description": "To do this, click on the \"System Preferences\" icon in the dock. If you have removed this icon from the dock, you can also access the menu by clicking on the \"Apple\" icon in the task bar, and selecting \"System Preferences\" from the drop-down menu."
+                },
+                {
+                    "headline": "Right-click on the unwanted item.",
+                    "description": "Hold your mouse over the item you want to remove, and either right-click or control-click on it."
+                },
+                {
+                    "headline": "Select the option for removing the item from System Preferences.",
+                    "description": "In the context menu that appears, click on the option that reads \"Remove Preference Pane\" (this will likely be the only option available). This will permanently remove the item from the System Preferences menu."
+                }
+            ]
+        },
+        {
+            "name": "Via the Finder",
+            "steps": [
+                {
+                    "headline": "Open a Finder window.",
+                    "description": "To do this, click on the \"Finder\" icon in the dock."
+                },
+                {
+                    "headline": "Navigate to the folder in which third-party preference panes are stored.",
+                    "description": "After clicking on your hard drive (most likely called \"Macintosh HD\"), double-click on the \"Library\" folder to open it. Then, double-click on the \"PreferencePanes\" (not \"Preferences\") folder. All third-party System Preference items should be stored in this folder; they will have a \".prefpane\" file extension. Make sure you are in the computer Library, not your User Library. To find out which you are in, right-click any folder in the Library and choose \"Get Info.\" Under General>Where, it should say \"/Library.\" If it says \"/Users/(your username)/Library,\" you are in your user library."
+                },
+                {
+                    "headline": "Delete the unwanted items.",
+                    "description": "After locating the unwanted item in the folder, click on it and drag it to the \"Trash\" icon in the dock to delete it. This will remove it permanently from the System Preferences menu."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Computer",
+        "Mac OS X"
+    ],
+    "text": " Remove an Item from System Preferences Directly Open the System Preferences menu. To do this, click on the \"System Preferences\" icon in the dock. If you have removed this icon from the dock, you can also access the menu by clicking on the \"Apple\" icon in the task bar, and selecting \"System Preferences\" from the drop-down menu. Right-click on the unwanted item. Hold your mouse over the item you want to remove, and either right-click or control-click on it. Select the option for removing the item from System Preferences. In the context menu that appears, click on the option that reads \"Remove Preference Pane\" (this will likely be the only option available). This will permanently remove the item from the System Preferences menu. Via the Finder Open a Finder window. To do this, click on the \"Finder\" icon in the dock. Navigate to the folder in which third-party preference panes are stored. After clicking on your hard drive (most likely called \"Macintosh HD\"), double-click on the \"Library\" folder to open it. Then, double-click on the \"PreferencePanes\" (not \"Preferences\") folder. All third-party System Preference items should be stored in this folder; they will have a \".prefpane\" file extension. Make sure you are in the computer Library, not your User Library. To find out which you are in, right-click any folder in the Library and choose \"Get Info.\" Under General>Where, it should say \"/Library.\" If it says \"/Users/(your username)/Library,\" you are in your user library. Delete the unwanted items. After locating the unwanted item in the folder, click on it and drag it to the \"Trash\" icon in the dock to delete it. This will remove it permanently from the System Preferences menu.",
+    "sentences": [
+        " Remove an Item from System Preferences Directly Open the System Preferences menu.",
+        "To do this, click on the \"System Preferences\" icon in the dock.",
+        "If you have removed this icon from the dock, you can also access the menu by clicking on the \"Apple\" icon in the task bar, and selecting \"System Preferences\" from the drop-down menu.",
+        "Right-click on the unwanted item.",
+        "Hold your mouse over the item you want to remove, and either right-click or control-click on it.",
+        "Select the option for removing the item from System Preferences.",
+        "In the context menu that appears, click on the option that reads \"Remove Preference Pane\" (this will likely be the only option available).",
+        "This will permanently remove the item from the System Preferences menu.",
+        "Via the Finder Open a Finder window.",
+        "To do this, click on the \"Finder\" icon in the dock.",
+        "Navigate to the folder in which third-party preference panes are stored.",
+        "After clicking on your hard drive (most likely called \"Macintosh HD\"), double-click on the \"Library\" folder to open it.",
+        "Then, double-click on the \"PreferencePanes\" (not \"Preferences\") folder.",
+        "All third-party System Preference items should be stored in this folder; they will have a \".prefpane\" file extension.",
+        "Make sure you are in the computer Library, not your User Library.",
+        "To find out which you are in, right-click any folder in the Library and choose \"Get Info.\"",
+        "Under General>Where, it should say \"/Library.\"",
+        "If it says \"/Users/(your username)/Library,\" you are in your user library.",
+        "Delete the unwanted items.",
+        "After locating the unwanted item in the folder, click on it and drag it to the \"Trash\" icon in the dock to delete it.",
+        "This will remove it permanently from the System Preferences menu."
+    ]
+}

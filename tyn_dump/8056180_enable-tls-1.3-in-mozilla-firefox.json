@@ -1,0 +1,59 @@
+{
+    "title": "How to Enable TLS 1.3 in Mozilla Firefox",
+    "url": "https://www.wikihow.com/Enable-TLS-1.3-in-Mozilla-Firefox",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Internet",
+        "Internet Security"
+    ],
+    "steps": [
+        {
+            "headline": "Update Firefox to the latest version available.",
+            "description": "Updating Firefox will also give you the latest security patches and fixes"
+        },
+        {
+            "headline": "In the address bar of Firefox, type about:config and hit \u21b5 Enter.",
+            "description": ""
+        },
+        {
+            "headline": "If presented with a warning, click or tap on I accept the risk!.",
+            "description": ""
+        },
+        {
+            "headline": "Type security.tls.version.max in the text box on the page.",
+            "description": "Do not type it in the address bar."
+        },
+        {
+            "headline": "Right-click on security.tls.version.max and select Modify.",
+            "description": ""
+        },
+        {
+            "headline": "Replace the number in the text box with 4.",
+            "description": ""
+        },
+        {
+            "headline": "Click or tap on OK.",
+            "description": ""
+        },
+        {
+            "headline": "Restart Firefox.",
+            "description": "Close all tabs and windows and re-open Firefox."
+        }
+    ],
+    "tyn": [
+        "Mozilla Firefox version 49 or higher"
+    ],
+    "text": " Update Firefox to the latest version available. Updating Firefox will also give you the latest security patches and fixes In the address bar of Firefox, type about:config and hit \u21b5 Enter.  If presented with a warning, click or tap on I accept the risk!.  Type security.tls.version.max in the text box on the page. Do not type it in the address bar. Right-click on security.tls.version.max and select Modify.  Replace the number in the text box with 4.  Click or tap on OK.  Restart Firefox. Close all tabs and windows and re-open Firefox.",
+    "sentences": [
+        " Update Firefox to the latest version available.",
+        "Updating Firefox will also give you the latest security patches and fixes In the address bar of Firefox, type about:config and hit \u21b5 Enter.",
+        "If presented with a warning, click or tap on I accept the risk!.",
+        "Type security.tls.version.max in the text box on the page.",
+        "Do not type it in the address bar.",
+        "Right-click on security.tls.version.max and select Modify.",
+        "Replace the number in the text box with 4.",
+        "Click or tap on OK.",
+        "Restart Firefox.",
+        "Close all tabs and windows and re-open Firefox."
+    ]
+}

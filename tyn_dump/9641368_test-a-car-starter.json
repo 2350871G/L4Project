@@ -1,0 +1,164 @@
+{
+    "title": "How to Test a Car Starter",
+    "url": "https://www.wikihow.com/Test-a-Car-Starter",
+    "category_hierarchy": [
+        "Cars & Other Vehicles",
+        "Cars",
+        "Car Maintenance and Repair"
+    ],
+    "parts": [
+        {
+            "name": "Checking the Pinion",
+            "steps": [
+                {
+                    "headline": "Turn on the headlights and try to start the car.",
+                    "description": "A couple of things might happen when you do this. If the car makes a noise like it\u2019s going to start, but the headlights dim, then the starter pinion is probably jammed. If the car makes a clicking noise but never sounds like it's trying to start, and the lights dim, then the problem is likely the battery. Skip to checking the electrical system."
+                },
+                {
+                    "headline": "Turn the pinion stub with an adjustable wrench (spanner).",
+                    "description": "The starter is a large electrical motor in a cylindrical housing, and it's usually bolted to one side of the engine block. If you see a small, square stub (the pinion stub) sticking out of the end of the cylinder, turn it with your wrench until it moves freely in place. Try starting the car again once the pinion can move freely. In modern cars, you'll find the solenoid (which is a smaller cylinder) attached to the starter cylinder, \"piggyback\" style. They'll be separated and connected by a thick wire in older cars. Refer to your owner's manual for help finding these components."
+                },
+                {
+                    "headline": "Rock the car if you see no stub and have a manual transmission.",
+                    "description": "Turn the car off and put it in second gear. Release the emergency brake and rock the car back and forth. This can loosen the pinion. If you don\u2019t see a pinion stub and you have an automatic transmission, you will have to take the starter motor off and bench test it."
+                }
+            ]
+        },
+        {
+            "name": "Testing the Electrical System",
+            "steps": [
+                {
+                    "headline": "Visually inspect the battery terminals.",
+                    "description": "Pop the hood of your car and check the positive and negative terminals of the battery. If there is any dirt or corrosion, it can cause a bad connection and a lack of power to the starter. If the terminals are dirty or corroded, you can disconnect the battery, clean the connections with a wire brush, and hook them up again. In newer cars, the battery terminals or even the entire battery may be covered with a plastic cap. Remove one or all of these caps to get a good look at the battery. But make sure nothing metal (tools, etc.) accidentally touches both terminals while you're working."
+                },
+                {
+                    "headline": "Test the battery's voltage with a multimeter.",
+                    "description": "Set your multimeter to its \"DC\" setting and its dial to 20 (to test from 0-20 volts). Place the red probe on the battery's positive (+) terminal, and the black probe on the negative (-) terminal. You'll get a reading above 12V if the battery is working properly. Whether or not the battery terminals look OK, there may be a problem with the wires that feed power to the starter and other components. While you\u2019re checking the voltage, make sure that the battery\u2019s earth strap is securely connected to the car\u2019s bodywork. This is necessary for the battery to operate properly."
+                },
+                {
+                    "headline": "Visually inspect the solenoid.",
+                    "description": "If you try to start the car and nothing happens, and the battery seems to be powering properly, then there is likely a connection problem with the solenoid. This device is a small cylinder usually attached to the top of the starter. Visually inspect it to make sure all of the wires running to it are connected properly. The solenoid won't work if its wires are hanging loose. Reconnect them and try starting the car again. If this doesn't help, the solenoid may not be powering up properly. Solenoid wires usually clip or bolt into place. If you're not sure where a loose wire goes or how it attaches, get a pro's help."
+                },
+                {
+                    "headline": "Use a circuit tester to see if the current is getting to the solenoid.",
+                    "description": "Place one lead of the circuit tester (test lamp) to the feed terminal of the solenoid. Attach the other lead to bare bodywork metal. If the tester lights up, then the problem is with the solenoid or the starter itself, not the current getting to it. If the tester doesn\u2019t light up, then there is a bad connection and the wiring will need to be worked on. Another potential cause of this problem is a faulty ignition switch."
+                },
+                {
+                    "headline": "Check the solenoid output current.",
+                    "description": "Place one connector of a test lamp on the output of the solenoid and the other on the battery's ground (earth) terminal. The lamp should light. If not, you will need to take the starter/solenoid assembly off and bench test it."
+                }
+            ]
+        },
+        {
+            "name": "Bench Testing Your Starter",
+            "steps": [
+                {
+                    "headline": "Remove your starter.",
+                    "description": "If you hear nothing when you try to start the car, and the electrical circuits seem to be OK, then there is probably a problem with the starter itself. You'll need to carefully disconnect the starter's wiring, unbolt it, and remove it from the engine block to do further testing. Removing a starter (with or without an attached solenoid) must be done carefully -- including jacking up the vehicle -- to prevent damage or hazards. Your car's owner's manual may be of assistance, but leave this job to a pro if you're not confident in your abilities. If you do remove the starter yourself, make sure you mark all the wires and keep track of the bolts for reassembly!"
+                },
+                {
+                    "headline": "Attach jumper cables to your starter.",
+                    "description": "Take the red jumper cable and connect one end to the positive terminal of a car battery. Connect the other end to the thick positive post on the starter\u2019s solenoid. Attach one end of the black jumper cable to one of the starter\u2019s ears (the fin-like parts sticking up off of the main cylinder) and its other end to the negative battery terminal."
+                },
+                {
+                    "headline": "Connect a wire to the starter\u2019s small terminal.",
+                    "description": "Take a few feet of insulated 16-gauge wire. Strip one end and crimp it onto the small terminal on the starter. Go ahead and strip the other end as well, but don\u2019t do anything with it yet."
+                },
+                {
+                    "headline": "Hold the starter down with one foot.",
+                    "description": "When you bench test the starter, it may move around and shoot some sparks. Holding it down with your foot prevents it from jumping around and causing injury. You can ask someone to help you. Have them hold the starter down securely with a booted foot while you perform the test."
+                },
+                {
+                    "headline": "Touch the other end of the wire to the positive battery post.",
+                    "description": "When you do this, the starter pinion should move and spin. If it doesn\u2019t, then the starter is bad and will need to be replaced. If the starter does spin and you still can\u2019t figure out why the car won\u2019t start, have a mechanic inspect it more thoroughly."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Spanner",
+        "Wire brush",
+        "Multimeter",
+        "Circuit tester",
+        "Ratchet",
+        "Jumper cables",
+        "16 gauge wire"
+    ],
+    "text": " Checking the Pinion Turn on the headlights and try to start the car. A couple of things might happen when you do this. If the car makes a noise like it\u2019s going to start, but the headlights dim, then the starter pinion is probably jammed. If the car makes a clicking noise but never sounds like it's trying to start, and the lights dim, then the problem is likely the battery. Skip to checking the electrical system. Turn the pinion stub with an adjustable wrench (spanner). The starter is a large electrical motor in a cylindrical housing, and it's usually bolted to one side of the engine block. If you see a small, square stub (the pinion stub) sticking out of the end of the cylinder, turn it with your wrench until it moves freely in place. Try starting the car again once the pinion can move freely. In modern cars, you'll find the solenoid (which is a smaller cylinder) attached to the starter cylinder, \"piggyback\" style. They'll be separated and connected by a thick wire in older cars. Refer to your owner's manual for help finding these components. Rock the car if you see no stub and have a manual transmission. Turn the car off and put it in second gear. Release the emergency brake and rock the car back and forth. This can loosen the pinion. If you don\u2019t see a pinion stub and you have an automatic transmission, you will have to take the starter motor off and bench test it. Testing the Electrical System Visually inspect the battery terminals. Pop the hood of your car and check the positive and negative terminals of the battery. If there is any dirt or corrosion, it can cause a bad connection and a lack of power to the starter. If the terminals are dirty or corroded, you can disconnect the battery, clean the connections with a wire brush, and hook them up again. In newer cars, the battery terminals or even the entire battery may be covered with a plastic cap. Remove one or all of these caps to get a good look at the battery. But make sure nothing metal (tools, etc.) accidentally touches both terminals while you're working. Test the battery's voltage with a multimeter. Set your multimeter to its \"DC\" setting and its dial to 20 (to test from 0-20 volts). Place the red probe on the battery's positive (+) terminal, and the black probe on the negative (-) terminal. You'll get a reading above 12V if the battery is working properly. Whether or not the battery terminals look OK, there may be a problem with the wires that feed power to the starter and other components. While you\u2019re checking the voltage, make sure that the battery\u2019s earth strap is securely connected to the car\u2019s bodywork. This is necessary for the battery to operate properly. Visually inspect the solenoid. If you try to start the car and nothing happens, and the battery seems to be powering properly, then there is likely a connection problem with the solenoid. This device is a small cylinder usually attached to the top of the starter. Visually inspect it to make sure all of the wires running to it are connected properly. The solenoid won't work if its wires are hanging loose. Reconnect them and try starting the car again. If this doesn't help, the solenoid may not be powering up properly. Solenoid wires usually clip or bolt into place. If you're not sure where a loose wire goes or how it attaches, get a pro's help. Use a circuit tester to see if the current is getting to the solenoid. Place one lead of the circuit tester (test lamp) to the feed terminal of the solenoid. Attach the other lead to bare bodywork metal. If the tester lights up, then the problem is with the solenoid or the starter itself, not the current getting to it. If the tester doesn\u2019t light up, then there is a bad connection and the wiring will need to be worked on. Another potential cause of this problem is a faulty ignition switch. Check the solenoid output current. Place one connector of a test lamp on the output of the solenoid and the other on the battery's ground (earth) terminal. The lamp should light. If not, you will need to take the starter/solenoid assembly off and bench test it. Bench Testing Your Starter Remove your starter. If you hear nothing when you try to start the car, and the electrical circuits seem to be OK, then there is probably a problem with the starter itself. You'll need to carefully disconnect the starter's wiring, unbolt it, and remove it from the engine block to do further testing. Removing a starter (with or without an attached solenoid) must be done carefully -- including jacking up the vehicle -- to prevent damage or hazards. Your car's owner's manual may be of assistance, but leave this job to a pro if you're not confident in your abilities. If you do remove the starter yourself, make sure you mark all the wires and keep track of the bolts for reassembly! Attach jumper cables to your starter. Take the red jumper cable and connect one end to the positive terminal of a car battery. Connect the other end to the thick positive post on the starter\u2019s solenoid. Attach one end of the black jumper cable to one of the starter\u2019s ears (the fin-like parts sticking up off of the main cylinder) and its other end to the negative battery terminal. Connect a wire to the starter\u2019s small terminal. Take a few feet of insulated 16-gauge wire. Strip one end and crimp it onto the small terminal on the starter. Go ahead and strip the other end as well, but don\u2019t do anything with it yet. Hold the starter down with one foot. When you bench test the starter, it may move around and shoot some sparks. Holding it down with your foot prevents it from jumping around and causing injury. You can ask someone to help you. Have them hold the starter down securely with a booted foot while you perform the test. Touch the other end of the wire to the positive battery post. When you do this, the starter pinion should move and spin. If it doesn\u2019t, then the starter is bad and will need to be replaced. If the starter does spin and you still can\u2019t figure out why the car won\u2019t start, have a mechanic inspect it more thoroughly.",
+    "sentences": [
+        " Checking the Pinion Turn on the headlights and try to start the car.",
+        "A couple of things might happen when you do this.",
+        "If the car makes a noise like it\u2019s going to start, but the headlights dim, then the starter pinion is probably jammed.",
+        "If the car makes a clicking noise but never sounds like it's trying to start, and the lights dim, then the problem is likely the battery.",
+        "Skip to checking the electrical system.",
+        "Turn the pinion stub with an adjustable wrench (spanner).",
+        "The starter is a large electrical motor in a cylindrical housing, and it's usually bolted to one side of the engine block.",
+        "If you see a small, square stub (the pinion stub) sticking out of the end of the cylinder, turn it with your wrench until it moves freely in place.",
+        "Try starting the car again once the pinion can move freely.",
+        "In modern cars, you'll find the solenoid (which is a smaller cylinder) attached to the starter cylinder, \"piggyback\" style.",
+        "They'll be separated and connected by a thick wire in older cars.",
+        "Refer to your owner's manual for help finding these components.",
+        "Rock the car if you see no stub and have a manual transmission.",
+        "Turn the car off and put it in second gear.",
+        "Release the emergency brake and rock the car back and forth.",
+        "This can loosen the pinion.",
+        "If you don\u2019t see a pinion stub and you have an automatic transmission, you will have to take the starter motor off and bench test it.",
+        "Testing the Electrical System Visually inspect the battery terminals.",
+        "Pop the hood of your car and check the positive and negative terminals of the battery.",
+        "If there is any dirt or corrosion, it can cause a bad connection and a lack of power to the starter.",
+        "If the terminals are dirty or corroded, you can disconnect the battery, clean the connections with a wire brush, and hook them up again.",
+        "In newer cars, the battery terminals or even the entire battery may be covered with a plastic cap.",
+        "Remove one or all of these caps to get a good look at the battery.",
+        "But make sure nothing metal (tools, etc.)",
+        "accidentally touches both terminals while you're working.",
+        "Test the battery's voltage with a multimeter.",
+        "Set your multimeter to its \"DC\" setting and its dial to 20 (to test from 0-20 volts).",
+        "Place the red probe on the battery's positive (+) terminal, and the black probe on the negative (-) terminal.",
+        "You'll get a reading above 12V if the battery is working properly.",
+        "Whether or not the battery terminals look OK, there may be a problem with the wires that feed power to the starter and other components.",
+        "While you\u2019re checking the voltage, make sure that the battery\u2019s earth strap is securely connected to the car\u2019s bodywork.",
+        "This is necessary for the battery to operate properly.",
+        "Visually inspect the solenoid.",
+        "If you try to start the car and nothing happens, and the battery seems to be powering properly, then there is likely a connection problem with the solenoid.",
+        "This device is a small cylinder usually attached to the top of the starter.",
+        "Visually inspect it to make sure all of the wires running to it are connected properly.",
+        "The solenoid won't work if its wires are hanging loose.",
+        "Reconnect them and try starting the car again.",
+        "If this doesn't help, the solenoid may not be powering up properly.",
+        "Solenoid wires usually clip or bolt into place.",
+        "If you're not sure where a loose wire goes or how it attaches, get a pro's help.",
+        "Use a circuit tester to see if the current is getting to the solenoid.",
+        "Place one lead of the circuit tester (test lamp) to the feed terminal of the solenoid.",
+        "Attach the other lead to bare bodywork metal.",
+        "If the tester lights up, then the problem is with the solenoid or the starter itself, not the current getting to it.",
+        "If the tester doesn\u2019t light up, then there is a bad connection and the wiring will need to be worked on.",
+        "Another potential cause of this problem is a faulty ignition switch.",
+        "Check the solenoid output current.",
+        "Place one connector of a test lamp on the output of the solenoid and the other on the battery's ground (earth) terminal.",
+        "The lamp should light.",
+        "If not, you will need to take the starter/solenoid assembly off and bench test it.",
+        "Bench Testing Your Starter Remove your starter.",
+        "If you hear nothing when you try to start the car, and the electrical circuits seem to be OK, then there is probably a problem with the starter itself.",
+        "You'll need to carefully disconnect the starter's wiring, unbolt it, and remove it from the engine block to do further testing.",
+        "Removing a starter (with or without an attached solenoid) must be done carefully -- including jacking up the vehicle -- to prevent damage or hazards.",
+        "Your car's owner's manual may be of assistance, but leave this job to a pro if you're not confident in your abilities.",
+        "If you do remove the starter yourself, make sure you mark all the wires and keep track of the bolts for reassembly!",
+        "Attach jumper cables to your starter.",
+        "Take the red jumper cable and connect one end to the positive terminal of a car battery.",
+        "Connect the other end to the thick positive post on the starter\u2019s solenoid.",
+        "Attach one end of the black jumper cable to one of the starter\u2019s ears (the fin-like parts sticking up off of the main cylinder) and its other end to the negative battery terminal.",
+        "Connect a wire to the starter\u2019s small terminal.",
+        "Take a few feet of insulated 16-gauge wire.",
+        "Strip one end and crimp it onto the small terminal on the starter.",
+        "Go ahead and strip the other end as well, but don\u2019t do anything with it yet.",
+        "Hold the starter down with one foot.",
+        "When you bench test the starter, it may move around and shoot some sparks.",
+        "Holding it down with your foot prevents it from jumping around and causing injury.",
+        "You can ask someone to help you.",
+        "Have them hold the starter down securely with a booted foot while you perform the test.",
+        "Touch the other end of the wire to the positive battery post.",
+        "When you do this, the starter pinion should move and spin.",
+        "If it doesn\u2019t, then the starter is bad and will need to be replaced.",
+        "If the starter does spin and you still can\u2019t figure out why the car won\u2019t start, have a mechanic inspect it more thoroughly."
+    ]
+}

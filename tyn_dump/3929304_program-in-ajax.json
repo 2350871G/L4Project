@@ -1,0 +1,136 @@
+{
+    "title": "How to Program in Ajax",
+    "url": "https://www.wikihow.com/Program-in-Ajax",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Web Programming"
+    ],
+    "methods": [
+        {
+            "name": "Coding",
+            "steps": [
+                {
+                    "headline": "Prepare a picture for writing an Ajax program.",
+                    "description": "Save the picture in the same folder where you will save your html and text files displaying the Ajax program. In this article, \u201cProgramInAjax\u201d directory is set up inside the \u201cwamp\u201d folder under the \u201cwww\u201d directory where you installed WampServer."
+                },
+                {
+                    "headline": "Open any text editor.",
+                    "description": "Notepad++ is used as the text editor in this article."
+                },
+                {
+                    "headline": "Create a new file in the text editor.",
+                    "description": "Type the following: \n<h2>Oh oh! Where did the yellow flower go?</h2>\nYou may type whatever you want inside the html tag <h2></h2> here."
+                },
+                {
+                    "headline": "Save the file as a text document with the name of \u201cajax-data.txt.\u201d Actually, you can name the file whatever you want but make sure you enter the same file name to the coding in this line:",
+                    "description": " xmlhttp.open(\"GET\",\"ajax-data.txt\",true); However, the HTML tag <h2></h2> is used  for the header so that it looks bigger and more invisible."
+                },
+                {
+                    "headline": "Create a new file for a webpage.",
+                    "description": "This file is for an HTML file to view the Ajax program in a Web browser."
+                },
+                {
+                    "headline": "Copy the following code:",
+                    "description": " <!DOCTYPE html> <html> <head>  <title>My First Ajax Program by Me</title>  <!--Put the Ajax code below.--> <script> function loadXMLDoc() { var xmlhttp; if (window.XMLHttpRequest)   {// code for IE7+, Firefox, Chrome, Opera, Safari   xmlhttp = new XMLHttpRequest();   } else   {// code for IE6, IE5   xmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");   } xmlhttp.onreadystatechange = function()   {   if (xmlhttp.readyState == 4 && xmlhttp.status == 200)     {     document.getElementById(\"myImage\").innerHTML = xmlhttp.responseText;     }   } xmlhttp.open(\"GET\",\"ajax-data.txt\",true); xmlhttp.send(); } </script><!--End of the script-->  </head>  <body style=\"text-align: center;\">  <!--An image goes here to test the Ajax program.--> <div id=\"myImage\"> <h2>Click the button below to make the flower disappear.</h2> <img src=\"MyPicture.png\" width=\"500px\" height=\"300px\" title=\"Yellow Flower\" alt=\"an image of a yellow flower\"/> </div>  <br/>  <!--A button goes here--> <button type=\"button\" onclick=\"loadXMLDoc()\">Click here to make the picture disappear!</button>  </body> </html>"
+                },
+                {
+                    "headline": "Save the file.",
+                    "description": "Click the save button on the menu bar. A \u201cSave As\u201d box is open. Enter a name for your document. In this article, the name of the file is \u201cindex.\u201d"
+                },
+                {
+                    "headline": "Click the drop down arrow to choose the file extension.",
+                    "description": "At the \u201cSave as type\u201d field, click the drop down arrow to choose the file extension."
+                },
+                {
+                    "headline": "Select \u201cHyper Text Markup Language file.\u201d Make sure that it has \u201chtml\u201d inside the parenthesis.",
+                    "description": "Click save after selecting the \u201chtml.\u201d"
+                },
+                {
+                    "headline": "Test the HTML file in a Web browser.",
+                    "description": "Open the webpage in a web browser. Go to \u201cRun\u201d on the top menu bar. Click it and select \u201cLaunch in Chrome\u201d or any browser being installed in your system. Google Chrome is used for the testing in this article. You may have some other browsers installed within Notepad++. You can select your favorite browser. Another option, you can click the WampServer icon at the taskbars at the bottom of the screen and select \u201cLocalhost.\u201d You should see your directory there and click the index file."
+                },
+                {
+                    "headline": "Click the button below the picture to test the script.",
+                    "description": ""
+                },
+                {
+                    "headline": "Your final webpage.",
+                    "description": "Your webpage should be refreshed with the information that you entered into the text file at the beginning. The flower and the header should be replaced with the new header called \u201cOh oh! Where did the yellow flower go?\u201d"
+                }
+            ]
+        },
+        {
+            "name": "Code Explanation",
+            "steps": [
+                {
+                    "headline": "The body section.",
+                    "description": "The body of HTML has the \u201cdiv\u201d section and one button. This section will be used to display the information returned from the server. The button calls a function named \u201cloadXMLDoc(),\u201d if it is clicked. <!DOCTYPE html>\n<html>\n<head>\n<title>My First Ajax Program by Me</title>\n</head>\n\n<body style=\"text-align: center;\">\n\n<!--An image goes here to test the Ajax program.-->\n<div id=\"myImage\">\n<h2>Click the button below to make the flower disappear.</h2>\n<img src=\"MyPicture.png\" width=\"500px\" height=\"300px\" title=\"Yellow Flower\" alt=\"an image of a yellow flower\"/>\n</div>\n\n<br/>\n\n<!--A button goes here-->\n<button type=\"button\" onclick=\"loadXMLDoc()\">Click here to make the picture disappear!</button>\n\n</body>\n</html>"
+                },
+                {
+                    "headline": "The head section.",
+                    "description": "The head section of the HTML file has a script tag which contains the \u201cloadXMLDoc()\u201d function. <head>\n<title>My First Ajax Program by Me</title>\n\n<!--Put the Ajax code below.-->\n<script>\nfunction loadXMLDoc()\n{\nvar xmlhttp;\nif (window.XMLHttpRequest)\n  {// code for IE7+, Firefox, Chrome, Opera, Safari\n  xmlhttp = new XMLHttpRequest();\n  }\nelse\n  {// code for IE6, IE5\n  xmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");\n  }\nxmlhttp.onreadystatechange = function()\n  {\n  if (xmlhttp.readyState == 4 && xmlhttp.status == 200)\n    {\n    document.getElementById(\"myImage\").innerHTML = xmlhttp.responseText;\n    }\n  }\nxmlhttp.open(\"GET\",\"ajax-data.txt\",true);\nxmlhttp.send();\n}\n</script><!--End of the script-->\n\n</head>"
+                },
+                {
+                    "headline": "More Explanation.",
+                    "description": "The most important thing of Ajax is the XMLHttpRequest object. It is used to exchange data with the server and all modern browsers support the object. The syntax to create an XMLHttpRequest() object is variable=new XMLHttpRequest(); but at the same time the syntax to create old versions of Internet Explorer (IE5 and IE6) that uses an ActiveX object is variable=new ActiveXObject(\"Microsoft.XMLHTTP\");. In order to handle all the modern browsers, it needs to check if the browsers support the XMLHttpRequest object. If it does, it creates an XMLHttpRequest object. If one does not, it will create an ActiveX object for it. Then it will send a request to the server. The method of the XMLHttpRequest object called \u201copen()\u201d and \u201csend()\u201d will be used. xmlhttp.open(\"GET\",\"ajax_info.txt\",true);\nxmlhttp.send();."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "a computer",
+        "any text editor program",
+        "a web browser such as IE, Google Chrome, Safari, Firefox and so on",
+        "a local web server or any remote server (WampServer is used in this article)"
+    ],
+    "text": " Coding Prepare a picture for writing an Ajax program. Save the picture in the same folder where you will save your html and text files displaying the Ajax program. In this article, \u201cProgramInAjax\u201d directory is set up inside the \u201cwamp\u201d folder under the \u201cwww\u201d directory where you installed WampServer. Open any text editor. Notepad++ is used as the text editor in this article. Create a new file in the text editor. Type the following: \n<h2>Oh oh! Where did the yellow flower go?</h2>\nYou may type whatever you want inside the html tag <h2></h2> here. Save the file as a text document with the name of \u201cajax-data.txt.\u201d Actually, you can name the file whatever you want but make sure you enter the same file name to the coding in this line:  xmlhttp.open(\"GET\",\"ajax-data.txt\",true); However, the HTML tag <h2></h2> is used  for the header so that it looks bigger and more invisible. Create a new file for a webpage. This file is for an HTML file to view the Ajax program in a Web browser. Copy the following code:  <!DOCTYPE html> <html> <head>  <title>My First Ajax Program by Me</title>  <!--Put the Ajax code below.--> <script> function loadXMLDoc() { var xmlhttp; if (window.XMLHttpRequest)   {// code for IE7+, Firefox, Chrome, Opera, Safari   xmlhttp = new XMLHttpRequest();   } else   {// code for IE6, IE5   xmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");   } xmlhttp.onreadystatechange = function()   {   if (xmlhttp.readyState == 4 && xmlhttp.status == 200)     {     document.getElementById(\"myImage\").innerHTML = xmlhttp.responseText;     }   } xmlhttp.open(\"GET\",\"ajax-data.txt\",true); xmlhttp.send(); } </script><!--End of the script-->  </head>  <body style=\"text-align: center;\">  <!--An image goes here to test the Ajax program.--> <div id=\"myImage\"> <h2>Click the button below to make the flower disappear.</h2> <img src=\"MyPicture.png\" width=\"500px\" height=\"300px\" title=\"Yellow Flower\" alt=\"an image of a yellow flower\"/> </div>  <br/>  <!--A button goes here--> <button type=\"button\" onclick=\"loadXMLDoc()\">Click here to make the picture disappear!</button>  </body> </html> Save the file. Click the save button on the menu bar. A \u201cSave As\u201d box is open. Enter a name for your document. In this article, the name of the file is \u201cindex.\u201d Click the drop down arrow to choose the file extension. At the \u201cSave as type\u201d field, click the drop down arrow to choose the file extension. Select \u201cHyper Text Markup Language file.\u201d Make sure that it has \u201chtml\u201d inside the parenthesis. Click save after selecting the \u201chtml.\u201d Test the HTML file in a Web browser. Open the webpage in a web browser. Go to \u201cRun\u201d on the top menu bar. Click it and select \u201cLaunch in Chrome\u201d or any browser being installed in your system. Google Chrome is used for the testing in this article. You may have some other browsers installed within Notepad++. You can select your favorite browser. Another option, you can click the WampServer icon at the taskbars at the bottom of the screen and select \u201cLocalhost.\u201d You should see your directory there and click the index file. Click the button below the picture to test the script.  Your final webpage. Your webpage should be refreshed with the information that you entered into the text file at the beginning. The flower and the header should be replaced with the new header called \u201cOh oh! Where did the yellow flower go?\u201d Code Explanation The body section. The body of HTML has the \u201cdiv\u201d section and one button. This section will be used to display the information returned from the server. The button calls a function named \u201cloadXMLDoc(),\u201d if it is clicked. <!DOCTYPE html>\n<html>\n<head>\n<title>My First Ajax Program by Me</title>\n</head>\n\n<body style=\"text-align: center;\">\n\n<!--An image goes here to test the Ajax program.-->\n<div id=\"myImage\">\n<h2>Click the button below to make the flower disappear.</h2>\n<img src=\"MyPicture.png\" width=\"500px\" height=\"300px\" title=\"Yellow Flower\" alt=\"an image of a yellow flower\"/>\n</div>\n\n<br/>\n\n<!--A button goes here-->\n<button type=\"button\" onclick=\"loadXMLDoc()\">Click here to make the picture disappear!</button>\n\n</body>\n</html> The head section. The head section of the HTML file has a script tag which contains the \u201cloadXMLDoc()\u201d function. <head>\n<title>My First Ajax Program by Me</title>\n\n<!--Put the Ajax code below.-->\n<script>\nfunction loadXMLDoc()\n{\nvar xmlhttp;\nif (window.XMLHttpRequest)\n  {// code for IE7+, Firefox, Chrome, Opera, Safari\n  xmlhttp = new XMLHttpRequest();\n  }\nelse\n  {// code for IE6, IE5\n  xmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");\n  }\nxmlhttp.onreadystatechange = function()\n  {\n  if (xmlhttp.readyState == 4 && xmlhttp.status == 200)\n    {\n    document.getElementById(\"myImage\").innerHTML = xmlhttp.responseText;\n    }\n  }\nxmlhttp.open(\"GET\",\"ajax-data.txt\",true);\nxmlhttp.send();\n}\n</script><!--End of the script-->\n\n</head> More Explanation. The most important thing of Ajax is the XMLHttpRequest object. It is used to exchange data with the server and all modern browsers support the object. The syntax to create an XMLHttpRequest() object is variable=new XMLHttpRequest(); but at the same time the syntax to create old versions of Internet Explorer (IE5 and IE6) that uses an ActiveX object is variable=new ActiveXObject(\"Microsoft.XMLHTTP\");. In order to handle all the modern browsers, it needs to check if the browsers support the XMLHttpRequest object. If it does, it creates an XMLHttpRequest object. If one does not, it will create an ActiveX object for it. Then it will send a request to the server. The method of the XMLHttpRequest object called \u201copen()\u201d and \u201csend()\u201d will be used. xmlhttp.open(\"GET\",\"ajax_info.txt\",true);\nxmlhttp.send();.",
+    "sentences": [
+        " Coding Prepare a picture for writing an Ajax program.",
+        "Save the picture in the same folder where you will save your html and text files displaying the Ajax program.",
+        "In this article, \u201cProgramInAjax\u201d directory is set up inside the \u201cwamp\u201d folder under the \u201cwww\u201d directory where you installed WampServer.",
+        "Open any text editor.",
+        "Notepad++ is used as the text editor in this article.",
+        "Create a new file in the text editor.",
+        "Type the following: \n<h2>Oh oh!",
+        "Where did the yellow flower go?</h2>\nYou may type whatever you want inside the html tag <h2></h2> here.",
+        "Save the file as a text document with the name of \u201cajax-data.txt.\u201d Actually, you can name the file whatever you want but make sure you enter the same file name to the coding in this line:  xmlhttp.open(\"GET\",\"ajax-data.txt\",true); However, the HTML tag <h2></h2> is used  for the header so that it looks bigger and more invisible.",
+        "Create a new file for a webpage.",
+        "This file is for an HTML file to view the Ajax program in a Web browser.",
+        "Copy the following code:  <!DOCTYPE html> <html> <head>  <title>My First Ajax Program by Me</title>  <!--Put the Ajax code below.--> <script> function loadXMLDoc() { var xmlhttp; if (window.XMLHttpRequest)   {// code for IE7+, Firefox, Chrome, Opera, Safari   xmlhttp = new XMLHttpRequest();   } else   {// code for IE6, IE5   xmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");   } xmlhttp.onreadystatechange = function()   {   if (xmlhttp.readyState == 4 && xmlhttp.status == 200)     {     document.getElementById(\"myImage\").innerHTML = xmlhttp.responseText;     }   } xmlhttp.open(\"GET\",\"ajax-data.txt\",true); xmlhttp.send(); } </script><!--End of the script-->  </head>  <body style=\"text-align: center;\">  <!--An image goes here to test the Ajax program.--> <div id=\"myImage\"> <h2>Click the button below to make the flower disappear.</h2> <img src=\"MyPicture.png\" width=\"500px\" height=\"300px\" title=\"Yellow Flower\" alt=\"an image of a yellow flower\"/> </div>  <br/>  <!--A button goes here--> <button type=\"button\" onclick=\"loadXMLDoc()\">Click here to make the picture disappear!</button>  </body> </html> Save the file.",
+        "Click the save button on the menu bar.",
+        "A \u201cSave As\u201d box is open.",
+        "Enter a name for your document.",
+        "In this article, the name of the file is \u201cindex.\u201d Click the drop down arrow to choose the file extension.",
+        "At the \u201cSave as type\u201d field, click the drop down arrow to choose the file extension.",
+        "Select \u201cHyper Text Markup Language file.\u201d Make sure that it has \u201chtml\u201d inside the parenthesis.",
+        "Click save after selecting the \u201chtml.\u201d Test the HTML file in a Web browser.",
+        "Open the webpage in a web browser.",
+        "Go to \u201cRun\u201d on the top menu bar.",
+        "Click it and select \u201cLaunch in Chrome\u201d or any browser being installed in your system.",
+        "Google Chrome is used for the testing in this article.",
+        "You may have some other browsers installed within Notepad++.",
+        "You can select your favorite browser.",
+        "Another option, you can click the WampServer icon at the taskbars at the bottom of the screen and select \u201cLocalhost.\u201d You should see your directory there and click the index file.",
+        "Click the button below the picture to test the script.",
+        "Your final webpage.",
+        "Your webpage should be refreshed with the information that you entered into the text file at the beginning.",
+        "The flower and the header should be replaced with the new header called \u201cOh oh!",
+        "Where did the yellow flower go?\u201d Code Explanation The body section.",
+        "The body of HTML has the \u201cdiv\u201d section and one button.",
+        "This section will be used to display the information returned from the server.",
+        "The button calls a function named \u201cloadXMLDoc(),\u201d if it is clicked.",
+        "<!DOCTYPE html>\n<html>\n<head>\n<title>My First Ajax Program by Me</title>\n</head>\n\n<body style=\"text-align: center;\">\n\n<!--An image goes here to test the Ajax program.-->\n<div id=\"myImage\">\n<h2>Click the button below to make the flower disappear.</h2>\n<img src=\"MyPicture.png\" width=\"500px\" height=\"300px\" title=\"Yellow Flower\" alt=\"an image of a yellow flower\"/>\n</div>\n\n<br/>\n\n<!--A button goes here-->\n<button type=\"button\" onclick=\"loadXMLDoc()\">Click here to make the picture disappear!</button>\n\n</body>\n</html> The head section.",
+        "The head section of the HTML file has a script tag which contains the \u201cloadXMLDoc()\u201d function.",
+        "<head>\n<title>My First Ajax Program by Me</title>\n\n<!--Put the Ajax code below.-->\n<script>\nfunction loadXMLDoc()\n{\nvar xmlhttp;\nif (window.XMLHttpRequest)\n  {// code for IE7+, Firefox, Chrome, Opera, Safari\n  xmlhttp = new XMLHttpRequest();\n  }\nelse\n  {// code for IE6, IE5\n  xmlhttp = new ActiveXObject(\"Microsoft.XMLHTTP\");\n  }\nxmlhttp.onreadystatechange = function()\n  {\n  if (xmlhttp.readyState == 4 && xmlhttp.status == 200)\n    {\n    document.getElementById(\"myImage\").innerHTML = xmlhttp.responseText;\n    }\n  }\nxmlhttp.open(\"GET\",\"ajax-data.txt\",true);\nxmlhttp.send();\n}\n</script><!--End of the script-->\n\n</head> More Explanation.",
+        "The most important thing of Ajax is the XMLHttpRequest object.",
+        "It is used to exchange data with the server and all modern browsers support the object.",
+        "The syntax to create an XMLHttpRequest() object is variable=new XMLHttpRequest(); but at the same time the syntax to create old versions of Internet Explorer (IE5 and IE6) that uses an ActiveX object is variable=new ActiveXObject(\"Microsoft.XMLHTTP\");.",
+        "In order to handle all the modern browsers, it needs to check if the browsers support the XMLHttpRequest object.",
+        "If it does, it creates an XMLHttpRequest object.",
+        "If one does not, it will create an ActiveX object for it.",
+        "Then it will send a request to the server.",
+        "The method of the XMLHttpRequest object called \u201copen()\u201d and \u201csend()\u201d will be used.",
+        "xmlhttp.open(\"GET\",\"ajax_info.txt\",true);\nxmlhttp.send();."
+    ]
+}

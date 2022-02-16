@@ -1,0 +1,138 @@
+{
+    "title": "How to Create High Dynamic Range Photographs",
+    "url": "https://www.wikihow.com/Create-High-Dynamic-Range-Photographs",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Photography",
+        "Photographic Techniques"
+    ],
+    "methods": [
+        {
+            "name": "Taking Your Photographs",
+            "steps": [
+                {
+                    "headline": "Choose your scene.",
+                    "description": "HDR will often bring out the best in any scene, so this is up to you. If you're out of ideas, search Flickr to see what other people have done in HDR. Failing that, find a scene with plenty of cloud; HDR photos bring out a stunning amount of cloud detail."
+                },
+                {
+                    "headline": "Set up your camera.",
+                    "description": "Put your camera on a tripod if you have one; find a solid surface to rest it on if you don't. If you have a remote release for your camera, all the better; you could also use a short self-timer if you don't. Whatever you use, it is very important that the camera does not move between shots. If your camera has automatic exposure bracketing, then use it (this is called AEB on the menus on Canon cameras). Setting AEB to -2/+2 EV is usually okay, but experiment to see what works best for you."
+                },
+                {
+                    "headline": "Take your photographs.",
+                    "description": "If you have set up AEB on your camera, then just fire off three shots in a row. If you don't have AEB, then take a photo, adjust the shutter speed one or two stops faster (i.e. if you're at 1/250 sec, go to 1/500 or 1/1000 sec), take a photo, then adjust it one or two stops slower than your original shutter speed (i.e. if you were at 1/250 sec, then set it to 1/125 or 1/60 sec), and take another photo. You will now have three photographs: one overexposed, one underexposed, and one normal."
+                },
+                {
+                    "headline": "Go home, and copy your photographs to your computer.",
+                    "description": "You will now create and tone-map an HDR image from the three photographs you just took."
+                }
+            ]
+        },
+        {
+            "name": "Creating and Tone-Mapping an HDR Image",
+            "steps": [
+                {
+                    "headline": "Download and install qtpfsgui.",
+                    "description": "There are other programs for the purpose, but qtpfsgui is free, open source, and works on many platforms (Windows, Linux, and Mac OS X)."
+                },
+                {
+                    "headline": "Close any other programs you are running.",
+                    "description": "Tone-mapping is a very CPU-intensive task and may cause your computer to run extremely slowly."
+                },
+                {
+                    "headline": "Run qtpfsgui and click \"New Hdr\".",
+                    "description": "In the window that pops up, click \"Load Images\" and browse for the three photographs you just took. qtpfsgui should automatically determine the exposure value from the EXIF metadata in the image; if it cannot (for example, if there is no aperture set in the EXIF data, for those using old lenses with a DSLR via an adapter), you will have to set it yourself. Click \"Next\"."
+                },
+                {
+                    "headline": "Ignore the next window that comes up.",
+                    "description": "Just click through it by hitting \"Next\"; you probably won't want to bother with anything therein."
+                },
+                {
+                    "headline": "Ignore the window after that, too.",
+                    "description": "Again, these parameters do have some effect, but the defaults are usually pretty sensible. Hit Finish. You now have a high dynamic range image, but not one that can be displayed in a low dynamic range format (like the universal JPEG format). This is where tone-mapping comes in: compressing the dynamic range of the image you have created so that a 24-bit format like JPEG can appear to have more dynamic range than it really does."
+                },
+                {
+                    "headline": "Tone-map the HDR image.",
+                    "description": "Hit the \"Tonemap the Hdr\" button in the toolbar. A window will pop up with a slightly bewildering array of tone mapping algorithms and parameters. For the most part, the Mantiuk algorithm (which is the first one shown) does a very good job. But you may want to play with the others as well. Hit \"Apply\" to tone-map the image."
+                },
+                {
+                    "headline": "Start small.",
+                    "description": "Experiment with algorithms and their parameters on a reduced-size version of your image (you can pick a smaller one from the dropdown box of different sizes near the top left). Tone-mapping is a very mathematically demanding operation; the Mantiuk algorithm can take many minutes to render a photo at full size on slower computers, but  only a few seconds to process a 256x170 version of the same."
+                },
+                {
+                    "headline": "Save your image.",
+                    "description": "Go to File -> Save as... Under \"File name\", be sure to give your file a jpg extension."
+                },
+                {
+                    "headline": "Optionally, post-process your image a little.",
+                    "description": "You'll need Adobe Photoshop, or its free and open-source alternative GIMP, or photo editing software of your choice. Fix the colour/white balance (this should not be done with photos before creating your HDR image, as it can have weird effects). Applying subtle amounts of \"Unsharp mask\" can be a very good thing. You may also have weird ghosting artifacts that you will want to edit out."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A camera with either automatic exposure bracketing, manual exposure compensation, or manual shutter speed control. All digital SLRs worth their salt will have these features, and many point-and-shoot cameras will have the former feature, too. You don't even necessarily need a digital camera for this; as long as you're able to set the shutter speed manually, you can use a film camera.",
+        "[1]",
+        "X",
+        "Research source",
+        "A tripod, if you have one, or a solid surface to rest on if you do not. A remote release is handy, too, if you're using very long exposures, but not essential.  If you don't have a remote release, the timer function can allow the camera to stabilize after you press the shutter switch.",
+        "qtpfsgui",
+        ". There is other software that can do the same thing, but qtpfsgui is free, open source, and very effective.",
+        "Optionally, your favourite photo editing software; ",
+        "GIMP",
+        " is free, though allegedly more difficult to use than most."
+    ],
+    "text": " Taking Your Photographs Choose your scene. HDR will often bring out the best in any scene, so this is up to you. If you're out of ideas, search Flickr to see what other people have done in HDR. Failing that, find a scene with plenty of cloud; HDR photos bring out a stunning amount of cloud detail. Set up your camera. Put your camera on a tripod if you have one; find a solid surface to rest it on if you don't. If you have a remote release for your camera, all the better; you could also use a short self-timer if you don't. Whatever you use, it is very important that the camera does not move between shots. If your camera has automatic exposure bracketing, then use it (this is called AEB on the menus on Canon cameras). Setting AEB to -2/+2 EV is usually okay, but experiment to see what works best for you. Take your photographs. If you have set up AEB on your camera, then just fire off three shots in a row. If you don't have AEB, then take a photo, adjust the shutter speed one or two stops faster (i.e. if you're at 1/250 sec, go to 1/500 or 1/1000 sec), take a photo, then adjust it one or two stops slower than your original shutter speed (i.e. if you were at 1/250 sec, then set it to 1/125 or 1/60 sec), and take another photo. You will now have three photographs: one overexposed, one underexposed, and one normal. Go home, and copy your photographs to your computer. You will now create and tone-map an HDR image from the three photographs you just took. Creating and Tone-Mapping an HDR Image Download and install qtpfsgui. There are other programs for the purpose, but qtpfsgui is free, open source, and works on many platforms (Windows, Linux, and Mac OS X). Close any other programs you are running. Tone-mapping is a very CPU-intensive task and may cause your computer to run extremely slowly. Run qtpfsgui and click \"New Hdr\". In the window that pops up, click \"Load Images\" and browse for the three photographs you just took. qtpfsgui should automatically determine the exposure value from the EXIF metadata in the image; if it cannot (for example, if there is no aperture set in the EXIF data, for those using old lenses with a DSLR via an adapter), you will have to set it yourself. Click \"Next\". Ignore the next window that comes up. Just click through it by hitting \"Next\"; you probably won't want to bother with anything therein. Ignore the window after that, too. Again, these parameters do have some effect, but the defaults are usually pretty sensible. Hit Finish. You now have a high dynamic range image, but not one that can be displayed in a low dynamic range format (like the universal JPEG format). This is where tone-mapping comes in: compressing the dynamic range of the image you have created so that a 24-bit format like JPEG can appear to have more dynamic range than it really does. Tone-map the HDR image. Hit the \"Tonemap the Hdr\" button in the toolbar. A window will pop up with a slightly bewildering array of tone mapping algorithms and parameters. For the most part, the Mantiuk algorithm (which is the first one shown) does a very good job. But you may want to play with the others as well. Hit \"Apply\" to tone-map the image. Start small. Experiment with algorithms and their parameters on a reduced-size version of your image (you can pick a smaller one from the dropdown box of different sizes near the top left). Tone-mapping is a very mathematically demanding operation; the Mantiuk algorithm can take many minutes to render a photo at full size on slower computers, but  only a few seconds to process a 256x170 version of the same. Save your image. Go to File -> Save as... Under \"File name\", be sure to give your file a jpg extension. Optionally, post-process your image a little. You'll need Adobe Photoshop, or its free and open-source alternative GIMP, or photo editing software of your choice. Fix the colour/white balance (this should not be done with photos before creating your HDR image, as it can have weird effects). Applying subtle amounts of \"Unsharp mask\" can be a very good thing. You may also have weird ghosting artifacts that you will want to edit out.",
+    "sentences": [
+        " Taking Your Photographs Choose your scene.",
+        "HDR will often bring out the best in any scene, so this is up to you.",
+        "If you're out of ideas, search Flickr to see what other people have done in HDR.",
+        "Failing that, find a scene with plenty of cloud; HDR photos bring out a stunning amount of cloud detail.",
+        "Set up your camera.",
+        "Put your camera on a tripod if you have one; find a solid surface to rest it on if you don't.",
+        "If you have a remote release for your camera, all the better; you could also use a short self-timer if you don't.",
+        "Whatever you use, it is very important that the camera does not move between shots.",
+        "If your camera has automatic exposure bracketing, then use it (this is called AEB on the menus on Canon cameras).",
+        "Setting AEB to -2/+2 EV is usually okay, but experiment to see what works best for you.",
+        "Take your photographs.",
+        "If you have set up AEB on your camera, then just fire off three shots in a row.",
+        "If you don't have AEB, then take a photo, adjust the shutter speed one or two stops faster (i.e.",
+        "if you're at 1/250 sec, go to 1/500 or 1/1000 sec), take a photo, then adjust it one or two stops slower than your original shutter speed (i.e.",
+        "if you were at 1/250 sec, then set it to 1/125 or 1/60 sec), and take another photo.",
+        "You will now have three photographs: one overexposed, one underexposed, and one normal.",
+        "Go home, and copy your photographs to your computer.",
+        "You will now create and tone-map an HDR image from the three photographs you just took.",
+        "Creating and Tone-Mapping an HDR Image Download and install qtpfsgui.",
+        "There are other programs for the purpose, but qtpfsgui is free, open source, and works on many platforms (Windows, Linux, and Mac OS X).",
+        "Close any other programs you are running.",
+        "Tone-mapping is a very CPU-intensive task and may cause your computer to run extremely slowly.",
+        "Run qtpfsgui and click \"New Hdr\".",
+        "In the window that pops up, click \"Load Images\" and browse for the three photographs you just took.",
+        "qtpfsgui should automatically determine the exposure value from the EXIF metadata in the image; if it cannot (for example, if there is no aperture set in the EXIF data, for those using old lenses with a DSLR via an adapter), you will have to set it yourself.",
+        "Click \"Next\".",
+        "Ignore the next window that comes up.",
+        "Just click through it by hitting \"Next\"; you probably won't want to bother with anything therein.",
+        "Ignore the window after that, too.",
+        "Again, these parameters do have some effect, but the defaults are usually pretty sensible.",
+        "Hit Finish.",
+        "You now have a high dynamic range image, but not one that can be displayed in a low dynamic range format (like the universal JPEG format).",
+        "This is where tone-mapping comes in: compressing the dynamic range of the image you have created so that a 24-bit format like JPEG can appear to have more dynamic range than it really does.",
+        "Tone-map the HDR image.",
+        "Hit the \"Tonemap the Hdr\" button in the toolbar.",
+        "A window will pop up with a slightly bewildering array of tone mapping algorithms and parameters.",
+        "For the most part, the Mantiuk algorithm (which is the first one shown) does a very good job.",
+        "But you may want to play with the others as well.",
+        "Hit \"Apply\" to tone-map the image.",
+        "Start small.",
+        "Experiment with algorithms and their parameters on a reduced-size version of your image (you can pick a smaller one from the dropdown box of different sizes near the top left).",
+        "Tone-mapping is a very mathematically demanding operation; the Mantiuk algorithm can take many minutes to render a photo at full size on slower computers, but  only a few seconds to process a 256x170 version of the same.",
+        "Save your image.",
+        "Go to File -> Save as...",
+        "Under \"File name\", be sure to give your file a jpg extension.",
+        "Optionally, post-process your image a little.",
+        "You'll need Adobe Photoshop, or its free and open-source alternative GIMP, or photo editing software of your choice.",
+        "Fix the colour/white balance (this should not be done with photos before creating your HDR image, as it can have weird effects).",
+        "Applying subtle amounts of \"Unsharp mask\" can be a very good thing.",
+        "You may also have weird ghosting artifacts that you will want to edit out."
+    ]
+}

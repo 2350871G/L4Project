@@ -1,0 +1,128 @@
+{
+    "title": "How to Slipstream Your SATA Drivers Into a Windows XP Installation CD Using nLite",
+    "url": "https://www.wikihow.com/Slipstream-Your-SATA-Drivers-Into-a-Windows-XP-Installation-CD-Using-nLite",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "XP Instructions"
+    ],
+    "steps": [
+        {
+            "headline": "Locate and download the SATA Controller driver by using a search engine to find a file named \u201cf6flpy3286.zip\u201d",
+            "description": ""
+        },
+        {
+            "headline": "Extract the file contents to \u201c%userprofile%\\desktop\\SATA Driver\u201d",
+            "description": ""
+        },
+        {
+            "headline": "Download and install nLite.",
+            "description": "nLite is a free program which allows you to integrate software and drivers into a Windows installation source. Use a search engine to locate nLite v1.4.9.1 or download the installer from the following location: http://www.nliteos.com/download.html"
+        },
+        {
+            "headline": "Insert your Windows XP CD and cancel the AutoPlay menu if it comes up.",
+            "description": ""
+        },
+        {
+            "headline": "Launch nLite.",
+            "description": "Choose English (default) and click Next."
+        },
+        {
+            "headline": "Now you must locate the installation source path.",
+            "description": "Enter the drive letter of your CD-ROM, usually \"E:\\\" or \"D:\\\" (without quotes) as the path to your Windows installation source. Click Next."
+        },
+        {
+            "headline": "A message pops up saying \"Select where to save the CD installation files for modification\", just click OK.",
+            "description": ""
+        },
+        {
+            "headline": "Select Desktop, click Make New Folder and name it \"XP Source\" (without quotes).",
+            "description": "Now click OK."
+        },
+        {
+            "headline": "nLite will now copy your XP installation files to the folder you created.",
+            "description": "Click Next when this is complete."
+        },
+        {
+            "headline": "You should now be at the Presets page which should be empty unless you have used nLite before.",
+            "description": "Just click Next."
+        },
+        {
+            "headline": "Now you are at the Task Selection window.",
+            "description": "Click on Drivers and Bootable ISO,  then click Next."
+        },
+        {
+            "headline": "You have to locate our SATA controller driver here.",
+            "description": "Click Insert, and choose Single Driver."
+        },
+        {
+            "headline": "In the File Name box type in \"%userprofile%\\desktop\\sata driver\\iaAHCI.inf\" (without quotes) and click Open.",
+            "description": ""
+        },
+        {
+            "headline": "The Driver Integration Options window pops up now.",
+            "description": "Make sure Textmode driver is selected as the Mode type. Highlight \"Intel (R) ICH9M-E/M SATA AHCI Controller\" and click OK, then click Next."
+        },
+        {
+            "headline": "A new message comes up asking \"Do you want to start the process?",
+            "description": "\", click Yes"
+        },
+        {
+            "headline": "Now nLite will integrate your drivers into your XP installation folder (%userprofile%\\desktop\\XP Source).",
+            "description": "When this is finished, click Next, eject your Windows CD and insert a blank CD-R"
+        },
+        {
+            "headline": "You should be at the Bootable ISO window.",
+            "description": "Select Direct Burn for the Mode type and enter a volume label for your CD (eg. XPSP3SATA)."
+        },
+        {
+            "headline": "Now just click on Burn and wait for the CD writing process to complete.",
+            "description": ""
+        },
+        {
+            "headline": "Congratulations, you have successfully created a bootable Windows XP installation CD with your SATA controller drivers already integrated.",
+            "description": "You can now install Windows XP as you would normally."
+        }
+    ],
+    "tyn": [
+        "A computer running any 32 or 64 bit version of Windows (Windows 9x not supported)",
+        "A connection to the internet",
+        "A Windows XP installation CD",
+        "A CD writer",
+        "A blank CD-R (Recordable Compact Disc)"
+    ],
+    "text": " Locate and download the SATA Controller driver by using a search engine to find a file named \u201cf6flpy3286.zip\u201d  Extract the file contents to \u201c%userprofile%\\desktop\\SATA Driver\u201d  Download and install nLite. nLite is a free program which allows you to integrate software and drivers into a Windows installation source. Use a search engine to locate nLite v1.4.9.1 or download the installer from the following location: http://www.nliteos.com/download.html Insert your Windows XP CD and cancel the AutoPlay menu if it comes up.  Launch nLite. Choose English (default) and click Next. Now you must locate the installation source path. Enter the drive letter of your CD-ROM, usually \"E:\\\" or \"D:\\\" (without quotes) as the path to your Windows installation source. Click Next. A message pops up saying \"Select where to save the CD installation files for modification\", just click OK.  Select Desktop, click Make New Folder and name it \"XP Source\" (without quotes). Now click OK. nLite will now copy your XP installation files to the folder you created. Click Next when this is complete. You should now be at the Presets page which should be empty unless you have used nLite before. Just click Next. Now you are at the Task Selection window. Click on Drivers and Bootable ISO,  then click Next. You have to locate our SATA controller driver here. Click Insert, and choose Single Driver. In the File Name box type in \"%userprofile%\\desktop\\sata driver\\iaAHCI.inf\" (without quotes) and click Open.  The Driver Integration Options window pops up now. Make sure Textmode driver is selected as the Mode type. Highlight \"Intel (R) ICH9M-E/M SATA AHCI Controller\" and click OK, then click Next. A new message comes up asking \"Do you want to start the process? \", click Yes Now nLite will integrate your drivers into your XP installation folder (%userprofile%\\desktop\\XP Source). When this is finished, click Next, eject your Windows CD and insert a blank CD-R You should be at the Bootable ISO window. Select Direct Burn for the Mode type and enter a volume label for your CD (eg. XPSP3SATA). Now just click on Burn and wait for the CD writing process to complete.  Congratulations, you have successfully created a bootable Windows XP installation CD with your SATA controller drivers already integrated. You can now install Windows XP as you would normally.",
+    "sentences": [
+        " Locate and download the SATA Controller driver by using a search engine to find a file named \u201cf6flpy3286.zip\u201d  Extract the file contents to \u201c%userprofile%\\desktop\\SATA Driver\u201d  Download and install nLite.",
+        "nLite is a free program which allows you to integrate software and drivers into a Windows installation source.",
+        "Use a search engine to locate nLite v1.4.9.1 or download the installer from the following location: http://www.nliteos.com/download.html Insert your Windows XP CD and cancel the AutoPlay menu if it comes up.",
+        "Launch nLite.",
+        "Choose English (default) and click Next.",
+        "Now you must locate the installation source path.",
+        "Enter the drive letter of your CD-ROM, usually \"E:\\\" or \"D:\\\" (without quotes) as the path to your Windows installation source.",
+        "Click Next.",
+        "A message pops up saying \"Select where to save the CD installation files for modification\", just click OK.",
+        "Select Desktop, click Make New Folder and name it \"XP Source\" (without quotes).",
+        "Now click OK. nLite will now copy your XP installation files to the folder you created.",
+        "Click Next when this is complete.",
+        "You should now be at the Presets page which should be empty unless you have used nLite before.",
+        "Just click Next.",
+        "Now you are at the Task Selection window.",
+        "Click on Drivers and Bootable ISO,  then click Next.",
+        "You have to locate our SATA controller driver here.",
+        "Click Insert, and choose Single Driver.",
+        "In the File Name box type in \"%userprofile%\\desktop\\sata driver\\iaAHCI.inf\" (without quotes) and click Open.",
+        "The Driver Integration Options window pops up now.",
+        "Make sure Textmode driver is selected as the Mode type.",
+        "Highlight \"Intel (R) ICH9M-E/M SATA AHCI Controller\" and click OK, then click Next.",
+        "A new message comes up asking \"Do you want to start the process?",
+        "\", click Yes Now nLite will integrate your drivers into your XP installation folder (%userprofile%\\desktop\\XP Source).",
+        "When this is finished, click Next, eject your Windows CD and insert a blank CD-R You should be at the Bootable ISO window.",
+        "Select Direct Burn for the Mode type and enter a volume label for your CD (eg.",
+        "XPSP3SATA).",
+        "Now just click on Burn and wait for the CD writing process to complete.",
+        "Congratulations, you have successfully created a bootable Windows XP installation CD with your SATA controller drivers already integrated.",
+        "You can now install Windows XP as you would normally."
+    ]
+}

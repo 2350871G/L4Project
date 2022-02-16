@@ -1,0 +1,138 @@
+{
+    "title": "How to Charge a Battery with a Solar Panel",
+    "url": "https://www.wikihow.com/Charge-a-Battery-with-a-Solar-Panel",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Engineering"
+    ],
+    "methods": [
+        {
+            "name": "Purchasing a Charge Controller",
+            "steps": [
+                {
+                    "headline": "Check the back of your panel for the wattage.",
+                    "description": "Typically, there should be a sticker on the back of your solar panel that lists the watts that it will produce. For example, you might see 300W listed on the back of your panel, which means the array produces 300 watts of energy. If you don\u2019t have one of those or you built your own solar array, use a multimeter to measure the wattage output of your solar panel when it\u2019s in the full sun. Solar panels are designed to produce more power than the voltage they're rated for. For instance, a solar power designed for a 12V output might actually produce 17V of power. That's because they'll only produce their max voltage under ideal conditions. If the solar panel produces more power than the battery can handle, the battery can overcharge and be damaged. A charge controller helps prevent this from occurring."
+                },
+                {
+                    "headline": "Divide the solar watt rating by the voltage of your battery.",
+                    "description": "You can usually find the voltage listed on the battery itself. Divide this number into the wattage that was listed on the back of your solar panel. This will give you the amps that your charge controller needs to be able to handle in order to safely charge the battery. Often, charge controllers will be rated in multiples of 30 amps, so when you get your number, round up to the next highest rating. For example, if your solar panel is 300W and you want to charge a 12V battery, you\u2019d divide 300 by 12 to get 25 amps. In that case, you\u2019d get a charge controller rated for 30 amps."
+                },
+                {
+                    "headline": "Choose an MPPT charge controller for better efficiency.",
+                    "description": "There are 2 main types of charge controllers: MPPT (Maximum Power Point Tracking) and PWM (Pulse Width Modulation). Both will regulate the maximum voltage that the solar panel can send to the battery, but an MPPT charge controller can be up to 30% more effective at storing and transferring energy than PWM models. Also, you can use MPPT charge controllers with strings of solar panels, but not PWM controllers. These options are more expensive than PWM models, but the increased energy efficiency can quickly make up for the price difference."
+                },
+                {
+                    "headline": "Purchase a PWM charge controller for a budget-friendly option.",
+                    "description": "If you\u2019re just starting to experiment with solar power, a PWM charge controller can be a good point of entry. These controllers use pulses of energy to charge the battery, and they monitor the power in the battery to ensure it isn\u2019t overcharged.Tip: The process for installing these controllers is the same, so if you start off with a PWM model and decide you want to upgrade to an MPPT, they\u2019ll be easy to switch out."
+                }
+            ]
+        },
+        {
+            "name": "Setting up the Controller",
+            "steps": [
+                {
+                    "headline": "Mount the charge controller somewhere grounded and out of the elements.",
+                    "description": "Charge controllers are not weather-proof, so they shouldn\u2019t be installed outside, even if your solar panels are permanently mounted in place. Instead, find an out-of-the-way place to install the charge controller, then run wires from the panel to the controller. It's always safest to mount electrical equipment to a non-conductive material, like a PVC panel or a piece of wood, rather than installing it on a metal surface."
+                },
+                {
+                    "headline": "Connect a positive and a negative wire to your battery.",
+                    "description": "You can either do this by wrapping bare wires around the battery posts, securing the wires to the posts with clamps, or by using wires with ring connectors that fit over the posts. However, keep in mind that it's safest if you have a way to tell the positive and negative wires apart. For instance, you may want to use a red wire as your hot wire and a black one for the negative, or you could use solid black wire for your negative and a black wire with words printed on it for the positive side. Of course, if your battery bank already has wires connected, you won\u2019t need to attach new wires to the battery first. Warning: In order to prevent a sudden surge from damaging the charge controller, it\u2019s best to connect the battery before the solar panel."
+                },
+                {
+                    "headline": "Slide the ends of the wires into the input ports on the charge controller.",
+                    "description": "The ends of the wires that plug into the charge controller typically will not need to be fitted with any type of a connector. Instead, slide the ends of the bares positive and negative wires into the corresponding ports, then use a screwdriver to tighten the screws that secure the wires in place. Take care to match up the positive and negative cables with the appropriate ports, or you could short out your battery or controller. If you're connecting a 12V battery, use 10-gauge or 16-gauge wire."
+                },
+                {
+                    "headline": "Use MC4 connectors to connect the wires to the charge controller.",
+                    "description": "The output wires on solar panels are typically fitted with MC4 connectors, which are long cylindrical fittings that have a male and a female side. In order to ensure they connect correctly, fit the wires running from your charge connector with MC4 connectors. Attach the bare ends of the input wires to the charge connector the same way that you attached the output wires\u2014slide them into the input ports and tighten the screws with a screwdriver. You can find these connectors wherever electrical or solar supplies are sold, and they should come with specific instructions on how to attach them to the wires."
+                },
+                {
+                    "headline": "Connect the wires from the controller to the solar panel.",
+                    "description": "Once you've attached the input wires to the charge connector, you should have 2 loose wires, each ending in an MC4 connector. Match up the male and female connectors with the opposite ones coming away from the solar panel, and snap the MC4 connectors into place. You should hear a \u201cclick\u201d when the connectors are seated securely. Be sure to connect the male connector to a female connector and vice versa. You can never be too careful when you\u2019re working with electricity. Take the time to double-check that the positive and negative cables are matched up correctly!"
+                },
+                {
+                    "headline": "Check the output on the charge connector to make sure it\u2019s working.",
+                    "description": "Most charge connectors have a digital screen that will show you the output that\u2019s flowing to the battery. If the readings are 0, double-check that everything is hooked up correctly. Some charge connectors will even communicate with an app, so you can monitor the voltage from your smartphone or tablet!"
+                },
+                {
+                    "headline": "Leave the battery on the connector until it\u2019s charged.",
+                    "description": "The length of time it will take to charge your battery will depend on the size of the battery you\u2019re using, the wattage of the solar panel, and even the weather that day. That\u2019s where your digital display will come in handy. When you notice the output dropping, it\u2019s likely that the battery is close to fully charged. Since the charge connector will stop the flow of energy to the battery once it\u2019s charged, it\u2019s fine to leave it on the charger until you need it!"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Solar panel",
+        "Battery",
+        "Charge controller",
+        "16-gauge wire",
+        "2 MC4 connectors",
+        "Screwdriver",
+        "Multimeter"
+    ],
+    "text": " Purchasing a Charge Controller Check the back of your panel for the wattage. Typically, there should be a sticker on the back of your solar panel that lists the watts that it will produce. For example, you might see 300W listed on the back of your panel, which means the array produces 300 watts of energy. If you don\u2019t have one of those or you built your own solar array, use a multimeter to measure the wattage output of your solar panel when it\u2019s in the full sun. Solar panels are designed to produce more power than the voltage they're rated for. For instance, a solar power designed for a 12V output might actually produce 17V of power. That's because they'll only produce their max voltage under ideal conditions. If the solar panel produces more power than the battery can handle, the battery can overcharge and be damaged. A charge controller helps prevent this from occurring. Divide the solar watt rating by the voltage of your battery. You can usually find the voltage listed on the battery itself. Divide this number into the wattage that was listed on the back of your solar panel. This will give you the amps that your charge controller needs to be able to handle in order to safely charge the battery. Often, charge controllers will be rated in multiples of 30 amps, so when you get your number, round up to the next highest rating. For example, if your solar panel is 300W and you want to charge a 12V battery, you\u2019d divide 300 by 12 to get 25 amps. In that case, you\u2019d get a charge controller rated for 30 amps. Choose an MPPT charge controller for better efficiency. There are 2 main types of charge controllers: MPPT (Maximum Power Point Tracking) and PWM (Pulse Width Modulation). Both will regulate the maximum voltage that the solar panel can send to the battery, but an MPPT charge controller can be up to 30% more effective at storing and transferring energy than PWM models. Also, you can use MPPT charge controllers with strings of solar panels, but not PWM controllers. These options are more expensive than PWM models, but the increased energy efficiency can quickly make up for the price difference. Purchase a PWM charge controller for a budget-friendly option. If you\u2019re just starting to experiment with solar power, a PWM charge controller can be a good point of entry. These controllers use pulses of energy to charge the battery, and they monitor the power in the battery to ensure it isn\u2019t overcharged.Tip: The process for installing these controllers is the same, so if you start off with a PWM model and decide you want to upgrade to an MPPT, they\u2019ll be easy to switch out. Setting up the Controller Mount the charge controller somewhere grounded and out of the elements. Charge controllers are not weather-proof, so they shouldn\u2019t be installed outside, even if your solar panels are permanently mounted in place. Instead, find an out-of-the-way place to install the charge controller, then run wires from the panel to the controller. It's always safest to mount electrical equipment to a non-conductive material, like a PVC panel or a piece of wood, rather than installing it on a metal surface. Connect a positive and a negative wire to your battery. You can either do this by wrapping bare wires around the battery posts, securing the wires to the posts with clamps, or by using wires with ring connectors that fit over the posts. However, keep in mind that it's safest if you have a way to tell the positive and negative wires apart. For instance, you may want to use a red wire as your hot wire and a black one for the negative, or you could use solid black wire for your negative and a black wire with words printed on it for the positive side. Of course, if your battery bank already has wires connected, you won\u2019t need to attach new wires to the battery first. Warning: In order to prevent a sudden surge from damaging the charge controller, it\u2019s best to connect the battery before the solar panel. Slide the ends of the wires into the input ports on the charge controller. The ends of the wires that plug into the charge controller typically will not need to be fitted with any type of a connector. Instead, slide the ends of the bares positive and negative wires into the corresponding ports, then use a screwdriver to tighten the screws that secure the wires in place. Take care to match up the positive and negative cables with the appropriate ports, or you could short out your battery or controller. If you're connecting a 12V battery, use 10-gauge or 16-gauge wire. Use MC4 connectors to connect the wires to the charge controller. The output wires on solar panels are typically fitted with MC4 connectors, which are long cylindrical fittings that have a male and a female side. In order to ensure they connect correctly, fit the wires running from your charge connector with MC4 connectors. Attach the bare ends of the input wires to the charge connector the same way that you attached the output wires\u2014slide them into the input ports and tighten the screws with a screwdriver. You can find these connectors wherever electrical or solar supplies are sold, and they should come with specific instructions on how to attach them to the wires. Connect the wires from the controller to the solar panel. Once you've attached the input wires to the charge connector, you should have 2 loose wires, each ending in an MC4 connector. Match up the male and female connectors with the opposite ones coming away from the solar panel, and snap the MC4 connectors into place. You should hear a \u201cclick\u201d when the connectors are seated securely. Be sure to connect the male connector to a female connector and vice versa. You can never be too careful when you\u2019re working with electricity. Take the time to double-check that the positive and negative cables are matched up correctly! Check the output on the charge connector to make sure it\u2019s working. Most charge connectors have a digital screen that will show you the output that\u2019s flowing to the battery. If the readings are 0, double-check that everything is hooked up correctly. Some charge connectors will even communicate with an app, so you can monitor the voltage from your smartphone or tablet! Leave the battery on the connector until it\u2019s charged. The length of time it will take to charge your battery will depend on the size of the battery you\u2019re using, the wattage of the solar panel, and even the weather that day. That\u2019s where your digital display will come in handy. When you notice the output dropping, it\u2019s likely that the battery is close to fully charged. Since the charge connector will stop the flow of energy to the battery once it\u2019s charged, it\u2019s fine to leave it on the charger until you need it!",
+    "sentences": [
+        " Purchasing a Charge Controller Check the back of your panel for the wattage.",
+        "Typically, there should be a sticker on the back of your solar panel that lists the watts that it will produce.",
+        "For example, you might see 300W listed on the back of your panel, which means the array produces 300 watts of energy.",
+        "If you don\u2019t have one of those or you built your own solar array, use a multimeter to measure the wattage output of your solar panel when it\u2019s in the full sun.",
+        "Solar panels are designed to produce more power than the voltage they're rated for.",
+        "For instance, a solar power designed for a 12V output might actually produce 17V of power.",
+        "That's because they'll only produce their max voltage under ideal conditions.",
+        "If the solar panel produces more power than the battery can handle, the battery can overcharge and be damaged.",
+        "A charge controller helps prevent this from occurring.",
+        "Divide the solar watt rating by the voltage of your battery.",
+        "You can usually find the voltage listed on the battery itself.",
+        "Divide this number into the wattage that was listed on the back of your solar panel.",
+        "This will give you the amps that your charge controller needs to be able to handle in order to safely charge the battery.",
+        "Often, charge controllers will be rated in multiples of 30 amps, so when you get your number, round up to the next highest rating.",
+        "For example, if your solar panel is 300W and you want to charge a 12V battery, you\u2019d divide 300 by 12 to get 25 amps.",
+        "In that case, you\u2019d get a charge controller rated for 30 amps.",
+        "Choose an MPPT charge controller for better efficiency.",
+        "There are 2 main types of charge controllers: MPPT (Maximum Power Point Tracking) and PWM (Pulse Width Modulation).",
+        "Both will regulate the maximum voltage that the solar panel can send to the battery, but an MPPT charge controller can be up to 30% more effective at storing and transferring energy than PWM models.",
+        "Also, you can use MPPT charge controllers with strings of solar panels, but not PWM controllers.",
+        "These options are more expensive than PWM models, but the increased energy efficiency can quickly make up for the price difference.",
+        "Purchase a PWM charge controller for a budget-friendly option.",
+        "If you\u2019re just starting to experiment with solar power, a PWM charge controller can be a good point of entry.",
+        "These controllers use pulses of energy to charge the battery, and they monitor the power in the battery to ensure it isn\u2019t overcharged.Tip: The process for installing these controllers is the same, so if you start off with a PWM model and decide you want to upgrade to an MPPT, they\u2019ll be easy to switch out.",
+        "Setting up the Controller Mount the charge controller somewhere grounded and out of the elements.",
+        "Charge controllers are not weather-proof, so they shouldn\u2019t be installed outside, even if your solar panels are permanently mounted in place.",
+        "Instead, find an out-of-the-way place to install the charge controller, then run wires from the panel to the controller.",
+        "It's always safest to mount electrical equipment to a non-conductive material, like a PVC panel or a piece of wood, rather than installing it on a metal surface.",
+        "Connect a positive and a negative wire to your battery.",
+        "You can either do this by wrapping bare wires around the battery posts, securing the wires to the posts with clamps, or by using wires with ring connectors that fit over the posts.",
+        "However, keep in mind that it's safest if you have a way to tell the positive and negative wires apart.",
+        "For instance, you may want to use a red wire as your hot wire and a black one for the negative, or you could use solid black wire for your negative and a black wire with words printed on it for the positive side.",
+        "Of course, if your battery bank already has wires connected, you won\u2019t need to attach new wires to the battery first.",
+        "Warning: In order to prevent a sudden surge from damaging the charge controller, it\u2019s best to connect the battery before the solar panel.",
+        "Slide the ends of the wires into the input ports on the charge controller.",
+        "The ends of the wires that plug into the charge controller typically will not need to be fitted with any type of a connector.",
+        "Instead, slide the ends of the bares positive and negative wires into the corresponding ports, then use a screwdriver to tighten the screws that secure the wires in place.",
+        "Take care to match up the positive and negative cables with the appropriate ports, or you could short out your battery or controller.",
+        "If you're connecting a 12V battery, use 10-gauge or 16-gauge wire.",
+        "Use MC4 connectors to connect the wires to the charge controller.",
+        "The output wires on solar panels are typically fitted with MC4 connectors, which are long cylindrical fittings that have a male and a female side.",
+        "In order to ensure they connect correctly, fit the wires running from your charge connector with MC4 connectors.",
+        "Attach the bare ends of the input wires to the charge connector the same way that you attached the output wires\u2014slide them into the input ports and tighten the screws with a screwdriver.",
+        "You can find these connectors wherever electrical or solar supplies are sold, and they should come with specific instructions on how to attach them to the wires.",
+        "Connect the wires from the controller to the solar panel.",
+        "Once you've attached the input wires to the charge connector, you should have 2 loose wires, each ending in an MC4 connector.",
+        "Match up the male and female connectors with the opposite ones coming away from the solar panel, and snap the MC4 connectors into place.",
+        "You should hear a \u201cclick\u201d when the connectors are seated securely.",
+        "Be sure to connect the male connector to a female connector and vice versa.",
+        "You can never be too careful when you\u2019re working with electricity.",
+        "Take the time to double-check that the positive and negative cables are matched up correctly!",
+        "Check the output on the charge connector to make sure it\u2019s working.",
+        "Most charge connectors have a digital screen that will show you the output that\u2019s flowing to the battery.",
+        "If the readings are 0, double-check that everything is hooked up correctly.",
+        "Some charge connectors will even communicate with an app, so you can monitor the voltage from your smartphone or tablet!",
+        "Leave the battery on the connector until it\u2019s charged.",
+        "The length of time it will take to charge your battery will depend on the size of the battery you\u2019re using, the wattage of the solar panel, and even the weather that day.",
+        "That\u2019s where your digital display will come in handy.",
+        "When you notice the output dropping, it\u2019s likely that the battery is close to fully charged.",
+        "Since the charge connector will stop the flow of energy to the battery once it\u2019s charged, it\u2019s fine to leave it on the charger until you need it!"
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "title": "How to Crack a Wep Protected Wi Fi With Airoway and Wifislax",
+    "url": "https://www.wikihow.com/Crack-a-Wep-Protected-Wi-Fi-With-Airoway-and-Wifislax",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Hacks"
+    ],
+    "methods": [
+        {
+            "name": "Starting WiFiSlax",
+            "steps": [
+                {
+                    "headline": "Obtain and burn WiFiSlax.",
+                    "description": "WiFiSlax is an operating system that you will be loading from a CD. It contains the tools necessary to crack WEP encryption on wireless networks. This only works with WEP encryption, not WPA/WPA2. WiFiSlax is available for free from the developer\u2019s website. Burn the .iso file that you downloaded to a blank CD. You can use any freeware image burning software to do this. Open the burning software, and select Burn Image. Browse for the .iso file that you downloaded."
+                },
+                {
+                    "headline": "Check your computer\u2019s hardware.",
+                    "description": "In order to run this crack, you will need the IPW3945 chipset. To find out if your computer possesses the chipset, open the command line by clicking Start and then entering CMD into the Search or Run box. Once you have access to the command line, type \"ipconfig /all\". Look for \"Intel PRO/Wireless 3945ABG Network Connection\". This is a common chipset on many laptops. In other operating systems like Linux-based ones, you can download programs like hardinfo to obtain a complete list of the hardware of your computer"
+                },
+                {
+                    "headline": "Set your computer to boot from CD.",
+                    "description": "In order to use WiFiSlax, you will need to make sure that your computer can boot from the CD drive. TO do this, reboot the computer and open the BIOS menu. You can access the BIOS menu when you see the computer manufacturer\u2019s logo. The key you need to press will be displayed on the screen. It is typically F2, F10, F12 or Del. In the BIOS screen, navigate to the Boot menu. Set the first boot device as the CD/DVD drive. This is sometimes labeled as an optical drive. Setting it first will make the computer try to boot from the CD before it loads the operating system from the hard drive like it normally would."
+                },
+                {
+                    "headline": "Run WiFiSlax.",
+                    "description": "After adjusting your BIOS settings and rebooting your computer, press a key when prompted to boot from the CD. When presented with the first menu, select No PCMCIA and then press Enter. Log in with the credentials:\n\nUser: root\n\nPassword: toor\n\nEnter the command \"startx\" to start WiFiSlax with a graphic interface."
+                }
+            ]
+        },
+        {
+            "name": "Cracking the WEP",
+            "steps": [
+                {
+                    "headline": "Start the scanning process.",
+                    "description": "Click the Start menu, and navigate to WiFiSlax > Asistencia chipset > Asistencia Intel pro wireless > Cargar ipw3945 inyecci\u00f3n - ipwray-ng. This will put your network card into wifi0 mode, which is the monitor mode."
+                },
+                {
+                    "headline": "Enter the command \"airodump-ng wifi0\".",
+                    "description": "This will display all of the WiFi data that your card collected while in monitor mode. You will need to make note of the BSSID with the most beacons. The BSSID is the name of the network, and the number of beacons indicates signal strength. The more beacons you have, the easier it will be to crack. Make note of the channel (CH) that the network occupies."
+                },
+                {
+                    "headline": "Open Airoway.",
+                    "description": "Click Start, and then navigate to WiFiSlax > Herramientas Wireless > Airoway. This will open multiple windows with command lines."
+                },
+                {
+                    "headline": "Select the channel.",
+                    "description": "In the Airoway Command window, select the channel of the BSSID that you want to crack. Press Enter to begin the cracking process. Select the access point that you want to crack by pressing the associated number. Once you\u2019ve selected the access point, a new menu will open. Select option 2 to associate a MAC address and then option 3 to replay live ARPs (this will speed the crack process up)."
+                },
+                {
+                    "headline": "Wait for packets to accumulate.",
+                    "description": "Once the process has begun, you will need to wait a few moments as the program collects packets. The more packets you have, the greater chance you have at cracking the WEP. When the Data category in the Scan window reaches between 20,000-30,000 press 8 on the keyboard to crack the key."
+                },
+                {
+                    "headline": "Copy the key.",
+                    "description": "If the attack was successful, the key will be displayed in the bottom-right window. It will be listed next to the words KEY FOUND. Make sure that the Decrypted Correctly value is at 100%, or else the key will not work. The key will be displayed both in hexadecimal and ASCII format. The ASCII key is the one typically entered in when connecting to the network."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A computer with the IPW3945 chipset.",
+        "WiFiSlax burned to a CD."
+    ],
+    "text": " Starting WiFiSlax Obtain and burn WiFiSlax. WiFiSlax is an operating system that you will be loading from a CD. It contains the tools necessary to crack WEP encryption on wireless networks. This only works with WEP encryption, not WPA/WPA2. WiFiSlax is available for free from the developer\u2019s website. Burn the .iso file that you downloaded to a blank CD. You can use any freeware image burning software to do this. Open the burning software, and select Burn Image. Browse for the .iso file that you downloaded. Check your computer\u2019s hardware. In order to run this crack, you will need the IPW3945 chipset. To find out if your computer possesses the chipset, open the command line by clicking Start and then entering CMD into the Search or Run box. Once you have access to the command line, type \"ipconfig /all\". Look for \"Intel PRO/Wireless 3945ABG Network Connection\". This is a common chipset on many laptops. In other operating systems like Linux-based ones, you can download programs like hardinfo to obtain a complete list of the hardware of your computer Set your computer to boot from CD. In order to use WiFiSlax, you will need to make sure that your computer can boot from the CD drive. TO do this, reboot the computer and open the BIOS menu. You can access the BIOS menu when you see the computer manufacturer\u2019s logo. The key you need to press will be displayed on the screen. It is typically F2, F10, F12 or Del. In the BIOS screen, navigate to the Boot menu. Set the first boot device as the CD/DVD drive. This is sometimes labeled as an optical drive. Setting it first will make the computer try to boot from the CD before it loads the operating system from the hard drive like it normally would. Run WiFiSlax. After adjusting your BIOS settings and rebooting your computer, press a key when prompted to boot from the CD. When presented with the first menu, select No PCMCIA and then press Enter. Log in with the credentials:\n\nUser: root\n\nPassword: toor\n\nEnter the command \"startx\" to start WiFiSlax with a graphic interface. Cracking the WEP Start the scanning process. Click the Start menu, and navigate to WiFiSlax > Asistencia chipset > Asistencia Intel pro wireless > Cargar ipw3945 inyecci\u00f3n - ipwray-ng. This will put your network card into wifi0 mode, which is the monitor mode. Enter the command \"airodump-ng wifi0\". This will display all of the WiFi data that your card collected while in monitor mode. You will need to make note of the BSSID with the most beacons. The BSSID is the name of the network, and the number of beacons indicates signal strength. The more beacons you have, the easier it will be to crack. Make note of the channel (CH) that the network occupies. Open Airoway. Click Start, and then navigate to WiFiSlax > Herramientas Wireless > Airoway. This will open multiple windows with command lines. Select the channel. In the Airoway Command window, select the channel of the BSSID that you want to crack. Press Enter to begin the cracking process. Select the access point that you want to crack by pressing the associated number. Once you\u2019ve selected the access point, a new menu will open. Select option 2 to associate a MAC address and then option 3 to replay live ARPs (this will speed the crack process up). Wait for packets to accumulate. Once the process has begun, you will need to wait a few moments as the program collects packets. The more packets you have, the greater chance you have at cracking the WEP. When the Data category in the Scan window reaches between 20,000-30,000 press 8 on the keyboard to crack the key. Copy the key. If the attack was successful, the key will be displayed in the bottom-right window. It will be listed next to the words KEY FOUND. Make sure that the Decrypted Correctly value is at 100%, or else the key will not work. The key will be displayed both in hexadecimal and ASCII format. The ASCII key is the one typically entered in when connecting to the network.",
+    "sentences": [
+        " Starting WiFiSlax Obtain and burn WiFiSlax.",
+        "WiFiSlax is an operating system that you will be loading from a CD.",
+        "It contains the tools necessary to crack WEP encryption on wireless networks.",
+        "This only works with WEP encryption, not WPA/WPA2.",
+        "WiFiSlax is available for free from the developer\u2019s website.",
+        "Burn the .iso file that you downloaded to a blank CD.",
+        "You can use any freeware image burning software to do this.",
+        "Open the burning software, and select Burn Image.",
+        "Browse for the .iso file that you downloaded.",
+        "Check your computer\u2019s hardware.",
+        "In order to run this crack, you will need the IPW3945 chipset.",
+        "To find out if your computer possesses the chipset, open the command line by clicking Start and then entering CMD into the Search or Run box.",
+        "Once you have access to the command line, type \"ipconfig /all\".",
+        "Look for \"Intel PRO/Wireless 3945ABG Network Connection\".",
+        "This is a common chipset on many laptops.",
+        "In other operating systems like Linux-based ones, you can download programs like hardinfo to obtain a complete list of the hardware of your computer Set your computer to boot from CD.",
+        "In order to use WiFiSlax, you will need to make sure that your computer can boot from the CD drive.",
+        "TO do this, reboot the computer and open the BIOS menu.",
+        "You can access the BIOS menu when you see the computer manufacturer\u2019s logo.",
+        "The key you need to press will be displayed on the screen.",
+        "It is typically F2, F10, F12 or Del.",
+        "In the BIOS screen, navigate to the Boot menu.",
+        "Set the first boot device as the CD/DVD drive.",
+        "This is sometimes labeled as an optical drive.",
+        "Setting it first will make the computer try to boot from the CD before it loads the operating system from the hard drive like it normally would.",
+        "Run WiFiSlax.",
+        "After adjusting your BIOS settings and rebooting your computer, press a key when prompted to boot from the CD.",
+        "When presented with the first menu, select No PCMCIA and then press Enter.",
+        "Log in with the credentials:\n\nUser: root\n\nPassword: toor\n\nEnter the command \"startx\" to start WiFiSlax with a graphic interface.",
+        "Cracking the WEP Start the scanning process.",
+        "Click the Start menu, and navigate to WiFiSlax > Asistencia chipset > Asistencia Intel pro wireless > Cargar ipw3945 inyecci\u00f3n - ipwray-ng.",
+        "This will put your network card into wifi0 mode, which is the monitor mode.",
+        "Enter the command \"airodump-ng wifi0\".",
+        "This will display all of the WiFi data that your card collected while in monitor mode.",
+        "You will need to make note of the BSSID with the most beacons.",
+        "The BSSID is the name of the network, and the number of beacons indicates signal strength.",
+        "The more beacons you have, the easier it will be to crack.",
+        "Make note of the channel (CH) that the network occupies.",
+        "Open Airoway.",
+        "Click Start, and then navigate to WiFiSlax > Herramientas Wireless > Airoway.",
+        "This will open multiple windows with command lines.",
+        "Select the channel.",
+        "In the Airoway Command window, select the channel of the BSSID that you want to crack.",
+        "Press Enter to begin the cracking process.",
+        "Select the access point that you want to crack by pressing the associated number.",
+        "Once you\u2019ve selected the access point, a new menu will open.",
+        "Select option 2 to associate a MAC address and then option 3 to replay live ARPs (this will speed the crack process up).",
+        "Wait for packets to accumulate.",
+        "Once the process has begun, you will need to wait a few moments as the program collects packets.",
+        "The more packets you have, the greater chance you have at cracking the WEP.",
+        "When the Data category in the Scan window reaches between 20,000-30,000 press 8 on the keyboard to crack the key.",
+        "Copy the key.",
+        "If the attack was successful, the key will be displayed in the bottom-right window.",
+        "It will be listed next to the words KEY FOUND.",
+        "Make sure that the Decrypted Correctly value is at 100%, or else the key will not work.",
+        "The key will be displayed both in hexadecimal and ASCII format.",
+        "The ASCII key is the one typically entered in when connecting to the network."
+    ]
+}

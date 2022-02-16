@@ -1,0 +1,234 @@
+{
+    "title": "How to Install a New Operating System on Your Computer",
+    "url": "https://www.wikihow.com/Install-a-New-Operating-System-on-Your-Computer",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems"
+    ],
+    "methods": [
+        {
+            "name": "Determining Which Operating System to Install",
+            "steps": [
+                {
+                    "headline": "Check the system requirements.",
+                    "description": "If you've decided that you want to install a new operating system, you'll first need to figure out which one you want to use. Operating systems have varying system requirements, so if you have an older computer, make sure that you can handle a newer operating system. Most Windows installations require at least 1 GB of RAM, and at least 15-20 GB of hard disk space. Also, your CPU needs to be powerful enough to run the OS you want to run. Make sure that your computer can accommodate this. If not, you may need to install an older operating system, such as Windows XP. Linux operating systems typically don't require as much space and computing power as Windows operating systems. The requirements vary depending on the distribution you choose (Ubuntu, Fedora, Mint, etc. )."
+                },
+                {
+                    "headline": "Decide whether to purchase or download.",
+                    "description": "Windows licenses need to be purchased. Each license comes with a key good for one installation. Most Linux distributions are free to download and install as much as you'd like, though some Enterprise versions are closed and require purchase (Red Hat, SUSE, etc. )."
+                },
+                {
+                    "headline": "Research your software compatibility.",
+                    "description": "Make sure that the operating system you want to install supports the programs that you want to use. If you use Microsoft Office for work, you won't be able to install it on a Linux machine. There are substitute programs available, but the functionality may be limited. Many games that work on Windows will not work on Linux. The number of supported titles is growing, but be aware that if you are an avid gamer your library might not transfer over smoothly."
+                },
+                {
+                    "headline": "Obtain your new operating system.",
+                    "description": "If you've purchased a copy of Windows from a store, you should have received an installation disc along with your product code. If you don't have the disc but have a valid code, you can download a copy of the disc online. If you are installing Linux, you can download an ISO of the distribution from the developer's website. An ISO file is a disc image that needs to be burned to a disc or copied to a bootable USB drive"
+                },
+                {
+                    "headline": "Backup your data.",
+                    "description": "When you are installing a new operating system, you are most likely going to be wiping the hard drive in the process. This means that you will lose all of your files on the computer unless you back them up. Always make sure that any important files are copied to a backup location before starting the installation process. Use an external hard drive or burn the data to DVDs. If you are installing the operating system alongside your existing one, you most likely will not have to delete any data. It is still wise to backup important files just in case. You cannot backup programs; they will need to be reinstalled once you have finished installing your new operating system."
+                }
+            ]
+        },
+        {
+            "name": "Installing Your New Operating System",
+            "steps": [
+                {
+                    "headline": "Determine your installation order.",
+                    "description": "If you are installing a Linux distribution that you want to run alongside Windows, you need to install Windows first and then Linux. This is because Windows has a very strict boot loader that needs to be in place before Linux is installed, otherwise Windows won't load."
+                },
+                {
+                    "headline": "Boot from your installation disc.",
+                    "description": "Insert the installation disc into your optical; drive, and reboot your computer. Normally a computer boots from the hard drive first, so you will need to adjust some settings in your BIOS in order to boot from the disc drive. You can enter the BIOS by hitting the designated Setup key during the boot process. The key will be displayed on the same screen as your manufacturer's logo. Common Setup keys include F2, F10, F12, and Del/Delete. Once you are in the Setup menu, navigate to the Boot section. Set your DVD/CD drive as the first boot device. If you are installing from a USB drive, make sure that the drive is inserted and then select it as the first boot device. Once you've selected the correct drive, save your changes and exit Setup. Your computer will reboot."
+                },
+                {
+                    "headline": "Try your Linux distribution before installing.",
+                    "description": "Most Linux distributions come with a copy that can be loaded directly from the installation disc. This will allow you to \u201ctest drive\u201d your new operating system before you commit to the installation process. Once you are ready to install, click the Installation program on the desktop. This is only possible with Linux distributions. Windows does not allow you to test out the operating system before you install."
+                },
+                {
+                    "headline": "Wait for the Setup program to load.",
+                    "description": "No matter which operating system you choose, the setup program will need to copy some files to your computer before it can continue. This can take several minutes, depending on the speed of your computer's hardware. You will most likely need to choose some basic options, such as language and keyboard layout."
+                },
+                {
+                    "headline": "Enter your product key.",
+                    "description": "If you are installing Windows 8, you will need to enter your product key before you can begin the installation. Older Windows versions will ask for the product key after installation is complete. Linux users will not need a product key unless it is a purchased version such as Red Hat."
+                },
+                {
+                    "headline": "Choose your installation type.",
+                    "description": "Windows will give you the option of Upgrading or performing a Custom installation. Even if you are upgrading an older version of Windows, it is highly recommended that you choose Custom and start from scratch. This will minimize problems that may arise later from combining old settings and new ones. If you are installing Linux, you will be given the option to install alongside your existing operating system (Windows), or to erase the disk and install Linux by itself. Choose the option that best meets your needs. If you choose to install alongside Windows, you will be given the option to choose how much hard disk space you want to designate for Linux."
+                },
+                {
+                    "headline": "Format your partitions.",
+                    "description": "If you are installing Windows, you will need to choose which hard drive partition you want to install it on. Deleting partitions will wipe the data on the partition and return the space to the Unallocated section. Select the unallocated space and create a new partition. If you are installing Linux, the partition needs to be formatted in the Ext4 format."
+                },
+                {
+                    "headline": "Set your Linux options.",
+                    "description": "Before installation begins, your Linux installer will ask you for your timezone, and you will need to create a username and password. You will use this to log in to your Linux distribution as well as authorize system changes. Windows users will fill out personal information after the installation is complete."
+                },
+                {
+                    "headline": "Wait for the installation to complete.",
+                    "description": "Depending on the speed of your computer, this can take up to an hour to finish. Most installations are hands-off at this point. Your computer may reboot several times during the installation process."
+                },
+                {
+                    "headline": "Create your Windows login.",
+                    "description": "Once your Windows installation is complete, you will need to create a username. You can also choose to create a password, though this is not necessary. After creating your login info, you will be asked for your product key. In Windows 8, you will be asked to customize the colors first. After that, you can choose to either log in with a Microsoft account or use a more traditional Windows username."
+                },
+                {
+                    "headline": "Install your drivers and programs.",
+                    "description": "Once the installation is complete, you will be taken to your new desktop. From here, you can begin installing your programs and make sure that your drivers are installed and up to date. Make sure to install an antivirus program if you are going to be connecting to the internet."
+                }
+            ]
+        },
+        {
+            "name": "Installing Specific Operating Systems",
+            "steps": [
+                {
+                    "headline": "Install Windows 7.",
+                    "description": "Windows 7 is currently Microsoft's most popular operating system. Follow this guide for specific instructions."
+                },
+                {
+                    "headline": "Install Windows 8.",
+                    "description": "Windows 8 is Microsoft's newest operating system. Click here for a detailed guide on the installation process."
+                },
+                {
+                    "headline": "Install Ubuntu.",
+                    "description": "Ubuntu is one of the most popular distributions of Linux available. Click for step-by-step instructions for installing the Ubuntu distribution."
+                },
+                {
+                    "headline": "Install Mac OS X.",
+                    "description": "If you want to upgrade your copy of Mac OS X, check out this guide."
+                },
+                {
+                    "headline": "Install Linux Mint.",
+                    "description": "Linux Mint is a newer Linux distribution that is quickly increasing in popularity. Follow this guide to learn how to install it."
+                },
+                {
+                    "headline": "Install Fedora.",
+                    "description": "Fedora is an older Linux distribution that has a long history of stability. This guide will show you how to install it."
+                },
+                {
+                    "headline": "Install Mac OS X on an Intel or AMD computer (Hackintosh).",
+                    "description": "If you've got some patience and the desire to install Mac OS X on your PC, check out this guide."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A computer",
+        "A disk with an operating system"
+    ],
+    "text": " Determining Which Operating System to Install Check the system requirements. If you've decided that you want to install a new operating system, you'll first need to figure out which one you want to use. Operating systems have varying system requirements, so if you have an older computer, make sure that you can handle a newer operating system. Most Windows installations require at least 1 GB of RAM, and at least 15-20 GB of hard disk space. Also, your CPU needs to be powerful enough to run the OS you want to run. Make sure that your computer can accommodate this. If not, you may need to install an older operating system, such as Windows XP. Linux operating systems typically don't require as much space and computing power as Windows operating systems. The requirements vary depending on the distribution you choose (Ubuntu, Fedora, Mint, etc. ). Decide whether to purchase or download. Windows licenses need to be purchased. Each license comes with a key good for one installation. Most Linux distributions are free to download and install as much as you'd like, though some Enterprise versions are closed and require purchase (Red Hat, SUSE, etc. ). Research your software compatibility. Make sure that the operating system you want to install supports the programs that you want to use. If you use Microsoft Office for work, you won't be able to install it on a Linux machine. There are substitute programs available, but the functionality may be limited. Many games that work on Windows will not work on Linux. The number of supported titles is growing, but be aware that if you are an avid gamer your library might not transfer over smoothly. Obtain your new operating system. If you've purchased a copy of Windows from a store, you should have received an installation disc along with your product code. If you don't have the disc but have a valid code, you can download a copy of the disc online. If you are installing Linux, you can download an ISO of the distribution from the developer's website. An ISO file is a disc image that needs to be burned to a disc or copied to a bootable USB drive Backup your data. When you are installing a new operating system, you are most likely going to be wiping the hard drive in the process. This means that you will lose all of your files on the computer unless you back them up. Always make sure that any important files are copied to a backup location before starting the installation process. Use an external hard drive or burn the data to DVDs. If you are installing the operating system alongside your existing one, you most likely will not have to delete any data. It is still wise to backup important files just in case. You cannot backup programs; they will need to be reinstalled once you have finished installing your new operating system. Installing Your New Operating System Determine your installation order. If you are installing a Linux distribution that you want to run alongside Windows, you need to install Windows first and then Linux. This is because Windows has a very strict boot loader that needs to be in place before Linux is installed, otherwise Windows won't load. Boot from your installation disc. Insert the installation disc into your optical; drive, and reboot your computer. Normally a computer boots from the hard drive first, so you will need to adjust some settings in your BIOS in order to boot from the disc drive. You can enter the BIOS by hitting the designated Setup key during the boot process. The key will be displayed on the same screen as your manufacturer's logo. Common Setup keys include F2, F10, F12, and Del/Delete. Once you are in the Setup menu, navigate to the Boot section. Set your DVD/CD drive as the first boot device. If you are installing from a USB drive, make sure that the drive is inserted and then select it as the first boot device. Once you've selected the correct drive, save your changes and exit Setup. Your computer will reboot. Try your Linux distribution before installing. Most Linux distributions come with a copy that can be loaded directly from the installation disc. This will allow you to \u201ctest drive\u201d your new operating system before you commit to the installation process. Once you are ready to install, click the Installation program on the desktop. This is only possible with Linux distributions. Windows does not allow you to test out the operating system before you install. Wait for the Setup program to load. No matter which operating system you choose, the setup program will need to copy some files to your computer before it can continue. This can take several minutes, depending on the speed of your computer's hardware. You will most likely need to choose some basic options, such as language and keyboard layout. Enter your product key. If you are installing Windows 8, you will need to enter your product key before you can begin the installation. Older Windows versions will ask for the product key after installation is complete. Linux users will not need a product key unless it is a purchased version such as Red Hat. Choose your installation type. Windows will give you the option of Upgrading or performing a Custom installation. Even if you are upgrading an older version of Windows, it is highly recommended that you choose Custom and start from scratch. This will minimize problems that may arise later from combining old settings and new ones. If you are installing Linux, you will be given the option to install alongside your existing operating system (Windows), or to erase the disk and install Linux by itself. Choose the option that best meets your needs. If you choose to install alongside Windows, you will be given the option to choose how much hard disk space you want to designate for Linux. Format your partitions. If you are installing Windows, you will need to choose which hard drive partition you want to install it on. Deleting partitions will wipe the data on the partition and return the space to the Unallocated section. Select the unallocated space and create a new partition. If you are installing Linux, the partition needs to be formatted in the Ext4 format. Set your Linux options. Before installation begins, your Linux installer will ask you for your timezone, and you will need to create a username and password. You will use this to log in to your Linux distribution as well as authorize system changes. Windows users will fill out personal information after the installation is complete. Wait for the installation to complete. Depending on the speed of your computer, this can take up to an hour to finish. Most installations are hands-off at this point. Your computer may reboot several times during the installation process. Create your Windows login. Once your Windows installation is complete, you will need to create a username. You can also choose to create a password, though this is not necessary. After creating your login info, you will be asked for your product key. In Windows 8, you will be asked to customize the colors first. After that, you can choose to either log in with a Microsoft account or use a more traditional Windows username. Install your drivers and programs. Once the installation is complete, you will be taken to your new desktop. From here, you can begin installing your programs and make sure that your drivers are installed and up to date. Make sure to install an antivirus program if you are going to be connecting to the internet. Installing Specific Operating Systems Install Windows 7. Windows 7 is currently Microsoft's most popular operating system. Follow this guide for specific instructions. Install Windows 8. Windows 8 is Microsoft's newest operating system. Click here for a detailed guide on the installation process. Install Ubuntu. Ubuntu is one of the most popular distributions of Linux available. Click for step-by-step instructions for installing the Ubuntu distribution. Install Mac OS X. If you want to upgrade your copy of Mac OS X, check out this guide. Install Linux Mint. Linux Mint is a newer Linux distribution that is quickly increasing in popularity. Follow this guide to learn how to install it. Install Fedora. Fedora is an older Linux distribution that has a long history of stability. This guide will show you how to install it. Install Mac OS X on an Intel or AMD computer (Hackintosh). If you've got some patience and the desire to install Mac OS X on your PC, check out this guide.",
+    "sentences": [
+        " Determining Which Operating System to Install Check the system requirements.",
+        "If you've decided that you want to install a new operating system, you'll first need to figure out which one you want to use.",
+        "Operating systems have varying system requirements, so if you have an older computer, make sure that you can handle a newer operating system.",
+        "Most Windows installations require at least 1 GB of RAM, and at least 15-20 GB of hard disk space.",
+        "Also, your CPU needs to be powerful enough to run the OS you want to run.",
+        "Make sure that your computer can accommodate this.",
+        "If not, you may need to install an older operating system, such as Windows XP.",
+        "Linux operating systems typically don't require as much space and computing power as Windows operating systems.",
+        "The requirements vary depending on the distribution you choose (Ubuntu, Fedora, Mint, etc.",
+        ").",
+        "Decide whether to purchase or download.",
+        "Windows licenses need to be purchased.",
+        "Each license comes with a key good for one installation.",
+        "Most Linux distributions are free to download and install as much as you'd like, though some Enterprise versions are closed and require purchase (Red Hat, SUSE, etc.",
+        ").",
+        "Research your software compatibility.",
+        "Make sure that the operating system you want to install supports the programs that you want to use.",
+        "If you use Microsoft Office for work, you won't be able to install it on a Linux machine.",
+        "There are substitute programs available, but the functionality may be limited.",
+        "Many games that work on Windows will not work on Linux.",
+        "The number of supported titles is growing, but be aware that if you are an avid gamer your library might not transfer over smoothly.",
+        "Obtain your new operating system.",
+        "If you've purchased a copy of Windows from a store, you should have received an installation disc along with your product code.",
+        "If you don't have the disc but have a valid code, you can download a copy of the disc online.",
+        "If you are installing Linux, you can download an ISO of the distribution from the developer's website.",
+        "An ISO file is a disc image that needs to be burned to a disc or copied to a bootable USB drive Backup your data.",
+        "When you are installing a new operating system, you are most likely going to be wiping the hard drive in the process.",
+        "This means that you will lose all of your files on the computer unless you back them up.",
+        "Always make sure that any important files are copied to a backup location before starting the installation process.",
+        "Use an external hard drive or burn the data to DVDs.",
+        "If you are installing the operating system alongside your existing one, you most likely will not have to delete any data.",
+        "It is still wise to backup important files just in case.",
+        "You cannot backup programs; they will need to be reinstalled once you have finished installing your new operating system.",
+        "Installing Your New Operating System Determine your installation order.",
+        "If you are installing a Linux distribution that you want to run alongside Windows, you need to install Windows first and then Linux.",
+        "This is because Windows has a very strict boot loader that needs to be in place before Linux is installed, otherwise Windows won't load.",
+        "Boot from your installation disc.",
+        "Insert the installation disc into your optical; drive, and reboot your computer.",
+        "Normally a computer boots from the hard drive first, so you will need to adjust some settings in your BIOS in order to boot from the disc drive.",
+        "You can enter the BIOS by hitting the designated Setup key during the boot process.",
+        "The key will be displayed on the same screen as your manufacturer's logo.",
+        "Common Setup keys include F2, F10, F12, and Del/Delete.",
+        "Once you are in the Setup menu, navigate to the Boot section.",
+        "Set your DVD/CD drive as the first boot device.",
+        "If you are installing from a USB drive, make sure that the drive is inserted and then select it as the first boot device.",
+        "Once you've selected the correct drive, save your changes and exit Setup.",
+        "Your computer will reboot.",
+        "Try your Linux distribution before installing.",
+        "Most Linux distributions come with a copy that can be loaded directly from the installation disc.",
+        "This will allow you to \u201ctest drive\u201d your new operating system before you commit to the installation process.",
+        "Once you are ready to install, click the Installation program on the desktop.",
+        "This is only possible with Linux distributions.",
+        "Windows does not allow you to test out the operating system before you install.",
+        "Wait for the Setup program to load.",
+        "No matter which operating system you choose, the setup program will need to copy some files to your computer before it can continue.",
+        "This can take several minutes, depending on the speed of your computer's hardware.",
+        "You will most likely need to choose some basic options, such as language and keyboard layout.",
+        "Enter your product key.",
+        "If you are installing Windows 8, you will need to enter your product key before you can begin the installation.",
+        "Older Windows versions will ask for the product key after installation is complete.",
+        "Linux users will not need a product key unless it is a purchased version such as Red Hat.",
+        "Choose your installation type.",
+        "Windows will give you the option of Upgrading or performing a Custom installation.",
+        "Even if you are upgrading an older version of Windows, it is highly recommended that you choose Custom and start from scratch.",
+        "This will minimize problems that may arise later from combining old settings and new ones.",
+        "If you are installing Linux, you will be given the option to install alongside your existing operating system (Windows), or to erase the disk and install Linux by itself.",
+        "Choose the option that best meets your needs.",
+        "If you choose to install alongside Windows, you will be given the option to choose how much hard disk space you want to designate for Linux.",
+        "Format your partitions.",
+        "If you are installing Windows, you will need to choose which hard drive partition you want to install it on.",
+        "Deleting partitions will wipe the data on the partition and return the space to the Unallocated section.",
+        "Select the unallocated space and create a new partition.",
+        "If you are installing Linux, the partition needs to be formatted in the Ext4 format.",
+        "Set your Linux options.",
+        "Before installation begins, your Linux installer will ask you for your timezone, and you will need to create a username and password.",
+        "You will use this to log in to your Linux distribution as well as authorize system changes.",
+        "Windows users will fill out personal information after the installation is complete.",
+        "Wait for the installation to complete.",
+        "Depending on the speed of your computer, this can take up to an hour to finish.",
+        "Most installations are hands-off at this point.",
+        "Your computer may reboot several times during the installation process.",
+        "Create your Windows login.",
+        "Once your Windows installation is complete, you will need to create a username.",
+        "You can also choose to create a password, though this is not necessary.",
+        "After creating your login info, you will be asked for your product key.",
+        "In Windows 8, you will be asked to customize the colors first.",
+        "After that, you can choose to either log in with a Microsoft account or use a more traditional Windows username.",
+        "Install your drivers and programs.",
+        "Once the installation is complete, you will be taken to your new desktop.",
+        "From here, you can begin installing your programs and make sure that your drivers are installed and up to date.",
+        "Make sure to install an antivirus program if you are going to be connecting to the internet.",
+        "Installing Specific Operating Systems Install Windows 7.",
+        "Windows 7 is currently Microsoft's most popular operating system.",
+        "Follow this guide for specific instructions.",
+        "Install Windows 8.",
+        "Windows 8 is Microsoft's newest operating system.",
+        "Click here for a detailed guide on the installation process.",
+        "Install Ubuntu.",
+        "Ubuntu is one of the most popular distributions of Linux available.",
+        "Click for step-by-step instructions for installing the Ubuntu distribution.",
+        "Install Mac OS X.",
+        "If you want to upgrade your copy of Mac OS X, check out this guide.",
+        "Install Linux Mint.",
+        "Linux Mint is a newer Linux distribution that is quickly increasing in popularity.",
+        "Follow this guide to learn how to install it.",
+        "Install Fedora.",
+        "Fedora is an older Linux distribution that has a long history of stability.",
+        "This guide will show you how to install it.",
+        "Install Mac OS X on an Intel or AMD computer (Hackintosh).",
+        "If you've got some patience and the desire to install Mac OS X on your PC, check out this guide."
+    ]
+}

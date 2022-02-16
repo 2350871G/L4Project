@@ -1,0 +1,292 @@
+{
+    "title": "How to 3D Print with CURA on Creality's Ender 3",
+    "url": "https://www.wikihow.com/3D-Print-with-CURA-on-Creality%27s-Ender-3",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Peripherals",
+        "Printers"
+    ],
+    "parts": [
+        {
+            "name": "Downloading",
+            "steps": [
+                {
+                    "headline": "Download and install CURA from https://ultimaker.com/en/products/ultimaker-cura-software.",
+                    "description": ""
+                },
+                {
+                    "headline": "Download or create an .stl file.",
+                    "description": ""
+                },
+                {
+                    "headline": "Download the bed level file, CHEP_Ender_3_bed_level.gcode, from http://www.thingiverse.com/thing:3235018.",
+                    "description": "Transfer to a microSD card."
+                }
+            ]
+        },
+        {
+            "name": "Setting Up CURA",
+            "steps": [
+                {
+                    "headline": "Open the CURA software.",
+                    "description": ""
+                },
+                {
+                    "headline": "Add the printer profile.",
+                    "description": "Go to Settings > Printer > Add Printer.... Select Other. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/4f\\/Add-Printer-2.jpg\\/460px-Add-Printer-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4f\\/Add-Printer-2.jpg\\/715px-Add-Printer-2.jpg\",\"smallWidth\":460,\"smallHeight\":349,\"bigWidth\":\"715\",\"bigHeight\":\"543\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\nSelect Creality Ender 3. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f2\\/Add-Printer-3.jpg\\/460px-Add-Printer-3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f2\\/Add-Printer-3.jpg\\/707px-Add-Printer-3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Select the material from the Material drop down menu to specify your material.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Using CURA",
+            "steps": [
+                {
+                    "headline": "Open your file by selecting Open File icon.",
+                    "description": "Choose your desired .stl file to print and click Open. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/ab\\/Open-stl.jpg\\/460px-Open-stl.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/ab\\/Open-stl.jpg\\/728px-Open-stl.jpg\",\"smallWidth\":460,\"smallHeight\":320,\"bigWidth\":\"728\",\"bigHeight\":\"507\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Adjust the 3D model by selecting the model then adjustment icons, if needed.",
+                    "description": "Move - Click, hold, and drag the desired axis to move object. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/af\\/MoveObject.jpg\\/460px-MoveObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/af\\/MoveObject.jpg\\/726px-MoveObject.jpg\",\"smallWidth\":460,\"smallHeight\":354,\"bigWidth\":\"727\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\n\nScale - Change the size of the object by percentages. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/ScaleObject.jpg\\/460px-ScaleObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/25\\/ScaleObject.jpg\\/728px-ScaleObject.jpg\",\"smallWidth\":460,\"smallHeight\":351,\"bigWidth\":\"728\",\"bigHeight\":\"556\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\n\nRotate- Press, hold and rotate on the desired circle axis to rotate object. Pressing the Lay Flat icon to position object flat on surface may reorient object. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/23\\/RotateObject.jpg\\/460px-RotateObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/23\\/RotateObject.jpg\\/723px-RotateObject.jpg\",\"smallWidth\":460,\"smallHeight\":356,\"bigWidth\":\"724\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Adjust the 3D print settings.",
+                    "description": "Go to \"Print Setup\" area with \"Recommended\" selected to adjust the Layer Height, Infill, Support, and Build Plate Adhesion. Layer height - Select your desired layer height. The lower the layer height, the higher quality the print, but the longer it takes to print. Infill - Select desired infill percentage. The higher the infill percentage, the stronger the print, the longer the print time. Generate Support - Used for overhangs greater than 45 degrees. Build Plate Adhesion - Brims or rafts may be used to help plate adhesion and to reduce warping."
+                },
+                {
+                    "headline": "Adjust the print temperatures.",
+                    "description": "Click Custom and go to Material to adjust printing temperatures based on the material's manufacturer recommendation."
+                },
+                {
+                    "headline": "Click Prepare to estimate the print time, material use, and to slice the .stl file.",
+                    "description": ""
+                },
+                {
+                    "headline": "Save the .gcode file to a microSD card using a microSD USB adapter.",
+                    "description": "Then press Save to Removable Drive."
+                }
+            ]
+        },
+        {
+            "name": "Loading the Filament",
+            "steps": [
+                {
+                    "headline": "Place the material onto the spool holder.",
+                    "description": ""
+                },
+                {
+                    "headline": "Cut the end of filament at ~45 degrees using the snippers.",
+                    "description": ""
+                },
+                {
+                    "headline": "Turn on the printer by pressing the red power switch into the On position represented with the \"|\" symbol.",
+                    "description": ""
+                },
+                {
+                    "headline": "Press the control knob to access the menu options.",
+                    "description": "Rotate the control knob to highlight desired selection, and press it to confirm selection."
+                },
+                {
+                    "headline": "Move the Z-axis off the bed by ~40-60mm.",
+                    "description": "Press the control knob to highlight and select Prepare. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e4\\/PreparePLA.jpg\\/460px-PreparePLA.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e4\\/PreparePLA.jpg\\/512px-PreparePLA.jpg\",\"smallWidth\":460,\"smallHeight\":502,\"bigWidth\":\"513\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move Axis. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/96\\/MoveAxis.jpg\\/459px-MoveAxis.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/96\\/MoveAxis.jpg\\/495px-MoveAxis.jpg\",\"smallWidth\":460,\"smallHeight\":519,\"bigWidth\":\"496\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move 1mm. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/3b\\/Move1mm.jpg\\/460px-Move1mm.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3b\\/Move1mm.jpg\\/507px-Move1mm.jpg\",\"smallWidth\":460,\"smallHeight\":508,\"bigWidth\":\"507\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move Z. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/97\\/MoveZ.jpg\\/460px-MoveZ.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/97\\/MoveZ.jpg\\/498px-MoveZ.jpg\",\"smallWidth\":460,\"smallHeight\":517,\"bigWidth\":\"498\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nRotate the control knob until the screen reads ~40-60mm and the print nozzle is ~40-60mm above the print bed. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/33\\/Zheight.jpg\\/460px-Zheight.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/33\\/Zheight.jpg\\/510px-Zheight.jpg\",\"smallWidth\":460,\"smallHeight\":505,\"bigWidth\":\"510\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Preheat the print nozzle by highlighting and selecting Prepare then Preheat PLA.",
+                    "description": "Wait for the nozzle to reach 185 degrees. The red circled number indicates the current nozzle temperature and the number above represents desired temperature. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/b\\/b0\\/PreheatPLA.jpg\\/459px-PreheatPLA.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/b0\\/PreheatPLA.jpg\\/509px-PreheatPLA.jpg\",\"smallWidth\":460,\"smallHeight\":505,\"bigWidth\":\"510\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Load the filament into the printer.",
+                    "description": "Squeeze the extruder lever and feed the filament through the extruder hole. Continue feeding the material until it comes out of the print nozzle. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/8f\\/NozzleExtrude.jpg\\/460px-NozzleExtrude.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8f\\/NozzleExtrude.jpg\\/728px-NozzleExtrude.jpg\",\"smallWidth\":460,\"smallHeight\":353,\"bigWidth\":\"728\",\"bigHeight\":\"559\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+                },
+                {
+                    "headline": "Turn off the printer or proceed to \"Leveling the Print Bed.\"",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Leveling the Print Bed",
+            "steps": [
+                {
+                    "headline": "Insert the microSD card into the microSD card slot.",
+                    "description": ""
+                },
+                {
+                    "headline": "Turn the printer on.",
+                    "description": ""
+                },
+                {
+                    "headline": "Level the print bed using the CHEP_ENDER_3_bed_level.gcode, paper, and adjustment screws.",
+                    "description": "Press and rotate the control knob to highlight and select Print from SD. Highlight and select the CHEP_Ender_3_bed_level.gcode. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/36\\/BedLevelSelect.jpg\\/460px-BedLevelSelect.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/36\\/BedLevelSelect.jpg\\/488px-BedLevelSelect.jpg\",\"smallWidth\":460,\"smallHeight\":527,\"bigWidth\":\"489\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nWait until nozzles comes to a stop before proceeding. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/fa\\/NozzleStopping.jpg\\/460px-NozzleStopping.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/fa\\/NozzleStopping.jpg\\/378px-NozzleStopping.jpg\",\"smallWidth\":460,\"smallHeight\":681,\"bigWidth\":\"378\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nContinually slide a piece of paper back and forth underneath the nozzle. The nozzle will \"scratch\" the paper if it's at the correct level. Using the adjustment screw of each corner below the heat bed, raise the bed by turning clockwise/lower the bed by turning counter-clockwise, while continually sliding the piece paper. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/94\\/BedLevelAdjustmentScrews.jpg\\/460px-BedLevelAdjustmentScrews.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/94\\/BedLevelAdjustmentScrews.jpg\\/728px-BedLevelAdjustmentScrews.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nPress the control knob to level other corners of the bed. The center point used to check if the bed is calibrated correctly. Repeat this until you no longer need to turn adjustment knobs."
+                },
+                {
+                    "headline": "Turn off the printer or proceed to \"Printing the Object.\"",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Printing the Object",
+            "steps": [
+                {
+                    "headline": "Insert the microSD card if not already inserted, and then turn the power on.",
+                    "description": ""
+                },
+                {
+                    "headline": "Select Print from SD then highlight and select the desired .gcode file.",
+                    "description": ""
+                },
+                {
+                    "headline": "Wait for print bed and print nozzle to heat up.",
+                    "description": "The circled numbers on the bottoms will match the ones on top. Caution: Do not touch print bed or print nozzle at this point. It may cause burns!"
+                },
+                {
+                    "headline": "Examine the first print layer for adhesion quality.",
+                    "description": "The material will stick to the bed in an even layer if properly leveled. If little to no material is extruding, then lower the print bed. If the material is not sticking, then raise the print bed."
+                },
+                {
+                    "headline": "Wait for the file to print while checking back periodically until the print is finished.",
+                    "description": "Check to see if the object is printing properly. If not, press on the control knob, select Stop Print."
+                },
+                {
+                    "headline": "Turn off the 3D Printer by switching the power button into the on position.",
+                    "description": ""
+                },
+                {
+                    "headline": "Remove the 3D printed object with the scraper tool once the print bed, print nozzle, and object have cooled.",
+                    "description": ""
+                },
+                {
+                    "headline": "Remove rafts, skirts, and/or supports from the object if necessary.",
+                    "description": "Use sandpaper to smooth out object if needed. If printing an object with multiple parts that need to join, sand the adhesion area and use superglue."
+                }
+            ]
+        },
+        {
+            "name": "Cleaning the Build Plate",
+            "steps": [
+                {
+                    "headline": "Remove the binder clips and remove the build plate.",
+                    "description": ""
+                },
+                {
+                    "headline": "Clean the build plate bed by scraping off excess material with scraper tool and washing with warm soapy water and let dry.",
+                    "description": ""
+                },
+                {
+                    "headline": "Align the build plate onto heat bed.",
+                    "description": "Secure with binder clips."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Creality Ender 3/Creality Ender 3 Pro",
+        "microSD card (comes with 3D printer)",
+        "microSD card adapter (comes with 3D printer)",
+        "Snippers",
+        "Scraper",
+        "PLA",
+        "Dish soap",
+        "Printer paper",
+        "Sandpaper (Optional)",
+        "Superglue (Optional)",
+        "Vista or higher (64-bit)",
+        "Mac OS X 10.11 or higher (64-bit)",
+        "Ubuntu 14.04 or higher (64-bit)",
+        "4 GB of RAM",
+        "205 MB of Hard Drive Space",
+        "Intel Core 2 or AMD Athlon 64 or newer",
+        "Open GL 2 Compatible Graphics Chip",
+        "Open GL 4.1 for 3D Layer view"
+    ],
+    "text": " Downloading Download and install CURA from https://ultimaker.com/en/products/ultimaker-cura-software.  Download or create an .stl file.  Download the bed level file, CHEP_Ender_3_bed_level.gcode, from http://www.thingiverse.com/thing:3235018. Transfer to a microSD card. Setting Up CURA Open the CURA software.  Add the printer profile. Go to Settings > Printer > Add Printer.... Select Other. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/4f\\/Add-Printer-2.jpg\\/460px-Add-Printer-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4f\\/Add-Printer-2.jpg\\/715px-Add-Printer-2.jpg\",\"smallWidth\":460,\"smallHeight\":349,\"bigWidth\":\"715\",\"bigHeight\":\"543\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\nSelect Creality Ender 3. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f2\\/Add-Printer-3.jpg\\/460px-Add-Printer-3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f2\\/Add-Printer-3.jpg\\/707px-Add-Printer-3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Select the material from the Material drop down menu to specify your material.  Using CURA Open your file by selecting Open File icon. Choose your desired .stl file to print and click Open. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/ab\\/Open-stl.jpg\\/460px-Open-stl.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/ab\\/Open-stl.jpg\\/728px-Open-stl.jpg\",\"smallWidth\":460,\"smallHeight\":320,\"bigWidth\":\"728\",\"bigHeight\":\"507\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Adjust the 3D model by selecting the model then adjustment icons, if needed. Move - Click, hold, and drag the desired axis to move object. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/af\\/MoveObject.jpg\\/460px-MoveObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/af\\/MoveObject.jpg\\/726px-MoveObject.jpg\",\"smallWidth\":460,\"smallHeight\":354,\"bigWidth\":\"727\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\n\nScale - Change the size of the object by percentages. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/ScaleObject.jpg\\/460px-ScaleObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/25\\/ScaleObject.jpg\\/728px-ScaleObject.jpg\",\"smallWidth\":460,\"smallHeight\":351,\"bigWidth\":\"728\",\"bigHeight\":\"556\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\n\nRotate- Press, hold and rotate on the desired circle axis to rotate object. Pressing the Lay Flat icon to position object flat on surface may reorient object. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/23\\/RotateObject.jpg\\/460px-RotateObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/23\\/RotateObject.jpg\\/723px-RotateObject.jpg\",\"smallWidth\":460,\"smallHeight\":356,\"bigWidth\":\"724\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Adjust the 3D print settings. Go to \"Print Setup\" area with \"Recommended\" selected to adjust the Layer Height, Infill, Support, and Build Plate Adhesion. Layer height - Select your desired layer height. The lower the layer height, the higher quality the print, but the longer it takes to print. Infill - Select desired infill percentage. The higher the infill percentage, the stronger the print, the longer the print time. Generate Support - Used for overhangs greater than 45 degrees. Build Plate Adhesion - Brims or rafts may be used to help plate adhesion and to reduce warping. Adjust the print temperatures. Click Custom and go to Material to adjust printing temperatures based on the material's manufacturer recommendation. Click Prepare to estimate the print time, material use, and to slice the .stl file.  Save the .gcode file to a microSD card using a microSD USB adapter. Then press Save to Removable Drive. Loading the Filament Place the material onto the spool holder.  Cut the end of filament at ~45 degrees using the snippers.  Turn on the printer by pressing the red power switch into the On position represented with the \"|\" symbol.  Press the control knob to access the menu options. Rotate the control knob to highlight desired selection, and press it to confirm selection. Move the Z-axis off the bed by ~40-60mm. Press the control knob to highlight and select Prepare. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e4\\/PreparePLA.jpg\\/460px-PreparePLA.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e4\\/PreparePLA.jpg\\/512px-PreparePLA.jpg\",\"smallWidth\":460,\"smallHeight\":502,\"bigWidth\":\"513\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move Axis. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/96\\/MoveAxis.jpg\\/459px-MoveAxis.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/96\\/MoveAxis.jpg\\/495px-MoveAxis.jpg\",\"smallWidth\":460,\"smallHeight\":519,\"bigWidth\":\"496\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move 1mm. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/3b\\/Move1mm.jpg\\/460px-Move1mm.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3b\\/Move1mm.jpg\\/507px-Move1mm.jpg\",\"smallWidth\":460,\"smallHeight\":508,\"bigWidth\":\"507\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move Z. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/97\\/MoveZ.jpg\\/460px-MoveZ.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/97\\/MoveZ.jpg\\/498px-MoveZ.jpg\",\"smallWidth\":460,\"smallHeight\":517,\"bigWidth\":\"498\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nRotate the control knob until the screen reads ~40-60mm and the print nozzle is ~40-60mm above the print bed. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/33\\/Zheight.jpg\\/460px-Zheight.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/33\\/Zheight.jpg\\/510px-Zheight.jpg\",\"smallWidth\":460,\"smallHeight\":505,\"bigWidth\":\"510\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Preheat the print nozzle by highlighting and selecting Prepare then Preheat PLA. Wait for the nozzle to reach 185 degrees. The red circled number indicates the current nozzle temperature and the number above represents desired temperature. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/b\\/b0\\/PreheatPLA.jpg\\/459px-PreheatPLA.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/b0\\/PreheatPLA.jpg\\/509px-PreheatPLA.jpg\",\"smallWidth\":460,\"smallHeight\":505,\"bigWidth\":\"510\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Load the filament into the printer. Squeeze the extruder lever and feed the filament through the extruder hole. Continue feeding the material until it comes out of the print nozzle. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/8f\\/NozzleExtrude.jpg\\/460px-NozzleExtrude.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8f\\/NozzleExtrude.jpg\\/728px-NozzleExtrude.jpg\",\"smallWidth\":460,\"smallHeight\":353,\"bigWidth\":\"728\",\"bigHeight\":\"559\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Turn off the printer or proceed to \"Leveling the Print Bed.\"  Leveling the Print Bed Insert the microSD card into the microSD card slot.  Turn the printer on.  Level the print bed using the CHEP_ENDER_3_bed_level.gcode, paper, and adjustment screws. Press and rotate the control knob to highlight and select Print from SD. Highlight and select the CHEP_Ender_3_bed_level.gcode. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/36\\/BedLevelSelect.jpg\\/460px-BedLevelSelect.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/36\\/BedLevelSelect.jpg\\/488px-BedLevelSelect.jpg\",\"smallWidth\":460,\"smallHeight\":527,\"bigWidth\":\"489\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nWait until nozzles comes to a stop before proceeding. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/fa\\/NozzleStopping.jpg\\/460px-NozzleStopping.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/fa\\/NozzleStopping.jpg\\/378px-NozzleStopping.jpg\",\"smallWidth\":460,\"smallHeight\":681,\"bigWidth\":\"378\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nContinually slide a piece of paper back and forth underneath the nozzle. The nozzle will \"scratch\" the paper if it's at the correct level. Using the adjustment screw of each corner below the heat bed, raise the bed by turning clockwise/lower the bed by turning counter-clockwise, while continually sliding the piece paper. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/94\\/BedLevelAdjustmentScrews.jpg\\/460px-BedLevelAdjustmentScrews.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/94\\/BedLevelAdjustmentScrews.jpg\\/728px-BedLevelAdjustmentScrews.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nPress the control knob to level other corners of the bed. The center point used to check if the bed is calibrated correctly. Repeat this until you no longer need to turn adjustment knobs. Turn off the printer or proceed to \"Printing the Object.\"  Printing the Object Insert the microSD card if not already inserted, and then turn the power on.  Select Print from SD then highlight and select the desired .gcode file.  Wait for print bed and print nozzle to heat up. The circled numbers on the bottoms will match the ones on top. Caution: Do not touch print bed or print nozzle at this point. It may cause burns! Examine the first print layer for adhesion quality. The material will stick to the bed in an even layer if properly leveled. If little to no material is extruding, then lower the print bed. If the material is not sticking, then raise the print bed. Wait for the file to print while checking back periodically until the print is finished. Check to see if the object is printing properly. If not, press on the control knob, select Stop Print. Turn off the 3D Printer by switching the power button into the on position.  Remove the 3D printed object with the scraper tool once the print bed, print nozzle, and object have cooled.  Remove rafts, skirts, and/or supports from the object if necessary. Use sandpaper to smooth out object if needed. If printing an object with multiple parts that need to join, sand the adhesion area and use superglue. Cleaning the Build Plate Remove the binder clips and remove the build plate.  Clean the build plate bed by scraping off excess material with scraper tool and washing with warm soapy water and let dry.  Align the build plate onto heat bed. Secure with binder clips.",
+    "sentences": [
+        " Downloading Download and install CURA from https://ultimaker.com/en/products/ultimaker-cura-software.",
+        "Download or create an .stl file.",
+        "Download the bed level file, CHEP_Ender_3_bed_level.gcode, from http://www.thingiverse.com/thing:3235018.",
+        "Transfer to a microSD card.",
+        "Setting Up CURA Open the CURA software.",
+        "Add the printer profile.",
+        "Go to Settings > Printer > Add Printer....",
+        "Select Other.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/4f\\/Add-Printer-2.jpg\\/460px-Add-Printer-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4f\\/Add-Printer-2.jpg\\/715px-Add-Printer-2.jpg\",\"smallWidth\":460,\"smallHeight\":349,\"bigWidth\":\"715\",\"bigHeight\":\"543\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\nSelect Creality Ender 3.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f2\\/Add-Printer-3.jpg\\/460px-Add-Printer-3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f2\\/Add-Printer-3.jpg\\/707px-Add-Printer-3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Select the material from the Material drop down menu to specify your material.",
+        "Using CURA Open your file by selecting Open File icon.",
+        "Choose your desired .stl file to print and click Open.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/ab\\/Open-stl.jpg\\/460px-Open-stl.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/ab\\/Open-stl.jpg\\/728px-Open-stl.jpg\",\"smallWidth\":460,\"smallHeight\":320,\"bigWidth\":\"728\",\"bigHeight\":\"507\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Adjust the 3D model by selecting the model then adjustment icons, if needed.",
+        "Move - Click, hold, and drag the desired axis to move object.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/af\\/MoveObject.jpg\\/460px-MoveObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/af\\/MoveObject.jpg\\/726px-MoveObject.jpg\",\"smallWidth\":460,\"smallHeight\":354,\"bigWidth\":\"727\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\n\nScale - Change the size of the object by percentages.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/25\\/ScaleObject.jpg\\/460px-ScaleObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/25\\/ScaleObject.jpg\\/728px-ScaleObject.jpg\",\"smallWidth\":460,\"smallHeight\":351,\"bigWidth\":\"728\",\"bigHeight\":\"556\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\n\nRotate- Press, hold and rotate on the desired circle axis to rotate object.",
+        "Pressing the Lay Flat icon to position object flat on surface may reorient object.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/2\\/23\\/RotateObject.jpg\\/460px-RotateObject.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/23\\/RotateObject.jpg\\/723px-RotateObject.jpg\",\"smallWidth\":460,\"smallHeight\":356,\"bigWidth\":\"724\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Adjust the 3D print settings.",
+        "Go to \"Print Setup\" area with \"Recommended\" selected to adjust the Layer Height, Infill, Support, and Build Plate Adhesion.",
+        "Layer height - Select your desired layer height.",
+        "The lower the layer height, the higher quality the print, but the longer it takes to print.",
+        "Infill - Select desired infill percentage.",
+        "The higher the infill percentage, the stronger the print, the longer the print time.",
+        "Generate Support - Used for overhangs greater than 45 degrees.",
+        "Build Plate Adhesion - Brims or rafts may be used to help plate adhesion and to reduce warping.",
+        "Adjust the print temperatures.",
+        "Click Custom and go to Material to adjust printing temperatures based on the material's manufacturer recommendation.",
+        "Click Prepare to estimate the print time, material use, and to slice the .stl file.",
+        "Save the .gcode file to a microSD card using a microSD USB adapter.",
+        "Then press Save to Removable Drive.",
+        "Loading the Filament Place the material onto the spool holder.",
+        "Cut the end of filament at ~45 degrees using the snippers.",
+        "Turn on the printer by pressing the red power switch into the On position represented with the \"|\" symbol.",
+        "Press the control knob to access the menu options.",
+        "Rotate the control knob to highlight desired selection, and press it to confirm selection.",
+        "Move the Z-axis off the bed by ~40-60mm.",
+        "Press the control knob to highlight and select Prepare.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e4\\/PreparePLA.jpg\\/460px-PreparePLA.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e4\\/PreparePLA.jpg\\/512px-PreparePLA.jpg\",\"smallWidth\":460,\"smallHeight\":502,\"bigWidth\":\"513\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move Axis.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/96\\/MoveAxis.jpg\\/459px-MoveAxis.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/96\\/MoveAxis.jpg\\/495px-MoveAxis.jpg\",\"smallWidth\":460,\"smallHeight\":519,\"bigWidth\":\"496\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move 1mm.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/3b\\/Move1mm.jpg\\/460px-Move1mm.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3b\\/Move1mm.jpg\\/507px-Move1mm.jpg\",\"smallWidth\":460,\"smallHeight\":508,\"bigWidth\":\"507\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nHighlight and select Move Z.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/97\\/MoveZ.jpg\\/460px-MoveZ.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/97\\/MoveZ.jpg\\/498px-MoveZ.jpg\",\"smallWidth\":460,\"smallHeight\":517,\"bigWidth\":\"498\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nRotate the control knob until the screen reads ~40-60mm and the print nozzle is ~40-60mm above the print bed.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/33\\/Zheight.jpg\\/460px-Zheight.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/33\\/Zheight.jpg\\/510px-Zheight.jpg\",\"smallWidth\":460,\"smallHeight\":505,\"bigWidth\":\"510\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Preheat the print nozzle by highlighting and selecting Prepare then Preheat PLA.",
+        "Wait for the nozzle to reach 185 degrees.",
+        "The red circled number indicates the current nozzle temperature and the number above represents desired temperature.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/b\\/b0\\/PreheatPLA.jpg\\/459px-PreheatPLA.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/b0\\/PreheatPLA.jpg\\/509px-PreheatPLA.jpg\",\"smallWidth\":460,\"smallHeight\":505,\"bigWidth\":\"510\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Load the filament into the printer.",
+        "Squeeze the extruder lever and feed the filament through the extruder hole.",
+        "Continue feeding the material until it comes out of the print nozzle.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/8f\\/NozzleExtrude.jpg\\/460px-NozzleExtrude.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/8f\\/NozzleExtrude.jpg\\/728px-NozzleExtrude.jpg\",\"smallWidth\":460,\"smallHeight\":353,\"bigWidth\":\"728\",\"bigHeight\":\"559\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Turn off the printer or proceed to \"Leveling the Print Bed.\"",
+        "Leveling the Print Bed Insert the microSD card into the microSD card slot.",
+        "Turn the printer on.",
+        "Level the print bed using the CHEP_ENDER_3_bed_level.gcode, paper, and adjustment screws.",
+        "Press and rotate the control knob to highlight and select Print from SD.",
+        "Highlight and select the CHEP_Ender_3_bed_level.gcode.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/36\\/BedLevelSelect.jpg\\/460px-BedLevelSelect.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/36\\/BedLevelSelect.jpg\\/488px-BedLevelSelect.jpg\",\"smallWidth\":460,\"smallHeight\":527,\"bigWidth\":\"489\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nWait until nozzles comes to a stop before proceeding.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/fa\\/NozzleStopping.jpg\\/460px-NozzleStopping.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/fa\\/NozzleStopping.jpg\\/378px-NozzleStopping.jpg\",\"smallWidth\":460,\"smallHeight\":681,\"bigWidth\":\"378\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nContinually slide a piece of paper back and forth underneath the nozzle.",
+        "The nozzle will \"scratch\" the paper if it's at the correct level.",
+        "Using the adjustment screw of each corner below the heat bed, raise the bed by turning clockwise/lower the bed by turning counter-clockwise, while continually sliding the piece paper.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/94\\/BedLevelAdjustmentScrews.jpg\\/460px-BedLevelAdjustmentScrews.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/94\\/BedLevelAdjustmentScrews.jpg\\/728px-BedLevelAdjustmentScrews.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n\nPress the control knob to level other corners of the bed.",
+        "The center point used to check if the bed is calibrated correctly.",
+        "Repeat this until you no longer need to turn adjustment knobs.",
+        "Turn off the printer or proceed to \"Printing the Object.\"",
+        "Printing the Object Insert the microSD card if not already inserted, and then turn the power on.",
+        "Select Print from SD then highlight and select the desired .gcode file.",
+        "Wait for print bed and print nozzle to heat up.",
+        "The circled numbers on the bottoms will match the ones on top.",
+        "Caution: Do not touch print bed or print nozzle at this point.",
+        "It may cause burns!",
+        "Examine the first print layer for adhesion quality.",
+        "The material will stick to the bed in an even layer if properly leveled.",
+        "If little to no material is extruding, then lower the print bed.",
+        "If the material is not sticking, then raise the print bed.",
+        "Wait for the file to print while checking back periodically until the print is finished.",
+        "Check to see if the object is printing properly.",
+        "If not, press on the control knob, select Stop Print.",
+        "Turn off the 3D Printer by switching the power button into the on position.",
+        "Remove the 3D printed object with the scraper tool once the print bed, print nozzle, and object have cooled.",
+        "Remove rafts, skirts, and/or supports from the object if necessary.",
+        "Use sandpaper to smooth out object if needed.",
+        "If printing an object with multiple parts that need to join, sand the adhesion area and use superglue.",
+        "Cleaning the Build Plate Remove the binder clips and remove the build plate.",
+        "Clean the build plate bed by scraping off excess material with scraper tool and washing with warm soapy water and let dry.",
+        "Align the build plate onto heat bed.",
+        "Secure with binder clips."
+    ]
+}

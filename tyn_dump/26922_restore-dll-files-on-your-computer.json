@@ -1,0 +1,76 @@
+{
+    "title": "How to Restore DLL Files on Your Computer",
+    "url": "https://www.wikihow.com/Restore-DLL-Files-on-Your-Computer",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Install & Uninstall Software"
+    ],
+    "steps": [
+        {
+            "headline": "Missing DLL files that somehow disappear can cause your computer to act in strange ways, such as not shutting down properly.",
+            "description": "Run a system disk scan in the Norton Antivirus suite. For instance Norton has a tool called \"Windoctor\" that makes repairs automatically. It is suggested that if you remove Norton for another free antivirus program, they retain Norton Utilities/ WinDoctor and Speed Disk for defragging."
+        },
+        {
+            "headline": "Always run a scan on anything you download before you open it.",
+            "description": "Remove programs that you don't use or need. Too many programs clog up the machine. Do periodic defragging. Anytime you download or remove programs, music, etc. plus the normal creation of files, it fragments the computer and slows and confuses its proper functions. \"When system files are overwritten, such as .sys, .dll, .ocx, .ttf, .fon, and .exe files, system performance becomes unpredictable, programs behave erratically, and the operating system fails\"."
+        },
+        {
+            "headline": "If it is determined that if you have one or more missing DLL files, that can be identified, and they can be replaced.",
+            "description": "Find on Google, a site that offers free DLL file download websites. Download and unzip the file to the desktop. For this you need Winzip or WinRAR to extract the file."
+        },
+        {
+            "headline": "Now you need to put the DLL file in the proper folder or subfolders in which the program's files are kept.",
+            "description": "A way to find the program from which the DLL file is missing is by entering it into Google."
+        },
+        {
+            "headline": "q_encutl.dll+program'.",
+            "description": "Take for example the message may be posted by 'Norton Windoctor': \"C:\\Program Files\\Common Files\\InstallShield\\Professional\\RunTime\\0701\\"
+        },
+        {
+            "headline": "Intel32\\DotNetInstaller.exe\" cannot access a necessary file, \"mscoree.dll.\"",
+            "description": "Download the file mscoree.dll."
+        },
+        {
+            "headline": "By using 'Windows Explorer', you would in this case go to Local Disk [C] Program Files/Common Files/InstallShield/ and look through the subfolders until you find, in this case Professional/Run Time/Intel32.",
+            "description": "In this case you cut and paste or copy the DLL into that folder. By copying instead of cut and paste, you can put the DLL download into your Documents folder as an extra copy."
+        },
+        {
+            "headline": "Or you can go to the \"run\" menu.",
+            "description": "Type \"SFC\". If this doesn't work type the missing DLL and manually overwrite it with your Windows installation CD."
+        }
+    ],
+    "tyn": [
+        "Internet connection (for the DISM command)",
+        "Administrator permissions"
+    ],
+    "text": " Missing DLL files that somehow disappear can cause your computer to act in strange ways, such as not shutting down properly. Run a system disk scan in the Norton Antivirus suite. For instance Norton has a tool called \"Windoctor\" that makes repairs automatically. It is suggested that if you remove Norton for another free antivirus program, they retain Norton Utilities/ WinDoctor and Speed Disk for defragging. Always run a scan on anything you download before you open it. Remove programs that you don't use or need. Too many programs clog up the machine. Do periodic defragging. Anytime you download or remove programs, music, etc. plus the normal creation of files, it fragments the computer and slows and confuses its proper functions. \"When system files are overwritten, such as .sys, .dll, .ocx, .ttf, .fon, and .exe files, system performance becomes unpredictable, programs behave erratically, and the operating system fails\". If it is determined that if you have one or more missing DLL files, that can be identified, and they can be replaced. Find on Google, a site that offers free DLL file download websites. Download and unzip the file to the desktop. For this you need Winzip or WinRAR to extract the file. Now you need to put the DLL file in the proper folder or subfolders in which the program's files are kept. A way to find the program from which the DLL file is missing is by entering it into Google. q_encutl.dll+program'. Take for example the message may be posted by 'Norton Windoctor': \"C:\\Program Files\\Common Files\\InstallShield\\Professional\\RunTime\\0701\\ Intel32\\DotNetInstaller.exe\" cannot access a necessary file, \"mscoree.dll.\" Download the file mscoree.dll. By using 'Windows Explorer', you would in this case go to Local Disk [C] Program Files/Common Files/InstallShield/ and look through the subfolders until you find, in this case Professional/Run Time/Intel32. In this case you cut and paste or copy the DLL into that folder. By copying instead of cut and paste, you can put the DLL download into your Documents folder as an extra copy. Or you can go to the \"run\" menu. Type \"SFC\". If this doesn't work type the missing DLL and manually overwrite it with your Windows installation CD.",
+    "sentences": [
+        " Missing DLL files that somehow disappear can cause your computer to act in strange ways, such as not shutting down properly.",
+        "Run a system disk scan in the Norton Antivirus suite.",
+        "For instance Norton has a tool called \"Windoctor\" that makes repairs automatically.",
+        "It is suggested that if you remove Norton for another free antivirus program, they retain Norton Utilities/ WinDoctor and Speed Disk for defragging.",
+        "Always run a scan on anything you download before you open it.",
+        "Remove programs that you don't use or need.",
+        "Too many programs clog up the machine.",
+        "Do periodic defragging.",
+        "Anytime you download or remove programs, music, etc.",
+        "plus the normal creation of files, it fragments the computer and slows and confuses its proper functions.",
+        "\"When system files are overwritten, such as .sys, .dll, .ocx, .ttf, .fon, and .exe files, system performance becomes unpredictable, programs behave erratically, and the operating system fails\".",
+        "If it is determined that if you have one or more missing DLL files, that can be identified, and they can be replaced.",
+        "Find on Google, a site that offers free DLL file download websites.",
+        "Download and unzip the file to the desktop.",
+        "For this you need Winzip or WinRAR to extract the file.",
+        "Now you need to put the DLL file in the proper folder or subfolders in which the program's files are kept.",
+        "A way to find the program from which the DLL file is missing is by entering it into Google.",
+        "q_encutl.dll+program'.",
+        "Take for example the message may be posted by 'Norton Windoctor': \"C:\\Program Files\\Common Files\\InstallShield\\Professional\\RunTime\\0701\\ Intel32\\DotNetInstaller.exe\" cannot access a necessary file, \"mscoree.dll.\"",
+        "Download the file mscoree.dll.",
+        "By using 'Windows Explorer', you would in this case go to Local Disk [C] Program Files/Common Files/InstallShield/ and look through the subfolders until you find, in this case Professional/Run Time/Intel32.",
+        "In this case you cut and paste or copy the DLL into that folder.",
+        "By copying instead of cut and paste, you can put the DLL download into your Documents folder as an extra copy.",
+        "Or you can go to the \"run\" menu.",
+        "Type \"SFC\".",
+        "If this doesn't work type the missing DLL and manually overwrite it with your Windows installation CD."
+    ]
+}
