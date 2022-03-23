@@ -1,0 +1,61 @@
+{
+    "title": "How to Chat With Command Prompt",
+    "url": "https://www.wikihow.com/Chat-With-Command-Prompt",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Command Prompt"
+    ],
+    "steps": [
+        {
+            "headline": "Open notepad then type: ",
+            "description": " @ echo off :A Cls echo MESSENGER set /p n=User: set /p m=Message: net send %n% %m% Pause Goto A"
+        },
+        {
+            "headline": "When you're finished, click on file, save as, then save it as messenger.bat.",
+            "description": ""
+        },
+        {
+            "headline": "Go to control panel (make sure you are in Classic View).",
+            "description": "Click on \"administrative tools\", then click on \"services\"."
+        },
+        {
+            "headline": "Now find the \"messenger\" service in the list on the right, then open it.",
+            "description": "You'll see \"startup type\" which should be disabled, so click on that and select \"manual\"."
+        },
+        {
+            "headline": "Now press the start button in the upper left hand corner of the window (not the green start button), and click OK.",
+            "description": ""
+        },
+        {
+            "headline": "Next, do the same procedure on the remote computer.",
+            "description": "Until this service is activated on that PC,  or you won't be able to use this!"
+        },
+        {
+            "headline": "Now click on the messenger file you made.",
+            "description": "Since it is a batch file it will open with cmd (command prompt). It should show \"MESSENGER\" at the top and \"User:\" below that. Type the IP address of the remote computer. If it is in the network, then when you type the message next, it should send it to them. It will be likewise on the other computer. There you got it!"
+        }
+    ],
+    "tyn": [
+        "Access to two computers with Windows XP on the same network",
+        "Command Prompt"
+    ],
+    "text": " Open notepad then type:   @ echo off :A Cls echo MESSENGER set /p n=User: set /p m=Message: net send %n% %m% Pause Goto A When you're finished, click on file, save as, then save it as messenger.bat.  Go to control panel (make sure you are in Classic View). Click on \"administrative tools\", then click on \"services\". Now find the \"messenger\" service in the list on the right, then open it. You'll see \"startup type\" which should be disabled, so click on that and select \"manual\". Now press the start button in the upper left hand corner of the window (not the green start button), and click OK.  Next, do the same procedure on the remote computer. Until this service is activated on that PC,  or you won't be able to use this! Now click on the messenger file you made. Since it is a batch file it will open with cmd (command prompt). It should show \"MESSENGER\" at the top and \"User:\" below that. Type the IP address of the remote computer. If it is in the network, then when you type the message next, it should send it to them. It will be likewise on the other computer. There you got it!",
+    "sentences": [
+        " Open notepad then type:   @ echo off :A Cls echo MESSENGER set /p n=User: set /p m=Message: net send %n% %m% Pause Goto A When you're finished, click on file, save as, then save it as messenger.bat.",
+        "Go to control panel (make sure you are in Classic View).",
+        "Click on \"administrative tools\", then click on \"services\".",
+        "Now find the \"messenger\" service in the list on the right, then open it.",
+        "You'll see \"startup type\" which should be disabled, so click on that and select \"manual\".",
+        "Now press the start button in the upper left hand corner of the window (not the green start button), and click OK.  Next, do the same procedure on the remote computer.",
+        "Until this service is activated on that PC,  or you won't be able to use this!",
+        "Now click on the messenger file you made.",
+        "Since it is a batch file it will open with cmd (command prompt).",
+        "It should show \"MESSENGER\" at the top and \"User:\" below that.",
+        "Type the IP address of the remote computer.",
+        "If it is in the network, then when you type the message next, it should send it to them.",
+        "It will be likewise on the other computer.",
+        "There you got it!"
+    ]
+}

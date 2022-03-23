@@ -1,0 +1,151 @@
+{
+    "title": "How to Install the Windows 7 OS on a Portable Hard Drive",
+    "url": "https://www.wikihow.com/Install-the-Windows-7-OS-on-a-Portable-Hard-Drive",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Windows 7"
+    ],
+    "parts": [
+        {
+            "name": "Preparing for Installation",
+            "steps": [
+                {
+                    "headline": "Open up Command Prompt as administrator by clicking the Windows Start button.",
+                    "description": "Type in 'cmd', then right click cmd, click 'Run as administrator' and enter the password if prompted."
+                },
+                {
+                    "headline": "Type 'diskpart'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'list disk'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'select disk #' (replace # with your portable drive number).",
+                    "description": "You can find which one it is by checking the size of its hard drive and matching it up with one on the list."
+                },
+                {
+                    "headline": "Type 'clean'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'create partition primary'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'select partition 1'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'active'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'format fs=ntfs quick'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Type 'assign'.",
+                    "description": ""
+                },
+                {
+                    "headline": "Exit out of Command Prompt.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Installing Windows",
+            "steps": [
+                {
+                    "headline": "Open Windows Easy Install.",
+                    "description": "Extract it to your desktop or somewhere where you can find it."
+                },
+                {
+                    "headline": "Open Windows Easy Install.",
+                    "description": "Click on the folder Windows Easy Install, then folder NT6.x_fast_installer, then finally click on the folder Windows 7."
+                },
+                {
+                    "headline": "Click on installer and run it as administrator.",
+                    "description": "Enter the admin password if prompted. A green command window should open up. Press enter."
+                },
+                {
+                    "headline": "Wait for it to say \"Please select the path of install.wim\".",
+                    "description": "Open your Windows 7 Installer USB or CD. When it is opened, click on sources."
+                },
+                {
+                    "headline": "Find install.wim at the bottom.",
+                    "description": "Click on it then open it. There should be a list of Windows 7 versions, select one."
+                },
+                {
+                    "headline": "Enter the drive letter of the partition where you want to install Windows.",
+                    "description": "Simply select your portable drive number."
+                },
+                {
+                    "headline": "Enter the drive letter of your active primary partition.",
+                    "description": "Enter your portable drive where you will be installing Windows' number"
+                },
+                {
+                    "headline": "Enter Y when it asks, \"Is YOUR DRIVE NUMBER a USB hard disk?\"",
+                    "description": ""
+                },
+                {
+                    "headline": "Wait for it to tell you the information is collected.",
+                    "description": "If you want to use another drive letter, put it in then press enter."
+                },
+                {
+                    "headline": "Wait for the installation to complete.",
+                    "description": "When it's done, boot it up from your portable drive."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Portable Hard Drive [more than 30GB recommended]",
+        "USB or a Disc with the Windows 7 Installer on it.",
+        "Windows Easy Install ",
+        "https://mega.co.nz/#!VwlDiZ5L!hKc6MtM9PdzUwW-2Cm86DNYmqVTpU9RWJ4QZ0MJn39M",
+        "Winrar or other file extractor"
+    ],
+    "text": " Preparing for Installation Open up Command Prompt as administrator by clicking the Windows Start button. Type in 'cmd', then right click cmd, click 'Run as administrator' and enter the password if prompted. Type 'diskpart'.  Type 'list disk'.  Type 'select disk #' (replace # with your portable drive number). You can find which one it is by checking the size of its hard drive and matching it up with one on the list. Type 'clean'.  Type 'create partition primary'.  Type 'select partition 1'.  Type 'active'.  Type 'format fs=ntfs quick'.  Type 'assign'.  Exit out of Command Prompt.  Installing Windows Open Windows Easy Install. Extract it to your desktop or somewhere where you can find it. Open Windows Easy Install. Click on the folder Windows Easy Install, then folder NT6.x_fast_installer, then finally click on the folder Windows 7. Click on installer and run it as administrator. Enter the admin password if prompted. A green command window should open up. Press enter. Wait for it to say \"Please select the path of install.wim\". Open your Windows 7 Installer USB or CD. When it is opened, click on sources. Find install.wim at the bottom. Click on it then open it. There should be a list of Windows 7 versions, select one. Enter the drive letter of the partition where you want to install Windows. Simply select your portable drive number. Enter the drive letter of your active primary partition. Enter your portable drive where you will be installing Windows' number Enter Y when it asks, \"Is YOUR DRIVE NUMBER a USB hard disk?\"  Wait for it to tell you the information is collected. If you want to use another drive letter, put it in then press enter. Wait for the installation to complete. When it's done, boot it up from your portable drive.",
+    "sentences": [
+        " Preparing for Installation Open up Command Prompt as administrator by clicking the Windows Start button.",
+        "Type in 'cmd', then right click cmd, click 'Run as administrator' and enter the password if prompted.",
+        "Type 'diskpart'.",
+        "Type 'list disk'.",
+        "Type 'select disk #' (replace # with your portable drive number).",
+        "You can find which one it is by checking the size of its hard drive and matching it up with one on the list.",
+        "Type 'clean'.",
+        "Type 'create partition primary'.",
+        "Type 'select partition 1'.",
+        "Type 'active'.",
+        "Type 'format fs=ntfs quick'.",
+        "Type 'assign'.",
+        "Exit out of Command Prompt.",
+        "Installing Windows Open Windows Easy Install.",
+        "Extract it to your desktop or somewhere where you can find it.",
+        "Open Windows Easy Install.",
+        "Click on the folder Windows Easy Install, then folder NT6.x_fast_installer, then finally click on the folder Windows 7.",
+        "Click on installer and run it as administrator.",
+        "Enter the admin password if prompted.",
+        "A green command window should open up.",
+        "Press enter.",
+        "Wait for it to say \"Please select the path of install.wim\".",
+        "Open your Windows 7 Installer USB or CD.",
+        "When it is opened, click on sources.",
+        "Find install.wim at the bottom.",
+        "Click on it then open it.",
+        "There should be a list of Windows 7 versions, select one.",
+        "Enter the drive letter of the partition where you want to install Windows.",
+        "Simply select your portable drive number.",
+        "Enter the drive letter of your active primary partition.",
+        "Enter your portable drive where you will be installing Windows' number Enter Y when it asks, \"Is YOUR DRIVE NUMBER a USB hard disk?\"",
+        "Wait for it to tell you the information is collected.",
+        "If you want to use another drive letter, put it in then press enter.",
+        "Wait for the installation to complete.",
+        "When it's done, boot it up from your portable drive."
+    ]
+}

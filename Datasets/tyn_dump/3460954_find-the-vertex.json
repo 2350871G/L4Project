@@ -1,0 +1,194 @@
+{
+    "title": "How to Find the Vertex",
+    "url": "https://www.wikihow.com/Find-the-Vertex",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics"
+    ],
+    "methods": [
+        {
+            "name": "Finding the Number of Vertices in a Polyhedron",
+            "steps": [
+                {
+                    "headline": "Learn Euler's Formula.",
+                    "description": "Euler's Formula, as it is used in reference to geometry and graphs, states that for any polyhedron that does not intersect itself, the number of faces plus the number of vertices, minus the number of edges, will always equal two. Written out as an equation, the formula looks like: F + V - E = 2\n\nF refers to the number of faces\n\nV refers to the number of vertices, or corner points\n\nE refers to the number of edges"
+                },
+                {
+                    "headline": "Rearrange the formula to find the number of vertices.",
+                    "description": "If you know how many faces and edges the polyhedron has, you can quickly count the number of vertices by using Euler's Formula. Subtract F from both sides of the equation and add E to both sides, isolating V on one side. V = 2 - F + E"
+                },
+                {
+                    "headline": "Plug the numbers in and solve.",
+                    "description": "All you need to do at this point is to plug the number of sides and edges into the equation before adding and subtracting like normal. The answer you get should tell you the number of vertices and complete the problem. Example: For a polyhedron that has 6 faces and 12 edges...\nV = 2 - F + E\nV = 2 - 6 + 12\nV = -4 + 12\nV = 8"
+                }
+            ]
+        },
+        {
+            "name": "Finding Vertices for Systems of Linear Inequalities",
+            "steps": [
+                {
+                    "headline": "Graph the solutions of the system of linear inequalities.",
+                    "description": "In some instances, graphing the solutions for all inequalities in the system can visually show you where some, if not all, of the vertices lie. When it does not, however, you will need to find the vertex algebraically. If using a graphing calculator to graph the inequalities, you can usually scroll over to the vertices and find the coordinates that way."
+                },
+                {
+                    "headline": "Change the inequalities to equations.",
+                    "description": "In order to solve for the system of inequalities, you will need to temporarily change the inequalities to equations, allowing you the ability to find values for x and y. Example: For the system of inequalities:\ny < x\ny > -x + 4\n\nChange the inequalities to:\ny = x\ny = -x + 4"
+                },
+                {
+                    "headline": "Substitute one variable for the other.",
+                    "description": "While there are a couple of different ways you can solve for x and y, substitution is often the easiest to use. Plug the value of y from one equation into the other equation, effectively \"substituting\" y in the other equation with additional x values. Example: If:\ny = x\ny = -x + 4\n\nThen y = -x + 4 can be written as:\nx = -x + 4"
+                },
+                {
+                    "headline": "Solve for the first variable.",
+                    "description": "Now that you only have one variable in the equation, you can easily solve for that variable, x, as you would in any other equation: by adding, subtracting, dividing, and multiplying. Example: x = -x + 4\nx + x = -x + x + 4\n2x = 4\n2x / 2 = 4 / 2\nx = 2"
+                },
+                {
+                    "headline": "Solve for the remaining variable.",
+                    "description": "Plug your new value for x into one of the original equations to find the value of y. Example: y = x\ny = 2"
+                },
+                {
+                    "headline": "Determine the vertex.",
+                    "description": "The vertex is simply the coordinate consisting of your new x and y values. Example: (2, 2)"
+                }
+            ]
+        },
+        {
+            "name": "Finding the Vertex of a Parabola with Axis of Symmetry",
+            "steps": [
+                {
+                    "headline": "Factor the equation.",
+                    "description": "Rewrite the quadratic equation in its factored form. There are several ways to factor out a quadratic equation, but when done, you should be left with two sets of parentheses that, when multiplied together, equal your original equation. Example: (using decomposition)\n3x2 - 6x - 45\nFactor out the common factor: 3 (x2 - 2x - 15)\nMultiply the a and c terms: 1 * -15 = -15\nFind two numbers with a product that equals -15 and a sum that equals the b value, -2: 3 * -5 = -15; 3 - 5 = -2\nSubstitute the two values into the equation ax2 + kx + hx + c: 3(x2 + 3x - 5x - 15)\nFactor the polynomial by grouping: f(x) = 3 * (x + 3) * (x - 5)"
+                },
+                {
+                    "headline": "Find the point at which the equation crosses the x-axis.",
+                    "description": "Whenever the function of x, f(x), equals 0, the parabola will cross the x-axis. This will occur when either set of factors equals 0. Example: 3 * (x + 3) * (x - 5) = 0\n\u0445 +3 = 0\n\u0445 - 5 = 0\n\u0445 = -3 ; \u0445 = 5\nTherefore, the roots are: (-3, 0) and (5, 0)"
+                },
+                {
+                    "headline": "Calculate the midway point.",
+                    "description": "The axis of symmetry for the equation will lie directly in between the two roots of the equation. You need to know the axis of symmetry since the vertex lies on it. Example: x = 1; this value lies directly between -3 and 5"
+                },
+                {
+                    "headline": "Plug the x value into the original equation.",
+                    "description": "Plug the x value for your axis of symmetry into either equation for your parabola. The y value will be the y value for your vertex. Example: y = 3x2 - 6x - 45 = 3(1)2 - 6(1) - 45 = -48"
+                },
+                {
+                    "headline": "Write down the vertex point.",
+                    "description": "At this point, your last calculated x and y values should give you the coordinates of your vertex. Example: (1, -48)"
+                }
+            ]
+        },
+        {
+            "name": "Finding the Vertex of a Parabola by Completing the Square",
+            "steps": [
+                {
+                    "headline": "Rewrite the original equation in its vertex form.",
+                    "description": "The \"vertex\" form of an equation is written as y = a(x - h)^2 + k, and the vertex point will be (h, k). Your current quadratic equation will need to be rewritten into this form, and in order to do that, you'll need to complete the square. Example: y = -x^2 - 8x - 15"
+                },
+                {
+                    "headline": "Isolate the a value.",
+                    "description": "Factor out the coefficient of the first term, a from the first two terms in the equation. Leave the final term, c, alone for now. Example: -1 (x^2 + 8x) - 15"
+                },
+                {
+                    "headline": "Find a third term for the parentheses.",
+                    "description": "The third term must complete the set in the parentheses so that the values in parentheses form a perfect square. This new term is the squared value of half the coefficient of the middle term. Example: 8 / 2 = 4; 4 * 4 = 16; therefore,\n-1(x^2 + 8x + 16)\nAlso keep in mind that what you do to the inside must also be done to the outside:\ny = -1(x^2 + 8x + 16) - 15 + 16"
+                },
+                {
+                    "headline": "Simplify the equation.",
+                    "description": "Since your parentheses now form a perfect square, you can simplify the parenthetical portion to its factored form. Simultaneously, you can do any addition or subtraction needed to the values outside of the parentheses. Example: y = -1(x + 4)^2 + 1"
+                },
+                {
+                    "headline": "Figure out what the coordinates are based on the vertex equation.",
+                    "description": "Recall that the vertex form of an equation is y = a(x - h)^2 + k, with (h, k) representing the coordinates of the vertex. You now have enough information to plug values into the h and k slots and complete the problem. k = 1\nh = -4\nTherefore, the vertex of this equation can be found at: (-4, 1)"
+                }
+            ]
+        },
+        {
+            "name": "Finding the Vertex of a Parabola with a Simple Formula",
+            "steps": [
+                {
+                    "headline": "Find the x coordinate of the vertex directly.",
+                    "description": "When the equation of your parabola can be written as y = ax^2 + bx + c, the x of the vertex can be found using the formula x = -b / 2a. Simply plug the a and b values from your equation into this formula to find x. Example: y = -x^2 - 8x - 15\nx = -b / 2a = -(-8)/(2*(-1)) = 8/(-2) = -4\nx = -4"
+                },
+                {
+                    "headline": "Plug this value into the original equation.",
+                    "description": "By plugging a value for x into the equation, you can solve for y. This y value will be the y coordinate of your vertex. Example: y = -x^2 - 8x - 15 = -(-4)^2 - 8(-4) - 15 = -(16) - (-32) - 15 = -16 + 32 - 15 = 1\ny = 1"
+                },
+                {
+                    "headline": "Write down your vertex coordinates.",
+                    "description": "The x and y values you have are the coordinates of your vertex point. Example: (-4, 1)"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Calculator",
+        "Pencil",
+        "Paper"
+    ],
+    "text": " Finding the Number of Vertices in a Polyhedron Learn Euler's Formula. Euler's Formula, as it is used in reference to geometry and graphs, states that for any polyhedron that does not intersect itself, the number of faces plus the number of vertices, minus the number of edges, will always equal two. Written out as an equation, the formula looks like: F + V - E = 2\n\nF refers to the number of faces\n\nV refers to the number of vertices, or corner points\n\nE refers to the number of edges Rearrange the formula to find the number of vertices. If you know how many faces and edges the polyhedron has, you can quickly count the number of vertices by using Euler's Formula. Subtract F from both sides of the equation and add E to both sides, isolating V on one side. V = 2 - F + E Plug the numbers in and solve. All you need to do at this point is to plug the number of sides and edges into the equation before adding and subtracting like normal. The answer you get should tell you the number of vertices and complete the problem. Example: For a polyhedron that has 6 faces and 12 edges...\nV = 2 - F + E\nV = 2 - 6 + 12\nV = -4 + 12\nV = 8 Finding Vertices for Systems of Linear Inequalities Graph the solutions of the system of linear inequalities. In some instances, graphing the solutions for all inequalities in the system can visually show you where some, if not all, of the vertices lie. When it does not, however, you will need to find the vertex algebraically. If using a graphing calculator to graph the inequalities, you can usually scroll over to the vertices and find the coordinates that way. Change the inequalities to equations. In order to solve for the system of inequalities, you will need to temporarily change the inequalities to equations, allowing you the ability to find values for x and y. Example: For the system of inequalities:\ny < x\ny > -x + 4\n\nChange the inequalities to:\ny = x\ny = -x + 4 Substitute one variable for the other. While there are a couple of different ways you can solve for x and y, substitution is often the easiest to use. Plug the value of y from one equation into the other equation, effectively \"substituting\" y in the other equation with additional x values. Example: If:\ny = x\ny = -x + 4\n\nThen y = -x + 4 can be written as:\nx = -x + 4 Solve for the first variable. Now that you only have one variable in the equation, you can easily solve for that variable, x, as you would in any other equation: by adding, subtracting, dividing, and multiplying. Example: x = -x + 4\nx + x = -x + x + 4\n2x = 4\n2x / 2 = 4 / 2\nx = 2 Solve for the remaining variable. Plug your new value for x into one of the original equations to find the value of y. Example: y = x\ny = 2 Determine the vertex. The vertex is simply the coordinate consisting of your new x and y values. Example: (2, 2) Finding the Vertex of a Parabola with Axis of Symmetry Factor the equation. Rewrite the quadratic equation in its factored form. There are several ways to factor out a quadratic equation, but when done, you should be left with two sets of parentheses that, when multiplied together, equal your original equation. Example: (using decomposition)\n3x2 - 6x - 45\nFactor out the common factor: 3 (x2 - 2x - 15)\nMultiply the a and c terms: 1 * -15 = -15\nFind two numbers with a product that equals -15 and a sum that equals the b value, -2: 3 * -5 = -15; 3 - 5 = -2\nSubstitute the two values into the equation ax2 + kx + hx + c: 3(x2 + 3x - 5x - 15)\nFactor the polynomial by grouping: f(x) = 3 * (x + 3) * (x - 5) Find the point at which the equation crosses the x-axis. Whenever the function of x, f(x), equals 0, the parabola will cross the x-axis. This will occur when either set of factors equals 0. Example: 3 * (x + 3) * (x - 5) = 0\n\u0445 +3 = 0\n\u0445 - 5 = 0\n\u0445 = -3 ; \u0445 = 5\nTherefore, the roots are: (-3, 0) and (5, 0) Calculate the midway point. The axis of symmetry for the equation will lie directly in between the two roots of the equation. You need to know the axis of symmetry since the vertex lies on it. Example: x = 1; this value lies directly between -3 and 5 Plug the x value into the original equation. Plug the x value for your axis of symmetry into either equation for your parabola. The y value will be the y value for your vertex. Example: y = 3x2 - 6x - 45 = 3(1)2 - 6(1) - 45 = -48 Write down the vertex point. At this point, your last calculated x and y values should give you the coordinates of your vertex. Example: (1, -48) Finding the Vertex of a Parabola by Completing the Square Rewrite the original equation in its vertex form. The \"vertex\" form of an equation is written as y = a(x - h)^2 + k, and the vertex point will be (h, k). Your current quadratic equation will need to be rewritten into this form, and in order to do that, you'll need to complete the square. Example: y = -x^2 - 8x - 15 Isolate the a value. Factor out the coefficient of the first term, a from the first two terms in the equation. Leave the final term, c, alone for now. Example: -1 (x^2 + 8x) - 15 Find a third term for the parentheses. The third term must complete the set in the parentheses so that the values in parentheses form a perfect square. This new term is the squared value of half the coefficient of the middle term. Example: 8 / 2 = 4; 4 * 4 = 16; therefore,\n-1(x^2 + 8x + 16)\nAlso keep in mind that what you do to the inside must also be done to the outside:\ny = -1(x^2 + 8x + 16) - 15 + 16 Simplify the equation. Since your parentheses now form a perfect square, you can simplify the parenthetical portion to its factored form. Simultaneously, you can do any addition or subtraction needed to the values outside of the parentheses. Example: y = -1(x + 4)^2 + 1 Figure out what the coordinates are based on the vertex equation. Recall that the vertex form of an equation is y = a(x - h)^2 + k, with (h, k) representing the coordinates of the vertex. You now have enough information to plug values into the h and k slots and complete the problem. k = 1\nh = -4\nTherefore, the vertex of this equation can be found at: (-4, 1) Finding the Vertex of a Parabola with a Simple Formula Find the x coordinate of the vertex directly. When the equation of your parabola can be written as y = ax^2 + bx + c, the x of the vertex can be found using the formula x = -b / 2a. Simply plug the a and b values from your equation into this formula to find x. Example: y = -x^2 - 8x - 15\nx = -b / 2a = -(-8)/(2*(-1)) = 8/(-2) = -4\nx = -4 Plug this value into the original equation. By plugging a value for x into the equation, you can solve for y. This y value will be the y coordinate of your vertex. Example: y = -x^2 - 8x - 15 = -(-4)^2 - 8(-4) - 15 = -(16) - (-32) - 15 = -16 + 32 - 15 = 1\ny = 1 Write down your vertex coordinates. The x and y values you have are the coordinates of your vertex point. Example: (-4, 1)",
+    "sentences": [
+        " Finding the Number of Vertices in a Polyhedron Learn Euler's Formula.",
+        "Euler's Formula, as it is used in reference to geometry and graphs, states that for any polyhedron that does not intersect itself, the number of faces plus the number of vertices, minus the number of edges, will always equal two.",
+        "Written out as an equation, the formula looks like: F + V - E = 2\n\nF refers to the number of faces\n\nV refers to the number of vertices, or corner points\n\nE refers to the number of edges Rearrange the formula to find the number of vertices.",
+        "If you know how many faces and edges the polyhedron has, you can quickly count the number of vertices by using Euler's Formula.",
+        "Subtract F from both sides of the equation and add E to both sides, isolating V on one side.",
+        "V = 2 - F + E Plug the numbers in and solve.",
+        "All you need to do at this point is to plug the number of sides and edges into the equation before adding and subtracting like normal.",
+        "The answer you get should tell you the number of vertices and complete the problem.",
+        "Example: For a polyhedron that has 6 faces and 12 edges...\nV = 2 - F + E\nV = 2 - 6 + 12\nV = -4 + 12\nV = 8 Finding Vertices for Systems of Linear Inequalities Graph the solutions of the system of linear inequalities.",
+        "In some instances, graphing the solutions for all inequalities in the system can visually show you where some, if not all, of the vertices lie.",
+        "When it does not, however, you will need to find the vertex algebraically.",
+        "If using a graphing calculator to graph the inequalities, you can usually scroll over to the vertices and find the coordinates that way.",
+        "Change the inequalities to equations.",
+        "In order to solve for the system of inequalities, you will need to temporarily change the inequalities to equations, allowing you the ability to find values for x and y.",
+        "Example: For the system of inequalities:\ny < x\ny > -x + 4\n\nChange the inequalities to:\ny = x\ny = -x + 4 Substitute one variable for the other.",
+        "While there are a couple of different ways you can solve for x and y, substitution is often the easiest to use.",
+        "Plug the value of y from one equation into the other equation, effectively \"substituting\" y in the other equation with additional x values.",
+        "Example: If:\ny = x\ny = -x + 4\n\nThen y = -x + 4 can be written as:\nx = -x + 4 Solve for the first variable.",
+        "Now that you only have one variable in the equation, you can easily solve for that variable, x, as you would in any other equation: by adding, subtracting, dividing, and multiplying.",
+        "Example: x = -x + 4\nx + x = -x + x + 4\n2x = 4\n2x / 2 = 4 / 2\nx = 2 Solve for the remaining variable.",
+        "Plug your new value for x into one of the original equations to find the value of y.",
+        "Example: y = x\ny = 2 Determine the vertex.",
+        "The vertex is simply the coordinate consisting of your new x and y values.",
+        "Example: (2, 2) Finding the Vertex of a Parabola with Axis of Symmetry Factor the equation.",
+        "Rewrite the quadratic equation in its factored form.",
+        "There are several ways to factor out a quadratic equation, but when done, you should be left with two sets of parentheses that, when multiplied together, equal your original equation.",
+        "Example: (using decomposition)\n3x2 - 6x - 45\nFactor out the common factor: 3 (x2 - 2x - 15)\nMultiply the a and c terms: 1 * -15 = -15\nFind two numbers with a product that equals -15 and a sum that equals the b value, -2: 3 * -5 = -15; 3 - 5 = -2\nSubstitute the two values into the equation ax2 + kx + hx + c: 3(x2 + 3x - 5x - 15)\nFactor the polynomial by grouping: f(x) = 3 * (x + 3) * (x - 5) Find the point at which the equation crosses the x-axis.",
+        "Whenever the function of x, f(x), equals 0, the parabola will cross the x-axis.",
+        "This will occur when either set of factors equals 0.",
+        "Example: 3 * (x + 3) * (x - 5) = 0\n\u0445 +3 = 0\n\u0445 - 5 = 0\n\u0445 = -3 ; \u0445 = 5\nTherefore, the roots are: (-3, 0) and (5, 0) Calculate the midway point.",
+        "The axis of symmetry for the equation will lie directly in between the two roots of the equation.",
+        "You need to know the axis of symmetry since the vertex lies on it.",
+        "Example: x = 1; this value lies directly between -3 and 5 Plug the x value into the original equation.",
+        "Plug the x value for your axis of symmetry into either equation for your parabola.",
+        "The y value will be the y value for your vertex.",
+        "Example: y = 3x2 - 6x - 45 = 3(1)2 - 6(1) - 45 = -48 Write down the vertex point.",
+        "At this point, your last calculated x and y values should give you the coordinates of your vertex.",
+        "Example: (1, -48) Finding the Vertex of a Parabola by Completing the Square Rewrite the original equation in its vertex form.",
+        "The \"vertex\" form of an equation is written as y = a(x - h)^2 + k, and the vertex point will be (h, k).",
+        "Your current quadratic equation will need to be rewritten into this form, and in order to do that, you'll need to complete the square.",
+        "Example: y = -x^2 - 8x - 15 Isolate the a value.",
+        "Factor out the coefficient of the first term, a from the first two terms in the equation.",
+        "Leave the final term, c, alone for now.",
+        "Example: -1 (x^2 + 8x) - 15 Find a third term for the parentheses.",
+        "The third term must complete the set in the parentheses so that the values in parentheses form a perfect square.",
+        "This new term is the squared value of half the coefficient of the middle term.",
+        "Example: 8 / 2 = 4; 4 * 4 = 16; therefore,\n-1(x^2 + 8x + 16)\nAlso keep in mind that what you do to the inside must also be done to the outside:\ny = -1(x^2 + 8x + 16) - 15 + 16 Simplify the equation.",
+        "Since your parentheses now form a perfect square, you can simplify the parenthetical portion to its factored form.",
+        "Simultaneously, you can do any addition or subtraction needed to the values outside of the parentheses.",
+        "Example: y = -1(x + 4)^2 + 1 Figure out what the coordinates are based on the vertex equation.",
+        "Recall that the vertex form of an equation is y = a(x - h)^2 + k, with (h, k) representing the coordinates of the vertex.",
+        "You now have enough information to plug values into the h and k slots and complete the problem.",
+        "k = 1\nh = -4\nTherefore, the vertex of this equation can be found at: (-4, 1) Finding the Vertex of a Parabola with a Simple Formula Find the x coordinate of the vertex directly.",
+        "When the equation of your parabola can be written as y = ax^2 + bx + c, the x of the vertex can be found using the formula x = -b / 2a.",
+        "Simply plug the a and b values from your equation into this formula to find x.",
+        "Example: y = -x^2 - 8x - 15\nx = -b / 2a = -(-8)/(2*(-1)) = 8/(-2) = -4\nx = -4 Plug this value into the original equation.",
+        "By plugging a value for x into the equation, you can solve for y.",
+        "This y value will be the y coordinate of your vertex.",
+        "Example: y = -x^2 - 8x - 15 = -(-4)^2 - 8(-4) - 15 = -(16) - (-32) - 15 = -16 + 32 - 15 = 1\ny = 1 Write down your vertex coordinates.",
+        "The x and y values you have are the coordinates of your vertex point.",
+        "Example: (-4, 1)"
+    ]
+}

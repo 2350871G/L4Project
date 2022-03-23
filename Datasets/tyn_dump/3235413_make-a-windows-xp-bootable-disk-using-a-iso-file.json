@@ -1,0 +1,79 @@
+{
+    "title": "How to Make a Windows XP Bootable Disk Using a ISO File",
+    "url": "https://www.wikihow.com/Make-a-Windows-XP-Bootable-Disk-Using-a-ISO-File",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "XP Instructions"
+    ],
+    "methods": [
+        {
+            "name": "Burning a CD Using Power ISO",
+            "steps": [
+                {
+                    "headline": "Download PowerISO, And install it.",
+                    "description": "You might have to restart your computer after the installation."
+                },
+                {
+                    "headline": "Double click on your ISO file you want to burn.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click on Burn.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click on Burn again.",
+                    "description": ""
+                },
+                {
+                    "headline": "Use the CD drive to boot from the CD.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Mounting a CD Using Power ISO",
+            "steps": [
+                {
+                    "headline": "Download PowerISO, and install it.",
+                    "description": ""
+                },
+                {
+                    "headline": "Right click on the ISO file you want to mount.",
+                    "description": "> Go to PowerISO> Set number of drives> For example 1 drives."
+                },
+                {
+                    "headline": "Right click on your ISO file you want to mount.",
+                    "description": "> Go to PowerISO> Mount IMG to drive [Letter] >"
+                },
+                {
+                    "headline": "Go to My Computer.",
+                    "description": "You will see your mounted CD."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "An .ISO file",
+        "An ISO to disk burner",
+        "A computer running XP or later",
+        "A disk large enough to hold your .ISO"
+    ],
+    "text": " Burning a CD Using Power ISO Download PowerISO, And install it. You might have to restart your computer after the installation. Double click on your ISO file you want to burn.  Click on Burn.  Click on Burn again.  Use the CD drive to boot from the CD.  Mounting a CD Using Power ISO Download PowerISO, and install it.  Right click on the ISO file you want to mount. > Go to PowerISO> Set number of drives> For example 1 drives. Right click on your ISO file you want to mount. > Go to PowerISO> Mount IMG to drive [Letter] > Go to My Computer. You will see your mounted CD.",
+    "sentences": [
+        " Burning a CD Using Power ISO Download PowerISO, And install it.",
+        "You might have to restart your computer after the installation.",
+        "Double click on your ISO file you want to burn.",
+        "Click on Burn.",
+        "Click on Burn again.",
+        "Use the CD drive to boot from the CD.",
+        "Mounting a CD Using Power ISO Download PowerISO, and install it.",
+        "Right click on the ISO file you want to mount.",
+        "> Go to PowerISO> Set number of drives> For example 1 drives.",
+        "Right click on your ISO file you want to mount.",
+        "> Go to PowerISO> Mount IMG to drive [Letter] > Go to My Computer.",
+        "You will see your mounted CD."
+    ]
+}

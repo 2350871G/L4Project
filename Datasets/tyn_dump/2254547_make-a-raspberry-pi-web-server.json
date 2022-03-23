@@ -1,0 +1,185 @@
+{
+    "title": "How to Make a Raspberry Pi Web Server",
+    "url": "https://www.wikihow.com/Make-a-Raspberry-Pi-Web-Server",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Web Programming"
+    ],
+    "parts": [
+        {
+            "name": "Starting the Raspberry Pi Operating System",
+            "steps": [
+                {
+                    "headline": "Obtain a copy of the Raspberry Pi OS (Operating System) from the link in the sources section.",
+                    "description": "There are a few different distributions available, but for this article, we will be using the \"Raspbian\" version."
+                },
+                {
+                    "headline": "Extract the image to the SD card.",
+                    "description": "To do this, we need a tool called the Win32 Disc Imager. A link for this is also available in the sources section. Now open the tool, navigate to the drive letter that your SD card is in, select the location of the Raspberry Pi OS image, and select burn. Wait for it to finish."
+                },
+                {
+                    "headline": "Open the SD card in Windows Explorer.",
+                    "description": "Just create a file with the name ssh. This is a security update introduced since Raspbian Jessie."
+                },
+                {
+                    "headline": "Eject the SD card, and place it into your Raspberry Pi, then plug in the rest of the cords, being sure to plug in the mini USB last.",
+                    "description": ""
+                },
+                {
+                    "headline": "Log in once the operating system loads up.",
+                    "description": "The default username is \"pi\", and the default password is \"raspberry\"."
+                },
+                {
+                    "headline": "Start by changing the password.",
+                    "description": "From the command line type:\n\npasswd pi"
+                },
+                {
+                    "headline": "Enter your new password and then confirm it.",
+                    "description": "Please note, the cursor will not move when typing passwords but you are entering text."
+                }
+            ]
+        },
+        {
+            "name": "Running Software Updates",
+            "steps": [
+                {
+                    "headline": "Get started with updates.",
+                    "description": "Because you are running a fresh version of Debian, you will need to do some housecleaning, updating, and installing. First, we are going to update the clock, update our sources, then upgrade any pre-installed packages. Type the following at the command line (press return/enter after each line):\n\nsudo dpkg-reconfigure tzdata\nsudo apt-get update\nsudo apt-get upgrade"
+                },
+                {
+                    "headline": "Set the date and time.",
+                    "description": "From the command line type (replace parts as necessary):\n\nsudo date --set=\"30 December 2013 10:00:00\""
+                }
+            ]
+        },
+        {
+            "name": "Set Up SSH",
+            "steps": [
+                {
+                    "headline": "Set up SSH so that we can do everything else from a different computer.",
+                    "description": "To do this, first note the I.P. address of the Raspberry Pi:\n\nifconfig\n\n\nYou should see something like this:\n\n\neth0      Link encap:Ethernet  HWaddr fe:fd:45:xx:xx:xx\n          inet addr:69.164.xxx.xxx  Bcast:69.164.xxx.xxx  Mask:255.255.255.0\n          inet6 addr: fe80::fcfd:xxx:xxx:xxx/64 Scope:Link\n          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\n          RX packets:35463998 errors:0 dropped:0 overruns:0 frame:0\n          TX packets:30563995 errors:0 dropped:0 overruns:0 carrier:0\n          collisions:0 txqueuelen:1000\n          RX bytes:11300336376 (11.3 GB)  TX bytes:33179556297 (33.1 GB)\n          Interrupt:76\n\n\nMake sure you are connected to internet!! The tag eth0 will appear if you have ethernet plugged in. Wireless might be wlan0, but could differ. On the second line \"inet addr:69.164.xxx.xxx\" is the IP address of your Raspberry Pi."
+                },
+                {
+                    "headline": "Enable SSH and reboot (press return/enter after each line):",
+                    "description": "  After noting the inet addr use:  sudo /etc/init.d/ssh start  for every time you boot up the pi. Hint: If an error occurs, use the command below, and then the command up above. sudo apt-get install ssh\n\nThen, restart your pi:\nsudo shutdown -r now"
+                },
+                {
+                    "headline": "Unplug the cords for your USB keyboard and your monitor.",
+                    "description": "These are no longer necessary, as everything else will be done over SSH."
+                },
+                {
+                    "headline": "Download an SSH client like PuTTy (www.putty.org) which can be downloaded for free from Google and connect to the IP address of your Raspberry Pi logging in with the username \"pi\" and the password you set earlier.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Installing the Web Server",
+            "steps": [
+                {
+                    "headline": "Install Apache and PHP.",
+                    "description": "To do this, execute the following commands:\n\nsudo apt-get install apache2 php5 libapache2-mod-php5"
+                },
+                {
+                    "headline": "Restart the service:",
+                    "description": " sudo service apache2 restart   OR sudo /etc/init.d/apache2 restart"
+                },
+                {
+                    "headline": "Enter the I.P.",
+                    "description": "address of your Raspberry Pi into your web browser. You should see a simple page that says \"It Works!\""
+                }
+            ]
+        },
+        {
+            "name": "Installing FTP",
+            "steps": [
+                {
+                    "headline": "Install FTP to allow transferring files to and from your Raspberry Pi.",
+                    "description": ""
+                },
+                {
+                    "headline": "Take ownership of the web root:",
+                    "description": " sudo chown -R pi /var/www"
+                },
+                {
+                    "headline": "Install vsftpd:",
+                    "description": " sudo apt-get install vsftpd"
+                },
+                {
+                    "headline": "Edit your vsftpd.conf file: ",
+                    "description": " sudo nano /etc/vsftpd.conf"
+                },
+                {
+                    "headline": "Make the following changes:",
+                    "description": "anonymous_enable=YES to anonymous_enable=NO  Uncomment local_enable=YES and write_enable=YES by deleting the # symbol in front of each line then go to the bottom of the file and add force_dot_files=YES."
+                },
+                {
+                    "headline": "Save and exit the file by pressing CTRL-O, CTRL-X.",
+                    "description": ""
+                },
+                {
+                    "headline": "Restart vsftpd:",
+                    "description": " sudo service vsftpd restart"
+                },
+                {
+                    "headline": "Create a shortcut from the Pi user's home folder to /var/www: ",
+                    "description": " ln -s /var/www/ ~/www"
+                },
+                {
+                    "headline": "You can now FTP using the Pi user and access the /var/www folder via a shortcut that should appear on login.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Raspberry Pi (model B)",
+        "Blank SD card that is at least four gigabytes",
+        "Micro USB cable (for power)",
+        "Network cable with access to the internet",
+        "USB keyboard or SSH connection"
+    ],
+    "text": " Starting the Raspberry Pi Operating System Obtain a copy of the Raspberry Pi OS (Operating System) from the link in the sources section. There are a few different distributions available, but for this article, we will be using the \"Raspbian\" version. Extract the image to the SD card. To do this, we need a tool called the Win32 Disc Imager. A link for this is also available in the sources section. Now open the tool, navigate to the drive letter that your SD card is in, select the location of the Raspberry Pi OS image, and select burn. Wait for it to finish. Open the SD card in Windows Explorer. Just create a file with the name ssh. This is a security update introduced since Raspbian Jessie. Eject the SD card, and place it into your Raspberry Pi, then plug in the rest of the cords, being sure to plug in the mini USB last.  Log in once the operating system loads up. The default username is \"pi\", and the default password is \"raspberry\". Start by changing the password. From the command line type:\n\npasswd pi Enter your new password and then confirm it. Please note, the cursor will not move when typing passwords but you are entering text. Running Software Updates Get started with updates. Because you are running a fresh version of Debian, you will need to do some housecleaning, updating, and installing. First, we are going to update the clock, update our sources, then upgrade any pre-installed packages. Type the following at the command line (press return/enter after each line):\n\nsudo dpkg-reconfigure tzdata\nsudo apt-get update\nsudo apt-get upgrade Set the date and time. From the command line type (replace parts as necessary):\n\nsudo date --set=\"30 December 2013 10:00:00\" Set Up SSH Set up SSH so that we can do everything else from a different computer. To do this, first note the I.P. address of the Raspberry Pi:\n\nifconfig\n\n\nYou should see something like this:\n\n\neth0      Link encap:Ethernet  HWaddr fe:fd:45:xx:xx:xx\n          inet addr:69.164.xxx.xxx  Bcast:69.164.xxx.xxx  Mask:255.255.255.0\n          inet6 addr: fe80::fcfd:xxx:xxx:xxx/64 Scope:Link\n          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\n          RX packets:35463998 errors:0 dropped:0 overruns:0 frame:0\n          TX packets:30563995 errors:0 dropped:0 overruns:0 carrier:0\n          collisions:0 txqueuelen:1000\n          RX bytes:11300336376 (11.3 GB)  TX bytes:33179556297 (33.1 GB)\n          Interrupt:76\n\n\nMake sure you are connected to internet!! The tag eth0 will appear if you have ethernet plugged in. Wireless might be wlan0, but could differ. On the second line \"inet addr:69.164.xxx.xxx\" is the IP address of your Raspberry Pi. Enable SSH and reboot (press return/enter after each line):   After noting the inet addr use:  sudo /etc/init.d/ssh start  for every time you boot up the pi. Hint: If an error occurs, use the command below, and then the command up above. sudo apt-get install ssh\n\nThen, restart your pi:\nsudo shutdown -r now Unplug the cords for your USB keyboard and your monitor. These are no longer necessary, as everything else will be done over SSH. Download an SSH client like PuTTy (www.putty.org) which can be downloaded for free from Google and connect to the IP address of your Raspberry Pi logging in with the username \"pi\" and the password you set earlier.  Installing the Web Server Install Apache and PHP. To do this, execute the following commands:\n\nsudo apt-get install apache2 php5 libapache2-mod-php5 Restart the service:  sudo service apache2 restart   OR sudo /etc/init.d/apache2 restart Enter the I.P. address of your Raspberry Pi into your web browser. You should see a simple page that says \"It Works!\" Installing FTP Install FTP to allow transferring files to and from your Raspberry Pi.  Take ownership of the web root:  sudo chown -R pi /var/www Install vsftpd:  sudo apt-get install vsftpd Edit your vsftpd.conf file:   sudo nano /etc/vsftpd.conf Make the following changes: anonymous_enable=YES to anonymous_enable=NO  Uncomment local_enable=YES and write_enable=YES by deleting the # symbol in front of each line then go to the bottom of the file and add force_dot_files=YES. Save and exit the file by pressing CTRL-O, CTRL-X.  Restart vsftpd:  sudo service vsftpd restart Create a shortcut from the Pi user's home folder to /var/www:   ln -s /var/www/ ~/www You can now FTP using the Pi user and access the /var/www folder via a shortcut that should appear on login. ",
+    "sentences": [
+        " Starting the Raspberry Pi Operating System Obtain a copy of the Raspberry Pi OS (Operating System) from the link in the sources section.",
+        "There are a few different distributions available, but for this article, we will be using the \"Raspbian\" version.",
+        "Extract the image to the SD card.",
+        "To do this, we need a tool called the Win32 Disc Imager.",
+        "A link for this is also available in the sources section.",
+        "Now open the tool, navigate to the drive letter that your SD card is in, select the location of the Raspberry Pi OS image, and select burn.",
+        "Wait for it to finish.",
+        "Open the SD card in Windows Explorer.",
+        "Just create a file with the name ssh.",
+        "This is a security update introduced since Raspbian Jessie.",
+        "Eject the SD card, and place it into your Raspberry Pi, then plug in the rest of the cords, being sure to plug in the mini USB last.",
+        "Log in once the operating system loads up.",
+        "The default username is \"pi\", and the default password is \"raspberry\".",
+        "Start by changing the password.",
+        "From the command line type:\n\npasswd pi Enter your new password and then confirm it.",
+        "Please note, the cursor will not move when typing passwords but you are entering text.",
+        "Running Software Updates Get started with updates.",
+        "Because you are running a fresh version of Debian, you will need to do some housecleaning, updating, and installing.",
+        "First, we are going to update the clock, update our sources, then upgrade any pre-installed packages.",
+        "Type the following at the command line (press return/enter after each line):\n\nsudo dpkg-reconfigure tzdata\nsudo apt-get update\nsudo apt-get upgrade Set the date and time.",
+        "From the command line type (replace parts as necessary):\n\nsudo date --set=\"30 December 2013 10:00:00\" Set Up SSH Set up SSH so that we can do everything else from a different computer.",
+        "To do this, first note the I.P.",
+        "address of the Raspberry Pi:\n\nifconfig\n\n\nYou should see something like this:\n\n\neth0      Link encap:Ethernet  HWaddr fe:fd:45:xx:xx:xx\n          inet addr:69.164.xxx.xxx  Bcast:69.164.xxx.xxx  Mask:255.255.255.0\n          inet6 addr: fe80::fcfd:xxx:xxx:xxx/64 Scope:Link\n          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1\n          RX packets:35463998 errors:0 dropped:0 overruns:0 frame:0\n          TX packets:30563995 errors:0 dropped:0 overruns:0 carrier:0\n          collisions:0 txqueuelen:1000\n          RX bytes:11300336376 (11.3 GB)  TX bytes:33179556297 (33.1 GB)\n          Interrupt:76\n\n\nMake sure you are connected to internet!!",
+        "The tag eth0 will appear if you have ethernet plugged in.",
+        "Wireless might be wlan0, but could differ.",
+        "On the second line \"inet addr:69.164.xxx.xxx\" is the IP address of your Raspberry Pi.",
+        "Enable SSH and reboot (press return/enter after each line):   After noting the inet addr use:  sudo /etc/init.d/ssh start  for every time you boot up the pi.",
+        "Hint: If an error occurs, use the command below, and then the command up above.",
+        "sudo apt-get install ssh\n\nThen, restart your pi:\nsudo shutdown -r now Unplug the cords for your USB keyboard and your monitor.",
+        "These are no longer necessary, as everything else will be done over SSH.",
+        "Download an SSH client like PuTTy (www.putty.org) which can be downloaded for free from Google and connect to the IP address of your Raspberry Pi logging in with the username \"pi\" and the password you set earlier.",
+        "Installing the Web Server Install Apache and PHP.",
+        "To do this, execute the following commands:\n\nsudo apt-get install apache2 php5 libapache2-mod-php5 Restart the service:  sudo service apache2 restart   OR sudo /etc/init.d/apache2 restart Enter the I.P.",
+        "address of your Raspberry Pi into your web browser.",
+        "You should see a simple page that says \"It Works!\"",
+        "Installing FTP Install FTP to allow transferring files to and from your Raspberry Pi.",
+        "Take ownership of the web root:  sudo chown -R pi /var/www Install vsftpd:  sudo apt-get install vsftpd Edit your vsftpd.conf file:   sudo nano /etc/vsftpd.conf Make the following changes: anonymous_enable=YES to anonymous_enable=NO  Uncomment local_enable=YES and write_enable=YES by deleting the # symbol in front of each line then go to the bottom of the file and add force_dot_files=YES.",
+        "Save and exit the file by pressing CTRL-O, CTRL-X.",
+        "Restart vsftpd:  sudo service vsftpd restart Create a shortcut from the Pi user's home folder to /var/www:   ln -s /var/www/ ~/www You can now FTP using the Pi user and access the /var/www folder via a shortcut that should appear on login."
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "title": "How to Install Two Operating Systems on One Computer",
+    "url": "https://www.wikihow.com/Install-Two-Operating-Systems-on-One-Computer",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems"
+    ],
+    "parts": [
+        {
+            "name": "Creating a Bootable Drive",
+            "steps": [
+                {
+                    "headline": "Install Windows.",
+                    "description": "If you haven't already done so, you should install Windows before installing any other operating systems. Other operating systems, such as Linux are designed so they can work alongside Windows. If you have not installed an operating system on your PC, make sure you install Windows first. The exception is if you are trying to dual-boot Windows alongside macOS on a Mac. Macs are built a little different than most standard PCs and generally come with macOS already installed."
+                },
+                {
+                    "headline": "Navigate to https://rufus.ie/ in a web browser.",
+                    "description": "This is the web page to download Rufus which is a tool used to create a USB install drive that you can use to install an operating system on your computer. You can also use an official install CD or DVD."
+                },
+                {
+                    "headline": "Download and install Rufus.",
+                    "description": "Use the following steps to download and install Rufus from the download page. Scroll down and click Rufus 3.8\n\nRun the \"Rufus-3.8.exe\" from within your web browser or Downloads folder."
+                },
+                {
+                    "headline": "Download a disk image (ISO) for the operating system you want to install.",
+                    "description": "A disk image is data that goes on an install disk, DVD or USB drive. You will need to go to the website of the operating system you want to download and download the ISO file from that website. The following links contain operating system ISO images you can download:\nWindows 10\nWindows 8\nWindows 7\nUbuntu\nLinux Mint\nDebian\n\nInstalling macOS on a non-Apple computer is more complicated than installing other operating systems, but it is possible."
+                },
+                {
+                    "headline": "Insert a blank USB flash drive.",
+                    "description": "Make sure the USB drive has enough space for the operating system you want to install. Also, make sure the USB drive you use doesn't have any important data that you don't want to lose. Insert the USB drive into an open USB port on your computer."
+                },
+                {
+                    "headline": "Open Rufus.",
+                    "description": "It has an icon that resembles a USB flash drive. Click the Rufus icon in your Windows Start menu to open Rufus."
+                },
+                {
+                    "headline": "Select your USB flash drive.",
+                    "description": "Use the drop-down menu below \"Devices\" to select your USB flash drive."
+                },
+                {
+                    "headline": "Click Select.",
+                    "description": "It's the button to the right of \"Boot Selection\" in Rufus. This opens a file browser you can use to select the ISO file for the operating system you want to install."
+                },
+                {
+                    "headline": "Select the operating system ISO file and click Open.",
+                    "description": "This loads the ISO file into Rufus."
+                },
+                {
+                    "headline": "Click Start.",
+                    "description": "It's at the bottom of Rufus on the right. This starts the process of righting the ISO file to the USB drive. This may take a while to complete."
+                }
+            ]
+        },
+        {
+            "name": "Creating a Disk Partition",
+            "steps": [
+                {
+                    "headline": "Make a backup of any important data files.",
+                    "description": "You can usually partition a disk drive and install a new operating system without losing any important data. However, it's a good idea to backup any important data on your disk drive before you start partitioning and installing a new operating system just in case something goes wrong."
+                },
+                {
+                    "headline": "Right-click the Windows Start menu .",
+                    "description": "It's the icon with the Windows logo. By default, it's in the lower-left corner in the taskbar."
+                },
+                {
+                    "headline": "Click Disk Management.",
+                    "description": "It's in the menu that appears when you right-click on the Windows Start menu. This opens the Disk Management window."
+                },
+                {
+                    "headline": "Right-click your Windows installation drive.",
+                    "description": "This is the drive that Windows is installed on. Usually, this is the \"C:\" drive."
+                },
+                {
+                    "headline": "Click Shrink Volume.",
+                    "description": "It's in the window the menu that pops up when you right-click on a disk drive in Disk Management."
+                },
+                {
+                    "headline": "Enter the amount of space you want to allocate to the new operating system installation.",
+                    "description": "Type the number of megabytes (MB) you want to partition from the disk drive in the field next to \"Enter the amount of space to shrink in MB\". Make sure you enter the minimum space required to install the new operating system. To convert GB to MB, simply multiply by 1000. For example, 40 GB is equivalent to 40,000 MB."
+                },
+                {
+                    "headline": "Click Shrink.",
+                    "description": "This creates a new partition of unallocated space on your hard drive."
+                }
+            ]
+        },
+        {
+            "name": "Preparing Your Computer",
+            "steps": [
+                {
+                    "headline": "Turn of Fast Boot.",
+                    "description": "The following steps allow you to turn off Fast Boot on Windows. Click the Windows Start menu. Type Control Panel and click the Control Panel icon\nType Power Options in the search bar in the upper-right corner. Click \"Choose what the power button does\". Click \"Change settings that are currently unavailable\". Make sure the box that says \"Turn on fast startup (Recommended)\" at the bottom is not checked. Click Save changes."
+                },
+                {
+                    "headline": "Enter your computer BIOS.",
+                    "description": "You'll need to make some changes to the BIOS in order to install a second operating system. The method for entering the BIOS is different from one computer make and model to the next. On some computers, you can enter the BIOS by pressing one of the functions keys (F1, F2, F9, F12), Esc, or Delete while your computer boots up. You can also use the following steps to reboot into the BIOS from within Windows:\nClick the Windows Start menu. Click the Power icon. Hold \"Shift\" and click Restart. Click Troubleshoot. Click Advanced Options: UEFI Firmware Settings\n\nClick Restart."
+                },
+                {
+                    "headline": "Disable Secure Boot.",
+                    "description": "The BIOS menu is different from one computer make and model to the next. Use the arrow keys on your keyboard to navigate the BIOS menu. Secure Boot is usually found in the Security, Boot, or Authentication menu. Locate Secure Boot and set it to \"Disabled\"."
+                },
+                {
+                    "headline": "Set the Boot order to boot from a USB drive first.",
+                    "description": "This is usually found in the Boot menu. Locate the boot order menu and set it so it boots from a USB drive first. If you are using an install CD or DVD, set it to install from the CD/DVD-Rom first."
+                },
+                {
+                    "headline": "Save your settings.",
+                    "description": "After making the necessary changes to your BIOS system, locate the option to save your settings. Select the option to save and exit the BIOS to save and reboot your computer."
+                }
+            ]
+        },
+        {
+            "name": "Installing a Second Operating System",
+            "steps": [
+                {
+                    "headline": "Insert the install disk.",
+                    "description": "If you used Rufus to create a USB install disk, insert the USB flash drive into an open USB port on your computer. If you are using a CD or DVD install disk, insert it into your CD/DVD-Rom drive."
+                },
+                {
+                    "headline": "Restart your computer.",
+                    "description": "If your computer is powered on, go ahead and restart it. Otherwise, press the power button on your computer so that it boots from the install disk."
+                },
+                {
+                    "headline": "Wait for the setup program to load.",
+                    "description": "If your computer properly boots from the Install disk, you should see the setup program for the operating system."
+                },
+                {
+                    "headline": "Select your language and keyboard layout.",
+                    "description": "The setup program for each operating system is a little different. Generally, you will start by selecting your language and keyboard layout."
+                },
+                {
+                    "headline": "Enter the CD Key or serial number (if needed).",
+                    "description": "Some operating systems, such as Ubuntu are free to install. Other operating systems, such as Windows, require you to purchase a CD key or serial number. If asked to enter a serial number or CD key, enter the numbers in the space provided."
+                },
+                {
+                    "headline": "Select the \"Custom\" or \"Other\" installation option.",
+                    "description": "When selecting the installation type, select \"Custom\", \"Other\", \"Something Else\" or similar. Selecting a standard installation may overwrite your current operating system."
+                },
+                {
+                    "headline": "Format the drive you want to install the operating system on.",
+                    "description": "When installing a new operating system, you will be asked to select which drive you want to install it on and format the drive. Select the unallocated space you partitioned earlier. If you are installing Linux you will need to format the drive as Ext4\nIf you are installing Ubuntu, you will also need to format a section of the unallocated space as a swap area. This area should be equivalent to the amount of RAM you have installed on your computer."
+                },
+                {
+                    "headline": "Follow the instructions to complete the installation.",
+                    "description": "You will most likely be asked to create a username and password for your new operating system as well as set your time & date settings. Follow the instructions to complete the installation."
+                },
+                {
+                    "headline": "Reboot to switch between operating systems.",
+                    "description": "Once you install two or more operating systems on your computer, you will see a menu asking which operating system you want to load when you boot up your PC. Restart your computer to switch between operating systems."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A USB Flash Drive or install disk for a second operating system.",
+        "A computer with enough hard drive space to install a second operating system."
+    ],
+    "text": " Creating a Bootable Drive Install Windows. If you haven't already done so, you should install Windows before installing any other operating systems. Other operating systems, such as Linux are designed so they can work alongside Windows. If you have not installed an operating system on your PC, make sure you install Windows first. The exception is if you are trying to dual-boot Windows alongside macOS on a Mac. Macs are built a little different than most standard PCs and generally come with macOS already installed. Navigate to https://rufus.ie/ in a web browser. This is the web page to download Rufus which is a tool used to create a USB install drive that you can use to install an operating system on your computer. You can also use an official install CD or DVD. Download and install Rufus. Use the following steps to download and install Rufus from the download page. Scroll down and click Rufus 3.8\n\nRun the \"Rufus-3.8.exe\" from within your web browser or Downloads folder. Download a disk image (ISO) for the operating system you want to install. A disk image is data that goes on an install disk, DVD or USB drive. You will need to go to the website of the operating system you want to download and download the ISO file from that website. The following links contain operating system ISO images you can download:\nWindows 10\nWindows 8\nWindows 7\nUbuntu\nLinux Mint\nDebian\n\nInstalling macOS on a non-Apple computer is more complicated than installing other operating systems, but it is possible. Insert a blank USB flash drive. Make sure the USB drive has enough space for the operating system you want to install. Also, make sure the USB drive you use doesn't have any important data that you don't want to lose. Insert the USB drive into an open USB port on your computer. Open Rufus. It has an icon that resembles a USB flash drive. Click the Rufus icon in your Windows Start menu to open Rufus. Select your USB flash drive. Use the drop-down menu below \"Devices\" to select your USB flash drive. Click Select. It's the button to the right of \"Boot Selection\" in Rufus. This opens a file browser you can use to select the ISO file for the operating system you want to install. Select the operating system ISO file and click Open. This loads the ISO file into Rufus. Click Start. It's at the bottom of Rufus on the right. This starts the process of righting the ISO file to the USB drive. This may take a while to complete. Creating a Disk Partition Make a backup of any important data files. You can usually partition a disk drive and install a new operating system without losing any important data. However, it's a good idea to backup any important data on your disk drive before you start partitioning and installing a new operating system just in case something goes wrong. Right-click the Windows Start menu . It's the icon with the Windows logo. By default, it's in the lower-left corner in the taskbar. Click Disk Management. It's in the menu that appears when you right-click on the Windows Start menu. This opens the Disk Management window. Right-click your Windows installation drive. This is the drive that Windows is installed on. Usually, this is the \"C:\" drive. Click Shrink Volume. It's in the window the menu that pops up when you right-click on a disk drive in Disk Management. Enter the amount of space you want to allocate to the new operating system installation. Type the number of megabytes (MB) you want to partition from the disk drive in the field next to \"Enter the amount of space to shrink in MB\". Make sure you enter the minimum space required to install the new operating system. To convert GB to MB, simply multiply by 1000. For example, 40 GB is equivalent to 40,000 MB. Click Shrink. This creates a new partition of unallocated space on your hard drive. Preparing Your Computer Turn of Fast Boot. The following steps allow you to turn off Fast Boot on Windows. Click the Windows Start menu. Type Control Panel and click the Control Panel icon\nType Power Options in the search bar in the upper-right corner. Click \"Choose what the power button does\". Click \"Change settings that are currently unavailable\". Make sure the box that says \"Turn on fast startup (Recommended)\" at the bottom is not checked. Click Save changes. Enter your computer BIOS. You'll need to make some changes to the BIOS in order to install a second operating system. The method for entering the BIOS is different from one computer make and model to the next. On some computers, you can enter the BIOS by pressing one of the functions keys (F1, F2, F9, F12), Esc, or Delete while your computer boots up. You can also use the following steps to reboot into the BIOS from within Windows:\nClick the Windows Start menu. Click the Power icon. Hold \"Shift\" and click Restart. Click Troubleshoot. Click Advanced Options: UEFI Firmware Settings\n\nClick Restart. Disable Secure Boot. The BIOS menu is different from one computer make and model to the next. Use the arrow keys on your keyboard to navigate the BIOS menu. Secure Boot is usually found in the Security, Boot, or Authentication menu. Locate Secure Boot and set it to \"Disabled\". Set the Boot order to boot from a USB drive first. This is usually found in the Boot menu. Locate the boot order menu and set it so it boots from a USB drive first. If you are using an install CD or DVD, set it to install from the CD/DVD-Rom first. Save your settings. After making the necessary changes to your BIOS system, locate the option to save your settings. Select the option to save and exit the BIOS to save and reboot your computer. Installing a Second Operating System Insert the install disk. If you used Rufus to create a USB install disk, insert the USB flash drive into an open USB port on your computer. If you are using a CD or DVD install disk, insert it into your CD/DVD-Rom drive. Restart your computer. If your computer is powered on, go ahead and restart it. Otherwise, press the power button on your computer so that it boots from the install disk. Wait for the setup program to load. If your computer properly boots from the Install disk, you should see the setup program for the operating system. Select your language and keyboard layout. The setup program for each operating system is a little different. Generally, you will start by selecting your language and keyboard layout. Enter the CD Key or serial number (if needed). Some operating systems, such as Ubuntu are free to install. Other operating systems, such as Windows, require you to purchase a CD key or serial number. If asked to enter a serial number or CD key, enter the numbers in the space provided. Select the \"Custom\" or \"Other\" installation option. When selecting the installation type, select \"Custom\", \"Other\", \"Something Else\" or similar. Selecting a standard installation may overwrite your current operating system. Format the drive you want to install the operating system on. When installing a new operating system, you will be asked to select which drive you want to install it on and format the drive. Select the unallocated space you partitioned earlier. If you are installing Linux you will need to format the drive as Ext4\nIf you are installing Ubuntu, you will also need to format a section of the unallocated space as a swap area. This area should be equivalent to the amount of RAM you have installed on your computer. Follow the instructions to complete the installation. You will most likely be asked to create a username and password for your new operating system as well as set your time & date settings. Follow the instructions to complete the installation. Reboot to switch between operating systems. Once you install two or more operating systems on your computer, you will see a menu asking which operating system you want to load when you boot up your PC. Restart your computer to switch between operating systems.",
+    "sentences": [
+        " Creating a Bootable Drive Install Windows.",
+        "If you haven't already done so, you should install Windows before installing any other operating systems.",
+        "Other operating systems, such as Linux are designed so they can work alongside Windows.",
+        "If you have not installed an operating system on your PC, make sure you install Windows first.",
+        "The exception is if you are trying to dual-boot Windows alongside macOS on a Mac.",
+        "Macs are built a little different than most standard PCs and generally come with macOS already installed.",
+        "Navigate to https://rufus.ie/ in a web browser.",
+        "This is the web page to download Rufus which is a tool used to create a USB install drive that you can use to install an operating system on your computer.",
+        "You can also use an official install CD or DVD.",
+        "Download and install Rufus.",
+        "Use the following steps to download and install Rufus from the download page.",
+        "Scroll down and click Rufus 3.8\n\nRun the \"Rufus-3.8.exe\" from within your web browser or Downloads folder.",
+        "Download a disk image (ISO) for the operating system you want to install.",
+        "A disk image is data that goes on an install disk, DVD or USB drive.",
+        "You will need to go to the website of the operating system you want to download and download the ISO file from that website.",
+        "The following links contain operating system ISO images you can download:\nWindows 10\nWindows 8\nWindows 7\nUbuntu\nLinux Mint\nDebian\n\nInstalling macOS on a non-Apple computer is more complicated than installing other operating systems, but it is possible.",
+        "Insert a blank USB flash drive.",
+        "Make sure the USB drive has enough space for the operating system you want to install.",
+        "Also, make sure the USB drive you use doesn't have any important data that you don't want to lose.",
+        "Insert the USB drive into an open USB port on your computer.",
+        "Open Rufus.",
+        "It has an icon that resembles a USB flash drive.",
+        "Click the Rufus icon in your Windows Start menu to open Rufus.",
+        "Select your USB flash drive.",
+        "Use the drop-down menu below \"Devices\" to select your USB flash drive.",
+        "Click Select.",
+        "It's the button to the right of \"Boot Selection\" in Rufus.",
+        "This opens a file browser you can use to select the ISO file for the operating system you want to install.",
+        "Select the operating system ISO file and click Open.",
+        "This loads the ISO file into Rufus.",
+        "Click Start.",
+        "It's at the bottom of Rufus on the right.",
+        "This starts the process of righting the ISO file to the USB drive.",
+        "This may take a while to complete.",
+        "Creating a Disk Partition Make a backup of any important data files.",
+        "You can usually partition a disk drive and install a new operating system without losing any important data.",
+        "However, it's a good idea to backup any important data on your disk drive before you start partitioning and installing a new operating system just in case something goes wrong.",
+        "Right-click the Windows Start menu .",
+        "It's the icon with the Windows logo.",
+        "By default, it's in the lower-left corner in the taskbar.",
+        "Click Disk Management.",
+        "It's in the menu that appears when you right-click on the Windows Start menu.",
+        "This opens the Disk Management window.",
+        "Right-click your Windows installation drive.",
+        "This is the drive that Windows is installed on.",
+        "Usually, this is the \"C:\" drive.",
+        "Click Shrink Volume.",
+        "It's in the window the menu that pops up when you right-click on a disk drive in Disk Management.",
+        "Enter the amount of space you want to allocate to the new operating system installation.",
+        "Type the number of megabytes (MB) you want to partition from the disk drive in the field next to \"Enter the amount of space to shrink in MB\".",
+        "Make sure you enter the minimum space required to install the new operating system.",
+        "To convert GB to MB, simply multiply by 1000.",
+        "For example, 40 GB is equivalent to 40,000 MB.",
+        "Click Shrink.",
+        "This creates a new partition of unallocated space on your hard drive.",
+        "Preparing Your Computer Turn of Fast Boot.",
+        "The following steps allow you to turn off Fast Boot on Windows.",
+        "Click the Windows Start menu.",
+        "Type Control Panel and click the Control Panel icon\nType Power Options in the search bar in the upper-right corner.",
+        "Click \"Choose what the power button does\".",
+        "Click \"Change settings that are currently unavailable\".",
+        "Make sure the box that says \"Turn on fast startup (Recommended)\" at the bottom is not checked.",
+        "Click Save changes.",
+        "Enter your computer BIOS.",
+        "You'll need to make some changes to the BIOS in order to install a second operating system.",
+        "The method for entering the BIOS is different from one computer make and model to the next.",
+        "On some computers, you can enter the BIOS by pressing one of the functions keys (F1, F2, F9, F12), Esc, or Delete while your computer boots up.",
+        "You can also use the following steps to reboot into the BIOS from within Windows:\nClick the Windows Start menu.",
+        "Click the Power icon.",
+        "Hold \"Shift\" and click Restart.",
+        "Click Troubleshoot.",
+        "Click Advanced Options: UEFI Firmware Settings\n\nClick Restart.",
+        "Disable Secure Boot.",
+        "The BIOS menu is different from one computer make and model to the next.",
+        "Use the arrow keys on your keyboard to navigate the BIOS menu.",
+        "Secure Boot is usually found in the Security, Boot, or Authentication menu.",
+        "Locate Secure Boot and set it to \"Disabled\".",
+        "Set the Boot order to boot from a USB drive first.",
+        "This is usually found in the Boot menu.",
+        "Locate the boot order menu and set it so it boots from a USB drive first.",
+        "If you are using an install CD or DVD, set it to install from the CD/DVD-Rom first.",
+        "Save your settings.",
+        "After making the necessary changes to your BIOS system, locate the option to save your settings.",
+        "Select the option to save and exit the BIOS to save and reboot your computer.",
+        "Installing a Second Operating System Insert the install disk.",
+        "If you used Rufus to create a USB install disk, insert the USB flash drive into an open USB port on your computer.",
+        "If you are using a CD or DVD install disk, insert it into your CD/DVD-Rom drive.",
+        "Restart your computer.",
+        "If your computer is powered on, go ahead and restart it.",
+        "Otherwise, press the power button on your computer so that it boots from the install disk.",
+        "Wait for the setup program to load.",
+        "If your computer properly boots from the Install disk, you should see the setup program for the operating system.",
+        "Select your language and keyboard layout.",
+        "The setup program for each operating system is a little different.",
+        "Generally, you will start by selecting your language and keyboard layout.",
+        "Enter the CD Key or serial number (if needed).",
+        "Some operating systems, such as Ubuntu are free to install.",
+        "Other operating systems, such as Windows, require you to purchase a CD key or serial number.",
+        "If asked to enter a serial number or CD key, enter the numbers in the space provided.",
+        "Select the \"Custom\" or \"Other\" installation option.",
+        "When selecting the installation type, select \"Custom\", \"Other\", \"Something Else\" or similar.",
+        "Selecting a standard installation may overwrite your current operating system.",
+        "Format the drive you want to install the operating system on.",
+        "When installing a new operating system, you will be asked to select which drive you want to install it on and format the drive.",
+        "Select the unallocated space you partitioned earlier.",
+        "If you are installing Linux you will need to format the drive as Ext4\nIf you are installing Ubuntu, you will also need to format a section of the unallocated space as a swap area.",
+        "This area should be equivalent to the amount of RAM you have installed on your computer.",
+        "Follow the instructions to complete the installation.",
+        "You will most likely be asked to create a username and password for your new operating system as well as set your time & date settings.",
+        "Follow the instructions to complete the installation.",
+        "Reboot to switch between operating systems.",
+        "Once you install two or more operating systems on your computer, you will see a menu asking which operating system you want to load when you boot up your PC.",
+        "Restart your computer to switch between operating systems."
+    ]
+}

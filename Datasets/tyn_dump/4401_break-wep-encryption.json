@@ -1,0 +1,146 @@
+{
+    "title": "How to Break WEP Encryption",
+    "url": "https://www.wikihow.com/Break-WEP-Encryption",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Hacks"
+    ],
+    "steps": [
+        {
+            "headline": "Use Linux.",
+            "description": "Windows cannot sniff WEP packets, but you can use a bootable CD of Linux."
+        },
+        {
+            "headline": "Get a packet-sniffing program.",
+            "description": "Backtrack is a commonly-used option. Download the iso image and burn it on a bootable CD/DVD."
+        },
+        {
+            "headline": "Boot Linux and Backtrack.",
+            "description": "Use your bootable CD/DVDs. Note that this operating system is not required to be installed on hard drive. That means whenever you shutdown the Backtrack, all your data will be lost."
+        },
+        {
+            "headline": "Select a start-up option.",
+            "description": "The following Backtrack screen will show after booting. Change the option with the up and down arrow keys and select one. This tutorial will use the first option."
+        },
+        {
+            "headline": "Load the graphical interface via command base.",
+            "description": "In this option, Backtrack is started on command base. Type command: startx to continue."
+        },
+        {
+            "headline": "Click on terminal button at the bottom left.",
+            "description": "It'll be the fifth option."
+        },
+        {
+            "headline": "Wait for the Linux command terminal to open.",
+            "description": ""
+        },
+        {
+            "headline": "View your WLAN type.",
+            "description": "Enter the following command: \"airmon-ng\" (without quotes). You should see something like wlan0 beneath Interface."
+        },
+        {
+            "headline": "Get all the required information for the access point.",
+            "description": "Enter the following command: \"airodump-ng wlan0\" (without quotes). You should get three things:\nBSSID\nChannel\nESSID (AP Name)\nHere's what the tutorial case turned up:\nBSSID 00:17:3F:76:36:6E\nChannel number 1\nESSID(AP Name)Suleman"
+        },
+        {
+            "headline": "Enter the following command.",
+            "description": "This one will use the example information above, but you should plug in your own. Command: \"airodump-ng -w wep -c 1 -- bssid 00:17:3F:76:36:6E wlan0\" (without quotes)."
+        },
+        {
+            "headline": "Allow setup to start.",
+            "description": ""
+        },
+        {
+            "headline": "Open a new terminal window.",
+            "description": "Type the following command, substituting the values for your own BSSID, Channel and ESSID. Command: \"aireplay-ng -1 0 \u2013a 00:17:3f:76:36:6E wlan0\" (without quotes)."
+        },
+        {
+            "headline": "Open another new terminal window.",
+            "description": "Type the following command: \"aireplay-ng -3 \u2013b 00:17:3f:76:36:6e wlan0\" (without quotes)."
+        },
+        {
+            "headline": "Allow setup to start.",
+            "description": ""
+        },
+        {
+            "headline": "Go back to the first terminal window.",
+            "description": ""
+        },
+        {
+            "headline": "Allow the data in this window to reach to 30000 or above.",
+            "description": "It will take 15 to 60 minutes (or more) depending on wireless signal, hardware and load on access point."
+        },
+        {
+            "headline": "Go to the third terminal window and press Ctrl + c.",
+            "description": ""
+        },
+        {
+            "headline": "Pull up the directories.",
+            "description": "Type the following command: \"dir\" (without quotes). This will show the directories saved on it during decrypting."
+        },
+        {
+            "headline": "Use a cap file.",
+            "description": "For the example, it would be the following: \"aircrack-ng web-02.cap\" (without quotes). The setup shown below will start."
+        },
+        {
+            "headline": "Break the WEP encrypted key.",
+            "description": "After this setup completes, you'll be able to break the key. In this example, it was {ADA2D18D2E}."
+        }
+    ],
+    "tyn": [
+        "A PC.",
+        "A network adapter that supports packet injection.",
+        "A Linux distribution.",
+        "Aircrack-ng software suite.",
+        "A WEP-enabled Wi-Fi network."
+    ],
+    "text": " Use Linux. Windows cannot sniff WEP packets, but you can use a bootable CD of Linux. Get a packet-sniffing program. Backtrack is a commonly-used option. Download the iso image and burn it on a bootable CD/DVD. Boot Linux and Backtrack. Use your bootable CD/DVDs. Note that this operating system is not required to be installed on hard drive. That means whenever you shutdown the Backtrack, all your data will be lost. Select a start-up option. The following Backtrack screen will show after booting. Change the option with the up and down arrow keys and select one. This tutorial will use the first option. Load the graphical interface via command base. In this option, Backtrack is started on command base. Type command: startx to continue. Click on terminal button at the bottom left. It'll be the fifth option. Wait for the Linux command terminal to open.  View your WLAN type. Enter the following command: \"airmon-ng\" (without quotes). You should see something like wlan0 beneath Interface. Get all the required information for the access point. Enter the following command: \"airodump-ng wlan0\" (without quotes). You should get three things:\nBSSID\nChannel\nESSID (AP Name)\nHere's what the tutorial case turned up:\nBSSID 00:17:3F:76:36:6E\nChannel number 1\nESSID(AP Name)Suleman Enter the following command. This one will use the example information above, but you should plug in your own. Command: \"airodump-ng -w wep -c 1 -- bssid 00:17:3F:76:36:6E wlan0\" (without quotes). Allow setup to start.  Open a new terminal window. Type the following command, substituting the values for your own BSSID, Channel and ESSID. Command: \"aireplay-ng -1 0 \u2013a 00:17:3f:76:36:6E wlan0\" (without quotes). Open another new terminal window. Type the following command: \"aireplay-ng -3 \u2013b 00:17:3f:76:36:6e wlan0\" (without quotes). Allow setup to start.  Go back to the first terminal window.  Allow the data in this window to reach to 30000 or above. It will take 15 to 60 minutes (or more) depending on wireless signal, hardware and load on access point. Go to the third terminal window and press Ctrl + c.  Pull up the directories. Type the following command: \"dir\" (without quotes). This will show the directories saved on it during decrypting. Use a cap file. For the example, it would be the following: \"aircrack-ng web-02.cap\" (without quotes). The setup shown below will start. Break the WEP encrypted key. After this setup completes, you'll be able to break the key. In this example, it was {ADA2D18D2E}.",
+    "sentences": [
+        " Use Linux.",
+        "Windows cannot sniff WEP packets, but you can use a bootable CD of Linux.",
+        "Get a packet-sniffing program.",
+        "Backtrack is a commonly-used option.",
+        "Download the iso image and burn it on a bootable CD/DVD.",
+        "Boot Linux and Backtrack.",
+        "Use your bootable CD/DVDs.",
+        "Note that this operating system is not required to be installed on hard drive.",
+        "That means whenever you shutdown the Backtrack, all your data will be lost.",
+        "Select a start-up option.",
+        "The following Backtrack screen will show after booting.",
+        "Change the option with the up and down arrow keys and select one.",
+        "This tutorial will use the first option.",
+        "Load the graphical interface via command base.",
+        "In this option, Backtrack is started on command base.",
+        "Type command: startx to continue.",
+        "Click on terminal button at the bottom left.",
+        "It'll be the fifth option.",
+        "Wait for the Linux command terminal to open.",
+        "View your WLAN type.",
+        "Enter the following command: \"airmon-ng\" (without quotes).",
+        "You should see something like wlan0 beneath Interface.",
+        "Get all the required information for the access point.",
+        "Enter the following command: \"airodump-ng wlan0\" (without quotes).",
+        "You should get three things:\nBSSID\nChannel\nESSID (AP Name)\nHere's what the tutorial case turned up:\nBSSID 00:17:3F:76:36:6E\nChannel number 1\nESSID(AP Name)Suleman Enter the following command.",
+        "This one will use the example information above, but you should plug in your own.",
+        "Command: \"airodump-ng -w wep -c 1 -- bssid 00:17:3F:76:36:6E wlan0\" (without quotes).",
+        "Allow setup to start.",
+        "Open a new terminal window.",
+        "Type the following command, substituting the values for your own BSSID, Channel and ESSID.",
+        "Command: \"aireplay-ng -1 0 \u2013a 00:17:3f:76:36:6E wlan0\" (without quotes).",
+        "Open another new terminal window.",
+        "Type the following command: \"aireplay-ng -3 \u2013b 00:17:3f:76:36:6e wlan0\" (without quotes).",
+        "Allow setup to start.",
+        "Go back to the first terminal window.",
+        "Allow the data in this window to reach to 30000 or above.",
+        "It will take 15 to 60 minutes (or more) depending on wireless signal, hardware and load on access point.",
+        "Go to the third terminal window and press Ctrl + c.  Pull up the directories.",
+        "Type the following command: \"dir\" (without quotes).",
+        "This will show the directories saved on it during decrypting.",
+        "Use a cap file.",
+        "For the example, it would be the following: \"aircrack-ng web-02.cap\" (without quotes).",
+        "The setup shown below will start.",
+        "Break the WEP encrypted key.",
+        "After this setup completes, you'll be able to break the key.",
+        "In this example, it was {ADA2D18D2E}."
+    ]
+}

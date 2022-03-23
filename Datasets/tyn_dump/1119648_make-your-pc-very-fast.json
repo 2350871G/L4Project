@@ -1,0 +1,169 @@
+{
+    "title": "How to Make Your PC Very Fast",
+    "url": "https://www.wikihow.com/Make-Your-PC-Very-Fast",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Maintenance and Repair",
+        "System Maintenance and Repair"
+    ],
+    "steps": [
+        {
+            "headline": "Consider using the command-line.",
+            "description": "You can still tweet, instant message, play mp3 (with mplayer), browse the web (with Lynx or Links2), p2p (amulecmd), torrent (rtorrent), image edit (ImageMagick), read feeds (raggle), chat (irssi), ofm (midnight commander), manage downloads (axel, wget) and everything else. Linux OS and BSD makes it easier to use the command-line, whereas Mac OS X and Windows don't. action\nWindows/DOS\n\nWindows Powershell,Mac OS X, Linux, BSD etc. list directory\ndir\nls\nclear console\ncls\nclear\ncopy file(s)\ncopy\ncp\nmove file(s)\nmove\nmv\ndelete file(s)\ndel\nrm\ncreate directory\nmd\nmkdir\nremove directory\nrd\nrm -rf\nchange current directory\ncd\ncd\ncurrent directory\ncd, chdir\npwd\nsearch\nfind\ngrep\nconcatenate\ncat\ncat\npermissions\nchmod\nchmod\ndisplay/output text\necho\necho\nadd user\nnet user\nadduser\n If you must use a GUI, read on to the next step. But the efficiency advantages of the CLI are as follows:\nIf you need to move all folders ending with \"photos\" this is easy in the command line but difficult and slow in a GUI. Command-line completion is also known as tab-completion and can speed things up. Pipe command-line output into other commands if needed. Shell aliases can be set in Linux."
+        },
+        {
+            "headline": "Remove unused softwares and programs.",
+            "description": "Sometimes programs run in the background, unseen by the user, but added together, it can take up quite a bit of space. Navigate to the Control Panel -> Add/Remove Programs, and remove programs that you do not use or need."
+        },
+        {
+            "headline": "Run Disk Cleanup Utility.",
+            "description": "Go to My Computer, right click the system disk (usually C:/), and click on Properties. Click the button that says Disk Cleanup, located next to the graph demonstrating disk usage."
+        },
+        {
+            "headline": "Defragment your hard disks.",
+            "description": "Go to Start -> All Programs -> Accessories -> System Tools, and click Disk Defragmenter. Select which disk you wish to defragment and click Defragment."
+        },
+        {
+            "headline": "Clean out your Prefetch folder.",
+            "description": "Go to C:\\Windows\\Prefetch, and delete all the files and folders inside. Then restart your system. Do this monthly, but  be careful not to delete the folder, only the files inside."
+        },
+        {
+            "headline": "Turn your page file higher.",
+            "description": "This can be done by going to the Control Panel -> System -> Advanced -> Settings. Click the settings button located under \"Performance\". Then click Advanced, and finally, click Change. Set your page file higher, or select System Managed Size. After you have made the necessary changes, lower the maximum size to the initial size, click Set, and then restart your system."
+        },
+        {
+            "headline": "Adjust your computer for best performance.",
+            "description": "Do this by returning to Control Panel -> System -> Advanced -> Settings, and marking Visual Effects to \"Adjust For Best Performance\". This will remove all the fancy visual effects, and change the theme back to Windows Classic."
+        },
+        {
+            "headline": "Downgrade your color quality.",
+            "description": "Right click your desktop, click properties, select the Settings tab, and change the color quality to 16 bit, or as low as your system will let you set it. Also avoid displaying huge desktop wallpapers, downloaded from the internet."
+        },
+        {
+            "headline": "Remove any malicious content such as viruses from your PC using a virus scanner.",
+            "description": "Malwarebyte's Anti-Malware or Avast Anti-Virus would be a good choice. It is recommended that you perform this step in Safe Mode. Restart your PC, and immediately after the boot screen, repeatedly press the F8, then navigate to the Safe Mode using your arrow keys and press \u21b5 Enter. After cleaning up your system, restart and boot normally."
+        },
+        {
+            "headline": "Improve your boot time.",
+            "description": "Go to Start -> Run -> and type msconfig in the field provided. Then press \u21b5 Enter. Go to the 'BOOT.INI tab, and check NOGUIBOOT."
+        },
+        {
+            "headline": "Remove startup services that your don't use.",
+            "description": "Go back to System Configuration Utility, go to Startup, and uncheck services that you might not want starting during the boot process. Make sure you know exactly which services you do not use you make these changes here. Making the wrong changes might make your system unstable."
+        },
+        {
+            "headline": "Clean out your Temp Files.",
+            "description": "Set Windows Explorer to display hidden files and folders by going to Control Panel -> Folder Options -> View, and select \"Display Hidden Files and Folders\". Then, browse to C:\\Documents and Settings\\Your Name\\Local Settings\\Temp. Delete only the files inside the Temp Folder; do not delete the folder itself."
+        },
+        {
+            "headline": "Disable indexing on your main hard drives.",
+            "description": "This can be done by going to My Computer, and disabling them under your hard disks properties."
+        },
+        {
+            "headline": "Remove unnecessary Windows Components.",
+            "description": "Do this by navigating to Control Panel -> Add or Remove Programs -> Add or Remove Windows Components. Be sure to check the files that you want to install or keep, and uncheck those that you want to uninstall. Be very careful here, because you can remove some programs and features that you may want to keep by accident."
+        },
+        {
+            "headline": "Remove your internet browsing history.",
+            "description": "Most browsers allow you to do this under their options."
+        },
+        {
+            "headline": "Clean your registry.",
+            "description": "You can find several free registry cleaners on the internet. You can also use a registry defragmenter to defrag your page file and registry as well."
+        },
+        {
+            "headline": "Avoid desktop manipulation programs such as Stardock or Fences.",
+            "description": "These programs can slow down your computer, especially if it has a low amount of RAM."
+        },
+        {
+            "headline": "Try adding more RAM.",
+            "description": "If your are using Windows XP, it is recommend that you have at least 512 MB of RAM. If you are using Windows Vista, it is recommended that you have at least 1 GB."
+        },
+        {
+            "headline": "Install all Windows updates as well as the latest service packs.",
+            "description": "This can boost your computer speed also."
+        },
+        {
+            "headline": "As a last resort, reinstall your operating system.",
+            "description": "This should only apply if your computer is becoming unbearably slow to use. Reformat your hard drives, and reinstall your operating system."
+        }
+    ],
+    "tyn": [
+        "A computer with a Windows Operating system."
+    ],
+    "text": " Consider using the command-line. You can still tweet, instant message, play mp3 (with mplayer), browse the web (with Lynx or Links2), p2p (amulecmd), torrent (rtorrent), image edit (ImageMagick), read feeds (raggle), chat (irssi), ofm (midnight commander), manage downloads (axel, wget) and everything else. Linux OS and BSD makes it easier to use the command-line, whereas Mac OS X and Windows don't. action\nWindows/DOS\n\nWindows Powershell,Mac OS X, Linux, BSD etc. list directory\ndir\nls\nclear console\ncls\nclear\ncopy file(s)\ncopy\ncp\nmove file(s)\nmove\nmv\ndelete file(s)\ndel\nrm\ncreate directory\nmd\nmkdir\nremove directory\nrd\nrm -rf\nchange current directory\ncd\ncd\ncurrent directory\ncd, chdir\npwd\nsearch\nfind\ngrep\nconcatenate\ncat\ncat\npermissions\nchmod\nchmod\ndisplay/output text\necho\necho\nadd user\nnet user\nadduser\n If you must use a GUI, read on to the next step. But the efficiency advantages of the CLI are as follows:\nIf you need to move all folders ending with \"photos\" this is easy in the command line but difficult and slow in a GUI. Command-line completion is also known as tab-completion and can speed things up. Pipe command-line output into other commands if needed. Shell aliases can be set in Linux. Remove unused softwares and programs. Sometimes programs run in the background, unseen by the user, but added together, it can take up quite a bit of space. Navigate to the Control Panel -> Add/Remove Programs, and remove programs that you do not use or need. Run Disk Cleanup Utility. Go to My Computer, right click the system disk (usually C:/), and click on Properties. Click the button that says Disk Cleanup, located next to the graph demonstrating disk usage. Defragment your hard disks. Go to Start -> All Programs -> Accessories -> System Tools, and click Disk Defragmenter. Select which disk you wish to defragment and click Defragment. Clean out your Prefetch folder. Go to C:\\Windows\\Prefetch, and delete all the files and folders inside. Then restart your system. Do this monthly, but  be careful not to delete the folder, only the files inside. Turn your page file higher. This can be done by going to the Control Panel -> System -> Advanced -> Settings. Click the settings button located under \"Performance\". Then click Advanced, and finally, click Change. Set your page file higher, or select System Managed Size. After you have made the necessary changes, lower the maximum size to the initial size, click Set, and then restart your system. Adjust your computer for best performance. Do this by returning to Control Panel -> System -> Advanced -> Settings, and marking Visual Effects to \"Adjust For Best Performance\". This will remove all the fancy visual effects, and change the theme back to Windows Classic. Downgrade your color quality. Right click your desktop, click properties, select the Settings tab, and change the color quality to 16 bit, or as low as your system will let you set it. Also avoid displaying huge desktop wallpapers, downloaded from the internet. Remove any malicious content such as viruses from your PC using a virus scanner. Malwarebyte's Anti-Malware or Avast Anti-Virus would be a good choice. It is recommended that you perform this step in Safe Mode. Restart your PC, and immediately after the boot screen, repeatedly press the F8, then navigate to the Safe Mode using your arrow keys and press \u21b5 Enter. After cleaning up your system, restart and boot normally. Improve your boot time. Go to Start -> Run -> and type msconfig in the field provided. Then press \u21b5 Enter. Go to the 'BOOT.INI tab, and check NOGUIBOOT. Remove startup services that your don't use. Go back to System Configuration Utility, go to Startup, and uncheck services that you might not want starting during the boot process. Make sure you know exactly which services you do not use you make these changes here. Making the wrong changes might make your system unstable. Clean out your Temp Files. Set Windows Explorer to display hidden files and folders by going to Control Panel -> Folder Options -> View, and select \"Display Hidden Files and Folders\". Then, browse to C:\\Documents and Settings\\Your Name\\Local Settings\\Temp. Delete only the files inside the Temp Folder; do not delete the folder itself. Disable indexing on your main hard drives. This can be done by going to My Computer, and disabling them under your hard disks properties. Remove unnecessary Windows Components. Do this by navigating to Control Panel -> Add or Remove Programs -> Add or Remove Windows Components. Be sure to check the files that you want to install or keep, and uncheck those that you want to uninstall. Be very careful here, because you can remove some programs and features that you may want to keep by accident. Remove your internet browsing history. Most browsers allow you to do this under their options. Clean your registry. You can find several free registry cleaners on the internet. You can also use a registry defragmenter to defrag your page file and registry as well. Avoid desktop manipulation programs such as Stardock or Fences. These programs can slow down your computer, especially if it has a low amount of RAM. Try adding more RAM. If your are using Windows XP, it is recommend that you have at least 512 MB of RAM. If you are using Windows Vista, it is recommended that you have at least 1 GB. Install all Windows updates as well as the latest service packs. This can boost your computer speed also. As a last resort, reinstall your operating system. This should only apply if your computer is becoming unbearably slow to use. Reformat your hard drives, and reinstall your operating system.",
+    "sentences": [
+        " Consider using the command-line.",
+        "You can still tweet, instant message, play mp3 (with mplayer), browse the web (with Lynx or Links2), p2p (amulecmd), torrent (rtorrent), image edit (ImageMagick), read feeds (raggle), chat (irssi), ofm (midnight commander), manage downloads (axel, wget) and everything else.",
+        "Linux OS and BSD makes it easier to use the command-line, whereas Mac OS X and Windows don't.",
+        "action\nWindows/DOS\n\nWindows Powershell,Mac OS X, Linux, BSD etc.",
+        "list directory\ndir\nls\nclear console\ncls\nclear\ncopy file(s)\ncopy\ncp\nmove file(s)\nmove\nmv\ndelete file(s)\ndel\nrm\ncreate directory\nmd\nmkdir\nremove directory\nrd\nrm -rf\nchange current directory\ncd\ncd\ncurrent directory\ncd, chdir\npwd\nsearch\nfind\ngrep\nconcatenate\ncat\ncat\npermissions\nchmod\nchmod\ndisplay/output text\necho\necho\nadd user\nnet user\nadduser\n If you must use a GUI, read on to the next step.",
+        "But the efficiency advantages of the CLI are as follows:\nIf you need to move all folders ending with \"photos\" this is easy in the command line but difficult and slow in a GUI.",
+        "Command-line completion is also known as tab-completion and can speed things up.",
+        "Pipe command-line output into other commands if needed.",
+        "Shell aliases can be set in Linux.",
+        "Remove unused softwares and programs.",
+        "Sometimes programs run in the background, unseen by the user, but added together, it can take up quite a bit of space.",
+        "Navigate to the Control Panel -> Add/Remove Programs, and remove programs that you do not use or need.",
+        "Run Disk Cleanup Utility.",
+        "Go to My Computer, right click the system disk (usually C:/), and click on Properties.",
+        "Click the button that says Disk Cleanup, located next to the graph demonstrating disk usage.",
+        "Defragment your hard disks.",
+        "Go to Start -> All Programs -> Accessories -> System Tools, and click Disk Defragmenter.",
+        "Select which disk you wish to defragment and click Defragment.",
+        "Clean out your Prefetch folder.",
+        "Go to C:\\Windows\\Prefetch, and delete all the files and folders inside.",
+        "Then restart your system.",
+        "Do this monthly, but  be careful not to delete the folder, only the files inside.",
+        "Turn your page file higher.",
+        "This can be done by going to the Control Panel -> System -> Advanced -> Settings.",
+        "Click the settings button located under \"Performance\".",
+        "Then click Advanced, and finally, click Change.",
+        "Set your page file higher, or select System Managed Size.",
+        "After you have made the necessary changes, lower the maximum size to the initial size, click Set, and then restart your system.",
+        "Adjust your computer for best performance.",
+        "Do this by returning to Control Panel -> System -> Advanced -> Settings, and marking Visual Effects to \"Adjust For Best Performance\".",
+        "This will remove all the fancy visual effects, and change the theme back to Windows Classic.",
+        "Downgrade your color quality.",
+        "Right click your desktop, click properties, select the Settings tab, and change the color quality to 16 bit, or as low as your system will let you set it.",
+        "Also avoid displaying huge desktop wallpapers, downloaded from the internet.",
+        "Remove any malicious content such as viruses from your PC using a virus scanner.",
+        "Malwarebyte's Anti-Malware or Avast Anti-Virus would be a good choice.",
+        "It is recommended that you perform this step in Safe Mode.",
+        "Restart your PC, and immediately after the boot screen, repeatedly press the F8, then navigate to the Safe Mode using your arrow keys and press \u21b5 Enter.",
+        "After cleaning up your system, restart and boot normally.",
+        "Improve your boot time.",
+        "Go to Start -> Run -> and type msconfig in the field provided.",
+        "Then press \u21b5 Enter.",
+        "Go to the 'BOOT.INI tab, and check NOGUIBOOT.",
+        "Remove startup services that your don't use.",
+        "Go back to System Configuration Utility, go to Startup, and uncheck services that you might not want starting during the boot process.",
+        "Make sure you know exactly which services you do not use you make these changes here.",
+        "Making the wrong changes might make your system unstable.",
+        "Clean out your Temp Files.",
+        "Set Windows Explorer to display hidden files and folders by going to Control Panel -> Folder Options -> View, and select \"Display Hidden Files and Folders\".",
+        "Then, browse to C:\\Documents and Settings\\Your Name\\Local Settings\\Temp.",
+        "Delete only the files inside the Temp Folder; do not delete the folder itself.",
+        "Disable indexing on your main hard drives.",
+        "This can be done by going to My Computer, and disabling them under your hard disks properties.",
+        "Remove unnecessary Windows Components.",
+        "Do this by navigating to Control Panel -> Add or Remove Programs -> Add or Remove Windows Components.",
+        "Be sure to check the files that you want to install or keep, and uncheck those that you want to uninstall.",
+        "Be very careful here, because you can remove some programs and features that you may want to keep by accident.",
+        "Remove your internet browsing history.",
+        "Most browsers allow you to do this under their options.",
+        "Clean your registry.",
+        "You can find several free registry cleaners on the internet.",
+        "You can also use a registry defragmenter to defrag your page file and registry as well.",
+        "Avoid desktop manipulation programs such as Stardock or Fences.",
+        "These programs can slow down your computer, especially if it has a low amount of RAM.",
+        "Try adding more RAM.",
+        "If your are using Windows XP, it is recommend that you have at least 512 MB of RAM.",
+        "If you are using Windows Vista, it is recommended that you have at least 1 GB.",
+        "Install all Windows updates as well as the latest service packs.",
+        "This can boost your computer speed also.",
+        "As a last resort, reinstall your operating system.",
+        "This should only apply if your computer is becoming unbearably slow to use.",
+        "Reformat your hard drives, and reinstall your operating system."
+    ]
+}

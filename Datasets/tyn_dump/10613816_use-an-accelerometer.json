@@ -1,0 +1,175 @@
+{
+    "title": "How to Use an Accelerometer",
+    "url": "https://www.wikihow.com/Use-an-Accelerometer",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Tools",
+        "Measuring and Marking Tools"
+    ],
+    "parts": [
+        {
+            "name": "Connecting Your Accelerometer to a Microcontroller",
+            "steps": [
+                {
+                    "headline": "Connect your accelerometer to a breadboard.",
+                    "description": "Breadboards are devices that can create circuits without the use of soldering. In this case, you're using it to connect your accelerometer to the microcontroller. Hold the accelerometer so that the pins on the bottom are facing downward. Now, press the pins gently into your breadboard so that the side with the pins is facing away from you toward your microcontroller. Be sure that your microcontroller is upside down and located directly above your breadboard and accelerometer. Purchase a microcontroller package\u2014such as the Arduino Uno Basic Starter Kit\u2014that comes with a microcontroller, a breadboard, and all of the necessary jumper wires."
+                },
+                {
+                    "headline": "Attach \"X_OUT\" to \"A_O.\"",
+                    "description": "Insert a jumper wire into the hole in the breadboard directly above the \"X_OUT\" pin on your accelerometer. From here, connect the other side of the wire to the input labeled \"A0\" on your microcontroller. The \"A0\" input should be located at the top left of the microcontroller board if it's flipped upside-down. You can tell its position by checking if the brand name is upright or upside down."
+                },
+                {
+                    "headline": "Run \"Y_OUT\" to \"A_1.\"",
+                    "description": "Insert a second jumper wire into the hole in the breadboard directly above the \"Y_OUT\" pin on the accelerometer, which is the first one to the left of \"X_OUT.\" Now, connect the other end of the wire to the \"A1\" input on the microcontroller board. The \"A1\" input is located directly to the left of the \"A0\" input on the microcontroller board when it's turned upside down."
+                },
+                {
+                    "headline": "Connect \"Z_OUT\" to \"A_2.\"",
+                    "description": "Insert your third jumper wire into the breadboard hole above the \"Z_OUT\" pin on your accelerometer, which is located to the left of the \"Y_OUT\" pin. From here, connect the other side of the wire to the \"A2\" input on the microcontroller board. The \"A2\" input is located to the left of the \"A1\" input on the microcontroller board when it's turned upside down."
+                },
+                {
+                    "headline": "Attach \"GND\" to \"GND.\"",
+                    "description": "Connect a fourth jumper wire into the breadboard hole above the \"GND\" pin on your accelerometer, which is located to the left of the \"Z_OUT\" connector. Attach the other end of the wire to the same input on the microcontroller board. The \"GND\" input should be located to the right of the A1 to A5 inputs when the microcontroller board is upside down and is usually highlighted in white."
+                },
+                {
+                    "headline": "Connect \"VCC\" to the appropriate voltage.",
+                    "description": "The voltage on your accelerometer should match the voltage input it connects to on your microcontroller board. For example, if your microcontroller is 3.3 V, then run a wire from the breadboard hole above \"VCC\"\u2014to the right of the \"X_OUT\" wire\u2014to the \"3.3 V\" input on the microcontroller board. The \"3.3 V\" input should be located to the right of the \"GND\" input when the microcontroller is upside down."
+                }
+            ]
+        },
+        {
+            "name": "Setting up a Script",
+            "steps": [
+                {
+                    "headline": "Install Arduino on your computer.",
+                    "description": "Arduino is the open-source software for microcontroller boards used to write and upload code from your computer and transfer it onto the physical board. For beginners using accelerometers, this is the best software to use. Arduino can be installed on Windows, OS X, or Linux. Download Arduino here: https://software.intel.com/en-us/get-started-arduino-install."
+                },
+                {
+                    "headline": "Connect your microcontroller to your computer.",
+                    "description": "As of now, your microcontroller is just connected to your accelerometer. Now, you need to connect the microcontroller to your computer so it can read the data from your accelerometer via the microcontroller. To do this, connect the USB port on your microcontroller into your computer via a cable. If your microcontroller didn't come with a USB cable, purchase one from an electronics store that is long enough to run from your microcontroller to your computer."
+                },
+                {
+                    "headline": "Download a GitHub accelerometer script for your microcontroller board.",
+                    "description": "GitHub is a resource for various Arduino script packages for select pieces of hardware. For example, if you're using an MMA8452Q microcontroller, search for the \"MMA8452Q Library\" and download it. If you're using the Arduino Uno, search for the corresponding accelerometer script library and download it. Once you find the file through GitHub, click \"Clone or download,\" and then \"Download ZIP.\" You can use scripts from any resource or write your own, but GitHub is the most reliable source for beginners."
+                },
+                {
+                    "headline": "Install the microcontroller library in Arduino.",
+                    "description": "After downloading your microcontroller's applicable accelerometer library, open Arduino. Now, click the \"Sketch\" tab at the top of the window and then select \"Include Library.\" From here, select \"Add .ZIP Library\" and then click on the library you downloaded. If you can't find your .ZIP file, search your computer for the file name."
+                },
+                {
+                    "headline": "Load your accelerometer sketch into Arduino.",
+                    "description": "In the Arduino window, click the \"File\" tab and then hover over \"Examples.\" Now, select the accelerometer sketch that you downloaded. In general, code will be fairly similar between accelerometer devices. However, there are minor enough differences that they will only work with their specified hardware. Be sure that your script is designed for your accelerometer. For example, a script for the ADXL337 accelerometer will likely not work with the ADXL377 accelerometer."
+                },
+                {
+                    "headline": "Upload the sketch to your microcontroller.",
+                    "description": "In Arduino, Select \"Tools,\" then hover over \"Board\" and select your microcontroller board. From here, select your board's serial port by hitting \"Tools\" and then \"Serial Port\"\u2014it is likely COM3 or higher. To check, disconnect your board and re-open the menu\u2014the entry that is gone is the microcontroller board port. Now, reconnect the board and select that port. Finally, click the upload button or hit Cmd+U for Mac OS X or Ctrl+U for Windows. Make sure your microcontroller is connected to your computer via a USB cable before uploading your sketch."
+                }
+            ]
+        },
+        {
+            "name": "Operating Your Accelerometer",
+            "steps": [
+                {
+                    "headline": "Tilt the accelerometer left and right to change the x-axis value.",
+                    "description": "Grab the breadboard and tilt it to the left. Since the accelerometer now feels the pull of gravity along this axis, the x-value will decrease. Now, tilt the accelerometer the right to increase the x-axis value. Remember that the values represent the proper acceleration experienced by the object on a specific axis\u2014in this case, the x-axis. The values are represented in g-force (g) units. One g is equal to 9.8 meters per second squared."
+                },
+                {
+                    "headline": "Tilt the accelerometer backward and forward to change the y-axis value.",
+                    "description": "If you tilt the accelerometer backward\u2014toward you\u2014the y-axis value will decrease. Conversely, if tilt it forwards to increase the y-axis value. Always use the breadboard to tilt the accelerometer. If you grab the accelerometer directly, it might come loose as you move it."
+                },
+                {
+                    "headline": "Lift the accelerometer up and down to change the  z-axis value.",
+                    "description": "Since the force of gravity is increasing when you lift the accelerometer up, the z-axis value will increase. If you want to decrease the z-axis value, lower the accelerometer. Check the acceleration when your accelerometer is stationary\u2014it should read 1 g for the z-axis, which is the force of gravity pulling down."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Computer",
+        "Arduino software",
+        "Microcontroller",
+        "Accelerometer",
+        "Jumper wires"
+    ],
+    "text": " Connecting Your Accelerometer to a Microcontroller Connect your accelerometer to a breadboard. Breadboards are devices that can create circuits without the use of soldering. In this case, you're using it to connect your accelerometer to the microcontroller. Hold the accelerometer so that the pins on the bottom are facing downward. Now, press the pins gently into your breadboard so that the side with the pins is facing away from you toward your microcontroller. Be sure that your microcontroller is upside down and located directly above your breadboard and accelerometer. Purchase a microcontroller package\u2014such as the Arduino Uno Basic Starter Kit\u2014that comes with a microcontroller, a breadboard, and all of the necessary jumper wires. Attach \"X_OUT\" to \"A_O.\" Insert a jumper wire into the hole in the breadboard directly above the \"X_OUT\" pin on your accelerometer. From here, connect the other side of the wire to the input labeled \"A0\" on your microcontroller. The \"A0\" input should be located at the top left of the microcontroller board if it's flipped upside-down. You can tell its position by checking if the brand name is upright or upside down. Run \"Y_OUT\" to \"A_1.\" Insert a second jumper wire into the hole in the breadboard directly above the \"Y_OUT\" pin on the accelerometer, which is the first one to the left of \"X_OUT.\" Now, connect the other end of the wire to the \"A1\" input on the microcontroller board. The \"A1\" input is located directly to the left of the \"A0\" input on the microcontroller board when it's turned upside down. Connect \"Z_OUT\" to \"A_2.\" Insert your third jumper wire into the breadboard hole above the \"Z_OUT\" pin on your accelerometer, which is located to the left of the \"Y_OUT\" pin. From here, connect the other side of the wire to the \"A2\" input on the microcontroller board. The \"A2\" input is located to the left of the \"A1\" input on the microcontroller board when it's turned upside down. Attach \"GND\" to \"GND.\" Connect a fourth jumper wire into the breadboard hole above the \"GND\" pin on your accelerometer, which is located to the left of the \"Z_OUT\" connector. Attach the other end of the wire to the same input on the microcontroller board. The \"GND\" input should be located to the right of the A1 to A5 inputs when the microcontroller board is upside down and is usually highlighted in white. Connect \"VCC\" to the appropriate voltage. The voltage on your accelerometer should match the voltage input it connects to on your microcontroller board. For example, if your microcontroller is 3.3 V, then run a wire from the breadboard hole above \"VCC\"\u2014to the right of the \"X_OUT\" wire\u2014to the \"3.3 V\" input on the microcontroller board. The \"3.3 V\" input should be located to the right of the \"GND\" input when the microcontroller is upside down. Setting up a Script Install Arduino on your computer. Arduino is the open-source software for microcontroller boards used to write and upload code from your computer and transfer it onto the physical board. For beginners using accelerometers, this is the best software to use. Arduino can be installed on Windows, OS X, or Linux. Download Arduino here: https://software.intel.com/en-us/get-started-arduino-install. Connect your microcontroller to your computer. As of now, your microcontroller is just connected to your accelerometer. Now, you need to connect the microcontroller to your computer so it can read the data from your accelerometer via the microcontroller. To do this, connect the USB port on your microcontroller into your computer via a cable. If your microcontroller didn't come with a USB cable, purchase one from an electronics store that is long enough to run from your microcontroller to your computer. Download a GitHub accelerometer script for your microcontroller board. GitHub is a resource for various Arduino script packages for select pieces of hardware. For example, if you're using an MMA8452Q microcontroller, search for the \"MMA8452Q Library\" and download it. If you're using the Arduino Uno, search for the corresponding accelerometer script library and download it. Once you find the file through GitHub, click \"Clone or download,\" and then \"Download ZIP.\" You can use scripts from any resource or write your own, but GitHub is the most reliable source for beginners. Install the microcontroller library in Arduino. After downloading your microcontroller's applicable accelerometer library, open Arduino. Now, click the \"Sketch\" tab at the top of the window and then select \"Include Library.\" From here, select \"Add .ZIP Library\" and then click on the library you downloaded. If you can't find your .ZIP file, search your computer for the file name. Load your accelerometer sketch into Arduino. In the Arduino window, click the \"File\" tab and then hover over \"Examples.\" Now, select the accelerometer sketch that you downloaded. In general, code will be fairly similar between accelerometer devices. However, there are minor enough differences that they will only work with their specified hardware. Be sure that your script is designed for your accelerometer. For example, a script for the ADXL337 accelerometer will likely not work with the ADXL377 accelerometer. Upload the sketch to your microcontroller. In Arduino, Select \"Tools,\" then hover over \"Board\" and select your microcontroller board. From here, select your board's serial port by hitting \"Tools\" and then \"Serial Port\"\u2014it is likely COM3 or higher. To check, disconnect your board and re-open the menu\u2014the entry that is gone is the microcontroller board port. Now, reconnect the board and select that port. Finally, click the upload button or hit Cmd+U for Mac OS X or Ctrl+U for Windows. Make sure your microcontroller is connected to your computer via a USB cable before uploading your sketch. Operating Your Accelerometer Tilt the accelerometer left and right to change the x-axis value. Grab the breadboard and tilt it to the left. Since the accelerometer now feels the pull of gravity along this axis, the x-value will decrease. Now, tilt the accelerometer the right to increase the x-axis value. Remember that the values represent the proper acceleration experienced by the object on a specific axis\u2014in this case, the x-axis. The values are represented in g-force (g) units. One g is equal to 9.8 meters per second squared. Tilt the accelerometer backward and forward to change the y-axis value. If you tilt the accelerometer backward\u2014toward you\u2014the y-axis value will decrease. Conversely, if tilt it forwards to increase the y-axis value. Always use the breadboard to tilt the accelerometer. If you grab the accelerometer directly, it might come loose as you move it. Lift the accelerometer up and down to change the  z-axis value. Since the force of gravity is increasing when you lift the accelerometer up, the z-axis value will increase. If you want to decrease the z-axis value, lower the accelerometer. Check the acceleration when your accelerometer is stationary\u2014it should read 1 g for the z-axis, which is the force of gravity pulling down.",
+    "sentences": [
+        " Connecting Your Accelerometer to a Microcontroller Connect your accelerometer to a breadboard.",
+        "Breadboards are devices that can create circuits without the use of soldering.",
+        "In this case, you're using it to connect your accelerometer to the microcontroller.",
+        "Hold the accelerometer so that the pins on the bottom are facing downward.",
+        "Now, press the pins gently into your breadboard so that the side with the pins is facing away from you toward your microcontroller.",
+        "Be sure that your microcontroller is upside down and located directly above your breadboard and accelerometer.",
+        "Purchase a microcontroller package\u2014such as the Arduino Uno Basic Starter Kit\u2014that comes with a microcontroller, a breadboard, and all of the necessary jumper wires.",
+        "Attach \"X_OUT\" to \"A_O.\"",
+        "Insert a jumper wire into the hole in the breadboard directly above the \"X_OUT\" pin on your accelerometer.",
+        "From here, connect the other side of the wire to the input labeled \"A0\" on your microcontroller.",
+        "The \"A0\" input should be located at the top left of the microcontroller board if it's flipped upside-down.",
+        "You can tell its position by checking if the brand name is upright or upside down.",
+        "Run \"Y_OUT\" to \"A_1.\"",
+        "Insert a second jumper wire into the hole in the breadboard directly above the \"Y_OUT\" pin on the accelerometer, which is the first one to the left of \"X_OUT.\"",
+        "Now, connect the other end of the wire to the \"A1\" input on the microcontroller board.",
+        "The \"A1\" input is located directly to the left of the \"A0\" input on the microcontroller board when it's turned upside down.",
+        "Connect \"Z_OUT\" to \"A_2.\"",
+        "Insert your third jumper wire into the breadboard hole above the \"Z_OUT\" pin on your accelerometer, which is located to the left of the \"Y_OUT\" pin.",
+        "From here, connect the other side of the wire to the \"A2\" input on the microcontroller board.",
+        "The \"A2\" input is located to the left of the \"A1\" input on the microcontroller board when it's turned upside down.",
+        "Attach \"GND\" to \"GND.\"",
+        "Connect a fourth jumper wire into the breadboard hole above the \"GND\" pin on your accelerometer, which is located to the left of the \"Z_OUT\" connector.",
+        "Attach the other end of the wire to the same input on the microcontroller board.",
+        "The \"GND\" input should be located to the right of the A1 to A5 inputs when the microcontroller board is upside down and is usually highlighted in white.",
+        "Connect \"VCC\" to the appropriate voltage.",
+        "The voltage on your accelerometer should match the voltage input it connects to on your microcontroller board.",
+        "For example, if your microcontroller is 3.3 V, then run a wire from the breadboard hole above \"VCC\"\u2014to the right of the \"X_OUT\" wire\u2014to the \"3.3 V\" input on the microcontroller board.",
+        "The \"3.3 V\" input should be located to the right of the \"GND\" input when the microcontroller is upside down.",
+        "Setting up a Script Install Arduino on your computer.",
+        "Arduino is the open-source software for microcontroller boards used to write and upload code from your computer and transfer it onto the physical board.",
+        "For beginners using accelerometers, this is the best software to use.",
+        "Arduino can be installed on Windows, OS X, or Linux.",
+        "Download Arduino here: https://software.intel.com/en-us/get-started-arduino-install.",
+        "Connect your microcontroller to your computer.",
+        "As of now, your microcontroller is just connected to your accelerometer.",
+        "Now, you need to connect the microcontroller to your computer so it can read the data from your accelerometer via the microcontroller.",
+        "To do this, connect the USB port on your microcontroller into your computer via a cable.",
+        "If your microcontroller didn't come with a USB cable, purchase one from an electronics store that is long enough to run from your microcontroller to your computer.",
+        "Download a GitHub accelerometer script for your microcontroller board.",
+        "GitHub is a resource for various Arduino script packages for select pieces of hardware.",
+        "For example, if you're using an MMA8452Q microcontroller, search for the \"MMA8452Q Library\" and download it.",
+        "If you're using the Arduino Uno, search for the corresponding accelerometer script library and download it.",
+        "Once you find the file through GitHub, click \"Clone or download,\" and then \"Download ZIP.\"",
+        "You can use scripts from any resource or write your own, but GitHub is the most reliable source for beginners.",
+        "Install the microcontroller library in Arduino.",
+        "After downloading your microcontroller's applicable accelerometer library, open Arduino.",
+        "Now, click the \"Sketch\" tab at the top of the window and then select \"Include Library.\"",
+        "From here, select \"Add .ZIP Library\" and then click on the library you downloaded.",
+        "If you can't find your .ZIP file, search your computer for the file name.",
+        "Load your accelerometer sketch into Arduino.",
+        "In the Arduino window, click the \"File\" tab and then hover over \"Examples.\"",
+        "Now, select the accelerometer sketch that you downloaded.",
+        "In general, code will be fairly similar between accelerometer devices.",
+        "However, there are minor enough differences that they will only work with their specified hardware.",
+        "Be sure that your script is designed for your accelerometer.",
+        "For example, a script for the ADXL337 accelerometer will likely not work with the ADXL377 accelerometer.",
+        "Upload the sketch to your microcontroller.",
+        "In Arduino, Select \"Tools,\" then hover over \"Board\" and select your microcontroller board.",
+        "From here, select your board's serial port by hitting \"Tools\" and then \"Serial Port\"\u2014it is likely COM3 or higher.",
+        "To check, disconnect your board and re-open the menu\u2014the entry that is gone is the microcontroller board port.",
+        "Now, reconnect the board and select that port.",
+        "Finally, click the upload button or hit Cmd+U for Mac OS X or Ctrl+U for Windows.",
+        "Make sure your microcontroller is connected to your computer via a USB cable before uploading your sketch.",
+        "Operating Your Accelerometer Tilt the accelerometer left and right to change the x-axis value.",
+        "Grab the breadboard and tilt it to the left.",
+        "Since the accelerometer now feels the pull of gravity along this axis, the x-value will decrease.",
+        "Now, tilt the accelerometer the right to increase the x-axis value.",
+        "Remember that the values represent the proper acceleration experienced by the object on a specific axis\u2014in this case, the x-axis.",
+        "The values are represented in g-force (g) units.",
+        "One g is equal to 9.8 meters per second squared.",
+        "Tilt the accelerometer backward and forward to change the y-axis value.",
+        "If you tilt the accelerometer backward\u2014toward you\u2014the y-axis value will decrease.",
+        "Conversely, if tilt it forwards to increase the y-axis value.",
+        "Always use the breadboard to tilt the accelerometer.",
+        "If you grab the accelerometer directly, it might come loose as you move it.",
+        "Lift the accelerometer up and down to change the  z-axis value.",
+        "Since the force of gravity is increasing when you lift the accelerometer up, the z-axis value will increase.",
+        "If you want to decrease the z-axis value, lower the accelerometer.",
+        "Check the acceleration when your accelerometer is stationary\u2014it should read 1 g for the z-axis, which is the force of gravity pulling down."
+    ]
+}

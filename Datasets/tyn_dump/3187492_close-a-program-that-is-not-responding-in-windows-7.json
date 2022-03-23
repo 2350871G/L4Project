@@ -1,0 +1,88 @@
+{
+    "title": "How to Close a Program That Is Not Responding in Windows 7",
+    "url": "https://www.wikihow.com/Close-a-Program-That-Is-Not-Responding-in-Windows-7",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Windows 7"
+    ],
+    "methods": [
+        {
+            "name": "Using Task Manager",
+            "steps": [
+                {
+                    "headline": "Press Ctrl+\u21e7 Shift+Esc.",
+                    "description": "This will open Task Manager. Alternatively, press Ctrl+Alt+Delete, then click on \"Start Task Manager.\""
+                },
+                {
+                    "headline": "Click on the unresponsive program.",
+                    "description": "It should become highlighted. If there are additional unresponsive programs, Ctrl+Click on the additional programs. Any action you initiate will be performed on all the highlighted items and only on the highlighted items."
+                },
+                {
+                    "headline": "Click End Task.",
+                    "description": "The computer will try to shut down the selected program(s)."
+                }
+            ]
+        },
+        {
+            "name": "Restarting the Computer",
+            "steps": [
+                {
+                    "headline": "Press \u229e Win.",
+                    "description": ""
+                },
+                {
+                    "headline": "Select \"Restart.\"",
+                    "description": ""
+                },
+                {
+                    "headline": "Press and hold the On/Off switch until the computer powers down.",
+                    "description": "This will be indicated by \"power\" LED going dark and the cooling fan stopping. This should only be used as a last resort because you will lose unsaved information in programs and files which are still open."
+                },
+                {
+                    "headline": "Wait at least 20 seconds.",
+                    "description": ""
+                },
+                {
+                    "headline": "Power the computer back on.",
+                    "description": ""
+                },
+                {
+                    "headline": "Wait for the computer to come up.",
+                    "description": "It is likely that you will receive a warning message that the computer was shut down improperly."
+                },
+                {
+                    "headline": "Hit enter to clear the warning message if it has been displayed.",
+                    "description": "The boot sequence will then resume."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Computer with Windows 7 operating system and I/O devices"
+    ],
+    "text": " Using Task Manager Press Ctrl+\u21e7 Shift+Esc. This will open Task Manager. Alternatively, press Ctrl+Alt+Delete, then click on \"Start Task Manager.\" Click on the unresponsive program. It should become highlighted. If there are additional unresponsive programs, Ctrl+Click on the additional programs. Any action you initiate will be performed on all the highlighted items and only on the highlighted items. Click End Task. The computer will try to shut down the selected program(s). Restarting the Computer Press \u229e Win.  Select \"Restart.\"  Press and hold the On/Off switch until the computer powers down. This will be indicated by \"power\" LED going dark and the cooling fan stopping. This should only be used as a last resort because you will lose unsaved information in programs and files which are still open. Wait at least 20 seconds.  Power the computer back on.  Wait for the computer to come up. It is likely that you will receive a warning message that the computer was shut down improperly. Hit enter to clear the warning message if it has been displayed. The boot sequence will then resume.",
+    "sentences": [
+        " Using Task Manager Press Ctrl+\u21e7 Shift+Esc.",
+        "This will open Task Manager.",
+        "Alternatively, press Ctrl+Alt+Delete, then click on \"Start Task Manager.\"",
+        "Click on the unresponsive program.",
+        "It should become highlighted.",
+        "If there are additional unresponsive programs, Ctrl+Click on the additional programs.",
+        "Any action you initiate will be performed on all the highlighted items and only on the highlighted items.",
+        "Click End Task.",
+        "The computer will try to shut down the selected program(s).",
+        "Restarting the Computer Press \u229e Win.",
+        "Select \"Restart.\"",
+        "Press and hold the On/Off switch until the computer powers down.",
+        "This will be indicated by \"power\" LED going dark and the cooling fan stopping.",
+        "This should only be used as a last resort because you will lose unsaved information in programs and files which are still open.",
+        "Wait at least 20 seconds.",
+        "Power the computer back on.",
+        "Wait for the computer to come up.",
+        "It is likely that you will receive a warning message that the computer was shut down improperly.",
+        "Hit enter to clear the warning message if it has been displayed.",
+        "The boot sequence will then resume."
+    ]
+}

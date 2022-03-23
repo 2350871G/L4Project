@@ -1,0 +1,94 @@
+{
+    "title": "How to Check for Updates in Mozilla Firefox",
+    "url": "https://www.wikihow.com/Check-for-Updates-in-Mozilla-Firefox",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Internet",
+        "Internet Browsers",
+        "Firefox"
+    ],
+    "parts": [
+        {
+            "name": "Manually Updating Firefox",
+            "steps": [
+                {
+                    "headline": "Open the Firefox app.",
+                    "description": "It's a round icon depicting a fox curled around a globe."
+                },
+                {
+                    "headline": "Click on the \u2630 icon and select Help from the dop-down list.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click on About Firefox.",
+                    "description": "Firefox will open a dialog box, then automatically check for and download any available updates. Note: This will not work on Linux if you installed Firefox through a package manager like APT or YUM. In that case, you have to update Firefox through your package manager."
+                },
+                {
+                    "headline": "Click on Restart Firefox to Update in the dialog box.",
+                    "description": "The updates will be installed when Firefox relaunches."
+                }
+            ]
+        },
+        {
+            "name": "Configuring Automatic Updates",
+            "steps": [
+                {
+                    "headline": "Open the Firefox app.",
+                    "description": "It's a round icon depicting a fox curled around a globe."
+                },
+                {
+                    "headline": "Click on \u2630 in the upper-left corner of the screen.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click on Options.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click on Advanced.",
+                    "description": "It's at the bottom of the menu on the left side of the window."
+                },
+                {
+                    "headline": "Click on Update.",
+                    "description": "It's a tab at the top of the window."
+                },
+                {
+                    "headline": "Select a \"Firefox updates\" setting.",
+                    "description": "Click on the radio button next to one of the following:\n\"Automatically install updates (recommended: improved security)\"\n\"Check for updates, but let you choose whether to install them\"\n\"Never check for updates (not recommended: security risk)"
+                },
+                {
+                    "headline": "Close the tab by clicking on \"x\" next to the tab for \"Options\".",
+                    "description": "Your update settings are now configured."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Computer",
+        "Mozilla Firefox",
+        "Internet Access"
+    ],
+    "text": " Manually Updating Firefox Open the Firefox app. It's a round icon depicting a fox curled around a globe. Click on the \u2630 icon and select Help from the dop-down list.  Click on About Firefox. Firefox will open a dialog box, then automatically check for and download any available updates. Note: This will not work on Linux if you installed Firefox through a package manager like APT or YUM. In that case, you have to update Firefox through your package manager. Click on Restart Firefox to Update in the dialog box. The updates will be installed when Firefox relaunches. Configuring Automatic Updates Open the Firefox app. It's a round icon depicting a fox curled around a globe. Click on \u2630 in the upper-left corner of the screen.  Click on Options.  Click on Advanced. It's at the bottom of the menu on the left side of the window. Click on Update. It's a tab at the top of the window. Select a \"Firefox updates\" setting. Click on the radio button next to one of the following:\n\"Automatically install updates (recommended: improved security)\"\n\"Check for updates, but let you choose whether to install them\"\n\"Never check for updates (not recommended: security risk) Close the tab by clicking on \"x\" next to the tab for \"Options\". Your update settings are now configured.",
+    "sentences": [
+        " Manually Updating Firefox Open the Firefox app.",
+        "It's a round icon depicting a fox curled around a globe.",
+        "Click on the \u2630 icon and select Help from the dop-down list.",
+        "Click on About Firefox.",
+        "Firefox will open a dialog box, then automatically check for and download any available updates.",
+        "Note: This will not work on Linux if you installed Firefox through a package manager like APT or YUM.",
+        "In that case, you have to update Firefox through your package manager.",
+        "Click on Restart Firefox to Update in the dialog box.",
+        "The updates will be installed when Firefox relaunches.",
+        "Configuring Automatic Updates Open the Firefox app.",
+        "It's a round icon depicting a fox curled around a globe.",
+        "Click on \u2630 in the upper-left corner of the screen.",
+        "Click on Options.",
+        "Click on Advanced.",
+        "It's at the bottom of the menu on the left side of the window.",
+        "Click on Update.",
+        "It's a tab at the top of the window.",
+        "Select a \"Firefox updates\" setting.",
+        "Click on the radio button next to one of the following:\n\"Automatically install updates (recommended: improved security)\"\n\"Check for updates, but let you choose whether to install them\"\n\"Never check for updates (not recommended: security risk) Close the tab by clicking on \"x\" next to the tab for \"Options\".",
+        "Your update settings are now configured."
+    ]
+}

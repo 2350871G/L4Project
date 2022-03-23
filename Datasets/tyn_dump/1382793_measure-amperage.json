@@ -1,0 +1,152 @@
+{
+    "title": "How to Measure Amperage",
+    "url": "https://www.wikihow.com/Measure-Amperage",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Home Maintenance",
+        "Electrical Maintenance"
+    ],
+    "parts": [
+        {
+            "name": "Configuring the Multimeter",
+            "steps": [
+                {
+                    "headline": "Check the nameplate on your battery or breaker to determine its maximum amps.",
+                    "description": "Before you attach your multimeter to the circuit, you need to make sure that the meter is rated for the number of amps traveling through that circuit. Most power sources will have the approximate maximum amps printed on a nameplate, and you can find the maximum amps the multimeter can handle on the back of the device or in the instruction manual. You could also just check how high the dial goes\u2014do not attempt to test more currents than the highest dial setting. The maximum amps may also be called the maximum current."
+                },
+                {
+                    "headline": "Use a plug-in clamp if your multimeter isn't rated high enough for the circuit.",
+                    "description": "The plug-in clamp accessory can extend the range. Just plug the leads into the multimeter and attach the other end to the circuit the way you would attach the multimeter clamps. Place the clamp around the hot or live wire, which is usually black, red, blue, or some other color except white or green. When you use a clamp, it doesn't become part of the circuit, unlike when you are just using a multimeter."
+                },
+                {
+                    "headline": "Push the black probe into the \u201cCOM\u201d socket on the multimeter.",
+                    "description": "Your multimeter should have a red probe and a black probe, whether you're using a clamp attachment or the probes that came with the meter. One end of the probe will have a prong that plugs into the meter. The black probe, which indicates a negative wire, should always be plugged into the COM socket. \"COM\" stands for \u201ccommon.\u201d If the port isn't marked with \u201cCOM,\u201d you may see a negative symbol, instead. If your leads have prongs, you'll have to hold them in place when you measure the current. If they have clamps, you can attach them to the circuit, freeing up your hands. However, both types of probes will connect to the meter in the same way."
+                },
+                {
+                    "headline": "Place the red probe in the socket labeled \"A.\"",
+                    "description": "You may have several places where you can plug in a red probe, depending on the functions of your meter. The port marked with \u201cA\u201d measures amperage. You may see 2 sockets with an \u201cA,\u201d one labeled as \u201cA\u201d or \u201c10A\u201d and one labeled \u201cmA.\u201d The one that says \u201cA\u201d or \u201c10A\u201d is designed to measure current up to 10 amps, while the one that says \u201cmA\u201d measures milli-amps, up to about 300 mA. If you're not sure which one to use, select the higher \u201cA\u201d or \u201c10A\u201d setting to be sure you don't overload the meter. You might also see ports labeled \u201cV\u201d for voltage or \u201c\u03a9\u201d for ohms. You can disregard these for this test."
+                },
+                {
+                    "headline": "Select either AC or DC current on the meter.",
+                    "description": "Unless your meter is designed to only be used on AC or DC circuits, you'll need to select which one you're testing. If you're not sure, check the nameplate on your power source again for that information. AC, or alternating current, is typically used in items like household appliances and electric motors, while DC, or direct current, is commonly used in battery-powered motors and devices."
+                },
+                {
+                    "headline": "Turn the dial to an amp setting that's higher than what you're measuring.",
+                    "description": "Once you've determined the maximum currents you're expecting to test, look for a dial on your meter and turn it a little higher than that number. If you'd like, you can turn the dial all the way to the maximum just to be safe, but if the current you're measuring is too low, you may not get a reading. If that happens, you'll need to turn the dial down and take the reading again. By setting your meter to handle more amps than you expect to measure, you help protect against blowing the fuses if the current is stronger than you thought. If the current is significantly higher than the amp setting, you could destroy the meter. Some dials are auto-ranging, which means you do not have to manually adjust a dial. If this is the case, you will not see a dial with the amp settings, and the meter will be labeled as \u201cauto-ranging,\u201d or you may see \u201cAUTO\u201d on the display."
+                }
+            ]
+        },
+        {
+            "name": "Testing the Amps or Current",
+            "steps": [
+                {
+                    "headline": "Turn off the power to the circuit.",
+                    "description": "If your circuit is powered by a battery, unplug the negative lead that's running from that battery. If you have to turn off the power at a breaker, turn off the switch, then disconnect the negative lead. Do not attach the meter with the power turned on to the circuit.Warning: Use extreme caution when you're handling electricity. Wear heavy rubber gloves, do not work near water or on a metal surface, and do not grab exposed wires with your bare hands. It's also a good idea to have someone nearby (not touching the circuit) who can assist you or call for emergency assistance in case you get an electrical shock."
+                },
+                {
+                    "headline": "Disconnect the red wire coming from the power supply.",
+                    "description": "In order to test the amount of current flowing through a circuit, you have to attach the multimeter so it completes that circuit. To do this, start by shutting off the power to the circuit, then detach the positive wire, which is almost always red, from the power source. This process is called \u201cbreaking the circuit.\u201d\nYou may have to cut the wire with wire clippers to break the circuit. However, if you see a cap where the wire from the power source meets the wire going to the device you're testing, you can simply unscrew the cap and unwind the wires from around each other. The wires may also be connected by clips you can disconnect. There's no need to unplug the black wire. In a direct current circuit, the black is negative, while in an alternating current circuit, it\u2019s the \u201chot\u201d wire."
+                },
+                {
+                    "headline": "Strip the ends of the wire, if necessary.",
+                    "description": "You'll need to wrap a small piece of wire around the multimeter prongs, or have enough wire exposed that the alligator prongs will clamp on securely. If the wire is insulated all the way to the end, clamp your wire clippers about 1 in (2.5 cm) from the end of the wire and squeeze just enough to cut into the rubber insulation. Then, pull the clippers sharply away from you to remove the insulation. If you accidentally cut into the wire, snip that portion off of the end and try again. You'll need to strip the end of the wire that's coming away from the power source and the wire coming from the device you're testing."
+                },
+                {
+                    "headline": "Wrap the positive wire around the positive probe on the multimeter.",
+                    "description": "Take the exposed end of the red wire that's coming away from the power source and either wrap it around the prong on the multimeter probe or clamp the alligator clips to the wire, depending on the type of probe you're using. Either way, make sure you attach the wire securely to ensure you get an accurate reading. Technically, it doesn't really matter if you connect the positive probe to the wire coming from the power source or the device, since the meter just needs to complete the circuit. If it's easier for some reason to attach the wires the other way, that's fine. Attaching the positive wire first can help prevent a short if the negative wire accidentally touches a ground. If you\u2019re measuring a circuit without the amp clamp and the reading has a negative sign in front of it, it means you put the leads on backward. Fix it by reversing the leads."
+                },
+                {
+                    "headline": "Connect the black multimeter probe to the remaining wire and turn on the circuit.",
+                    "description": "Next, find the positive wire coming from the electrical component you're trying to test and attach it to the black multimeter probe. If you broke a battery-powered circuit by disconnecting the wires, power will be restored to the circuit once you touch the black probe to the wire. If you turned off the power with a breaker or a switch, turn it back on. This will be the other end of the wire you cut or disconnected from the power supply. If you're testing in a car, don't start the car, and don't try to turn on any fans, lights, or anything else in the vehicle, as you could overload the meter."
+                },
+                {
+                    "headline": "Leave the probes in place for about a minute as you read the meter.",
+                    "description": "Once the meter is in place, you should see a number on the digital display immediately. This is the measurement of your current, or amperage. Although this initial reading may be accurate, for the most precise measurement, leave the probes on the circuit for at least 60 seconds to ensure the current is steady. If the reading is less than the sensitive setting (for instance, if it reads less than 0.3 A and the sensitive setting measures up to 300 mA), disconnect the meter, move the red probe to mA, and repeat the test."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Digital multimeter",
+        "Wire cutters or strippers (optional)"
+    ],
+    "text": " Configuring the Multimeter Check the nameplate on your battery or breaker to determine its maximum amps. Before you attach your multimeter to the circuit, you need to make sure that the meter is rated for the number of amps traveling through that circuit. Most power sources will have the approximate maximum amps printed on a nameplate, and you can find the maximum amps the multimeter can handle on the back of the device or in the instruction manual. You could also just check how high the dial goes\u2014do not attempt to test more currents than the highest dial setting. The maximum amps may also be called the maximum current. Use a plug-in clamp if your multimeter isn't rated high enough for the circuit. The plug-in clamp accessory can extend the range. Just plug the leads into the multimeter and attach the other end to the circuit the way you would attach the multimeter clamps. Place the clamp around the hot or live wire, which is usually black, red, blue, or some other color except white or green. When you use a clamp, it doesn't become part of the circuit, unlike when you are just using a multimeter. Push the black probe into the \u201cCOM\u201d socket on the multimeter. Your multimeter should have a red probe and a black probe, whether you're using a clamp attachment or the probes that came with the meter. One end of the probe will have a prong that plugs into the meter. The black probe, which indicates a negative wire, should always be plugged into the COM socket. \"COM\" stands for \u201ccommon.\u201d If the port isn't marked with \u201cCOM,\u201d you may see a negative symbol, instead. If your leads have prongs, you'll have to hold them in place when you measure the current. If they have clamps, you can attach them to the circuit, freeing up your hands. However, both types of probes will connect to the meter in the same way. Place the red probe in the socket labeled \"A.\" You may have several places where you can plug in a red probe, depending on the functions of your meter. The port marked with \u201cA\u201d measures amperage. You may see 2 sockets with an \u201cA,\u201d one labeled as \u201cA\u201d or \u201c10A\u201d and one labeled \u201cmA.\u201d The one that says \u201cA\u201d or \u201c10A\u201d is designed to measure current up to 10 amps, while the one that says \u201cmA\u201d measures milli-amps, up to about 300 mA. If you're not sure which one to use, select the higher \u201cA\u201d or \u201c10A\u201d setting to be sure you don't overload the meter. You might also see ports labeled \u201cV\u201d for voltage or \u201c\u03a9\u201d for ohms. You can disregard these for this test. Select either AC or DC current on the meter. Unless your meter is designed to only be used on AC or DC circuits, you'll need to select which one you're testing. If you're not sure, check the nameplate on your power source again for that information. AC, or alternating current, is typically used in items like household appliances and electric motors, while DC, or direct current, is commonly used in battery-powered motors and devices. Turn the dial to an amp setting that's higher than what you're measuring. Once you've determined the maximum currents you're expecting to test, look for a dial on your meter and turn it a little higher than that number. If you'd like, you can turn the dial all the way to the maximum just to be safe, but if the current you're measuring is too low, you may not get a reading. If that happens, you'll need to turn the dial down and take the reading again. By setting your meter to handle more amps than you expect to measure, you help protect against blowing the fuses if the current is stronger than you thought. If the current is significantly higher than the amp setting, you could destroy the meter. Some dials are auto-ranging, which means you do not have to manually adjust a dial. If this is the case, you will not see a dial with the amp settings, and the meter will be labeled as \u201cauto-ranging,\u201d or you may see \u201cAUTO\u201d on the display. Testing the Amps or Current Turn off the power to the circuit. If your circuit is powered by a battery, unplug the negative lead that's running from that battery. If you have to turn off the power at a breaker, turn off the switch, then disconnect the negative lead. Do not attach the meter with the power turned on to the circuit.Warning: Use extreme caution when you're handling electricity. Wear heavy rubber gloves, do not work near water or on a metal surface, and do not grab exposed wires with your bare hands. It's also a good idea to have someone nearby (not touching the circuit) who can assist you or call for emergency assistance in case you get an electrical shock. Disconnect the red wire coming from the power supply. In order to test the amount of current flowing through a circuit, you have to attach the multimeter so it completes that circuit. To do this, start by shutting off the power to the circuit, then detach the positive wire, which is almost always red, from the power source. This process is called \u201cbreaking the circuit.\u201d\nYou may have to cut the wire with wire clippers to break the circuit. However, if you see a cap where the wire from the power source meets the wire going to the device you're testing, you can simply unscrew the cap and unwind the wires from around each other. The wires may also be connected by clips you can disconnect. There's no need to unplug the black wire. In a direct current circuit, the black is negative, while in an alternating current circuit, it\u2019s the \u201chot\u201d wire. Strip the ends of the wire, if necessary. You'll need to wrap a small piece of wire around the multimeter prongs, or have enough wire exposed that the alligator prongs will clamp on securely. If the wire is insulated all the way to the end, clamp your wire clippers about 1 in (2.5 cm) from the end of the wire and squeeze just enough to cut into the rubber insulation. Then, pull the clippers sharply away from you to remove the insulation. If you accidentally cut into the wire, snip that portion off of the end and try again. You'll need to strip the end of the wire that's coming away from the power source and the wire coming from the device you're testing. Wrap the positive wire around the positive probe on the multimeter. Take the exposed end of the red wire that's coming away from the power source and either wrap it around the prong on the multimeter probe or clamp the alligator clips to the wire, depending on the type of probe you're using. Either way, make sure you attach the wire securely to ensure you get an accurate reading. Technically, it doesn't really matter if you connect the positive probe to the wire coming from the power source or the device, since the meter just needs to complete the circuit. If it's easier for some reason to attach the wires the other way, that's fine. Attaching the positive wire first can help prevent a short if the negative wire accidentally touches a ground. If you\u2019re measuring a circuit without the amp clamp and the reading has a negative sign in front of it, it means you put the leads on backward. Fix it by reversing the leads. Connect the black multimeter probe to the remaining wire and turn on the circuit. Next, find the positive wire coming from the electrical component you're trying to test and attach it to the black multimeter probe. If you broke a battery-powered circuit by disconnecting the wires, power will be restored to the circuit once you touch the black probe to the wire. If you turned off the power with a breaker or a switch, turn it back on. This will be the other end of the wire you cut or disconnected from the power supply. If you're testing in a car, don't start the car, and don't try to turn on any fans, lights, or anything else in the vehicle, as you could overload the meter. Leave the probes in place for about a minute as you read the meter. Once the meter is in place, you should see a number on the digital display immediately. This is the measurement of your current, or amperage. Although this initial reading may be accurate, for the most precise measurement, leave the probes on the circuit for at least 60 seconds to ensure the current is steady. If the reading is less than the sensitive setting (for instance, if it reads less than 0.3 A and the sensitive setting measures up to 300 mA), disconnect the meter, move the red probe to mA, and repeat the test.",
+    "sentences": [
+        " Configuring the Multimeter Check the nameplate on your battery or breaker to determine its maximum amps.",
+        "Before you attach your multimeter to the circuit, you need to make sure that the meter is rated for the number of amps traveling through that circuit.",
+        "Most power sources will have the approximate maximum amps printed on a nameplate, and you can find the maximum amps the multimeter can handle on the back of the device or in the instruction manual.",
+        "You could also just check how high the dial goes\u2014do not attempt to test more currents than the highest dial setting.",
+        "The maximum amps may also be called the maximum current.",
+        "Use a plug-in clamp if your multimeter isn't rated high enough for the circuit.",
+        "The plug-in clamp accessory can extend the range.",
+        "Just plug the leads into the multimeter and attach the other end to the circuit the way you would attach the multimeter clamps.",
+        "Place the clamp around the hot or live wire, which is usually black, red, blue, or some other color except white or green.",
+        "When you use a clamp, it doesn't become part of the circuit, unlike when you are just using a multimeter.",
+        "Push the black probe into the \u201cCOM\u201d socket on the multimeter.",
+        "Your multimeter should have a red probe and a black probe, whether you're using a clamp attachment or the probes that came with the meter.",
+        "One end of the probe will have a prong that plugs into the meter.",
+        "The black probe, which indicates a negative wire, should always be plugged into the COM socket.",
+        "\"COM\" stands for \u201ccommon.\u201d If the port isn't marked with \u201cCOM,\u201d you may see a negative symbol, instead.",
+        "If your leads have prongs, you'll have to hold them in place when you measure the current.",
+        "If they have clamps, you can attach them to the circuit, freeing up your hands.",
+        "However, both types of probes will connect to the meter in the same way.",
+        "Place the red probe in the socket labeled \"A.\"",
+        "You may have several places where you can plug in a red probe, depending on the functions of your meter.",
+        "The port marked with \u201cA\u201d measures amperage.",
+        "You may see 2 sockets with an \u201cA,\u201d one labeled as \u201cA\u201d or \u201c10A\u201d and one labeled \u201cmA.\u201d The one that says \u201cA\u201d or \u201c10A\u201d is designed to measure current up to 10 amps, while the one that says \u201cmA\u201d measures milli-amps, up to about 300 mA.",
+        "If you're not sure which one to use, select the higher \u201cA\u201d or \u201c10A\u201d setting to be sure you don't overload the meter.",
+        "You might also see ports labeled \u201cV\u201d for voltage or \u201c\u03a9\u201d for ohms.",
+        "You can disregard these for this test.",
+        "Select either AC or DC current on the meter.",
+        "Unless your meter is designed to only be used on AC or DC circuits, you'll need to select which one you're testing.",
+        "If you're not sure, check the nameplate on your power source again for that information.",
+        "AC, or alternating current, is typically used in items like household appliances and electric motors, while DC, or direct current, is commonly used in battery-powered motors and devices.",
+        "Turn the dial to an amp setting that's higher than what you're measuring.",
+        "Once you've determined the maximum currents you're expecting to test, look for a dial on your meter and turn it a little higher than that number.",
+        "If you'd like, you can turn the dial all the way to the maximum just to be safe, but if the current you're measuring is too low, you may not get a reading.",
+        "If that happens, you'll need to turn the dial down and take the reading again.",
+        "By setting your meter to handle more amps than you expect to measure, you help protect against blowing the fuses if the current is stronger than you thought.",
+        "If the current is significantly higher than the amp setting, you could destroy the meter.",
+        "Some dials are auto-ranging, which means you do not have to manually adjust a dial.",
+        "If this is the case, you will not see a dial with the amp settings, and the meter will be labeled as \u201cauto-ranging,\u201d or you may see \u201cAUTO\u201d on the display.",
+        "Testing the Amps or Current Turn off the power to the circuit.",
+        "If your circuit is powered by a battery, unplug the negative lead that's running from that battery.",
+        "If you have to turn off the power at a breaker, turn off the switch, then disconnect the negative lead.",
+        "Do not attach the meter with the power turned on to the circuit.Warning: Use extreme caution when you're handling electricity.",
+        "Wear heavy rubber gloves, do not work near water or on a metal surface, and do not grab exposed wires with your bare hands.",
+        "It's also a good idea to have someone nearby (not touching the circuit) who can assist you or call for emergency assistance in case you get an electrical shock.",
+        "Disconnect the red wire coming from the power supply.",
+        "In order to test the amount of current flowing through a circuit, you have to attach the multimeter so it completes that circuit.",
+        "To do this, start by shutting off the power to the circuit, then detach the positive wire, which is almost always red, from the power source.",
+        "This process is called \u201cbreaking the circuit.\u201d\nYou may have to cut the wire with wire clippers to break the circuit.",
+        "However, if you see a cap where the wire from the power source meets the wire going to the device you're testing, you can simply unscrew the cap and unwind the wires from around each other.",
+        "The wires may also be connected by clips you can disconnect.",
+        "There's no need to unplug the black wire.",
+        "In a direct current circuit, the black is negative, while in an alternating current circuit, it\u2019s the \u201chot\u201d wire.",
+        "Strip the ends of the wire, if necessary.",
+        "You'll need to wrap a small piece of wire around the multimeter prongs, or have enough wire exposed that the alligator prongs will clamp on securely.",
+        "If the wire is insulated all the way to the end, clamp your wire clippers about 1 in (2.5 cm) from the end of the wire and squeeze just enough to cut into the rubber insulation.",
+        "Then, pull the clippers sharply away from you to remove the insulation.",
+        "If you accidentally cut into the wire, snip that portion off of the end and try again.",
+        "You'll need to strip the end of the wire that's coming away from the power source and the wire coming from the device you're testing.",
+        "Wrap the positive wire around the positive probe on the multimeter.",
+        "Take the exposed end of the red wire that's coming away from the power source and either wrap it around the prong on the multimeter probe or clamp the alligator clips to the wire, depending on the type of probe you're using.",
+        "Either way, make sure you attach the wire securely to ensure you get an accurate reading.",
+        "Technically, it doesn't really matter if you connect the positive probe to the wire coming from the power source or the device, since the meter just needs to complete the circuit.",
+        "If it's easier for some reason to attach the wires the other way, that's fine.",
+        "Attaching the positive wire first can help prevent a short if the negative wire accidentally touches a ground.",
+        "If you\u2019re measuring a circuit without the amp clamp and the reading has a negative sign in front of it, it means you put the leads on backward.",
+        "Fix it by reversing the leads.",
+        "Connect the black multimeter probe to the remaining wire and turn on the circuit.",
+        "Next, find the positive wire coming from the electrical component you're trying to test and attach it to the black multimeter probe.",
+        "If you broke a battery-powered circuit by disconnecting the wires, power will be restored to the circuit once you touch the black probe to the wire.",
+        "If you turned off the power with a breaker or a switch, turn it back on.",
+        "This will be the other end of the wire you cut or disconnected from the power supply.",
+        "If you're testing in a car, don't start the car, and don't try to turn on any fans, lights, or anything else in the vehicle, as you could overload the meter.",
+        "Leave the probes in place for about a minute as you read the meter.",
+        "Once the meter is in place, you should see a number on the digital display immediately.",
+        "This is the measurement of your current, or amperage.",
+        "Although this initial reading may be accurate, for the most precise measurement, leave the probes on the circuit for at least 60 seconds to ensure the current is steady.",
+        "If the reading is less than the sensitive setting (for instance, if it reads less than 0.3 A and the sensitive setting measures up to 300 mA), disconnect the meter, move the red probe to mA, and repeat the test."
+    ]
+}

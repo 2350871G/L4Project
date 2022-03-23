@@ -1,0 +1,84 @@
+{
+    "title": "How to Install Third Party Firmware on Your Router",
+    "url": "https://www.wikihow.com/Install-Third-Party-Firmware-on-Your-Router",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking",
+        "Networking Hardware",
+        "Router Networking Devices"
+    ],
+    "steps": [
+        {
+            "headline": "Verify that your router is compatible with the new firmware.",
+            "description": "The firmware that will be covered in these instructions is Tomato, since it is easily the most feature packed firmware available. There is a list of compatible routers available to Tomato\u2019s website http://www.polarcloud.com/tomato. Pay close attention to the current firmware version of your router as newer versions of some routers may not be supported. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/86\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\\/v4-460px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/86\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\\/v4-760px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\nIf your router is NOT supported by tomato the next best firmware to upgrade to is DD-WRT (http://www.dd-wrt.com/dd-wrtv3/index.php) which supports many more routers (this will not be covered in these instructions, but the steps may be similar). {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c5\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\\/v4-460px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c5\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\\/v4-760px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Download the latest firmware from Tomato\u2019s website (either .7z or .zip format).",
+            "description": ""
+        },
+        {
+            "headline": "Unpack it to a directory of your choice using a program such as winrar.",
+            "description": ""
+        },
+        {
+            "headline": "Access your router\u2019s settings with an Internet browser (the default IP is 192.168.1.1).",
+            "description": ""
+        },
+        {
+            "headline": "Click the Administration tab, then Firmware Upgrade.",
+            "description": ""
+        },
+        {
+            "headline": "Click Browse and navigate to the unpacked firmware folder in the directory you chose earlier.",
+            "description": ""
+        },
+        {
+            "headline": "Pick the matching firmware type for your router\u2014the Tomato package includes different versions of the firmware for different router models.",
+            "description": ""
+        },
+        {
+            "headline": "Hit Apply and wait while your router\u2019s firmware is flashed.",
+            "description": "Don\u2019t disconnect power to the router during this upgrade."
+        },
+        {
+            "headline": "Once the upgrade is finished, go back into the router configuration (firefox is recommended) and you\u2019ll be greeted with the new interface.",
+            "description": "That\u2019s it, the newest version of Tomato automatically migrates all of your router settings so you don\u2019t have to reconfigure your network."
+        },
+        {
+            "headline": "Optional: To boost your router\u2019s wireless signal, go to the Advanced menu and select the Wireless section.",
+            "description": "From there, you can adjust the router\u2019s \u201cTransmit Power\u201d value to any number between 1mW and 251mW (default is 42mW). Setting a value higher than 70mW is not recommended."
+        }
+    ],
+    "tyn": [
+        "Linksys WRT54G v1-v4, WRT54GS v1-v4, WRT54GL v1.x, WRTSL54GS.",
+        "Buffalo WHR-G54S, WHR-HP-G54, WZR-G54, WBR2-G54, WBR-G54, WZR-HP-G54, WZR-RS-G54, WZR-RS-G54HP, WVR-G54-NF, WHR2-A54-G54, WHR3-AG54",
+        "Asus WL500G Premium (no USB support), WL500GE, WL520GU",
+        "Sparklan WX6615GT, Fuji RT390W, Microsoft MN-700",
+        "Newest Version of ",
+        "Tomato's Firmware",
+        ".",
+        "A computer with access to the network",
+        "Administrator's username and password for the router."
+    ],
+    "text": " Verify that your router is compatible with the new firmware. The firmware that will be covered in these instructions is Tomato, since it is easily the most feature packed firmware available. There is a list of compatible routers available to Tomato\u2019s website http://www.polarcloud.com/tomato. Pay close attention to the current firmware version of your router as newer versions of some routers may not be supported. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/86\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\\/v4-460px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/86\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\\/v4-760px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\nIf your router is NOT supported by tomato the next best firmware to upgrade to is DD-WRT (http://www.dd-wrt.com/dd-wrtv3/index.php) which supports many more routers (this will not be covered in these instructions, but the steps may be similar). {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c5\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\\/v4-460px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c5\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\\/v4-760px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Download the latest firmware from Tomato\u2019s website (either .7z or .zip format).  Unpack it to a directory of your choice using a program such as winrar.  Access your router\u2019s settings with an Internet browser (the default IP is 192.168.1.1).  Click the Administration tab, then Firmware Upgrade.  Click Browse and navigate to the unpacked firmware folder in the directory you chose earlier.  Pick the matching firmware type for your router\u2014the Tomato package includes different versions of the firmware for different router models.  Hit Apply and wait while your router\u2019s firmware is flashed. Don\u2019t disconnect power to the router during this upgrade. Once the upgrade is finished, go back into the router configuration (firefox is recommended) and you\u2019ll be greeted with the new interface. That\u2019s it, the newest version of Tomato automatically migrates all of your router settings so you don\u2019t have to reconfigure your network. Optional: To boost your router\u2019s wireless signal, go to the Advanced menu and select the Wireless section. From there, you can adjust the router\u2019s \u201cTransmit Power\u201d value to any number between 1mW and 251mW (default is 42mW). Setting a value higher than 70mW is not recommended.",
+    "sentences": [
+        " Verify that your router is compatible with the new firmware.",
+        "The firmware that will be covered in these instructions is Tomato, since it is easily the most feature packed firmware available.",
+        "There is a list of compatible routers available to Tomato\u2019s website http://www.polarcloud.com/tomato.",
+        "Pay close attention to the current firmware version of your router as newer versions of some routers may not be supported.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/86\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\\/v4-460px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/86\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\\/v4-760px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\n\nIf your router is NOT supported by tomato the next best firmware to upgrade to is DD-WRT (http://www.dd-wrt.com/dd-wrtv3/index.php) which supports many more routers (this will not be covered in these instructions, but the steps may be similar).",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c5\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\\/v4-460px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c5\\/Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\\/v4-760px-Install-Third-Party-Firmware-on-Your-Router-Step-1Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Download the latest firmware from Tomato\u2019s website (either .7z or .zip format).",
+        "Unpack it to a directory of your choice using a program such as winrar.",
+        "Access your router\u2019s settings with an Internet browser (the default IP is 192.168.1.1).",
+        "Click the Administration tab, then Firmware Upgrade.",
+        "Click Browse and navigate to the unpacked firmware folder in the directory you chose earlier.",
+        "Pick the matching firmware type for your router\u2014the Tomato package includes different versions of the firmware for different router models.",
+        "Hit Apply and wait while your router\u2019s firmware is flashed.",
+        "Don\u2019t disconnect power to the router during this upgrade.",
+        "Once the upgrade is finished, go back into the router configuration (firefox is recommended) and you\u2019ll be greeted with the new interface.",
+        "That\u2019s it, the newest version of Tomato automatically migrates all of your router settings so you don\u2019t have to reconfigure your network.",
+        "Optional: To boost your router\u2019s wireless signal, go to the Advanced menu and select the Wireless section.",
+        "From there, you can adjust the router\u2019s \u201cTransmit Power\u201d value to any number between 1mW and 251mW (default is 42mW).",
+        "Setting a value higher than 70mW is not recommended."
+    ]
+}

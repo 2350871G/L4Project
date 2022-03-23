@@ -1,0 +1,157 @@
+{
+    "title": "How to Calculate Atomic Mass",
+    "url": "https://www.wikihow.com/Calculate-Atomic-Mass",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Science",
+        "Chemistry",
+        "Chemistry Calculations"
+    ],
+    "methods": [
+        {
+            "name": "Finding Atomic Mass Readings on the Periodic Table",
+            "steps": [
+                {
+                    "headline": "Understand how atomic mass is represented.",
+                    "description": "Atomic mass, the mass of a given atom or molecule, can be expressed in standard SI mass units - grams, kilograms, etc. However, because atomic masses, when expressed in these terms, are incredibly small, atomic mass is often expressed in unified atomic mass units (usually shortened to \"u\" or \"amu\") or in Dalton's (Da). The standard for one atomic mass unit is equal to 1/12th of the mass of a standard carbon-12 isotope. Atomic mass units tell the mass of one mole of a given element or molecule in grams. This is a very useful property when it comes to practical calculations, as it allows easy conversion between the mass and moles of a given quantity of atoms or molecules of the same type."
+                },
+                {
+                    "headline": "Locate atomic mass on the periodic table.",
+                    "description": "Most standard periodic tables list the relative atomic masses (atomic weights) of each element. This is almost always written as a number at the bottom of the element's square on the table, under its one or two letter chemical symbol. This number is usually expressed as a decimal rather than as a whole number. Note that the relative atomic masses listed on the periodic table are average values for the associated element. Chemical elements have different isotopes - chemical forms that differ in mass because of the addition or subtraction of one or more neutrons to the atom's nucleus. Thus, the relative atomic mass listed on the periodic table is suitable as an average value for atoms of a certain element, but not as the mass of a single atom of that element. Relative atomic masses, as listed on the periodic table, are used to calculate molar masses for atoms and molecules. Atomic masses, when expressed in amu, as on the periodic table, are technically unitless. However, by simply multiplying an atomic mass by 1 g/mol, a workable quantity is obtained for an element's molar mass - the mass (in grams) of one mole of an element's atoms. For example, the atomic mass of iron is 55.847 amu, which means one mole of iron atoms would weigh 55.847 grams."
+                },
+                {
+                    "headline": "Understand that periodic table values are an average atomic mass for an element.",
+                    "description": "As has been noted, the relative atomic masses listed for each element on the periodic table are average values of all of an atom's isotopes. This average value is valuable for many practical calculations - like, for instance, calculating the molar mass of a molecule comprised of several atoms. However, when dealing with individual atoms, this number is sometimes insufficient. Because it's an average of several different types of isotopes, the value on the periodic table isn't the exact value for any single atom's atomic mass. The atomic masses for individual atoms must be calculated by taking into account the exact number of protons and neutrons in a single atom."
+                }
+            ]
+        },
+        {
+            "name": "Calculating Atomic Mass for an Individual Atom",
+            "steps": [
+                {
+                    "headline": "Find the atomic number of the element or isotope.",
+                    "description": "The atomic number is the number of protons in an element, and never varies. For example, all hydrogen atoms, and only hydrogen atoms, have 1 proton. Sodium has an atomic number of 11 because its nucleus has 11 protons, while oxygen has an atomic number of 8 because its nucleus has 8 protons. You can find the atomic number of any element on the periodic table - in nearly all standard periodic tables: it's the number above an element's 1 or 2-letter  chemical symbol. This number will always be a positive whole number. Let's say that we're working with the carbon atom. Carbon always has 6 protons, so we know its atomic number is 6. We can also see on the periodic table that the square for carbon (C) has a \"6\" at the top, signifying that carbon's atomic number is 6. Note that an element's atomic number doesn't have any direct bearing on its relative atomic mass as listed on the periodic table. Though, especially among elements at the top of the periodic table, it may seem that an atoms' atomic mass is about twice its atomic number, atomic mass isn't ever calculated by doubling an element's atomic number."
+                },
+                {
+                    "headline": "Find the number of neutrons in the nucleus.",
+                    "description": "The number of neutrons can vary among atoms of a certain element. While 2 atoms with the same number of protons and differing numbers of neutrons are both the same element, they are different isotopes of that element. Unlike the number of protons in an element, which never changes, the number of neutrons in atoms of a certain element can vary often enough that the average atomic mass of the element must be expressed as a decimal value between two whole numbers. The number of neutrons can be determined by the isotope designation of the element. For example, carbon-14 is a naturally occurring radioactive isotope of carbon-12. You will often see an isotope designated with the number as a superscript before the element symbol: C. The number of neutrons is calculated by subtracting the number of protons from the isotope number: 14 \u2013 6 = 8 neutrons. Let's say the carbon atom we're working with has six neutrons (C). This is by far the most common isotope of carbon, accounting for nearly 99% of all carbon atoms. However, about 1% of carbon atoms have 7 neutrons (C). Other types of carbon atoms with more or less than 6 or 7 neutrons exist in very small amounts."
+                },
+                {
+                    "headline": "Add the proton and neutron count.",
+                    "description": "This is the atomic mass of that atom. Don't worry about the number of electrons orbiting the nucleus - their combined mass is very, very small, so, in most practical cases, it won't significantly affect your answer. Our carbon atom has 6 protons + 6 neutrons = 12. The atomic mass of this specific carbon atom is 12. If it was a carbon-13 isotope, on the other hand, we would know that it has 6 protons + 7 neutrons = an atomic weight of 13. The actual atomic weight of carbon-13 is 13.003355, and is more precise because it was determined experimentally. Atomic mass is very close to the isotope number of an element. For basic calculation purposes, isotope number is equal to atomic mass. When determined experimentally, the atomic mass is slightly higher than the isotope number due to the very small mass contribution from electrons."
+                }
+            ]
+        },
+        {
+            "name": "Calculating Relative Atomic Mass (Atomic Weight) for an Element",
+            "steps": [
+                {
+                    "headline": "Determine which isotopes are in the sample.",
+                    "description": "Chemists often determine the relative proportions of isotopes in a given sample by using a special tool called a mass spectrometer. However, at student-level chemistry, this information is often provided for you on school tests, etc., in the form of established values from scientific literature. For our purposes, let's say we're working with the isotopes carbon-12 and carbon-13."
+                },
+                {
+                    "headline": "Determine the relative abundance of each isotope in the sample.",
+                    "description": "Within a given element, different isotopes appear in different proportions. These proportions are almost always expressed as percentages. Some isotopes will be very common, while others will be very rare - at times, so rare that they can barely be detected. This information can be determined through mass spectrometry or from a reference book. Let's say that the abundance of carbon-12 is 99% and the abundance of carbon-13 is 1%. Other carbon isotopes do exist, but they exist in quantities so small that, for this example problem, they can be ignored."
+                },
+                {
+                    "headline": "Multiply the atomic mass of each isotope by its proportion in the sample.",
+                    "description": "Multiply the atomic mass of each isotope by its percent abundance (written as a decimal). To convert a percentage to a decimal, simply divide it by 100. The converted percentages should always add up to 1. Our sample contains carbon-12 and carbon-13. If carbon-12 makes up 99% of the sample and carbon-13 makes up 1% of the sample, multiply 12 (the atomic mass of carbon-12) by 0.99 and 13 (the atomic mass of carbon-13) by 0.01. A reference book will give percent proportions based on all the known amounts of an element's isotopes. Most chemistry textbooks include this information in a table at the end of the book. A mass spectrometer can also yield the proportions for the sample being tested."
+                },
+                {
+                    "headline": "Add the results.",
+                    "description": "Sum the products of the multiplications you performed in the previous step. The result of this addition is the relative atomic mass of your element - the average value of the atomic masses of your element's isotopes. When discussing an element in general, and not specific isotopes of that element, this value is used. In our example, 12 x 0.99 = 11.88 for carbon-12, while 13 x 0.01 = 0.13 for carbon-13. The relative atomic mass of our example is 11.88 + 0.13 = 12.01."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Chemistry reference book",
+        "Calculator"
+    ],
+    "text": " Finding Atomic Mass Readings on the Periodic Table Understand how atomic mass is represented. Atomic mass, the mass of a given atom or molecule, can be expressed in standard SI mass units - grams, kilograms, etc. However, because atomic masses, when expressed in these terms, are incredibly small, atomic mass is often expressed in unified atomic mass units (usually shortened to \"u\" or \"amu\") or in Dalton's (Da). The standard for one atomic mass unit is equal to 1/12th of the mass of a standard carbon-12 isotope. Atomic mass units tell the mass of one mole of a given element or molecule in grams. This is a very useful property when it comes to practical calculations, as it allows easy conversion between the mass and moles of a given quantity of atoms or molecules of the same type. Locate atomic mass on the periodic table. Most standard periodic tables list the relative atomic masses (atomic weights) of each element. This is almost always written as a number at the bottom of the element's square on the table, under its one or two letter chemical symbol. This number is usually expressed as a decimal rather than as a whole number. Note that the relative atomic masses listed on the periodic table are average values for the associated element. Chemical elements have different isotopes - chemical forms that differ in mass because of the addition or subtraction of one or more neutrons to the atom's nucleus. Thus, the relative atomic mass listed on the periodic table is suitable as an average value for atoms of a certain element, but not as the mass of a single atom of that element. Relative atomic masses, as listed on the periodic table, are used to calculate molar masses for atoms and molecules. Atomic masses, when expressed in amu, as on the periodic table, are technically unitless. However, by simply multiplying an atomic mass by 1 g/mol, a workable quantity is obtained for an element's molar mass - the mass (in grams) of one mole of an element's atoms. For example, the atomic mass of iron is 55.847 amu, which means one mole of iron atoms would weigh 55.847 grams. Understand that periodic table values are an average atomic mass for an element. As has been noted, the relative atomic masses listed for each element on the periodic table are average values of all of an atom's isotopes. This average value is valuable for many practical calculations - like, for instance, calculating the molar mass of a molecule comprised of several atoms. However, when dealing with individual atoms, this number is sometimes insufficient. Because it's an average of several different types of isotopes, the value on the periodic table isn't the exact value for any single atom's atomic mass. The atomic masses for individual atoms must be calculated by taking into account the exact number of protons and neutrons in a single atom. Calculating Atomic Mass for an Individual Atom Find the atomic number of the element or isotope. The atomic number is the number of protons in an element, and never varies. For example, all hydrogen atoms, and only hydrogen atoms, have 1 proton. Sodium has an atomic number of 11 because its nucleus has 11 protons, while oxygen has an atomic number of 8 because its nucleus has 8 protons. You can find the atomic number of any element on the periodic table - in nearly all standard periodic tables: it's the number above an element's 1 or 2-letter  chemical symbol. This number will always be a positive whole number. Let's say that we're working with the carbon atom. Carbon always has 6 protons, so we know its atomic number is 6. We can also see on the periodic table that the square for carbon (C) has a \"6\" at the top, signifying that carbon's atomic number is 6. Note that an element's atomic number doesn't have any direct bearing on its relative atomic mass as listed on the periodic table. Though, especially among elements at the top of the periodic table, it may seem that an atoms' atomic mass is about twice its atomic number, atomic mass isn't ever calculated by doubling an element's atomic number. Find the number of neutrons in the nucleus. The number of neutrons can vary among atoms of a certain element. While 2 atoms with the same number of protons and differing numbers of neutrons are both the same element, they are different isotopes of that element. Unlike the number of protons in an element, which never changes, the number of neutrons in atoms of a certain element can vary often enough that the average atomic mass of the element must be expressed as a decimal value between two whole numbers. The number of neutrons can be determined by the isotope designation of the element. For example, carbon-14 is a naturally occurring radioactive isotope of carbon-12. You will often see an isotope designated with the number as a superscript before the element symbol: C. The number of neutrons is calculated by subtracting the number of protons from the isotope number: 14 \u2013 6 = 8 neutrons. Let's say the carbon atom we're working with has six neutrons (C). This is by far the most common isotope of carbon, accounting for nearly 99% of all carbon atoms. However, about 1% of carbon atoms have 7 neutrons (C). Other types of carbon atoms with more or less than 6 or 7 neutrons exist in very small amounts. Add the proton and neutron count. This is the atomic mass of that atom. Don't worry about the number of electrons orbiting the nucleus - their combined mass is very, very small, so, in most practical cases, it won't significantly affect your answer. Our carbon atom has 6 protons + 6 neutrons = 12. The atomic mass of this specific carbon atom is 12. If it was a carbon-13 isotope, on the other hand, we would know that it has 6 protons + 7 neutrons = an atomic weight of 13. The actual atomic weight of carbon-13 is 13.003355, and is more precise because it was determined experimentally. Atomic mass is very close to the isotope number of an element. For basic calculation purposes, isotope number is equal to atomic mass. When determined experimentally, the atomic mass is slightly higher than the isotope number due to the very small mass contribution from electrons. Calculating Relative Atomic Mass (Atomic Weight) for an Element Determine which isotopes are in the sample. Chemists often determine the relative proportions of isotopes in a given sample by using a special tool called a mass spectrometer. However, at student-level chemistry, this information is often provided for you on school tests, etc., in the form of established values from scientific literature. For our purposes, let's say we're working with the isotopes carbon-12 and carbon-13. Determine the relative abundance of each isotope in the sample. Within a given element, different isotopes appear in different proportions. These proportions are almost always expressed as percentages. Some isotopes will be very common, while others will be very rare - at times, so rare that they can barely be detected. This information can be determined through mass spectrometry or from a reference book. Let's say that the abundance of carbon-12 is 99% and the abundance of carbon-13 is 1%. Other carbon isotopes do exist, but they exist in quantities so small that, for this example problem, they can be ignored. Multiply the atomic mass of each isotope by its proportion in the sample. Multiply the atomic mass of each isotope by its percent abundance (written as a decimal). To convert a percentage to a decimal, simply divide it by 100. The converted percentages should always add up to 1. Our sample contains carbon-12 and carbon-13. If carbon-12 makes up 99% of the sample and carbon-13 makes up 1% of the sample, multiply 12 (the atomic mass of carbon-12) by 0.99 and 13 (the atomic mass of carbon-13) by 0.01. A reference book will give percent proportions based on all the known amounts of an element's isotopes. Most chemistry textbooks include this information in a table at the end of the book. A mass spectrometer can also yield the proportions for the sample being tested. Add the results. Sum the products of the multiplications you performed in the previous step. The result of this addition is the relative atomic mass of your element - the average value of the atomic masses of your element's isotopes. When discussing an element in general, and not specific isotopes of that element, this value is used. In our example, 12 x 0.99 = 11.88 for carbon-12, while 13 x 0.01 = 0.13 for carbon-13. The relative atomic mass of our example is 11.88 + 0.13 = 12.01.",
+    "sentences": [
+        " Finding Atomic Mass Readings on the Periodic Table Understand how atomic mass is represented.",
+        "Atomic mass, the mass of a given atom or molecule, can be expressed in standard SI mass units - grams, kilograms, etc.",
+        "However, because atomic masses, when expressed in these terms, are incredibly small, atomic mass is often expressed in unified atomic mass units (usually shortened to \"u\" or \"amu\") or in Dalton's (Da).",
+        "The standard for one atomic mass unit is equal to 1/12th of the mass of a standard carbon-12 isotope.",
+        "Atomic mass units tell the mass of one mole of a given element or molecule in grams.",
+        "This is a very useful property when it comes to practical calculations, as it allows easy conversion between the mass and moles of a given quantity of atoms or molecules of the same type.",
+        "Locate atomic mass on the periodic table.",
+        "Most standard periodic tables list the relative atomic masses (atomic weights) of each element.",
+        "This is almost always written as a number at the bottom of the element's square on the table, under its one or two letter chemical symbol.",
+        "This number is usually expressed as a decimal rather than as a whole number.",
+        "Note that the relative atomic masses listed on the periodic table are average values for the associated element.",
+        "Chemical elements have different isotopes - chemical forms that differ in mass because of the addition or subtraction of one or more neutrons to the atom's nucleus.",
+        "Thus, the relative atomic mass listed on the periodic table is suitable as an average value for atoms of a certain element, but not as the mass of a single atom of that element.",
+        "Relative atomic masses, as listed on the periodic table, are used to calculate molar masses for atoms and molecules.",
+        "Atomic masses, when expressed in amu, as on the periodic table, are technically unitless.",
+        "However, by simply multiplying an atomic mass by 1 g/mol, a workable quantity is obtained for an element's molar mass - the mass (in grams) of one mole of an element's atoms.",
+        "For example, the atomic mass of iron is 55.847 amu, which means one mole of iron atoms would weigh 55.847 grams.",
+        "Understand that periodic table values are an average atomic mass for an element.",
+        "As has been noted, the relative atomic masses listed for each element on the periodic table are average values of all of an atom's isotopes.",
+        "This average value is valuable for many practical calculations - like, for instance, calculating the molar mass of a molecule comprised of several atoms.",
+        "However, when dealing with individual atoms, this number is sometimes insufficient.",
+        "Because it's an average of several different types of isotopes, the value on the periodic table isn't the exact value for any single atom's atomic mass.",
+        "The atomic masses for individual atoms must be calculated by taking into account the exact number of protons and neutrons in a single atom.",
+        "Calculating Atomic Mass for an Individual Atom Find the atomic number of the element or isotope.",
+        "The atomic number is the number of protons in an element, and never varies.",
+        "For example, all hydrogen atoms, and only hydrogen atoms, have 1 proton.",
+        "Sodium has an atomic number of 11 because its nucleus has 11 protons, while oxygen has an atomic number of 8 because its nucleus has 8 protons.",
+        "You can find the atomic number of any element on the periodic table - in nearly all standard periodic tables: it's the number above an element's 1 or 2-letter  chemical symbol.",
+        "This number will always be a positive whole number.",
+        "Let's say that we're working with the carbon atom.",
+        "Carbon always has 6 protons, so we know its atomic number is 6.",
+        "We can also see on the periodic table that the square for carbon (C) has a \"6\" at the top, signifying that carbon's atomic number is 6.",
+        "Note that an element's atomic number doesn't have any direct bearing on its relative atomic mass as listed on the periodic table.",
+        "Though, especially among elements at the top of the periodic table, it may seem that an atoms' atomic mass is about twice its atomic number, atomic mass isn't ever calculated by doubling an element's atomic number.",
+        "Find the number of neutrons in the nucleus.",
+        "The number of neutrons can vary among atoms of a certain element.",
+        "While 2 atoms with the same number of protons and differing numbers of neutrons are both the same element, they are different isotopes of that element.",
+        "Unlike the number of protons in an element, which never changes, the number of neutrons in atoms of a certain element can vary often enough that the average atomic mass of the element must be expressed as a decimal value between two whole numbers.",
+        "The number of neutrons can be determined by the isotope designation of the element.",
+        "For example, carbon-14 is a naturally occurring radioactive isotope of carbon-12.",
+        "You will often see an isotope designated with the number as a superscript before the element symbol: C. The number of neutrons is calculated by subtracting the number of protons from the isotope number: 14 \u2013 6 = 8 neutrons.",
+        "Let's say the carbon atom we're working with has six neutrons (C).",
+        "This is by far the most common isotope of carbon, accounting for nearly 99% of all carbon atoms.",
+        "However, about 1% of carbon atoms have 7 neutrons (C).",
+        "Other types of carbon atoms with more or less than 6 or 7 neutrons exist in very small amounts.",
+        "Add the proton and neutron count.",
+        "This is the atomic mass of that atom.",
+        "Don't worry about the number of electrons orbiting the nucleus - their combined mass is very, very small, so, in most practical cases, it won't significantly affect your answer.",
+        "Our carbon atom has 6 protons + 6 neutrons = 12.",
+        "The atomic mass of this specific carbon atom is 12.",
+        "If it was a carbon-13 isotope, on the other hand, we would know that it has 6 protons + 7 neutrons = an atomic weight of 13.",
+        "The actual atomic weight of carbon-13 is 13.003355, and is more precise because it was determined experimentally.",
+        "Atomic mass is very close to the isotope number of an element.",
+        "For basic calculation purposes, isotope number is equal to atomic mass.",
+        "When determined experimentally, the atomic mass is slightly higher than the isotope number due to the very small mass contribution from electrons.",
+        "Calculating Relative Atomic Mass (Atomic Weight) for an Element Determine which isotopes are in the sample.",
+        "Chemists often determine the relative proportions of isotopes in a given sample by using a special tool called a mass spectrometer.",
+        "However, at student-level chemistry, this information is often provided for you on school tests, etc., in the form of established values from scientific literature.",
+        "For our purposes, let's say we're working with the isotopes carbon-12 and carbon-13.",
+        "Determine the relative abundance of each isotope in the sample.",
+        "Within a given element, different isotopes appear in different proportions.",
+        "These proportions are almost always expressed as percentages.",
+        "Some isotopes will be very common, while others will be very rare - at times, so rare that they can barely be detected.",
+        "This information can be determined through mass spectrometry or from a reference book.",
+        "Let's say that the abundance of carbon-12 is 99% and the abundance of carbon-13 is 1%.",
+        "Other carbon isotopes do exist, but they exist in quantities so small that, for this example problem, they can be ignored.",
+        "Multiply the atomic mass of each isotope by its proportion in the sample.",
+        "Multiply the atomic mass of each isotope by its percent abundance (written as a decimal).",
+        "To convert a percentage to a decimal, simply divide it by 100.",
+        "The converted percentages should always add up to 1.",
+        "Our sample contains carbon-12 and carbon-13.",
+        "If carbon-12 makes up 99% of the sample and carbon-13 makes up 1% of the sample, multiply 12 (the atomic mass of carbon-12) by 0.99 and 13 (the atomic mass of carbon-13) by 0.01.",
+        "A reference book will give percent proportions based on all the known amounts of an element's isotopes.",
+        "Most chemistry textbooks include this information in a table at the end of the book.",
+        "A mass spectrometer can also yield the proportions for the sample being tested.",
+        "Add the results.",
+        "Sum the products of the multiplications you performed in the previous step.",
+        "The result of this addition is the relative atomic mass of your element - the average value of the atomic masses of your element's isotopes.",
+        "When discussing an element in general, and not specific isotopes of that element, this value is used.",
+        "In our example, 12 x 0.99 = 11.88 for carbon-12, while 13 x 0.01 = 0.13 for carbon-13.",
+        "The relative atomic mass of our example is 11.88 + 0.13 = 12.01."
+    ]
+}

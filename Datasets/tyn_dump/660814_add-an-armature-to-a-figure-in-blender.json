@@ -1,0 +1,60 @@
+{
+    "title": "How to Add an Armature to a Figure in Blender",
+    "url": "https://www.wikihow.com/Add-an-Armature-to-a-Figure-in-Blender",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Graphics",
+        "3D Graphics Software",
+        "Blender"
+    ],
+    "steps": [
+        {
+            "headline": "Select were you want the armature's beginning to be with the Anchor Point.",
+            "description": "Using the keypad keys, 1, 3, and 7, you switch between the X axis, the Y axis, and the Z axis."
+        },
+        {
+            "headline": "Once you choose were you want the armature, go to the top bar and select \"Add > Armature\" You will have to fiddle with the top of armature to get it were you want it.",
+            "description": "I suggest you put it at to figure's chest, while the armature's original point is at the figure's stomach."
+        },
+        {
+            "headline": "From here, extend the armature's points by selecting a point and extending it with the E key.",
+            "description": "This will copy the selected point and move it with the mouse until you click."
+        },
+        {
+            "headline": "Once you have made the rest of the \"bone\" structure, select your figure by right-clicking it.",
+            "description": "Go down to the bottom bar and add an armature modifier and in the Ob. field, type Armature."
+        },
+        {
+            "headline": "Now you need to envelope your rigging.",
+            "description": "Select your armature structure and switch the bone display option from Octahedron to Envelope. Now select the figure's head armature and press the S key. Pull the mouse away until the yellow ball envelopes the whole head. Continue doing this until the whole rigging is enveloped. The purple bones are able to be enlarged, too."
+        },
+        {
+            "headline": "Now your whole structure should be able to be moved around in Pose mode.",
+            "description": "Just select an armature point and move it around with the Move tool and the head, arm, or eye stalk should move, too."
+        }
+    ],
+    "tyn": [
+        "Keyboard with a keypad"
+    ],
+    "text": " Select were you want the armature's beginning to be with the Anchor Point. Using the keypad keys, 1, 3, and 7, you switch between the X axis, the Y axis, and the Z axis. Once you choose were you want the armature, go to the top bar and select \"Add > Armature\" You will have to fiddle with the top of armature to get it were you want it. I suggest you put it at to figure's chest, while the armature's original point is at the figure's stomach. From here, extend the armature's points by selecting a point and extending it with the E key. This will copy the selected point and move it with the mouse until you click. Once you have made the rest of the \"bone\" structure, select your figure by right-clicking it. Go down to the bottom bar and add an armature modifier and in the Ob. field, type Armature. Now you need to envelope your rigging. Select your armature structure and switch the bone display option from Octahedron to Envelope. Now select the figure's head armature and press the S key. Pull the mouse away until the yellow ball envelopes the whole head. Continue doing this until the whole rigging is enveloped. The purple bones are able to be enlarged, too. Now your whole structure should be able to be moved around in Pose mode. Just select an armature point and move it around with the Move tool and the head, arm, or eye stalk should move, too.",
+    "sentences": [
+        " Select were you want the armature's beginning to be with the Anchor Point.",
+        "Using the keypad keys, 1, 3, and 7, you switch between the X axis, the Y axis, and the Z axis.",
+        "Once you choose were you want the armature, go to the top bar and select \"Add > Armature\" You will have to fiddle with the top of armature to get it were you want it.",
+        "I suggest you put it at to figure's chest, while the armature's original point is at the figure's stomach.",
+        "From here, extend the armature's points by selecting a point and extending it with the E key.",
+        "This will copy the selected point and move it with the mouse until you click.",
+        "Once you have made the rest of the \"bone\" structure, select your figure by right-clicking it.",
+        "Go down to the bottom bar and add an armature modifier and in the Ob.",
+        "field, type Armature.",
+        "Now you need to envelope your rigging.",
+        "Select your armature structure and switch the bone display option from Octahedron to Envelope.",
+        "Now select the figure's head armature and press the S key.",
+        "Pull the mouse away until the yellow ball envelopes the whole head.",
+        "Continue doing this until the whole rigging is enveloped.",
+        "The purple bones are able to be enlarged, too.",
+        "Now your whole structure should be able to be moved around in Pose mode.",
+        "Just select an armature point and move it around with the Move tool and the head, arm, or eye stalk should move, too."
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "title": "How to Find the Perimeter of a Trapezoid",
+    "url": "https://www.wikihow.com/Find-the-Perimeter-of-a-Trapezoid",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Geometry"
+    ],
+    "methods": [
+        {
+            "name": "If You Know the Length of Both Sides and Bases",
+            "steps": [
+                {
+                    "headline": "Set up the formula for perimeter of a trapezoid.",
+                    "description": "The formula is P=T+B+L+R{\\displaystyle P=T+B+L+R}, where P{\\displaystyle P} equals the perimeter of the trapezoid, and the variables T{\\displaystyle T} equals the length of the top base of the trapezoid, B{\\displaystyle B} equals the length of the bottom base, L{\\displaystyle L} equals the length of the left side, and R{\\displaystyle R} equals the length of the right side."
+                },
+                {
+                    "headline": "Plug the side lengths into the formula.",
+                    "description": "If you do not know the length of all four sides of the trapezoid, you cannot use this formula. For example, if you have a trapezoid with a top base of 2 cm, a bottom base of 3 cm, and two side lengths of 1 cm, your formula will look like this:P=2+3+1+1{\\displaystyle P=2+3+1+1}"
+                },
+                {
+                    "headline": "Add the side lengths together.",
+                    "description": "This will give you the perimeter of your trapezoid. For example:P=2+3+1+1{\\displaystyle P=2+3+1+1}P=7{\\displaystyle P=7}So, the perimeter of the trapezoid is 7 cm."
+                }
+            ]
+        },
+        {
+            "name": "If You Know the Height, Both Side Lengths, and Top Base Length",
+            "steps": [
+                {
+                    "headline": "Divide the trapezoid into a rectangle and two right triangles.",
+                    "description": "To do this, draw the height from both top vertices. If you cannot form two right triangles because one side of the trapezoid is perpendicular to the base, just note that this side will have the same measurement as the height, and divide the trapezoid into one rectangle and one right triangle."
+                },
+                {
+                    "headline": "Label each height line.",
+                    "description": "Since these are opposite sides of a rectangle, they will be the same length. For example, if you have a trapezoid with a height of 6 cm, you should draw a line from each top vertex extending down to the bottom base. Label each line 6 cm."
+                },
+                {
+                    "headline": "Label the length of the middle section of the bottom base.",
+                    "description": "(This is the bottom side of the rectangle.) The length will equal the length of the top base (the top side of the rectangle), because opposite sides of a rectangle are of equal length. If you do not know the length of the top base, you cannot use this method. For example, if the top base of the trapezoid is 6 cm, then the middle section of the bottom base is also 6 cm."
+                },
+                {
+                    "headline": "Set up the Pythagorean Theorem formula for the first right triangle.",
+                    "description": "The formula is a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}, where c{\\displaystyle c} is the length of the hypotenuse of the right triangle (the side opposite the right angle), a{\\displaystyle a} is the height of the right triangle, and b{\\displaystyle b} is the length of the base of the triangle."
+                },
+                {
+                    "headline": "Plug the known values from the first triangle into the formula.",
+                    "description": "Make sure you plug in the side length of the trapezoid for c{\\displaystyle c}. Plug in the height of the trapezoid for a{\\displaystyle a}. For example, if you know the height of the trapezoid is 6 cm, and the length of the side (hypotenuse) is 9 cm, your equation will look like this:62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}"
+                },
+                {
+                    "headline": "Square the known values in the equation.",
+                    "description": "Then, subtract to isolate the b{\\displaystyle b} variable. For example, if the equation is 62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}, you would square 6 and 9, then subtract the square of 6 from the square of 9:62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}36+b2=81{\\displaystyle 36+b^{2}=81}b2=45{\\displaystyle b^{2}=45}"
+                },
+                {
+                    "headline": "Take the square root to find the value of b{\\displaystyle b}.",
+                    "description": "(For complete instructions on how to simplify square roots, you can read Simplify a Square Root.) The result will give you the value of the missing base of your first right triangle. Label this length on the base of your triangle. For example:b2=45{\\displaystyle b^{2}=45}b=45{\\displaystyle b={\\sqrt {45}}}b=45{\\displaystyle b={\\sqrt {45}}}b=35{\\displaystyle b=3{\\sqrt {5}}}So, you should label 35{\\displaystyle 3{\\sqrt {5}}} on the base of your first triangle."
+                },
+                {
+                    "headline": "Find the missing length of the second right triangle.",
+                    "description": "To do this, set up the Pythagorean Theorem formula for the second triangle, and follow the steps to find the length of the missing side. If you are working with an isosceles trapezoid, which is a trapezoid in which the two non-parallel sides are the same length, the two right triangles are congruent, so you can simply carry the value from the first triangle over to the second triangle. For example, if the second side of the trapezoid is 7 cm, you would calculate:a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}62+b2=72{\\displaystyle 6^{2}+b^{2}=7^{2}}36+b2=49{\\displaystyle 36+b^{2}=49}b2=13{\\displaystyle b^{2}=13}b=13{\\displaystyle b={\\sqrt {13}}}So, you should label 13{\\displaystyle {\\sqrt {13}}} on the base of your second triangle."
+                },
+                {
+                    "headline": "Add up all the side lengths of the trapezoid.",
+                    "description": "The perimeter of any polygon is the sum of all sides: P=T+B+L+R{\\displaystyle P=T+B+L+R}. For the bottom base, you will add the bottom side of the rectangle, plus the bases of the two triangles. You will likely have square roots in your answer. For complete instructions on how to add square roots, you can read the article Add Square Roots. You can also use a calculator to convert the square roots to decimals. For example, 6+(6+35+13)+9+7=28+35+13{\\displaystyle 6+(6+3{\\sqrt {5}}+{\\sqrt {13}})+9+7=28+3{\\sqrt {5}}+{\\sqrt {13}}}Converting the square roots to decimals, you have 6+(6+6.708+3.606)+9+7=38.314{\\displaystyle 6+(6+6.708+3.606)+9+7=38.314}So, the approximate perimeter of your trapezoid is 38.314 cm."
+                }
+            ]
+        },
+        {
+            "name": "If You Know the Height, Length of Top Base, and Bottom Interior Angles",
+            "steps": [
+                {
+                    "headline": "Divide the trapezoid into a rectangle and two right triangles.",
+                    "description": "To do this, draw the height from both top vertices. If you cannot form two right triangles because one side of the trapezoid is perpendicular to the base, just note that this side will have the same measurement as the height, and divide the trapezoid into one rectangle and one right triangle."
+                },
+                {
+                    "headline": "Label each height line.",
+                    "description": "Since these are opposite sides of a rectangle, they will be the same length. For example, if you have a trapezoid with a height of 6 cm, you should draw a line from each top vertex extending down to the bottom base. Label each line 6 cm."
+                },
+                {
+                    "headline": "Label the length of the middle section of the bottom base.",
+                    "description": "(This is the bottom side of the rectangle.) This length will be equal to the length of the top base, because opposite sides of a rectangle are of equal length. For example, if the top base of the trapezoid is 6 cm, then the middle section of the bottom base is also 6 cm."
+                },
+                {
+                    "headline": "Set up the sine ratio for the first right triangle.",
+                    "description": "The ratio is sin\u2061\u03b8=oppositehypotenuse{\\displaystyle \\sin \\theta ={\\frac {\\text{opposite}}{\\text{hypotenuse}}}}, where \u03b8{\\displaystyle \\theta } is the measure of the interior angle, opposite{\\displaystyle {\\text{opposite}}} is the height of the triangle, and hypotenuse{\\displaystyle {\\text{hypotenuse}}} is the length of the hypotenuse. Using this ratio will allow you to find the length of the hypotenuse of the triangle, which is also the trapezoid's first side length. The hypotenuse is the side across from the 90 degree angle of a right triangle."
+                },
+                {
+                    "headline": "Plug the known values into the sine ratio.",
+                    "description": "Make sure you use the height of the triangle as the length of the opposite side in the formula. You will solve for H.\nFor example, if the given interior angle is 35 degrees, and the height of the triangle is 6 cm, your formula will look like this:sin\u2061(35)=6H{\\displaystyle \\sin(35)={\\frac {6}{H}}}"
+                },
+                {
+                    "headline": "Find the sine of the angle.",
+                    "description": "Do this by using the SIN button on a scientific calculator. Plug this value into the ratio. For example, by using a calculator you will find that the sine of a 35 degree angle is .5738 (rounded). So your formula will now be:.5738=6H{\\displaystyle .5738={\\frac {6}{H}}}"
+                },
+                {
+                    "headline": "Solve for H. To do this, multiply each side by H, then divide each side by the angle sine.",
+                    "description": "Or, you can simply divide the height of the triangle by the angle sine. For example:.5738=6H{\\displaystyle .5738={\\frac {6}{H}}}.5738H=6{\\displaystyle .5738H=6}.5738H.5738=6.5738{\\displaystyle {\\frac {.5738H}{.5738}}={\\frac {6}{.5738}}}H=10.4566{\\displaystyle H=10.4566}So, the length of the hypotenuse, and the first missing side of the trapezoid, is about 10.4566 cm."
+                },
+                {
+                    "headline": "Find the length of the hypotenuse of the second right triangle.",
+                    "description": "Set up the sine ratio (sin\u2061\u03b8=oppositehypotenuse{\\displaystyle \\sin \\theta ={\\frac {\\text{opposite}}{\\text{hypotenuse}}}}) for the second given interior angle. This will give you the length of the hypotenuse, which is also the first side of the trapezoid. For example, if the given interior angle is 45 degrees, you would calculate:sin\u2061(45)=6H{\\displaystyle \\sin(45)={\\frac {6}{H}}}.7071=6H{\\displaystyle .7071={\\frac {6}{H}}}.7071H=6{\\displaystyle .7071H=6}.7071H.7071=6.7071{\\displaystyle {\\frac {.7071H}{.7071}}={\\frac {6}{.7071}}}H=8.4854{\\displaystyle H=8.4854}So, the length of the hypotenuse, and the second missing side of the trapezoid, is about 8.4854 cm."
+                },
+                {
+                    "headline": "Set up the Pythagorean Theorem formula for the first right triangle.",
+                    "description": "The Pythagorean Theorem formula is a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}, where the length of the hypotenuse is c{\\displaystyle c}, and the height of the triangle is a{\\displaystyle a}."
+                },
+                {
+                    "headline": "Plug the known values into the Pythagorean Theorem for the first right triangle.",
+                    "description": "Make sure you plug in the hypotenuse length for c{\\displaystyle c} and the height for a{\\displaystyle a}. For example, if the first right triangle has a hypotenuse of 10.4566, and a height of 6, your formula will be:62+b2=10.45662{\\displaystyle 6^{2}+b^{2}=10.4566^{2}}"
+                },
+                {
+                    "headline": "Solve for b{\\displaystyle b}.",
+                    "description": "This will give you the length of base of the first right triangle, and the first missing section of the trapezoid\u2019s bottom base. For example:62+b2=10.45662{\\displaystyle 6^{2}+b^{2}=10.4566^{2}}36+b2=109.3405{\\displaystyle 36+b^{2}=109.3405}b2=109.3405\u221236{\\displaystyle b^{2}=109.3405-36}b2=73.3405{\\displaystyle b^{2}=73.3405}b2=73.3405{\\displaystyle {\\sqrt {b^{2}}}={\\sqrt {73.3405}}}b=8.5639{\\displaystyle b=8.5639}So, the base of the triangle, and the first missing section of the bottom base of the trapezoid, is about 8.5639 cm."
+                },
+                {
+                    "headline": "Find the length of the missing base of the second right triangle.",
+                    "description": "Use the Pythagorean Theorem formula (a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}) to do this. Plug in the length of the hypotenuse for c{\\displaystyle c}, and the height for a{\\displaystyle a}. Solving for b{\\displaystyle b} will give you the length of the second missing section of the trapezoid\u2019s bottom base. For example, if the second right triangle has a hypotenuse of 8.4854, and a height of 6, you would calculate:62+b2=8.48542{\\displaystyle 6^{2}+b^{2}=8.4854^{2}}36+b2=72{\\displaystyle 36+b^{2}=72}b2=72\u221236{\\displaystyle b^{2}=72-36}b2=36{\\displaystyle b^{2}=36}b2=36{\\displaystyle {\\sqrt {b^{2}}}={\\sqrt {36}}}b=6{\\displaystyle b=6}So, the base of the second triangle, and the second missing section of the bottom base of the trapezoid, is 6 cm."
+                },
+                {
+                    "headline": "Add up all the side lengths of the trapezoid.",
+                    "description": "The perimeter of any polygon is the sum of all sides: P=T+B+L+R{\\displaystyle P=T+B+L+R}. For the bottom base, you will add the bottom side of the rectangle, plus the bases of the two triangles. For example, 6+(8.5639+6+6)+10.4566+8.4854=45.5059{\\displaystyle 6+(8.5639+6+6)+10.4566+8.4854=45.5059}So, the approximate perimeter of your trapezoid is 45.5059 cm."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Calculator",
+        "Pencil",
+        "Paper"
+    ],
+    "text": " If You Know the Length of Both Sides and Bases Set up the formula for perimeter of a trapezoid. The formula is P=T+B+L+R{\\displaystyle P=T+B+L+R}, where P{\\displaystyle P} equals the perimeter of the trapezoid, and the variables T{\\displaystyle T} equals the length of the top base of the trapezoid, B{\\displaystyle B} equals the length of the bottom base, L{\\displaystyle L} equals the length of the left side, and R{\\displaystyle R} equals the length of the right side. Plug the side lengths into the formula. If you do not know the length of all four sides of the trapezoid, you cannot use this formula. For example, if you have a trapezoid with a top base of 2 cm, a bottom base of 3 cm, and two side lengths of 1 cm, your formula will look like this:P=2+3+1+1{\\displaystyle P=2+3+1+1} Add the side lengths together. This will give you the perimeter of your trapezoid. For example:P=2+3+1+1{\\displaystyle P=2+3+1+1}P=7{\\displaystyle P=7}So, the perimeter of the trapezoid is 7 cm. If You Know the Height, Both Side Lengths, and Top Base Length Divide the trapezoid into a rectangle and two right triangles. To do this, draw the height from both top vertices. If you cannot form two right triangles because one side of the trapezoid is perpendicular to the base, just note that this side will have the same measurement as the height, and divide the trapezoid into one rectangle and one right triangle. Label each height line. Since these are opposite sides of a rectangle, they will be the same length. For example, if you have a trapezoid with a height of 6 cm, you should draw a line from each top vertex extending down to the bottom base. Label each line 6 cm. Label the length of the middle section of the bottom base. (This is the bottom side of the rectangle.) The length will equal the length of the top base (the top side of the rectangle), because opposite sides of a rectangle are of equal length. If you do not know the length of the top base, you cannot use this method. For example, if the top base of the trapezoid is 6 cm, then the middle section of the bottom base is also 6 cm. Set up the Pythagorean Theorem formula for the first right triangle. The formula is a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}, where c{\\displaystyle c} is the length of the hypotenuse of the right triangle (the side opposite the right angle), a{\\displaystyle a} is the height of the right triangle, and b{\\displaystyle b} is the length of the base of the triangle. Plug the known values from the first triangle into the formula. Make sure you plug in the side length of the trapezoid for c{\\displaystyle c}. Plug in the height of the trapezoid for a{\\displaystyle a}. For example, if you know the height of the trapezoid is 6 cm, and the length of the side (hypotenuse) is 9 cm, your equation will look like this:62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}} Square the known values in the equation. Then, subtract to isolate the b{\\displaystyle b} variable. For example, if the equation is 62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}, you would square 6 and 9, then subtract the square of 6 from the square of 9:62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}36+b2=81{\\displaystyle 36+b^{2}=81}b2=45{\\displaystyle b^{2}=45} Take the square root to find the value of b{\\displaystyle b}. (For complete instructions on how to simplify square roots, you can read Simplify a Square Root.) The result will give you the value of the missing base of your first right triangle. Label this length on the base of your triangle. For example:b2=45{\\displaystyle b^{2}=45}b=45{\\displaystyle b={\\sqrt {45}}}b=45{\\displaystyle b={\\sqrt {45}}}b=35{\\displaystyle b=3{\\sqrt {5}}}So, you should label 35{\\displaystyle 3{\\sqrt {5}}} on the base of your first triangle. Find the missing length of the second right triangle. To do this, set up the Pythagorean Theorem formula for the second triangle, and follow the steps to find the length of the missing side. If you are working with an isosceles trapezoid, which is a trapezoid in which the two non-parallel sides are the same length, the two right triangles are congruent, so you can simply carry the value from the first triangle over to the second triangle. For example, if the second side of the trapezoid is 7 cm, you would calculate:a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}62+b2=72{\\displaystyle 6^{2}+b^{2}=7^{2}}36+b2=49{\\displaystyle 36+b^{2}=49}b2=13{\\displaystyle b^{2}=13}b=13{\\displaystyle b={\\sqrt {13}}}So, you should label 13{\\displaystyle {\\sqrt {13}}} on the base of your second triangle. Add up all the side lengths of the trapezoid. The perimeter of any polygon is the sum of all sides: P=T+B+L+R{\\displaystyle P=T+B+L+R}. For the bottom base, you will add the bottom side of the rectangle, plus the bases of the two triangles. You will likely have square roots in your answer. For complete instructions on how to add square roots, you can read the article Add Square Roots. You can also use a calculator to convert the square roots to decimals. For example, 6+(6+35+13)+9+7=28+35+13{\\displaystyle 6+(6+3{\\sqrt {5}}+{\\sqrt {13}})+9+7=28+3{\\sqrt {5}}+{\\sqrt {13}}}Converting the square roots to decimals, you have 6+(6+6.708+3.606)+9+7=38.314{\\displaystyle 6+(6+6.708+3.606)+9+7=38.314}So, the approximate perimeter of your trapezoid is 38.314 cm. If You Know the Height, Length of Top Base, and Bottom Interior Angles Divide the trapezoid into a rectangle and two right triangles. To do this, draw the height from both top vertices. If you cannot form two right triangles because one side of the trapezoid is perpendicular to the base, just note that this side will have the same measurement as the height, and divide the trapezoid into one rectangle and one right triangle. Label each height line. Since these are opposite sides of a rectangle, they will be the same length. For example, if you have a trapezoid with a height of 6 cm, you should draw a line from each top vertex extending down to the bottom base. Label each line 6 cm. Label the length of the middle section of the bottom base. (This is the bottom side of the rectangle.) This length will be equal to the length of the top base, because opposite sides of a rectangle are of equal length. For example, if the top base of the trapezoid is 6 cm, then the middle section of the bottom base is also 6 cm. Set up the sine ratio for the first right triangle. The ratio is sin\u2061\u03b8=oppositehypotenuse{\\displaystyle \\sin \\theta ={\\frac {\\text{opposite}}{\\text{hypotenuse}}}}, where \u03b8{\\displaystyle \\theta } is the measure of the interior angle, opposite{\\displaystyle {\\text{opposite}}} is the height of the triangle, and hypotenuse{\\displaystyle {\\text{hypotenuse}}} is the length of the hypotenuse. Using this ratio will allow you to find the length of the hypotenuse of the triangle, which is also the trapezoid's first side length. The hypotenuse is the side across from the 90 degree angle of a right triangle. Plug the known values into the sine ratio. Make sure you use the height of the triangle as the length of the opposite side in the formula. You will solve for H.\nFor example, if the given interior angle is 35 degrees, and the height of the triangle is 6 cm, your formula will look like this:sin\u2061(35)=6H{\\displaystyle \\sin(35)={\\frac {6}{H}}} Find the sine of the angle. Do this by using the SIN button on a scientific calculator. Plug this value into the ratio. For example, by using a calculator you will find that the sine of a 35 degree angle is .5738 (rounded). So your formula will now be:.5738=6H{\\displaystyle .5738={\\frac {6}{H}}} Solve for H. To do this, multiply each side by H, then divide each side by the angle sine. Or, you can simply divide the height of the triangle by the angle sine. For example:.5738=6H{\\displaystyle .5738={\\frac {6}{H}}}.5738H=6{\\displaystyle .5738H=6}.5738H.5738=6.5738{\\displaystyle {\\frac {.5738H}{.5738}}={\\frac {6}{.5738}}}H=10.4566{\\displaystyle H=10.4566}So, the length of the hypotenuse, and the first missing side of the trapezoid, is about 10.4566 cm. Find the length of the hypotenuse of the second right triangle. Set up the sine ratio (sin\u2061\u03b8=oppositehypotenuse{\\displaystyle \\sin \\theta ={\\frac {\\text{opposite}}{\\text{hypotenuse}}}}) for the second given interior angle. This will give you the length of the hypotenuse, which is also the first side of the trapezoid. For example, if the given interior angle is 45 degrees, you would calculate:sin\u2061(45)=6H{\\displaystyle \\sin(45)={\\frac {6}{H}}}.7071=6H{\\displaystyle .7071={\\frac {6}{H}}}.7071H=6{\\displaystyle .7071H=6}.7071H.7071=6.7071{\\displaystyle {\\frac {.7071H}{.7071}}={\\frac {6}{.7071}}}H=8.4854{\\displaystyle H=8.4854}So, the length of the hypotenuse, and the second missing side of the trapezoid, is about 8.4854 cm. Set up the Pythagorean Theorem formula for the first right triangle. The Pythagorean Theorem formula is a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}, where the length of the hypotenuse is c{\\displaystyle c}, and the height of the triangle is a{\\displaystyle a}. Plug the known values into the Pythagorean Theorem for the first right triangle. Make sure you plug in the hypotenuse length for c{\\displaystyle c} and the height for a{\\displaystyle a}. For example, if the first right triangle has a hypotenuse of 10.4566, and a height of 6, your formula will be:62+b2=10.45662{\\displaystyle 6^{2}+b^{2}=10.4566^{2}} Solve for b{\\displaystyle b}. This will give you the length of base of the first right triangle, and the first missing section of the trapezoid\u2019s bottom base. For example:62+b2=10.45662{\\displaystyle 6^{2}+b^{2}=10.4566^{2}}36+b2=109.3405{\\displaystyle 36+b^{2}=109.3405}b2=109.3405\u221236{\\displaystyle b^{2}=109.3405-36}b2=73.3405{\\displaystyle b^{2}=73.3405}b2=73.3405{\\displaystyle {\\sqrt {b^{2}}}={\\sqrt {73.3405}}}b=8.5639{\\displaystyle b=8.5639}So, the base of the triangle, and the first missing section of the bottom base of the trapezoid, is about 8.5639 cm. Find the length of the missing base of the second right triangle. Use the Pythagorean Theorem formula (a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}) to do this. Plug in the length of the hypotenuse for c{\\displaystyle c}, and the height for a{\\displaystyle a}. Solving for b{\\displaystyle b} will give you the length of the second missing section of the trapezoid\u2019s bottom base. For example, if the second right triangle has a hypotenuse of 8.4854, and a height of 6, you would calculate:62+b2=8.48542{\\displaystyle 6^{2}+b^{2}=8.4854^{2}}36+b2=72{\\displaystyle 36+b^{2}=72}b2=72\u221236{\\displaystyle b^{2}=72-36}b2=36{\\displaystyle b^{2}=36}b2=36{\\displaystyle {\\sqrt {b^{2}}}={\\sqrt {36}}}b=6{\\displaystyle b=6}So, the base of the second triangle, and the second missing section of the bottom base of the trapezoid, is 6 cm. Add up all the side lengths of the trapezoid. The perimeter of any polygon is the sum of all sides: P=T+B+L+R{\\displaystyle P=T+B+L+R}. For the bottom base, you will add the bottom side of the rectangle, plus the bases of the two triangles. For example, 6+(8.5639+6+6)+10.4566+8.4854=45.5059{\\displaystyle 6+(8.5639+6+6)+10.4566+8.4854=45.5059}So, the approximate perimeter of your trapezoid is 45.5059 cm.",
+    "sentences": [
+        " If You Know the Length of Both Sides and Bases Set up the formula for perimeter of a trapezoid.",
+        "The formula is P=T+B+L+R{\\displaystyle P=T+B+L+R}, where P{\\displaystyle P} equals the perimeter of the trapezoid, and the variables T{\\displaystyle T} equals the length of the top base of the trapezoid, B{\\displaystyle B} equals the length of the bottom base, L{\\displaystyle L} equals the length of the left side, and R{\\displaystyle R} equals the length of the right side.",
+        "Plug the side lengths into the formula.",
+        "If you do not know the length of all four sides of the trapezoid, you cannot use this formula.",
+        "For example, if you have a trapezoid with a top base of 2 cm, a bottom base of 3 cm, and two side lengths of 1 cm, your formula will look like this:P=2+3+1+1{\\displaystyle P=2+3+1+1} Add the side lengths together.",
+        "This will give you the perimeter of your trapezoid.",
+        "For example:P=2+3+1+1{\\displaystyle P=2+3+1+1}P=7{\\displaystyle P=7}So, the perimeter of the trapezoid is 7 cm.",
+        "If You Know the Height, Both Side Lengths, and Top Base Length Divide the trapezoid into a rectangle and two right triangles.",
+        "To do this, draw the height from both top vertices.",
+        "If you cannot form two right triangles because one side of the trapezoid is perpendicular to the base, just note that this side will have the same measurement as the height, and divide the trapezoid into one rectangle and one right triangle.",
+        "Label each height line.",
+        "Since these are opposite sides of a rectangle, they will be the same length.",
+        "For example, if you have a trapezoid with a height of 6 cm, you should draw a line from each top vertex extending down to the bottom base.",
+        "Label each line 6 cm.",
+        "Label the length of the middle section of the bottom base.",
+        "(This is the bottom side of the rectangle.)",
+        "The length will equal the length of the top base (the top side of the rectangle), because opposite sides of a rectangle are of equal length.",
+        "If you do not know the length of the top base, you cannot use this method.",
+        "For example, if the top base of the trapezoid is 6 cm, then the middle section of the bottom base is also 6 cm.",
+        "Set up the Pythagorean Theorem formula for the first right triangle.",
+        "The formula is a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}, where c{\\displaystyle c} is the length of the hypotenuse of the right triangle (the side opposite the right angle), a{\\displaystyle a} is the height of the right triangle, and b{\\displaystyle b} is the length of the base of the triangle.",
+        "Plug the known values from the first triangle into the formula.",
+        "Make sure you plug in the side length of the trapezoid for c{\\displaystyle c}.",
+        "Plug in the height of the trapezoid for a{\\displaystyle a}.",
+        "For example, if you know the height of the trapezoid is 6 cm, and the length of the side (hypotenuse) is 9 cm, your equation will look like this:62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}} Square the known values in the equation.",
+        "Then, subtract to isolate the b{\\displaystyle b} variable.",
+        "For example, if the equation is 62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}, you would square 6 and 9, then subtract the square of 6 from the square of 9:62+b2=92{\\displaystyle 6^{2}+b^{2}=9^{2}}36+b2=81{\\displaystyle 36+b^{2}=81}b2=45{\\displaystyle b^{2}=45} Take the square root to find the value of b{\\displaystyle b}.",
+        "(For complete instructions on how to simplify square roots, you can read Simplify a Square Root.)",
+        "The result will give you the value of the missing base of your first right triangle.",
+        "Label this length on the base of your triangle.",
+        "For example:b2=45{\\displaystyle b^{2}=45}b=45{\\displaystyle b={\\sqrt {45}}}b=45{\\displaystyle b={\\sqrt {45}}}b=35{\\displaystyle b=3{\\sqrt {5}}}So, you should label 35{\\displaystyle 3{\\sqrt {5}}} on the base of your first triangle.",
+        "Find the missing length of the second right triangle.",
+        "To do this, set up the Pythagorean Theorem formula for the second triangle, and follow the steps to find the length of the missing side.",
+        "If you are working with an isosceles trapezoid, which is a trapezoid in which the two non-parallel sides are the same length, the two right triangles are congruent, so you can simply carry the value from the first triangle over to the second triangle.",
+        "For example, if the second side of the trapezoid is 7 cm, you would calculate:a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}62+b2=72{\\displaystyle 6^{2}+b^{2}=7^{2}}36+b2=49{\\displaystyle 36+b^{2}=49}b2=13{\\displaystyle b^{2}=13}b=13{\\displaystyle b={\\sqrt {13}}}So, you should label 13{\\displaystyle {\\sqrt {13}}} on the base of your second triangle.",
+        "Add up all the side lengths of the trapezoid.",
+        "The perimeter of any polygon is the sum of all sides: P=T+B+L+R{\\displaystyle P=T+B+L+R}.",
+        "For the bottom base, you will add the bottom side of the rectangle, plus the bases of the two triangles.",
+        "You will likely have square roots in your answer.",
+        "For complete instructions on how to add square roots, you can read the article Add Square Roots.",
+        "You can also use a calculator to convert the square roots to decimals.",
+        "For example, 6+(6+35+13)+9+7=28+35+13{\\displaystyle 6+(6+3{\\sqrt {5}}+{\\sqrt {13}})+9+7=28+3{\\sqrt {5}}+{\\sqrt {13}}}Converting the square roots to decimals, you have 6+(6+6.708+3.606)+9+7=38.314{\\displaystyle 6+(6+6.708+3.606)+9+7=38.314}So, the approximate perimeter of your trapezoid is 38.314 cm.",
+        "If You Know the Height, Length of Top Base, and Bottom Interior Angles Divide the trapezoid into a rectangle and two right triangles.",
+        "To do this, draw the height from both top vertices.",
+        "If you cannot form two right triangles because one side of the trapezoid is perpendicular to the base, just note that this side will have the same measurement as the height, and divide the trapezoid into one rectangle and one right triangle.",
+        "Label each height line.",
+        "Since these are opposite sides of a rectangle, they will be the same length.",
+        "For example, if you have a trapezoid with a height of 6 cm, you should draw a line from each top vertex extending down to the bottom base.",
+        "Label each line 6 cm.",
+        "Label the length of the middle section of the bottom base.",
+        "(This is the bottom side of the rectangle.)",
+        "This length will be equal to the length of the top base, because opposite sides of a rectangle are of equal length.",
+        "For example, if the top base of the trapezoid is 6 cm, then the middle section of the bottom base is also 6 cm.",
+        "Set up the sine ratio for the first right triangle.",
+        "The ratio is sin\u2061\u03b8=oppositehypotenuse{\\displaystyle \\sin \\theta ={\\frac {\\text{opposite}}{\\text{hypotenuse}}}}, where \u03b8{\\displaystyle \\theta } is the measure of the interior angle, opposite{\\displaystyle {\\text{opposite}}} is the height of the triangle, and hypotenuse{\\displaystyle {\\text{hypotenuse}}} is the length of the hypotenuse.",
+        "Using this ratio will allow you to find the length of the hypotenuse of the triangle, which is also the trapezoid's first side length.",
+        "The hypotenuse is the side across from the 90 degree angle of a right triangle.",
+        "Plug the known values into the sine ratio.",
+        "Make sure you use the height of the triangle as the length of the opposite side in the formula.",
+        "You will solve for H.\nFor example, if the given interior angle is 35 degrees, and the height of the triangle is 6 cm, your formula will look like this:sin\u2061(35)=6H{\\displaystyle \\sin(35)={\\frac {6}{H}}} Find the sine of the angle.",
+        "Do this by using the SIN button on a scientific calculator.",
+        "Plug this value into the ratio.",
+        "For example, by using a calculator you will find that the sine of a 35 degree angle is .5738 (rounded).",
+        "So your formula will now be:.5738=6H{\\displaystyle .5738={\\frac {6}{H}}} Solve for H. To do this, multiply each side by H, then divide each side by the angle sine.",
+        "Or, you can simply divide the height of the triangle by the angle sine.",
+        "For example:.5738=6H{\\displaystyle .5738={\\frac {6}{H}}}.5738H=6{\\displaystyle .5738H=6}.5738H.5738=6.5738{\\displaystyle {\\frac {.5738H}{.5738}}={\\frac {6}{.5738}}}H=10.4566{\\displaystyle H=10.4566}So, the length of the hypotenuse, and the first missing side of the trapezoid, is about 10.4566 cm.",
+        "Find the length of the hypotenuse of the second right triangle.",
+        "Set up the sine ratio (sin\u2061\u03b8=oppositehypotenuse{\\displaystyle \\sin \\theta ={\\frac {\\text{opposite}}{\\text{hypotenuse}}}}) for the second given interior angle.",
+        "This will give you the length of the hypotenuse, which is also the first side of the trapezoid.",
+        "For example, if the given interior angle is 45 degrees, you would calculate:sin\u2061(45)=6H{\\displaystyle \\sin(45)={\\frac {6}{H}}}.7071=6H{\\displaystyle .7071={\\frac {6}{H}}}.7071H=6{\\displaystyle .7071H=6}.7071H.7071=6.7071{\\displaystyle {\\frac {.7071H}{.7071}}={\\frac {6}{.7071}}}H=8.4854{\\displaystyle H=8.4854}So, the length of the hypotenuse, and the second missing side of the trapezoid, is about 8.4854 cm.",
+        "Set up the Pythagorean Theorem formula for the first right triangle.",
+        "The Pythagorean Theorem formula is a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}, where the length of the hypotenuse is c{\\displaystyle c}, and the height of the triangle is a{\\displaystyle a}.",
+        "Plug the known values into the Pythagorean Theorem for the first right triangle.",
+        "Make sure you plug in the hypotenuse length for c{\\displaystyle c} and the height for a{\\displaystyle a}.",
+        "For example, if the first right triangle has a hypotenuse of 10.4566, and a height of 6, your formula will be:62+b2=10.45662{\\displaystyle 6^{2}+b^{2}=10.4566^{2}} Solve for b{\\displaystyle b}.",
+        "This will give you the length of base of the first right triangle, and the first missing section of the trapezoid\u2019s bottom base.",
+        "For example:62+b2=10.45662{\\displaystyle 6^{2}+b^{2}=10.4566^{2}}36+b2=109.3405{\\displaystyle 36+b^{2}=109.3405}b2=109.3405\u221236{\\displaystyle b^{2}=109.3405-36}b2=73.3405{\\displaystyle b^{2}=73.3405}b2=73.3405{\\displaystyle {\\sqrt {b^{2}}}={\\sqrt {73.3405}}}b=8.5639{\\displaystyle b=8.5639}So, the base of the triangle, and the first missing section of the bottom base of the trapezoid, is about 8.5639 cm.",
+        "Find the length of the missing base of the second right triangle.",
+        "Use the Pythagorean Theorem formula (a2+b2=c2{\\displaystyle a^{2}+b^{2}=c^{2}}) to do this.",
+        "Plug in the length of the hypotenuse for c{\\displaystyle c}, and the height for a{\\displaystyle a}.",
+        "Solving for b{\\displaystyle b} will give you the length of the second missing section of the trapezoid\u2019s bottom base.",
+        "For example, if the second right triangle has a hypotenuse of 8.4854, and a height of 6, you would calculate:62+b2=8.48542{\\displaystyle 6^{2}+b^{2}=8.4854^{2}}36+b2=72{\\displaystyle 36+b^{2}=72}b2=72\u221236{\\displaystyle b^{2}=72-36}b2=36{\\displaystyle b^{2}=36}b2=36{\\displaystyle {\\sqrt {b^{2}}}={\\sqrt {36}}}b=6{\\displaystyle b=6}So, the base of the second triangle, and the second missing section of the bottom base of the trapezoid, is 6 cm.",
+        "Add up all the side lengths of the trapezoid.",
+        "The perimeter of any polygon is the sum of all sides: P=T+B+L+R{\\displaystyle P=T+B+L+R}.",
+        "For the bottom base, you will add the bottom side of the rectangle, plus the bases of the two triangles.",
+        "For example, 6+(8.5639+6+6)+10.4566+8.4854=45.5059{\\displaystyle 6+(8.5639+6+6)+10.4566+8.4854=45.5059}So, the approximate perimeter of your trapezoid is 45.5059 cm."
+    ]
+}

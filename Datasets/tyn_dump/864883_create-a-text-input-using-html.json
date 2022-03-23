@@ -1,0 +1,55 @@
+{
+    "title": "How to Create a Text Input Using HTML",
+    "url": "https://www.wikihow.com/Create-a-Text-Input-Using-HTML",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Internet",
+        "Website and Blog Creation",
+        "Markup Languages",
+        "HTML"
+    ],
+    "steps": [
+        {
+            "headline": "Create an HTML page.",
+            "description": "To do that, open up Notepad or any other plain text editor. On Windows, you can access Notepad via the Start Menu, at: \"Accessories\", then \"Notepad\". Or, use the Windows key + R, then type notepad and press enter."
+        },
+        {
+            "headline": "Put in the code.",
+            "description": "Write the normal tags (<html><head></head><body></body></html>), and it should look like:"
+        },
+        {
+            "headline": "Now that you have the base code, you're ready to make a form to hold the text box and then make the text box.",
+            "description": "Between the two body tags, (<body> and </body>), type: <form name=\"test\">. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f6\\/Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f6\\/Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nNext the actual input element, type: <input type=\"text\" name=\"textie\">. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/5f\\/Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5f\\/Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nFinally, close the form tag, type: </form>. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/13\\/Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/13\\/Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Save the page.",
+            "description": "Click \"File\", \"Save As\", and then save it as test.html. Or, save it as anything.html."
+        },
+        {
+            "headline": "Open up the window and see your new text box!",
+            "description": "Using JavaScript, now you could make the text box do something in conjunction with a button! If you want to put some text before the input box to explain what it is, do so before the <input> tag."
+        }
+    ],
+    "tyn": [
+        "Any text editor",
+        "Browser"
+    ],
+    "text": " Create an HTML page. To do that, open up Notepad or any other plain text editor. On Windows, you can access Notepad via the Start Menu, at: \"Accessories\", then \"Notepad\". Or, use the Windows key + R, then type notepad and press enter. Put in the code. Write the normal tags (<html><head></head><body></body></html>), and it should look like: Now that you have the base code, you're ready to make a form to hold the text box and then make the text box. Between the two body tags, (<body> and </body>), type: <form name=\"test\">. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f6\\/Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f6\\/Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nNext the actual input element, type: <input type=\"text\" name=\"textie\">. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/5f\\/Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5f\\/Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nFinally, close the form tag, type: </form>. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/13\\/Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/13\\/Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Save the page. Click \"File\", \"Save As\", and then save it as test.html. Or, save it as anything.html. Open up the window and see your new text box! Using JavaScript, now you could make the text box do something in conjunction with a button! If you want to put some text before the input box to explain what it is, do so before the <input> tag.",
+    "sentences": [
+        " Create an HTML page.",
+        "To do that, open up Notepad or any other plain text editor.",
+        "On Windows, you can access Notepad via the Start Menu, at: \"Accessories\", then \"Notepad\".",
+        "Or, use the Windows key + R, then type notepad and press enter.",
+        "Put in the code.",
+        "Write the normal tags (<html><head></head><body></body></html>), and it should look like: Now that you have the base code, you're ready to make a form to hold the text box and then make the text box.",
+        "Between the two body tags, (<body> and </body>), type: <form name=\"test\">.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f6\\/Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f6\\/Create-a-Text-Input-Using-HTML-Step-3Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nNext the actual input element, type: <input type=\"text\" name=\"textie\">.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/5f\\/Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5f\\/Create-a-Text-Input-Using-HTML-Step-3Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nFinally, close the form tag, type: </form>.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/13\\/Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\\/v4-460px-Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/13\\/Create-a-Text-Input-Using-HTML-Step-3Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.51063829787233,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Save the page.",
+        "Click \"File\", \"Save As\", and then save it as test.html.",
+        "Or, save it as anything.html.",
+        "Open up the window and see your new text box!",
+        "Using JavaScript, now you could make the text box do something in conjunction with a button!",
+        "If you want to put some text before the input box to explain what it is, do so before the <input> tag."
+    ]
+}

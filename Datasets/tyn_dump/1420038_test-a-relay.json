@@ -1,0 +1,139 @@
+{
+    "title": "How to Test a Relay",
+    "url": "https://www.wikihow.com/Test-a-Relay",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Home Maintenance",
+        "Electrical Maintenance"
+    ],
+    "methods": [
+        {
+            "name": "Getting Started",
+            "steps": [
+                {
+                    "headline": "Consult the relay schematic or data sheet.",
+                    "description": "Relays have fairly standard pin configurations, but it is best to search for the data sheets to find out more about the number of pins from the manufacturer, if available. Typically, these will be printed on the relay. Information on current and voltage ratings, pin configurations, and other information is sometimes available in the datasheets will be invaluable in testing, and eliminate most errors associated with testing. Testing pins randomly without knowing the pin configuration is possible, but if the relay is damaged, results may be unpredictable. Some relays, depending on their size, may also have this information printed directly on the body of the relay as well."
+                },
+                {
+                    "headline": "Do a basic visual inspection of the relay.",
+                    "description": "Many relays have a clear plastic shell containing the coil and contacts. Visible damage (melting, blackening, etc) will help narrow down the issue. Most modern relays have an LED to tell you if they are in the active state (ON). If that light is off and you've got control voltage to the relay or coil terminals (typically A1[line] and A2 [common]) then you can safely assume that relay is bad."
+                },
+                {
+                    "headline": "Disconnect the power source.",
+                    "description": "Any electrical work should be done with all power sources disconnected, including batteries and line voltage. Be especially mindful of capacitors in the circuit, as they can hold a charge for a considerable length of time after removing the power source. Do not short capacitor terminals to discharge. It is best to check your local laws before performing any electrical work, and if you feel unsafe, leave it to the professionals. Extra low voltage work typically will not fall under this requirement, but it's still important to be safe."
+                }
+            ]
+        },
+        {
+            "name": "Testing Coil Relays",
+            "steps": [
+                {
+                    "headline": "Determine the coil requirements of the relay.",
+                    "description": "The manufacturer's part number should be listed on the case of the relay. Look up the applicable data sheet and determine the voltage and current requirements of the control coil. This also may be printed on the case of larger relays."
+                },
+                {
+                    "headline": "Find out if the control coil is diode protected.",
+                    "description": "A diode around the pole is often used to protect the logic circuitry from damage due to noise spikes. The diode will be shown on drawings as a triangle with a bar across one corner of the triangle. The bar will be connected to the input, or positive connection, of the control coil."
+                },
+                {
+                    "headline": "Assess the contact configuration of the relay.",
+                    "description": "This will also be available from the manufacturer's data sheet, or may be printed on the case of larger relays. Relays may have one or more poles, indicated in drawings by a single line switch connected to a pin of the relay. Each pole may have a normally open (NO) and or normally closed (NC) contact. The drawings will indicate these contacts as connections with a pin on the relay. The relay drawings will show each pole as either touching the pin, indicating a NC contact, or not touching the pin, indicating a NO contact."
+                },
+                {
+                    "headline": "Test the de-energized condition of the relay contacts.",
+                    "description": "Use a digital multimeter (DMM) to test the resistance between each pole of the relay and the corresponding NC and NO contacts for that pole. All NC contacts should read 0 ohms to the corresponding pole. All NO contacts should read infinite resistance to the corresponding pole."
+                },
+                {
+                    "headline": "Energize the relay.",
+                    "description": "Use an independent voltage source appropriate for the rating of the relay coil. If the relay coil is diode protected, make sure that the independent voltage source is connected with the proper polarity. Listen for a click when the relay is energized."
+                },
+                {
+                    "headline": "Check the energized condition of the relay contacts.",
+                    "description": "Use a digital multimeter (DMM) to test the resistance between each pole of the relay and the corresponding NC and NO contacts for that pole. All NC contacts should read infinite resistance to the corresponding pole. All NO contacts should read 0 ohms to the corresponding pole."
+                }
+            ]
+        },
+        {
+            "name": "Testing Solid-State Relays",
+            "steps": [
+                {
+                    "headline": "Use an ohmmeter to check solid-state relays.",
+                    "description": "When solid-state relays start to short, they will almost always fail. Solid-state relays should be checked with an ohmmeter across the normally open (N.O.) terminals when control power is off. The relays should be open, switched to OL, and closed (0.2 , the internal resistance of the ohmmeter) when control power is applied."
+                },
+                {
+                    "headline": "Use a multi-meter in diode-test mode to confirm your findings.",
+                    "description": "You can further confirm that the relay is bad by taking a multi-meter, put it in diode test and checking across A1(+) and A2(-). The meter will apply a small voltage to make the semiconductor conduct and read that voltage on the screen. This will check the (typically NPN) transistor from the base(P) to the... emitter. If its bad, the meter will read 0 or OL, but if the relay is good it will read 0.7 for a silicon transistor (which almost all of them are) or 0.5 for a germanium transistor (which are relatively rare but not unheard of)."
+                },
+                {
+                    "headline": "Keep SSRs cool.",
+                    "description": "Solid-state relays are easy to troubleshoot, cheap to replace and last a long time if they stay cool. Typically, new relays come in DIN rail packages and block mountings. There is also a special type of relay called an SCR that comes in two flavors for heating wires and IR lamps and ovens, usually for exquisite process temperature control. This is basically a fast switch on a much faster switch that can turn off and on, which fail often due to temperature fluctuations."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Voltage source",
+        "Digital multimeter (DMM)"
+    ],
+    "text": " Getting Started Consult the relay schematic or data sheet. Relays have fairly standard pin configurations, but it is best to search for the data sheets to find out more about the number of pins from the manufacturer, if available. Typically, these will be printed on the relay. Information on current and voltage ratings, pin configurations, and other information is sometimes available in the datasheets will be invaluable in testing, and eliminate most errors associated with testing. Testing pins randomly without knowing the pin configuration is possible, but if the relay is damaged, results may be unpredictable. Some relays, depending on their size, may also have this information printed directly on the body of the relay as well. Do a basic visual inspection of the relay. Many relays have a clear plastic shell containing the coil and contacts. Visible damage (melting, blackening, etc) will help narrow down the issue. Most modern relays have an LED to tell you if they are in the active state (ON). If that light is off and you've got control voltage to the relay or coil terminals (typically A1[line] and A2 [common]) then you can safely assume that relay is bad. Disconnect the power source. Any electrical work should be done with all power sources disconnected, including batteries and line voltage. Be especially mindful of capacitors in the circuit, as they can hold a charge for a considerable length of time after removing the power source. Do not short capacitor terminals to discharge. It is best to check your local laws before performing any electrical work, and if you feel unsafe, leave it to the professionals. Extra low voltage work typically will not fall under this requirement, but it's still important to be safe. Testing Coil Relays Determine the coil requirements of the relay. The manufacturer's part number should be listed on the case of the relay. Look up the applicable data sheet and determine the voltage and current requirements of the control coil. This also may be printed on the case of larger relays. Find out if the control coil is diode protected. A diode around the pole is often used to protect the logic circuitry from damage due to noise spikes. The diode will be shown on drawings as a triangle with a bar across one corner of the triangle. The bar will be connected to the input, or positive connection, of the control coil. Assess the contact configuration of the relay. This will also be available from the manufacturer's data sheet, or may be printed on the case of larger relays. Relays may have one or more poles, indicated in drawings by a single line switch connected to a pin of the relay. Each pole may have a normally open (NO) and or normally closed (NC) contact. The drawings will indicate these contacts as connections with a pin on the relay. The relay drawings will show each pole as either touching the pin, indicating a NC contact, or not touching the pin, indicating a NO contact. Test the de-energized condition of the relay contacts. Use a digital multimeter (DMM) to test the resistance between each pole of the relay and the corresponding NC and NO contacts for that pole. All NC contacts should read 0 ohms to the corresponding pole. All NO contacts should read infinite resistance to the corresponding pole. Energize the relay. Use an independent voltage source appropriate for the rating of the relay coil. If the relay coil is diode protected, make sure that the independent voltage source is connected with the proper polarity. Listen for a click when the relay is energized. Check the energized condition of the relay contacts. Use a digital multimeter (DMM) to test the resistance between each pole of the relay and the corresponding NC and NO contacts for that pole. All NC contacts should read infinite resistance to the corresponding pole. All NO contacts should read 0 ohms to the corresponding pole. Testing Solid-State Relays Use an ohmmeter to check solid-state relays. When solid-state relays start to short, they will almost always fail. Solid-state relays should be checked with an ohmmeter across the normally open (N.O.) terminals when control power is off. The relays should be open, switched to OL, and closed (0.2 , the internal resistance of the ohmmeter) when control power is applied. Use a multi-meter in diode-test mode to confirm your findings. You can further confirm that the relay is bad by taking a multi-meter, put it in diode test and checking across A1(+) and A2(-). The meter will apply a small voltage to make the semiconductor conduct and read that voltage on the screen. This will check the (typically NPN) transistor from the base(P) to the... emitter. If its bad, the meter will read 0 or OL, but if the relay is good it will read 0.7 for a silicon transistor (which almost all of them are) or 0.5 for a germanium transistor (which are relatively rare but not unheard of). Keep SSRs cool. Solid-state relays are easy to troubleshoot, cheap to replace and last a long time if they stay cool. Typically, new relays come in DIN rail packages and block mountings. There is also a special type of relay called an SCR that comes in two flavors for heating wires and IR lamps and ovens, usually for exquisite process temperature control. This is basically a fast switch on a much faster switch that can turn off and on, which fail often due to temperature fluctuations.",
+    "sentences": [
+        " Getting Started Consult the relay schematic or data sheet.",
+        "Relays have fairly standard pin configurations, but it is best to search for the data sheets to find out more about the number of pins from the manufacturer, if available.",
+        "Typically, these will be printed on the relay.",
+        "Information on current and voltage ratings, pin configurations, and other information is sometimes available in the datasheets will be invaluable in testing, and eliminate most errors associated with testing.",
+        "Testing pins randomly without knowing the pin configuration is possible, but if the relay is damaged, results may be unpredictable.",
+        "Some relays, depending on their size, may also have this information printed directly on the body of the relay as well.",
+        "Do a basic visual inspection of the relay.",
+        "Many relays have a clear plastic shell containing the coil and contacts.",
+        "Visible damage (melting, blackening, etc) will help narrow down the issue.",
+        "Most modern relays have an LED to tell you if they are in the active state (ON).",
+        "If that light is off and you've got control voltage to the relay or coil terminals (typically A1[line] and A2 [common]) then you can safely assume that relay is bad.",
+        "Disconnect the power source.",
+        "Any electrical work should be done with all power sources disconnected, including batteries and line voltage.",
+        "Be especially mindful of capacitors in the circuit, as they can hold a charge for a considerable length of time after removing the power source.",
+        "Do not short capacitor terminals to discharge.",
+        "It is best to check your local laws before performing any electrical work, and if you feel unsafe, leave it to the professionals.",
+        "Extra low voltage work typically will not fall under this requirement, but it's still important to be safe.",
+        "Testing Coil Relays Determine the coil requirements of the relay.",
+        "The manufacturer's part number should be listed on the case of the relay.",
+        "Look up the applicable data sheet and determine the voltage and current requirements of the control coil.",
+        "This also may be printed on the case of larger relays.",
+        "Find out if the control coil is diode protected.",
+        "A diode around the pole is often used to protect the logic circuitry from damage due to noise spikes.",
+        "The diode will be shown on drawings as a triangle with a bar across one corner of the triangle.",
+        "The bar will be connected to the input, or positive connection, of the control coil.",
+        "Assess the contact configuration of the relay.",
+        "This will also be available from the manufacturer's data sheet, or may be printed on the case of larger relays.",
+        "Relays may have one or more poles, indicated in drawings by a single line switch connected to a pin of the relay.",
+        "Each pole may have a normally open (NO) and or normally closed (NC) contact.",
+        "The drawings will indicate these contacts as connections with a pin on the relay.",
+        "The relay drawings will show each pole as either touching the pin, indicating a NC contact, or not touching the pin, indicating a NO contact.",
+        "Test the de-energized condition of the relay contacts.",
+        "Use a digital multimeter (DMM) to test the resistance between each pole of the relay and the corresponding NC and NO contacts for that pole.",
+        "All NC contacts should read 0 ohms to the corresponding pole.",
+        "All NO contacts should read infinite resistance to the corresponding pole.",
+        "Energize the relay.",
+        "Use an independent voltage source appropriate for the rating of the relay coil.",
+        "If the relay coil is diode protected, make sure that the independent voltage source is connected with the proper polarity.",
+        "Listen for a click when the relay is energized.",
+        "Check the energized condition of the relay contacts.",
+        "Use a digital multimeter (DMM) to test the resistance between each pole of the relay and the corresponding NC and NO contacts for that pole.",
+        "All NC contacts should read infinite resistance to the corresponding pole.",
+        "All NO contacts should read 0 ohms to the corresponding pole.",
+        "Testing Solid-State Relays Use an ohmmeter to check solid-state relays.",
+        "When solid-state relays start to short, they will almost always fail.",
+        "Solid-state relays should be checked with an ohmmeter across the normally open (N.O.)",
+        "terminals when control power is off.",
+        "The relays should be open, switched to OL, and closed (0.2 , the internal resistance of the ohmmeter) when control power is applied.",
+        "Use a multi-meter in diode-test mode to confirm your findings.",
+        "You can further confirm that the relay is bad by taking a multi-meter, put it in diode test and checking across A1(+) and A2(-).",
+        "The meter will apply a small voltage to make the semiconductor conduct and read that voltage on the screen.",
+        "This will check the (typically NPN) transistor from the base(P) to the... emitter.",
+        "If its bad, the meter will read 0 or OL, but if the relay is good it will read 0.7 for a silicon transistor (which almost all of them are) or 0.5 for a germanium transistor (which are relatively rare but not unheard of).",
+        "Keep SSRs cool.",
+        "Solid-state relays are easy to troubleshoot, cheap to replace and last a long time if they stay cool.",
+        "Typically, new relays come in DIN rail packages and block mountings.",
+        "There is also a special type of relay called an SCR that comes in two flavors for heating wires and IR lamps and ovens, usually for exquisite process temperature control.",
+        "This is basically a fast switch on a much faster switch that can turn off and on, which fail often due to temperature fluctuations."
+    ]
+}

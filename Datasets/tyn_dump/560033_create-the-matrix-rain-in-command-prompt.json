@@ -1,0 +1,70 @@
+{
+    "title": "How to Create the Matrix Rain in Command Prompt",
+    "url": "https://www.wikihow.com/Create-the-Matrix-Rain-in-Command-Prompt",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Command Prompt"
+    ],
+    "steps": [
+        {
+            "headline": "Run Notepad.",
+            "description": ""
+        },
+        {
+            "headline": "Type the following lines of text in the Notepad screen:",
+            "description": "echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%. goto start"
+        },
+        {
+            "headline": "Click \"File\" and then \"Save As.\"",
+            "description": "Save your file as a Batch file: \"Matrix.bat\"."
+        },
+        {
+            "headline": "Run the batch file as administrator.",
+            "description": ""
+        },
+        {
+            "headline": "To enlarge screen right click on the command prompt.",
+            "description": ""
+        },
+        {
+            "headline": "Click on properties.",
+            "description": ""
+        },
+        {
+            "headline": "Click on Layout tab.",
+            "description": ""
+        },
+        {
+            "headline": "On the window size section, enter the resolution of your monitor.",
+            "description": ""
+        },
+        {
+            "headline": "Click ok to apply changes.",
+            "description": ""
+        },
+        {
+            "headline": "Type CTRL-C and type \"y\" to terminate the program.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "Windows OS",
+        "Notepad"
+    ],
+    "text": " Run Notepad.  Type the following lines of text in the Notepad screen: echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%. goto start Click \"File\" and then \"Save As.\" Save your file as a Batch file: \"Matrix.bat\". Run the batch file as administrator.  To enlarge screen right click on the command prompt.  Click on properties.  Click on Layout tab.  On the window size section, enter the resolution of your monitor.  Click ok to apply changes.  Type CTRL-C and type \"y\" to terminate the program. ",
+    "sentences": [
+        " Run Notepad.",
+        "Type the following lines of text in the Notepad screen: echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%.",
+        "goto start Click \"File\" and then \"Save As.\"",
+        "Save your file as a Batch file: \"Matrix.bat\".",
+        "Run the batch file as administrator.",
+        "To enlarge screen right click on the command prompt.",
+        "Click on properties.",
+        "Click on Layout tab.",
+        "On the window size section, enter the resolution of your monitor.",
+        "Click ok to apply changes.",
+        "Type CTRL-C and type \"y\" to terminate the program."
+    ]
+}

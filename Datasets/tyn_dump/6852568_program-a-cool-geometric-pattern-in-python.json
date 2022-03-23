@@ -1,0 +1,145 @@
+{
+    "title": "How to Program a Cool Geometric Pattern in Python",
+    "url": "https://www.wikihow.com/Program-a-Cool-Geometric-Pattern-in-Python",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Programming",
+        "Python"
+    ],
+    "steps": [
+        {
+            "headline": "Download the Python compiler.",
+            "description": "Be sure to download version 2.7."
+        },
+        {
+            "headline": "Open the Python shell.",
+            "description": "Go under the Python 2.7 folder and click on \u201cIDLE (python GUI). It should pop up with a python shell like this."
+        },
+        {
+            "headline": "Start a new file from the shell.",
+            "description": "In the upper left hand corner click file and on the drop down click on \u201cNew File\u201d. This will open an untitled file where you will write your program."
+        },
+        {
+            "headline": "Import Turtle Graphics.",
+            "description": "To be able to use turtle graphics you need to import them to your program. You this in the first line of your code. You simply type \u201cfrom turtle import *\u201d like so. To give your program randomly generated colors, on the next line you need to type \u201cimport random\u201d."
+        },
+        {
+            "headline": "Create a screen in your program.",
+            "description": "To have graphics in your program you have to create a screen for them to be displayed in. You do this by creating a variable (it is best to name the variable screen) and setting it equal to the function \u201cScreen()\u201d. The screen size also needs to be set. On the next line you take the variable name you made for your screen and use the screensize function. For example: screen.screensize(400,400,\u201dblack\u201d). Inside the parentheses is setting the height, width, and background color of the screen."
+        },
+        {
+            "headline": "Create a pen to draw the geometric pattern.",
+            "description": "Much like the previous step with the screen you set a variable (best named pen to save confusion) equal to the function \u201cPen()\u201d. On the next line you set the speed of the pen using the speed function in the same fashion as the last step, however instead of using \u201c.screensize\u201d you use \u201c.speed\u201d. Inside the parentheses you set the speed (to create the pattern quickly, try setting the speed to 75)."
+        },
+        {
+            "headline": "Create a variable later to be used as the size of a square.",
+            "description": "The cool geometric pattern that you get in this program is made from many squares being drawn in the screen. You need to create a variable named \u201csize\u201d and equal it to 20 which will be used to set the size of these squares"
+        },
+        {
+            "headline": "Create a for loop.",
+            "description": "To get the desired geometric pattern you need to keep the pen creating squares, you do this through repetition which is what a for loop is for. This is done by writing on the next line of code \u201cfor i in range(150): \u201c. What this does is setup the program to run something 150 times, for this case it will be used for drawing squares 150 times which will result in a cool geometric pattern. (All steps after creating the for loop will need to be inside the for loop. This is done simply by hitting the tab key and indenting. However it should automatically do this for you after creating the loop.)"
+        },
+        {
+            "headline": "Prepare a random color.",
+            "description": "To give the pattern randomly generated colors you need to do the following. On the next line create a variable named \u201cr\u201d and set it equal to \u201crandom.randint(0,225). Repeat this step two more times using the variable names \u201cg\u201d and \u201cb\u201d."
+        },
+        {
+            "headline": "Store the random color.",
+            "description": "Now that there are three variables generating random numbers you need to store them in a variable. In the next line of code make a variable named \u201crandcol\u201d and set it equal to \u201c(r,g,b)\u201d ."
+        },
+        {
+            "headline": "Allow the program to use color.",
+            "description": "To give your program access to colors you have run the color function. To run the color function all you need to do is type on the next line of code \u201ccolormode(255)\u201d and move on to the next line."
+        },
+        {
+            "headline": "Set the color.",
+            "description": "Using the pen you created earlier you will set its color. You do this by writing \u201cpen.color(randcol)\u201d. This will now give your pen a random color when it draws out the pattern."
+        },
+        {
+            "headline": "Give the pen instructions.",
+            "description": "To get the desired effect you will need to type \u201cpen.circle(size,steps = 4)\u201d. In step 7 you created a variable \u201csize\u201d which is used here. Then the \u201csteps = 4\u201d part is what creates the square."
+        },
+        {
+            "headline": "Turn the pen.",
+            "description": "The cool pattern comes from turning the pen in every iteration of the loop. You turn the pen by writing on the next line of code \u201cpen.right(55)\u201d. This makes the pen turn right at 55 degrees every time through the loop."
+        },
+        {
+            "headline": "Increase the size of the square.",
+            "description": "Part of the cool pattern is that the square keeps getting bigger. You do this by writing the last line of code \u201csize = size +3\u201d. So every time through the loop it increases the size of the square by 3."
+        },
+        {
+            "headline": "Run the program.",
+            "description": "Your program should look like it does here. To see the cool geometric pattern all you have to do is hit \u201cf5\u201d on your keyboard."
+        }
+    ],
+    "tyn": [
+        "Computer",
+        "Python compiler"
+    ],
+    "text": " Download the Python compiler. Be sure to download version 2.7. Open the Python shell. Go under the Python 2.7 folder and click on \u201cIDLE (python GUI). It should pop up with a python shell like this. Start a new file from the shell. In the upper left hand corner click file and on the drop down click on \u201cNew File\u201d. This will open an untitled file where you will write your program. Import Turtle Graphics. To be able to use turtle graphics you need to import them to your program. You this in the first line of your code. You simply type \u201cfrom turtle import *\u201d like so. To give your program randomly generated colors, on the next line you need to type \u201cimport random\u201d. Create a screen in your program. To have graphics in your program you have to create a screen for them to be displayed in. You do this by creating a variable (it is best to name the variable screen) and setting it equal to the function \u201cScreen()\u201d. The screen size also needs to be set. On the next line you take the variable name you made for your screen and use the screensize function. For example: screen.screensize(400,400,\u201dblack\u201d). Inside the parentheses is setting the height, width, and background color of the screen. Create a pen to draw the geometric pattern. Much like the previous step with the screen you set a variable (best named pen to save confusion) equal to the function \u201cPen()\u201d. On the next line you set the speed of the pen using the speed function in the same fashion as the last step, however instead of using \u201c.screensize\u201d you use \u201c.speed\u201d. Inside the parentheses you set the speed (to create the pattern quickly, try setting the speed to 75). Create a variable later to be used as the size of a square. The cool geometric pattern that you get in this program is made from many squares being drawn in the screen. You need to create a variable named \u201csize\u201d and equal it to 20 which will be used to set the size of these squares Create a for loop. To get the desired geometric pattern you need to keep the pen creating squares, you do this through repetition which is what a for loop is for. This is done by writing on the next line of code \u201cfor i in range(150): \u201c. What this does is setup the program to run something 150 times, for this case it will be used for drawing squares 150 times which will result in a cool geometric pattern. (All steps after creating the for loop will need to be inside the for loop. This is done simply by hitting the tab key and indenting. However it should automatically do this for you after creating the loop.) Prepare a random color. To give the pattern randomly generated colors you need to do the following. On the next line create a variable named \u201cr\u201d and set it equal to \u201crandom.randint(0,225). Repeat this step two more times using the variable names \u201cg\u201d and \u201cb\u201d. Store the random color. Now that there are three variables generating random numbers you need to store them in a variable. In the next line of code make a variable named \u201crandcol\u201d and set it equal to \u201c(r,g,b)\u201d . Allow the program to use color. To give your program access to colors you have run the color function. To run the color function all you need to do is type on the next line of code \u201ccolormode(255)\u201d and move on to the next line. Set the color. Using the pen you created earlier you will set its color. You do this by writing \u201cpen.color(randcol)\u201d. This will now give your pen a random color when it draws out the pattern. Give the pen instructions. To get the desired effect you will need to type \u201cpen.circle(size,steps = 4)\u201d. In step 7 you created a variable \u201csize\u201d which is used here. Then the \u201csteps = 4\u201d part is what creates the square. Turn the pen. The cool pattern comes from turning the pen in every iteration of the loop. You turn the pen by writing on the next line of code \u201cpen.right(55)\u201d. This makes the pen turn right at 55 degrees every time through the loop. Increase the size of the square. Part of the cool pattern is that the square keeps getting bigger. You do this by writing the last line of code \u201csize = size +3\u201d. So every time through the loop it increases the size of the square by 3. Run the program. Your program should look like it does here. To see the cool geometric pattern all you have to do is hit \u201cf5\u201d on your keyboard.",
+    "sentences": [
+        " Download the Python compiler.",
+        "Be sure to download version 2.7.",
+        "Open the Python shell.",
+        "Go under the Python 2.7 folder and click on \u201cIDLE (python GUI).",
+        "It should pop up with a python shell like this.",
+        "Start a new file from the shell.",
+        "In the upper left hand corner click file and on the drop down click on \u201cNew File\u201d.",
+        "This will open an untitled file where you will write your program.",
+        "Import Turtle Graphics.",
+        "To be able to use turtle graphics you need to import them to your program.",
+        "You this in the first line of your code.",
+        "You simply type \u201cfrom turtle import *\u201d like so.",
+        "To give your program randomly generated colors, on the next line you need to type \u201cimport random\u201d.",
+        "Create a screen in your program.",
+        "To have graphics in your program you have to create a screen for them to be displayed in.",
+        "You do this by creating a variable (it is best to name the variable screen) and setting it equal to the function \u201cScreen()\u201d.",
+        "The screen size also needs to be set.",
+        "On the next line you take the variable name you made for your screen and use the screensize function.",
+        "For example: screen.screensize(400,400,\u201dblack\u201d).",
+        "Inside the parentheses is setting the height, width, and background color of the screen.",
+        "Create a pen to draw the geometric pattern.",
+        "Much like the previous step with the screen you set a variable (best named pen to save confusion) equal to the function \u201cPen()\u201d.",
+        "On the next line you set the speed of the pen using the speed function in the same fashion as the last step, however instead of using \u201c.screensize\u201d you use \u201c.speed\u201d.",
+        "Inside the parentheses you set the speed (to create the pattern quickly, try setting the speed to 75).",
+        "Create a variable later to be used as the size of a square.",
+        "The cool geometric pattern that you get in this program is made from many squares being drawn in the screen.",
+        "You need to create a variable named \u201csize\u201d and equal it to 20 which will be used to set the size of these squares Create a for loop.",
+        "To get the desired geometric pattern you need to keep the pen creating squares, you do this through repetition which is what a for loop is for.",
+        "This is done by writing on the next line of code \u201cfor i in range(150): \u201c.",
+        "What this does is setup the program to run something 150 times, for this case it will be used for drawing squares 150 times which will result in a cool geometric pattern.",
+        "(All steps after creating the for loop will need to be inside the for loop.",
+        "This is done simply by hitting the tab key and indenting.",
+        "However it should automatically do this for you after creating the loop.)",
+        "Prepare a random color.",
+        "To give the pattern randomly generated colors you need to do the following.",
+        "On the next line create a variable named \u201cr\u201d and set it equal to \u201crandom.randint(0,225).",
+        "Repeat this step two more times using the variable names \u201cg\u201d and \u201cb\u201d.",
+        "Store the random color.",
+        "Now that there are three variables generating random numbers you need to store them in a variable.",
+        "In the next line of code make a variable named \u201crandcol\u201d and set it equal to \u201c(r,g,b)\u201d .",
+        "Allow the program to use color.",
+        "To give your program access to colors you have run the color function.",
+        "To run the color function all you need to do is type on the next line of code \u201ccolormode(255)\u201d and move on to the next line.",
+        "Set the color.",
+        "Using the pen you created earlier you will set its color.",
+        "You do this by writing \u201cpen.color(randcol)\u201d.",
+        "This will now give your pen a random color when it draws out the pattern.",
+        "Give the pen instructions.",
+        "To get the desired effect you will need to type \u201cpen.circle(size,steps = 4)\u201d.",
+        "In step 7 you created a variable \u201csize\u201d which is used here.",
+        "Then the \u201csteps = 4\u201d part is what creates the square.",
+        "Turn the pen.",
+        "The cool pattern comes from turning the pen in every iteration of the loop.",
+        "You turn the pen by writing on the next line of code \u201cpen.right(55)\u201d.",
+        "This makes the pen turn right at 55 degrees every time through the loop.",
+        "Increase the size of the square.",
+        "Part of the cool pattern is that the square keeps getting bigger.",
+        "You do this by writing the last line of code \u201csize = size +3\u201d.",
+        "So every time through the loop it increases the size of the square by 3.",
+        "Run the program.",
+        "Your program should look like it does here.",
+        "To see the cool geometric pattern all you have to do is hit \u201cf5\u201d on your keyboard."
+    ]
+}

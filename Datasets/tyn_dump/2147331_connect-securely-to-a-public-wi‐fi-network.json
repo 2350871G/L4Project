@@ -1,0 +1,85 @@
+{
+    "title": "How to Connect Securely to a Public Wi\u2010Fi Network",
+    "url": "https://www.wikihow.com/Connect-Securely-to-a-Public-Wi%E2%80%90Fi-Network",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking"
+    ],
+    "steps": [
+        {
+            "headline": "Encrypt your most important files and folders.",
+            "description": "This can take a while, so do it in advance, before leaving for the trip to the publicly-networked location."
+        },
+        {
+            "headline": "Tell Windows that you are using a public network.",
+            "description": "If you're using Windows Vista or a newer OS, the Windows Firewall has been set up so that it will ask you what type of network you are using. Make sure to specify that it's public, so the computer can adjust your settings accordingly. If you use a firewall outside of Windows, make sure you select its settings for a public-network, too."
+        },
+        {
+            "headline": "Take advantage of using the https web address (as opposed to just the regular http address).",
+            "description": "Adding an s to the address bar will help encrypt the transferred data between the source server and your computer's browser, and also helps to prohibit peering eyes (behind the scenes) from seeing the same data that is transmitting back. For example, Facebook has set up a special https connection for your use. However, it is turned off by default."
+        },
+        {
+            "headline": "Be mindful of what networks you connect to.",
+            "description": "Ensure the Wi-Fi hotspots name matches the business. If you're sitting at an airport, and you notice the network is named \"ineedabeer\", it's probably not the airport's official public network. If you don't trust the source, avoid connecting to it or run an anti-spyware/anti-virus (anti-malware) software package on your PC. If in question, go up to a employee and ask them which network is the correct one to use."
+        },
+        {
+            "headline": "Disconnect from the Wi-Fi connections network and turn off Wi-Fi, once you are finished using it.",
+            "description": "This will prevent your device from automatically connecting to that network automatically the next time you come within range of the business."
+        },
+        {
+            "headline": "Run a Virtual Private Network on your PC.",
+            "description": "VPNs hide your real VPN and replace it with other more random IP addresses from the provider. VPNs can add a connection in another country to protect the user from tracking. Some VPNs are free while others are paid, so watch for a hidden cost. The NSA could still watch the connection if it notices weak passwords were used or the end location can be compromised. If you can afford it, pay for a VPN and choose more local connections near your current country. The distance between the VPN and the country is a trade-off between paid and free VPNs. Make sure the provider is open and trust about their data storage policies. Some like to keep the user's data while others discard the data once the user signs out of the VPN. Be mindful if a website or other instance requires location data while using the VPN. VPNs will let you get around location restrictions when companies require location data to be provided."
+        },
+        {
+            "headline": "Look over your shoulder to see if there are any people watching as you type a secure entry into a web form.",
+            "description": ""
+        },
+        {
+            "headline": "Buy and use a laptop lock to secure your laptop to a hard-based item while you take a quick break (such as to use the restrooms).",
+            "description": "They can be purchased at most electronics and office-supply stores. If you must leave your laptop while you run to the bathroom, check in with an employee to ask them to watch over it - and keep in mind that this doesn't mean they'll be legally responsible if it does get stolen. If you want complete security, pack it up and bring it with you."
+        }
+    ],
+    "tyn": [
+        "Public Wi-Fi location",
+        "computer (notebook or tablet or small-touchscreen device)",
+        "laptop lock",
+        "computer firewall/security protection turned on and updated",
+        "VPN (optional)"
+    ],
+    "text": " Encrypt your most important files and folders. This can take a while, so do it in advance, before leaving for the trip to the publicly-networked location. Tell Windows that you are using a public network. If you're using Windows Vista or a newer OS, the Windows Firewall has been set up so that it will ask you what type of network you are using. Make sure to specify that it's public, so the computer can adjust your settings accordingly. If you use a firewall outside of Windows, make sure you select its settings for a public-network, too. Take advantage of using the https web address (as opposed to just the regular http address). Adding an s to the address bar will help encrypt the transferred data between the source server and your computer's browser, and also helps to prohibit peering eyes (behind the scenes) from seeing the same data that is transmitting back. For example, Facebook has set up a special https connection for your use. However, it is turned off by default. Be mindful of what networks you connect to. Ensure the Wi-Fi hotspots name matches the business. If you're sitting at an airport, and you notice the network is named \"ineedabeer\", it's probably not the airport's official public network. If you don't trust the source, avoid connecting to it or run an anti-spyware/anti-virus (anti-malware) software package on your PC. If in question, go up to a employee and ask them which network is the correct one to use. Disconnect from the Wi-Fi connections network and turn off Wi-Fi, once you are finished using it. This will prevent your device from automatically connecting to that network automatically the next time you come within range of the business. Run a Virtual Private Network on your PC. VPNs hide your real VPN and replace it with other more random IP addresses from the provider. VPNs can add a connection in another country to protect the user from tracking. Some VPNs are free while others are paid, so watch for a hidden cost. The NSA could still watch the connection if it notices weak passwords were used or the end location can be compromised. If you can afford it, pay for a VPN and choose more local connections near your current country. The distance between the VPN and the country is a trade-off between paid and free VPNs. Make sure the provider is open and trust about their data storage policies. Some like to keep the user's data while others discard the data once the user signs out of the VPN. Be mindful if a website or other instance requires location data while using the VPN. VPNs will let you get around location restrictions when companies require location data to be provided. Look over your shoulder to see if there are any people watching as you type a secure entry into a web form.  Buy and use a laptop lock to secure your laptop to a hard-based item while you take a quick break (such as to use the restrooms). They can be purchased at most electronics and office-supply stores. If you must leave your laptop while you run to the bathroom, check in with an employee to ask them to watch over it - and keep in mind that this doesn't mean they'll be legally responsible if it does get stolen. If you want complete security, pack it up and bring it with you.",
+    "sentences": [
+        " Encrypt your most important files and folders.",
+        "This can take a while, so do it in advance, before leaving for the trip to the publicly-networked location.",
+        "Tell Windows that you are using a public network.",
+        "If you're using Windows Vista or a newer OS, the Windows Firewall has been set up so that it will ask you what type of network you are using.",
+        "Make sure to specify that it's public, so the computer can adjust your settings accordingly.",
+        "If you use a firewall outside of Windows, make sure you select its settings for a public-network, too.",
+        "Take advantage of using the https web address (as opposed to just the regular http address).",
+        "Adding an s to the address bar will help encrypt the transferred data between the source server and your computer's browser, and also helps to prohibit peering eyes (behind the scenes) from seeing the same data that is transmitting back.",
+        "For example, Facebook has set up a special https connection for your use.",
+        "However, it is turned off by default.",
+        "Be mindful of what networks you connect to.",
+        "Ensure the Wi-Fi hotspots name matches the business.",
+        "If you're sitting at an airport, and you notice the network is named \"ineedabeer\", it's probably not the airport's official public network.",
+        "If you don't trust the source, avoid connecting to it or run an anti-spyware/anti-virus (anti-malware) software package on your PC.",
+        "If in question, go up to a employee and ask them which network is the correct one to use.",
+        "Disconnect from the Wi-Fi connections network and turn off Wi-Fi, once you are finished using it.",
+        "This will prevent your device from automatically connecting to that network automatically the next time you come within range of the business.",
+        "Run a Virtual Private Network on your PC.",
+        "VPNs hide your real VPN and replace it with other more random IP addresses from the provider.",
+        "VPNs can add a connection in another country to protect the user from tracking.",
+        "Some VPNs are free while others are paid, so watch for a hidden cost.",
+        "The NSA could still watch the connection if it notices weak passwords were used or the end location can be compromised.",
+        "If you can afford it, pay for a VPN and choose more local connections near your current country.",
+        "The distance between the VPN and the country is a trade-off between paid and free VPNs.",
+        "Make sure the provider is open and trust about their data storage policies.",
+        "Some like to keep the user's data while others discard the data once the user signs out of the VPN.",
+        "Be mindful if a website or other instance requires location data while using the VPN.",
+        "VPNs will let you get around location restrictions when companies require location data to be provided.",
+        "Look over your shoulder to see if there are any people watching as you type a secure entry into a web form.",
+        "Buy and use a laptop lock to secure your laptop to a hard-based item while you take a quick break (such as to use the restrooms).",
+        "They can be purchased at most electronics and office-supply stores.",
+        "If you must leave your laptop while you run to the bathroom, check in with an employee to ask them to watch over it - and keep in mind that this doesn't mean they'll be legally responsible if it does get stolen.",
+        "If you want complete security, pack it up and bring it with you."
+    ]
+}

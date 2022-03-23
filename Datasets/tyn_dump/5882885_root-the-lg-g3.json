@@ -1,0 +1,182 @@
+{
+    "title": "How to Root the LG G3",
+    "url": "https://www.wikihow.com/Root-the-LG-G3",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Telephones",
+        "Smartphones",
+        "Android"
+    ],
+    "methods": [
+        {
+            "name": "For Verizon Phones Patched Below 10F",
+            "steps": [
+                {
+                    "headline": "Download the LG Drivers for the phone.",
+                    "description": "This will allow ADB to function."
+                },
+                {
+                    "headline": "Enable USB Debugging from the Developer Menu.",
+                    "description": "If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode."
+                },
+                {
+                    "headline": "Download IOroot.",
+                    "description": "You can get it by either Googling it or heading to XDA Developers."
+                },
+                {
+                    "headline": "Extract the archive to your computer.",
+                    "description": "You should have a folder labeled \"ioroot\" on your hard disk."
+                },
+                {
+                    "headline": "Run the corresponding IOroot file for your OS.",
+                    "description": "This will bring you into IOroot."
+                },
+                {
+                    "headline": "Accept the RSA fingerprint prompt on your phone.",
+                    "description": "This will allow the ADB process to connect."
+                },
+                {
+                    "headline": "Follow IOroot's instructions.",
+                    "description": "It will automatically complete the root process and will reboot your phone."
+                },
+                {
+                    "headline": "Download and install SuperSU from the Play Store.",
+                    "description": "This is necessary as it will install su into the /bin folder. After installation, it'll ask you to reboot. Do so."
+                },
+                {
+                    "headline": "Download a root checker application to verify root access is granted.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "For AT&T, Korean, and International Versions",
+            "steps": [
+                {
+                    "headline": "Download Towelroot.",
+                    "description": "It is an APK file so just simply download it to your phone."
+                },
+                {
+                    "headline": "Enable Installation from Unknown Sources.",
+                    "description": "This will be under Settings -> Security."
+                },
+                {
+                    "headline": "Install the Towelroot APK.",
+                    "description": ""
+                },
+                {
+                    "headline": "Run the TowelRoot APK and click \"make it ra1n\".",
+                    "description": "It should successfully root your phone."
+                },
+                {
+                    "headline": "Reboot your phone and confirm that it successfully reboots.",
+                    "description": ""
+                },
+                {
+                    "headline": "Download and install SuperSU from the Play Store.",
+                    "description": "This is necessary as Towelroot simply installs the root binaries. After installation, it'll ask you to reboot again. Do so."
+                },
+                {
+                    "headline": "Download a root checker application to verify root access is granted.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "For T-Mobile, Sprint, and All Others Below 10R",
+            "steps": [
+                {
+                    "headline": "Download the LG Drivers for the phone.",
+                    "description": "This will allow ADB to function."
+                },
+                {
+                    "headline": "Enable USB Debugging from the Developer Menu.",
+                    "description": "If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode."
+                },
+                {
+                    "headline": "Connect your phone to your computer.",
+                    "description": ""
+                },
+                {
+                    "headline": "Download PurpleDrake.",
+                    "description": "It will download a zip file. Extract this and open it."
+                },
+                {
+                    "headline": "Run the PurpleDrake executable.",
+                    "description": "For Linux, don't forget to chmod +x purpledrake_linux.sh."
+                },
+                {
+                    "headline": "Follow the on-screen prompts.",
+                    "description": "Your phone will ask you to allow a connection with a RSA fingerprint. Click OK on your phone and PurpleDrake will continue."
+                },
+                {
+                    "headline": "Download and install SuperSU from the Play Store.",
+                    "description": "This is necessary as PurpleDrake doesn't come with it. After installation, it'll ask you to reboot. Do so."
+                },
+                {
+                    "headline": "Download a root checker application to verify root access is granted.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "IOroot (For Verizon versions of the G3)",
+        "TowelRoot (For AT&T version, Korean model, and international version)",
+        "PurpleDrake (For all others, including T-Mobile and Sprint)",
+        "LG Drivers for your PC (If you use Verizon, download the Verizon drivers)"
+    ],
+    "text": " For Verizon Phones Patched Below 10F Download the LG Drivers for the phone. This will allow ADB to function. Enable USB Debugging from the Developer Menu. If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode. Download IOroot. You can get it by either Googling it or heading to XDA Developers. Extract the archive to your computer. You should have a folder labeled \"ioroot\" on your hard disk. Run the corresponding IOroot file for your OS. This will bring you into IOroot. Accept the RSA fingerprint prompt on your phone. This will allow the ADB process to connect. Follow IOroot's instructions. It will automatically complete the root process and will reboot your phone. Download and install SuperSU from the Play Store. This is necessary as it will install su into the /bin folder. After installation, it'll ask you to reboot. Do so. Download a root checker application to verify root access is granted.  For AT&T, Korean, and International Versions Download Towelroot. It is an APK file so just simply download it to your phone. Enable Installation from Unknown Sources. This will be under Settings -> Security. Install the Towelroot APK.  Run the TowelRoot APK and click \"make it ra1n\". It should successfully root your phone. Reboot your phone and confirm that it successfully reboots.  Download and install SuperSU from the Play Store. This is necessary as Towelroot simply installs the root binaries. After installation, it'll ask you to reboot again. Do so. Download a root checker application to verify root access is granted.  For T-Mobile, Sprint, and All Others Below 10R Download the LG Drivers for the phone. This will allow ADB to function. Enable USB Debugging from the Developer Menu. If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode. Connect your phone to your computer.  Download PurpleDrake. It will download a zip file. Extract this and open it. Run the PurpleDrake executable. For Linux, don't forget to chmod +x purpledrake_linux.sh. Follow the on-screen prompts. Your phone will ask you to allow a connection with a RSA fingerprint. Click OK on your phone and PurpleDrake will continue. Download and install SuperSU from the Play Store. This is necessary as PurpleDrake doesn't come with it. After installation, it'll ask you to reboot. Do so. Download a root checker application to verify root access is granted. ",
+    "sentences": [
+        " For Verizon Phones Patched Below 10F Download the LG Drivers for the phone.",
+        "This will allow ADB to function.",
+        "Enable USB Debugging from the Developer Menu.",
+        "If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode.",
+        "Download IOroot.",
+        "You can get it by either Googling it or heading to XDA Developers.",
+        "Extract the archive to your computer.",
+        "You should have a folder labeled \"ioroot\" on your hard disk.",
+        "Run the corresponding IOroot file for your OS.",
+        "This will bring you into IOroot.",
+        "Accept the RSA fingerprint prompt on your phone.",
+        "This will allow the ADB process to connect.",
+        "Follow IOroot's instructions.",
+        "It will automatically complete the root process and will reboot your phone.",
+        "Download and install SuperSU from the Play Store.",
+        "This is necessary as it will install su into the /bin folder.",
+        "After installation, it'll ask you to reboot.",
+        "Do so.",
+        "Download a root checker application to verify root access is granted.",
+        "For AT&T, Korean, and International Versions Download Towelroot.",
+        "It is an APK file so just simply download it to your phone.",
+        "Enable Installation from Unknown Sources.",
+        "This will be under Settings -> Security.",
+        "Install the Towelroot APK.",
+        "Run the TowelRoot APK and click \"make it ra1n\".",
+        "It should successfully root your phone.",
+        "Reboot your phone and confirm that it successfully reboots.",
+        "Download and install SuperSU from the Play Store.",
+        "This is necessary as Towelroot simply installs the root binaries.",
+        "After installation, it'll ask you to reboot again.",
+        "Do so.",
+        "Download a root checker application to verify root access is granted.",
+        "For T-Mobile, Sprint, and All Others Below 10R Download the LG Drivers for the phone.",
+        "This will allow ADB to function.",
+        "Enable USB Debugging from the Developer Menu.",
+        "If you don't already have the Developer Menu enabled, tap Build Number 7 times to enable Developer Mode.",
+        "Connect your phone to your computer.",
+        "Download PurpleDrake.",
+        "It will download a zip file.",
+        "Extract this and open it.",
+        "Run the PurpleDrake executable.",
+        "For Linux, don't forget to chmod +x purpledrake_linux.sh.",
+        "Follow the on-screen prompts.",
+        "Your phone will ask you to allow a connection with a RSA fingerprint.",
+        "Click OK on your phone and PurpleDrake will continue.",
+        "Download and install SuperSU from the Play Store.",
+        "This is necessary as PurpleDrake doesn't come with it.",
+        "After installation, it'll ask you to reboot.",
+        "Do so.",
+        "Download a root checker application to verify root access is granted."
+    ]
+}

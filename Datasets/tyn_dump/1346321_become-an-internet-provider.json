@@ -1,0 +1,337 @@
+{
+    "title": "How to Become an Internet Provider",
+    "url": "https://www.wikihow.com/Become-an-Internet-Provider",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking"
+    ],
+    "parts": [
+        {
+            "name": "Finding a Location for Your Service",
+            "steps": [
+                {
+                    "headline": "Find a suitable building to house the ISP\u2019s data center.",
+                    "description": "The ideal spot for your data center is the upper floor of a tall building. By setting up your service in a high location, your antenna\u2019s wireless signal travels further. The data center also needs to be serviced by fiber Internet cables. You will need to use these cables to set up your service. Look for data centers in your area. Ask to rent space on the roof for your equipment. Some data centers also sell a strong Internet connection called Dedicated Internet Access you can use instead of fiber cables to power your business. To find out where fiber cables are, search for fiber optic Internet providers in your area. Ask them about their network and if it reaches your potential data center. Also, speak with the building\u2019s property owner and any other tenants for more information. If the data center location isn\u2019t near quality fiber lines, you will need to pay an Internet service provider for an installation. Doing this is expensive, so you are better off finding a place that already has a good upstream fiber connection."
+                },
+                {
+                    "headline": "Search for other high spots to install your relays.",
+                    "description": "These high spots relay your ISP signal from the data center to your customers. Drive around your neighborhood and use online maps to identify potential spots to lease. Radio towers, water towers, hills, mountains, tall buildings, and even some homes are great spots to consider. Visit these locations in person to get a good view of the scenery. You need to be able to see your customer\u2019s home from the tower or else the signal won\u2019t reach them. Hills, trees, and other buildings may make this difficult. Aim on servicing about 50 customers for each relay tower. Expect to lose money if you put relays in areas without many homes. Big ISPs avoid rural communities for this reason. Relay towers spread wireless signals. To create faster Internet connections when towers are far apart, you can lay fiber optic cables in the ground. Creating a fiber optic network is extremely expensive, so most people stick to wireless technology."
+                },
+                {
+                    "headline": "Negotiate leases for your data center and relays.",
+                    "description": "You will need to rent space for each piece of the network you plan on setting up, so prepare to do a lot of negotiating. Track down property owners by visiting or by searching through public records. Then, ask the owner to let you install your ISP equipment. Expect to pay $100 to $500 a month for each lease. Tracking down property owners can be difficult. You may also need to look for alternative spots to place your relays. Use your network for bargaining. Promise to give property owners free Internet. Most people will give you a lower monthly lease for your trouble."
+                },
+                {
+                    "headline": "Set up an upstream fiber connection with an Internet provider.",
+                    "description": "Research upstream companies in your area to compare prices. Try to get a service that operates at 1 gigabit per second. A fast connection like this allows you to create an Internet service for 500 to 800 customers. Setup takes about 90 days and fiber service costs $1,000 to $3,000 per month. If you were unable to find a building that already had fiber cable service, the Internet provider will need to come out and run cables to your data center. Wiring a building often costs over $15,000 USD. Most ISP services have 2 to 5 upstream connections in order to provide a quick, consistent service."
+                }
+            ]
+        },
+        {
+            "name": "Buying Provider Equipment",
+            "steps": [
+                {
+                    "headline": "Purchase access point equipment for each relay point.",
+                    "description": "Count the number of relay locations you chose, then begin shopping for routers or switches. These components allow users to connect to your network. Switches are less expensive than routers, but routers have a lot more features. Routers and switches are available at many electronics stores. They\u2019re also available through online suppliers. Basic versions start at around $50, but larger, faster boxes often cost several hundred dollars. Routers are used to connect networks. You can use a router to create a network of customers in a single area. Each customer connects to your network through a unique IP address that is easy to track. Routers work better for Wi-Fi systems than switches. Switches are better for single-network systems. If you\u2019re creating a small ISP operation in a single area, switches may be a better choice than routers. Each user gets a separate MAC address. Switches work better with wired connections."
+                },
+                {
+                    "headline": "Buy customer-premises equipment (CPE) to install on customer homes.",
+                    "description": "A CPE fits on a customer\u2019s roof, connecting to the closest access point router or switch. Every customer has to have a CPE to connect to your ISP service. The CPE connects to a switch or router inside the customer's home. Search low-cost online suppliers like Ubiquiti, MicroTalk, and Mimosa for CPE devices and antennae. A basic satellite antenna costs around $100. More expensive versions typically give your a stronger Internet signal with more range. Keep in mind the kind of roof your customer is likely to have. Every CPE satellite is different. Many satellites attach to the roof through bolted mounts, but you can\u2019t drill into a flat roof without damaging it. Get a weighted, non-penetrating mount for a flat roof. Most companies that sell access point equipment also sell CPE's and backhauls. Shop with the same company, if possible, to get better customer support during the installation."
+                },
+                {
+                    "headline": "Select wireless backhauls to help spread your wireless signal.",
+                    "description": "Wireless backhauls help customers connect to your relay points. They help transmit data from your customers to your network. Use backhauls to connect to customers your routers and switches can\u2019t normally reach. Look for backhauls from online suppliers like Siklu and Bridgewave. A good wireless device typically costs $200 or more. Install backhauls the same way you would install a router or switch. Fit wireless backhauls on top of towers, buildings, and other high areas to improve your network\u2019s quality."
+                },
+                {
+                    "headline": "Get customer management software to track your network.",
+                    "description": "A good ISP needs a user-friendly way to answer questions, track data usage, send bills, and other tasks. To make this easy, choose a system that has all the features you need. There are many options out there, including some free ones. Install the program on a computer at your data center to track your network and troubleshoot it when something goes wrong. An example of a comprehensive program is UCRM. It is a free program that handles billing, network support, and other features. It is available at https://ucrm.ui.com/."
+                }
+            ]
+        },
+        {
+            "name": "Building Your Network",
+            "steps": [
+                {
+                    "headline": "Install a router in your data center for your upstream connection.",
+                    "description": "The router needs to work with the fiber connection installed by the telecom company you chose. Plug it in, then begin configuring it with the settings given to you by your fiber provider. Enable the network address translation (NAT) and dynamic host configuration protocol (DHCP) options so customers can connect to your service. Test the router by connecting it to a computer. If you installed it correctly, your computer will be able to go online. The setup process varies from router to router. Consult your fiber provider for troubleshooting. Setting up a new network is often tricky. If you\u2019re not familiar with how networks operate, consider hiring an IT specialist to help get your network online."
+                },
+                {
+                    "headline": "Mount antennas at relay points to amplify your ISP signal.",
+                    "description": "Place an antenna on top of your data center to send out your ISP signal, then do the same at each relay point. You will need to climb up to the relay point and fit the antennae in place with mounts. The type of mount you use depends on the relay site you chose. Make sure each antenna points towards your customers and not at one another. For flat surfaces, choose a weighted mount. This type of mount doesn\u2019t screw into the surface, so it doesn\u2019t cause damage. For other types of surfaces, choose a regular mount or wall mount secured with lag bolts. Installing antennas is dangerous. You need tall ladders, cranes, safety harnesses, and other gear. Consider hiring a professional installer to set up the hardware."
+                },
+                {
+                    "headline": "Hang access points and backhauls on your antenna.",
+                    "description": "Use weatherproof metal clamps to hold these features in place. Tighten the clamps so that they keep the equipment secure to the antenna\u2019s mast. Position these components so they face out towards your customers. These components communicate with your customers\u2019 home network, so make sure they are secure on the underside of the antennae. Don\u2019t face them towards your data center."
+                },
+                {
+                    "headline": "Run cables from the access points to network switches.",
+                    "description": "Set the router or switch in a waterproof area, such as a wire box in the ground or near a building. Choose outdoor-rated, shielded CAT5e cables to ensure your ISP stays up and running long-term. Plug in the cables to turn on your access points. Loop the ends of the cables to keep water from dripping down them. Consider getting an electrician to for a safe, sustainable installation."
+                }
+            ]
+        },
+        {
+            "name": "Wiring a Customer\u2019s Home",
+            "steps": [
+                {
+                    "headline": "Mount a CPE on your customer\u2019s home.",
+                    "description": "Take a look around the installation site to figure out what kind of roof your customer has. Then, choose a bracket that works well on that kind of roof. Get a weighted mount for a flat roof. Try using a lag screw mount to install an antenna on a pitched roof. Point the antenna towards the nearest relay point when you\u2019re done. The mounting location depends on many factors. For example, find out where you can run a cable into the home. Make sure the mounting location is in view of the closest relay antenna."
+                },
+                {
+                    "headline": "Drill a hole into the home if you need it for wiring.",
+                    "description": "Find the best spot to run a wire from the CPE to your user\u2019s network equipment. To do this, use a stud finder to locate the beams holding the wall upright. Position the hole at least 3 in (7.6 cm) from the studs. Using a masonry bit 18 in (46 cm) long and \u20448 in (0.95 cm) in diameter, drill all the way through the wall. Look for spots other ISPs, telephone companies, and cable companies used to get wires into the home. You may be able to use these spots to wire the equipment without drilling. Be aware of any live wires in the wall. Use a stud finder with AC wire detection to identify problems to avoid with your drill. Always ask your customer before installing or drilling anything. Explain the installation process to them. Get their approval."
+                },
+                {
+                    "headline": "Run weatherproof cables from the CPE into your customer\u2019s home.",
+                    "description": "Use the same CAT5e cables you used at your relay points. Keep the cable tight against the home by securing it to the gutter with zip ties or cable clips. Bring the cable down the wall, then thread it through the hole you drilled. Have a friend help with the cable to make the installation much easier. Instruct them to look for the cable and fish it out while you push it into the hole you drilled."
+                },
+                {
+                    "headline": "Connect the antenna cable to a switch or router.",
+                    "description": "Power over Ethernet (PoE) switches are the easiest devices to hook up inside homes. You will need to plug the antenna cable into a wall jack. Then, use a shielded patch cable to plug the switch or router into the jack. Connect the switch or router to a wall outlet to power it. For simpler installations, provide routers and modems for your customers. If you don\u2019t do this, tell customers what devices are compatible with your service. Each customer will need to get their own modem to enable Internet access and their own router to enable Wi-Fi."
+                },
+                {
+                    "headline": "Connect a laptop to the switch to finish the installation.",
+                    "description": "If you installed the antenna correctly, you will be able to detect your ISP signal through your computer\u2019s software. Use the software to install antenna firmware updates, change the access password, and set the customer\u2019s unique IP address. Before locking the antenna in place, use the software to adjust its positioning to receive your network\u2019s signal as much as possible. Test the Internet connection before you leave. Log into the Internet on your laptop. Make sure the connection is fast and stable."
+                }
+            ]
+        },
+        {
+            "name": "Setting up an ISP Business",
+            "steps": [
+                {
+                    "headline": "Create a business plan to organize your goals and finances.",
+                    "description": "A comprehensive business plan keeps you organized as you set up your ISP. In a good business plan, you describe your goals as an ISP, how you will provide service to customers, and how much you will charge for it. Also, describe how much money you need to start, how many employees you will hire, and how you will deal with problems like maintenance issues. You need a good plan if you intend on selling your service as an ISP. While you don\u2019t need it for a private service, having a plan is still useful. Banks look for good business plans when giving out loans. Since becoming an ISP is expensive, have a good plan to secure funding."
+                },
+                {
+                    "headline": "Check your local rules for setting up a new ISP.",
+                    "description": "Every country in the world has its own unique rules determining how ISPs operate. States and cities may also create their own guidelines, so be sure to visit the closest government office for advice. In many places, you can set up your own ISP without much legal trouble. Keep in mind that national ISPs operate in most areas. In some countries,  you may not even be allowed to set up a new ISP business."
+                },
+                {
+                    "headline": "Get a business license from the government if you plan on selling your service.",
+                    "description": "Submit your licensing application to your government\u2019s business office. Get the application on your government\u2019s website or by visiting them in person. You will need to list your business\u2019 name, what it does, and how it operates. Then, wait 1 to 2 months to receive your license in the mail. You do not need to get a business license if you aren\u2019t selling your service to customers. Chances are no one will bother you if you set up a service only for you and people you know."
+                },
+                {
+                    "headline": "Market your Internet service to potential customers.",
+                    "description": "Most people already have an ISP. To compete with existing businesses, begin advertising. Purchase ads on local TV, buy ad space in newspapers and magazines, and send flyers to customers near your relay towers. Also, go door to door to explain what your service has to offer. Expect people to stick with their old ISP. Even if they aren\u2019t happy with their ISP, they may not feel motivated enough to make a change. Focus on the customers you have to grow your business."
+                },
+                {
+                    "headline": "Maintain your equipment to keep your service running.",
+                    "description": "Refer to your customer management program to keep tabs on your service. Cables and other equipment wear out over time. Sometimes components get damaged from bad weather, animals, or other accidents. Make repairs and buy new equipment as needed to keep your business profitable. If you have a good network tracking system, it will show you when something goes wrong with your network. Send out a technician as soon as possible for a repair."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Data center",
+        "Relay stations",
+        "Quality fiber upstream connection",
+        "Antennae",
+        "Antenna mounts",
+        "Routers or switches",
+        "Wireless backhauls",
+        "Weatherproof electric cables",
+        "Customer-premises equipment",
+        "Zip ties and clamps"
+    ],
+    "text": " Finding a Location for Your Service Find a suitable building to house the ISP\u2019s data center. The ideal spot for your data center is the upper floor of a tall building. By setting up your service in a high location, your antenna\u2019s wireless signal travels further. The data center also needs to be serviced by fiber Internet cables. You will need to use these cables to set up your service. Look for data centers in your area. Ask to rent space on the roof for your equipment. Some data centers also sell a strong Internet connection called Dedicated Internet Access you can use instead of fiber cables to power your business. To find out where fiber cables are, search for fiber optic Internet providers in your area. Ask them about their network and if it reaches your potential data center. Also, speak with the building\u2019s property owner and any other tenants for more information. If the data center location isn\u2019t near quality fiber lines, you will need to pay an Internet service provider for an installation. Doing this is expensive, so you are better off finding a place that already has a good upstream fiber connection. Search for other high spots to install your relays. These high spots relay your ISP signal from the data center to your customers. Drive around your neighborhood and use online maps to identify potential spots to lease. Radio towers, water towers, hills, mountains, tall buildings, and even some homes are great spots to consider. Visit these locations in person to get a good view of the scenery. You need to be able to see your customer\u2019s home from the tower or else the signal won\u2019t reach them. Hills, trees, and other buildings may make this difficult. Aim on servicing about 50 customers for each relay tower. Expect to lose money if you put relays in areas without many homes. Big ISPs avoid rural communities for this reason. Relay towers spread wireless signals. To create faster Internet connections when towers are far apart, you can lay fiber optic cables in the ground. Creating a fiber optic network is extremely expensive, so most people stick to wireless technology. Negotiate leases for your data center and relays. You will need to rent space for each piece of the network you plan on setting up, so prepare to do a lot of negotiating. Track down property owners by visiting or by searching through public records. Then, ask the owner to let you install your ISP equipment. Expect to pay $100 to $500 a month for each lease. Tracking down property owners can be difficult. You may also need to look for alternative spots to place your relays. Use your network for bargaining. Promise to give property owners free Internet. Most people will give you a lower monthly lease for your trouble. Set up an upstream fiber connection with an Internet provider. Research upstream companies in your area to compare prices. Try to get a service that operates at 1 gigabit per second. A fast connection like this allows you to create an Internet service for 500 to 800 customers. Setup takes about 90 days and fiber service costs $1,000 to $3,000 per month. If you were unable to find a building that already had fiber cable service, the Internet provider will need to come out and run cables to your data center. Wiring a building often costs over $15,000 USD. Most ISP services have 2 to 5 upstream connections in order to provide a quick, consistent service. Buying Provider Equipment Purchase access point equipment for each relay point. Count the number of relay locations you chose, then begin shopping for routers or switches. These components allow users to connect to your network. Switches are less expensive than routers, but routers have a lot more features. Routers and switches are available at many electronics stores. They\u2019re also available through online suppliers. Basic versions start at around $50, but larger, faster boxes often cost several hundred dollars. Routers are used to connect networks. You can use a router to create a network of customers in a single area. Each customer connects to your network through a unique IP address that is easy to track. Routers work better for Wi-Fi systems than switches. Switches are better for single-network systems. If you\u2019re creating a small ISP operation in a single area, switches may be a better choice than routers. Each user gets a separate MAC address. Switches work better with wired connections. Buy customer-premises equipment (CPE) to install on customer homes. A CPE fits on a customer\u2019s roof, connecting to the closest access point router or switch. Every customer has to have a CPE to connect to your ISP service. The CPE connects to a switch or router inside the customer's home. Search low-cost online suppliers like Ubiquiti, MicroTalk, and Mimosa for CPE devices and antennae. A basic satellite antenna costs around $100. More expensive versions typically give your a stronger Internet signal with more range. Keep in mind the kind of roof your customer is likely to have. Every CPE satellite is different. Many satellites attach to the roof through bolted mounts, but you can\u2019t drill into a flat roof without damaging it. Get a weighted, non-penetrating mount for a flat roof. Most companies that sell access point equipment also sell CPE's and backhauls. Shop with the same company, if possible, to get better customer support during the installation. Select wireless backhauls to help spread your wireless signal. Wireless backhauls help customers connect to your relay points. They help transmit data from your customers to your network. Use backhauls to connect to customers your routers and switches can\u2019t normally reach. Look for backhauls from online suppliers like Siklu and Bridgewave. A good wireless device typically costs $200 or more. Install backhauls the same way you would install a router or switch. Fit wireless backhauls on top of towers, buildings, and other high areas to improve your network\u2019s quality. Get customer management software to track your network. A good ISP needs a user-friendly way to answer questions, track data usage, send bills, and other tasks. To make this easy, choose a system that has all the features you need. There are many options out there, including some free ones. Install the program on a computer at your data center to track your network and troubleshoot it when something goes wrong. An example of a comprehensive program is UCRM. It is a free program that handles billing, network support, and other features. It is available at https://ucrm.ui.com/. Building Your Network Install a router in your data center for your upstream connection. The router needs to work with the fiber connection installed by the telecom company you chose. Plug it in, then begin configuring it with the settings given to you by your fiber provider. Enable the network address translation (NAT) and dynamic host configuration protocol (DHCP) options so customers can connect to your service. Test the router by connecting it to a computer. If you installed it correctly, your computer will be able to go online. The setup process varies from router to router. Consult your fiber provider for troubleshooting. Setting up a new network is often tricky. If you\u2019re not familiar with how networks operate, consider hiring an IT specialist to help get your network online. Mount antennas at relay points to amplify your ISP signal. Place an antenna on top of your data center to send out your ISP signal, then do the same at each relay point. You will need to climb up to the relay point and fit the antennae in place with mounts. The type of mount you use depends on the relay site you chose. Make sure each antenna points towards your customers and not at one another. For flat surfaces, choose a weighted mount. This type of mount doesn\u2019t screw into the surface, so it doesn\u2019t cause damage. For other types of surfaces, choose a regular mount or wall mount secured with lag bolts. Installing antennas is dangerous. You need tall ladders, cranes, safety harnesses, and other gear. Consider hiring a professional installer to set up the hardware. Hang access points and backhauls on your antenna. Use weatherproof metal clamps to hold these features in place. Tighten the clamps so that they keep the equipment secure to the antenna\u2019s mast. Position these components so they face out towards your customers. These components communicate with your customers\u2019 home network, so make sure they are secure on the underside of the antennae. Don\u2019t face them towards your data center. Run cables from the access points to network switches. Set the router or switch in a waterproof area, such as a wire box in the ground or near a building. Choose outdoor-rated, shielded CAT5e cables to ensure your ISP stays up and running long-term. Plug in the cables to turn on your access points. Loop the ends of the cables to keep water from dripping down them. Consider getting an electrician to for a safe, sustainable installation. Wiring a Customer\u2019s Home Mount a CPE on your customer\u2019s home. Take a look around the installation site to figure out what kind of roof your customer has. Then, choose a bracket that works well on that kind of roof. Get a weighted mount for a flat roof. Try using a lag screw mount to install an antenna on a pitched roof. Point the antenna towards the nearest relay point when you\u2019re done. The mounting location depends on many factors. For example, find out where you can run a cable into the home. Make sure the mounting location is in view of the closest relay antenna. Drill a hole into the home if you need it for wiring. Find the best spot to run a wire from the CPE to your user\u2019s network equipment. To do this, use a stud finder to locate the beams holding the wall upright. Position the hole at least 3 in (7.6 cm) from the studs. Using a masonry bit 18 in (46 cm) long and \u20448 in (0.95 cm) in diameter, drill all the way through the wall. Look for spots other ISPs, telephone companies, and cable companies used to get wires into the home. You may be able to use these spots to wire the equipment without drilling. Be aware of any live wires in the wall. Use a stud finder with AC wire detection to identify problems to avoid with your drill. Always ask your customer before installing or drilling anything. Explain the installation process to them. Get their approval. Run weatherproof cables from the CPE into your customer\u2019s home. Use the same CAT5e cables you used at your relay points. Keep the cable tight against the home by securing it to the gutter with zip ties or cable clips. Bring the cable down the wall, then thread it through the hole you drilled. Have a friend help with the cable to make the installation much easier. Instruct them to look for the cable and fish it out while you push it into the hole you drilled. Connect the antenna cable to a switch or router. Power over Ethernet (PoE) switches are the easiest devices to hook up inside homes. You will need to plug the antenna cable into a wall jack. Then, use a shielded patch cable to plug the switch or router into the jack. Connect the switch or router to a wall outlet to power it. For simpler installations, provide routers and modems for your customers. If you don\u2019t do this, tell customers what devices are compatible with your service. Each customer will need to get their own modem to enable Internet access and their own router to enable Wi-Fi. Connect a laptop to the switch to finish the installation. If you installed the antenna correctly, you will be able to detect your ISP signal through your computer\u2019s software. Use the software to install antenna firmware updates, change the access password, and set the customer\u2019s unique IP address. Before locking the antenna in place, use the software to adjust its positioning to receive your network\u2019s signal as much as possible. Test the Internet connection before you leave. Log into the Internet on your laptop. Make sure the connection is fast and stable. Setting up an ISP Business Create a business plan to organize your goals and finances. A comprehensive business plan keeps you organized as you set up your ISP. In a good business plan, you describe your goals as an ISP, how you will provide service to customers, and how much you will charge for it. Also, describe how much money you need to start, how many employees you will hire, and how you will deal with problems like maintenance issues. You need a good plan if you intend on selling your service as an ISP. While you don\u2019t need it for a private service, having a plan is still useful. Banks look for good business plans when giving out loans. Since becoming an ISP is expensive, have a good plan to secure funding. Check your local rules for setting up a new ISP. Every country in the world has its own unique rules determining how ISPs operate. States and cities may also create their own guidelines, so be sure to visit the closest government office for advice. In many places, you can set up your own ISP without much legal trouble. Keep in mind that national ISPs operate in most areas. In some countries,  you may not even be allowed to set up a new ISP business. Get a business license from the government if you plan on selling your service. Submit your licensing application to your government\u2019s business office. Get the application on your government\u2019s website or by visiting them in person. You will need to list your business\u2019 name, what it does, and how it operates. Then, wait 1 to 2 months to receive your license in the mail. You do not need to get a business license if you aren\u2019t selling your service to customers. Chances are no one will bother you if you set up a service only for you and people you know. Market your Internet service to potential customers. Most people already have an ISP. To compete with existing businesses, begin advertising. Purchase ads on local TV, buy ad space in newspapers and magazines, and send flyers to customers near your relay towers. Also, go door to door to explain what your service has to offer. Expect people to stick with their old ISP. Even if they aren\u2019t happy with their ISP, they may not feel motivated enough to make a change. Focus on the customers you have to grow your business. Maintain your equipment to keep your service running. Refer to your customer management program to keep tabs on your service. Cables and other equipment wear out over time. Sometimes components get damaged from bad weather, animals, or other accidents. Make repairs and buy new equipment as needed to keep your business profitable. If you have a good network tracking system, it will show you when something goes wrong with your network. Send out a technician as soon as possible for a repair.",
+    "sentences": [
+        " Finding a Location for Your Service Find a suitable building to house the ISP\u2019s data center.",
+        "The ideal spot for your data center is the upper floor of a tall building.",
+        "By setting up your service in a high location, your antenna\u2019s wireless signal travels further.",
+        "The data center also needs to be serviced by fiber Internet cables.",
+        "You will need to use these cables to set up your service.",
+        "Look for data centers in your area.",
+        "Ask to rent space on the roof for your equipment.",
+        "Some data centers also sell a strong Internet connection called Dedicated Internet Access you can use instead of fiber cables to power your business.",
+        "To find out where fiber cables are, search for fiber optic Internet providers in your area.",
+        "Ask them about their network and if it reaches your potential data center.",
+        "Also, speak with the building\u2019s property owner and any other tenants for more information.",
+        "If the data center location isn\u2019t near quality fiber lines, you will need to pay an Internet service provider for an installation.",
+        "Doing this is expensive, so you are better off finding a place that already has a good upstream fiber connection.",
+        "Search for other high spots to install your relays.",
+        "These high spots relay your ISP signal from the data center to your customers.",
+        "Drive around your neighborhood and use online maps to identify potential spots to lease.",
+        "Radio towers, water towers, hills, mountains, tall buildings, and even some homes are great spots to consider.",
+        "Visit these locations in person to get a good view of the scenery.",
+        "You need to be able to see your customer\u2019s home from the tower or else the signal won\u2019t reach them.",
+        "Hills, trees, and other buildings may make this difficult.",
+        "Aim on servicing about 50 customers for each relay tower.",
+        "Expect to lose money if you put relays in areas without many homes.",
+        "Big ISPs avoid rural communities for this reason.",
+        "Relay towers spread wireless signals.",
+        "To create faster Internet connections when towers are far apart, you can lay fiber optic cables in the ground.",
+        "Creating a fiber optic network is extremely expensive, so most people stick to wireless technology.",
+        "Negotiate leases for your data center and relays.",
+        "You will need to rent space for each piece of the network you plan on setting up, so prepare to do a lot of negotiating.",
+        "Track down property owners by visiting or by searching through public records.",
+        "Then, ask the owner to let you install your ISP equipment.",
+        "Expect to pay $100 to $500 a month for each lease.",
+        "Tracking down property owners can be difficult.",
+        "You may also need to look for alternative spots to place your relays.",
+        "Use your network for bargaining.",
+        "Promise to give property owners free Internet.",
+        "Most people will give you a lower monthly lease for your trouble.",
+        "Set up an upstream fiber connection with an Internet provider.",
+        "Research upstream companies in your area to compare prices.",
+        "Try to get a service that operates at 1 gigabit per second.",
+        "A fast connection like this allows you to create an Internet service for 500 to 800 customers.",
+        "Setup takes about 90 days and fiber service costs $1,000 to $3,000 per month.",
+        "If you were unable to find a building that already had fiber cable service, the Internet provider will need to come out and run cables to your data center.",
+        "Wiring a building often costs over $15,000 USD.",
+        "Most ISP services have 2 to 5 upstream connections in order to provide a quick, consistent service.",
+        "Buying Provider Equipment Purchase access point equipment for each relay point.",
+        "Count the number of relay locations you chose, then begin shopping for routers or switches.",
+        "These components allow users to connect to your network.",
+        "Switches are less expensive than routers, but routers have a lot more features.",
+        "Routers and switches are available at many electronics stores.",
+        "They\u2019re also available through online suppliers.",
+        "Basic versions start at around $50, but larger, faster boxes often cost several hundred dollars.",
+        "Routers are used to connect networks.",
+        "You can use a router to create a network of customers in a single area.",
+        "Each customer connects to your network through a unique IP address that is easy to track.",
+        "Routers work better for Wi-Fi systems than switches.",
+        "Switches are better for single-network systems.",
+        "If you\u2019re creating a small ISP operation in a single area, switches may be a better choice than routers.",
+        "Each user gets a separate MAC address.",
+        "Switches work better with wired connections.",
+        "Buy customer-premises equipment (CPE) to install on customer homes.",
+        "A CPE fits on a customer\u2019s roof, connecting to the closest access point router or switch.",
+        "Every customer has to have a CPE to connect to your ISP service.",
+        "The CPE connects to a switch or router inside the customer's home.",
+        "Search low-cost online suppliers like Ubiquiti, MicroTalk, and Mimosa for CPE devices and antennae.",
+        "A basic satellite antenna costs around $100.",
+        "More expensive versions typically give your a stronger Internet signal with more range.",
+        "Keep in mind the kind of roof your customer is likely to have.",
+        "Every CPE satellite is different.",
+        "Many satellites attach to the roof through bolted mounts, but you can\u2019t drill into a flat roof without damaging it.",
+        "Get a weighted, non-penetrating mount for a flat roof.",
+        "Most companies that sell access point equipment also sell CPE's and backhauls.",
+        "Shop with the same company, if possible, to get better customer support during the installation.",
+        "Select wireless backhauls to help spread your wireless signal.",
+        "Wireless backhauls help customers connect to your relay points.",
+        "They help transmit data from your customers to your network.",
+        "Use backhauls to connect to customers your routers and switches can\u2019t normally reach.",
+        "Look for backhauls from online suppliers like Siklu and Bridgewave.",
+        "A good wireless device typically costs $200 or more.",
+        "Install backhauls the same way you would install a router or switch.",
+        "Fit wireless backhauls on top of towers, buildings, and other high areas to improve your network\u2019s quality.",
+        "Get customer management software to track your network.",
+        "A good ISP needs a user-friendly way to answer questions, track data usage, send bills, and other tasks.",
+        "To make this easy, choose a system that has all the features you need.",
+        "There are many options out there, including some free ones.",
+        "Install the program on a computer at your data center to track your network and troubleshoot it when something goes wrong.",
+        "An example of a comprehensive program is UCRM.",
+        "It is a free program that handles billing, network support, and other features.",
+        "It is available at https://ucrm.ui.com/.",
+        "Building Your Network Install a router in your data center for your upstream connection.",
+        "The router needs to work with the fiber connection installed by the telecom company you chose.",
+        "Plug it in, then begin configuring it with the settings given to you by your fiber provider.",
+        "Enable the network address translation (NAT) and dynamic host configuration protocol (DHCP) options so customers can connect to your service.",
+        "Test the router by connecting it to a computer.",
+        "If you installed it correctly, your computer will be able to go online.",
+        "The setup process varies from router to router.",
+        "Consult your fiber provider for troubleshooting.",
+        "Setting up a new network is often tricky.",
+        "If you\u2019re not familiar with how networks operate, consider hiring an IT specialist to help get your network online.",
+        "Mount antennas at relay points to amplify your ISP signal.",
+        "Place an antenna on top of your data center to send out your ISP signal, then do the same at each relay point.",
+        "You will need to climb up to the relay point and fit the antennae in place with mounts.",
+        "The type of mount you use depends on the relay site you chose.",
+        "Make sure each antenna points towards your customers and not at one another.",
+        "For flat surfaces, choose a weighted mount.",
+        "This type of mount doesn\u2019t screw into the surface, so it doesn\u2019t cause damage.",
+        "For other types of surfaces, choose a regular mount or wall mount secured with lag bolts.",
+        "Installing antennas is dangerous.",
+        "You need tall ladders, cranes, safety harnesses, and other gear.",
+        "Consider hiring a professional installer to set up the hardware.",
+        "Hang access points and backhauls on your antenna.",
+        "Use weatherproof metal clamps to hold these features in place.",
+        "Tighten the clamps so that they keep the equipment secure to the antenna\u2019s mast.",
+        "Position these components so they face out towards your customers.",
+        "These components communicate with your customers\u2019 home network, so make sure they are secure on the underside of the antennae.",
+        "Don\u2019t face them towards your data center.",
+        "Run cables from the access points to network switches.",
+        "Set the router or switch in a waterproof area, such as a wire box in the ground or near a building.",
+        "Choose outdoor-rated, shielded CAT5e cables to ensure your ISP stays up and running long-term.",
+        "Plug in the cables to turn on your access points.",
+        "Loop the ends of the cables to keep water from dripping down them.",
+        "Consider getting an electrician to for a safe, sustainable installation.",
+        "Wiring a Customer\u2019s Home Mount a CPE on your customer\u2019s home.",
+        "Take a look around the installation site to figure out what kind of roof your customer has.",
+        "Then, choose a bracket that works well on that kind of roof.",
+        "Get a weighted mount for a flat roof.",
+        "Try using a lag screw mount to install an antenna on a pitched roof.",
+        "Point the antenna towards the nearest relay point when you\u2019re done.",
+        "The mounting location depends on many factors.",
+        "For example, find out where you can run a cable into the home.",
+        "Make sure the mounting location is in view of the closest relay antenna.",
+        "Drill a hole into the home if you need it for wiring.",
+        "Find the best spot to run a wire from the CPE to your user\u2019s network equipment.",
+        "To do this, use a stud finder to locate the beams holding the wall upright.",
+        "Position the hole at least 3 in (7.6 cm) from the studs.",
+        "Using a masonry bit 18 in (46 cm) long and \u20448 in (0.95 cm) in diameter, drill all the way through the wall.",
+        "Look for spots other ISPs, telephone companies, and cable companies used to get wires into the home.",
+        "You may be able to use these spots to wire the equipment without drilling.",
+        "Be aware of any live wires in the wall.",
+        "Use a stud finder with AC wire detection to identify problems to avoid with your drill.",
+        "Always ask your customer before installing or drilling anything.",
+        "Explain the installation process to them.",
+        "Get their approval.",
+        "Run weatherproof cables from the CPE into your customer\u2019s home.",
+        "Use the same CAT5e cables you used at your relay points.",
+        "Keep the cable tight against the home by securing it to the gutter with zip ties or cable clips.",
+        "Bring the cable down the wall, then thread it through the hole you drilled.",
+        "Have a friend help with the cable to make the installation much easier.",
+        "Instruct them to look for the cable and fish it out while you push it into the hole you drilled.",
+        "Connect the antenna cable to a switch or router.",
+        "Power over Ethernet (PoE) switches are the easiest devices to hook up inside homes.",
+        "You will need to plug the antenna cable into a wall jack.",
+        "Then, use a shielded patch cable to plug the switch or router into the jack.",
+        "Connect the switch or router to a wall outlet to power it.",
+        "For simpler installations, provide routers and modems for your customers.",
+        "If you don\u2019t do this, tell customers what devices are compatible with your service.",
+        "Each customer will need to get their own modem to enable Internet access and their own router to enable Wi-Fi.",
+        "Connect a laptop to the switch to finish the installation.",
+        "If you installed the antenna correctly, you will be able to detect your ISP signal through your computer\u2019s software.",
+        "Use the software to install antenna firmware updates, change the access password, and set the customer\u2019s unique IP address.",
+        "Before locking the antenna in place, use the software to adjust its positioning to receive your network\u2019s signal as much as possible.",
+        "Test the Internet connection before you leave.",
+        "Log into the Internet on your laptop.",
+        "Make sure the connection is fast and stable.",
+        "Setting up an ISP Business Create a business plan to organize your goals and finances.",
+        "A comprehensive business plan keeps you organized as you set up your ISP.",
+        "In a good business plan, you describe your goals as an ISP, how you will provide service to customers, and how much you will charge for it.",
+        "Also, describe how much money you need to start, how many employees you will hire, and how you will deal with problems like maintenance issues.",
+        "You need a good plan if you intend on selling your service as an ISP.",
+        "While you don\u2019t need it for a private service, having a plan is still useful.",
+        "Banks look for good business plans when giving out loans.",
+        "Since becoming an ISP is expensive, have a good plan to secure funding.",
+        "Check your local rules for setting up a new ISP.",
+        "Every country in the world has its own unique rules determining how ISPs operate.",
+        "States and cities may also create their own guidelines, so be sure to visit the closest government office for advice.",
+        "In many places, you can set up your own ISP without much legal trouble.",
+        "Keep in mind that national ISPs operate in most areas.",
+        "In some countries,  you may not even be allowed to set up a new ISP business.",
+        "Get a business license from the government if you plan on selling your service.",
+        "Submit your licensing application to your government\u2019s business office.",
+        "Get the application on your government\u2019s website or by visiting them in person.",
+        "You will need to list your business\u2019 name, what it does, and how it operates.",
+        "Then, wait 1 to 2 months to receive your license in the mail.",
+        "You do not need to get a business license if you aren\u2019t selling your service to customers.",
+        "Chances are no one will bother you if you set up a service only for you and people you know.",
+        "Market your Internet service to potential customers.",
+        "Most people already have an ISP.",
+        "To compete with existing businesses, begin advertising.",
+        "Purchase ads on local TV, buy ad space in newspapers and magazines, and send flyers to customers near your relay towers.",
+        "Also, go door to door to explain what your service has to offer.",
+        "Expect people to stick with their old ISP.",
+        "Even if they aren\u2019t happy with their ISP, they may not feel motivated enough to make a change.",
+        "Focus on the customers you have to grow your business.",
+        "Maintain your equipment to keep your service running.",
+        "Refer to your customer management program to keep tabs on your service.",
+        "Cables and other equipment wear out over time.",
+        "Sometimes components get damaged from bad weather, animals, or other accidents.",
+        "Make repairs and buy new equipment as needed to keep your business profitable.",
+        "If you have a good network tracking system, it will show you when something goes wrong with your network.",
+        "Send out a technician as soon as possible for a repair."
+    ]
+}

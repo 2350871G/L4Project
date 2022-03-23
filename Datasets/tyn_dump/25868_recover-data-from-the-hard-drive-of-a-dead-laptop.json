@@ -1,0 +1,281 @@
+{
+    "title": "How to Recover Data from the Hard Drive of a Dead Laptop",
+    "url": "https://www.wikihow.com/Recover-Data-from-the-Hard-Drive-of-a-Dead-Laptop",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computers",
+        "Computer Hardware"
+    ],
+    "methods": [
+        {
+            "name": "Using Your Old Hard Drive as an External Hard Drive (Windows, Mac, Linux)",
+            "steps": [
+                {
+                    "headline": "Purchase a hard drive disk enclosure.",
+                    "description": "This is an external system into which you can place a computer\u2019s hard drive in order to run it on another computer via a USB port; essentially, the enclosure will turn your laptop\u2019s hard drive into an external hard drive. Different computers use different hard drive models, so be sure to check your dead laptop\u2019s specifications before making this purchase. For example, if your laptop has a 2.5 SATA drive, you will need a 2.5 SATA USB enclosure. Tip: Unless you have a SATA drive, be sure to buy a laptop-sized disk enclosure; only SATA-ready enclosures can accommodate both desktop and laptop hard drives. Note that disk enclosures aren\u2019t commonly found in big-box stores and are usually purchased online."
+                },
+                {
+                    "headline": "Borrow or purchase a new computer with the same operating system as your old computer.",
+                    "description": "If your old computer ran on Windows, you'll need to borrow or purchase a new Windows computer. If your old laptop was a MacBook, you will need to borrow or purchase a computer that runs MacOS. Make sure the working computer's hard drive has enough free space to accommodate the files you want to recover from the dead laptop. Alternatively, you can hook a second external hard drive up to the working computer and simply use the computer to transfer files from the old drive to the new one\nA Linux computer will be able to read files off of a Windows computer (but not the other way around); unless you understand both systems, however, it is best to use a Windows computer to recover a Windows hard drive. Mac computers can read hard drives formatted for Windows default NTFS files system, but they cannot write or transfer files to a NTFS hard drive. Hard drives formatted for Mac's HFS file system can only be read by another Mac computer."
+                },
+                {
+                    "headline": "Remove the hard drive from the dead laptop.",
+                    "description": "Make sure the laptop is unplugged and the battery is disconnected. Locate the panel on the bottom of the laptop and remove it. Then locate the hard drive inside the computer and carefully remove it. You'll probably need any screwdriver to remove the laptop panel and hard drive.The location of hard drive is different from one laptop model to another. Consult the user's manual or manufacturer's website if you need help locating the hard drive. Some laptop models may require special tools to open and/or remove the hard drive. Check the label on the bottom of your laptop to get the exact model number for your laptop and then search for \"How to remove a hard drive from a [brand and model] laptop. You should find official an users manual and possibly a YouTube video showing exactly how to open your computer model. In some cases, you may need to take it to a professional."
+                },
+                {
+                    "headline": "Place the old hard drive in the disk enclosure.",
+                    "description": "Check where the connector pins are located on the hard drive and connect them to the pins in the enclosure. The way this is done is going to be different from one model to another. Check the user's manual that came with the enclosure for further instructions. If you have an IDE hard drive, note that there is a detachable adapter sitting over the interface. Simply pull this adapter off so that the drive will properly connect with the enclosure\u2019s connector plate."
+                },
+                {
+                    "headline": "Connect the disk enclosure to the working computer.",
+                    "description": "Once the hard drive is placed in the enclosure, it functions as an external hard drive. Connect it to the working computer using the USB cable."
+                },
+                {
+                    "headline": "Connect a second external hard drive to the working computer (optional).",
+                    "description": "If you are using a second external hard drive, use a USB cable to connect it to the working computer. Once the drive is connected, an icon should appear on your desktop (Mac) or a notification should pop up (Windows). The computer might also open the drive for you automatically. If your computer doesn\u2019t automatically prompt you about the new external storage unit, simply open File Explorer on Windows, or the Finder on Mac and click on the old hard drive. File Explorer has an icon that resembles a folder with a blue clip. It's in the taskbar at the bottom of the screen. The Finder has a icon that resembles a blue and white smiley face. It's in the Dock at the bottom of the screen. If the hard drive isn\u2019t recognized at first, try ejecting it and plugging it back in. If the hard drive is not readable, it\u2019s likely that the hard drive itself (and not your computer\u2019s software) failed. If this is the case, you will need professional assistance if you wish to continue the salvage. Be warned that this can be very expensive."
+                },
+                {
+                    "headline": "Transfer your old files a working hard drive or computer.",
+                    "description": "Transfer them to either the working computer or to a second external hard drive by copying and pasting, or clicking and dragging. If you have a lot of large files (ex. songs, movies), note that the transfer could take many hours."
+                },
+                {
+                    "headline": "Close Windows File Explorer or the Finder on Mac.",
+                    "description": "When you are finished transferring your files, click the X icon to close File Explorer or the Finder on Mac. The good news is that the dead computer is still physically intact and will probably work fine if you reinstall your operating system or replace the faulty parts."
+                },
+                {
+                    "headline": "Right-click the USB icon and select Eject.",
+                    "description": "You can now detach the old hard drive."
+                }
+            ]
+        },
+        {
+            "name": "Connecting Your Old Hard Drive into a Desktop Computer (Windows, Linux)",
+            "steps": [
+                {
+                    "headline": "Get a laptop hard drive adapter kit.",
+                    "description": "This will allow you to plug your laptop\u2019s hard drive directly into a compatible desktop computer. Different computers use different hard drive models, so be sure to check your dead laptop\u2019s specifications before making this purchase. For example, if your laptop has a 2.5 SATA drive, you will need a 2.5 SATA adapter."
+                },
+                {
+                    "headline": "Borrow or purchase a new computer with the same operating system as your old computer.",
+                    "description": "If your old computer ran on Windows, you'll need to borrow or purchase a new Windows computer. If your old laptop was a MacBook, you will need to borrow or purchase a computer that runs MacOS. Make sure the working computer's hard drive has enough free space to accommodate the files you want to recover from the dead laptop. A Linux computer will be able to read files off of a Windows computer (but not the other way around); unless you understand both systems, however, it is best to use a Windows computer to recover a Windows hard drive."
+                },
+                {
+                    "headline": "Remove the hard drive from the dead laptop.",
+                    "description": "Unplug it, and remove the battery. Locate the panel that houses the laptop hard drive and remove it. Unscrew the hard drive cover and remove the hard drive. Some models will pop upwards, some will slide outwards, etc. Where the hard drive is located is different from one laptop model to another. Consult the user's manual or manufacturer's website if you need help locating the hard drive on your laptop. If your laptop has an IDE hard drive, note that there is a detachable adapter sitting over the hard drive interface. Simply pull this adapter off so that the interface is accessible later. Some laptop models may require special tools to open and/or remove the hard drive. Check the label on the bottom of the laptop to see the exact make and model of your laptop and search for, \"How to remove the hard drive for a [make and model number] laptop.\" You should find a user's manual and possibly a YouTube video with step-by-step instructions on how to take apart your laptop. In some cases, you may need to take it to a professional. EXPERT TIP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLuigi Oppido\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\t\t\t\t\tLuigi Oppido is the Owner and Operator of Pleasure Point Computers in Santa Cruz, California. Luigi has over 25 years of experience in general computer repair, data recovery, virus removal, and upgrades. Luigi Oppido\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\tYou can move a working hard drive from one computer to another. If the hard drive from the dead laptop is physically functional, take the drive out and plug it into a functional computer that already has its own operating system. If it doesn\u2019t boot, try copying the files. If the boot sector is broken, you can try rebuilding the drive."
+                },
+                {
+                    "headline": "Turn off your desktop computer, unplug it, and open the tower.",
+                    "description": "You will use the adapter kit to plug the old hard drive directly into the motherboard. Warning: Be sure to touch something made of metal to ground yourself or wear anti-static wrist bands while working inside of a computer. Static electricity can permanently damage your computer. Keep any and all computer parts off the carpet."
+                },
+                {
+                    "headline": "Connect the dead drive to the working computer using your drive adapter.",
+                    "description": "How you do this will depend on your drive and adapter types, so use the instructions that came with the kit. If you have an IDE drive, configure it to \u201cslave\u201d mode before connecting it to the IDE ribbon. The configuration should be noted on the hard drive itself and will involve moving a plastic cap over a particular pin or set of pins (aka \u201cjumpers\u201d) on the hard drive interface. Configuring it to slave mode will keep your laptop hard drive from competing with the desktop\u2019s \u201cmaster\u201d hard drive during boot-up."
+                },
+                {
+                    "headline": "Configure your desktop to recognize the new drive.",
+                    "description": "Plug your desktop back in, power it on, and open BIOS. Go to Standard CMOS Settings or IDE Config, where you will find four settings involving master and slave settings. Change all four fields to auto-detection. The  BIOS Settings and menus may be different from one computer model to another."
+                },
+                {
+                    "headline": "Exit BIOS and reboot.",
+                    "description": "Your desktop should now automatically detect the new hardware."
+                },
+                {
+                    "headline": "Open the new hard drive.",
+                    "description": "If you\u2019re using Windows, open File Explorer and look for the new hard drive. It's the icon that resembles a folder with a blue clip in the taskbar. With Linux, the new drive will appear in the dev directory. If the hard drive is not readable, it\u2019s likely that the hard drive itself (and not your computer\u2019s software) failed. If this is the case, you will need professional assistance if you wish to continue the salvage. Be warned that this can be very expensive."
+                },
+                {
+                    "headline": "Transfer the files to the working computer.",
+                    "description": "Use File Explorer to transfer the old files to either the working computer or to the external hard drive by copying and pasting, clicking and dragging, etc. If you have a lot of large files (ex. songs, movies), note that the transfer could take many hours."
+                },
+                {
+                    "headline": "Turn off and unplug the desktop to uninstall the hard drive (if desired).",
+                    "description": "Since the hard drive is physically intact, it will probably work fine in the old laptop if you reinstall your operating system or replace the faulty parts."
+                }
+            ]
+        },
+        {
+            "name": "Accessing Your Old Files through Another Computer (Mac Only)",
+            "steps": [
+                {
+                    "headline": "Purchase a FireWire cable.",
+                    "description": "They cost anywhere between $5 and $20."
+                },
+                {
+                    "headline": "Borrow or purchase a working Mac.",
+                    "description": "Make sure the Mac has enough space to accommodate the files you want to recover from the dead laptop. Note: You can connect a second external hard drive up to the working Mac and simply use the Mac to transfer files from the old hard drive to the new one."
+                },
+                {
+                    "headline": "Connect the dead Mac to the working Mac using the FireWire cable.",
+                    "description": "Make sure that the working Mac is turned off when you do this."
+                },
+                {
+                    "headline": "Boot up the working mac in Target Disk Mode.",
+                    "description": "If you are using an older version of MacOS, simply boot up the working Mac and press T as it boots up. Otherwise, use the following steps to boot into Target Disk Mode in MacOS 10.4 or newer. Turn on your computer as normal. Click the Apple icon in the menu bar at the top of the screen. Click System Preferences\n\nClick Startup Disk\n\nClick Target Disk Mode. Reboot your computer to start it in Target Disk Mode."
+                },
+                {
+                    "headline": "Find and open the dead computer\u2019s hard drive on your Mac\u2019s desktop.",
+                    "description": "If the targeted drive does not appear on the desktop, the damage to your old computer is likely physical, meaning you will need professional assistance to finish the salvage. Be warned that this can be very expensive."
+                },
+                {
+                    "headline": "Transfer your old files.",
+                    "description": "Transfer them to either the working Mac or to the external hard drive by copying and pasting, or clicking and dragging. If you have a lot of large files (ex. songs, movies), note that the transfer could take many hours."
+                },
+                {
+                    "headline": "When you\u2019re done, close the window to your hard drive.",
+                    "description": "The good news is that the dead computer is still physically intact and will probably work fine if you reinstall your operating system or replacing the faulty parts."
+                },
+                {
+                    "headline": "Right-click the targeted drive and select Eject.",
+                    "description": "You can now detach the dead computer."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A few small screwdrivers",
+        "Compatible computer",
+        "Disk Enclosure (option 1)",
+        "Laptop Hard Drive Adaptor Kit (option 2)",
+        "FireWire cable (option 3)"
+    ],
+    "text": " Using Your Old Hard Drive as an External Hard Drive (Windows, Mac, Linux) Purchase a hard drive disk enclosure. This is an external system into which you can place a computer\u2019s hard drive in order to run it on another computer via a USB port; essentially, the enclosure will turn your laptop\u2019s hard drive into an external hard drive. Different computers use different hard drive models, so be sure to check your dead laptop\u2019s specifications before making this purchase. For example, if your laptop has a 2.5 SATA drive, you will need a 2.5 SATA USB enclosure. Tip: Unless you have a SATA drive, be sure to buy a laptop-sized disk enclosure; only SATA-ready enclosures can accommodate both desktop and laptop hard drives. Note that disk enclosures aren\u2019t commonly found in big-box stores and are usually purchased online. Borrow or purchase a new computer with the same operating system as your old computer. If your old computer ran on Windows, you'll need to borrow or purchase a new Windows computer. If your old laptop was a MacBook, you will need to borrow or purchase a computer that runs MacOS. Make sure the working computer's hard drive has enough free space to accommodate the files you want to recover from the dead laptop. Alternatively, you can hook a second external hard drive up to the working computer and simply use the computer to transfer files from the old drive to the new one\nA Linux computer will be able to read files off of a Windows computer (but not the other way around); unless you understand both systems, however, it is best to use a Windows computer to recover a Windows hard drive. Mac computers can read hard drives formatted for Windows default NTFS files system, but they cannot write or transfer files to a NTFS hard drive. Hard drives formatted for Mac's HFS file system can only be read by another Mac computer. Remove the hard drive from the dead laptop. Make sure the laptop is unplugged and the battery is disconnected. Locate the panel on the bottom of the laptop and remove it. Then locate the hard drive inside the computer and carefully remove it. You'll probably need any screwdriver to remove the laptop panel and hard drive.The location of hard drive is different from one laptop model to another. Consult the user's manual or manufacturer's website if you need help locating the hard drive. Some laptop models may require special tools to open and/or remove the hard drive. Check the label on the bottom of your laptop to get the exact model number for your laptop and then search for \"How to remove a hard drive from a [brand and model] laptop. You should find official an users manual and possibly a YouTube video showing exactly how to open your computer model. In some cases, you may need to take it to a professional. Place the old hard drive in the disk enclosure. Check where the connector pins are located on the hard drive and connect them to the pins in the enclosure. The way this is done is going to be different from one model to another. Check the user's manual that came with the enclosure for further instructions. If you have an IDE hard drive, note that there is a detachable adapter sitting over the interface. Simply pull this adapter off so that the drive will properly connect with the enclosure\u2019s connector plate. Connect the disk enclosure to the working computer. Once the hard drive is placed in the enclosure, it functions as an external hard drive. Connect it to the working computer using the USB cable. Connect a second external hard drive to the working computer (optional). If you are using a second external hard drive, use a USB cable to connect it to the working computer. Once the drive is connected, an icon should appear on your desktop (Mac) or a notification should pop up (Windows). The computer might also open the drive for you automatically. If your computer doesn\u2019t automatically prompt you about the new external storage unit, simply open File Explorer on Windows, or the Finder on Mac and click on the old hard drive. File Explorer has an icon that resembles a folder with a blue clip. It's in the taskbar at the bottom of the screen. The Finder has a icon that resembles a blue and white smiley face. It's in the Dock at the bottom of the screen. If the hard drive isn\u2019t recognized at first, try ejecting it and plugging it back in. If the hard drive is not readable, it\u2019s likely that the hard drive itself (and not your computer\u2019s software) failed. If this is the case, you will need professional assistance if you wish to continue the salvage. Be warned that this can be very expensive. Transfer your old files a working hard drive or computer. Transfer them to either the working computer or to a second external hard drive by copying and pasting, or clicking and dragging. If you have a lot of large files (ex. songs, movies), note that the transfer could take many hours. Close Windows File Explorer or the Finder on Mac. When you are finished transferring your files, click the X icon to close File Explorer or the Finder on Mac. The good news is that the dead computer is still physically intact and will probably work fine if you reinstall your operating system or replace the faulty parts. Right-click the USB icon and select Eject. You can now detach the old hard drive. Connecting Your Old Hard Drive into a Desktop Computer (Windows, Linux) Get a laptop hard drive adapter kit. This will allow you to plug your laptop\u2019s hard drive directly into a compatible desktop computer. Different computers use different hard drive models, so be sure to check your dead laptop\u2019s specifications before making this purchase. For example, if your laptop has a 2.5 SATA drive, you will need a 2.5 SATA adapter. Borrow or purchase a new computer with the same operating system as your old computer. If your old computer ran on Windows, you'll need to borrow or purchase a new Windows computer. If your old laptop was a MacBook, you will need to borrow or purchase a computer that runs MacOS. Make sure the working computer's hard drive has enough free space to accommodate the files you want to recover from the dead laptop. A Linux computer will be able to read files off of a Windows computer (but not the other way around); unless you understand both systems, however, it is best to use a Windows computer to recover a Windows hard drive. Remove the hard drive from the dead laptop. Unplug it, and remove the battery. Locate the panel that houses the laptop hard drive and remove it. Unscrew the hard drive cover and remove the hard drive. Some models will pop upwards, some will slide outwards, etc. Where the hard drive is located is different from one laptop model to another. Consult the user's manual or manufacturer's website if you need help locating the hard drive on your laptop. If your laptop has an IDE hard drive, note that there is a detachable adapter sitting over the hard drive interface. Simply pull this adapter off so that the interface is accessible later. Some laptop models may require special tools to open and/or remove the hard drive. Check the label on the bottom of the laptop to see the exact make and model of your laptop and search for, \"How to remove the hard drive for a [make and model number] laptop.\" You should find a user's manual and possibly a YouTube video with step-by-step instructions on how to take apart your laptop. In some cases, you may need to take it to a professional. EXPERT TIP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLuigi Oppido\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\t\t\t\t\tLuigi Oppido is the Owner and Operator of Pleasure Point Computers in Santa Cruz, California. Luigi has over 25 years of experience in general computer repair, data recovery, virus removal, and upgrades. Luigi Oppido\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\tYou can move a working hard drive from one computer to another. If the hard drive from the dead laptop is physically functional, take the drive out and plug it into a functional computer that already has its own operating system. If it doesn\u2019t boot, try copying the files. If the boot sector is broken, you can try rebuilding the drive. Turn off your desktop computer, unplug it, and open the tower. You will use the adapter kit to plug the old hard drive directly into the motherboard. Warning: Be sure to touch something made of metal to ground yourself or wear anti-static wrist bands while working inside of a computer. Static electricity can permanently damage your computer. Keep any and all computer parts off the carpet. Connect the dead drive to the working computer using your drive adapter. How you do this will depend on your drive and adapter types, so use the instructions that came with the kit. If you have an IDE drive, configure it to \u201cslave\u201d mode before connecting it to the IDE ribbon. The configuration should be noted on the hard drive itself and will involve moving a plastic cap over a particular pin or set of pins (aka \u201cjumpers\u201d) on the hard drive interface. Configuring it to slave mode will keep your laptop hard drive from competing with the desktop\u2019s \u201cmaster\u201d hard drive during boot-up. Configure your desktop to recognize the new drive. Plug your desktop back in, power it on, and open BIOS. Go to Standard CMOS Settings or IDE Config, where you will find four settings involving master and slave settings. Change all four fields to auto-detection. The  BIOS Settings and menus may be different from one computer model to another. Exit BIOS and reboot. Your desktop should now automatically detect the new hardware. Open the new hard drive. If you\u2019re using Windows, open File Explorer and look for the new hard drive. It's the icon that resembles a folder with a blue clip in the taskbar. With Linux, the new drive will appear in the dev directory. If the hard drive is not readable, it\u2019s likely that the hard drive itself (and not your computer\u2019s software) failed. If this is the case, you will need professional assistance if you wish to continue the salvage. Be warned that this can be very expensive. Transfer the files to the working computer. Use File Explorer to transfer the old files to either the working computer or to the external hard drive by copying and pasting, clicking and dragging, etc. If you have a lot of large files (ex. songs, movies), note that the transfer could take many hours. Turn off and unplug the desktop to uninstall the hard drive (if desired). Since the hard drive is physically intact, it will probably work fine in the old laptop if you reinstall your operating system or replace the faulty parts. Accessing Your Old Files through Another Computer (Mac Only) Purchase a FireWire cable. They cost anywhere between $5 and $20. Borrow or purchase a working Mac. Make sure the Mac has enough space to accommodate the files you want to recover from the dead laptop. Note: You can connect a second external hard drive up to the working Mac and simply use the Mac to transfer files from the old hard drive to the new one. Connect the dead Mac to the working Mac using the FireWire cable. Make sure that the working Mac is turned off when you do this. Boot up the working mac in Target Disk Mode. If you are using an older version of MacOS, simply boot up the working Mac and press T as it boots up. Otherwise, use the following steps to boot into Target Disk Mode in MacOS 10.4 or newer. Turn on your computer as normal. Click the Apple icon in the menu bar at the top of the screen. Click System Preferences\n\nClick Startup Disk\n\nClick Target Disk Mode. Reboot your computer to start it in Target Disk Mode. Find and open the dead computer\u2019s hard drive on your Mac\u2019s desktop. If the targeted drive does not appear on the desktop, the damage to your old computer is likely physical, meaning you will need professional assistance to finish the salvage. Be warned that this can be very expensive. Transfer your old files. Transfer them to either the working Mac or to the external hard drive by copying and pasting, or clicking and dragging. If you have a lot of large files (ex. songs, movies), note that the transfer could take many hours. When you\u2019re done, close the window to your hard drive. The good news is that the dead computer is still physically intact and will probably work fine if you reinstall your operating system or replacing the faulty parts. Right-click the targeted drive and select Eject. You can now detach the dead computer.",
+    "sentences": [
+        " Using Your Old Hard Drive as an External Hard Drive (Windows, Mac, Linux) Purchase a hard drive disk enclosure.",
+        "This is an external system into which you can place a computer\u2019s hard drive in order to run it on another computer via a USB port; essentially, the enclosure will turn your laptop\u2019s hard drive into an external hard drive.",
+        "Different computers use different hard drive models, so be sure to check your dead laptop\u2019s specifications before making this purchase.",
+        "For example, if your laptop has a 2.5 SATA drive, you will need a 2.5 SATA USB enclosure.",
+        "Tip: Unless you have a SATA drive, be sure to buy a laptop-sized disk enclosure; only SATA-ready enclosures can accommodate both desktop and laptop hard drives.",
+        "Note that disk enclosures aren\u2019t commonly found in big-box stores and are usually purchased online.",
+        "Borrow or purchase a new computer with the same operating system as your old computer.",
+        "If your old computer ran on Windows, you'll need to borrow or purchase a new Windows computer.",
+        "If your old laptop was a MacBook, you will need to borrow or purchase a computer that runs MacOS.",
+        "Make sure the working computer's hard drive has enough free space to accommodate the files you want to recover from the dead laptop.",
+        "Alternatively, you can hook a second external hard drive up to the working computer and simply use the computer to transfer files from the old drive to the new one\nA Linux computer will be able to read files off of a Windows computer (but not the other way around); unless you understand both systems, however, it is best to use a Windows computer to recover a Windows hard drive.",
+        "Mac computers can read hard drives formatted for Windows default NTFS files system, but they cannot write or transfer files to a NTFS hard drive.",
+        "Hard drives formatted for Mac's HFS file system can only be read by another Mac computer.",
+        "Remove the hard drive from the dead laptop.",
+        "Make sure the laptop is unplugged and the battery is disconnected.",
+        "Locate the panel on the bottom of the laptop and remove it.",
+        "Then locate the hard drive inside the computer and carefully remove it.",
+        "You'll probably need any screwdriver to remove the laptop panel and hard drive.The location of hard drive is different from one laptop model to another.",
+        "Consult the user's manual or manufacturer's website if you need help locating the hard drive.",
+        "Some laptop models may require special tools to open and/or remove the hard drive.",
+        "Check the label on the bottom of your laptop to get the exact model number for your laptop and then search for \"How to remove a hard drive from a [brand and model] laptop.",
+        "You should find official an users manual and possibly a YouTube video showing exactly how to open your computer model.",
+        "In some cases, you may need to take it to a professional.",
+        "Place the old hard drive in the disk enclosure.",
+        "Check where the connector pins are located on the hard drive and connect them to the pins in the enclosure.",
+        "The way this is done is going to be different from one model to another.",
+        "Check the user's manual that came with the enclosure for further instructions.",
+        "If you have an IDE hard drive, note that there is a detachable adapter sitting over the interface.",
+        "Simply pull this adapter off so that the drive will properly connect with the enclosure\u2019s connector plate.",
+        "Connect the disk enclosure to the working computer.",
+        "Once the hard drive is placed in the enclosure, it functions as an external hard drive.",
+        "Connect it to the working computer using the USB cable.",
+        "Connect a second external hard drive to the working computer (optional).",
+        "If you are using a second external hard drive, use a USB cable to connect it to the working computer.",
+        "Once the drive is connected, an icon should appear on your desktop (Mac) or a notification should pop up (Windows).",
+        "The computer might also open the drive for you automatically.",
+        "If your computer doesn\u2019t automatically prompt you about the new external storage unit, simply open File Explorer on Windows, or the Finder on Mac and click on the old hard drive.",
+        "File Explorer has an icon that resembles a folder with a blue clip.",
+        "It's in the taskbar at the bottom of the screen.",
+        "The Finder has a icon that resembles a blue and white smiley face.",
+        "It's in the Dock at the bottom of the screen.",
+        "If the hard drive isn\u2019t recognized at first, try ejecting it and plugging it back in.",
+        "If the hard drive is not readable, it\u2019s likely that the hard drive itself (and not your computer\u2019s software) failed.",
+        "If this is the case, you will need professional assistance if you wish to continue the salvage.",
+        "Be warned that this can be very expensive.",
+        "Transfer your old files a working hard drive or computer.",
+        "Transfer them to either the working computer or to a second external hard drive by copying and pasting, or clicking and dragging.",
+        "If you have a lot of large files (ex.",
+        "songs, movies), note that the transfer could take many hours.",
+        "Close Windows File Explorer or the Finder on Mac.",
+        "When you are finished transferring your files, click the X icon to close File Explorer or the Finder on Mac.",
+        "The good news is that the dead computer is still physically intact and will probably work fine if you reinstall your operating system or replace the faulty parts.",
+        "Right-click the USB icon and select Eject.",
+        "You can now detach the old hard drive.",
+        "Connecting Your Old Hard Drive into a Desktop Computer (Windows, Linux) Get a laptop hard drive adapter kit.",
+        "This will allow you to plug your laptop\u2019s hard drive directly into a compatible desktop computer.",
+        "Different computers use different hard drive models, so be sure to check your dead laptop\u2019s specifications before making this purchase.",
+        "For example, if your laptop has a 2.5 SATA drive, you will need a 2.5 SATA adapter.",
+        "Borrow or purchase a new computer with the same operating system as your old computer.",
+        "If your old computer ran on Windows, you'll need to borrow or purchase a new Windows computer.",
+        "If your old laptop was a MacBook, you will need to borrow or purchase a computer that runs MacOS.",
+        "Make sure the working computer's hard drive has enough free space to accommodate the files you want to recover from the dead laptop.",
+        "A Linux computer will be able to read files off of a Windows computer (but not the other way around); unless you understand both systems, however, it is best to use a Windows computer to recover a Windows hard drive.",
+        "Remove the hard drive from the dead laptop.",
+        "Unplug it, and remove the battery.",
+        "Locate the panel that houses the laptop hard drive and remove it.",
+        "Unscrew the hard drive cover and remove the hard drive.",
+        "Some models will pop upwards, some will slide outwards, etc.",
+        "Where the hard drive is located is different from one laptop model to another.",
+        "Consult the user's manual or manufacturer's website if you need help locating the hard drive on your laptop.",
+        "If your laptop has an IDE hard drive, note that there is a detachable adapter sitting over the hard drive interface.",
+        "Simply pull this adapter off so that the interface is accessible later.",
+        "Some laptop models may require special tools to open and/or remove the hard drive.",
+        "Check the label on the bottom of the laptop to see the exact make and model of your laptop and search for, \"How to remove the hard drive for a [make and model number] laptop.\"",
+        "You should find a user's manual and possibly a YouTube video with step-by-step instructions on how to take apart your laptop.",
+        "In some cases, you may need to take it to a professional.",
+        "EXPERT TIP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLuigi Oppido\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\t\t\t\t\tLuigi Oppido is the Owner and Operator of Pleasure Point Computers in Santa Cruz, California.",
+        "Luigi has over 25 years of experience in general computer repair, data recovery, virus removal, and upgrades.",
+        "Luigi Oppido\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\tYou can move a working hard drive from one computer to another.",
+        "If the hard drive from the dead laptop is physically functional, take the drive out and plug it into a functional computer that already has its own operating system.",
+        "If it doesn\u2019t boot, try copying the files.",
+        "If the boot sector is broken, you can try rebuilding the drive.",
+        "Turn off your desktop computer, unplug it, and open the tower.",
+        "You will use the adapter kit to plug the old hard drive directly into the motherboard.",
+        "Warning: Be sure to touch something made of metal to ground yourself or wear anti-static wrist bands while working inside of a computer.",
+        "Static electricity can permanently damage your computer.",
+        "Keep any and all computer parts off the carpet.",
+        "Connect the dead drive to the working computer using your drive adapter.",
+        "How you do this will depend on your drive and adapter types, so use the instructions that came with the kit.",
+        "If you have an IDE drive, configure it to \u201cslave\u201d mode before connecting it to the IDE ribbon.",
+        "The configuration should be noted on the hard drive itself and will involve moving a plastic cap over a particular pin or set of pins (aka \u201cjumpers\u201d) on the hard drive interface.",
+        "Configuring it to slave mode will keep your laptop hard drive from competing with the desktop\u2019s \u201cmaster\u201d hard drive during boot-up.",
+        "Configure your desktop to recognize the new drive.",
+        "Plug your desktop back in, power it on, and open BIOS.",
+        "Go to Standard CMOS Settings or IDE Config, where you will find four settings involving master and slave settings.",
+        "Change all four fields to auto-detection.",
+        "The  BIOS Settings and menus may be different from one computer model to another.",
+        "Exit BIOS and reboot.",
+        "Your desktop should now automatically detect the new hardware.",
+        "Open the new hard drive.",
+        "If you\u2019re using Windows, open File Explorer and look for the new hard drive.",
+        "It's the icon that resembles a folder with a blue clip in the taskbar.",
+        "With Linux, the new drive will appear in the dev directory.",
+        "If the hard drive is not readable, it\u2019s likely that the hard drive itself (and not your computer\u2019s software) failed.",
+        "If this is the case, you will need professional assistance if you wish to continue the salvage.",
+        "Be warned that this can be very expensive.",
+        "Transfer the files to the working computer.",
+        "Use File Explorer to transfer the old files to either the working computer or to the external hard drive by copying and pasting, clicking and dragging, etc.",
+        "If you have a lot of large files (ex.",
+        "songs, movies), note that the transfer could take many hours.",
+        "Turn off and unplug the desktop to uninstall the hard drive (if desired).",
+        "Since the hard drive is physically intact, it will probably work fine in the old laptop if you reinstall your operating system or replace the faulty parts.",
+        "Accessing Your Old Files through Another Computer (Mac Only) Purchase a FireWire cable.",
+        "They cost anywhere between $5 and $20.",
+        "Borrow or purchase a working Mac.",
+        "Make sure the Mac has enough space to accommodate the files you want to recover from the dead laptop.",
+        "Note: You can connect a second external hard drive up to the working Mac and simply use the Mac to transfer files from the old hard drive to the new one.",
+        "Connect the dead Mac to the working Mac using the FireWire cable.",
+        "Make sure that the working Mac is turned off when you do this.",
+        "Boot up the working mac in Target Disk Mode.",
+        "If you are using an older version of MacOS, simply boot up the working Mac and press T as it boots up.",
+        "Otherwise, use the following steps to boot into Target Disk Mode in MacOS 10.4 or newer.",
+        "Turn on your computer as normal.",
+        "Click the Apple icon in the menu bar at the top of the screen.",
+        "Click System Preferences\n\nClick Startup Disk\n\nClick Target Disk Mode.",
+        "Reboot your computer to start it in Target Disk Mode.",
+        "Find and open the dead computer\u2019s hard drive on your Mac\u2019s desktop.",
+        "If the targeted drive does not appear on the desktop, the damage to your old computer is likely physical, meaning you will need professional assistance to finish the salvage.",
+        "Be warned that this can be very expensive.",
+        "Transfer your old files.",
+        "Transfer them to either the working Mac or to the external hard drive by copying and pasting, or clicking and dragging.",
+        "If you have a lot of large files (ex.",
+        "songs, movies), note that the transfer could take many hours.",
+        "When you\u2019re done, close the window to your hard drive.",
+        "The good news is that the dead computer is still physically intact and will probably work fine if you reinstall your operating system or replacing the faulty parts.",
+        "Right-click the targeted drive and select Eject.",
+        "You can now detach the dead computer."
+    ]
+}

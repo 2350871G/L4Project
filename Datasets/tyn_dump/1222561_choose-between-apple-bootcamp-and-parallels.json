@@ -1,0 +1,72 @@
+{
+    "title": "How to Choose Between Apple Bootcamp and Parallels",
+    "url": "https://www.wikihow.com/Choose-Between-Apple-Bootcamp-and-Parallels",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Mac"
+    ],
+    "steps": [
+        {
+            "headline": "Compare the cost",
+            "description": "Apple BootCamp is a free utility that is pre-installed on all Macs running Mac OS X. This means the only cost associated with using this option is the cost of the operating system license you plan on installing. The current Parallels software, Parallels Desktop 6 for Mac, is priced at $79.99 or $49.99 to upgrade from a previous version. You can, however, download and try Parallels for 14 days free of charge through their trial offer."
+        },
+        {
+            "headline": "Evaluate the differences in technology",
+            "description": "Apple Bootcamp allows you to run operating systems natively, i.e. giving it access to system resources such as full access to the CPU, Graphics, and all other system resources. This may be crucial for certain tasks such as playing games that require a lot of system resources. However, this means that you will only be able to boot into one operating system at a time, and cannot utilize both Mac OS X and the other operating system simultaneously. Parallels will allow you to create a virtual machine for your operating system. This will allow you to run the operating system in a window within Mac OS X, allowing you to essentially run both operating systems simultaneously."
+        },
+        {
+            "headline": "Examine the differences in user experience and Mac OS X integration",
+            "description": "The obvious difference in user experience is the fact that Parallels allows you to instantly switch between Mac OS X and another operating system. Bootcamp, on the other hand, forces you to choose one or another when booting your system. Parallels is highly integrated with Mac OS X, allowing you to transfer files from an operating system installed through Parallels such as Windows to Mac OS X and vice versa via drag and drop. You can also access folders stored on your Mac through an operating system installed in Parallels and vice versa. These are features that aren\u2019t possible with Bootcamp. The startup time associated with Parallels is typically much faster than using Bootcamp. Launching an operating system through Parallels is comparable to opening an application. Launching an operating system through Bootcamp is similar to booting an OS such as Windows installed natively on a PC."
+        },
+        {
+            "headline": "Consider the impact on system resources.",
+            "description": "When running an operating system in Parallels, it is sharing your system\u2019s resources with your currently installed version of Mac OS X. You may experience sluggish performance even if your system meets the minimum system requirements for the application and operating system. If you are planning on running resource intensive applications such as games or video rendering software, it is probably best to utilize Bootcamp. This will allow you to have access to all system resources as if the operating system was installed natively."
+        },
+        {
+            "headline": "Compare the setup process.",
+            "description": "Setup of operating systems in both applications is done via detailed onscreen instructions and takes approximately 5 to 15 minutes. Installation of the actual operating system after the initial setup process is complete will be done using its own procedure. For example, when installing Windows, the installation process will be the same as if you were installing Windows natively on a PC. The Apple Bootcamp installation requires a utility that comes preinstalled on all Intel-based Macs called \u201cBoot Camp Assistant\u201d that will allow you to partition your hard drive, and provide you with a virtual CD containing all of the necessary drivers for your operating system. Installation of an operating system through Parallels will walk you through the process of preparing the drive and creating a virtual machine for the OS. You will also be able to specify how much RAM is allocated to the operating system. One benefit of this installation process is the ability to select the \u201cExpanding\u201d disk format. This will allow the disk image to grow as more data is required, allowing you to only use as much disk space as necessary."
+        }
+    ],
+    "tyn": [
+        "Intel-based Mac running Mac OS X 10.5 or higher.",
+        "Parallels Desktop 6 for Mac or higher.",
+        "Bootcamp Assistant Utility.",
+        "An operating system and license/registration key."
+    ],
+    "text": " Compare the cost Apple BootCamp is a free utility that is pre-installed on all Macs running Mac OS X. This means the only cost associated with using this option is the cost of the operating system license you plan on installing. The current Parallels software, Parallels Desktop 6 for Mac, is priced at $79.99 or $49.99 to upgrade from a previous version. You can, however, download and try Parallels for 14 days free of charge through their trial offer. Evaluate the differences in technology Apple Bootcamp allows you to run operating systems natively, i.e. giving it access to system resources such as full access to the CPU, Graphics, and all other system resources. This may be crucial for certain tasks such as playing games that require a lot of system resources. However, this means that you will only be able to boot into one operating system at a time, and cannot utilize both Mac OS X and the other operating system simultaneously. Parallels will allow you to create a virtual machine for your operating system. This will allow you to run the operating system in a window within Mac OS X, allowing you to essentially run both operating systems simultaneously. Examine the differences in user experience and Mac OS X integration The obvious difference in user experience is the fact that Parallels allows you to instantly switch between Mac OS X and another operating system. Bootcamp, on the other hand, forces you to choose one or another when booting your system. Parallels is highly integrated with Mac OS X, allowing you to transfer files from an operating system installed through Parallels such as Windows to Mac OS X and vice versa via drag and drop. You can also access folders stored on your Mac through an operating system installed in Parallels and vice versa. These are features that aren\u2019t possible with Bootcamp. The startup time associated with Parallels is typically much faster than using Bootcamp. Launching an operating system through Parallels is comparable to opening an application. Launching an operating system through Bootcamp is similar to booting an OS such as Windows installed natively on a PC. Consider the impact on system resources. When running an operating system in Parallels, it is sharing your system\u2019s resources with your currently installed version of Mac OS X. You may experience sluggish performance even if your system meets the minimum system requirements for the application and operating system. If you are planning on running resource intensive applications such as games or video rendering software, it is probably best to utilize Bootcamp. This will allow you to have access to all system resources as if the operating system was installed natively. Compare the setup process. Setup of operating systems in both applications is done via detailed onscreen instructions and takes approximately 5 to 15 minutes. Installation of the actual operating system after the initial setup process is complete will be done using its own procedure. For example, when installing Windows, the installation process will be the same as if you were installing Windows natively on a PC. The Apple Bootcamp installation requires a utility that comes preinstalled on all Intel-based Macs called \u201cBoot Camp Assistant\u201d that will allow you to partition your hard drive, and provide you with a virtual CD containing all of the necessary drivers for your operating system. Installation of an operating system through Parallels will walk you through the process of preparing the drive and creating a virtual machine for the OS. You will also be able to specify how much RAM is allocated to the operating system. One benefit of this installation process is the ability to select the \u201cExpanding\u201d disk format. This will allow the disk image to grow as more data is required, allowing you to only use as much disk space as necessary.",
+    "sentences": [
+        " Compare the cost Apple BootCamp is a free utility that is pre-installed on all Macs running Mac OS X.",
+        "This means the only cost associated with using this option is the cost of the operating system license you plan on installing.",
+        "The current Parallels software, Parallels Desktop 6 for Mac, is priced at $79.99 or $49.99 to upgrade from a previous version.",
+        "You can, however, download and try Parallels for 14 days free of charge through their trial offer.",
+        "Evaluate the differences in technology Apple Bootcamp allows you to run operating systems natively, i.e.",
+        "giving it access to system resources such as full access to the CPU, Graphics, and all other system resources.",
+        "This may be crucial for certain tasks such as playing games that require a lot of system resources.",
+        "However, this means that you will only be able to boot into one operating system at a time, and cannot utilize both Mac OS X and the other operating system simultaneously.",
+        "Parallels will allow you to create a virtual machine for your operating system.",
+        "This will allow you to run the operating system in a window within Mac OS X, allowing you to essentially run both operating systems simultaneously.",
+        "Examine the differences in user experience and Mac OS X integration The obvious difference in user experience is the fact that Parallels allows you to instantly switch between Mac OS X and another operating system.",
+        "Bootcamp, on the other hand, forces you to choose one or another when booting your system.",
+        "Parallels is highly integrated with Mac OS X, allowing you to transfer files from an operating system installed through Parallels such as Windows to Mac OS X and vice versa via drag and drop.",
+        "You can also access folders stored on your Mac through an operating system installed in Parallels and vice versa.",
+        "These are features that aren\u2019t possible with Bootcamp.",
+        "The startup time associated with Parallels is typically much faster than using Bootcamp.",
+        "Launching an operating system through Parallels is comparable to opening an application.",
+        "Launching an operating system through Bootcamp is similar to booting an OS such as Windows installed natively on a PC.",
+        "Consider the impact on system resources.",
+        "When running an operating system in Parallels, it is sharing your system\u2019s resources with your currently installed version of Mac OS X.",
+        "You may experience sluggish performance even if your system meets the minimum system requirements for the application and operating system.",
+        "If you are planning on running resource intensive applications such as games or video rendering software, it is probably best to utilize Bootcamp.",
+        "This will allow you to have access to all system resources as if the operating system was installed natively.",
+        "Compare the setup process.",
+        "Setup of operating systems in both applications is done via detailed onscreen instructions and takes approximately 5 to 15 minutes.",
+        "Installation of the actual operating system after the initial setup process is complete will be done using its own procedure.",
+        "For example, when installing Windows, the installation process will be the same as if you were installing Windows natively on a PC.",
+        "The Apple Bootcamp installation requires a utility that comes preinstalled on all Intel-based Macs called \u201cBoot Camp Assistant\u201d that will allow you to partition your hard drive, and provide you with a virtual CD containing all of the necessary drivers for your operating system.",
+        "Installation of an operating system through Parallels will walk you through the process of preparing the drive and creating a virtual machine for the OS.",
+        "You will also be able to specify how much RAM is allocated to the operating system.",
+        "One benefit of this installation process is the ability to select the \u201cExpanding\u201d disk format.",
+        "This will allow the disk image to grow as more data is required, allowing you to only use as much disk space as necessary."
+    ]
+}

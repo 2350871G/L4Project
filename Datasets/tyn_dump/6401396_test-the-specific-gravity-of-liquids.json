@@ -1,0 +1,152 @@
+{
+    "title": "How to Test the Specific Gravity of Liquids",
+    "url": "https://www.wikihow.com/Test-the-Specific-Gravity-of-Liquids",
+    "category_hierarchy": [
+        "Hobbies and Crafts"
+    ],
+    "methods": [
+        {
+            "name": "Measuring Specific Gravity with a Hydrometer",
+            "steps": [
+                {
+                    "headline": "Pour a sample of your liquid into a container.",
+                    "description": "Make sure that the liquid in the container is deep enough to allow the hydrometer to float. If the hydrometer rests on the bottom of the container, you will not get an accurate reading. Leave room in the container for the hydrometer to displace some of the liquid, otherwise, you\u2019ll end up with a spill. The shape and material of the container is irrelevant as long as there is enough liquid present for the hydrometer to float properly."
+                },
+                {
+                    "headline": "Check that your liquid is the correct temperature.",
+                    "description": "Your hydrometer will be calibrated to a specific temperature. If your liquid is at a different temperature, the density of the liquid will not match the calibration of the hydrometer. This will cause your reading to be incorrect. A common hydrometer calibration is 60 \u00b0F (16 \u00b0C). You can use a thermometer to check the temperature of your liquid, and then heat or cool as needed."
+                },
+                {
+                    "headline": "Place the hydrometer in the liquid.",
+                    "description": "The hydrometer is a specialized glass tube that has a weighted end. Place it in the water with the weighted end down. Allow the hydrometer to settle and stop bobbing before taking a reading."
+                },
+                {
+                    "headline": "Read the specific gravity from the hydrometer.",
+                    "description": "The hydrometer is marked with different specific gravity measurements at different intervals. Once it stops floating, the water line will be at one of these marks. The number corresponding to this mark is the specific gravity of your liquid. The reading on the hydrometer is usually a decimal, but it is derived as a ratio of the density of your liquid to the density of water at a given temperature. In other words, if your hydrometer reads 1.1, that means your liquid was 1.1 times as dense as water at that temperature. Note that specific gravity is a unitless measurement. You can look up the specific gravity of some common liquids. Examples are listed below:\nAcetic Acid: 1.052\nAcetone: 0.787\nBeer: 1.01\nBromine: 3.12\nMilk: 1.035\nMercury: 13.633"
+                }
+            ]
+        },
+        {
+            "name": "Calculating Specific Gravity by Weight",
+            "steps": [
+                {
+                    "headline": "Obtain a weight for the liquid in question.",
+                    "description": "First, pre-weigh a container. Next, take the weight of the container again, but this time with a specified volume of your liquid inside. Subtract the weight of the liquid-filled container from the weight of the empty container. The difference is the weight of your liquid. For example, if your container weighed 1.50 pounds with liquid in it and 1.00 pound empty, your equation would look like this: \"1.50 lb - 1.00 lb = 0.50 lb.\" Your liquid weighs 0.50 pounds. Make sure the temperature of your liquid is noted when this weight is taken. You must compare it to water of the same temperature."
+                },
+                {
+                    "headline": "Obtain the weight of an identical volume of water.",
+                    "description": "Fill the same container to the same volume. Then, weigh the container and find the weight of that volume of water. You should not need to pre-weigh the container again, since you already know the weight of the empty container. Use the same formula to find the weight of the water. If the liquid-filled container weighted 1.75 pounds, the equation would look like this: \"1.75 lb - 1.00 lb = 0.75 lb.\" In this example, the water weighs 0.75 pounds. Make sure that the water is at the exact same temperature as the liquid in question. Otherwise, results may not be accurate."
+                },
+                {
+                    "headline": "Calculate the ratio of the liquid\u2019s weight to the weight of water.",
+                    "description": "Since you are dividing one weight by another, the units will cancel out. This makes specific gravity a unitless measurement. Use the ratio \"Wl / Wwater\u201d where Wl is the weight of your liquid and Wwater is the weight of water. For example, if you weighed 100 mL of acetone at 25 degrees Celsius, it would weigh 0.17314 pounds. Weighing the same volume of water at the same temperature would give you 0.22 pounds. To find the specific gravity of this acetone, you would solve 0.17314lbs/0.22lbs=0.787{\\displaystyle 0.17314lbs/0.22lbs=0.787}. This is the specific gravity of acetone."
+                }
+            ]
+        },
+        {
+            "name": "Calculating Specific Gravity by Density",
+            "steps": [
+                {
+                    "headline": "Obtain the density for the liquid in question.",
+                    "description": "The density of a substance is equal to its mass divided by its volume. You can measure the mass on a scale and record the volume of the liquid used. Use the equation \"m / v = D\" where m is mass in grams or kilograms, v is volume in milliliters or liters, and D is density. For example, if you had a sample that was 8 grams and 9 milliliters, your equation would be: \"8.00 g / 9.00 mL = 0.89 g/mL.\" Weigh an empty container first and record its weight. Next, fill your container with the desired liquid and weigh it again. The mass of your liquid is equal to the second measurement minus the first. For instance, if the filled container weighed 2.00 lbs and the empty container weighed 0.75 lbs, the equation would be: \u201c2.00 - 0.75 = 1.25\u201d and the liquid would weigh 1.25 lbs."
+                },
+                {
+                    "headline": "Obtain the density of an identical volume of water.",
+                    "description": "Between -10 degrees Celsius and +30 degrees Celsius, the density of water can be rounded to 1.00 (assuming 3 significant figures). If you are using liquids that do not fall in that temperature range, you can measure the mass and the volume of your water and calculate the density. Alternatively, you can often find charts with the density of water at different temperatures. It\u2019s important to find the density of water that is the same temperature as the liquid in order to get accurate measurements."
+                },
+                {
+                    "headline": "Keep your liquids the same temperature.",
+                    "description": "Substances expand when they are heated and contract when they are cooled. Since density is a measure of how much mass is in a given volume, the measurement is changed by the expansion and contraction due to temperature. If you want to get accurate specific gravity calculations, it is necessary that the liquid you are measuring and the water that you are using as a comparison are both at the same temperature."
+                },
+                {
+                    "headline": "Calculate the ratio of the liquid\u2019s density to the density of water.",
+                    "description": "The units will cancel out in this equation, leaving you with a unitless quantity. That number is the specific gravity (or relative density) of your liquid. The ratio used will be \"Dl / Dwater\u201d where Dl is the density of your liquid and Dwater is the density of your water. For example, if you were to take the density of acetone (0.787 g/mL @ 25 degrees C) and divide it by the density of water (1.00 g/mL @ 25 degrees C), you would get 0.787g/mL/1.00g/mL=0.787{\\displaystyle 0.787g/mL/1.00g/mL=0.787}."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Measuring Specific Gravity With a Hydrometer",
+        "Hydrometer",
+        "Container",
+        "Liquid",
+        "Water",
+        "Measuring Specific Gravity by Weight",
+        "Scale"
+    ],
+    "text": " Measuring Specific Gravity with a Hydrometer Pour a sample of your liquid into a container. Make sure that the liquid in the container is deep enough to allow the hydrometer to float. If the hydrometer rests on the bottom of the container, you will not get an accurate reading. Leave room in the container for the hydrometer to displace some of the liquid, otherwise, you\u2019ll end up with a spill. The shape and material of the container is irrelevant as long as there is enough liquid present for the hydrometer to float properly. Check that your liquid is the correct temperature. Your hydrometer will be calibrated to a specific temperature. If your liquid is at a different temperature, the density of the liquid will not match the calibration of the hydrometer. This will cause your reading to be incorrect. A common hydrometer calibration is 60 \u00b0F (16 \u00b0C). You can use a thermometer to check the temperature of your liquid, and then heat or cool as needed. Place the hydrometer in the liquid. The hydrometer is a specialized glass tube that has a weighted end. Place it in the water with the weighted end down. Allow the hydrometer to settle and stop bobbing before taking a reading. Read the specific gravity from the hydrometer. The hydrometer is marked with different specific gravity measurements at different intervals. Once it stops floating, the water line will be at one of these marks. The number corresponding to this mark is the specific gravity of your liquid. The reading on the hydrometer is usually a decimal, but it is derived as a ratio of the density of your liquid to the density of water at a given temperature. In other words, if your hydrometer reads 1.1, that means your liquid was 1.1 times as dense as water at that temperature. Note that specific gravity is a unitless measurement. You can look up the specific gravity of some common liquids. Examples are listed below:\nAcetic Acid: 1.052\nAcetone: 0.787\nBeer: 1.01\nBromine: 3.12\nMilk: 1.035\nMercury: 13.633 Calculating Specific Gravity by Weight Obtain a weight for the liquid in question. First, pre-weigh a container. Next, take the weight of the container again, but this time with a specified volume of your liquid inside. Subtract the weight of the liquid-filled container from the weight of the empty container. The difference is the weight of your liquid. For example, if your container weighed 1.50 pounds with liquid in it and 1.00 pound empty, your equation would look like this: \"1.50 lb - 1.00 lb = 0.50 lb.\" Your liquid weighs 0.50 pounds. Make sure the temperature of your liquid is noted when this weight is taken. You must compare it to water of the same temperature. Obtain the weight of an identical volume of water. Fill the same container to the same volume. Then, weigh the container and find the weight of that volume of water. You should not need to pre-weigh the container again, since you already know the weight of the empty container. Use the same formula to find the weight of the water. If the liquid-filled container weighted 1.75 pounds, the equation would look like this: \"1.75 lb - 1.00 lb = 0.75 lb.\" In this example, the water weighs 0.75 pounds. Make sure that the water is at the exact same temperature as the liquid in question. Otherwise, results may not be accurate. Calculate the ratio of the liquid\u2019s weight to the weight of water. Since you are dividing one weight by another, the units will cancel out. This makes specific gravity a unitless measurement. Use the ratio \"Wl / Wwater\u201d where Wl is the weight of your liquid and Wwater is the weight of water. For example, if you weighed 100 mL of acetone at 25 degrees Celsius, it would weigh 0.17314 pounds. Weighing the same volume of water at the same temperature would give you 0.22 pounds. To find the specific gravity of this acetone, you would solve 0.17314lbs/0.22lbs=0.787{\\displaystyle 0.17314lbs/0.22lbs=0.787}. This is the specific gravity of acetone. Calculating Specific Gravity by Density Obtain the density for the liquid in question. The density of a substance is equal to its mass divided by its volume. You can measure the mass on a scale and record the volume of the liquid used. Use the equation \"m / v = D\" where m is mass in grams or kilograms, v is volume in milliliters or liters, and D is density. For example, if you had a sample that was 8 grams and 9 milliliters, your equation would be: \"8.00 g / 9.00 mL = 0.89 g/mL.\" Weigh an empty container first and record its weight. Next, fill your container with the desired liquid and weigh it again. The mass of your liquid is equal to the second measurement minus the first. For instance, if the filled container weighed 2.00 lbs and the empty container weighed 0.75 lbs, the equation would be: \u201c2.00 - 0.75 = 1.25\u201d and the liquid would weigh 1.25 lbs. Obtain the density of an identical volume of water. Between -10 degrees Celsius and +30 degrees Celsius, the density of water can be rounded to 1.00 (assuming 3 significant figures). If you are using liquids that do not fall in that temperature range, you can measure the mass and the volume of your water and calculate the density. Alternatively, you can often find charts with the density of water at different temperatures. It\u2019s important to find the density of water that is the same temperature as the liquid in order to get accurate measurements. Keep your liquids the same temperature. Substances expand when they are heated and contract when they are cooled. Since density is a measure of how much mass is in a given volume, the measurement is changed by the expansion and contraction due to temperature. If you want to get accurate specific gravity calculations, it is necessary that the liquid you are measuring and the water that you are using as a comparison are both at the same temperature. Calculate the ratio of the liquid\u2019s density to the density of water. The units will cancel out in this equation, leaving you with a unitless quantity. That number is the specific gravity (or relative density) of your liquid. The ratio used will be \"Dl / Dwater\u201d where Dl is the density of your liquid and Dwater is the density of your water. For example, if you were to take the density of acetone (0.787 g/mL @ 25 degrees C) and divide it by the density of water (1.00 g/mL @ 25 degrees C), you would get 0.787g/mL/1.00g/mL=0.787{\\displaystyle 0.787g/mL/1.00g/mL=0.787}.",
+    "sentences": [
+        " Measuring Specific Gravity with a Hydrometer Pour a sample of your liquid into a container.",
+        "Make sure that the liquid in the container is deep enough to allow the hydrometer to float.",
+        "If the hydrometer rests on the bottom of the container, you will not get an accurate reading.",
+        "Leave room in the container for the hydrometer to displace some of the liquid, otherwise, you\u2019ll end up with a spill.",
+        "The shape and material of the container is irrelevant as long as there is enough liquid present for the hydrometer to float properly.",
+        "Check that your liquid is the correct temperature.",
+        "Your hydrometer will be calibrated to a specific temperature.",
+        "If your liquid is at a different temperature, the density of the liquid will not match the calibration of the hydrometer.",
+        "This will cause your reading to be incorrect.",
+        "A common hydrometer calibration is 60 \u00b0F (16 \u00b0C).",
+        "You can use a thermometer to check the temperature of your liquid, and then heat or cool as needed.",
+        "Place the hydrometer in the liquid.",
+        "The hydrometer is a specialized glass tube that has a weighted end.",
+        "Place it in the water with the weighted end down.",
+        "Allow the hydrometer to settle and stop bobbing before taking a reading.",
+        "Read the specific gravity from the hydrometer.",
+        "The hydrometer is marked with different specific gravity measurements at different intervals.",
+        "Once it stops floating, the water line will be at one of these marks.",
+        "The number corresponding to this mark is the specific gravity of your liquid.",
+        "The reading on the hydrometer is usually a decimal, but it is derived as a ratio of the density of your liquid to the density of water at a given temperature.",
+        "In other words, if your hydrometer reads 1.1, that means your liquid was 1.1 times as dense as water at that temperature.",
+        "Note that specific gravity is a unitless measurement.",
+        "You can look up the specific gravity of some common liquids.",
+        "Examples are listed below:\nAcetic Acid: 1.052\nAcetone: 0.787\nBeer: 1.01\nBromine: 3.12\nMilk: 1.035\nMercury: 13.633 Calculating Specific Gravity by Weight Obtain a weight for the liquid in question.",
+        "First, pre-weigh a container.",
+        "Next, take the weight of the container again, but this time with a specified volume of your liquid inside.",
+        "Subtract the weight of the liquid-filled container from the weight of the empty container.",
+        "The difference is the weight of your liquid.",
+        "For example, if your container weighed 1.50 pounds with liquid in it and 1.00 pound empty, your equation would look like this: \"1.50 lb - 1.00 lb = 0.50 lb.\"",
+        "Your liquid weighs 0.50 pounds.",
+        "Make sure the temperature of your liquid is noted when this weight is taken.",
+        "You must compare it to water of the same temperature.",
+        "Obtain the weight of an identical volume of water.",
+        "Fill the same container to the same volume.",
+        "Then, weigh the container and find the weight of that volume of water.",
+        "You should not need to pre-weigh the container again, since you already know the weight of the empty container.",
+        "Use the same formula to find the weight of the water.",
+        "If the liquid-filled container weighted 1.75 pounds, the equation would look like this: \"1.75 lb - 1.00 lb = 0.75 lb.\"",
+        "In this example, the water weighs 0.75 pounds.",
+        "Make sure that the water is at the exact same temperature as the liquid in question.",
+        "Otherwise, results may not be accurate.",
+        "Calculate the ratio of the liquid\u2019s weight to the weight of water.",
+        "Since you are dividing one weight by another, the units will cancel out.",
+        "This makes specific gravity a unitless measurement.",
+        "Use the ratio \"Wl / Wwater\u201d where Wl is the weight of your liquid and Wwater is the weight of water.",
+        "For example, if you weighed 100 mL of acetone at 25 degrees Celsius, it would weigh 0.17314 pounds.",
+        "Weighing the same volume of water at the same temperature would give you 0.22 pounds.",
+        "To find the specific gravity of this acetone, you would solve 0.17314lbs/0.22lbs=0.787{\\displaystyle 0.17314lbs/0.22lbs=0.787}.",
+        "This is the specific gravity of acetone.",
+        "Calculating Specific Gravity by Density Obtain the density for the liquid in question.",
+        "The density of a substance is equal to its mass divided by its volume.",
+        "You can measure the mass on a scale and record the volume of the liquid used.",
+        "Use the equation \"m / v = D\" where m is mass in grams or kilograms, v is volume in milliliters or liters, and D is density.",
+        "For example, if you had a sample that was 8 grams and 9 milliliters, your equation would be: \"8.00 g / 9.00 mL = 0.89 g/mL.\"",
+        "Weigh an empty container first and record its weight.",
+        "Next, fill your container with the desired liquid and weigh it again.",
+        "The mass of your liquid is equal to the second measurement minus the first.",
+        "For instance, if the filled container weighed 2.00 lbs and the empty container weighed 0.75 lbs, the equation would be: \u201c2.00 - 0.75 = 1.25\u201d and the liquid would weigh 1.25 lbs.",
+        "Obtain the density of an identical volume of water.",
+        "Between -10 degrees Celsius and +30 degrees Celsius, the density of water can be rounded to 1.00 (assuming 3 significant figures).",
+        "If you are using liquids that do not fall in that temperature range, you can measure the mass and the volume of your water and calculate the density.",
+        "Alternatively, you can often find charts with the density of water at different temperatures.",
+        "It\u2019s important to find the density of water that is the same temperature as the liquid in order to get accurate measurements.",
+        "Keep your liquids the same temperature.",
+        "Substances expand when they are heated and contract when they are cooled.",
+        "Since density is a measure of how much mass is in a given volume, the measurement is changed by the expansion and contraction due to temperature.",
+        "If you want to get accurate specific gravity calculations, it is necessary that the liquid you are measuring and the water that you are using as a comparison are both at the same temperature.",
+        "Calculate the ratio of the liquid\u2019s density to the density of water.",
+        "The units will cancel out in this equation, leaving you with a unitless quantity.",
+        "That number is the specific gravity (or relative density) of your liquid.",
+        "The ratio used will be \"Dl / Dwater\u201d where Dl is the density of your liquid and Dwater is the density of your water.",
+        "For example, if you were to take the density of acetone (0.787 g/mL @ 25 degrees C) and divide it by the density of water (1.00 g/mL @ 25 degrees C), you would get 0.787g/mL/1.00g/mL=0.787{\\displaystyle 0.787g/mL/1.00g/mL=0.787}."
+    ]
+}

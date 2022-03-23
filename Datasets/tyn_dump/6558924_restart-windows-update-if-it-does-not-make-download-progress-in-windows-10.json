@@ -1,0 +1,75 @@
+{
+    "title": "How to Restart Windows Update if It Does Not Make Download Progress in Windows 10",
+    "url": "https://www.wikihow.com/Restart-Windows-Update-if-It-Does-Not-Make-Download-Progress-in-Windows-10",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows",
+        "Windows 10"
+    ],
+    "steps": [
+        {
+            "headline": "Restart Windows 10.",
+            "description": "Click the Start button, then click Power, after, click Restart."
+        },
+        {
+            "headline": "Log into an administrator's account.",
+            "description": ""
+        },
+        {
+            "headline": "Open Windows Services.",
+            "description": "Click the Start button, type services.msc, then press \u21b5 Enter after it finishes searching."
+        },
+        {
+            "headline": "Stop the Background Intelligent Transfer Service service.",
+            "description": "Find Background Intelligent Transfer Service, right click it, then click Stop."
+        },
+        {
+            "headline": "Stop the Windows Update service.",
+            "description": "Find Windows Update, right click it, then click Stop."
+        },
+        {
+            "headline": "Open the Run dialog.",
+            "description": "Press \u229e Win+R."
+        },
+        {
+            "headline": "Type %windir%\\SoftwareDistribution and click OK.",
+            "description": ""
+        },
+        {
+            "headline": "Delete everything in the folder that opens.",
+            "description": "Press Ctrl+A to select all of the files in the folder, then press \u21e7 Shift+Delete and click Yes to permanently delete the files."
+        },
+        {
+            "headline": "Restart services previously stopped.",
+            "description": "In the Services.msc window, right click Background Intelligent Transfer Service and click Start, then right click Windows Update and click Start."
+        },
+        {
+            "headline": "Download the updates again.",
+            "description": "Open Windows Update then check for updates."
+        }
+    ],
+    "tyn": [
+        "An administrator account"
+    ],
+    "text": " Restart Windows 10. Click the Start button, then click Power, after, click Restart. Log into an administrator's account.  Open Windows Services. Click the Start button, type services.msc, then press \u21b5 Enter after it finishes searching. Stop the Background Intelligent Transfer Service service. Find Background Intelligent Transfer Service, right click it, then click Stop. Stop the Windows Update service. Find Windows Update, right click it, then click Stop. Open the Run dialog. Press \u229e Win+R. Type %windir%\\SoftwareDistribution and click OK.  Delete everything in the folder that opens. Press Ctrl+A to select all of the files in the folder, then press \u21e7 Shift+Delete and click Yes to permanently delete the files. Restart services previously stopped. In the Services.msc window, right click Background Intelligent Transfer Service and click Start, then right click Windows Update and click Start. Download the updates again. Open Windows Update then check for updates.",
+    "sentences": [
+        " Restart Windows 10.",
+        "Click the Start button, then click Power, after, click Restart.",
+        "Log into an administrator's account.",
+        "Open Windows Services.",
+        "Click the Start button, type services.msc, then press \u21b5 Enter after it finishes searching.",
+        "Stop the Background Intelligent Transfer Service service.",
+        "Find Background Intelligent Transfer Service, right click it, then click Stop.",
+        "Stop the Windows Update service.",
+        "Find Windows Update, right click it, then click Stop.",
+        "Open the Run dialog.",
+        "Press \u229e Win+R.",
+        "Type %windir%\\SoftwareDistribution and click OK.  Delete everything in the folder that opens.",
+        "Press Ctrl+A to select all of the files in the folder, then press \u21e7 Shift+Delete and click Yes to permanently delete the files.",
+        "Restart services previously stopped.",
+        "In the Services.msc window, right click Background Intelligent Transfer Service and click Start, then right click Windows Update and click Start.",
+        "Download the updates again.",
+        "Open Windows Update then check for updates."
+    ]
+}

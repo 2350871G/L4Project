@@ -1,0 +1,268 @@
+{
+    "title": "How to Figure Out Why a Computer Won't Boot",
+    "url": "https://www.wikihow.com/Figure-Out-Why-a-Computer-Won%27t-Boot",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computers",
+        "Computer Troubleshooting"
+    ],
+    "methods": [
+        {
+            "name": "For a Windows Computer that Doesn\u2019t Power Up",
+            "steps": [
+                {
+                    "headline": "Check the power supply.",
+                    "description": "Also make sure that your computer is firmly plugged in to its socket. EXPERT TIP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLuigi Oppido\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\t\t\t\t\tLuigi Oppido is the Owner and Operator of Pleasure Point Computers in Santa Cruz, California. Luigi has over 25 years of experience in general computer repair, data recovery, virus removal, and upgrades. Luigi Oppido\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\tOur Expert Agrees: First, you need to determine if the computer is plugged in. Look for an indicator light or unplug the power and check it with something else that has a light to make sure power is flowing. Computers are like cars \u2014 without fuel, they don\u2019t run."
+                },
+                {
+                    "headline": "Turn off your computer.",
+                    "description": "Ensure that all your power leads are connected properly."
+                },
+                {
+                    "headline": "Wait at least 10 seconds.",
+                    "description": "This will allow your computer\u2019s capacitors enough time to totally discharge. Waiting for a few seconds helps them shut down completely."
+                },
+                {
+                    "headline": "Turn your computer back on.",
+                    "description": "Now, your computer will have had enough time to completely shut down."
+                }
+            ]
+        },
+        {
+            "name": "For a Computer that Freezes upon Startup",
+            "steps": [
+                {
+                    "headline": "Shut down the computer again.",
+                    "description": ""
+                },
+                {
+                    "headline": "Reboot your computer after 2 minutes.",
+                    "description": ""
+                },
+                {
+                    "headline": "Choose booting options.",
+                    "description": "In case the screen displays the \u201cWindows\u201d logo and asks you to choose an option for booting, read the directions carefully and make your choice."
+                },
+                {
+                    "headline": "Restart your system in Safe Mode.",
+                    "description": "Press F8 as your device reboots. This will take you to Safe Mode."
+                },
+                {
+                    "headline": "Uninstall new software.",
+                    "description": "Uninstall any new software or driver that you installed or updated recently. This may automatically resolve the issue."
+                },
+                {
+                    "headline": "Turn it back on and get into BIOS.",
+                    "description": "Look for the root of the issue. In case you have overclocked, set your FSB and vCore down to stock levels. Once you are done, click on \u201cExit and save changes\u201d."
+                },
+                {
+                    "headline": "Open up the computer.",
+                    "description": "Unscrew only the screws at the back, which are located on the very outer rim. Keep touching the metal part of the case, before you delve into your computer. This helps prevent electrostatic shock, which could potentially harm your system."
+                },
+                {
+                    "headline": "Remove and reinstall components.",
+                    "description": "Take out the memory card, graphics card and wires attached to the CPU (Central Processing Unit) pins. Remove the battery. This is located near the bottom of the motherboard. It is usually housed inside its own little holster, with a lever on one end. Wait a couple of minutes. Then reconnect each component."
+                },
+                {
+                    "headline": "Plug in your computer.",
+                    "description": "Then restart it. Perform steps 7 and 8 only if you are comfortable working with computers. Otherwise you could end up complicating matters further."
+                },
+                {
+                    "headline": "Visit a repair shop.",
+                    "description": "In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop. Describe the issue as best as you can and let them handle the problem."
+                }
+            ]
+        },
+        {
+            "name": "For a Windows Laptop that Doesn\u2019t Start Up",
+            "steps": [
+                {
+                    "headline": "Check the power supply.",
+                    "description": ""
+                },
+                {
+                    "headline": "Check your laptop charger.",
+                    "description": "Ensure that you are using the right type of charger for your laptop. Laptops typically require 16-20V chargers. A charger with a different voltage may not offer enough current to power your laptop."
+                },
+                {
+                    "headline": "Test it with a spare charger.",
+                    "description": "This helps you ascertain that the current charger is not causing the trouble."
+                },
+                {
+                    "headline": "Check the laptop battery power.",
+                    "description": "Make sure the laptop battery has some charge in it. If it is running low on power, plug it in and power it up."
+                },
+                {
+                    "headline": "Shut down your laptop.",
+                    "description": ""
+                },
+                {
+                    "headline": "Wait a couple of minutes.",
+                    "description": "Then restart it."
+                },
+                {
+                    "headline": "Disconnect external accessories.",
+                    "description": "Disconnect all external devices, including monitors, cameras and so on. This way, you can make sure that they are not preventing your laptop from booting properly."
+                },
+                {
+                    "headline": "Verify that the display is functional.",
+                    "description": "Ensure that your laptop screen display is functional. If your laptop\u2019s power LED is working and you can hear the hard disk or fans whirring, but you cannot see an image on the screen, the actual problem could be with the display. Sometimes, the screen\u2019s inverter failure causes the problem with the display. If this is the case, you could get the inverter replaced. Use an external monitor to test your laptop\u2019s display. Plug-in your monitor, power up your laptop and immediately shut its lid. If this external monitor cannot connect to your device, then the issue goes beyond a damaged screen display."
+                },
+                {
+                    "headline": "Visit a repair shop.",
+                    "description": "In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop. Describe the issue as best as you can and let them handle the problem."
+                }
+            ]
+        },
+        {
+            "name": "For a Mac that Doesn\u2019t Start Up",
+            "steps": [
+                {
+                    "headline": "Check the power supply.",
+                    "description": "Also ensure that you are using the correct power cord and adaptor."
+                },
+                {
+                    "headline": "Disconnect external accessories.",
+                    "description": ""
+                },
+                {
+                    "headline": "Check recently installed software/hardware.",
+                    "description": "Make sure that you correctly installed or updated software and/or drivers in the recent past."
+                },
+                {
+                    "headline": "Ensure that the display is functional.",
+                    "description": "If your Mac boots up, but you cannot access the display, then the problem most probably lies with the display hardware or with the screen itself."
+                },
+                {
+                    "headline": "Run Disk Utility.",
+                    "description": "On Macs running OS X 10.8 Mountain Lion or later, you need to boot into OS X Recovery Mode. Power-off your Mac. If your system does not respond, hold down the Mac\u2019s power button for a few seconds. It will automatically shut down. Hold down the Command and R keys. This will power-on the system again. Click on the Mac\u2019s built-in hard drive of Disk Utility. Click \u201cVerify Disk\u201d and then wait for the system to complete the task."
+                },
+                {
+                    "headline": "Safe Boot the Mac.",
+                    "description": "Shut down your system and start up, while holding down the Shift key. Holding down the Shift, Command and V enters both Safe Boot and Verbose Mode. This walks you through what Safe Boot is actually trying to do, at each stage."
+                },
+                {
+                    "headline": "Reset the SMC.",
+                    "description": "If nothing else works, you may wish to reset your Mac\u2019s SMC (System Management Controller). Apple offers detailed instructions on how to go about this process."
+                },
+                {
+                    "headline": "Reinstall Mac OS X.",
+                    "description": "Boot into Recovery Mode and click to install Mavericks. Then follow the on-screen prompts to complete the process."
+                },
+                {
+                    "headline": "Visit a repair shop.",
+                    "description": "In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop. Describe the issue as best as you can and let them handle the problem."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A head screwdriver (If you are venturing inside your computer)",
+        "An electrostatic grounding wristband (optional)"
+    ],
+    "text": " For a Windows Computer that Doesn\u2019t Power Up Check the power supply. Also make sure that your computer is firmly plugged in to its socket. EXPERT TIP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLuigi Oppido\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\t\t\t\t\tLuigi Oppido is the Owner and Operator of Pleasure Point Computers in Santa Cruz, California. Luigi has over 25 years of experience in general computer repair, data recovery, virus removal, and upgrades. Luigi Oppido\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\tOur Expert Agrees: First, you need to determine if the computer is plugged in. Look for an indicator light or unplug the power and check it with something else that has a light to make sure power is flowing. Computers are like cars \u2014 without fuel, they don\u2019t run. Turn off your computer. Ensure that all your power leads are connected properly. Wait at least 10 seconds. This will allow your computer\u2019s capacitors enough time to totally discharge. Waiting for a few seconds helps them shut down completely. Turn your computer back on. Now, your computer will have had enough time to completely shut down. For a Computer that Freezes upon Startup Shut down the computer again.  Reboot your computer after 2 minutes.  Choose booting options. In case the screen displays the \u201cWindows\u201d logo and asks you to choose an option for booting, read the directions carefully and make your choice. Restart your system in Safe Mode. Press F8 as your device reboots. This will take you to Safe Mode. Uninstall new software. Uninstall any new software or driver that you installed or updated recently. This may automatically resolve the issue. Turn it back on and get into BIOS. Look for the root of the issue. In case you have overclocked, set your FSB and vCore down to stock levels. Once you are done, click on \u201cExit and save changes\u201d. Open up the computer. Unscrew only the screws at the back, which are located on the very outer rim. Keep touching the metal part of the case, before you delve into your computer. This helps prevent electrostatic shock, which could potentially harm your system. Remove and reinstall components. Take out the memory card, graphics card and wires attached to the CPU (Central Processing Unit) pins. Remove the battery. This is located near the bottom of the motherboard. It is usually housed inside its own little holster, with a lever on one end. Wait a couple of minutes. Then reconnect each component. Plug in your computer. Then restart it. Perform steps 7 and 8 only if you are comfortable working with computers. Otherwise you could end up complicating matters further. Visit a repair shop. In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop. Describe the issue as best as you can and let them handle the problem. For a Windows Laptop that Doesn\u2019t Start Up Check the power supply.  Check your laptop charger. Ensure that you are using the right type of charger for your laptop. Laptops typically require 16-20V chargers. A charger with a different voltage may not offer enough current to power your laptop. Test it with a spare charger. This helps you ascertain that the current charger is not causing the trouble. Check the laptop battery power. Make sure the laptop battery has some charge in it. If it is running low on power, plug it in and power it up. Shut down your laptop.  Wait a couple of minutes. Then restart it. Disconnect external accessories. Disconnect all external devices, including monitors, cameras and so on. This way, you can make sure that they are not preventing your laptop from booting properly. Verify that the display is functional. Ensure that your laptop screen display is functional. If your laptop\u2019s power LED is working and you can hear the hard disk or fans whirring, but you cannot see an image on the screen, the actual problem could be with the display. Sometimes, the screen\u2019s inverter failure causes the problem with the display. If this is the case, you could get the inverter replaced. Use an external monitor to test your laptop\u2019s display. Plug-in your monitor, power up your laptop and immediately shut its lid. If this external monitor cannot connect to your device, then the issue goes beyond a damaged screen display. Visit a repair shop. In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop. Describe the issue as best as you can and let them handle the problem. For a Mac that Doesn\u2019t Start Up Check the power supply. Also ensure that you are using the correct power cord and adaptor. Disconnect external accessories.  Check recently installed software/hardware. Make sure that you correctly installed or updated software and/or drivers in the recent past. Ensure that the display is functional. If your Mac boots up, but you cannot access the display, then the problem most probably lies with the display hardware or with the screen itself. Run Disk Utility. On Macs running OS X 10.8 Mountain Lion or later, you need to boot into OS X Recovery Mode. Power-off your Mac. If your system does not respond, hold down the Mac\u2019s power button for a few seconds. It will automatically shut down. Hold down the Command and R keys. This will power-on the system again. Click on the Mac\u2019s built-in hard drive of Disk Utility. Click \u201cVerify Disk\u201d and then wait for the system to complete the task. Safe Boot the Mac. Shut down your system and start up, while holding down the Shift key. Holding down the Shift, Command and V enters both Safe Boot and Verbose Mode. This walks you through what Safe Boot is actually trying to do, at each stage. Reset the SMC. If nothing else works, you may wish to reset your Mac\u2019s SMC (System Management Controller). Apple offers detailed instructions on how to go about this process. Reinstall Mac OS X. Boot into Recovery Mode and click to install Mavericks. Then follow the on-screen prompts to complete the process. Visit a repair shop. In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop. Describe the issue as best as you can and let them handle the problem.",
+    "sentences": [
+        " For a Windows Computer that Doesn\u2019t Power Up Check the power supply.",
+        "Also make sure that your computer is firmly plugged in to its socket.",
+        "EXPERT TIP\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLuigi Oppido\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\t\t\t\t\tLuigi Oppido is the Owner and Operator of Pleasure Point Computers in Santa Cruz, California.",
+        "Luigi has over 25 years of experience in general computer repair, data recovery, virus removal, and upgrades.",
+        "Luigi Oppido\t\t\tComputer Repair Technician & Owner, Pleasure Point Computers\t\t\t\tOur Expert Agrees: First, you need to determine if the computer is plugged in.",
+        "Look for an indicator light or unplug the power and check it with something else that has a light to make sure power is flowing.",
+        "Computers are like cars \u2014 without fuel, they don\u2019t run.",
+        "Turn off your computer.",
+        "Ensure that all your power leads are connected properly.",
+        "Wait at least 10 seconds.",
+        "This will allow your computer\u2019s capacitors enough time to totally discharge.",
+        "Waiting for a few seconds helps them shut down completely.",
+        "Turn your computer back on.",
+        "Now, your computer will have had enough time to completely shut down.",
+        "For a Computer that Freezes upon Startup Shut down the computer again.",
+        "Reboot your computer after 2 minutes.",
+        "Choose booting options.",
+        "In case the screen displays the \u201cWindows\u201d logo and asks you to choose an option for booting, read the directions carefully and make your choice.",
+        "Restart your system in Safe Mode.",
+        "Press F8 as your device reboots.",
+        "This will take you to Safe Mode.",
+        "Uninstall new software.",
+        "Uninstall any new software or driver that you installed or updated recently.",
+        "This may automatically resolve the issue.",
+        "Turn it back on and get into BIOS.",
+        "Look for the root of the issue.",
+        "In case you have overclocked, set your FSB and vCore down to stock levels.",
+        "Once you are done, click on \u201cExit and save changes\u201d.",
+        "Open up the computer.",
+        "Unscrew only the screws at the back, which are located on the very outer rim.",
+        "Keep touching the metal part of the case, before you delve into your computer.",
+        "This helps prevent electrostatic shock, which could potentially harm your system.",
+        "Remove and reinstall components.",
+        "Take out the memory card, graphics card and wires attached to the CPU (Central Processing Unit) pins.",
+        "Remove the battery.",
+        "This is located near the bottom of the motherboard.",
+        "It is usually housed inside its own little holster, with a lever on one end.",
+        "Wait a couple of minutes.",
+        "Then reconnect each component.",
+        "Plug in your computer.",
+        "Then restart it.",
+        "Perform steps 7 and 8 only if you are comfortable working with computers.",
+        "Otherwise you could end up complicating matters further.",
+        "Visit a repair shop.",
+        "In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop.",
+        "Describe the issue as best as you can and let them handle the problem.",
+        "For a Windows Laptop that Doesn\u2019t Start Up Check the power supply.",
+        "Check your laptop charger.",
+        "Ensure that you are using the right type of charger for your laptop.",
+        "Laptops typically require 16-20V chargers.",
+        "A charger with a different voltage may not offer enough current to power your laptop.",
+        "Test it with a spare charger.",
+        "This helps you ascertain that the current charger is not causing the trouble.",
+        "Check the laptop battery power.",
+        "Make sure the laptop battery has some charge in it.",
+        "If it is running low on power, plug it in and power it up.",
+        "Shut down your laptop.",
+        "Wait a couple of minutes.",
+        "Then restart it.",
+        "Disconnect external accessories.",
+        "Disconnect all external devices, including monitors, cameras and so on.",
+        "This way, you can make sure that they are not preventing your laptop from booting properly.",
+        "Verify that the display is functional.",
+        "Ensure that your laptop screen display is functional.",
+        "If your laptop\u2019s power LED is working and you can hear the hard disk or fans whirring, but you cannot see an image on the screen, the actual problem could be with the display.",
+        "Sometimes, the screen\u2019s inverter failure causes the problem with the display.",
+        "If this is the case, you could get the inverter replaced.",
+        "Use an external monitor to test your laptop\u2019s display.",
+        "Plug-in your monitor, power up your laptop and immediately shut its lid.",
+        "If this external monitor cannot connect to your device, then the issue goes beyond a damaged screen display.",
+        "Visit a repair shop.",
+        "In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop.",
+        "Describe the issue as best as you can and let them handle the problem.",
+        "For a Mac that Doesn\u2019t Start Up Check the power supply.",
+        "Also ensure that you are using the correct power cord and adaptor.",
+        "Disconnect external accessories.",
+        "Check recently installed software/hardware.",
+        "Make sure that you correctly installed or updated software and/or drivers in the recent past.",
+        "Ensure that the display is functional.",
+        "If your Mac boots up, but you cannot access the display, then the problem most probably lies with the display hardware or with the screen itself.",
+        "Run Disk Utility.",
+        "On Macs running OS X 10.8 Mountain Lion or later, you need to boot into OS X Recovery Mode.",
+        "Power-off your Mac.",
+        "If your system does not respond, hold down the Mac\u2019s power button for a few seconds.",
+        "It will automatically shut down.",
+        "Hold down the Command and R keys.",
+        "This will power-on the system again.",
+        "Click on the Mac\u2019s built-in hard drive of Disk Utility.",
+        "Click \u201cVerify Disk\u201d and then wait for the system to complete the task.",
+        "Safe Boot the Mac.",
+        "Shut down your system and start up, while holding down the Shift key.",
+        "Holding down the Shift, Command and V enters both Safe Boot and Verbose Mode.",
+        "This walks you through what Safe Boot is actually trying to do, at each stage.",
+        "Reset the SMC.",
+        "If nothing else works, you may wish to reset your Mac\u2019s SMC (System Management Controller).",
+        "Apple offers detailed instructions on how to go about this process.",
+        "Reinstall Mac OS X.",
+        "Boot into Recovery Mode and click to install Mavericks.",
+        "Then follow the on-screen prompts to complete the process.",
+        "Visit a repair shop.",
+        "In case you are not very comfortable working with PCs; or if all the above-mentioned steps failed; take your system to a computer repair shop.",
+        "Describe the issue as best as you can and let them handle the problem."
+    ]
+}

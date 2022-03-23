@@ -1,0 +1,132 @@
+{
+    "title": "How to Export and Import a WordPress Blog",
+    "url": "https://www.wikihow.com/Export-and-Import-a-WordPress-Blog",
+    "category_hierarchy": [
+        "Computers and Electronics"
+    ],
+    "parts": [
+        {
+            "name": "Exporting WordPress Blogs",
+            "steps": [
+                {
+                    "headline": "Sign into your existing WordPress blog.",
+                    "description": "Click on your blog name, and select \"Dashboard\" from the menu. You should see a list of options on left hand side of your screen."
+                },
+                {
+                    "headline": "Find the \"Tools\" menu on the left hand side, near the bottom of the dashboard.",
+                    "description": "Choose the \"Export\" box from the list of options. You will most likely want to export your content first, so you can import it somewhere else."
+                },
+                {
+                    "headline": "Decide how much of your content you want to export.",
+                    "description": "The top option is \"All Content,\" and it is the most popular choice. Click \"Download Export File\" to create an \"XML\" file of your entire blog on your computer. You may see the option \"Guided Transfer\" on your Export page. This is a service, provided by WordPress.com, for approximately $119. They will export your website and import it onto the site of your choice. If you choose to download the Extensible Markup Language (XML), or website, file, it is always completely free of charge. Some uploads, photos and links may not be exported into your file. You may need to re-upload some of this content onto your new website."
+                },
+                {
+                    "headline": "Place the file in an easy to access folder, or on your desktop.",
+                    "description": "You will need this file in order to import it later."
+                }
+            ]
+        },
+        {
+            "name": "Importing WordPress Blogs",
+            "steps": [
+                {
+                    "headline": "Go to your WordPress.com or WordPress.org website.",
+                    "description": "Go to the blog page. Find the Tools section of the Dashboard and select the \"Import\" option. You can try to transfer your WordPress.com or .org blog to a non-WordPress platform. Some content that does not match the website format may be lost. WordPress is free, and open-source, so if a web programmer can install the WordPress.org software on your new website, it may be the easiest option. You will already have familiarity with how the blog can be changed, leading to fewer problems."
+                },
+                {
+                    "headline": "Choose the Wordpress option, and then choose the XML file on your computer.",
+                    "description": "Click \"Upload\" to upload the XML file to the new blog. Select \"Download & import file attachments\" to move your media along with the rest of your blog."
+                }
+            ]
+        },
+        {
+            "name": "Importing and Exporting WordPress Databases",
+            "steps": [
+                {
+                    "headline": "Assign a web developer to export your database, if you have never dealt with coding before.",
+                    "description": "It is important to follow exact instructions to make sure your database stays intact and uploads properly to a new website."
+                },
+                {
+                    "headline": "Login to your local \"phpMyAdmin\" to export your private CMS database.",
+                    "description": "Under WordPress, click the \"Structure\" tab and then the \"Export\" option. Click the box for \"Add drop table/drop view\" and the box to \"Save as file.\""
+                },
+                {
+                    "headline": "Click \"Go\" to download a Structured Query Language (SQL) file.",
+                    "description": "Open the file in a text editor program. Select the find function to find all of the previous URL (website) addresses."
+                },
+                {
+                    "headline": "Replace each old URL address with the new domain address.",
+                    "description": "You can click \"Replace All\" to do this in 1 step. Check your document to make sure all the URL addresses are changed before saving the file."
+                },
+                {
+                    "headline": "Create a new database for your new domain.",
+                    "description": "Login to your server and go to \"MySQL Databases.\" Create a new database and assign it a new user to serve as an administrator."
+                },
+                {
+                    "headline": "Login to the \"phpMyAdmin\" for your new database.",
+                    "description": "Under the \"Import\" tab, select the file you just downloaded, changed and saved. Click \"Go\" to upload the file to your WordPress platform."
+                },
+                {
+                    "headline": "Find the \"wp-config.php\" file on your server.",
+                    "description": "Change the database details, replacing them with the new server and domain settings."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "WordPress Blog (either .com or .org)",
+        "Free computer memory",
+        "Guided Transfer service (optional)",
+        "Site Redirect service (optional)",
+        "Web programmer"
+    ],
+    "text": " Exporting WordPress Blogs Sign into your existing WordPress blog. Click on your blog name, and select \"Dashboard\" from the menu. You should see a list of options on left hand side of your screen. Find the \"Tools\" menu on the left hand side, near the bottom of the dashboard. Choose the \"Export\" box from the list of options. You will most likely want to export your content first, so you can import it somewhere else. Decide how much of your content you want to export. The top option is \"All Content,\" and it is the most popular choice. Click \"Download Export File\" to create an \"XML\" file of your entire blog on your computer. You may see the option \"Guided Transfer\" on your Export page. This is a service, provided by WordPress.com, for approximately $119. They will export your website and import it onto the site of your choice. If you choose to download the Extensible Markup Language (XML), or website, file, it is always completely free of charge. Some uploads, photos and links may not be exported into your file. You may need to re-upload some of this content onto your new website. Place the file in an easy to access folder, or on your desktop. You will need this file in order to import it later. Importing WordPress Blogs Go to your WordPress.com or WordPress.org website. Go to the blog page. Find the Tools section of the Dashboard and select the \"Import\" option. You can try to transfer your WordPress.com or .org blog to a non-WordPress platform. Some content that does not match the website format may be lost. WordPress is free, and open-source, so if a web programmer can install the WordPress.org software on your new website, it may be the easiest option. You will already have familiarity with how the blog can be changed, leading to fewer problems. Choose the Wordpress option, and then choose the XML file on your computer. Click \"Upload\" to upload the XML file to the new blog. Select \"Download & import file attachments\" to move your media along with the rest of your blog. Importing and Exporting WordPress Databases Assign a web developer to export your database, if you have never dealt with coding before. It is important to follow exact instructions to make sure your database stays intact and uploads properly to a new website. Login to your local \"phpMyAdmin\" to export your private CMS database. Under WordPress, click the \"Structure\" tab and then the \"Export\" option. Click the box for \"Add drop table/drop view\" and the box to \"Save as file.\" Click \"Go\" to download a Structured Query Language (SQL) file. Open the file in a text editor program. Select the find function to find all of the previous URL (website) addresses. Replace each old URL address with the new domain address. You can click \"Replace All\" to do this in 1 step. Check your document to make sure all the URL addresses are changed before saving the file. Create a new database for your new domain. Login to your server and go to \"MySQL Databases.\" Create a new database and assign it a new user to serve as an administrator. Login to the \"phpMyAdmin\" for your new database. Under the \"Import\" tab, select the file you just downloaded, changed and saved. Click \"Go\" to upload the file to your WordPress platform. Find the \"wp-config.php\" file on your server. Change the database details, replacing them with the new server and domain settings.",
+    "sentences": [
+        " Exporting WordPress Blogs Sign into your existing WordPress blog.",
+        "Click on your blog name, and select \"Dashboard\" from the menu.",
+        "You should see a list of options on left hand side of your screen.",
+        "Find the \"Tools\" menu on the left hand side, near the bottom of the dashboard.",
+        "Choose the \"Export\" box from the list of options.",
+        "You will most likely want to export your content first, so you can import it somewhere else.",
+        "Decide how much of your content you want to export.",
+        "The top option is \"All Content,\" and it is the most popular choice.",
+        "Click \"Download Export File\" to create an \"XML\" file of your entire blog on your computer.",
+        "You may see the option \"Guided Transfer\" on your Export page.",
+        "This is a service, provided by WordPress.com, for approximately $119.",
+        "They will export your website and import it onto the site of your choice.",
+        "If you choose to download the Extensible Markup Language (XML), or website, file, it is always completely free of charge.",
+        "Some uploads, photos and links may not be exported into your file.",
+        "You may need to re-upload some of this content onto your new website.",
+        "Place the file in an easy to access folder, or on your desktop.",
+        "You will need this file in order to import it later.",
+        "Importing WordPress Blogs Go to your WordPress.com or WordPress.org website.",
+        "Go to the blog page.",
+        "Find the Tools section of the Dashboard and select the \"Import\" option.",
+        "You can try to transfer your WordPress.com or .org blog to a non-WordPress platform.",
+        "Some content that does not match the website format may be lost.",
+        "WordPress is free, and open-source, so if a web programmer can install the WordPress.org software on your new website, it may be the easiest option.",
+        "You will already have familiarity with how the blog can be changed, leading to fewer problems.",
+        "Choose the Wordpress option, and then choose the XML file on your computer.",
+        "Click \"Upload\" to upload the XML file to the new blog.",
+        "Select \"Download & import file attachments\" to move your media along with the rest of your blog.",
+        "Importing and Exporting WordPress Databases Assign a web developer to export your database, if you have never dealt with coding before.",
+        "It is important to follow exact instructions to make sure your database stays intact and uploads properly to a new website.",
+        "Login to your local \"phpMyAdmin\" to export your private CMS database.",
+        "Under WordPress, click the \"Structure\" tab and then the \"Export\" option.",
+        "Click the box for \"Add drop table/drop view\" and the box to \"Save as file.\"",
+        "Click \"Go\" to download a Structured Query Language (SQL) file.",
+        "Open the file in a text editor program.",
+        "Select the find function to find all of the previous URL (website) addresses.",
+        "Replace each old URL address with the new domain address.",
+        "You can click \"Replace All\" to do this in 1 step.",
+        "Check your document to make sure all the URL addresses are changed before saving the file.",
+        "Create a new database for your new domain.",
+        "Login to your server and go to \"MySQL Databases.\"",
+        "Create a new database and assign it a new user to serve as an administrator.",
+        "Login to the \"phpMyAdmin\" for your new database.",
+        "Under the \"Import\" tab, select the file you just downloaded, changed and saved.",
+        "Click \"Go\" to upload the file to your WordPress platform.",
+        "Find the \"wp-config.php\" file on your server.",
+        "Change the database details, replacing them with the new server and domain settings."
+    ]
+}

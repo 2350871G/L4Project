@@ -1,0 +1,174 @@
+{
+    "title": "How to Bridge Subwoofers",
+    "url": "https://www.wikihow.com/Bridge-Subwoofers",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Audio",
+        "Audio Speakers",
+        "Loudspeakers"
+    ],
+    "methods": [
+        {
+            "name": "Preparing to Wire Your Subs to a Bridged Amp",
+            "steps": [
+                {
+                    "headline": "Locate the specification labels for your system.",
+                    "description": "Your amp should have a label near the speaker output jack that indicates the output power (measured in Watts) and the minimum impedance (measured in Ohms). Be sure that your use the values for bridged mode, it is usually double the minimum impedance as stereo mode (meaning you need a much high impedance to run a bridged system) and up to four times the power output. Your sub-woofers should also be labeled with an impedance value (in Ohms) and a value indicating the maximum power input that they can handle (in Watts). The majority of amps on the home theater market are only stable at 4 ohms when bridged. Most car stereo amplifiers can do 2 ohms."
+                },
+                {
+                    "headline": "Write down these values.",
+                    "description": "You should have at least four different values written down. Amp Bridged Output Power\nAmp Bridged Minimum Impedance\nSpeaker Power Rating\nSpeaker Impedance"
+                },
+                {
+                    "headline": "Calculate the total impedance of all of your speakers.",
+                    "description": "To do this you should add together the speaker impedance number for all of your speakers. You want the impedance to be at least equal to the minimum impedance value of your amp on each channel, but not to exceed 16 Ohms unless your amp is specifically rated for impedance values above 16 Ohms. The formula for finding total impedance for speakers wired in series is Z1 + Z2 + Z3 \u2026. = Ztotal. Where Z is the impedance of a given speaker. For example, if you have three speakers with impedance values of 4 Ohms, 6 Ohms, and 8 Ohms your total impedance wired in series would be 18 Ohms (4+6+8=18). The formula for finding total impedance of speakers wired in parallel is a little trickier. It is (Z1 x Z2 x Z3\u2026) / (Z1 + Z2 + Z3\u2026) =Ztotal. So say you have two speakers with impedances of 6 Ohms and 8 Ohms. This time it would look like this: 1) Multiply the values. 6 x 8 = 48 Ohms 2) Add the values. 6 + 8 = 14 Ohms 3) Divide the top by the bottom to find your total impedance. 48/14 = 3.43 Ohms (rounded)\nYou can also use an impedance calculator such as this one http://www.speakerimpedance.co.uk/."
+                },
+                {
+                    "headline": "Calculate the power each speaker will receive.",
+                    "description": "This will be based upon the total impedance and the power output of your amplifier. You can use variations of Ohm\u2019s Law to do the calculations yourself or you can refer to the online calculator above. You do not want to overpower and blow your speakers."
+                },
+                {
+                    "headline": "Verify that your amp has enough power for your subs.",
+                    "description": "The output power should be stamped near the output jack on your amplifier and measured in Watts. You speakers should also be labeled with a wattage. The output wattage should meet or exceed the sum of all of your speakers. For example if you have two subs that each pull 200 W, you would want an amp that produces a minimum of 400 W. Ideally you would have an amp that produces more than what is required, this is referred to as \"head room\" and helps to avoid clipping."
+                },
+                {
+                    "headline": "Unplug your equipment.",
+                    "description": "Wiring powered devices can be dangerous. If you are working on a car stereo system you can simply disconnect the battery terminals."
+                }
+            ]
+        },
+        {
+            "name": "Wiring Single Voice Coil Subs to a Bridged Amp",
+            "steps": [
+                {
+                    "headline": "Get a roll of stereo wire.",
+                    "description": "You will need this wire to make the connections from your amplifier to your sub-woofers. 12- to 16 gauge speaker wire is recommended for use with subwoofers. See How to Wire Speakers for tips on connecting speaker wires."
+                },
+                {
+                    "headline": "Wire the amplifier to the subwoofers.",
+                    "description": "Check to see which two terminals are used for bridge mode on your amplifier. This will be labeled on the amp. Wire the first sub by running a wire from the positive terminal on the amp to the positive bridge terminal on the sub."
+                },
+                {
+                    "headline": "Wire the second subwoofer to the first subwoofer.",
+                    "description": "If you wish to wire them in series, run a single wire from the negative terminal of the first sub to the positive terminal of the second sub. If you wish to wire them in parallel you will run two wires between the two subs. The firs will connect the two positive terminals, and the second will connect the two negative terminals."
+                },
+                {
+                    "headline": "Complete the circuit.",
+                    "description": "Connect the wire from the second sub's negative terminal to the negative bridge terminal on the amp. This will complete the circuit whether you are wiring in parallel or in series."
+                }
+            ]
+        },
+        {
+            "name": "Wiring Dual Voice Coil Subs to a Bridged Amp",
+            "steps": [
+                {
+                    "headline": "Wire the amplifier to the first subwoofer.",
+                    "description": "The wiring here will be similar to wiring a single voice coil (SVC) sub-woofer. The difference to remember is that dual voice coil (DVC) subs have two coils, and thus four input terminals. Two of them are positive and two are negative. Choose one of the positive terminals and connect it to the positive bridged terminal of the amp."
+                },
+                {
+                    "headline": "Connect the two coils.",
+                    "description": "Just like wiring two separate speakers, the two coils within your DVC can be wired in series (increasing the sub's impedance) or in parallel (decreasing the sub's impedance). If you are wiring the coils in series then run a wire from the positive terminal of the first coil (the one wired to the amp) to the negative terminal of the second coil and from the negative terminal of the first coil to the positive terminal of the second. If you are wiring the coils in parallel then run a wire from the first positive terminal to the second positive terminal and a wire from the first negative terminal to the second negative terminal."
+                },
+                {
+                    "headline": "Wire the second subwoofer to the first subwoofer.",
+                    "description": "Again, you have the series verses parallel debate. If you choose to wire the subs in series, connect the negative end of the second coil in the first sub to the positive end of the first coil in the second sub (these circuits can get complicated fast). Next, connect the negative end of the first coil to the positive end of the second coil. Finally connect the negative end of the second coil to the negative bridged terminal on the amp. If wiring in parallel, connect the negative end of the first sub's second coil to the negative end of the second sub's second coil. Connect the positive end of the first sub's first coil to the positive end of the second sub's first coil."
+                },
+                {
+                    "headline": "Connect the second sub's coils.",
+                    "description": "Follow the same guidelines as when you connected the first sub's coils."
+                },
+                {
+                    "headline": "Complete the circuit.",
+                    "description": "Now comes the easy part. Regardless of which combinations of series and parallels you chose above to get the proper impedance and power distribution in your system, closing the circuit will be one easy step. Run a wire to connect the negative terminal of the second coil in your second sub to the negative bridged terminal of the amp."
+                },
+                {
+                    "headline": "Listen for inconsistencies.",
+                    "description": "Power up your system and test it out. Start at a low volume and then slowly increase it to listen for anything that doesn\u2019t sound right, like static or a difference in volume between the two subwoofers. If the bass and sub-bass are quiet or not present at all, something is mis-wired."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "2 subwoofers",
+        "Mono amplifier",
+        "Stereo wire (12-16 gauge recommended)"
+    ],
+    "text": " Preparing to Wire Your Subs to a Bridged Amp Locate the specification labels for your system. Your amp should have a label near the speaker output jack that indicates the output power (measured in Watts) and the minimum impedance (measured in Ohms). Be sure that your use the values for bridged mode, it is usually double the minimum impedance as stereo mode (meaning you need a much high impedance to run a bridged system) and up to four times the power output. Your sub-woofers should also be labeled with an impedance value (in Ohms) and a value indicating the maximum power input that they can handle (in Watts). The majority of amps on the home theater market are only stable at 4 ohms when bridged. Most car stereo amplifiers can do 2 ohms. Write down these values. You should have at least four different values written down. Amp Bridged Output Power\nAmp Bridged Minimum Impedance\nSpeaker Power Rating\nSpeaker Impedance Calculate the total impedance of all of your speakers. To do this you should add together the speaker impedance number for all of your speakers. You want the impedance to be at least equal to the minimum impedance value of your amp on each channel, but not to exceed 16 Ohms unless your amp is specifically rated for impedance values above 16 Ohms. The formula for finding total impedance for speakers wired in series is Z1 + Z2 + Z3 \u2026. = Ztotal. Where Z is the impedance of a given speaker. For example, if you have three speakers with impedance values of 4 Ohms, 6 Ohms, and 8 Ohms your total impedance wired in series would be 18 Ohms (4+6+8=18). The formula for finding total impedance of speakers wired in parallel is a little trickier. It is (Z1 x Z2 x Z3\u2026) / (Z1 + Z2 + Z3\u2026) =Ztotal. So say you have two speakers with impedances of 6 Ohms and 8 Ohms. This time it would look like this: 1) Multiply the values. 6 x 8 = 48 Ohms 2) Add the values. 6 + 8 = 14 Ohms 3) Divide the top by the bottom to find your total impedance. 48/14 = 3.43 Ohms (rounded)\nYou can also use an impedance calculator such as this one http://www.speakerimpedance.co.uk/. Calculate the power each speaker will receive. This will be based upon the total impedance and the power output of your amplifier. You can use variations of Ohm\u2019s Law to do the calculations yourself or you can refer to the online calculator above. You do not want to overpower and blow your speakers. Verify that your amp has enough power for your subs. The output power should be stamped near the output jack on your amplifier and measured in Watts. You speakers should also be labeled with a wattage. The output wattage should meet or exceed the sum of all of your speakers. For example if you have two subs that each pull 200 W, you would want an amp that produces a minimum of 400 W. Ideally you would have an amp that produces more than what is required, this is referred to as \"head room\" and helps to avoid clipping. Unplug your equipment. Wiring powered devices can be dangerous. If you are working on a car stereo system you can simply disconnect the battery terminals. Wiring Single Voice Coil Subs to a Bridged Amp Get a roll of stereo wire. You will need this wire to make the connections from your amplifier to your sub-woofers. 12- to 16 gauge speaker wire is recommended for use with subwoofers. See How to Wire Speakers for tips on connecting speaker wires. Wire the amplifier to the subwoofers. Check to see which two terminals are used for bridge mode on your amplifier. This will be labeled on the amp. Wire the first sub by running a wire from the positive terminal on the amp to the positive bridge terminal on the sub. Wire the second subwoofer to the first subwoofer. If you wish to wire them in series, run a single wire from the negative terminal of the first sub to the positive terminal of the second sub. If you wish to wire them in parallel you will run two wires between the two subs. The firs will connect the two positive terminals, and the second will connect the two negative terminals. Complete the circuit. Connect the wire from the second sub's negative terminal to the negative bridge terminal on the amp. This will complete the circuit whether you are wiring in parallel or in series. Wiring Dual Voice Coil Subs to a Bridged Amp Wire the amplifier to the first subwoofer. The wiring here will be similar to wiring a single voice coil (SVC) sub-woofer. The difference to remember is that dual voice coil (DVC) subs have two coils, and thus four input terminals. Two of them are positive and two are negative. Choose one of the positive terminals and connect it to the positive bridged terminal of the amp. Connect the two coils. Just like wiring two separate speakers, the two coils within your DVC can be wired in series (increasing the sub's impedance) or in parallel (decreasing the sub's impedance). If you are wiring the coils in series then run a wire from the positive terminal of the first coil (the one wired to the amp) to the negative terminal of the second coil and from the negative terminal of the first coil to the positive terminal of the second. If you are wiring the coils in parallel then run a wire from the first positive terminal to the second positive terminal and a wire from the first negative terminal to the second negative terminal. Wire the second subwoofer to the first subwoofer. Again, you have the series verses parallel debate. If you choose to wire the subs in series, connect the negative end of the second coil in the first sub to the positive end of the first coil in the second sub (these circuits can get complicated fast). Next, connect the negative end of the first coil to the positive end of the second coil. Finally connect the negative end of the second coil to the negative bridged terminal on the amp. If wiring in parallel, connect the negative end of the first sub's second coil to the negative end of the second sub's second coil. Connect the positive end of the first sub's first coil to the positive end of the second sub's first coil. Connect the second sub's coils. Follow the same guidelines as when you connected the first sub's coils. Complete the circuit. Now comes the easy part. Regardless of which combinations of series and parallels you chose above to get the proper impedance and power distribution in your system, closing the circuit will be one easy step. Run a wire to connect the negative terminal of the second coil in your second sub to the negative bridged terminal of the amp. Listen for inconsistencies. Power up your system and test it out. Start at a low volume and then slowly increase it to listen for anything that doesn\u2019t sound right, like static or a difference in volume between the two subwoofers. If the bass and sub-bass are quiet or not present at all, something is mis-wired.",
+    "sentences": [
+        " Preparing to Wire Your Subs to a Bridged Amp Locate the specification labels for your system.",
+        "Your amp should have a label near the speaker output jack that indicates the output power (measured in Watts) and the minimum impedance (measured in Ohms).",
+        "Be sure that your use the values for bridged mode, it is usually double the minimum impedance as stereo mode (meaning you need a much high impedance to run a bridged system) and up to four times the power output.",
+        "Your sub-woofers should also be labeled with an impedance value (in Ohms) and a value indicating the maximum power input that they can handle (in Watts).",
+        "The majority of amps on the home theater market are only stable at 4 ohms when bridged.",
+        "Most car stereo amplifiers can do 2 ohms.",
+        "Write down these values.",
+        "You should have at least four different values written down.",
+        "Amp Bridged Output Power\nAmp Bridged Minimum Impedance\nSpeaker Power Rating\nSpeaker Impedance Calculate the total impedance of all of your speakers.",
+        "To do this you should add together the speaker impedance number for all of your speakers.",
+        "You want the impedance to be at least equal to the minimum impedance value of your amp on each channel, but not to exceed 16 Ohms unless your amp is specifically rated for impedance values above 16 Ohms.",
+        "The formula for finding total impedance for speakers wired in series is Z1 + Z2 + Z3 \u2026.",
+        "= Ztotal.",
+        "Where Z is the impedance of a given speaker.",
+        "For example, if you have three speakers with impedance values of 4 Ohms, 6 Ohms, and 8 Ohms your total impedance wired in series would be 18 Ohms (4+6+8=18).",
+        "The formula for finding total impedance of speakers wired in parallel is a little trickier.",
+        "It is (Z1 x Z2 x Z3\u2026) / (Z1 + Z2 + Z3\u2026) =Ztotal.",
+        "So say you have two speakers with impedances of 6 Ohms and 8 Ohms.",
+        "This time it would look like this: 1) Multiply the values.",
+        "6 x 8 = 48 Ohms 2) Add the values.",
+        "6 + 8 = 14 Ohms 3) Divide the top by the bottom to find your total impedance.",
+        "48/14 = 3.43 Ohms (rounded)\nYou can also use an impedance calculator such as this one http://www.speakerimpedance.co.uk/.",
+        "Calculate the power each speaker will receive.",
+        "This will be based upon the total impedance and the power output of your amplifier.",
+        "You can use variations of Ohm\u2019s Law to do the calculations yourself or you can refer to the online calculator above.",
+        "You do not want to overpower and blow your speakers.",
+        "Verify that your amp has enough power for your subs.",
+        "The output power should be stamped near the output jack on your amplifier and measured in Watts.",
+        "You speakers should also be labeled with a wattage.",
+        "The output wattage should meet or exceed the sum of all of your speakers.",
+        "For example if you have two subs that each pull 200 W, you would want an amp that produces a minimum of 400 W. Ideally you would have an amp that produces more than what is required, this is referred to as \"head room\" and helps to avoid clipping.",
+        "Unplug your equipment.",
+        "Wiring powered devices can be dangerous.",
+        "If you are working on a car stereo system you can simply disconnect the battery terminals.",
+        "Wiring Single Voice Coil Subs to a Bridged Amp Get a roll of stereo wire.",
+        "You will need this wire to make the connections from your amplifier to your sub-woofers.",
+        "12- to 16 gauge speaker wire is recommended for use with subwoofers.",
+        "See How to Wire Speakers for tips on connecting speaker wires.",
+        "Wire the amplifier to the subwoofers.",
+        "Check to see which two terminals are used for bridge mode on your amplifier.",
+        "This will be labeled on the amp.",
+        "Wire the first sub by running a wire from the positive terminal on the amp to the positive bridge terminal on the sub.",
+        "Wire the second subwoofer to the first subwoofer.",
+        "If you wish to wire them in series, run a single wire from the negative terminal of the first sub to the positive terminal of the second sub.",
+        "If you wish to wire them in parallel you will run two wires between the two subs.",
+        "The firs will connect the two positive terminals, and the second will connect the two negative terminals.",
+        "Complete the circuit.",
+        "Connect the wire from the second sub's negative terminal to the negative bridge terminal on the amp.",
+        "This will complete the circuit whether you are wiring in parallel or in series.",
+        "Wiring Dual Voice Coil Subs to a Bridged Amp Wire the amplifier to the first subwoofer.",
+        "The wiring here will be similar to wiring a single voice coil (SVC) sub-woofer.",
+        "The difference to remember is that dual voice coil (DVC) subs have two coils, and thus four input terminals.",
+        "Two of them are positive and two are negative.",
+        "Choose one of the positive terminals and connect it to the positive bridged terminal of the amp.",
+        "Connect the two coils.",
+        "Just like wiring two separate speakers, the two coils within your DVC can be wired in series (increasing the sub's impedance) or in parallel (decreasing the sub's impedance).",
+        "If you are wiring the coils in series then run a wire from the positive terminal of the first coil (the one wired to the amp) to the negative terminal of the second coil and from the negative terminal of the first coil to the positive terminal of the second.",
+        "If you are wiring the coils in parallel then run a wire from the first positive terminal to the second positive terminal and a wire from the first negative terminal to the second negative terminal.",
+        "Wire the second subwoofer to the first subwoofer.",
+        "Again, you have the series verses parallel debate.",
+        "If you choose to wire the subs in series, connect the negative end of the second coil in the first sub to the positive end of the first coil in the second sub (these circuits can get complicated fast).",
+        "Next, connect the negative end of the first coil to the positive end of the second coil.",
+        "Finally connect the negative end of the second coil to the negative bridged terminal on the amp.",
+        "If wiring in parallel, connect the negative end of the first sub's second coil to the negative end of the second sub's second coil.",
+        "Connect the positive end of the first sub's first coil to the positive end of the second sub's first coil.",
+        "Connect the second sub's coils.",
+        "Follow the same guidelines as when you connected the first sub's coils.",
+        "Complete the circuit.",
+        "Now comes the easy part.",
+        "Regardless of which combinations of series and parallels you chose above to get the proper impedance and power distribution in your system, closing the circuit will be one easy step.",
+        "Run a wire to connect the negative terminal of the second coil in your second sub to the negative bridged terminal of the amp.",
+        "Listen for inconsistencies.",
+        "Power up your system and test it out.",
+        "Start at a low volume and then slowly increase it to listen for anything that doesn\u2019t sound right, like static or a difference in volume between the two subwoofers.",
+        "If the bass and sub-bass are quiet or not present at all, something is mis-wired."
+    ]
+}

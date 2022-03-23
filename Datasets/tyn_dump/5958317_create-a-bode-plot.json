@@ -1,0 +1,369 @@
+{
+    "title": "How to Create a Bode Plot",
+    "url": "https://www.wikihow.com/Create-a-Bode-Plot",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Drawing",
+        "Drawing Shapes"
+    ],
+    "parts": [
+        {
+            "name": "Connecting the equipment",
+            "steps": [
+                {
+                    "headline": "Check that the function generator and oscilloscope are connected to the closest AC outlet.",
+                    "description": ""
+                },
+                {
+                    "headline": "Connect the first probe to the \u201c50 \u03a9 OUTPUT\u201d connector on the front lower-right corner of the function generator.",
+                    "description": "a. Connect the red positive lead to the input terminal of your circuit. b. Connect the black negative lead to the ground terminal of your circuit."
+                },
+                {
+                    "headline": "Connect the second probe to the \u201cCH 1\u201d connector on the front of the oscilloscope.",
+                    "description": "a. Connect the red positive lead to the input terminal of your circuit. b. Connect the black negative lead to the ground terminal of your circuit."
+                },
+                {
+                    "headline": "Connect the third probe to the \u201cCH 2\u201d connector on the front of the oscilloscope.",
+                    "description": "a. Connect the red positive lead to the output terminal of your circuit. b. Connect the black negative lead to the ground terminal of your circuit, (unless instructed otherwise by the lab TA)."
+                },
+                {
+                    "headline": "Make sure that the cables are not hanging over the edge of the workspace.",
+                    "description": ""
+                },
+                {
+                    "headline": "Double-check the connections.",
+                    "description": "They should be as shown in Figure 1. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/ec\\/Drawing1.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ec\\/Drawing1.png\\/179px-Drawing1.png\",\"smallWidth\":460,\"smallHeight\":275,\"bigWidth\":\"179\",\"bigHeight\":\"107\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Figure 1 \u2013 Your equipment connections"
+                }
+            ]
+        },
+        {
+            "name": "Turn on the equipment",
+            "steps": [
+                {
+                    "headline": "Press the power button (labeled \u201cO/I\u201d) on the top side of the oscilloscope.",
+                    "description": ""
+                },
+                {
+                    "headline": "Press the \u201cPOWER\u201d button on the front upper-right corner of the function generator.",
+                    "description": ""
+                },
+                {
+                    "headline": "After the equipment performs its self-test, it should look similar to what\u2019s shown in Figure 2 (shown in this step).",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Set the function generator frequency and amplitude",
+            "steps": [
+                {
+                    "headline": "Press the button below \u201cFREQ.\u201d on the function generator.",
+                    "description": "The light above the button turns on. Your screen should look similar to the Figure shown in this step."
+                },
+                {
+                    "headline": "Adjust the frequency to the lowest frequency you wish to test, your starting frequency.",
+                    "description": "This can be done with the large dial on the function generator, or with the four soft-keys below the display. The buttons marked \u201c- val +\u201d change the digit under the cursor, and the \u201c< cur >\u201d buttons move the cursor."
+                },
+                {
+                    "headline": "Press the button below \u201cAMPL.\u201d on the function generator.",
+                    "description": "The light above the button turns on. Your screen should look similar to Figure 5 now."
+                },
+                {
+                    "headline": "Adjust the amplitude to the voltage specified in the lab procedure for the circuit being tested, using the same dial or soft-keys.",
+                    "description": "Notice that this is Vpp, the peak-to-peak voltage. The maximum (positive) and minimum (negative) voltages of the wave will be half the peak-to-peak voltage."
+                },
+                {
+                    "headline": "Press the button \u201cOUTPUT\u201d on the function generator.",
+                    "description": "The light to the left of the button turns on."
+                }
+            ]
+        },
+        {
+            "name": "Set the oscilloscope window",
+            "steps": [
+                {
+                    "headline": "Press the \u201cDEFAULT SETUP\u201d button on the upper-right corner of the oscilloscope.",
+                    "description": "Its display should look similar to Figure 6. The wave may appear on the display, or it may only show noise. The next steps will bring it into focus."
+                },
+                {
+                    "headline": "Press the \u201cAUTOSET\u201d button on the upper-right corner of the oscilloscope.",
+                    "description": "Its display should look similar to Figure 7, and the waves should appear in focus."
+                },
+                {
+                    "headline": "Press the second soft-key from the top.",
+                    "description": "This tells the oscilloscope to display a single period of the wave. Your display should look like the one in Figure 7. The oscilloscope soft-keys are located to the right of the display."
+                },
+                {
+                    "headline": "Press the \u201cMEASURE\u201d button on the top middle of the oscilloscope.",
+                    "description": "The default measurement screen will be shown, like the one in Figure 8."
+                },
+                {
+                    "headline": "Press the top soft-key on the oscilloscope to select the first measurement.",
+                    "description": "Press the top soft-key labeled \u201cSource\u201d until \u201cCH1\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cFreq\u201d is shown. Your display should look like the one in Figure 9. Press the bottom soft-key to go back."
+                },
+                {
+                    "headline": "Press the second soft-key from the top to select the second measurement.",
+                    "description": "Press the top soft-key labeled \u201cSource\u201d until \u201cCH1\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cPk-Pk\u201d is shown. Your display should look like the one in Figure 10. Press the bottom soft-key to go back."
+                },
+                {
+                    "headline": "Press the third soft-key from the top to select the third measurement.",
+                    "description": "Press the top soft-key labeled \u201cSource\u201d until \u201cCH2\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cFreq\u201d is shown. Your display should look like the one in Figure 11. Press the last soft-key (fifth from the top) to go back."
+                },
+                {
+                    "headline": "Press the fourth soft-key from the top to select the fourth measurement.",
+                    "description": "Press the top soft-key labeled \u201cSource\u201d until \u201cCH2\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cPk-Pk\u201d is shown. Your display should look like the one in Figure 12. Press the bottom soft-key to go back."
+                },
+                {
+                    "headline": "Turn the \u201cHORIZONTAL SEC/DIV\u201d knob counterclockwise a little until it clicks once.",
+                    "description": "Your display should now show more than one period, like the display in Figure 13. The CH1 and CH2 frequency measurements should change from \u201c?\u201d to the true reading."
+                },
+                {
+                    "headline": "Press the \u201cCURSOR\u201d button on the top middle of the oscilloscope.",
+                    "description": "The default screen should look like the one in Figure 14."
+                },
+                {
+                    "headline": "Press the top soft-key next to \u201cType\u201d until \u201cTime\u201d is listed.",
+                    "description": "The middle of the right column of the screen shows us the readings we are interested in:  \u0394t and \u0394V. Below that, the readings for Cursor 1 and Cursor 2 are shown."
+                }
+            ]
+        },
+        {
+            "name": "Creating the worksheet to record your data",
+            "steps": [
+                {
+                    "headline": "On your lab computer, open Excel and start a new spreadsheet.",
+                    "description": "Label the columns \u201cFrequency,\u201d \u201cVin,\u201d \u201cdV,\u201d \u201cVout,\u201d \u201cDelay,\u201d \u201cPhase\u201d and \u201cGain.\u201d"
+                },
+                {
+                    "headline": "Below \u201cFrequency,\u201d enter each frequency you plan to test (refer to your lab procedures).",
+                    "description": ""
+                },
+                {
+                    "headline": "Below \u201cVout\u201d in cell D2, enter this formula:  =B2+C2",
+                    "description": ""
+                },
+                {
+                    "headline": "Press return.",
+                    "description": "The \u201c=B2+C2\u201d turns into a zero since we haven\u2019t entered anything into B2 or C2."
+                },
+                {
+                    "headline": "Press Ctrl+D, then return.",
+                    "description": "The formula gets copied from D2 into D3, with Excel changing its formula into \u201c=B3+C3\u201d automatically. Keep pressing Ctrl+D then return until you fill the column for each of your frequencies."
+                },
+                {
+                    "headline": "Below \u201cPhase\u201d in cell F2, enter this formula:  =2*pi()*A2*E2",
+                    "description": ""
+                },
+                {
+                    "headline": "Press return.",
+                    "description": "Press Ctrl+D, then return as you did before to fill the column."
+                },
+                {
+                    "headline": "Below \u201cGain\u201d in cell G2, enter this formula:  =20*log10(D2/B2)",
+                    "description": ""
+                },
+                {
+                    "headline": "Press return.",
+                    "description": "Press Ctrl+D, then return as you did before to fill the column. Ignore the errors for now."
+                },
+                {
+                    "headline": "Save this worksheet to use as a template.",
+                    "description": "You can use it the next time you need to create a Bode plot, letting you skip Part 6."
+                }
+            ]
+        },
+        {
+            "name": "Getting the data for the Bode plot",
+            "steps": [
+                {
+                    "headline": "Your oscilloscope should still be on the cursor display from the end of Part 5.",
+                    "description": "If it isn\u2019t, press the \u201cCURSOR\u201d button on the top middle of the oscilloscope."
+                },
+                {
+                    "headline": "Turn the \u201cHORIZONTAL SEC/DIV\u201d knob to zoom in on the wave, so that a single period is shown.",
+                    "description": ""
+                },
+                {
+                    "headline": "Push the fourth soft-key from the top to select Cursor 1.",
+                    "description": ""
+                },
+                {
+                    "headline": "Turn the \u201cmulti-function\u201d knob located on the center top of the oscilloscope to move the cursor.",
+                    "description": "The knob is unlabeled and is located just above the \u201cPRINT\u201d button."
+                },
+                {
+                    "headline": "Position the cursor so that it lines up with the very top of the CH1 (upper, in orange) wave.",
+                    "description": ""
+                },
+                {
+                    "headline": "Push the last soft-key (fifth from the top) to select Cursor 2.",
+                    "description": ""
+                },
+                {
+                    "headline": "Turn the \u201cmulti-function\u201d knob located on the center top of the oscilloscope to move the cursor.",
+                    "description": "Position the cursor so that it lines up with the very top of the CH2 (lower, in blue) wave."
+                },
+                {
+                    "headline": "On your spreadsheet, record your data:",
+                    "description": "a. Vin \u2013 the voltage reading under Cursor 1 (820 mV in the example above; record this as 0.820 in your spreadsheet) b. dV \u2013 the reading next to \u0394V (20.0 mV in the example above; record this as 0.020 in your spreadsheet) c. Delay \u2013 the reading next to \u0394t (160.0 \u00b5s in the example above; record this as 0.000160 in your spreadsheet)."
+                }
+            ]
+        },
+        {
+            "name": "Creating the Bode plot",
+            "steps": [
+                {
+                    "headline": "For the Gain plot: Enter one step here and then click 1.",
+                    "description": "Select the Frequency and Gain columns."
+                },
+                {
+                    "headline": "Click \u201cInsert\u201d and look for the \u201cScatter Chart\u201d option.",
+                    "description": ""
+                },
+                {
+                    "headline": "Right-click the vertical axis and choose \u201cFormat Axis\u2026\u201d",
+                    "description": ""
+                },
+                {
+                    "headline": "Click \u201cLogarithmic scale\u201d",
+                    "description": ""
+                },
+                {
+                    "headline": "Right-click the horizontal axis and choose \u201cFormat Axis\u2026\u201d",
+                    "description": ""
+                },
+                {
+                    "headline": "Click \u201cLogarithmic scale\u201d",
+                    "description": ""
+                },
+                {
+                    "headline": "For the Phase plot: Select the Frequency and Gain columns.",
+                    "description": ""
+                },
+                {
+                    "headline": "Enter one step here and then click \u201cInsert\u201d and look for the \u201cScatter Chart\u201d option.",
+                    "description": ""
+                },
+                {
+                    "headline": "Right-click the horizontal axis and choose \u201cFormat Axis\u2026\u201d",
+                    "description": ""
+                },
+                {
+                    "headline": "Click \u201cLogarithmic scale\u201d.",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Oscilloscope (the Tektronix TDS2012b is used here)",
+        "Function generator (the Hameg HM8131 is used here)",
+        "Three oscilloscope probes (no specific type is called for)",
+        "The circuit to be tested",
+        "A computer with a spreadsheet program (Microsoft Excel 2013 is used here)"
+    ],
+    "text": " Connecting the equipment Check that the function generator and oscilloscope are connected to the closest AC outlet.  Connect the first probe to the \u201c50 \u03a9 OUTPUT\u201d connector on the front lower-right corner of the function generator. a. Connect the red positive lead to the input terminal of your circuit. b. Connect the black negative lead to the ground terminal of your circuit. Connect the second probe to the \u201cCH 1\u201d connector on the front of the oscilloscope. a. Connect the red positive lead to the input terminal of your circuit. b. Connect the black negative lead to the ground terminal of your circuit. Connect the third probe to the \u201cCH 2\u201d connector on the front of the oscilloscope. a. Connect the red positive lead to the output terminal of your circuit. b. Connect the black negative lead to the ground terminal of your circuit, (unless instructed otherwise by the lab TA). Make sure that the cables are not hanging over the edge of the workspace.  Double-check the connections. They should be as shown in Figure 1. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/ec\\/Drawing1.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ec\\/Drawing1.png\\/179px-Drawing1.png\",\"smallWidth\":460,\"smallHeight\":275,\"bigWidth\":\"179\",\"bigHeight\":\"107\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Figure 1 \u2013 Your equipment connections Turn on the equipment Press the power button (labeled \u201cO/I\u201d) on the top side of the oscilloscope.  Press the \u201cPOWER\u201d button on the front upper-right corner of the function generator.  After the equipment performs its self-test, it should look similar to what\u2019s shown in Figure 2 (shown in this step).  Set the function generator frequency and amplitude Press the button below \u201cFREQ.\u201d on the function generator. The light above the button turns on. Your screen should look similar to the Figure shown in this step. Adjust the frequency to the lowest frequency you wish to test, your starting frequency. This can be done with the large dial on the function generator, or with the four soft-keys below the display. The buttons marked \u201c- val +\u201d change the digit under the cursor, and the \u201c< cur >\u201d buttons move the cursor. Press the button below \u201cAMPL.\u201d on the function generator. The light above the button turns on. Your screen should look similar to Figure 5 now. Adjust the amplitude to the voltage specified in the lab procedure for the circuit being tested, using the same dial or soft-keys. Notice that this is Vpp, the peak-to-peak voltage. The maximum (positive) and minimum (negative) voltages of the wave will be half the peak-to-peak voltage. Press the button \u201cOUTPUT\u201d on the function generator. The light to the left of the button turns on. Set the oscilloscope window Press the \u201cDEFAULT SETUP\u201d button on the upper-right corner of the oscilloscope. Its display should look similar to Figure 6. The wave may appear on the display, or it may only show noise. The next steps will bring it into focus. Press the \u201cAUTOSET\u201d button on the upper-right corner of the oscilloscope. Its display should look similar to Figure 7, and the waves should appear in focus. Press the second soft-key from the top. This tells the oscilloscope to display a single period of the wave. Your display should look like the one in Figure 7. The oscilloscope soft-keys are located to the right of the display. Press the \u201cMEASURE\u201d button on the top middle of the oscilloscope. The default measurement screen will be shown, like the one in Figure 8. Press the top soft-key on the oscilloscope to select the first measurement. Press the top soft-key labeled \u201cSource\u201d until \u201cCH1\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cFreq\u201d is shown. Your display should look like the one in Figure 9. Press the bottom soft-key to go back. Press the second soft-key from the top to select the second measurement. Press the top soft-key labeled \u201cSource\u201d until \u201cCH1\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cPk-Pk\u201d is shown. Your display should look like the one in Figure 10. Press the bottom soft-key to go back. Press the third soft-key from the top to select the third measurement. Press the top soft-key labeled \u201cSource\u201d until \u201cCH2\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cFreq\u201d is shown. Your display should look like the one in Figure 11. Press the last soft-key (fifth from the top) to go back. Press the fourth soft-key from the top to select the fourth measurement. Press the top soft-key labeled \u201cSource\u201d until \u201cCH2\u201d is listed. Press the second soft-key from the top labeled \u201cType\u201d until \u201cPk-Pk\u201d is shown. Your display should look like the one in Figure 12. Press the bottom soft-key to go back. Turn the \u201cHORIZONTAL SEC/DIV\u201d knob counterclockwise a little until it clicks once. Your display should now show more than one period, like the display in Figure 13. The CH1 and CH2 frequency measurements should change from \u201c?\u201d to the true reading. Press the \u201cCURSOR\u201d button on the top middle of the oscilloscope. The default screen should look like the one in Figure 14. Press the top soft-key next to \u201cType\u201d until \u201cTime\u201d is listed. The middle of the right column of the screen shows us the readings we are interested in:  \u0394t and \u0394V. Below that, the readings for Cursor 1 and Cursor 2 are shown. Creating the worksheet to record your data On your lab computer, open Excel and start a new spreadsheet. Label the columns \u201cFrequency,\u201d \u201cVin,\u201d \u201cdV,\u201d \u201cVout,\u201d \u201cDelay,\u201d \u201cPhase\u201d and \u201cGain.\u201d Below \u201cFrequency,\u201d enter each frequency you plan to test (refer to your lab procedures).  Below \u201cVout\u201d in cell D2, enter this formula:  =B2+C2  Press return. The \u201c=B2+C2\u201d turns into a zero since we haven\u2019t entered anything into B2 or C2. Press Ctrl+D, then return. The formula gets copied from D2 into D3, with Excel changing its formula into \u201c=B3+C3\u201d automatically. Keep pressing Ctrl+D then return until you fill the column for each of your frequencies. Below \u201cPhase\u201d in cell F2, enter this formula:  =2*pi()*A2*E2  Press return. Press Ctrl+D, then return as you did before to fill the column. Below \u201cGain\u201d in cell G2, enter this formula:  =20*log10(D2/B2)  Press return. Press Ctrl+D, then return as you did before to fill the column. Ignore the errors for now. Save this worksheet to use as a template. You can use it the next time you need to create a Bode plot, letting you skip Part 6. Getting the data for the Bode plot Your oscilloscope should still be on the cursor display from the end of Part 5. If it isn\u2019t, press the \u201cCURSOR\u201d button on the top middle of the oscilloscope. Turn the \u201cHORIZONTAL SEC/DIV\u201d knob to zoom in on the wave, so that a single period is shown.  Push the fourth soft-key from the top to select Cursor 1.  Turn the \u201cmulti-function\u201d knob located on the center top of the oscilloscope to move the cursor. The knob is unlabeled and is located just above the \u201cPRINT\u201d button. Position the cursor so that it lines up with the very top of the CH1 (upper, in orange) wave.  Push the last soft-key (fifth from the top) to select Cursor 2.  Turn the \u201cmulti-function\u201d knob located on the center top of the oscilloscope to move the cursor. Position the cursor so that it lines up with the very top of the CH2 (lower, in blue) wave. On your spreadsheet, record your data: a. Vin \u2013 the voltage reading under Cursor 1 (820 mV in the example above; record this as 0.820 in your spreadsheet) b. dV \u2013 the reading next to \u0394V (20.0 mV in the example above; record this as 0.020 in your spreadsheet) c. Delay \u2013 the reading next to \u0394t (160.0 \u00b5s in the example above; record this as 0.000160 in your spreadsheet). Creating the Bode plot For the Gain plot: Enter one step here and then click 1. Select the Frequency and Gain columns. Click \u201cInsert\u201d and look for the \u201cScatter Chart\u201d option.  Right-click the vertical axis and choose \u201cFormat Axis\u2026\u201d  Click \u201cLogarithmic scale\u201d  Right-click the horizontal axis and choose \u201cFormat Axis\u2026\u201d  Click \u201cLogarithmic scale\u201d  For the Phase plot: Select the Frequency and Gain columns.  Enter one step here and then click \u201cInsert\u201d and look for the \u201cScatter Chart\u201d option.  Right-click the horizontal axis and choose \u201cFormat Axis\u2026\u201d  Click \u201cLogarithmic scale\u201d. ",
+    "sentences": [
+        " Connecting the equipment Check that the function generator and oscilloscope are connected to the closest AC outlet.",
+        "Connect the first probe to the \u201c50 \u03a9 OUTPUT\u201d connector on the front lower-right corner of the function generator.",
+        "a. Connect the red positive lead to the input terminal of your circuit.",
+        "b. Connect the black negative lead to the ground terminal of your circuit.",
+        "Connect the second probe to the \u201cCH 1\u201d connector on the front of the oscilloscope.",
+        "a. Connect the red positive lead to the input terminal of your circuit.",
+        "b. Connect the black negative lead to the ground terminal of your circuit.",
+        "Connect the third probe to the \u201cCH 2\u201d connector on the front of the oscilloscope.",
+        "a. Connect the red positive lead to the output terminal of your circuit.",
+        "b. Connect the black negative lead to the ground terminal of your circuit, (unless instructed otherwise by the lab TA).",
+        "Make sure that the cables are not hanging over the edge of the workspace.",
+        "Double-check the connections.",
+        "They should be as shown in Figure 1.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/ec\\/Drawing1.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ec\\/Drawing1.png\\/179px-Drawing1.png\",\"smallWidth\":460,\"smallHeight\":275,\"bigWidth\":\"179\",\"bigHeight\":\"107\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Figure 1 \u2013 Your equipment connections Turn on the equipment Press the power button (labeled \u201cO/I\u201d) on the top side of the oscilloscope.",
+        "Press the \u201cPOWER\u201d button on the front upper-right corner of the function generator.",
+        "After the equipment performs its self-test, it should look similar to what\u2019s shown in Figure 2 (shown in this step).",
+        "Set the function generator frequency and amplitude Press the button below \u201cFREQ.\u201d on the function generator.",
+        "The light above the button turns on.",
+        "Your screen should look similar to the Figure shown in this step.",
+        "Adjust the frequency to the lowest frequency you wish to test, your starting frequency.",
+        "This can be done with the large dial on the function generator, or with the four soft-keys below the display.",
+        "The buttons marked \u201c- val +\u201d change the digit under the cursor, and the \u201c< cur >\u201d buttons move the cursor.",
+        "Press the button below \u201cAMPL.\u201d on the function generator.",
+        "The light above the button turns on.",
+        "Your screen should look similar to Figure 5 now.",
+        "Adjust the amplitude to the voltage specified in the lab procedure for the circuit being tested, using the same dial or soft-keys.",
+        "Notice that this is Vpp, the peak-to-peak voltage.",
+        "The maximum (positive) and minimum (negative) voltages of the wave will be half the peak-to-peak voltage.",
+        "Press the button \u201cOUTPUT\u201d on the function generator.",
+        "The light to the left of the button turns on.",
+        "Set the oscilloscope window Press the \u201cDEFAULT SETUP\u201d button on the upper-right corner of the oscilloscope.",
+        "Its display should look similar to Figure 6.",
+        "The wave may appear on the display, or it may only show noise.",
+        "The next steps will bring it into focus.",
+        "Press the \u201cAUTOSET\u201d button on the upper-right corner of the oscilloscope.",
+        "Its display should look similar to Figure 7, and the waves should appear in focus.",
+        "Press the second soft-key from the top.",
+        "This tells the oscilloscope to display a single period of the wave.",
+        "Your display should look like the one in Figure 7.",
+        "The oscilloscope soft-keys are located to the right of the display.",
+        "Press the \u201cMEASURE\u201d button on the top middle of the oscilloscope.",
+        "The default measurement screen will be shown, like the one in Figure 8.",
+        "Press the top soft-key on the oscilloscope to select the first measurement.",
+        "Press the top soft-key labeled \u201cSource\u201d until \u201cCH1\u201d is listed.",
+        "Press the second soft-key from the top labeled \u201cType\u201d until \u201cFreq\u201d is shown.",
+        "Your display should look like the one in Figure 9.",
+        "Press the bottom soft-key to go back.",
+        "Press the second soft-key from the top to select the second measurement.",
+        "Press the top soft-key labeled \u201cSource\u201d until \u201cCH1\u201d is listed.",
+        "Press the second soft-key from the top labeled \u201cType\u201d until \u201cPk-Pk\u201d is shown.",
+        "Your display should look like the one in Figure 10.",
+        "Press the bottom soft-key to go back.",
+        "Press the third soft-key from the top to select the third measurement.",
+        "Press the top soft-key labeled \u201cSource\u201d until \u201cCH2\u201d is listed.",
+        "Press the second soft-key from the top labeled \u201cType\u201d until \u201cFreq\u201d is shown.",
+        "Your display should look like the one in Figure 11.",
+        "Press the last soft-key (fifth from the top) to go back.",
+        "Press the fourth soft-key from the top to select the fourth measurement.",
+        "Press the top soft-key labeled \u201cSource\u201d until \u201cCH2\u201d is listed.",
+        "Press the second soft-key from the top labeled \u201cType\u201d until \u201cPk-Pk\u201d is shown.",
+        "Your display should look like the one in Figure 12.",
+        "Press the bottom soft-key to go back.",
+        "Turn the \u201cHORIZONTAL SEC/DIV\u201d knob counterclockwise a little until it clicks once.",
+        "Your display should now show more than one period, like the display in Figure 13.",
+        "The CH1 and CH2 frequency measurements should change from \u201c?\u201d to the true reading.",
+        "Press the \u201cCURSOR\u201d button on the top middle of the oscilloscope.",
+        "The default screen should look like the one in Figure 14.",
+        "Press the top soft-key next to \u201cType\u201d until \u201cTime\u201d is listed.",
+        "The middle of the right column of the screen shows us the readings we are interested in:  \u0394t and \u0394V.",
+        "Below that, the readings for Cursor 1 and Cursor 2 are shown.",
+        "Creating the worksheet to record your data On your lab computer, open Excel and start a new spreadsheet.",
+        "Label the columns \u201cFrequency,\u201d \u201cVin,\u201d \u201cdV,\u201d \u201cVout,\u201d \u201cDelay,\u201d \u201cPhase\u201d and \u201cGain.\u201d Below \u201cFrequency,\u201d enter each frequency you plan to test (refer to your lab procedures).",
+        "Below \u201cVout\u201d in cell D2, enter this formula:  =B2+C2  Press return.",
+        "The \u201c=B2+C2\u201d turns into a zero since we haven\u2019t entered anything into B2 or C2.",
+        "Press Ctrl+D, then return.",
+        "The formula gets copied from D2 into D3, with Excel changing its formula into \u201c=B3+C3\u201d automatically.",
+        "Keep pressing Ctrl+D then return until you fill the column for each of your frequencies.",
+        "Below \u201cPhase\u201d in cell F2, enter this formula:  =2*pi()*A2*E2  Press return.",
+        "Press Ctrl+D, then return as you did before to fill the column.",
+        "Below \u201cGain\u201d in cell G2, enter this formula:  =20*log10(D2/B2)  Press return.",
+        "Press Ctrl+D, then return as you did before to fill the column.",
+        "Ignore the errors for now.",
+        "Save this worksheet to use as a template.",
+        "You can use it the next time you need to create a Bode plot, letting you skip Part 6.",
+        "Getting the data for the Bode plot Your oscilloscope should still be on the cursor display from the end of Part 5.",
+        "If it isn\u2019t, press the \u201cCURSOR\u201d button on the top middle of the oscilloscope.",
+        "Turn the \u201cHORIZONTAL SEC/DIV\u201d knob to zoom in on the wave, so that a single period is shown.",
+        "Push the fourth soft-key from the top to select Cursor 1.",
+        "Turn the \u201cmulti-function\u201d knob located on the center top of the oscilloscope to move the cursor.",
+        "The knob is unlabeled and is located just above the \u201cPRINT\u201d button.",
+        "Position the cursor so that it lines up with the very top of the CH1 (upper, in orange) wave.",
+        "Push the last soft-key (fifth from the top) to select Cursor 2.",
+        "Turn the \u201cmulti-function\u201d knob located on the center top of the oscilloscope to move the cursor.",
+        "Position the cursor so that it lines up with the very top of the CH2 (lower, in blue) wave.",
+        "On your spreadsheet, record your data: a. Vin \u2013 the voltage reading under Cursor 1 (820 mV in the example above; record this as 0.820 in your spreadsheet) b. dV \u2013 the reading next to \u0394V (20.0 mV in the example above; record this as 0.020 in your spreadsheet) c. Delay \u2013 the reading next to \u0394t (160.0 \u00b5s in the example above; record this as 0.000160 in your spreadsheet).",
+        "Creating the Bode plot For the Gain plot: Enter one step here and then click 1.",
+        "Select the Frequency and Gain columns.",
+        "Click \u201cInsert\u201d and look for the \u201cScatter Chart\u201d option.",
+        "Right-click the vertical axis and choose \u201cFormat Axis\u2026\u201d  Click \u201cLogarithmic scale\u201d  Right-click the horizontal axis and choose \u201cFormat Axis\u2026\u201d  Click \u201cLogarithmic scale\u201d  For the Phase plot: Select the Frequency and Gain columns.",
+        "Enter one step here and then click \u201cInsert\u201d and look for the \u201cScatter Chart\u201d option.",
+        "Right-click the horizontal axis and choose \u201cFormat Axis\u2026\u201d  Click \u201cLogarithmic scale\u201d."
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "title": "How to Install Homebrew on Your Wii (System Menu 4.0)",
+    "url": "https://www.wikihow.com/Install-Homebrew-on-Your-Wii-(System-Menu-4.0)",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Games",
+        "Video Games",
+        "Nintendo Video Game Consoles",
+        "Nintendo Wii"
+    ],
+    "steps": [
+        {
+            "headline": "Get an SD Card.",
+            "description": "Insert it into your computer through a built-in slot or a USB card reader. If it has a /private directory, rename it to \"privateold\"."
+        },
+        {
+            "headline": "Download aad1f_v108.zip and unzip the contents onto the card.",
+            "description": ""
+        },
+        {
+            "headline": "Download the HackMii Installer from http://bootmii.org/.",
+            "description": ""
+        },
+        {
+            "headline": "Open the zip file and extract installer.elf to your card.",
+            "description": "Rename it to boot.elf."
+        },
+        {
+            "headline": "Insert the SD or SDHC card into your Wii.",
+            "description": "Make sure the design is facing to the right to avoid getting it stuck, in which case you will need pliers."
+        },
+        {
+            "headline": "Press (Wii), Data Management, Channels, SD.",
+            "description": "It should pop up \"Load boot.dol/elf?\" Follow the instructions given to install the Homebrew Channel. If it freezes, and you followed the directions exactly, try a different version of Bannerbomb."
+        }
+    ],
+    "tyn": [
+        "An SD or SDHC card",
+        "An SD or SDHC card reader",
+        "Wireless internet access",
+        "A Nintendo Wii"
+    ],
+    "text": " Get an SD Card. Insert it into your computer through a built-in slot or a USB card reader. If it has a /private directory, rename it to \"privateold\". Download aad1f_v108.zip and unzip the contents onto the card.  Download the HackMii Installer from http://bootmii.org/.  Open the zip file and extract installer.elf to your card. Rename it to boot.elf. Insert the SD or SDHC card into your Wii. Make sure the design is facing to the right to avoid getting it stuck, in which case you will need pliers. Press (Wii), Data Management, Channels, SD. It should pop up \"Load boot.dol/elf?\" Follow the instructions given to install the Homebrew Channel. If it freezes, and you followed the directions exactly, try a different version of Bannerbomb.",
+    "sentences": [
+        " Get an SD Card.",
+        "Insert it into your computer through a built-in slot or a USB card reader.",
+        "If it has a /private directory, rename it to \"privateold\".",
+        "Download aad1f_v108.zip and unzip the contents onto the card.",
+        "Download the HackMii Installer from http://bootmii.org/.",
+        "Open the zip file and extract installer.elf to your card.",
+        "Rename it to boot.elf.",
+        "Insert the SD or SDHC card into your Wii.",
+        "Make sure the design is facing to the right to avoid getting it stuck, in which case you will need pliers.",
+        "Press (Wii), Data Management, Channels, SD.",
+        "It should pop up \"Load boot.dol/elf?\"",
+        "Follow the instructions given to install the Homebrew Channel.",
+        "If it freezes, and you followed the directions exactly, try a different version of Bannerbomb."
+    ]
+}

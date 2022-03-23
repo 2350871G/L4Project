@@ -1,0 +1,123 @@
+{
+    "title": "How to Create a 12 Volt DC Test Bench for Bullet Cameras Using an Old ATX Computer Power Supply",
+    "url": "https://www.wikihow.com/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Hacks"
+    ],
+    "steps": [
+        {
+            "headline": "Unplug the power cord from the back of the computer.",
+            "description": ""
+        },
+        {
+            "headline": "\"Harvest\" a power supply from a computer by opening up the case of the computer, locating the gray box that is the power supply unit, tracing the wires from the power supply to the boards and devices and disconnecting all the cables by unplugging them.",
+            "description": ""
+        },
+        {
+            "headline": "Remove the screws (typically 4) that attach the power supply to the computer case and remove the power supply.",
+            "description": ""
+        },
+        {
+            "headline": "Cut off the connectors except for the large Male ATX connector that goes to the Motherboard.",
+            "description": ""
+        },
+        {
+            "headline": "Drill the holes in your \"box\" and mount the binding posts, switch, and LED.",
+            "description": ""
+        },
+        {
+            "headline": "Cut your ATX extension cable in half and harvest the female side.",
+            "description": ""
+        },
+        {
+            "headline": "Mount the female side to your box (you will use the dremel to make the hole for this; you may want to use some epoxy to help hold it in).",
+            "description": ""
+        },
+        {
+            "headline": "Bundle the like colored wires together, stripping them and twisting together so that each colored bundle has one connection point.",
+            "description": "You'll end up with a bundle for +12, -12, +5, -5, +3.3, ground, Power OK, Power ON. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/4a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Connect the POWER ON (usually GREEN) wire to one side; Connect the other side to the negative side of the LED and GROUND (so, the \"out\" side of the switch is connected to two wires ... the one coming \"out\" of the LED and the GROUND bundle).",
+            "description": ""
+        },
+        {
+            "headline": "Connect the positive side to +12V and the other side to the GROUND bundle (which is also connected to the \"out\" side of the switch as described above).",
+            "description": ""
+        },
+        {
+            "headline": "Connect the bundled wires to +12, -12, +5, -5, 3.3V and ground, respectively.",
+            "description": ""
+        },
+        {
+            "headline": "Connect the POWER OK (usually GRAY, but sometimes BROWN) directly to the POWER SENSING (usually PURPLE or BROWN) wire.",
+            "description": ""
+        },
+        {
+            "headline": "Make sure that the wire connections are insulated in heat-shrink tubing.",
+            "description": "Organize the wires with an electrical tape or zip-ties. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/80\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Check for loose connections by gently tugging on them.",
+            "description": "Inspect for bare wire, and cover it to prevent a short circuit. You may want to put a drop of super-glue to stick the LED to its hole. Put the cover back on. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/1a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Plug the power cord into the back and into an AC socket.",
+            "description": ""
+        },
+        {
+            "headline": "Flip the main switch on the Power Supply and check to see if the LED light comes on.",
+            "description": "If it has not, then power up by flipping the switch you placed on the front. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/3a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Plug in a 12V bulb into the different sockets to see if the PSU works, also check with a digital voltmeter.",
+            "description": ""
+        },
+        {
+            "headline": "Finished.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "Multimeter",
+        "Drill",
+        "Wire strippers",
+        "Dremel",
+        "Heat shrink",
+        "Heat gun or lighter (to melt the heat shrink)",
+        "Adjustable wrench (for attaching the nuts to the threaded binding posts)",
+        "A switch (all current power supplies use a switch for power)",
+        "LED from an auto parts store (12 V)",
+        "Six (6) binding posts",
+        "Some kind of enclosure box (such as a junk CD-ROM drive case, discarding the \"guts\")",
+        "A 20-pin female ATX power supply connector to mate with your power supply's connector (such as a 20-pin ATX extension cable off eBay or from your local computer store, after cutting off the male end)"
+    ],
+    "text": " Unplug the power cord from the back of the computer.  \"Harvest\" a power supply from a computer by opening up the case of the computer, locating the gray box that is the power supply unit, tracing the wires from the power supply to the boards and devices and disconnecting all the cables by unplugging them.  Remove the screws (typically 4) that attach the power supply to the computer case and remove the power supply.  Cut off the connectors except for the large Male ATX connector that goes to the Motherboard.  Drill the holes in your \"box\" and mount the binding posts, switch, and LED.  Cut your ATX extension cable in half and harvest the female side.  Mount the female side to your box (you will use the dremel to make the hole for this; you may want to use some epoxy to help hold it in).  Bundle the like colored wires together, stripping them and twisting together so that each colored bundle has one connection point. You'll end up with a bundle for +12, -12, +5, -5, +3.3, ground, Power OK, Power ON. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/4a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Connect the POWER ON (usually GREEN) wire to one side; Connect the other side to the negative side of the LED and GROUND (so, the \"out\" side of the switch is connected to two wires ... the one coming \"out\" of the LED and the GROUND bundle).  Connect the positive side to +12V and the other side to the GROUND bundle (which is also connected to the \"out\" side of the switch as described above).  Connect the bundled wires to +12, -12, +5, -5, 3.3V and ground, respectively.  Connect the POWER OK (usually GRAY, but sometimes BROWN) directly to the POWER SENSING (usually PURPLE or BROWN) wire.  Make sure that the wire connections are insulated in heat-shrink tubing. Organize the wires with an electrical tape or zip-ties. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/80\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Check for loose connections by gently tugging on them. Inspect for bare wire, and cover it to prevent a short circuit. You may want to put a drop of super-glue to stick the LED to its hole. Put the cover back on. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/1a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Plug the power cord into the back and into an AC socket.  Flip the main switch on the Power Supply and check to see if the LED light comes on. If it has not, then power up by flipping the switch you placed on the front. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/3a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Plug in a 12V bulb into the different sockets to see if the PSU works, also check with a digital voltmeter.  Finished. ",
+    "sentences": [
+        " Unplug the power cord from the back of the computer.",
+        "\"Harvest\" a power supply from a computer by opening up the case of the computer, locating the gray box that is the power supply unit, tracing the wires from the power supply to the boards and devices and disconnecting all the cables by unplugging them.",
+        "Remove the screws (typically 4) that attach the power supply to the computer case and remove the power supply.",
+        "Cut off the connectors except for the large Male ATX connector that goes to the Motherboard.",
+        "Drill the holes in your \"box\" and mount the binding posts, switch, and LED.",
+        "Cut your ATX extension cable in half and harvest the female side.",
+        "Mount the female side to your box (you will use the dremel to make the hole for this; you may want to use some epoxy to help hold it in).",
+        "Bundle the like colored wires together, stripping them and twisting together so that each colored bundle has one connection point.",
+        "You'll end up with a bundle for +12, -12, +5, -5, +3.3, ground, Power OK, Power ON.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/4a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-8Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Connect the POWER ON (usually GREEN) wire to one side; Connect the other side to the negative side of the LED and GROUND (so, the \"out\" side of the switch is connected to two wires ... the one coming \"out\" of the LED and the GROUND bundle).",
+        "Connect the positive side to +12V and the other side to the GROUND bundle (which is also connected to the \"out\" side of the switch as described above).",
+        "Connect the bundled wires to +12, -12, +5, -5, 3.3V and ground, respectively.",
+        "Connect the POWER OK (usually GRAY, but sometimes BROWN) directly to the POWER SENSING (usually PURPLE or BROWN) wire.",
+        "Make sure that the wire connections are insulated in heat-shrink tubing.",
+        "Organize the wires with an electrical tape or zip-ties.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/80\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/80\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-13Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Check for loose connections by gently tugging on them.",
+        "Inspect for bare wire, and cover it to prevent a short circuit.",
+        "You may want to put a drop of super-glue to stick the LED to its hole.",
+        "Put the cover back on.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/1a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-14Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Plug the power cord into the back and into an AC socket.",
+        "Flip the main switch on the Power Supply and check to see if the LED light comes on.",
+        "If it has not, then power up by flipping the switch you placed on the front.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/3a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\\/v4-460px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3a\\/Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\\/aid285996-v4-728px-Create-a-12-Volt-DC-Test-Bench-for-Bullet-Cameras-Using-an-Old-ATX-Computer-Power-Supply-Step-16Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Plug in a 12V bulb into the different sockets to see if the PSU works, also check with a digital voltmeter.",
+        "Finished."
+    ]
+}

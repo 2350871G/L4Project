@@ -1,0 +1,58 @@
+{
+    "title": "How to Find Your Google Analytics Code",
+    "url": "https://www.wikihow.com/Find-Your-Google-Analytics-Code",
+    "category_hierarchy": [
+        "Finance and Business",
+        "Marketing",
+        "Advertising"
+    ],
+    "steps": [
+        {
+            "headline": "Log in to your Google Analytics account.",
+            "description": "If you do not have an account, visit: Google.com/analytics to get started. Click the \"Create account\" option, and follow the on-screen steps to continue."
+        },
+        {
+            "headline": "Select the account with the profile you are trying to locate the tracking code for.",
+            "description": "You can do this from the \"Overview\" screen you will see after logging in."
+        },
+        {
+            "headline": "Click \"Edit\" in the \"Actions\" column for the profile you have selected.",
+            "description": ""
+        },
+        {
+            "headline": "Click \"Check Status\" located in the \"Main Website Profile Information\" menu.",
+            "description": "This will tell you whether or not the Google Analytics tracking code is properly installed and gathering information about your website."
+        },
+        {
+            "headline": "Scroll down until you see the \"Instructions for Adding Tracking\" portion of the page.",
+            "description": "You will find a text box where your tracking code will be displayed."
+        },
+        {
+            "headline": "Copy this code, and paste it into the appropriate section of your website (HTML) code.",
+            "description": "There should be  a zone for this in website/properties and one for each web page you have created. Do not confuse (HTML) code with SEO. If you are using JavaScript or JS code, the tracking code should be placed between <META NAME=\"ROBOTS\" CONTENT=\"INDEX,FOLLOW\"> and closing body tag that looks like this: < /body > (without the spaces). If you are using the asynchronous code, you should place it directly before the closing head tag that looks like this: < /head > (without the spaces). You can choose which type of code, as they will both produce the same result."
+        }
+    ],
+    "tyn": [
+        "Google Analytics account",
+        "Your website"
+    ],
+    "text": " Log in to your Google Analytics account. If you do not have an account, visit: Google.com/analytics to get started. Click the \"Create account\" option, and follow the on-screen steps to continue. Select the account with the profile you are trying to locate the tracking code for. You can do this from the \"Overview\" screen you will see after logging in. Click \"Edit\" in the \"Actions\" column for the profile you have selected.  Click \"Check Status\" located in the \"Main Website Profile Information\" menu. This will tell you whether or not the Google Analytics tracking code is properly installed and gathering information about your website. Scroll down until you see the \"Instructions for Adding Tracking\" portion of the page. You will find a text box where your tracking code will be displayed. Copy this code, and paste it into the appropriate section of your website (HTML) code. There should be  a zone for this in website/properties and one for each web page you have created. Do not confuse (HTML) code with SEO. If you are using JavaScript or JS code, the tracking code should be placed between <META NAME=\"ROBOTS\" CONTENT=\"INDEX,FOLLOW\"> and closing body tag that looks like this: < /body > (without the spaces). If you are using the asynchronous code, you should place it directly before the closing head tag that looks like this: < /head > (without the spaces). You can choose which type of code, as they will both produce the same result.",
+    "sentences": [
+        " Log in to your Google Analytics account.",
+        "If you do not have an account, visit: Google.com/analytics to get started.",
+        "Click the \"Create account\" option, and follow the on-screen steps to continue.",
+        "Select the account with the profile you are trying to locate the tracking code for.",
+        "You can do this from the \"Overview\" screen you will see after logging in.",
+        "Click \"Edit\" in the \"Actions\" column for the profile you have selected.",
+        "Click \"Check Status\" located in the \"Main Website Profile Information\" menu.",
+        "This will tell you whether or not the Google Analytics tracking code is properly installed and gathering information about your website.",
+        "Scroll down until you see the \"Instructions for Adding Tracking\" portion of the page.",
+        "You will find a text box where your tracking code will be displayed.",
+        "Copy this code, and paste it into the appropriate section of your website (HTML) code.",
+        "There should be  a zone for this in website/properties and one for each web page you have created.",
+        "Do not confuse (HTML) code with SEO.",
+        "If you are using JavaScript or JS code, the tracking code should be placed between <META NAME=\"ROBOTS\" CONTENT=\"INDEX,FOLLOW\"> and closing body tag that looks like this: < /body > (without the spaces).",
+        "If you are using the asynchronous code, you should place it directly before the closing head tag that looks like this: < /head > (without the spaces).",
+        "You can choose which type of code, as they will both produce the same result."
+    ]
+}

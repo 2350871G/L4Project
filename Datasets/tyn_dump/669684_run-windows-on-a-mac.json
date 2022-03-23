@@ -1,0 +1,168 @@
+{
+    "title": "How to Run Windows On a Mac",
+    "url": "https://www.wikihow.com/Run-Windows-On-a-Mac",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Windows"
+    ],
+    "methods": [
+        {
+            "name": "Installing and Running Boot Camp",
+            "steps": [
+                {
+                    "headline": "Download and install Boot Camp from a reputable source.",
+                    "description": "Try to download the software from CNET.com or from another reliable site."
+                },
+                {
+                    "headline": "Turn on your Mac and log into your account.",
+                    "description": ""
+                },
+                {
+                    "headline": "Go to the Utilities folder located under \"Applications\" or type \"Boot Camp Assistant\" into spotlight search.",
+                    "description": ""
+                },
+                {
+                    "headline": "Launch Boot Camp Assistant.",
+                    "description": ""
+                },
+                {
+                    "headline": "Click \"Continue.\"",
+                    "description": ""
+                },
+                {
+                    "headline": "Decide how much space you want for your Windows partition.",
+                    "description": "You can divide space equally between Mac OS and Windows, give Windows 32GB, or assign space manually using the slider."
+                },
+                {
+                    "headline": "Then click \"Partition.\"",
+                    "description": ""
+                },
+                {
+                    "headline": "Insert your 32-Bit or 64-Bit Windows XP, Windows Vista, or Windows 7 DVD into your drive and click Start Installation.",
+                    "description": ""
+                },
+                {
+                    "headline": "Your Mac will restart and launch the Windows installer.",
+                    "description": "Click continue/next. For Windows XP click Enter then press F8."
+                },
+                {
+                    "headline": "If prompted for product key enter it or leave it blank.",
+                    "description": "(You can enter it later)."
+                },
+                {
+                    "headline": "When presented with a list of partitions, select the one labeled \"BOOT CAMP.\"",
+                    "description": ""
+                },
+                {
+                    "headline": "Format that partition and click \"Continue.\"",
+                    "description": ""
+                },
+                {
+                    "headline": "The installation process will begin.",
+                    "description": "Your Mac may restart several times."
+                },
+                {
+                    "headline": "Once Installation is finished and you have created a user account, insert your Mac OS X install DVD to install all of the Boot Camp drivers necessary for a smooth Windows-Mac environment.",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Installing and Running Parallels",
+            "steps": [
+                {
+                    "headline": "Get up to date on your Mac OS.",
+                    "description": "Go to Apple \u2192 Software Update... to check whether your operating system is up to date."
+                },
+                {
+                    "headline": "Purchase Parallels.",
+                    "description": "You can purchase Parallels by buying a physical copy or by downloading it online."
+                },
+                {
+                    "headline": "Start the installation process.",
+                    "description": "The manner of installation depends on whether you purchased a physical copy or downloaded a copy:\nFor downloaded copies: double-click the disk image file, which is most likely in your Downloads folder. This file has the extension \".dmg\" behind it. For store-bought copies: inset the installation disc."
+                },
+                {
+                    "headline": "Follow the onscreen instructions fully.",
+                    "description": ""
+                },
+                {
+                    "headline": "In the Applications folder, open Parallels Desktop.",
+                    "description": "You have several options at this point:\nPurchase and download a version of Windows online: select File \u2192 New \u2192 Buy Windows 7. Tell Parallels whether you intend to use Windows \"like a Mac\" (with Windows applications alongside Mac applications, on you Mac OS desktop) or \"like a PC\" (with Windows applications appearing in a separate window from Mac OS applications). Expect this process to take at least an hour. Your computer may reboot several times during this process. Install Windows using an installation disc: insert the Windows installation disc and go to File \u2192 New \u2192 Install Windows from DVD or image file. Tell Parallels whether you intend to use Windows \"like a Mac\" (with Windows applications alongside Mac applications, on you Mac OS desktop) or \"like a PC\" (with Windows applications appearing in a separate window from Mac OS applications)."
+                },
+                {
+                    "headline": "Continue following instructions from the Parallels installation assistant.",
+                    "description": ""
+                },
+                {
+                    "headline": "Start using Parallels by either opening a Windows program or by activating the power button in the Parallels Virtual Machines list.",
+                    "description": "There are several ways that you can open a Windows program:\nIn the Windows Applications folder. If you opted to use Windows \"Like a Mac\" during the installation, you'll have a Windows Application folder in your Mac OS dock. As you install more Windows programs or applications, they go into this folder. Using the Windows Start Menu. Simply click on the Parallels icon in the menu bar and select \"Windows Start Menu.\" Select any program from the Windows Start Menu. Using the Mac OS X Finder. Select the Windows volume on your desktop, then open the Program Files folder. Next, double-clicking the icon of the program you want to use in the Finder. Using Spotlight. Navigate to the Spotlight icon in the top right of your screen and type in the name of the program you want to use."
+                },
+                {
+                    "headline": "Install any new programs like you would on a regular Windows PC.",
+                    "description": "Download a file from the internet or insert an installation disc into your disc drive. The installation process should start without a hitch."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Mac OS X 10.5 or Later",
+        "32-Bit or 64-Bit Windows XP, Windows Vista, or Windows 7 install DVD"
+    ],
+    "text": " Installing and Running Boot Camp Download and install Boot Camp from a reputable source. Try to download the software from CNET.com or from another reliable site. Turn on your Mac and log into your account.  Go to the Utilities folder located under \"Applications\" or type \"Boot Camp Assistant\" into spotlight search.  Launch Boot Camp Assistant.  Click \"Continue.\"  Decide how much space you want for your Windows partition. You can divide space equally between Mac OS and Windows, give Windows 32GB, or assign space manually using the slider. Then click \"Partition.\"  Insert your 32-Bit or 64-Bit Windows XP, Windows Vista, or Windows 7 DVD into your drive and click Start Installation.  Your Mac will restart and launch the Windows installer. Click continue/next. For Windows XP click Enter then press F8. If prompted for product key enter it or leave it blank. (You can enter it later). When presented with a list of partitions, select the one labeled \"BOOT CAMP.\"  Format that partition and click \"Continue.\"  The installation process will begin. Your Mac may restart several times. Once Installation is finished and you have created a user account, insert your Mac OS X install DVD to install all of the Boot Camp drivers necessary for a smooth Windows-Mac environment.  Installing and Running Parallels Get up to date on your Mac OS. Go to Apple \u2192 Software Update... to check whether your operating system is up to date. Purchase Parallels. You can purchase Parallels by buying a physical copy or by downloading it online. Start the installation process. The manner of installation depends on whether you purchased a physical copy or downloaded a copy:\nFor downloaded copies: double-click the disk image file, which is most likely in your Downloads folder. This file has the extension \".dmg\" behind it. For store-bought copies: inset the installation disc. Follow the onscreen instructions fully.  In the Applications folder, open Parallels Desktop. You have several options at this point:\nPurchase and download a version of Windows online: select File \u2192 New \u2192 Buy Windows 7. Tell Parallels whether you intend to use Windows \"like a Mac\" (with Windows applications alongside Mac applications, on you Mac OS desktop) or \"like a PC\" (with Windows applications appearing in a separate window from Mac OS applications). Expect this process to take at least an hour. Your computer may reboot several times during this process. Install Windows using an installation disc: insert the Windows installation disc and go to File \u2192 New \u2192 Install Windows from DVD or image file. Tell Parallels whether you intend to use Windows \"like a Mac\" (with Windows applications alongside Mac applications, on you Mac OS desktop) or \"like a PC\" (with Windows applications appearing in a separate window from Mac OS applications). Continue following instructions from the Parallels installation assistant.  Start using Parallels by either opening a Windows program or by activating the power button in the Parallels Virtual Machines list. There are several ways that you can open a Windows program:\nIn the Windows Applications folder. If you opted to use Windows \"Like a Mac\" during the installation, you'll have a Windows Application folder in your Mac OS dock. As you install more Windows programs or applications, they go into this folder. Using the Windows Start Menu. Simply click on the Parallels icon in the menu bar and select \"Windows Start Menu.\" Select any program from the Windows Start Menu. Using the Mac OS X Finder. Select the Windows volume on your desktop, then open the Program Files folder. Next, double-clicking the icon of the program you want to use in the Finder. Using Spotlight. Navigate to the Spotlight icon in the top right of your screen and type in the name of the program you want to use. Install any new programs like you would on a regular Windows PC. Download a file from the internet or insert an installation disc into your disc drive. The installation process should start without a hitch.",
+    "sentences": [
+        " Installing and Running Boot Camp Download and install Boot Camp from a reputable source.",
+        "Try to download the software from CNET.com or from another reliable site.",
+        "Turn on your Mac and log into your account.",
+        "Go to the Utilities folder located under \"Applications\" or type \"Boot Camp Assistant\" into spotlight search.",
+        "Launch Boot Camp Assistant.",
+        "Click \"Continue.\"",
+        "Decide how much space you want for your Windows partition.",
+        "You can divide space equally between Mac OS and Windows, give Windows 32GB, or assign space manually using the slider.",
+        "Then click \"Partition.\"",
+        "Insert your 32-Bit or 64-Bit Windows XP, Windows Vista, or Windows 7 DVD into your drive and click Start Installation.",
+        "Your Mac will restart and launch the Windows installer.",
+        "Click continue/next.",
+        "For Windows XP click Enter then press F8.",
+        "If prompted for product key enter it or leave it blank.",
+        "(You can enter it later).",
+        "When presented with a list of partitions, select the one labeled \"BOOT CAMP.\"",
+        "Format that partition and click \"Continue.\"",
+        "The installation process will begin.",
+        "Your Mac may restart several times.",
+        "Once Installation is finished and you have created a user account, insert your Mac OS X install DVD to install all of the Boot Camp drivers necessary for a smooth Windows-Mac environment.",
+        "Installing and Running Parallels Get up to date on your Mac OS.",
+        "Go to Apple \u2192 Software Update... to check whether your operating system is up to date.",
+        "Purchase Parallels.",
+        "You can purchase Parallels by buying a physical copy or by downloading it online.",
+        "Start the installation process.",
+        "The manner of installation depends on whether you purchased a physical copy or downloaded a copy:\nFor downloaded copies: double-click the disk image file, which is most likely in your Downloads folder.",
+        "This file has the extension \".dmg\" behind it.",
+        "For store-bought copies: inset the installation disc.",
+        "Follow the onscreen instructions fully.",
+        "In the Applications folder, open Parallels Desktop.",
+        "You have several options at this point:\nPurchase and download a version of Windows online: select File \u2192 New \u2192 Buy Windows 7.",
+        "Tell Parallels whether you intend to use Windows \"like a Mac\" (with Windows applications alongside Mac applications, on you Mac OS desktop) or \"like a PC\" (with Windows applications appearing in a separate window from Mac OS applications).",
+        "Expect this process to take at least an hour.",
+        "Your computer may reboot several times during this process.",
+        "Install Windows using an installation disc: insert the Windows installation disc and go to File \u2192 New \u2192 Install Windows from DVD or image file.",
+        "Tell Parallels whether you intend to use Windows \"like a Mac\" (with Windows applications alongside Mac applications, on you Mac OS desktop) or \"like a PC\" (with Windows applications appearing in a separate window from Mac OS applications).",
+        "Continue following instructions from the Parallels installation assistant.",
+        "Start using Parallels by either opening a Windows program or by activating the power button in the Parallels Virtual Machines list.",
+        "There are several ways that you can open a Windows program:\nIn the Windows Applications folder.",
+        "If you opted to use Windows \"Like a Mac\" during the installation, you'll have a Windows Application folder in your Mac OS dock.",
+        "As you install more Windows programs or applications, they go into this folder.",
+        "Using the Windows Start Menu.",
+        "Simply click on the Parallels icon in the menu bar and select \"Windows Start Menu.\"",
+        "Select any program from the Windows Start Menu.",
+        "Using the Mac OS X Finder.",
+        "Select the Windows volume on your desktop, then open the Program Files folder.",
+        "Next, double-clicking the icon of the program you want to use in the Finder.",
+        "Using Spotlight.",
+        "Navigate to the Spotlight icon in the top right of your screen and type in the name of the program you want to use.",
+        "Install any new programs like you would on a regular Windows PC.",
+        "Download a file from the internet or insert an installation disc into your disc drive.",
+        "The installation process should start without a hitch."
+    ]
+}

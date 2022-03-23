@@ -1,0 +1,79 @@
+{
+    "title": "How to Speed Up Internet Explorer",
+    "url": "https://www.wikihow.com/Speed-Up-Internet-Explorer",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Internet",
+        "Internet Browsers",
+        "Internet Explorer"
+    ],
+    "steps": [
+        {
+            "headline": "Press the \u229e Windows + R keys simultaneously.",
+            "description": ""
+        },
+        {
+            "headline": "Enter regedit and press enter to open the Windows Registry Editor.",
+            "description": ""
+        },
+        {
+            "headline": "Navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings.",
+            "description": ""
+        },
+        {
+            "headline": "Look for two values called MaxConnectionsPerServer and MaxConnectionsPer1_0Server.",
+            "description": "If not, then perform the following:"
+        },
+        {
+            "headline": "Double click on MaxConnectionsPerServer.",
+            "description": "Right-click and select New > DWORD Value. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/31\\/Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\\/v4-460px-Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/3\\/31\\/Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nCreate two DWORD Values named as above. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/99\\/Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\\/v4-460px-Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/99\\/Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+            "headline": "Double click on MaxConnectionsPerServer.",
+            "description": ""
+        },
+        {
+            "headline": "Make sure to select 'Decimal', instead of the default 'Hexadecimal' under Base.",
+            "description": "Change the value depending on your connection speed. If you use dial-up, set the value to 6. If you use DSL or faster, you may set a value from 10 to 16, as you desire."
+        },
+        {
+            "headline": "Do the same as above for MaxConnectionsPer1_0Server.",
+            "description": ""
+        },
+        {
+            "headline": "Close the Registry Editor.",
+            "description": ""
+        },
+        {
+            "headline": "Restart Internet Explorer.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "\u2191",
+        " ",
+        "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
+        " https://docs.microsoft.com/en-us/deployedge/edge-ie-mode",
+        "https://docs.microsoft.com/en-us/deployedge/edge-ie-mode",
+        " https://support.microsoft.com/en-us/windows/manage-add-ons-in-internet-explorer-11-0a490ccc-83ab-0723-f9cd-2ebad8fa114e",
+        "https://support.microsoft.com/en-us/windows/manage-add-ons-in-internet-explorer-11-0a490ccc-83ab-0723-f9cd-2ebad8fa114e"
+    ],
+    "text": " Press the \u229e Windows + R keys simultaneously.  Enter regedit and press enter to open the Windows Registry Editor.  Navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings.  Look for two values called MaxConnectionsPerServer and MaxConnectionsPer1_0Server. If not, then perform the following: Double click on MaxConnectionsPerServer. Right-click and select New > DWORD Value. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/31\\/Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\\/v4-460px-Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/3\\/31\\/Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nCreate two DWORD Values named as above. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/99\\/Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\\/v4-460px-Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/99\\/Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Double click on MaxConnectionsPerServer.  Make sure to select 'Decimal', instead of the default 'Hexadecimal' under Base. Change the value depending on your connection speed. If you use dial-up, set the value to 6. If you use DSL or faster, you may set a value from 10 to 16, as you desire. Do the same as above for MaxConnectionsPer1_0Server.  Close the Registry Editor.  Restart Internet Explorer. ",
+    "sentences": [
+        " Press the \u229e Windows + R keys simultaneously.",
+        "Enter regedit and press enter to open the Windows Registry Editor.",
+        "Navigate to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings.",
+        "Look for two values called MaxConnectionsPerServer and MaxConnectionsPer1_0Server.",
+        "If not, then perform the following: Double click on MaxConnectionsPerServer.",
+        "Right-click and select New > DWORD Value.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/3\\/31\\/Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\\/v4-460px-Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/3\\/31\\/Speed-Up-Internet-Explorer-Step-4Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nCreate two DWORD Values named as above.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/9\\/99\\/Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\\/v4-460px-Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/99\\/Speed-Up-Internet-Explorer-Step-4Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Double click on MaxConnectionsPerServer.",
+        "Make sure to select 'Decimal', instead of the default 'Hexadecimal' under Base.",
+        "Change the value depending on your connection speed.",
+        "If you use dial-up, set the value to 6.",
+        "If you use DSL or faster, you may set a value from 10 to 16, as you desire.",
+        "Do the same as above for MaxConnectionsPer1_0Server.",
+        "Close the Registry Editor.",
+        "Restart Internet Explorer."
+    ]
+}

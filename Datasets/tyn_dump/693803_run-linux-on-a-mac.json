@@ -1,0 +1,75 @@
+{
+    "title": "How to Run Linux on a Mac",
+    "url": "https://www.wikihow.com/Run-Linux-on-a-Mac",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Operating Systems",
+        "Mac"
+    ],
+    "steps": [
+        {
+            "headline": "Download the latest version of Linux distro of your choice, from the official website, or any similar source.",
+            "description": ""
+        },
+        {
+            "headline": "Go to VirtualBox and download Oracle (Sun) VirtualBox for Mac OS X.",
+            "description": "At the next page, select Mac OS X again to begin your download."
+        },
+        {
+            "headline": "Once you have fully downloaded Oracle (Sun) VirtualBox, install the Oracle (Sun) VirtualBox software.",
+            "description": ""
+        },
+        {
+            "headline": "Open VirtualBox and create a new virtual machine by clicking on the \"New\" button in the top left corner of the Sun VirtualBox window.",
+            "description": ""
+        },
+        {
+            "headline": "Add a name to your virtual machine which will help you remember which operating system it is going to run and click 'next.'",
+            "description": ""
+        },
+        {
+            "headline": "At the next screen, select Linux as the operating system and the Linux image you are going to use as the version.",
+            "description": ""
+        },
+        {
+            "headline": "Select Boot Hard Disk (Primary Master) and select Create new hard disk then click next.",
+            "description": ""
+        },
+        {
+            "headline": "Select Dynamically expanding storage size.",
+            "description": ""
+        },
+        {
+            "headline": "Once this process is finished, run your virtual machine; this will start the installation wizard.",
+            "description": ""
+        },
+        {
+            "headline": "To select the ISO image of the Linux distro that you have downloaded, click on  \"Cd-DVD ROM Device, as well as Image File on the lower portion of the window.",
+            "description": "To find your Linux ISO image, click the folder with the green arrow to search for your downloaded image. Once this process is complete, your virtual machine will boot and you may begin to install Linux in the virtual machine. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c1\\/Run-Linux-on-a-Mac-Step-10Bullet1.jpg\\/v4-460px-Run-Linux-on-a-Mac-Step-10Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c1\\/Run-Linux-on-a-Mac-Step-10Bullet1.jpg\\/aid693803-v4-728px-Run-Linux-on-a-Mac-Step-10Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        }
+    ],
+    "tyn": [
+        "An Intel-based MacBook",
+        "At least 8 GB free space on your Hard Drive.",
+        "Access to the internet",
+        "An ISO Image of your selected Linux",
+        "VirtualBox from Sun Microsystems"
+    ],
+    "text": " Download the latest version of Linux distro of your choice, from the official website, or any similar source.  Go to VirtualBox and download Oracle (Sun) VirtualBox for Mac OS X. At the next page, select Mac OS X again to begin your download. Once you have fully downloaded Oracle (Sun) VirtualBox, install the Oracle (Sun) VirtualBox software.  Open VirtualBox and create a new virtual machine by clicking on the \"New\" button in the top left corner of the Sun VirtualBox window.  Add a name to your virtual machine which will help you remember which operating system it is going to run and click 'next.'  At the next screen, select Linux as the operating system and the Linux image you are going to use as the version.  Select Boot Hard Disk (Primary Master) and select Create new hard disk then click next.  Select Dynamically expanding storage size.  Once this process is finished, run your virtual machine; this will start the installation wizard.  To select the ISO image of the Linux distro that you have downloaded, click on  \"Cd-DVD ROM Device, as well as Image File on the lower portion of the window. To find your Linux ISO image, click the folder with the green arrow to search for your downloaded image. Once this process is complete, your virtual machine will boot and you may begin to install Linux in the virtual machine. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c1\\/Run-Linux-on-a-Mac-Step-10Bullet1.jpg\\/v4-460px-Run-Linux-on-a-Mac-Step-10Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c1\\/Run-Linux-on-a-Mac-Step-10Bullet1.jpg\\/aid693803-v4-728px-Run-Linux-on-a-Mac-Step-10Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}",
+    "sentences": [
+        " Download the latest version of Linux distro of your choice, from the official website, or any similar source.",
+        "Go to VirtualBox and download Oracle (Sun) VirtualBox for Mac OS X.",
+        "At the next page, select Mac OS X again to begin your download.",
+        "Once you have fully downloaded Oracle (Sun) VirtualBox, install the Oracle (Sun) VirtualBox software.",
+        "Open VirtualBox and create a new virtual machine by clicking on the \"New\" button in the top left corner of the Sun VirtualBox window.",
+        "Add a name to your virtual machine which will help you remember which operating system it is going to run and click 'next.'",
+        "At the next screen, select Linux as the operating system and the Linux image you are going to use as the version.",
+        "Select Boot Hard Disk (Primary Master) and select Create new hard disk then click next.",
+        "Select Dynamically expanding storage size.",
+        "Once this process is finished, run your virtual machine; this will start the installation wizard.",
+        "To select the ISO image of the Linux distro that you have downloaded, click on  \"Cd-DVD ROM Device, as well as Image File on the lower portion of the window.",
+        "To find your Linux ISO image, click the folder with the green arrow to search for your downloaded image.",
+        "Once this process is complete, your virtual machine will boot and you may begin to install Linux in the virtual machine.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/c\\/c1\\/Run-Linux-on-a-Mac-Step-10Bullet1.jpg\\/v4-460px-Run-Linux-on-a-Mac-Step-10Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c1\\/Run-Linux-on-a-Mac-Step-10Bullet1.jpg\\/aid693803-v4-728px-Run-Linux-on-a-Mac-Step-10Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":\"728\",\"bigHeight\":\"546\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+    ]
+}

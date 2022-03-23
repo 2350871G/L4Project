@@ -1,0 +1,254 @@
+{
+    "title": "How to Connect a Router to a Modem",
+    "url": "https://www.wikihow.com/Connect-a-Router-to-a-Modem",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Computer Networking"
+    ],
+    "parts": [
+        {
+            "name": "Connecting a Router to a Modem",
+            "steps": [
+                {
+                    "headline": "Connect the proper internet cable to the wall outlet.",
+                    "description": "If you have cable or fiberoptic internet, you will need to connect a coaxial cable to the wall outlet you get internet through. If you have a DSL modem, you will need to connect a phone line to a wall port for your phone."
+                },
+                {
+                    "headline": "Connect the other of the internet wire to your modem.",
+                    "description": "Connect the other end of the coaxial cable or phone line to the proper port on your modem. This allows your modem to receive internet."
+                },
+                {
+                    "headline": "Connect the modem\u2019s power cord to your modem.",
+                    "description": "Locate the AC adapter port on your modem and connect the AC adapter to your modem."
+                },
+                {
+                    "headline": "Plug the modem\u2019s power cord into a nearby electrical outlet.",
+                    "description": "This will power on your modem."
+                },
+                {
+                    "headline": "Power on your modem.",
+                    "description": "If your modem doesn't power on immediately, locate a power switch on your modem and power it on."
+                },
+                {
+                    "headline": "Connect an Ethernet cable to the \"Ethernet\" port on your modem.",
+                    "description": "This port is used to connect other devices to your modem."
+                },
+                {
+                    "headline": "Connect the other end of the cable to the router.",
+                    "description": "Use the other end of the Ethernet cable to connect to the port labeled \"WAN\", \"Internet\", or something similar. It's most likely located next to the four colored \"LAN\" ports on the router."
+                },
+                {
+                    "headline": "Connect the router\u2019s power cord to your router.",
+                    "description": "Locate the AC adapter port on the router and connect the AC adapter to the router."
+                },
+                {
+                    "headline": "Plug the router\u2019s power cord into a nearby electrical outlet.",
+                    "description": "Your router will most likely power up on its own. Allow a few minutes for it to fully boot up."
+                },
+                {
+                    "headline": "Connect the second Ethernet cable to the router.",
+                    "description": "Connect the Ethernet cable to one of the ports labeled \"LAN\"."
+                },
+                {
+                    "headline": "Connect the Ethernet cable to your computer.",
+                    "description": "Locate an open LAN port on your laptop or desktop computer and connect the other end of the Ethernet cable to your computer."
+                },
+                {
+                    "headline": "Verify that the lights on your modem and router are lit up.",
+                    "description": "This indicates that the devices have been properly connected to one another. The way the lights light up is going to be different from one router make and model to another. Consult the user's manual or manufacturer's web page for more information."
+                },
+                {
+                    "headline": "Open a web browser.",
+                    "description": "If you are properly connected to the internet, you should be able to browse the internet using a web browser."
+                },
+                {
+                    "headline": "Type the router's IP address in the address bar.",
+                    "description": "This connects to the web interface for the router. The router's default IP address is going to be different depending on the make and model of the router. Consult the user's manual or manufacturer's web page to find out what the default IP address is for your router. Common default IP addresses include 192.168.0.1, 192.168.1.1 and 10.0.0.1"
+                },
+                {
+                    "headline": "Enter the default username and password.",
+                    "description": "You will need to sign in to the router using the default username and password. Consult the user's manual or manufacturer's website to find the default username and password for your router."
+                },
+                {
+                    "headline": "Update the router's firmware.",
+                    "description": "When connecting a new router, it is likely that the router needs to be updated. Locate the option in the web interface to update the router and click that button. How your update a router's firmware is going to be different from one router's make and model to another. You can also use your router's web interface to set up port forwarding and block websites."
+                }
+            ]
+        },
+        {
+            "name": "Configuring a Wireless Network",
+            "steps": [
+                {
+                    "headline": "Open a web browser.",
+                    "description": "If you are properly connected to the internet, you should be able to browse the internet using a web browser."
+                },
+                {
+                    "headline": "Type the router's IP address in the address bar.",
+                    "description": "This connects to the web interface for the router. The router's default IP address is going to be different depending on the make and model of the router. Consult the user's manual or manufacturer's web page to find out what the default IP address is for your router. Common default IP addresses include 192.168.0.1, 192.168.1.1 and 10.0.0.1"
+                },
+                {
+                    "headline": "Enter the default username and password.",
+                    "description": "You will need to sign in to the router using the default username and password. Consult the user's manual or manufacturer's website to find the default username and password for your router. Common usernames and passwords include \"admin\", and \"password\"."
+                },
+                {
+                    "headline": "Locate the wireless settings.",
+                    "description": "The web interface for each router's make and model has a different layout. Locate the wireless settings for your router. They may be under \"System\", \"Settings\", \"Configuration\" or something similar."
+                },
+                {
+                    "headline": "Name your wireless network.",
+                    "description": "Locate the SSID settings on the web interface for your router. Type a name for your wireless network in the SSID field."
+                },
+                {
+                    "headline": "Select \"WPA/WPA2\" as the encryption key.",
+                    "description": "This is the most secure encryption key for wireless passwords."
+                },
+                {
+                    "headline": "Type a wireless password.",
+                    "description": "This may be labeled \"key\", \"wireless key\" or \"pass key\". This is the password you will enter on other devices to connect to your wireless network. A strong password should be at least 8 characters and have a combination of letters, and numbers. Make sure you use a password that you don't mind giving to guests. Don't use a password you use for other personal accounts."
+                },
+                {
+                    "headline": "Save the changes to your system.",
+                    "description": "Locate the option to save the changes to your router. This is going to be different from one router's make and model to another."
+                }
+            ]
+        },
+        {
+            "name": "Troubleshooting Setup",
+            "steps": [
+                {
+                    "headline": "Try unplugging your modem for 15 seconds.",
+                    "description": "If you are suddenly unable to connect to the Internet, unplug it for a few seconds and plug it back in. This allows the modem to fully power down and initialize a fresh, stronger connection. After 15 seconds, reconnect the modem and wait at least two minutes before connecting to the Internet."
+                },
+                {
+                    "headline": "Try restarting both your modem and router.",
+                    "description": "If you experience problems connecting to the Internet, try powering down your entire network and restarting each device. This can help refresh both devices and ensure a stronger, lasting Internet connection. Power off your computer and unplug your modem from its power source. Unplug your router from its power source. Then verify that both Ethernet cables and the coaxial cable are fastened securely to your devices. Reconnect the modem to its power source. Then reconnect the router to its power source. Wait two minutes, then power on your computer. You should now be able to connect to the Internet."
+                },
+                {
+                    "headline": "Try switching out Ethernet cables and coaxial cables.",
+                    "description": "This helps to rule out problems with faulty equipment if you are unable to connect to the Internet. In most cases, frayed or faulty cables will prevent you from accessing the Internet."
+                },
+                {
+                    "headline": "Verify whether there are any outages in your area.",
+                    "description": "If you experience an interruption in service, contact your internet service provider. In some cases, temporary service interruptions may occur on behalf of local maintenance or outages."
+                },
+                {
+                    "headline": "Verify whether your modem is compatible with your router.",
+                    "description": "If you unable to establish a connection, check with your internet service provider to see if the router is compatible with the modem. Some modems may be outdated or incompatible with the routers offered by your ISP."
+                },
+                {
+                    "headline": "Check if your modem requires special configuration.",
+                    "description": "If you are unable to connect to the Internet contact your internet service providers to see if your modem requires any special configuration. Some cable modems must have their Ethernet ports configured before they can function properly with Internet routers."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Router",
+        "Modem",
+        "2 Ethernet cables",
+        "Coaxial cable",
+        "Power cord for router",
+        "Power cord for modem"
+    ],
+    "text": " Connecting a Router to a Modem Connect the proper internet cable to the wall outlet. If you have cable or fiberoptic internet, you will need to connect a coaxial cable to the wall outlet you get internet through. If you have a DSL modem, you will need to connect a phone line to a wall port for your phone. Connect the other of the internet wire to your modem. Connect the other end of the coaxial cable or phone line to the proper port on your modem. This allows your modem to receive internet. Connect the modem\u2019s power cord to your modem. Locate the AC adapter port on your modem and connect the AC adapter to your modem. Plug the modem\u2019s power cord into a nearby electrical outlet. This will power on your modem. Power on your modem. If your modem doesn't power on immediately, locate a power switch on your modem and power it on. Connect an Ethernet cable to the \"Ethernet\" port on your modem. This port is used to connect other devices to your modem. Connect the other end of the cable to the router. Use the other end of the Ethernet cable to connect to the port labeled \"WAN\", \"Internet\", or something similar. It's most likely located next to the four colored \"LAN\" ports on the router. Connect the router\u2019s power cord to your router. Locate the AC adapter port on the router and connect the AC adapter to the router. Plug the router\u2019s power cord into a nearby electrical outlet. Your router will most likely power up on its own. Allow a few minutes for it to fully boot up. Connect the second Ethernet cable to the router. Connect the Ethernet cable to one of the ports labeled \"LAN\". Connect the Ethernet cable to your computer. Locate an open LAN port on your laptop or desktop computer and connect the other end of the Ethernet cable to your computer. Verify that the lights on your modem and router are lit up. This indicates that the devices have been properly connected to one another. The way the lights light up is going to be different from one router make and model to another. Consult the user's manual or manufacturer's web page for more information. Open a web browser. If you are properly connected to the internet, you should be able to browse the internet using a web browser. Type the router's IP address in the address bar. This connects to the web interface for the router. The router's default IP address is going to be different depending on the make and model of the router. Consult the user's manual or manufacturer's web page to find out what the default IP address is for your router. Common default IP addresses include 192.168.0.1, 192.168.1.1 and 10.0.0.1 Enter the default username and password. You will need to sign in to the router using the default username and password. Consult the user's manual or manufacturer's website to find the default username and password for your router. Update the router's firmware. When connecting a new router, it is likely that the router needs to be updated. Locate the option in the web interface to update the router and click that button. How your update a router's firmware is going to be different from one router's make and model to another. You can also use your router's web interface to set up port forwarding and block websites. Configuring a Wireless Network Open a web browser. If you are properly connected to the internet, you should be able to browse the internet using a web browser. Type the router's IP address in the address bar. This connects to the web interface for the router. The router's default IP address is going to be different depending on the make and model of the router. Consult the user's manual or manufacturer's web page to find out what the default IP address is for your router. Common default IP addresses include 192.168.0.1, 192.168.1.1 and 10.0.0.1 Enter the default username and password. You will need to sign in to the router using the default username and password. Consult the user's manual or manufacturer's website to find the default username and password for your router. Common usernames and passwords include \"admin\", and \"password\". Locate the wireless settings. The web interface for each router's make and model has a different layout. Locate the wireless settings for your router. They may be under \"System\", \"Settings\", \"Configuration\" or something similar. Name your wireless network. Locate the SSID settings on the web interface for your router. Type a name for your wireless network in the SSID field. Select \"WPA/WPA2\" as the encryption key. This is the most secure encryption key for wireless passwords. Type a wireless password. This may be labeled \"key\", \"wireless key\" or \"pass key\". This is the password you will enter on other devices to connect to your wireless network. A strong password should be at least 8 characters and have a combination of letters, and numbers. Make sure you use a password that you don't mind giving to guests. Don't use a password you use for other personal accounts. Save the changes to your system. Locate the option to save the changes to your router. This is going to be different from one router's make and model to another. Troubleshooting Setup Try unplugging your modem for 15 seconds. If you are suddenly unable to connect to the Internet, unplug it for a few seconds and plug it back in. This allows the modem to fully power down and initialize a fresh, stronger connection. After 15 seconds, reconnect the modem and wait at least two minutes before connecting to the Internet. Try restarting both your modem and router. If you experience problems connecting to the Internet, try powering down your entire network and restarting each device. This can help refresh both devices and ensure a stronger, lasting Internet connection. Power off your computer and unplug your modem from its power source. Unplug your router from its power source. Then verify that both Ethernet cables and the coaxial cable are fastened securely to your devices. Reconnect the modem to its power source. Then reconnect the router to its power source. Wait two minutes, then power on your computer. You should now be able to connect to the Internet. Try switching out Ethernet cables and coaxial cables. This helps to rule out problems with faulty equipment if you are unable to connect to the Internet. In most cases, frayed or faulty cables will prevent you from accessing the Internet. Verify whether there are any outages in your area. If you experience an interruption in service, contact your internet service provider. In some cases, temporary service interruptions may occur on behalf of local maintenance or outages. Verify whether your modem is compatible with your router. If you unable to establish a connection, check with your internet service provider to see if the router is compatible with the modem. Some modems may be outdated or incompatible with the routers offered by your ISP. Check if your modem requires special configuration. If you are unable to connect to the Internet contact your internet service providers to see if your modem requires any special configuration. Some cable modems must have their Ethernet ports configured before they can function properly with Internet routers.",
+    "sentences": [
+        " Connecting a Router to a Modem Connect the proper internet cable to the wall outlet.",
+        "If you have cable or fiberoptic internet, you will need to connect a coaxial cable to the wall outlet you get internet through.",
+        "If you have a DSL modem, you will need to connect a phone line to a wall port for your phone.",
+        "Connect the other of the internet wire to your modem.",
+        "Connect the other end of the coaxial cable or phone line to the proper port on your modem.",
+        "This allows your modem to receive internet.",
+        "Connect the modem\u2019s power cord to your modem.",
+        "Locate the AC adapter port on your modem and connect the AC adapter to your modem.",
+        "Plug the modem\u2019s power cord into a nearby electrical outlet.",
+        "This will power on your modem.",
+        "Power on your modem.",
+        "If your modem doesn't power on immediately, locate a power switch on your modem and power it on.",
+        "Connect an Ethernet cable to the \"Ethernet\" port on your modem.",
+        "This port is used to connect other devices to your modem.",
+        "Connect the other end of the cable to the router.",
+        "Use the other end of the Ethernet cable to connect to the port labeled \"WAN\", \"Internet\", or something similar.",
+        "It's most likely located next to the four colored \"LAN\" ports on the router.",
+        "Connect the router\u2019s power cord to your router.",
+        "Locate the AC adapter port on the router and connect the AC adapter to the router.",
+        "Plug the router\u2019s power cord into a nearby electrical outlet.",
+        "Your router will most likely power up on its own.",
+        "Allow a few minutes for it to fully boot up.",
+        "Connect the second Ethernet cable to the router.",
+        "Connect the Ethernet cable to one of the ports labeled \"LAN\".",
+        "Connect the Ethernet cable to your computer.",
+        "Locate an open LAN port on your laptop or desktop computer and connect the other end of the Ethernet cable to your computer.",
+        "Verify that the lights on your modem and router are lit up.",
+        "This indicates that the devices have been properly connected to one another.",
+        "The way the lights light up is going to be different from one router make and model to another.",
+        "Consult the user's manual or manufacturer's web page for more information.",
+        "Open a web browser.",
+        "If you are properly connected to the internet, you should be able to browse the internet using a web browser.",
+        "Type the router's IP address in the address bar.",
+        "This connects to the web interface for the router.",
+        "The router's default IP address is going to be different depending on the make and model of the router.",
+        "Consult the user's manual or manufacturer's web page to find out what the default IP address is for your router.",
+        "Common default IP addresses include 192.168.0.1, 192.168.1.1 and 10.0.0.1 Enter the default username and password.",
+        "You will need to sign in to the router using the default username and password.",
+        "Consult the user's manual or manufacturer's website to find the default username and password for your router.",
+        "Update the router's firmware.",
+        "When connecting a new router, it is likely that the router needs to be updated.",
+        "Locate the option in the web interface to update the router and click that button.",
+        "How your update a router's firmware is going to be different from one router's make and model to another.",
+        "You can also use your router's web interface to set up port forwarding and block websites.",
+        "Configuring a Wireless Network Open a web browser.",
+        "If you are properly connected to the internet, you should be able to browse the internet using a web browser.",
+        "Type the router's IP address in the address bar.",
+        "This connects to the web interface for the router.",
+        "The router's default IP address is going to be different depending on the make and model of the router.",
+        "Consult the user's manual or manufacturer's web page to find out what the default IP address is for your router.",
+        "Common default IP addresses include 192.168.0.1, 192.168.1.1 and 10.0.0.1 Enter the default username and password.",
+        "You will need to sign in to the router using the default username and password.",
+        "Consult the user's manual or manufacturer's website to find the default username and password for your router.",
+        "Common usernames and passwords include \"admin\", and \"password\".",
+        "Locate the wireless settings.",
+        "The web interface for each router's make and model has a different layout.",
+        "Locate the wireless settings for your router.",
+        "They may be under \"System\", \"Settings\", \"Configuration\" or something similar.",
+        "Name your wireless network.",
+        "Locate the SSID settings on the web interface for your router.",
+        "Type a name for your wireless network in the SSID field.",
+        "Select \"WPA/WPA2\" as the encryption key.",
+        "This is the most secure encryption key for wireless passwords.",
+        "Type a wireless password.",
+        "This may be labeled \"key\", \"wireless key\" or \"pass key\".",
+        "This is the password you will enter on other devices to connect to your wireless network.",
+        "A strong password should be at least 8 characters and have a combination of letters, and numbers.",
+        "Make sure you use a password that you don't mind giving to guests.",
+        "Don't use a password you use for other personal accounts.",
+        "Save the changes to your system.",
+        "Locate the option to save the changes to your router.",
+        "This is going to be different from one router's make and model to another.",
+        "Troubleshooting Setup Try unplugging your modem for 15 seconds.",
+        "If you are suddenly unable to connect to the Internet, unplug it for a few seconds and plug it back in.",
+        "This allows the modem to fully power down and initialize a fresh, stronger connection.",
+        "After 15 seconds, reconnect the modem and wait at least two minutes before connecting to the Internet.",
+        "Try restarting both your modem and router.",
+        "If you experience problems connecting to the Internet, try powering down your entire network and restarting each device.",
+        "This can help refresh both devices and ensure a stronger, lasting Internet connection.",
+        "Power off your computer and unplug your modem from its power source.",
+        "Unplug your router from its power source.",
+        "Then verify that both Ethernet cables and the coaxial cable are fastened securely to your devices.",
+        "Reconnect the modem to its power source.",
+        "Then reconnect the router to its power source.",
+        "Wait two minutes, then power on your computer.",
+        "You should now be able to connect to the Internet.",
+        "Try switching out Ethernet cables and coaxial cables.",
+        "This helps to rule out problems with faulty equipment if you are unable to connect to the Internet.",
+        "In most cases, frayed or faulty cables will prevent you from accessing the Internet.",
+        "Verify whether there are any outages in your area.",
+        "If you experience an interruption in service, contact your internet service provider.",
+        "In some cases, temporary service interruptions may occur on behalf of local maintenance or outages.",
+        "Verify whether your modem is compatible with your router.",
+        "If you unable to establish a connection, check with your internet service provider to see if the router is compatible with the modem.",
+        "Some modems may be outdated or incompatible with the routers offered by your ISP.",
+        "Check if your modem requires special configuration.",
+        "If you are unable to connect to the Internet contact your internet service providers to see if your modem requires any special configuration.",
+        "Some cable modems must have their Ethernet ports configured before they can function properly with Internet routers."
+    ]
+}

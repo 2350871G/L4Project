@@ -1,0 +1,53 @@
+{
+    "title": "How to Create a Simple Program in C++",
+    "url": "https://www.wikihow.com/Create-a-Simple-Program-in-C%2B%2B",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Programming",
+        "C Programming Languages"
+    ],
+    "steps": [
+        {
+            "headline": "Get a compiler and/or IDE.",
+            "description": "Three good choices are GCC, or if your computer is running Windows, Visual Studio Express Edition or Dev-C++."
+        },
+        {
+            "headline": "Try some example programs.",
+            "description": "Copy and paste the following into a text/code editor:\nA simple program is given by Bjarne Stroustrup (developer of C++) to check your compiler:\n\n\n#include <iostream>[[Image:Create a Simple Program in C++ Step 1 Version 3.jpg|center]]\n#include <string> \nusing namespace std; \nint main () \n{\n\tstring s;\n\tcout << \"Your Name \\n\";\n\tcin  >> s;\n\tcout << \"Hello, \" << s << '\\n' ;\n\treturn 0;\n}\n\n\n A program for finding the sum of two numbers:\n\n\n[[Image:Create a Simple Program in C++ Step 2 Version 3.jpg|center]]\n#include <iostream>\nusing namespace std; \nint main () \n{\n\tint no1, no2, sum; \n\tcout << \"\\nEnter the first number = \" ; \n\tcin  >> no1 ;\n\tcout << \"\\nEnter the second number = \" ;\n\tcin  >> no2 ; \n\tsum = no1 + no2 ;\n\tcout << \"\\nThe sum of \"<< no1 <<\" and \"<< no2 <<\" = \"<< sum <<'\\n' ;\n\treturn 0 ;\n}\n\n\n\nA program for finding the product in multiplication problems:\n\n\n[[Image:Create a Simple Program in C++ Step 3 Version 3.jpg|center]]\n#include <iostream>\nint main()\n{\n\tint v1, v2, range;\n\tstd::cout <<\"Please input two numbers:\"<< std::endl;\n\tstd::cin  >> v1 >> v2;\n\tif (v1 <= v2)\n\t{\n\trange = v2 - v1;\n} else {\n\trange = v1 - v2;\t\n}\nstd::cout << \"range = \" << range << std::endl;\nreturn 0;\n}\n\n\n\n A program for finding the value of exponents:\n\n\n[[Image:Create a Simple Program in C++ Step 4 Version 3.jpg|center]]\n#include <iostream>\nusing namespace std;\nint main()\n{\n\tint value, pow, result=1;\n\tcout << \"Please enter operand:\" << endl;\n\tcin  >> value; #cout << \"Please enter exponent:\" << endl;\n\tcin  >> pow;\n\tfor (int cnt=0; cnt!=pow; cnt++)\n\tresult*=value;\n\tcout << value << \" to the power of \" << pow << \" is: \" << result << endl;\n\treturn 0;\n}"
+        },
+        {
+            "headline": "Save this as a .cpp file with a name that accurately reflects your program.",
+            "description": "Don't confuse there are many other extensions for C++ files, choose any of them (like *.cc, *.cxx, *.c++, *.cp) . Hint: It should say Save as Type: {select \"All Files\"}"
+        },
+        {
+            "headline": "Compile it.",
+            "description": "For users of linux and gcc compiler, use Command : g++ sum.cpp. Users of Window can use any C++ compiler, such as MS Visual C++,Dev-C++ or any other preferred program."
+        },
+        {
+            "headline": "Run the program.",
+            "description": "For users of Linux and gcc compiler  Command : ./a.out (a.out is an executable file produce by compiler after compilation of program.)"
+        }
+    ],
+    "tyn": [
+        "A text/code editor (e.g. vim, notepad, etc).",
+        "A compiler.",
+        "Alternatively, an IDE contains an editor and a compiler.",
+        "Turbo c",
+        "Codepad online",
+        "Notepad++"
+    ],
+    "text": " Get a compiler and/or IDE. Three good choices are GCC, or if your computer is running Windows, Visual Studio Express Edition or Dev-C++. Try some example programs. Copy and paste the following into a text/code editor:\nA simple program is given by Bjarne Stroustrup (developer of C++) to check your compiler:\n\n\n#include <iostream>[[Image:Create a Simple Program in C++ Step 1 Version 3.jpg|center]]\n#include <string> \nusing namespace std; \nint main () \n{\n\tstring s;\n\tcout << \"Your Name \\n\";\n\tcin  >> s;\n\tcout << \"Hello, \" << s << '\\n' ;\n\treturn 0;\n}\n\n\n A program for finding the sum of two numbers:\n\n\n[[Image:Create a Simple Program in C++ Step 2 Version 3.jpg|center]]\n#include <iostream>\nusing namespace std; \nint main () \n{\n\tint no1, no2, sum; \n\tcout << \"\\nEnter the first number = \" ; \n\tcin  >> no1 ;\n\tcout << \"\\nEnter the second number = \" ;\n\tcin  >> no2 ; \n\tsum = no1 + no2 ;\n\tcout << \"\\nThe sum of \"<< no1 <<\" and \"<< no2 <<\" = \"<< sum <<'\\n' ;\n\treturn 0 ;\n}\n\n\n\nA program for finding the product in multiplication problems:\n\n\n[[Image:Create a Simple Program in C++ Step 3 Version 3.jpg|center]]\n#include <iostream>\nint main()\n{\n\tint v1, v2, range;\n\tstd::cout <<\"Please input two numbers:\"<< std::endl;\n\tstd::cin  >> v1 >> v2;\n\tif (v1 <= v2)\n\t{\n\trange = v2 - v1;\n} else {\n\trange = v1 - v2;\t\n}\nstd::cout << \"range = \" << range << std::endl;\nreturn 0;\n}\n\n\n\n A program for finding the value of exponents:\n\n\n[[Image:Create a Simple Program in C++ Step 4 Version 3.jpg|center]]\n#include <iostream>\nusing namespace std;\nint main()\n{\n\tint value, pow, result=1;\n\tcout << \"Please enter operand:\" << endl;\n\tcin  >> value; #cout << \"Please enter exponent:\" << endl;\n\tcin  >> pow;\n\tfor (int cnt=0; cnt!=pow; cnt++)\n\tresult*=value;\n\tcout << value << \" to the power of \" << pow << \" is: \" << result << endl;\n\treturn 0;\n} Save this as a .cpp file with a name that accurately reflects your program. Don't confuse there are many other extensions for C++ files, choose any of them (like *.cc, *.cxx, *.c++, *.cp) . Hint: It should say Save as Type: {select \"All Files\"} Compile it. For users of linux and gcc compiler, use Command : g++ sum.cpp. Users of Window can use any C++ compiler, such as MS Visual C++,Dev-C++ or any other preferred program. Run the program. For users of Linux and gcc compiler  Command : ./a.out (a.out is an executable file produce by compiler after compilation of program.)",
+    "sentences": [
+        " Get a compiler and/or IDE.",
+        "Three good choices are GCC, or if your computer is running Windows, Visual Studio Express Edition or Dev-C++.",
+        "Try some example programs.",
+        "Copy and paste the following into a text/code editor:\nA simple program is given by Bjarne Stroustrup (developer of C++) to check your compiler:\n\n\n#include <iostream>[[Image:Create a Simple Program in C++ Step 1 Version 3.jpg|center]]\n#include <string> \nusing namespace std; \nint main () \n{\n\tstring s;\n\tcout << \"Your Name \\n\";\n\tcin  >> s;\n\tcout << \"Hello, \" << s << '\\n' ;\n\treturn 0;\n}\n\n\n A program for finding the sum of two numbers:\n\n\n[[Image:Create a Simple Program in C++ Step 2 Version 3.jpg|center]]\n#include <iostream>\nusing namespace std; \nint main () \n{\n\tint no1, no2, sum; \n\tcout << \"\\nEnter the first number = \" ; \n\tcin  >> no1 ;\n\tcout << \"\\nEnter the second number = \" ;\n\tcin  >> no2 ; \n\tsum = no1 + no2 ;\n\tcout << \"\\nThe sum of \"<< no1 <<\" and \"<< no2 <<\" = \"<< sum <<'\\n' ;\n\treturn 0 ;\n}\n\n\n\nA program for finding the product in multiplication problems:\n\n\n[[Image:Create a Simple Program in C++ Step 3 Version 3.jpg|center]]\n#include <iostream>\nint main()\n{\n\tint v1, v2, range;\n\tstd::cout <<\"Please input two numbers:\"<< std::endl;\n\tstd::cin  >> v1 >> v2;\n\tif (v1 <= v2)\n\t{\n\trange = v2 - v1;\n} else {\n\trange = v1 - v2;\t\n}\nstd::cout << \"range = \" << range << std::endl;\nreturn 0;\n}\n\n\n\n A program for finding the value of exponents:\n\n\n[[Image:Create a Simple Program in C++ Step 4 Version 3.jpg|center]]\n#include <iostream>\nusing namespace std;\nint main()\n{\n\tint value, pow, result=1;\n\tcout << \"Please enter operand:\" << endl;\n\tcin  >> value; #cout << \"Please enter exponent:\" << endl;\n\tcin  >> pow;\n\tfor (int cnt=0; cnt!=pow; cnt++)\n\tresult*=value;\n\tcout << value << \" to the power of \" << pow << \" is: \" << result << endl;\n\treturn 0;\n} Save this as a .cpp file with a name that accurately reflects your program.",
+        "Don't confuse there are many other extensions for C++ files, choose any of them (like *.cc, *.cxx, *.c++, *.cp) .",
+        "Hint: It should say Save as Type: {select \"All Files\"} Compile it.",
+        "For users of linux and gcc compiler, use Command : g++ sum.cpp.",
+        "Users of Window can use any C++ compiler, such as MS Visual C++,Dev-C++ or any other preferred program.",
+        "Run the program.",
+        "For users of Linux and gcc compiler  Command : ./a.out (a.out is an executable file produce by compiler after compilation of program.)"
+    ]
+}

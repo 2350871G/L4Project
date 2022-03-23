@@ -1,0 +1,149 @@
+{
+    "title": "How to Simplify Rational Expressions",
+    "url": "https://www.wikihow.com/Simplify-Rational-Expressions",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Algebra"
+    ],
+    "methods": [
+        {
+            "name": "Factoring Monomials",
+            "steps": [
+                {
+                    "headline": "Evaluate the expression.",
+                    "description": "To use this method, you should see a monomial in the numerator and in the denominator of your rational expression. A monomial is a polynomial with one term. For example, the expression 4x16x2{\\displaystyle {\\frac {4x}{16x^{2}}}} has one term in the numerator, and one term in the denominator. Thus, each is a monomial. The expression 4x+416x2\u22122{\\displaystyle {\\frac {4x+4}{16x^{2}-2}}} has two binomials and thus cannot be solved using this method."
+                },
+                {
+                    "headline": "Factor the numerator.",
+                    "description": "To do this, write out the factors you would multiply together to get the monomial, including the variable. For more information on how to factor, read Factor a Number. Rewrite the expression using the factors in the numerator and the denominator. For example, 4x{\\displaystyle 4x} would factor as 2\u00d72\u00d7x{\\displaystyle 2\\times 2\\times x} and 16x2{\\displaystyle 16x^{2}} would factor as 2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle 2\\times 2\\times 2\\times 2\\times x\\times x}. So, factored out, your expression will look like this: 2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {2\\times 2\\times x}{2\\times 2\\times 2\\times 2\\times x\\times x}}}"
+                },
+                {
+                    "headline": "Cancel out shared factors.",
+                    "description": "To do this, cross out factors in the numerator and denominator that match. These cancel out because you are dividing a factor by itself, which equals 1. For example, you can cross out two 2s and one x in the numerator and the denominator:2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {{\\cancel {2}}\\times {\\cancel {2}}\\times {\\cancel {x}}}{{\\cancel {2}}\\times {\\cancel {2}}\\times 2\\times 2\\times {\\cancel {x}}\\times x}}}"
+                },
+                {
+                    "headline": "Rewrite the expression with the remaining factors.",
+                    "description": "Remember that terms cancel to 1. So if you have canceled all the terms in the numerator or denominator, you will still be left with 1. For example:2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {{\\cancel {2}}\\times {\\cancel {2}}\\times {\\cancel {x}}}{{\\cancel {2}}\\times {\\cancel {2}}\\times 2\\times 2\\times {\\cancel {x}}\\times x}}}12\u00d72\u00d7x{\\displaystyle {\\frac {1}{2\\times 2\\times x}}}"
+                },
+                {
+                    "headline": "Complete any multiplication in numerator or denominator.",
+                    "description": "This will give you your final, simplified rational expression. For example:12\u00d72\u00d7x{\\displaystyle {\\frac {1}{2\\times 2\\times x}}}14x{\\displaystyle {\\frac {1}{4x}}}"
+                }
+            ]
+        },
+        {
+            "name": "Factoring out Monomial Factors",
+            "steps": [
+                {
+                    "headline": "Assess the rational expression.",
+                    "description": "To use this method, you should see at least one binomial in your expression. It can be in the numerator, denominator, or both. A binomial is a polynomial with two terms. For example, the expression 4x16x2\u22122x{\\displaystyle {\\frac {4x}{16x^{2}-2x}}} has two terms in the denominator. Thus, the denominator contains a binomial."
+                },
+                {
+                    "headline": "Find a monomial factor common to the numerator and denominator.",
+                    "description": "The factor must be common to all terms in the expression. Factor out this term and rewrite the expression. For example, the monomial 2x{\\displaystyle 2x} is common to each term in the expression 4x16x2\u22122x{\\displaystyle {\\frac {4x}{16x^{2}-2x}}}. So after factoring this term out of the numerator and denominator, your expression will look like this: 2x(2)2x(8x\u22121){\\displaystyle {\\frac {2x(2)}{2x(8x-1)}}}."
+                },
+                {
+                    "headline": "Cancel out the common factor.",
+                    "description": "The monomial term factored out of the numerator and denominator cancels to 1, since you are dividing that term by itself. For example:2x(2)2x(8x\u22121){\\displaystyle {\\frac {2x(2)}{2x(8x-1)}}}2x(2)2x(8x\u22121){\\displaystyle {\\frac {{\\cancel {2x}}(2)}{{\\cancel {2x}}(8x-1)}}}"
+                },
+                {
+                    "headline": "Rewrite the expression after cancelling out the monomial.",
+                    "description": "This will leave you with your simplified rational expression. If you factored correctly, there will be no more factors that are common to each term in the numerator and denominator. For example:2x(2)2x(8x\u22121){\\displaystyle {\\frac {{\\cancel {2x}}(2)}{{\\cancel {2x}}(8x-1)}}}28x\u22121{\\displaystyle {\\frac {2}{8x-1}}}"
+                }
+            ]
+        },
+        {
+            "name": "Factoring Out Binomial Factors",
+            "steps": [
+                {
+                    "headline": "Evaluate your expression.",
+                    "description": "This method works for expressions that have second-degree polynomials in the numerator and denominator. A second-degree polynomial is a polynomial with one term raised to the power of 2. For example, the expression x2\u22124x2\u22122x\u22128{\\displaystyle {\\frac {x^{2}-4}{x^{2}-2x-8}}} has a second degree polynomial in the numerator and the denominator, so you can use this method to simplify it."
+                },
+                {
+                    "headline": "Factor the numerator's polynomial into two binomials.",
+                    "description": "You are looking for two binomials that, when multiplied together using the FOIL method, result in the original polynomial. For more information on how to factor a second-degree polynomial, read Factor Second Degree Polynomials (Quadratic-Equations). Rewrite your expression with the factored numerator. For example, x2\u22124{\\displaystyle x^{2}-4} can be factored as (x\u22122)(x+2){\\displaystyle (x-2)(x+2)}. So, your expression now looks like this: (x\u22122)(x+2)x2\u22122x\u22128{\\displaystyle {\\frac {(x-2)(x+2)}{x^{2}-2x-8}}}."
+                },
+                {
+                    "headline": "Factor the denominator's polynomial into two binomials.",
+                    "description": "Again, you are looking for two binomials you can multiply together to get the original polynomial. Rewrite your expression with the factored denominator. For example, x2\u22122x\u22128{\\displaystyle x^{2}-2x-8} can be factored as (x+2)(x\u22124){\\displaystyle (x+2)(x-4)}. So, your expression now looks like this: (x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2)(x+2)}{(x+2)(x-4)}}}."
+                },
+                {
+                    "headline": "Cancel out binomial factors common to the numerator and denominator.",
+                    "description": "A binomial factor is an expression in parentheses. You can factor these out, because dividing a factor by itself equals 1. For example:(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2)(x+2)}{(x+2)(x-4)}}}(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2){\\cancel {(x+2)}}}{{\\cancel {(x+2)}}(x-4)}}}"
+                },
+                {
+                    "headline": "Rewrite your expression with the remaining factors.",
+                    "description": "Remember that if you canceled out all the factors, you are left with 1. This will give you your final, simplified expression. For example:(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2){\\cancel {(x+2)}}}{{\\cancel {(x+2)}}(x-4)}}}x\u22122x\u22124{\\displaystyle {\\frac {x-2}{x-4}}}"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Calculator",
+        "Pencil",
+        "Paper"
+    ],
+    "text": " Factoring Monomials Evaluate the expression. To use this method, you should see a monomial in the numerator and in the denominator of your rational expression. A monomial is a polynomial with one term. For example, the expression 4x16x2{\\displaystyle {\\frac {4x}{16x^{2}}}} has one term in the numerator, and one term in the denominator. Thus, each is a monomial. The expression 4x+416x2\u22122{\\displaystyle {\\frac {4x+4}{16x^{2}-2}}} has two binomials and thus cannot be solved using this method. Factor the numerator. To do this, write out the factors you would multiply together to get the monomial, including the variable. For more information on how to factor, read Factor a Number. Rewrite the expression using the factors in the numerator and the denominator. For example, 4x{\\displaystyle 4x} would factor as 2\u00d72\u00d7x{\\displaystyle 2\\times 2\\times x} and 16x2{\\displaystyle 16x^{2}} would factor as 2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle 2\\times 2\\times 2\\times 2\\times x\\times x}. So, factored out, your expression will look like this: 2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {2\\times 2\\times x}{2\\times 2\\times 2\\times 2\\times x\\times x}}} Cancel out shared factors. To do this, cross out factors in the numerator and denominator that match. These cancel out because you are dividing a factor by itself, which equals 1. For example, you can cross out two 2s and one x in the numerator and the denominator:2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {{\\cancel {2}}\\times {\\cancel {2}}\\times {\\cancel {x}}}{{\\cancel {2}}\\times {\\cancel {2}}\\times 2\\times 2\\times {\\cancel {x}}\\times x}}} Rewrite the expression with the remaining factors. Remember that terms cancel to 1. So if you have canceled all the terms in the numerator or denominator, you will still be left with 1. For example:2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {{\\cancel {2}}\\times {\\cancel {2}}\\times {\\cancel {x}}}{{\\cancel {2}}\\times {\\cancel {2}}\\times 2\\times 2\\times {\\cancel {x}}\\times x}}}12\u00d72\u00d7x{\\displaystyle {\\frac {1}{2\\times 2\\times x}}} Complete any multiplication in numerator or denominator. This will give you your final, simplified rational expression. For example:12\u00d72\u00d7x{\\displaystyle {\\frac {1}{2\\times 2\\times x}}}14x{\\displaystyle {\\frac {1}{4x}}} Factoring out Monomial Factors Assess the rational expression. To use this method, you should see at least one binomial in your expression. It can be in the numerator, denominator, or both. A binomial is a polynomial with two terms. For example, the expression 4x16x2\u22122x{\\displaystyle {\\frac {4x}{16x^{2}-2x}}} has two terms in the denominator. Thus, the denominator contains a binomial. Find a monomial factor common to the numerator and denominator. The factor must be common to all terms in the expression. Factor out this term and rewrite the expression. For example, the monomial 2x{\\displaystyle 2x} is common to each term in the expression 4x16x2\u22122x{\\displaystyle {\\frac {4x}{16x^{2}-2x}}}. So after factoring this term out of the numerator and denominator, your expression will look like this: 2x(2)2x(8x\u22121){\\displaystyle {\\frac {2x(2)}{2x(8x-1)}}}. Cancel out the common factor. The monomial term factored out of the numerator and denominator cancels to 1, since you are dividing that term by itself. For example:2x(2)2x(8x\u22121){\\displaystyle {\\frac {2x(2)}{2x(8x-1)}}}2x(2)2x(8x\u22121){\\displaystyle {\\frac {{\\cancel {2x}}(2)}{{\\cancel {2x}}(8x-1)}}} Rewrite the expression after cancelling out the monomial. This will leave you with your simplified rational expression. If you factored correctly, there will be no more factors that are common to each term in the numerator and denominator. For example:2x(2)2x(8x\u22121){\\displaystyle {\\frac {{\\cancel {2x}}(2)}{{\\cancel {2x}}(8x-1)}}}28x\u22121{\\displaystyle {\\frac {2}{8x-1}}} Factoring Out Binomial Factors Evaluate your expression. This method works for expressions that have second-degree polynomials in the numerator and denominator. A second-degree polynomial is a polynomial with one term raised to the power of 2. For example, the expression x2\u22124x2\u22122x\u22128{\\displaystyle {\\frac {x^{2}-4}{x^{2}-2x-8}}} has a second degree polynomial in the numerator and the denominator, so you can use this method to simplify it. Factor the numerator's polynomial into two binomials. You are looking for two binomials that, when multiplied together using the FOIL method, result in the original polynomial. For more information on how to factor a second-degree polynomial, read Factor Second Degree Polynomials (Quadratic-Equations). Rewrite your expression with the factored numerator. For example, x2\u22124{\\displaystyle x^{2}-4} can be factored as (x\u22122)(x+2){\\displaystyle (x-2)(x+2)}. So, your expression now looks like this: (x\u22122)(x+2)x2\u22122x\u22128{\\displaystyle {\\frac {(x-2)(x+2)}{x^{2}-2x-8}}}. Factor the denominator's polynomial into two binomials. Again, you are looking for two binomials you can multiply together to get the original polynomial. Rewrite your expression with the factored denominator. For example, x2\u22122x\u22128{\\displaystyle x^{2}-2x-8} can be factored as (x+2)(x\u22124){\\displaystyle (x+2)(x-4)}. So, your expression now looks like this: (x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2)(x+2)}{(x+2)(x-4)}}}. Cancel out binomial factors common to the numerator and denominator. A binomial factor is an expression in parentheses. You can factor these out, because dividing a factor by itself equals 1. For example:(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2)(x+2)}{(x+2)(x-4)}}}(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2){\\cancel {(x+2)}}}{{\\cancel {(x+2)}}(x-4)}}} Rewrite your expression with the remaining factors. Remember that if you canceled out all the factors, you are left with 1. This will give you your final, simplified expression. For example:(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2){\\cancel {(x+2)}}}{{\\cancel {(x+2)}}(x-4)}}}x\u22122x\u22124{\\displaystyle {\\frac {x-2}{x-4}}}",
+    "sentences": [
+        " Factoring Monomials Evaluate the expression.",
+        "To use this method, you should see a monomial in the numerator and in the denominator of your rational expression.",
+        "A monomial is a polynomial with one term.",
+        "For example, the expression 4x16x2{\\displaystyle {\\frac {4x}{16x^{2}}}} has one term in the numerator, and one term in the denominator.",
+        "Thus, each is a monomial.",
+        "The expression 4x+416x2\u22122{\\displaystyle {\\frac {4x+4}{16x^{2}-2}}} has two binomials and thus cannot be solved using this method.",
+        "Factor the numerator.",
+        "To do this, write out the factors you would multiply together to get the monomial, including the variable.",
+        "For more information on how to factor, read Factor a Number.",
+        "Rewrite the expression using the factors in the numerator and the denominator.",
+        "For example, 4x{\\displaystyle 4x} would factor as 2\u00d72\u00d7x{\\displaystyle 2\\times 2\\times x} and 16x2{\\displaystyle 16x^{2}} would factor as 2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle 2\\times 2\\times 2\\times 2\\times x\\times x}.",
+        "So, factored out, your expression will look like this: 2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {2\\times 2\\times x}{2\\times 2\\times 2\\times 2\\times x\\times x}}} Cancel out shared factors.",
+        "To do this, cross out factors in the numerator and denominator that match.",
+        "These cancel out because you are dividing a factor by itself, which equals 1.",
+        "For example, you can cross out two 2s and one x in the numerator and the denominator:2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {{\\cancel {2}}\\times {\\cancel {2}}\\times {\\cancel {x}}}{{\\cancel {2}}\\times {\\cancel {2}}\\times 2\\times 2\\times {\\cancel {x}}\\times x}}} Rewrite the expression with the remaining factors.",
+        "Remember that terms cancel to 1.",
+        "So if you have canceled all the terms in the numerator or denominator, you will still be left with 1.",
+        "For example:2\u00d72\u00d7x2\u00d72\u00d72\u00d72\u00d7x\u00d7x{\\displaystyle {\\frac {{\\cancel {2}}\\times {\\cancel {2}}\\times {\\cancel {x}}}{{\\cancel {2}}\\times {\\cancel {2}}\\times 2\\times 2\\times {\\cancel {x}}\\times x}}}12\u00d72\u00d7x{\\displaystyle {\\frac {1}{2\\times 2\\times x}}} Complete any multiplication in numerator or denominator.",
+        "This will give you your final, simplified rational expression.",
+        "For example:12\u00d72\u00d7x{\\displaystyle {\\frac {1}{2\\times 2\\times x}}}14x{\\displaystyle {\\frac {1}{4x}}} Factoring out Monomial Factors Assess the rational expression.",
+        "To use this method, you should see at least one binomial in your expression.",
+        "It can be in the numerator, denominator, or both.",
+        "A binomial is a polynomial with two terms.",
+        "For example, the expression 4x16x2\u22122x{\\displaystyle {\\frac {4x}{16x^{2}-2x}}} has two terms in the denominator.",
+        "Thus, the denominator contains a binomial.",
+        "Find a monomial factor common to the numerator and denominator.",
+        "The factor must be common to all terms in the expression.",
+        "Factor out this term and rewrite the expression.",
+        "For example, the monomial 2x{\\displaystyle 2x} is common to each term in the expression 4x16x2\u22122x{\\displaystyle {\\frac {4x}{16x^{2}-2x}}}.",
+        "So after factoring this term out of the numerator and denominator, your expression will look like this: 2x(2)2x(8x\u22121){\\displaystyle {\\frac {2x(2)}{2x(8x-1)}}}.",
+        "Cancel out the common factor.",
+        "The monomial term factored out of the numerator and denominator cancels to 1, since you are dividing that term by itself.",
+        "For example:2x(2)2x(8x\u22121){\\displaystyle {\\frac {2x(2)}{2x(8x-1)}}}2x(2)2x(8x\u22121){\\displaystyle {\\frac {{\\cancel {2x}}(2)}{{\\cancel {2x}}(8x-1)}}} Rewrite the expression after cancelling out the monomial.",
+        "This will leave you with your simplified rational expression.",
+        "If you factored correctly, there will be no more factors that are common to each term in the numerator and denominator.",
+        "For example:2x(2)2x(8x\u22121){\\displaystyle {\\frac {{\\cancel {2x}}(2)}{{\\cancel {2x}}(8x-1)}}}28x\u22121{\\displaystyle {\\frac {2}{8x-1}}} Factoring Out Binomial Factors Evaluate your expression.",
+        "This method works for expressions that have second-degree polynomials in the numerator and denominator.",
+        "A second-degree polynomial is a polynomial with one term raised to the power of 2.",
+        "For example, the expression x2\u22124x2\u22122x\u22128{\\displaystyle {\\frac {x^{2}-4}{x^{2}-2x-8}}} has a second degree polynomial in the numerator and the denominator, so you can use this method to simplify it.",
+        "Factor the numerator's polynomial into two binomials.",
+        "You are looking for two binomials that, when multiplied together using the FOIL method, result in the original polynomial.",
+        "For more information on how to factor a second-degree polynomial, read Factor Second Degree Polynomials (Quadratic-Equations).",
+        "Rewrite your expression with the factored numerator.",
+        "For example, x2\u22124{\\displaystyle x^{2}-4} can be factored as (x\u22122)(x+2){\\displaystyle (x-2)(x+2)}.",
+        "So, your expression now looks like this: (x\u22122)(x+2)x2\u22122x\u22128{\\displaystyle {\\frac {(x-2)(x+2)}{x^{2}-2x-8}}}.",
+        "Factor the denominator's polynomial into two binomials.",
+        "Again, you are looking for two binomials you can multiply together to get the original polynomial.",
+        "Rewrite your expression with the factored denominator.",
+        "For example, x2\u22122x\u22128{\\displaystyle x^{2}-2x-8} can be factored as (x+2)(x\u22124){\\displaystyle (x+2)(x-4)}.",
+        "So, your expression now looks like this: (x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2)(x+2)}{(x+2)(x-4)}}}.",
+        "Cancel out binomial factors common to the numerator and denominator.",
+        "A binomial factor is an expression in parentheses.",
+        "You can factor these out, because dividing a factor by itself equals 1.",
+        "For example:(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2)(x+2)}{(x+2)(x-4)}}}(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2){\\cancel {(x+2)}}}{{\\cancel {(x+2)}}(x-4)}}} Rewrite your expression with the remaining factors.",
+        "Remember that if you canceled out all the factors, you are left with 1.",
+        "This will give you your final, simplified expression.",
+        "For example:(x\u22122)(x+2)(x+2)(x\u22124){\\displaystyle {\\frac {(x-2){\\cancel {(x+2)}}}{{\\cancel {(x+2)}}(x-4)}}}x\u22122x\u22124{\\displaystyle {\\frac {x-2}{x-4}}}"
+    ]
+}

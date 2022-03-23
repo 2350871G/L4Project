@@ -1,0 +1,98 @@
+{
+    "title": "How to Calculate the Sum of Interior Angles",
+    "url": "https://www.wikihow.com/Calculate-the-Sum-of-Interior-Angles",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Geometry"
+    ],
+    "methods": [
+        {
+            "name": "Using the Formula",
+            "steps": [
+                {
+                    "headline": "Set up the formula for finding the sum of the interior angles.",
+                    "description": "The formula is sum=(n\u22122)\u00d7180{\\displaystyle sum=(n-2)\\times 180}, where sum{\\displaystyle sum} is the sum of the interior angles of the polygon, and n{\\displaystyle n} equals the number of sides in the polygon. The value 180 comes from how many degrees are in a triangle. The other part of the formula, n\u22122{\\displaystyle n-2} is a way to determine how many triangles the polygon can be divided into. So, essentially the formula is calculating the degrees inside the triangles that make up the polygon. This method will work whether you are working with a regular or irregular polygon. Regular and irregular polygons with the same number of sides will always have the same sum of interior angles, the difference only being that in a regular polygon, all interior angles have the same measurement. In an irregular polygon, some of the angles will be smaller, some of the angles will be larger, but they will still add up to the same number of degrees that are in the regular shape."
+                },
+                {
+                    "headline": "Count the number of sides in your polygon.",
+                    "description": "Remember that a polygon must have at least three straight sides. For example, if you want to know the sum of the interior angles of a hexagon, you would count 6 sides."
+                },
+                {
+                    "headline": "Plug the value of n{\\displaystyle n} into the formula.",
+                    "description": "Remember, n{\\displaystyle n} is the number of sides in your polygon. For example, if you are working with a hexagon, n=6{\\displaystyle n=6}, since a hexagon has 6 sides. So, your formula should look like this:sum=(6\u22122)\u00d7180{\\displaystyle sum=(6-2)\\times 180}"
+                },
+                {
+                    "headline": "Solve for n{\\displaystyle n}.",
+                    "description": "To do this, subtract 2 from the number of sides, and multiply the difference by 180. This will give you, in degrees, the sum of the interior angles in your polygon. For example, to find out the sum of the interior angles of a hexagon, you would calculate:sum=(6\u22122)\u00d7180{\\displaystyle sum=(6-2)\\times 180}sum=(4)\u00d7180{\\displaystyle sum=(4)\\times 180}sum=(4)\u00d7180=720{\\displaystyle sum=(4)\\times 180=720}So, the sum of the interior angles of a hexagon is 720 degrees."
+                }
+            ]
+        },
+        {
+            "name": "Drawing Triangles",
+            "steps": [
+                {
+                    "headline": "Draw the polygon whose angles you need to sum.",
+                    "description": "The polygon can have any number of sides and can be regular or irregular. For example, you might want to find the sum of the interior angles of a hexagon, so you would draw a six-sided shape."
+                },
+                {
+                    "headline": "Choose one vertex.",
+                    "description": "Label this vertex A. A vertex is a point where two sides of a polygon meet."
+                },
+                {
+                    "headline": "Draw a straight line from Point A to each other vertex in the polygon.",
+                    "description": "The lines should not cross. You should create a number of triangles. You do not have to draw lines to the adjacent vertices, since they are already connected by a side. For example, for a hexagon you should draw three lines, dividing the shape into 4 triangles."
+                },
+                {
+                    "headline": "Multiply the number of triangles you created by 180.",
+                    "description": "Since there are 180 degrees in a triangle, by multiplying the number of triangles in your polygon by 180, you can find the sum of the interior angles of your polygon. For example, since you divided your hexagon into 4 triangles, you would calculate 4\u00d7180=720{\\displaystyle 4\\times 180=720} to find a total of 720 degrees in the interior of your polygon."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil",
+        "Paper",
+        "Protractor (optional)",
+        "Pen",
+        "Eraser",
+        "Ruler"
+    ],
+    "text": " Using the Formula Set up the formula for finding the sum of the interior angles. The formula is sum=(n\u22122)\u00d7180{\\displaystyle sum=(n-2)\\times 180}, where sum{\\displaystyle sum} is the sum of the interior angles of the polygon, and n{\\displaystyle n} equals the number of sides in the polygon. The value 180 comes from how many degrees are in a triangle. The other part of the formula, n\u22122{\\displaystyle n-2} is a way to determine how many triangles the polygon can be divided into. So, essentially the formula is calculating the degrees inside the triangles that make up the polygon. This method will work whether you are working with a regular or irregular polygon. Regular and irregular polygons with the same number of sides will always have the same sum of interior angles, the difference only being that in a regular polygon, all interior angles have the same measurement. In an irregular polygon, some of the angles will be smaller, some of the angles will be larger, but they will still add up to the same number of degrees that are in the regular shape. Count the number of sides in your polygon. Remember that a polygon must have at least three straight sides. For example, if you want to know the sum of the interior angles of a hexagon, you would count 6 sides. Plug the value of n{\\displaystyle n} into the formula. Remember, n{\\displaystyle n} is the number of sides in your polygon. For example, if you are working with a hexagon, n=6{\\displaystyle n=6}, since a hexagon has 6 sides. So, your formula should look like this:sum=(6\u22122)\u00d7180{\\displaystyle sum=(6-2)\\times 180} Solve for n{\\displaystyle n}. To do this, subtract 2 from the number of sides, and multiply the difference by 180. This will give you, in degrees, the sum of the interior angles in your polygon. For example, to find out the sum of the interior angles of a hexagon, you would calculate:sum=(6\u22122)\u00d7180{\\displaystyle sum=(6-2)\\times 180}sum=(4)\u00d7180{\\displaystyle sum=(4)\\times 180}sum=(4)\u00d7180=720{\\displaystyle sum=(4)\\times 180=720}So, the sum of the interior angles of a hexagon is 720 degrees. Drawing Triangles Draw the polygon whose angles you need to sum. The polygon can have any number of sides and can be regular or irregular. For example, you might want to find the sum of the interior angles of a hexagon, so you would draw a six-sided shape. Choose one vertex. Label this vertex A. A vertex is a point where two sides of a polygon meet. Draw a straight line from Point A to each other vertex in the polygon. The lines should not cross. You should create a number of triangles. You do not have to draw lines to the adjacent vertices, since they are already connected by a side. For example, for a hexagon you should draw three lines, dividing the shape into 4 triangles. Multiply the number of triangles you created by 180. Since there are 180 degrees in a triangle, by multiplying the number of triangles in your polygon by 180, you can find the sum of the interior angles of your polygon. For example, since you divided your hexagon into 4 triangles, you would calculate 4\u00d7180=720{\\displaystyle 4\\times 180=720} to find a total of 720 degrees in the interior of your polygon.",
+    "sentences": [
+        " Using the Formula Set up the formula for finding the sum of the interior angles.",
+        "The formula is sum=(n\u22122)\u00d7180{\\displaystyle sum=(n-2)\\times 180}, where sum{\\displaystyle sum} is the sum of the interior angles of the polygon, and n{\\displaystyle n} equals the number of sides in the polygon.",
+        "The value 180 comes from how many degrees are in a triangle.",
+        "The other part of the formula, n\u22122{\\displaystyle n-2} is a way to determine how many triangles the polygon can be divided into.",
+        "So, essentially the formula is calculating the degrees inside the triangles that make up the polygon.",
+        "This method will work whether you are working with a regular or irregular polygon.",
+        "Regular and irregular polygons with the same number of sides will always have the same sum of interior angles, the difference only being that in a regular polygon, all interior angles have the same measurement.",
+        "In an irregular polygon, some of the angles will be smaller, some of the angles will be larger, but they will still add up to the same number of degrees that are in the regular shape.",
+        "Count the number of sides in your polygon.",
+        "Remember that a polygon must have at least three straight sides.",
+        "For example, if you want to know the sum of the interior angles of a hexagon, you would count 6 sides.",
+        "Plug the value of n{\\displaystyle n} into the formula.",
+        "Remember, n{\\displaystyle n} is the number of sides in your polygon.",
+        "For example, if you are working with a hexagon, n=6{\\displaystyle n=6}, since a hexagon has 6 sides.",
+        "So, your formula should look like this:sum=(6\u22122)\u00d7180{\\displaystyle sum=(6-2)\\times 180} Solve for n{\\displaystyle n}.",
+        "To do this, subtract 2 from the number of sides, and multiply the difference by 180.",
+        "This will give you, in degrees, the sum of the interior angles in your polygon.",
+        "For example, to find out the sum of the interior angles of a hexagon, you would calculate:sum=(6\u22122)\u00d7180{\\displaystyle sum=(6-2)\\times 180}sum=(4)\u00d7180{\\displaystyle sum=(4)\\times 180}sum=(4)\u00d7180=720{\\displaystyle sum=(4)\\times 180=720}So, the sum of the interior angles of a hexagon is 720 degrees.",
+        "Drawing Triangles Draw the polygon whose angles you need to sum.",
+        "The polygon can have any number of sides and can be regular or irregular.",
+        "For example, you might want to find the sum of the interior angles of a hexagon, so you would draw a six-sided shape.",
+        "Choose one vertex.",
+        "Label this vertex A.",
+        "A vertex is a point where two sides of a polygon meet.",
+        "Draw a straight line from Point A to each other vertex in the polygon.",
+        "The lines should not cross.",
+        "You should create a number of triangles.",
+        "You do not have to draw lines to the adjacent vertices, since they are already connected by a side.",
+        "For example, for a hexagon you should draw three lines, dividing the shape into 4 triangles.",
+        "Multiply the number of triangles you created by 180.",
+        "Since there are 180 degrees in a triangle, by multiplying the number of triangles in your polygon by 180, you can find the sum of the interior angles of your polygon.",
+        "For example, since you divided your hexagon into 4 triangles, you would calculate 4\u00d7180=720{\\displaystyle 4\\times 180=720} to find a total of 720 degrees in the interior of your polygon."
+    ]
+}

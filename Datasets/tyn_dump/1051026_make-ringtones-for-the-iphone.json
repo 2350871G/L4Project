@@ -1,0 +1,181 @@
+{
+    "title": "How to Make Ringtones for the iPhone",
+    "url": "https://www.wikihow.com/Make-Ringtones-for-the-iPhone",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Audio"
+    ],
+    "parts": [
+        {
+            "name": "Getting iTunes Ready",
+            "steps": [
+                {
+                    "headline": "Make sure you\u2019re using the latest version of iTunes.",
+                    "description": "Open iTunes and verify that your software is up-to-date. Windows: First, if you don\u2019t see a menu bar at the top of iTunes, press Ctrl+B to toggle it on. Now open the Help menu and select \u201cCheck for updates.\u201d Follow the on-screen instructions to update iTunes if prompted. Mac: Open the iTunes menu and click \u201cCheck for updates.\u201d If you have an outdated version of iTunes, you\u2019ll be prompted to update. Follow the instructions on the screen."
+                },
+                {
+                    "headline": "Turn on the AAC encoder if you\u2019re using Windows.",
+                    "description": "This step is necessary because in order to convert your song into a ringtone, iTunes must first be able to save audio as an .m4a file. Open the menu at the top left corner and click \u201cPreferences.\u201d On the \u201cGeneral\u201d tab, click \u201cImport Settings.\u201d Click the dropdown menu next to \u201cImport Using\u201d and select AAC Encoder. Click OK to save."
+                },
+                {
+                    "headline": "Set your computer to show file extensions.",
+                    "description": "Most people already have this feature enabled, but you may not. You can change these settings back later. Windows Vista and 7: Click the Start button, then Control Panel. Select \u201cAppearance and personalization\u201d and click \u201cFolder options.\u201d Navigate to the \u201cView\u201d tab and remove the check next to \u201cHide extensions for known file types.\u201d Click \u201cOK\u201d to save your settings. Windows 8 and 10: Press \u229e Win+E to open the File explorer, then click to the \u201cView\u201d tab. Put a check next to \u201cFile name extensions.\u201d Close the window when you are done. Mac: In Finder, select \u201cPreferences\u201d and click \u201cAdvanced\u201d. Select \u201cShow all filename extensions.\u201d"
+                }
+            ]
+        },
+        {
+            "name": "Creating the Ringtone",
+            "steps": [
+                {
+                    "headline": "Locate your audio file in the iTunes library.",
+                    "description": "Click the search bar and type in the name of your song. Press \u21b5 Enter to display everything that matches your search in the library."
+                },
+                {
+                    "headline": "Choose a part of the song you want to turn into a ringtone.",
+                    "description": "Ringtones can be a maximum of 30 seconds in length, so choose a part of the song you think would work best as a ringtone in that period of time. You\u2019ll need to write down or remember the starting and stopping time of your new ringtone. To do this:\nAs your song plays, look at the moving slider at the top right side of the screen. The left side of the moving slider shows how many seconds have elapsed as the song plays. Remember (or write down) the time when your ringtone should start. You can move the slider around with your mouse to test different periods of time within an audio file. From the starting point, keep listening and write down the time listed when the tone should end. Keep the 30-second maximum ringtone time in mind\u2014if you want the tone to start at 1:30 (1 minute and 30 seconds) into the song, the end time can be no later than 2:00."
+                },
+                {
+                    "headline": "Open the Get Info menu.",
+                    "description": "This process is slightly different between Windows and Mac. Windows: right-click the song and select \u201cGet Info.\u201d\nMac: Ctrl + click to access the \u201cGet Info\u201d menu."
+                },
+                {
+                    "headline": "Click the Options tab to set the Stop and Start times.",
+                    "description": "Type the Start and Stop times (in minutes and seconds, like 1:30) in the corresponding blanks, then click \u201cOK.\u201d"
+                },
+                {
+                    "headline": "Right-click the song and select \u201cCreate AAC Version.\u201d This will create a new file (ending with the extension .m4a) containing only the audio between the Start and Stop times you set.",
+                    "description": "When the conversion is complete, a new copy of the song will appear beneath the original. Notice the song lengths next to the name of the track. The shorter length track will be your new ringtone."
+                },
+                {
+                    "headline": "Drag the newly created short file to your desktop.",
+                    "description": "The AAC file will be copied to your desktop with a name like songname.m4a (instead of \u201csongname\u201d you\u2019ll see the name of your file)."
+                },
+                {
+                    "headline": "Change the extension of the audio file on your desktop.",
+                    "description": "You\u2019ll now change the .m4a at the end of the filename to .m4r. Windows: Right-click the song and select \u201cRename.\u201d Erase .m4a and type .m4r. Press \u21b5 Enter to confirm. When asked if you\u2019re sure you want to change the extension, click Yes. Mac: Click once (don\u2019t double-click) on the file and erase the .m4a from the end of its name. Type .m4r at the end and press \u21b5 Enter to save. On the pop-up confirmation screen, click \u201cUse .m4r\u201d to confirm your change."
+                },
+                {
+                    "headline": "Delete the short track in iTunes.",
+                    "description": "Don\u2019t worry, you still have the copy on the desktop. In iTunes, right-click or Ctrl + click the short song and select \u201cDelete.\u201d Depending on your operating system, iTunes will ask if you\u2019d like to move the file to the Trash or Recycle Bin. Click \u201cYes.\u201d"
+                },
+                {
+                    "headline": "Double-click the ringtone file on the desktop.",
+                    "description": "This will add the file back to iTunes, but as a ringtone. Ringtones are stored in the Tones library, which is accessed by clicking the icon with the three dots (\u2026) at the top left corner of iTunes, then selecting \u201cTones.\u201d Click the music note icon to return to the music library to proceed."
+                },
+                {
+                    "headline": "Right-click the original song and select \u201cGet Info.\u201d Now you\u2019ll remove the Stop and Start times by unchecking the boxes next to Stop and Start.",
+                    "description": "Click OK to save."
+                },
+                {
+                    "headline": "Change the file extension settings back.",
+                    "description": "If you no longer want to see file extensions at the ends of your filenames (for example, you would rather see songname.m4r be just songname, go back to your file extensions settings and remove the settings you changed earlier."
+                }
+            ]
+        },
+        {
+            "name": "Transferring the Ringtone to your iPhone",
+            "steps": [
+                {
+                    "headline": "Connect the iPhone to the computer with a sync cable.",
+                    "description": "If your iPhone is configured to sync your library when connected to your computer, wait until that sync is finished before proceeding. If your iPhone was already connected to the computer, that\u2019s okay too."
+                },
+                {
+                    "headline": "Click the icon with three dots (\u2026) at the top left corner of iTunes and select \u201cTones.\u201d This will launch the Tones library, which is home to your new ringtone.",
+                    "description": ""
+                },
+                {
+                    "headline": "Drag the ringtone to your iPhone.",
+                    "description": "Drag and drop the file right onto the iPhone icon on the left side of the screen. iTunes will sync the ringtone to your phone."
+                },
+                {
+                    "headline": "Change your iPhone ringtone to the one you made.",
+                    "description": "On your iPhone, open the Settings menu. Tap \u201cSounds,\u201d then \u201cRingtone\u201d to see a list of all ringtones on your phone. The newest ringtone will show up at the top of the list. Tap its name to set it as the default ringer. You can also create tones to replace other sounds on your iPhone. The process is the same, but instead of tapping \u201cRingtone\u201d from the Sounds menu, tap \u201cText Tone,\u201d \u201cNew Voicemail,\u201d etc., and select the ringtone there. To assign a ringtone to a specific person, open the Contacts app and choose a contact. Tap \u201cEdit,\u201d then \u201cRingtone.\u201d Tap the ringtone you\u2019d like to assign this person. Now, when this person calls you, your phone will ring with the new tone."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A PC or Mac computer with the latest version of iTunes",
+        "A song in your iTunes library",
+        "iPhone",
+        "iPhone cable"
+    ],
+    "text": " Getting iTunes Ready Make sure you\u2019re using the latest version of iTunes. Open iTunes and verify that your software is up-to-date. Windows: First, if you don\u2019t see a menu bar at the top of iTunes, press Ctrl+B to toggle it on. Now open the Help menu and select \u201cCheck for updates.\u201d Follow the on-screen instructions to update iTunes if prompted. Mac: Open the iTunes menu and click \u201cCheck for updates.\u201d If you have an outdated version of iTunes, you\u2019ll be prompted to update. Follow the instructions on the screen. Turn on the AAC encoder if you\u2019re using Windows. This step is necessary because in order to convert your song into a ringtone, iTunes must first be able to save audio as an .m4a file. Open the menu at the top left corner and click \u201cPreferences.\u201d On the \u201cGeneral\u201d tab, click \u201cImport Settings.\u201d Click the dropdown menu next to \u201cImport Using\u201d and select AAC Encoder. Click OK to save. Set your computer to show file extensions. Most people already have this feature enabled, but you may not. You can change these settings back later. Windows Vista and 7: Click the Start button, then Control Panel. Select \u201cAppearance and personalization\u201d and click \u201cFolder options.\u201d Navigate to the \u201cView\u201d tab and remove the check next to \u201cHide extensions for known file types.\u201d Click \u201cOK\u201d to save your settings. Windows 8 and 10: Press \u229e Win+E to open the File explorer, then click to the \u201cView\u201d tab. Put a check next to \u201cFile name extensions.\u201d Close the window when you are done. Mac: In Finder, select \u201cPreferences\u201d and click \u201cAdvanced\u201d. Select \u201cShow all filename extensions.\u201d Creating the Ringtone Locate your audio file in the iTunes library. Click the search bar and type in the name of your song. Press \u21b5 Enter to display everything that matches your search in the library. Choose a part of the song you want to turn into a ringtone. Ringtones can be a maximum of 30 seconds in length, so choose a part of the song you think would work best as a ringtone in that period of time. You\u2019ll need to write down or remember the starting and stopping time of your new ringtone. To do this:\nAs your song plays, look at the moving slider at the top right side of the screen. The left side of the moving slider shows how many seconds have elapsed as the song plays. Remember (or write down) the time when your ringtone should start. You can move the slider around with your mouse to test different periods of time within an audio file. From the starting point, keep listening and write down the time listed when the tone should end. Keep the 30-second maximum ringtone time in mind\u2014if you want the tone to start at 1:30 (1 minute and 30 seconds) into the song, the end time can be no later than 2:00. Open the Get Info menu. This process is slightly different between Windows and Mac. Windows: right-click the song and select \u201cGet Info.\u201d\nMac: Ctrl + click to access the \u201cGet Info\u201d menu. Click the Options tab to set the Stop and Start times. Type the Start and Stop times (in minutes and seconds, like 1:30) in the corresponding blanks, then click \u201cOK.\u201d Right-click the song and select \u201cCreate AAC Version.\u201d This will create a new file (ending with the extension .m4a) containing only the audio between the Start and Stop times you set. When the conversion is complete, a new copy of the song will appear beneath the original. Notice the song lengths next to the name of the track. The shorter length track will be your new ringtone. Drag the newly created short file to your desktop. The AAC file will be copied to your desktop with a name like songname.m4a (instead of \u201csongname\u201d you\u2019ll see the name of your file). Change the extension of the audio file on your desktop. You\u2019ll now change the .m4a at the end of the filename to .m4r. Windows: Right-click the song and select \u201cRename.\u201d Erase .m4a and type .m4r. Press \u21b5 Enter to confirm. When asked if you\u2019re sure you want to change the extension, click Yes. Mac: Click once (don\u2019t double-click) on the file and erase the .m4a from the end of its name. Type .m4r at the end and press \u21b5 Enter to save. On the pop-up confirmation screen, click \u201cUse .m4r\u201d to confirm your change. Delete the short track in iTunes. Don\u2019t worry, you still have the copy on the desktop. In iTunes, right-click or Ctrl + click the short song and select \u201cDelete.\u201d Depending on your operating system, iTunes will ask if you\u2019d like to move the file to the Trash or Recycle Bin. Click \u201cYes.\u201d Double-click the ringtone file on the desktop. This will add the file back to iTunes, but as a ringtone. Ringtones are stored in the Tones library, which is accessed by clicking the icon with the three dots (\u2026) at the top left corner of iTunes, then selecting \u201cTones.\u201d Click the music note icon to return to the music library to proceed. Right-click the original song and select \u201cGet Info.\u201d Now you\u2019ll remove the Stop and Start times by unchecking the boxes next to Stop and Start. Click OK to save. Change the file extension settings back. If you no longer want to see file extensions at the ends of your filenames (for example, you would rather see songname.m4r be just songname, go back to your file extensions settings and remove the settings you changed earlier. Transferring the Ringtone to your iPhone Connect the iPhone to the computer with a sync cable. If your iPhone is configured to sync your library when connected to your computer, wait until that sync is finished before proceeding. If your iPhone was already connected to the computer, that\u2019s okay too. Click the icon with three dots (\u2026) at the top left corner of iTunes and select \u201cTones.\u201d This will launch the Tones library, which is home to your new ringtone.  Drag the ringtone to your iPhone. Drag and drop the file right onto the iPhone icon on the left side of the screen. iTunes will sync the ringtone to your phone. Change your iPhone ringtone to the one you made. On your iPhone, open the Settings menu. Tap \u201cSounds,\u201d then \u201cRingtone\u201d to see a list of all ringtones on your phone. The newest ringtone will show up at the top of the list. Tap its name to set it as the default ringer. You can also create tones to replace other sounds on your iPhone. The process is the same, but instead of tapping \u201cRingtone\u201d from the Sounds menu, tap \u201cText Tone,\u201d \u201cNew Voicemail,\u201d etc., and select the ringtone there. To assign a ringtone to a specific person, open the Contacts app and choose a contact. Tap \u201cEdit,\u201d then \u201cRingtone.\u201d Tap the ringtone you\u2019d like to assign this person. Now, when this person calls you, your phone will ring with the new tone.",
+    "sentences": [
+        " Getting iTunes Ready Make sure you\u2019re using the latest version of iTunes.",
+        "Open iTunes and verify that your software is up-to-date.",
+        "Windows: First, if you don\u2019t see a menu bar at the top of iTunes, press Ctrl+B to toggle it on.",
+        "Now open the Help menu and select \u201cCheck for updates.\u201d Follow the on-screen instructions to update iTunes if prompted.",
+        "Mac: Open the iTunes menu and click \u201cCheck for updates.\u201d If you have an outdated version of iTunes, you\u2019ll be prompted to update.",
+        "Follow the instructions on the screen.",
+        "Turn on the AAC encoder if you\u2019re using Windows.",
+        "This step is necessary because in order to convert your song into a ringtone, iTunes must first be able to save audio as an .m4a file.",
+        "Open the menu at the top left corner and click \u201cPreferences.\u201d On the \u201cGeneral\u201d tab, click \u201cImport Settings.\u201d Click the dropdown menu next to \u201cImport Using\u201d and select AAC Encoder.",
+        "Click OK to save.",
+        "Set your computer to show file extensions.",
+        "Most people already have this feature enabled, but you may not.",
+        "You can change these settings back later.",
+        "Windows Vista and 7: Click the Start button, then Control Panel.",
+        "Select \u201cAppearance and personalization\u201d and click \u201cFolder options.\u201d Navigate to the \u201cView\u201d tab and remove the check next to \u201cHide extensions for known file types.\u201d Click \u201cOK\u201d to save your settings.",
+        "Windows 8 and 10: Press \u229e Win+E to open the File explorer, then click to the \u201cView\u201d tab.",
+        "Put a check next to \u201cFile name extensions.\u201d Close the window when you are done.",
+        "Mac: In Finder, select \u201cPreferences\u201d and click \u201cAdvanced\u201d.",
+        "Select \u201cShow all filename extensions.\u201d Creating the Ringtone Locate your audio file in the iTunes library.",
+        "Click the search bar and type in the name of your song.",
+        "Press \u21b5 Enter to display everything that matches your search in the library.",
+        "Choose a part of the song you want to turn into a ringtone.",
+        "Ringtones can be a maximum of 30 seconds in length, so choose a part of the song you think would work best as a ringtone in that period of time.",
+        "You\u2019ll need to write down or remember the starting and stopping time of your new ringtone.",
+        "To do this:\nAs your song plays, look at the moving slider at the top right side of the screen.",
+        "The left side of the moving slider shows how many seconds have elapsed as the song plays.",
+        "Remember (or write down) the time when your ringtone should start.",
+        "You can move the slider around with your mouse to test different periods of time within an audio file.",
+        "From the starting point, keep listening and write down the time listed when the tone should end.",
+        "Keep the 30-second maximum ringtone time in mind\u2014if you want the tone to start at 1:30 (1 minute and 30 seconds) into the song, the end time can be no later than 2:00.",
+        "Open the Get Info menu.",
+        "This process is slightly different between Windows and Mac.",
+        "Windows: right-click the song and select \u201cGet Info.\u201d\nMac: Ctrl + click to access the \u201cGet Info\u201d menu.",
+        "Click the Options tab to set the Stop and Start times.",
+        "Type the Start and Stop times (in minutes and seconds, like 1:30) in the corresponding blanks, then click \u201cOK.\u201d Right-click the song and select \u201cCreate AAC Version.\u201d This will create a new file (ending with the extension .m4a) containing only the audio between the Start and Stop times you set.",
+        "When the conversion is complete, a new copy of the song will appear beneath the original.",
+        "Notice the song lengths next to the name of the track.",
+        "The shorter length track will be your new ringtone.",
+        "Drag the newly created short file to your desktop.",
+        "The AAC file will be copied to your desktop with a name like songname.m4a (instead of \u201csongname\u201d you\u2019ll see the name of your file).",
+        "Change the extension of the audio file on your desktop.",
+        "You\u2019ll now change the .m4a at the end of the filename to .m4r.",
+        "Windows: Right-click the song and select \u201cRename.\u201d Erase .m4a and type .m4r.",
+        "Press \u21b5 Enter to confirm.",
+        "When asked if you\u2019re sure you want to change the extension, click Yes.",
+        "Mac: Click once (don\u2019t double-click) on the file and erase the .m4a from the end of its name.",
+        "Type .m4r at the end and press \u21b5 Enter to save.",
+        "On the pop-up confirmation screen, click \u201cUse .m4r\u201d to confirm your change.",
+        "Delete the short track in iTunes.",
+        "Don\u2019t worry, you still have the copy on the desktop.",
+        "In iTunes, right-click or Ctrl + click the short song and select \u201cDelete.\u201d Depending on your operating system, iTunes will ask if you\u2019d like to move the file to the Trash or Recycle Bin.",
+        "Click \u201cYes.\u201d Double-click the ringtone file on the desktop.",
+        "This will add the file back to iTunes, but as a ringtone.",
+        "Ringtones are stored in the Tones library, which is accessed by clicking the icon with the three dots (\u2026) at the top left corner of iTunes, then selecting \u201cTones.\u201d Click the music note icon to return to the music library to proceed.",
+        "Right-click the original song and select \u201cGet Info.\u201d Now you\u2019ll remove the Stop and Start times by unchecking the boxes next to Stop and Start.",
+        "Click OK to save.",
+        "Change the file extension settings back.",
+        "If you no longer want to see file extensions at the ends of your filenames (for example, you would rather see songname.m4r be just songname, go back to your file extensions settings and remove the settings you changed earlier.",
+        "Transferring the Ringtone to your iPhone Connect the iPhone to the computer with a sync cable.",
+        "If your iPhone is configured to sync your library when connected to your computer, wait until that sync is finished before proceeding.",
+        "If your iPhone was already connected to the computer, that\u2019s okay too.",
+        "Click the icon with three dots (\u2026) at the top left corner of iTunes and select \u201cTones.\u201d This will launch the Tones library, which is home to your new ringtone.",
+        "Drag the ringtone to your iPhone.",
+        "Drag and drop the file right onto the iPhone icon on the left side of the screen.",
+        "iTunes will sync the ringtone to your phone.",
+        "Change your iPhone ringtone to the one you made.",
+        "On your iPhone, open the Settings menu.",
+        "Tap \u201cSounds,\u201d then \u201cRingtone\u201d to see a list of all ringtones on your phone.",
+        "The newest ringtone will show up at the top of the list.",
+        "Tap its name to set it as the default ringer.",
+        "You can also create tones to replace other sounds on your iPhone.",
+        "The process is the same, but instead of tapping \u201cRingtone\u201d from the Sounds menu, tap \u201cText Tone,\u201d \u201cNew Voicemail,\u201d etc., and select the ringtone there.",
+        "To assign a ringtone to a specific person, open the Contacts app and choose a contact.",
+        "Tap \u201cEdit,\u201d then \u201cRingtone.\u201d Tap the ringtone you\u2019d like to assign this person.",
+        "Now, when this person calls you, your phone will ring with the new tone."
+    ]
+}

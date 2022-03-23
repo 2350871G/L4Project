@@ -1,0 +1,236 @@
+{
+    "title": "How to Desolder",
+    "url": "https://www.wikihow.com/Desolder",
+    "category_hierarchy": [
+        "Home and Garden",
+        "DIY"
+    ],
+    "methods": [
+        {
+            "name": "Using a Desoldering Pump",
+            "steps": [
+                {
+                    "headline": "Locate the terminals for the component to be removed.",
+                    "description": "A desoldering pump, also called a solder sucker, vacuums up melted solder to separate soldered components from a circuit board. Thoroughly examine both sides of the board to isolate the specific spots holding each component in place. The desoldering pump works best for through-hole connections. You can use it on surface-mounted devices as well, but it is less effective. That said, it's one of the cheapest options. You can easily ruin a circuit board by accidentally separating the board layers during the desoldering process. Ensure that you only desolder the exact pins you need to remove a faulty component."
+                },
+                {
+                    "headline": "Clean the terminals.",
+                    "description": "Using isopropyl alcohol on a toothbrush, gently clean the terminals of the component(s) to be removed. Ensure that you clean only the terminals on the soldered side of the board and not anything on the component side."
+                },
+                {
+                    "headline": "Attach a heat sink.",
+                    "description": "The heat from the soldering iron can damage sensitive components such as integrated circuits or transistors. To dissipate some of the heat, clip a metal alligator clip between the component and the terminal you plan to desolder."
+                },
+                {
+                    "headline": "Clean your soldering iron as it heats.",
+                    "description": "Turn your soldering iron on and let it heat up for about three minutes. Using a wet sponge make quick passes from base to tip over your soldering iron to clean it. You may see a tiny bit of smoke as you pass the sponge, but it's just from the moisture in the sponge."
+                },
+                {
+                    "headline": "Push down on the desoldering pump.",
+                    "description": "Press the end of the pump until it clicks into place. This compresses a spring, and latches it in the depressed position."
+                },
+                {
+                    "headline": "Heat the old solder with your soldering iron.",
+                    "description": "Using the tip of your soldering iron, heat the old solder until it melts. You can push the terminal with the soldering iron tip at the same time to help free the component as the old solder melts. Use an old soldering iron if you have one, since pushing with the iron can wear the iron down."
+                },
+                {
+                    "headline": "Vacuum up the melted solder.",
+                    "description": "Touch the tip of the desoldering pump to the solder pad and melted solder, without applying pressure. Release the spring (usually by pushing a button on the side) and the piston will shoot back quickly. This creates a vacuum which pulls the melted solder up into the pump. The tip of the pump may melt a little during use. Most pumps either have replaceable tips or are cheap to begin with, but you can try to reduce the damage by pausing for a moment after melting the solder. Melted solder can harden again quickly. Work with only one terminal at a time. For the greatest efficiency, hold the soldering iron in one hand and keep the desoldering pump ready in the other."
+                },
+                {
+                    "headline": "Empty the desoldering pump into the trash.",
+                    "description": "After each use, push the pump down again over a trash can to re-arm it and to clear out the solder. If you leave the old solder inside, it can leak back out as you go to vacuum the next terminal."
+                },
+                {
+                    "headline": "Troubleshoot difficult connections.",
+                    "description": "It often takes multiple passes with the soldering iron and pump before the component is free. If you're not making progress after a few tries, try any or all of these adjustments:\nApply flux first to help the melted solder flow. Melt a little new solder to mix in with the old, hardened solder. For through-hole connections, use the tip of the soldering iron to gently wiggle the terminal from side to side. This breaks the connection to the sides of the hole."
+                },
+                {
+                    "headline": "Clean the board.",
+                    "description": "You may notice brown resin stuck around the solder pad, since this can melt when heated. You can remove this with a commercial resin cleaner, or scrape it away very carefully with a small, flat-head screwdriver or steel wool. Finish by cleaning the area with a toothbrush dampened with isopropyl alcohol. Sometimes, the pressure from the iron or pump will shift the solder pad slightly. It should still work as long as the traces connecting the pad to other components are still intact. If the traces are broken, you will need to solder on new ones. If there are still traces of solder on the pad, it's easy to pick these up using a desoldering braid, described below."
+                }
+            ]
+        },
+        {
+            "name": "Using a Desoldering Braid",
+            "steps": [
+                {
+                    "headline": "Choose a braid slightly narrower than the solder pad.",
+                    "description": "Also called a solder wick, this tool is a braid made from fine copper wires. Choose a braid the same size or smaller than the solder pad on your circuit board, and slightly wider than the tip of your soldering iron. If the braid is too large, it could burn the board or take too long to heat up. This approach works best on through-hole attachments, or to clean up excess solder after you have finished removing a component using a pump or other method. You can try it on surface-mounted components in a pinch, but it may be difficult or time-consuming to desolder many pins."
+                },
+                {
+                    "headline": "Add a little flux to the braid.",
+                    "description": "Most desoldering braids already have powdered flux distributed on the fine copper wires, in order to wick the solder up into the braid. You can brush a little liquid flux onto the end of the braid as well to make it more effective."
+                },
+                {
+                    "headline": "Melt on a little more solder onto the terminal.",
+                    "description": "Once you have plugged in and heated your soldering iron, it's helpful to melt a tiny bit of extra soldering wire onto the terminal. This will help the old, hard solder melt. Withdraw the iron once you've done this."
+                },
+                {
+                    "headline": "Place the desoldering braid on the joint.",
+                    "description": "Place the end of the braid over the terminal you are desoldering."
+                },
+                {
+                    "headline": "Place the soldering iron over the braid.",
+                    "description": "Let the iron rest on the braid without additional pressure, to avoid pushing the solder pad out of place. Wait a few seconds for the heat to pass through the braid and melt the solder. Once the solder has melted, the braid should wick it up and absorb it. Hold the braid by the bobbin it is wound around. The braid may get too hot to touch. If the solder isn't melted, too much heat could be dissipating up the braid. Try cutting off the end of the braid and using that instead, holding it in place with the soldering iron."
+                },
+                {
+                    "headline": "Spool out more braid as needed.",
+                    "description": "The braid will change color as the flux coating is used up and solder is absorbed. Spool out more of the braid and continue on to the next terminal. Apply more liquid flux to the braid if needed. Even on a through-hole attachment, you may need to remove the solder around the component. If you plan to reuse the component, keep the braid and soldering iron away from the component to avoid heat damage."
+                },
+                {
+                    "headline": "Remove the component once cooled.",
+                    "description": "Once all the solder is removed, give the area about thirty seconds to cool, then remove it by hand."
+                }
+            ]
+        },
+        {
+            "name": "Using Other Tools",
+            "steps": [
+                {
+                    "headline": "Upgrade to a desoldering station.",
+                    "description": "If you see a warehouse full of circuit boards in your future, consider buying a station that includes higher quality versions of a soldering iron and desoldering pump. The station should allow you to choose a temperature appropriate for each project. This is especially useful when handling surface-mounted circuit boards (i.e. most of them), so you can avoid damaging heat-sensitive components."
+                },
+                {
+                    "headline": "Melt solder with a hot air.",
+                    "description": "The brute force approach with an ordinary heat gun is a fast way to recover a board, but will almost certainly fry your components. If you want a more accurate approach, you'll need a hot air rework station. This includes a small, high-temperature heat nozzle so you can quickly melt the solder with lower risk to the surrounding components. This expensive, bulky tool is recommended only for people who plan to desolder frequently, and who have some salvage boards to practice on. Vacuum up the melted solder using a desoldering pump or the vacuum nozzle on the rework station."
+                },
+                {
+                    "headline": "Remove small parts with desoldering tweezers.",
+                    "description": "Each pincer on these \"tweezers\" is actually a soldering iron. Just pinch each pin on a surface-mounted resistor, diode, or other small component to melt the solder."
+                },
+                {
+                    "headline": "Melt in a low-temperature solder.",
+                    "description": "A few companies make a special kind of solder that melts at low temperature, sold specifically for desoldering. When you melt this onto existing solder, it creates an alloy that lowers the melting temperature. This ensures that the solder stays liquid for longer, making it easy to remove using a pump or braid."
+                },
+                {
+                    "headline": "Detach a line of pins using a wire.",
+                    "description": "If you have a surface-mounted component attached with many pins, desoldering one at a time will be slow and difficult. Instead, you can melt the solder on one side all at once, and use a fine wire to lift the pins up before the solder hardens again:\nApply flux and new solder across the whole line of pins, melting the old solder together. Use a desoldering braid as described above to remove most of this solder. Strip the end of a fine, enameled copper wire. Tin this end (that is, coat it in a layer of solder). Insert the wire underneath the line of pins, then solder the tinned end to the last pin to fix it to the board. Tug the wire upward while you heat the closest pin with the soldering iron, until the pin detaches. Repeat with each pin. Try not to pull too hard or at too steep an angle."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Soldering iron",
+        "Desoldering braid",
+        "Soldering wire",
+        "Cleaning sponge",
+        "Desoldering pump",
+        "Breathing and eye protection",
+        "Isopropyl alcohol",
+        "Toothbrush"
+    ],
+    "text": " Using a Desoldering Pump Locate the terminals for the component to be removed. A desoldering pump, also called a solder sucker, vacuums up melted solder to separate soldered components from a circuit board. Thoroughly examine both sides of the board to isolate the specific spots holding each component in place. The desoldering pump works best for through-hole connections. You can use it on surface-mounted devices as well, but it is less effective. That said, it's one of the cheapest options. You can easily ruin a circuit board by accidentally separating the board layers during the desoldering process. Ensure that you only desolder the exact pins you need to remove a faulty component. Clean the terminals. Using isopropyl alcohol on a toothbrush, gently clean the terminals of the component(s) to be removed. Ensure that you clean only the terminals on the soldered side of the board and not anything on the component side. Attach a heat sink. The heat from the soldering iron can damage sensitive components such as integrated circuits or transistors. To dissipate some of the heat, clip a metal alligator clip between the component and the terminal you plan to desolder. Clean your soldering iron as it heats. Turn your soldering iron on and let it heat up for about three minutes. Using a wet sponge make quick passes from base to tip over your soldering iron to clean it. You may see a tiny bit of smoke as you pass the sponge, but it's just from the moisture in the sponge. Push down on the desoldering pump. Press the end of the pump until it clicks into place. This compresses a spring, and latches it in the depressed position. Heat the old solder with your soldering iron. Using the tip of your soldering iron, heat the old solder until it melts. You can push the terminal with the soldering iron tip at the same time to help free the component as the old solder melts. Use an old soldering iron if you have one, since pushing with the iron can wear the iron down. Vacuum up the melted solder. Touch the tip of the desoldering pump to the solder pad and melted solder, without applying pressure. Release the spring (usually by pushing a button on the side) and the piston will shoot back quickly. This creates a vacuum which pulls the melted solder up into the pump. The tip of the pump may melt a little during use. Most pumps either have replaceable tips or are cheap to begin with, but you can try to reduce the damage by pausing for a moment after melting the solder. Melted solder can harden again quickly. Work with only one terminal at a time. For the greatest efficiency, hold the soldering iron in one hand and keep the desoldering pump ready in the other. Empty the desoldering pump into the trash. After each use, push the pump down again over a trash can to re-arm it and to clear out the solder. If you leave the old solder inside, it can leak back out as you go to vacuum the next terminal. Troubleshoot difficult connections. It often takes multiple passes with the soldering iron and pump before the component is free. If you're not making progress after a few tries, try any or all of these adjustments:\nApply flux first to help the melted solder flow. Melt a little new solder to mix in with the old, hardened solder. For through-hole connections, use the tip of the soldering iron to gently wiggle the terminal from side to side. This breaks the connection to the sides of the hole. Clean the board. You may notice brown resin stuck around the solder pad, since this can melt when heated. You can remove this with a commercial resin cleaner, or scrape it away very carefully with a small, flat-head screwdriver or steel wool. Finish by cleaning the area with a toothbrush dampened with isopropyl alcohol. Sometimes, the pressure from the iron or pump will shift the solder pad slightly. It should still work as long as the traces connecting the pad to other components are still intact. If the traces are broken, you will need to solder on new ones. If there are still traces of solder on the pad, it's easy to pick these up using a desoldering braid, described below. Using a Desoldering Braid Choose a braid slightly narrower than the solder pad. Also called a solder wick, this tool is a braid made from fine copper wires. Choose a braid the same size or smaller than the solder pad on your circuit board, and slightly wider than the tip of your soldering iron. If the braid is too large, it could burn the board or take too long to heat up. This approach works best on through-hole attachments, or to clean up excess solder after you have finished removing a component using a pump or other method. You can try it on surface-mounted components in a pinch, but it may be difficult or time-consuming to desolder many pins. Add a little flux to the braid. Most desoldering braids already have powdered flux distributed on the fine copper wires, in order to wick the solder up into the braid. You can brush a little liquid flux onto the end of the braid as well to make it more effective. Melt on a little more solder onto the terminal. Once you have plugged in and heated your soldering iron, it's helpful to melt a tiny bit of extra soldering wire onto the terminal. This will help the old, hard solder melt. Withdraw the iron once you've done this. Place the desoldering braid on the joint. Place the end of the braid over the terminal you are desoldering. Place the soldering iron over the braid. Let the iron rest on the braid without additional pressure, to avoid pushing the solder pad out of place. Wait a few seconds for the heat to pass through the braid and melt the solder. Once the solder has melted, the braid should wick it up and absorb it. Hold the braid by the bobbin it is wound around. The braid may get too hot to touch. If the solder isn't melted, too much heat could be dissipating up the braid. Try cutting off the end of the braid and using that instead, holding it in place with the soldering iron. Spool out more braid as needed. The braid will change color as the flux coating is used up and solder is absorbed. Spool out more of the braid and continue on to the next terminal. Apply more liquid flux to the braid if needed. Even on a through-hole attachment, you may need to remove the solder around the component. If you plan to reuse the component, keep the braid and soldering iron away from the component to avoid heat damage. Remove the component once cooled. Once all the solder is removed, give the area about thirty seconds to cool, then remove it by hand. Using Other Tools Upgrade to a desoldering station. If you see a warehouse full of circuit boards in your future, consider buying a station that includes higher quality versions of a soldering iron and desoldering pump. The station should allow you to choose a temperature appropriate for each project. This is especially useful when handling surface-mounted circuit boards (i.e. most of them), so you can avoid damaging heat-sensitive components. Melt solder with a hot air. The brute force approach with an ordinary heat gun is a fast way to recover a board, but will almost certainly fry your components. If you want a more accurate approach, you'll need a hot air rework station. This includes a small, high-temperature heat nozzle so you can quickly melt the solder with lower risk to the surrounding components. This expensive, bulky tool is recommended only for people who plan to desolder frequently, and who have some salvage boards to practice on. Vacuum up the melted solder using a desoldering pump or the vacuum nozzle on the rework station. Remove small parts with desoldering tweezers. Each pincer on these \"tweezers\" is actually a soldering iron. Just pinch each pin on a surface-mounted resistor, diode, or other small component to melt the solder. Melt in a low-temperature solder. A few companies make a special kind of solder that melts at low temperature, sold specifically for desoldering. When you melt this onto existing solder, it creates an alloy that lowers the melting temperature. This ensures that the solder stays liquid for longer, making it easy to remove using a pump or braid. Detach a line of pins using a wire. If you have a surface-mounted component attached with many pins, desoldering one at a time will be slow and difficult. Instead, you can melt the solder on one side all at once, and use a fine wire to lift the pins up before the solder hardens again:\nApply flux and new solder across the whole line of pins, melting the old solder together. Use a desoldering braid as described above to remove most of this solder. Strip the end of a fine, enameled copper wire. Tin this end (that is, coat it in a layer of solder). Insert the wire underneath the line of pins, then solder the tinned end to the last pin to fix it to the board. Tug the wire upward while you heat the closest pin with the soldering iron, until the pin detaches. Repeat with each pin. Try not to pull too hard or at too steep an angle.",
+    "sentences": [
+        " Using a Desoldering Pump Locate the terminals for the component to be removed.",
+        "A desoldering pump, also called a solder sucker, vacuums up melted solder to separate soldered components from a circuit board.",
+        "Thoroughly examine both sides of the board to isolate the specific spots holding each component in place.",
+        "The desoldering pump works best for through-hole connections.",
+        "You can use it on surface-mounted devices as well, but it is less effective.",
+        "That said, it's one of the cheapest options.",
+        "You can easily ruin a circuit board by accidentally separating the board layers during the desoldering process.",
+        "Ensure that you only desolder the exact pins you need to remove a faulty component.",
+        "Clean the terminals.",
+        "Using isopropyl alcohol on a toothbrush, gently clean the terminals of the component(s) to be removed.",
+        "Ensure that you clean only the terminals on the soldered side of the board and not anything on the component side.",
+        "Attach a heat sink.",
+        "The heat from the soldering iron can damage sensitive components such as integrated circuits or transistors.",
+        "To dissipate some of the heat, clip a metal alligator clip between the component and the terminal you plan to desolder.",
+        "Clean your soldering iron as it heats.",
+        "Turn your soldering iron on and let it heat up for about three minutes.",
+        "Using a wet sponge make quick passes from base to tip over your soldering iron to clean it.",
+        "You may see a tiny bit of smoke as you pass the sponge, but it's just from the moisture in the sponge.",
+        "Push down on the desoldering pump.",
+        "Press the end of the pump until it clicks into place.",
+        "This compresses a spring, and latches it in the depressed position.",
+        "Heat the old solder with your soldering iron.",
+        "Using the tip of your soldering iron, heat the old solder until it melts.",
+        "You can push the terminal with the soldering iron tip at the same time to help free the component as the old solder melts.",
+        "Use an old soldering iron if you have one, since pushing with the iron can wear the iron down.",
+        "Vacuum up the melted solder.",
+        "Touch the tip of the desoldering pump to the solder pad and melted solder, without applying pressure.",
+        "Release the spring (usually by pushing a button on the side) and the piston will shoot back quickly.",
+        "This creates a vacuum which pulls the melted solder up into the pump.",
+        "The tip of the pump may melt a little during use.",
+        "Most pumps either have replaceable tips or are cheap to begin with, but you can try to reduce the damage by pausing for a moment after melting the solder.",
+        "Melted solder can harden again quickly.",
+        "Work with only one terminal at a time.",
+        "For the greatest efficiency, hold the soldering iron in one hand and keep the desoldering pump ready in the other.",
+        "Empty the desoldering pump into the trash.",
+        "After each use, push the pump down again over a trash can to re-arm it and to clear out the solder.",
+        "If you leave the old solder inside, it can leak back out as you go to vacuum the next terminal.",
+        "Troubleshoot difficult connections.",
+        "It often takes multiple passes with the soldering iron and pump before the component is free.",
+        "If you're not making progress after a few tries, try any or all of these adjustments:\nApply flux first to help the melted solder flow.",
+        "Melt a little new solder to mix in with the old, hardened solder.",
+        "For through-hole connections, use the tip of the soldering iron to gently wiggle the terminal from side to side.",
+        "This breaks the connection to the sides of the hole.",
+        "Clean the board.",
+        "You may notice brown resin stuck around the solder pad, since this can melt when heated.",
+        "You can remove this with a commercial resin cleaner, or scrape it away very carefully with a small, flat-head screwdriver or steel wool.",
+        "Finish by cleaning the area with a toothbrush dampened with isopropyl alcohol.",
+        "Sometimes, the pressure from the iron or pump will shift the solder pad slightly.",
+        "It should still work as long as the traces connecting the pad to other components are still intact.",
+        "If the traces are broken, you will need to solder on new ones.",
+        "If there are still traces of solder on the pad, it's easy to pick these up using a desoldering braid, described below.",
+        "Using a Desoldering Braid Choose a braid slightly narrower than the solder pad.",
+        "Also called a solder wick, this tool is a braid made from fine copper wires.",
+        "Choose a braid the same size or smaller than the solder pad on your circuit board, and slightly wider than the tip of your soldering iron.",
+        "If the braid is too large, it could burn the board or take too long to heat up.",
+        "This approach works best on through-hole attachments, or to clean up excess solder after you have finished removing a component using a pump or other method.",
+        "You can try it on surface-mounted components in a pinch, but it may be difficult or time-consuming to desolder many pins.",
+        "Add a little flux to the braid.",
+        "Most desoldering braids already have powdered flux distributed on the fine copper wires, in order to wick the solder up into the braid.",
+        "You can brush a little liquid flux onto the end of the braid as well to make it more effective.",
+        "Melt on a little more solder onto the terminal.",
+        "Once you have plugged in and heated your soldering iron, it's helpful to melt a tiny bit of extra soldering wire onto the terminal.",
+        "This will help the old, hard solder melt.",
+        "Withdraw the iron once you've done this.",
+        "Place the desoldering braid on the joint.",
+        "Place the end of the braid over the terminal you are desoldering.",
+        "Place the soldering iron over the braid.",
+        "Let the iron rest on the braid without additional pressure, to avoid pushing the solder pad out of place.",
+        "Wait a few seconds for the heat to pass through the braid and melt the solder.",
+        "Once the solder has melted, the braid should wick it up and absorb it.",
+        "Hold the braid by the bobbin it is wound around.",
+        "The braid may get too hot to touch.",
+        "If the solder isn't melted, too much heat could be dissipating up the braid.",
+        "Try cutting off the end of the braid and using that instead, holding it in place with the soldering iron.",
+        "Spool out more braid as needed.",
+        "The braid will change color as the flux coating is used up and solder is absorbed.",
+        "Spool out more of the braid and continue on to the next terminal.",
+        "Apply more liquid flux to the braid if needed.",
+        "Even on a through-hole attachment, you may need to remove the solder around the component.",
+        "If you plan to reuse the component, keep the braid and soldering iron away from the component to avoid heat damage.",
+        "Remove the component once cooled.",
+        "Once all the solder is removed, give the area about thirty seconds to cool, then remove it by hand.",
+        "Using Other Tools Upgrade to a desoldering station.",
+        "If you see a warehouse full of circuit boards in your future, consider buying a station that includes higher quality versions of a soldering iron and desoldering pump.",
+        "The station should allow you to choose a temperature appropriate for each project.",
+        "This is especially useful when handling surface-mounted circuit boards (i.e.",
+        "most of them), so you can avoid damaging heat-sensitive components.",
+        "Melt solder with a hot air.",
+        "The brute force approach with an ordinary heat gun is a fast way to recover a board, but will almost certainly fry your components.",
+        "If you want a more accurate approach, you'll need a hot air rework station.",
+        "This includes a small, high-temperature heat nozzle so you can quickly melt the solder with lower risk to the surrounding components.",
+        "This expensive, bulky tool is recommended only for people who plan to desolder frequently, and who have some salvage boards to practice on.",
+        "Vacuum up the melted solder using a desoldering pump or the vacuum nozzle on the rework station.",
+        "Remove small parts with desoldering tweezers.",
+        "Each pincer on these \"tweezers\" is actually a soldering iron.",
+        "Just pinch each pin on a surface-mounted resistor, diode, or other small component to melt the solder.",
+        "Melt in a low-temperature solder.",
+        "A few companies make a special kind of solder that melts at low temperature, sold specifically for desoldering.",
+        "When you melt this onto existing solder, it creates an alloy that lowers the melting temperature.",
+        "This ensures that the solder stays liquid for longer, making it easy to remove using a pump or braid.",
+        "Detach a line of pins using a wire.",
+        "If you have a surface-mounted component attached with many pins, desoldering one at a time will be slow and difficult.",
+        "Instead, you can melt the solder on one side all at once, and use a fine wire to lift the pins up before the solder hardens again:\nApply flux and new solder across the whole line of pins, melting the old solder together.",
+        "Use a desoldering braid as described above to remove most of this solder.",
+        "Strip the end of a fine, enameled copper wire.",
+        "Tin this end (that is, coat it in a layer of solder).",
+        "Insert the wire underneath the line of pins, then solder the tinned end to the last pin to fix it to the board.",
+        "Tug the wire upward while you heat the closest pin with the soldering iron, until the pin detaches.",
+        "Repeat with each pin.",
+        "Try not to pull too hard or at too steep an angle."
+    ]
+}

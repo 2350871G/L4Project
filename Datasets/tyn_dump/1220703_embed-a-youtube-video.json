@@ -1,0 +1,156 @@
+{
+    "title": "How to Embed a YouTube Video",
+    "url": "https://www.wikihow.com/Embed-a-YouTube-Video",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Video",
+        "Video Hosting and Sharing Websites",
+        "YouTube",
+        "YouTube Videos",
+        "Sharing YouTube Videos",
+        "Embedding YouTube Videos"
+    ],
+    "parts": [
+        {
+            "name": "Embedding a Video",
+            "steps": [
+                {
+                    "headline": "Navigate to the video you want to embed.",
+                    "description": "You need to be on the YouTube page to do this, you cannot be watching the video on another website."
+                },
+                {
+                    "headline": "Click the Share button.",
+                    "description": "It is located below the video, next to a small icon that resembles a curvy arrow. This will displays options for sharing the video."
+                },
+                {
+                    "headline": "Click on Embed.",
+                    "description": "It has a grey icon with two brackets (<>). It's one of the options below \"Share a Link\" in the share menu."
+                },
+                {
+                    "headline": "Click Copy.",
+                    "description": "It's the button in the lower-right corner of the window. This copies the embed code to your clipboard. The code will look something like this: <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Nn_Zln_4pA8\" frameborder=\"0\" allowfullscreen></iframe>"
+                },
+                {
+                    "headline": "Open up your webpage's HTML options.",
+                    "description": "HTML is a type of code used to build websites, and the embed code on YouTube is designed to insert into the code and display the video without any changes. Many blogging websites let you insert the video directly into the post as well without changing your website's code. Blog Posts: Begin a new post. In the toolbar above the post, click on \"HTML.\" This will display the code of your post but will keep your website's code intact. Website:  Locate the HTML files for your website. You can edit them using a text editor such as NotePad or TextEdit on Mac. You can also edit them using an HTML editor such as Adobe Dreamweaver. When you are done editing the HTML files, you will need to upload the files to your server manually or using FTP."
+                },
+                {
+                    "headline": "Find where you want your video in the HTML.",
+                    "description": "Since any words your typed will be displayed in the HTML, you can use the text to determine where in the page your video will go. For example, if I wrote a post that says \"Check out my new video:\" those exact words will appear somewhere in the HTML code. Coding full websites with HTML is very difficult and requires a lot of code, so finding the exact location for your video may take some time. Luckily, no changes are permanent, so you can always move the video later if it is not where you want it."
+                },
+                {
+                    "headline": "Make space for your video.",
+                    "description": "Once you've found where you want the video, click in between the surrounding code and hit the space bar. Almost all code begins with a \"<\" and ends with a \">\". Be sure to put your embed code outside of a pre-existing line of code. Wordpress Blog Example: Check out <b>my video here:</b>_____<!--more--> would read as \"Check out my video here: (EMBEDDED VIDEO) Click to Read More.\" You can create a line break after a paragraph or text in HTML by typing <br>"
+                },
+                {
+                    "headline": "Paste the video code where you want the video to go.",
+                    "description": "You can either right-click and choose Paste or press Ctrl+V or \u2318 Command+V on Mac to paste the embed code."
+                },
+                {
+                    "headline": "Publish your changes.",
+                    "description": "Click Save changes, Publish, or Post or something similar to save your post with the embedded code. Look over your post and make sure the video is where you want it to be. Alternatively, embed videos on social media with the \"Share\" function. If you only want to post the video to Facebook, Twitter, Pinterest, or Tumblr, you can simply click on the appropriate icon in the \"Share\" window below the video. YouTube will prompt you to log into your social media account and automatically embed the video for you."
+                }
+            ]
+        },
+        {
+            "name": "Customizing your Embedded Video",
+            "steps": [
+                {
+                    "headline": "Navigate to the video you want to embed.",
+                    "description": "You need to be on the YouTube page to do this, you cannot be watching the video on another website."
+                },
+                {
+                    "headline": "Drag the video to where you want the video to start (Optional).",
+                    "description": "If you want the video to start at a specific location when embedded, drag the red dot in the timeline at the bottom of the YouTube video to the exact time where you want the video to start."
+                },
+                {
+                    "headline": "Click the Share button.",
+                    "description": "It is located below the video, next to a small icon that resembles a curvy arrow. This will displays options for sharing the video."
+                },
+                {
+                    "headline": "Click the checkbox  next to \"Start at\" (Optional).",
+                    "description": "You can check this option at the bottom of the Share menu, or below the text box containing the video embed code. This adds code that triggers the video to start at a specific time."
+                },
+                {
+                    "headline": "Click on Embed.",
+                    "description": "It has a grey icon with two brackets (<>). It's one of the options below \"Share a Link\" in the share menu."
+                },
+                {
+                    "headline": "Check  \"Enable Privacy-Enhanced Mode\".",
+                    "description": "It's below the box containing the embed code to the right of the video. This will prevent YouTube from collecting user data from your website unless a viewer clicks on the video."
+                },
+                {
+                    "headline": "Add the phrase \"&autoplay=1\" after the video URL.",
+                    "description": "This will make the video automatically play on your page. The URL is the web address for the video that appears in the address bar of your web browser while viewing a YouTube video on the YouTube website. This URL may appear a couple of times in the Embed code. Example: <object height=\"350\" width=\"425\"><param name=\"movie\" value=\"https://www.youtube.com/v/OdT9z-JjtJk&autoplay=1\" /><embed height=\"350\" src=\"https://www.youtube.com/v/OdT9z-JjtJk&autoplay=1\" type=\"application/x-shockwave-flash\" width=\"425\"></embed></object>"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "A computer with Internet access",
+        "Access to the HTML or page editor of a website"
+    ],
+    "text": " Embedding a Video Navigate to the video you want to embed. You need to be on the YouTube page to do this, you cannot be watching the video on another website. Click the Share button. It is located below the video, next to a small icon that resembles a curvy arrow. This will displays options for sharing the video. Click on Embed. It has a grey icon with two brackets (<>). It's one of the options below \"Share a Link\" in the share menu. Click Copy. It's the button in the lower-right corner of the window. This copies the embed code to your clipboard. The code will look something like this: <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Nn_Zln_4pA8\" frameborder=\"0\" allowfullscreen></iframe> Open up your webpage's HTML options. HTML is a type of code used to build websites, and the embed code on YouTube is designed to insert into the code and display the video without any changes. Many blogging websites let you insert the video directly into the post as well without changing your website's code. Blog Posts: Begin a new post. In the toolbar above the post, click on \"HTML.\" This will display the code of your post but will keep your website's code intact. Website:  Locate the HTML files for your website. You can edit them using a text editor such as NotePad or TextEdit on Mac. You can also edit them using an HTML editor such as Adobe Dreamweaver. When you are done editing the HTML files, you will need to upload the files to your server manually or using FTP. Find where you want your video in the HTML. Since any words your typed will be displayed in the HTML, you can use the text to determine where in the page your video will go. For example, if I wrote a post that says \"Check out my new video:\" those exact words will appear somewhere in the HTML code. Coding full websites with HTML is very difficult and requires a lot of code, so finding the exact location for your video may take some time. Luckily, no changes are permanent, so you can always move the video later if it is not where you want it. Make space for your video. Once you've found where you want the video, click in between the surrounding code and hit the space bar. Almost all code begins with a \"<\" and ends with a \">\". Be sure to put your embed code outside of a pre-existing line of code. Wordpress Blog Example: Check out <b>my video here:</b>_____<!--more--> would read as \"Check out my video here: (EMBEDDED VIDEO) Click to Read More.\" You can create a line break after a paragraph or text in HTML by typing <br> Paste the video code where you want the video to go. You can either right-click and choose Paste or press Ctrl+V or \u2318 Command+V on Mac to paste the embed code. Publish your changes. Click Save changes, Publish, or Post or something similar to save your post with the embedded code. Look over your post and make sure the video is where you want it to be. Alternatively, embed videos on social media with the \"Share\" function. If you only want to post the video to Facebook, Twitter, Pinterest, or Tumblr, you can simply click on the appropriate icon in the \"Share\" window below the video. YouTube will prompt you to log into your social media account and automatically embed the video for you. Customizing your Embedded Video Navigate to the video you want to embed. You need to be on the YouTube page to do this, you cannot be watching the video on another website. Drag the video to where you want the video to start (Optional). If you want the video to start at a specific location when embedded, drag the red dot in the timeline at the bottom of the YouTube video to the exact time where you want the video to start. Click the Share button. It is located below the video, next to a small icon that resembles a curvy arrow. This will displays options for sharing the video. Click the checkbox  next to \"Start at\" (Optional). You can check this option at the bottom of the Share menu, or below the text box containing the video embed code. This adds code that triggers the video to start at a specific time. Click on Embed. It has a grey icon with two brackets (<>). It's one of the options below \"Share a Link\" in the share menu. Check  \"Enable Privacy-Enhanced Mode\". It's below the box containing the embed code to the right of the video. This will prevent YouTube from collecting user data from your website unless a viewer clicks on the video. Add the phrase \"&autoplay=1\" after the video URL. This will make the video automatically play on your page. The URL is the web address for the video that appears in the address bar of your web browser while viewing a YouTube video on the YouTube website. This URL may appear a couple of times in the Embed code. Example: <object height=\"350\" width=\"425\"><param name=\"movie\" value=\"https://www.youtube.com/v/OdT9z-JjtJk&autoplay=1\" /><embed height=\"350\" src=\"https://www.youtube.com/v/OdT9z-JjtJk&autoplay=1\" type=\"application/x-shockwave-flash\" width=\"425\"></embed></object>",
+    "sentences": [
+        " Embedding a Video Navigate to the video you want to embed.",
+        "You need to be on the YouTube page to do this, you cannot be watching the video on another website.",
+        "Click the Share button.",
+        "It is located below the video, next to a small icon that resembles a curvy arrow.",
+        "This will displays options for sharing the video.",
+        "Click on Embed.",
+        "It has a grey icon with two brackets (<>).",
+        "It's one of the options below \"Share a Link\" in the share menu.",
+        "Click Copy.",
+        "It's the button in the lower-right corner of the window.",
+        "This copies the embed code to your clipboard.",
+        "The code will look something like this: <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Nn_Zln_4pA8\" frameborder=\"0\" allowfullscreen></iframe> Open up your webpage's HTML options.",
+        "HTML is a type of code used to build websites, and the embed code on YouTube is designed to insert into the code and display the video without any changes.",
+        "Many blogging websites let you insert the video directly into the post as well without changing your website's code.",
+        "Blog Posts: Begin a new post.",
+        "In the toolbar above the post, click on \"HTML.\"",
+        "This will display the code of your post but will keep your website's code intact.",
+        "Website:  Locate the HTML files for your website.",
+        "You can edit them using a text editor such as NotePad or TextEdit on Mac.",
+        "You can also edit them using an HTML editor such as Adobe Dreamweaver.",
+        "When you are done editing the HTML files, you will need to upload the files to your server manually or using FTP.",
+        "Find where you want your video in the HTML.",
+        "Since any words your typed will be displayed in the HTML, you can use the text to determine where in the page your video will go.",
+        "For example, if I wrote a post that says \"Check out my new video:\" those exact words will appear somewhere in the HTML code.",
+        "Coding full websites with HTML is very difficult and requires a lot of code, so finding the exact location for your video may take some time.",
+        "Luckily, no changes are permanent, so you can always move the video later if it is not where you want it.",
+        "Make space for your video.",
+        "Once you've found where you want the video, click in between the surrounding code and hit the space bar.",
+        "Almost all code begins with a \"<\" and ends with a \">\".",
+        "Be sure to put your embed code outside of a pre-existing line of code.",
+        "Wordpress Blog Example: Check out <b>my video here:</b>_____<!--more--> would read as \"Check out my video here: (EMBEDDED VIDEO) Click to Read More.\"",
+        "You can create a line break after a paragraph or text in HTML by typing <br> Paste the video code where you want the video to go.",
+        "You can either right-click and choose Paste or press Ctrl+V or \u2318 Command+V on Mac to paste the embed code.",
+        "Publish your changes.",
+        "Click Save changes, Publish, or Post or something similar to save your post with the embedded code.",
+        "Look over your post and make sure the video is where you want it to be.",
+        "Alternatively, embed videos on social media with the \"Share\" function.",
+        "If you only want to post the video to Facebook, Twitter, Pinterest, or Tumblr, you can simply click on the appropriate icon in the \"Share\" window below the video.",
+        "YouTube will prompt you to log into your social media account and automatically embed the video for you.",
+        "Customizing your Embedded Video Navigate to the video you want to embed.",
+        "You need to be on the YouTube page to do this, you cannot be watching the video on another website.",
+        "Drag the video to where you want the video to start (Optional).",
+        "If you want the video to start at a specific location when embedded, drag the red dot in the timeline at the bottom of the YouTube video to the exact time where you want the video to start.",
+        "Click the Share button.",
+        "It is located below the video, next to a small icon that resembles a curvy arrow.",
+        "This will displays options for sharing the video.",
+        "Click the checkbox  next to \"Start at\" (Optional).",
+        "You can check this option at the bottom of the Share menu, or below the text box containing the video embed code.",
+        "This adds code that triggers the video to start at a specific time.",
+        "Click on Embed.",
+        "It has a grey icon with two brackets (<>).",
+        "It's one of the options below \"Share a Link\" in the share menu.",
+        "Check  \"Enable Privacy-Enhanced Mode\".",
+        "It's below the box containing the embed code to the right of the video.",
+        "This will prevent YouTube from collecting user data from your website unless a viewer clicks on the video.",
+        "Add the phrase \"&autoplay=1\" after the video URL.",
+        "This will make the video automatically play on your page.",
+        "The URL is the web address for the video that appears in the address bar of your web browser while viewing a YouTube video on the YouTube website.",
+        "This URL may appear a couple of times in the Embed code.",
+        "Example: <object height=\"350\" width=\"425\"><param name=\"movie\" value=\"https://www.youtube.com/v/OdT9z-JjtJk&autoplay=1\" /><embed height=\"350\" src=\"https://www.youtube.com/v/OdT9z-JjtJk&autoplay=1\" type=\"application/x-shockwave-flash\" width=\"425\"></embed></object>"
+    ]
+}

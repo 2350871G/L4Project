@@ -1,0 +1,55 @@
+{
+    "title": "How to Change a Brick's Color on Roblox Using a Script",
+    "url": "https://www.wikihow.com/Change-a-Brick%27s-Color-on-Roblox-Using-a-Script",
+    "category_hierarchy": [
+        "Hobbies and Crafts",
+        "Games",
+        "Video Games",
+        "PC Games",
+        "Online Games",
+        "Roblox"
+    ],
+    "steps": [
+        {
+            "headline": "Open Roblox studio up.",
+            "description": ""
+        },
+        {
+            "headline": "Insert a brick.",
+            "description": ""
+        },
+        {
+            "headline": "Go to paint tool, and look for a color you like.",
+            "description": ""
+        },
+        {
+            "headline": "Remember the name that pops up.",
+            "description": ""
+        },
+        {
+            "headline": "Make a script inside brick",
+            "description": ""
+        },
+        {
+            "headline": "Enter this in a script: script.Parent.BrickColor=BrickColor:(\"COLOR\") NOTE: Change \"COLOR\" to whatever color you want like Pearl or Really red.",
+            "description": "NOTE2: To make a random color loop,then enter this code:\nWhile true do\nScript.Parent.BrickColor = BrickColor.Random()\nWait(Time) --Replace to what you want, for example, 0.1\nEnd"
+        },
+        {
+            "headline": "Enjoy.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "A computer",
+        "Roblox Studio"
+    ],
+    "text": " Open Roblox studio up.  Insert a brick.  Go to paint tool, and look for a color you like.  Remember the name that pops up.  Make a script inside brick  Enter this in a script: script.Parent.BrickColor=BrickColor:(\"COLOR\") NOTE: Change \"COLOR\" to whatever color you want like Pearl or Really red. NOTE2: To make a random color loop,then enter this code:\nWhile true do\nScript.Parent.BrickColor = BrickColor.Random()\nWait(Time) --Replace to what you want, for example, 0.1\nEnd Enjoy. ",
+    "sentences": [
+        " Open Roblox studio up.",
+        "Insert a brick.",
+        "Go to paint tool, and look for a color you like.",
+        "Remember the name that pops up.",
+        "Make a script inside brick  Enter this in a script: script.Parent.BrickColor=BrickColor:(\"COLOR\") NOTE: Change \"COLOR\" to whatever color you want like Pearl or Really red.",
+        "NOTE2: To make a random color loop,then enter this code:\nWhile true do\nScript.Parent.BrickColor = BrickColor.Random()\nWait(Time) --Replace to what you want, for example, 0.1\nEnd Enjoy."
+    ]
+}

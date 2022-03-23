@@ -1,0 +1,146 @@
+{
+    "title": "How to Convert AC to DC",
+    "url": "https://www.wikihow.com/Convert-AC-to-DC",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Home Maintenance",
+        "Electrical Maintenance"
+    ],
+    "methods": [
+        {
+            "name": "Converting AC to DC Mathematically",
+            "steps": [
+                {
+                    "headline": "Find the AC voltage of the power source with a multimeter.",
+                    "description": "Attach the multimeter leads to the ports on the bottom or side of your multimeter. Set your multimeter so the arrow points at the \u201cACV\u201d or \u201cV~\u201d option for measuring the AC voltage. Hold the pins against the positive and negative terminals of the power source you\u2019re measuring and check the reading on the multimeter display. Write down the number so you can remember it easily. It doesn\u2019t matter which pin you hold against each terminal. Never use a multimeter if the rubber around the pins has damage or tears since you could risk electrocuting yourself."
+                },
+                {
+                    "headline": "Divide the AC voltage by the square root of 2 to find the DC voltage.",
+                    "description": "Since an AC power supply sends voltage in alternating waves, DC voltage will be lower once you convert it. Write out the formula VAC/\u221a(2) and replace VAC with the AC voltage you found with your multimeter. Use a calculator to solve your equation if you want the most precise answer. For example, if the AC power source has 120 V, then your formula would be 120/\u221a(2) = 84.85 V in a DC signal.Tip: If you don\u2019t have a calculator, you can round \u221a(2) to 1.4 to make your calculation easier."
+                },
+                {
+                    "headline": "Know that the actual DC output will be less than your calculation.",
+                    "description": "The DC voltage you calculated is known as the theoretical voltage since that\u2019s how much the current would have if it were perfect. However, currents have a voltage drop when they\u2019re converted or connected to a device so they won\u2019t have the full amount you found. If you want to find the actual output, you\u2019ll need to check with a multimeter by holding the pins against the positive and negative terminals on the device. Voltage drop may cause electronics not to work if there are not enough volts running through it."
+                }
+            ]
+        },
+        {
+            "name": "Building an AC to DC Circuit",
+            "steps": [
+                {
+                    "headline": "Attach a step-down transformer to the left side of a perfboard.",
+                    "description": "A step-down transformer is a small electrical device that has wires with differing numbers of coils to lower the voltage from a supply to the output. For a simple converter circuit, look for a transformer that\u2019s rated for at least 13 V so you can drop the input power lower. Place the transformer on a piece of perfboard, which has a grid of holes drilled into it and is used for prototyping circuits. Connect the transformer to the perfboard using nuts and bolts to secure it in place. You can buy transformers and perfboard from an electronics supply store or online. If you want to raise the voltage, then you can use a step-up transformer instead."
+                },
+                {
+                    "headline": "Arrange 4 diodes in a diamond shape to the right of the transformer.",
+                    "description": "Diodes allow electricity to go through them in 1 direction, but they block the current from going the other way. Place the first diode at a 45-degree angle so the positive end points away from you and to the left. Place another diode next to the first one so they form a corner and the negative end points at a 45-degree angle to the right. Form the top of the diamond so the diode on the left has the negative side pointing up and the diode on the right has the positive side pointing up. The diamond pattern of the diodes is known as a bridge rectifier and allows the circuit to transfer the positive and negative outputs of the AC signal. You can buy diodes from an electronics supply store or online. Make sure the diodes are pointing in the right directions or else the current won\u2019t be able to flow through them. You can use hot glue to secure the diodes to the perfboard if you want, but it\u2019s not required."
+                },
+                {
+                    "headline": "Connect the transformer leads to the left and right corners of the diamond.",
+                    "description": "Your transformer will have a red and black wire that connects to the power supply and 2 more wires on the bottom that connect to the rectifier. Wrap the exposed end of one of the wires where the diodes on the left side of the diamond overlap. Guide the other wire to the right corner of the diamond and wrap the wire so it goes around the diode leads. The wires from the transformer will supply power to the circuit. Make sure the wires have firm connections to the diodes or else the current won\u2019t be as strong. It doesn\u2019t matter which wire you attach to each corner."
+                },
+                {
+                    "headline": "Wrap wires around the left and right of the diamond.",
+                    "description": "Choose copper wires with differently colored insulation for the lines that the DC signal runs through. Wrap the end of 1 wire around the left corner of the diamond so it goes around both of the diode leads. Then attach the second wire to the diode leads at the right corner of the rectifier so it\u2019s secure. Guide the wires toward the right side of the perfboard so they\u2019re away from the transformer.The leads connected to the left and right carry the DC signal away from the rectifier."
+                },
+                {
+                    "headline": "Solder the wire connections so they stay in place.",
+                    "description": "Heat your soldering iron and hold it against the bottom of one of the rectifier\u2019s corners. Place solder on top of the wire connections so it starts melting over the connection. Put enough solder on the connection so you can\u2019t see the wires underneath it. Repeat the process with the rest of the corners on the diamond. You can buy solder and a soldering gun from your local hardware store.Warning: Be careful while you\u2019re using a soldering iron since the end can get extremely hot and cause severe burns."
+                },
+                {
+                    "headline": "Attach a capacitor filter to the wires leading away from the diodes.",
+                    "description": "When the AC signal runs through the rectifier, the DC signal will come in pulses that don\u2019t have consistent voltage. A capacitor filter stores energy and allows the current to smooth out so it\u2019s more consistent. Attach the positive end of the capacitor to the wire coming from the right corner of the diamond and the negative end to the wire coming from the right side.You can buy capacitor filters from an electronics store or online. You can solder an additional wire to the ends of the capacitor filter if you want to run wires to a device. You don\u2019t need a capacitor filter on your circuit, but if you don't have one, the current running through it won\u2019t be consistent."
+                },
+                {
+                    "headline": "Connect the red and black wires on the transformer to an AC power source.",
+                    "description": "The transformer will have a red wire and black wire that attach to a power source and provide a current through the circuit. Attach the red and black wires to the positive and negative terminals on a power supply, such as an outlet, battery, or generator so electricity runs through the circuit and converts it to a DC signal.Be extremely careful connecting the circuit to power since it could shock or electrocute you depending on the current\u2019s strength."
+                },
+                {
+                    "headline": "Use a multimeter to check the DC voltage on the wires.",
+                    "description": "Turn your multimeter so the dial points at the \u201cDCV\u201d or \u201cV\u2013\u201d option. Plug the leads into your multimeter and hold the pins against the positive and negative sides of the capacitor filter. The reading on the display will be the DC voltage converted from the original AC supply.You can also attach a DC-powered lightbulb to the wires on your capacitor filter to see if it lights up. If the light stays on consistently, then the converter worked."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Converting AC to DC Mathematically",
+        "Multimeter",
+        "Building an AC to DC Circuit",
+        "Perfboard",
+        "Step-down transformer",
+        "Nuts and bolts",
+        "1N4007 diodes",
+        "Insulated copper wires",
+        "1000uF capacitor",
+        "Soldering gun",
+        "Solder"
+    ],
+    "text": " Converting AC to DC Mathematically Find the AC voltage of the power source with a multimeter. Attach the multimeter leads to the ports on the bottom or side of your multimeter. Set your multimeter so the arrow points at the \u201cACV\u201d or \u201cV~\u201d option for measuring the AC voltage. Hold the pins against the positive and negative terminals of the power source you\u2019re measuring and check the reading on the multimeter display. Write down the number so you can remember it easily. It doesn\u2019t matter which pin you hold against each terminal. Never use a multimeter if the rubber around the pins has damage or tears since you could risk electrocuting yourself. Divide the AC voltage by the square root of 2 to find the DC voltage. Since an AC power supply sends voltage in alternating waves, DC voltage will be lower once you convert it. Write out the formula VAC/\u221a(2) and replace VAC with the AC voltage you found with your multimeter. Use a calculator to solve your equation if you want the most precise answer. For example, if the AC power source has 120 V, then your formula would be 120/\u221a(2) = 84.85 V in a DC signal.Tip: If you don\u2019t have a calculator, you can round \u221a(2) to 1.4 to make your calculation easier. Know that the actual DC output will be less than your calculation. The DC voltage you calculated is known as the theoretical voltage since that\u2019s how much the current would have if it were perfect. However, currents have a voltage drop when they\u2019re converted or connected to a device so they won\u2019t have the full amount you found. If you want to find the actual output, you\u2019ll need to check with a multimeter by holding the pins against the positive and negative terminals on the device. Voltage drop may cause electronics not to work if there are not enough volts running through it. Building an AC to DC Circuit Attach a step-down transformer to the left side of a perfboard. A step-down transformer is a small electrical device that has wires with differing numbers of coils to lower the voltage from a supply to the output. For a simple converter circuit, look for a transformer that\u2019s rated for at least 13 V so you can drop the input power lower. Place the transformer on a piece of perfboard, which has a grid of holes drilled into it and is used for prototyping circuits. Connect the transformer to the perfboard using nuts and bolts to secure it in place. You can buy transformers and perfboard from an electronics supply store or online. If you want to raise the voltage, then you can use a step-up transformer instead. Arrange 4 diodes in a diamond shape to the right of the transformer. Diodes allow electricity to go through them in 1 direction, but they block the current from going the other way. Place the first diode at a 45-degree angle so the positive end points away from you and to the left. Place another diode next to the first one so they form a corner and the negative end points at a 45-degree angle to the right. Form the top of the diamond so the diode on the left has the negative side pointing up and the diode on the right has the positive side pointing up. The diamond pattern of the diodes is known as a bridge rectifier and allows the circuit to transfer the positive and negative outputs of the AC signal. You can buy diodes from an electronics supply store or online. Make sure the diodes are pointing in the right directions or else the current won\u2019t be able to flow through them. You can use hot glue to secure the diodes to the perfboard if you want, but it\u2019s not required. Connect the transformer leads to the left and right corners of the diamond. Your transformer will have a red and black wire that connects to the power supply and 2 more wires on the bottom that connect to the rectifier. Wrap the exposed end of one of the wires where the diodes on the left side of the diamond overlap. Guide the other wire to the right corner of the diamond and wrap the wire so it goes around the diode leads. The wires from the transformer will supply power to the circuit. Make sure the wires have firm connections to the diodes or else the current won\u2019t be as strong. It doesn\u2019t matter which wire you attach to each corner. Wrap wires around the left and right of the diamond. Choose copper wires with differently colored insulation for the lines that the DC signal runs through. Wrap the end of 1 wire around the left corner of the diamond so it goes around both of the diode leads. Then attach the second wire to the diode leads at the right corner of the rectifier so it\u2019s secure. Guide the wires toward the right side of the perfboard so they\u2019re away from the transformer.The leads connected to the left and right carry the DC signal away from the rectifier. Solder the wire connections so they stay in place. Heat your soldering iron and hold it against the bottom of one of the rectifier\u2019s corners. Place solder on top of the wire connections so it starts melting over the connection. Put enough solder on the connection so you can\u2019t see the wires underneath it. Repeat the process with the rest of the corners on the diamond. You can buy solder and a soldering gun from your local hardware store.Warning: Be careful while you\u2019re using a soldering iron since the end can get extremely hot and cause severe burns. Attach a capacitor filter to the wires leading away from the diodes. When the AC signal runs through the rectifier, the DC signal will come in pulses that don\u2019t have consistent voltage. A capacitor filter stores energy and allows the current to smooth out so it\u2019s more consistent. Attach the positive end of the capacitor to the wire coming from the right corner of the diamond and the negative end to the wire coming from the right side.You can buy capacitor filters from an electronics store or online. You can solder an additional wire to the ends of the capacitor filter if you want to run wires to a device. You don\u2019t need a capacitor filter on your circuit, but if you don't have one, the current running through it won\u2019t be consistent. Connect the red and black wires on the transformer to an AC power source. The transformer will have a red wire and black wire that attach to a power source and provide a current through the circuit. Attach the red and black wires to the positive and negative terminals on a power supply, such as an outlet, battery, or generator so electricity runs through the circuit and converts it to a DC signal.Be extremely careful connecting the circuit to power since it could shock or electrocute you depending on the current\u2019s strength. Use a multimeter to check the DC voltage on the wires. Turn your multimeter so the dial points at the \u201cDCV\u201d or \u201cV\u2013\u201d option. Plug the leads into your multimeter and hold the pins against the positive and negative sides of the capacitor filter. The reading on the display will be the DC voltage converted from the original AC supply.You can also attach a DC-powered lightbulb to the wires on your capacitor filter to see if it lights up. If the light stays on consistently, then the converter worked.",
+    "sentences": [
+        " Converting AC to DC Mathematically Find the AC voltage of the power source with a multimeter.",
+        "Attach the multimeter leads to the ports on the bottom or side of your multimeter.",
+        "Set your multimeter so the arrow points at the \u201cACV\u201d or \u201cV~\u201d option for measuring the AC voltage.",
+        "Hold the pins against the positive and negative terminals of the power source you\u2019re measuring and check the reading on the multimeter display.",
+        "Write down the number so you can remember it easily.",
+        "It doesn\u2019t matter which pin you hold against each terminal.",
+        "Never use a multimeter if the rubber around the pins has damage or tears since you could risk electrocuting yourself.",
+        "Divide the AC voltage by the square root of 2 to find the DC voltage.",
+        "Since an AC power supply sends voltage in alternating waves, DC voltage will be lower once you convert it.",
+        "Write out the formula VAC/\u221a(2) and replace VAC with the AC voltage you found with your multimeter.",
+        "Use a calculator to solve your equation if you want the most precise answer.",
+        "For example, if the AC power source has 120 V, then your formula would be 120/\u221a(2) = 84.85 V in a DC signal.Tip: If you don\u2019t have a calculator, you can round \u221a(2) to 1.4 to make your calculation easier.",
+        "Know that the actual DC output will be less than your calculation.",
+        "The DC voltage you calculated is known as the theoretical voltage since that\u2019s how much the current would have if it were perfect.",
+        "However, currents have a voltage drop when they\u2019re converted or connected to a device so they won\u2019t have the full amount you found.",
+        "If you want to find the actual output, you\u2019ll need to check with a multimeter by holding the pins against the positive and negative terminals on the device.",
+        "Voltage drop may cause electronics not to work if there are not enough volts running through it.",
+        "Building an AC to DC Circuit Attach a step-down transformer to the left side of a perfboard.",
+        "A step-down transformer is a small electrical device that has wires with differing numbers of coils to lower the voltage from a supply to the output.",
+        "For a simple converter circuit, look for a transformer that\u2019s rated for at least 13 V so you can drop the input power lower.",
+        "Place the transformer on a piece of perfboard, which has a grid of holes drilled into it and is used for prototyping circuits.",
+        "Connect the transformer to the perfboard using nuts and bolts to secure it in place.",
+        "You can buy transformers and perfboard from an electronics supply store or online.",
+        "If you want to raise the voltage, then you can use a step-up transformer instead.",
+        "Arrange 4 diodes in a diamond shape to the right of the transformer.",
+        "Diodes allow electricity to go through them in 1 direction, but they block the current from going the other way.",
+        "Place the first diode at a 45-degree angle so the positive end points away from you and to the left.",
+        "Place another diode next to the first one so they form a corner and the negative end points at a 45-degree angle to the right.",
+        "Form the top of the diamond so the diode on the left has the negative side pointing up and the diode on the right has the positive side pointing up.",
+        "The diamond pattern of the diodes is known as a bridge rectifier and allows the circuit to transfer the positive and negative outputs of the AC signal.",
+        "You can buy diodes from an electronics supply store or online.",
+        "Make sure the diodes are pointing in the right directions or else the current won\u2019t be able to flow through them.",
+        "You can use hot glue to secure the diodes to the perfboard if you want, but it\u2019s not required.",
+        "Connect the transformer leads to the left and right corners of the diamond.",
+        "Your transformer will have a red and black wire that connects to the power supply and 2 more wires on the bottom that connect to the rectifier.",
+        "Wrap the exposed end of one of the wires where the diodes on the left side of the diamond overlap.",
+        "Guide the other wire to the right corner of the diamond and wrap the wire so it goes around the diode leads.",
+        "The wires from the transformer will supply power to the circuit.",
+        "Make sure the wires have firm connections to the diodes or else the current won\u2019t be as strong.",
+        "It doesn\u2019t matter which wire you attach to each corner.",
+        "Wrap wires around the left and right of the diamond.",
+        "Choose copper wires with differently colored insulation for the lines that the DC signal runs through.",
+        "Wrap the end of 1 wire around the left corner of the diamond so it goes around both of the diode leads.",
+        "Then attach the second wire to the diode leads at the right corner of the rectifier so it\u2019s secure.",
+        "Guide the wires toward the right side of the perfboard so they\u2019re away from the transformer.The leads connected to the left and right carry the DC signal away from the rectifier.",
+        "Solder the wire connections so they stay in place.",
+        "Heat your soldering iron and hold it against the bottom of one of the rectifier\u2019s corners.",
+        "Place solder on top of the wire connections so it starts melting over the connection.",
+        "Put enough solder on the connection so you can\u2019t see the wires underneath it.",
+        "Repeat the process with the rest of the corners on the diamond.",
+        "You can buy solder and a soldering gun from your local hardware store.Warning: Be careful while you\u2019re using a soldering iron since the end can get extremely hot and cause severe burns.",
+        "Attach a capacitor filter to the wires leading away from the diodes.",
+        "When the AC signal runs through the rectifier, the DC signal will come in pulses that don\u2019t have consistent voltage.",
+        "A capacitor filter stores energy and allows the current to smooth out so it\u2019s more consistent.",
+        "Attach the positive end of the capacitor to the wire coming from the right corner of the diamond and the negative end to the wire coming from the right side.You can buy capacitor filters from an electronics store or online.",
+        "You can solder an additional wire to the ends of the capacitor filter if you want to run wires to a device.",
+        "You don\u2019t need a capacitor filter on your circuit, but if you don't have one, the current running through it won\u2019t be consistent.",
+        "Connect the red and black wires on the transformer to an AC power source.",
+        "The transformer will have a red wire and black wire that attach to a power source and provide a current through the circuit.",
+        "Attach the red and black wires to the positive and negative terminals on a power supply, such as an outlet, battery, or generator so electricity runs through the circuit and converts it to a DC signal.Be extremely careful connecting the circuit to power since it could shock or electrocute you depending on the current\u2019s strength.",
+        "Use a multimeter to check the DC voltage on the wires.",
+        "Turn your multimeter so the dial points at the \u201cDCV\u201d or \u201cV\u2013\u201d option.",
+        "Plug the leads into your multimeter and hold the pins against the positive and negative sides of the capacitor filter.",
+        "The reading on the display will be the DC voltage converted from the original AC supply.You can also attach a DC-powered lightbulb to the wires on your capacitor filter to see if it lights up.",
+        "If the light stays on consistently, then the converter worked."
+    ]
+}

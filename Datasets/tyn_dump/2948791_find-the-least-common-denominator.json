@@ -1,0 +1,197 @@
+{
+    "title": "How to Find the Least Common Denominator",
+    "url": "https://www.wikihow.com/Find-the-Least-Common-Denominator",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Fractions"
+    ],
+    "methods": [
+        {
+            "name": "Listing Multiples",
+            "steps": [
+                {
+                    "headline": "List the multiples of each denominator.",
+                    "description": "Make a list of several multiples for each denominator in the equation. Each list should consist of the denominator numeral multiplied by 1, 2, 3, 4, and so on. Example: 1/2 + 1/3 + 1/5\n\nMultiples of 2: 2 * 1 = 2; 2 * 2 = 4; 2 * 3 = 6; 2 * 4 = 8; 2 * 5 = 10; 2 * 6 = 12; 2 * 7 = 14; etc. Multiples of 3: 3 * 1 = 3; 3 * 2 = 6; 3 *3 = 9; 3 * 4 = 12; 3 * 5 = 15; 3 * 6 = 18; 3 * 7 = 21; etc. Multiples of 5: 5 * 1 = 5; 5 * 2 = 10; 5 * 3 = 15; 5 * 4 = 20; 5 * 5 = 25; 5 * 6 = 30; 5 * 7 = 35; etc."
+                },
+                {
+                    "headline": "Identify the lowest common multiple.",
+                    "description": "Scan through each list and mark any multiples that are shared by all of the original denominators. After identifying the common multiples, identify the lowest multiple common to all the denominators. Note that if no common multiple exists at this point, you may need to continue writing out multiples until you eventually come across a shared multiple. This method is easier to use when small numbers are present in the denominator. In this example, the denominators only share one multiple and it is 30: 2 * 15 = 30; 3 * 10 = 30; 5 * 6 = 30\n\nThe LCD = 30"
+                },
+                {
+                    "headline": "Rewrite the original equation.",
+                    "description": "In order to change each fraction in the equation so that it remains true to the original equation, you will need to multiply each numerator (the top of the fraction) and denominator by the same factor used to multiply the corresponding denominator when reaching the LCD. Example: (15/15) * (1/2); (10/10) * (1/3); (6/6) * (1/5)\nNew equation: 15/30 + 10/30 + 6/30"
+                },
+                {
+                    "headline": "Solve the rewritten problem.",
+                    "description": "After finding the LCD and changing the fractions accordingly, you should be able to solve the problem without further difficulty. Remember to simplify the fraction at the end. Example: 15/30 + 10/30 + 6/30 = 31/30 = 1 1/30"
+                }
+            ]
+        },
+        {
+            "name": "Using the Greatest Common Factor [2]\n\tX\n\t\tResearch source",
+            "steps": [
+                {
+                    "headline": "List all of the factors of each denominator.",
+                    "description": "The factors of a number are all of the whole numbers that are evenly divisible into that number. The number 6 has four factors: 6, 3, 2, and 1. (Every number has a factor of 1, because every number can be evenly divided by 1.) For example: 3/8 + 5/12. Factors of 8: 1, 2, 4, and 8\nFactors of 12: 1, 2, 3, 4, 6, 12"
+                },
+                {
+                    "headline": "Identify the greatest common factor between both denominators.",
+                    "description": "Once you have listed the factors of each denominator, circle all of the common factors. The largest of the common factors is the greatest common factor (GCF) that will be used to continue solving the problem. In our example, 8 and 12 share the factors 1, 2, and 4. The greatest common factor is 4."
+                },
+                {
+                    "headline": "Multiply the denominators together.",
+                    "description": "In order to use the greatest common factor to solve the problem, you must first multiply the two denominators together. Continuing our example: 8 * 12 = 96"
+                },
+                {
+                    "headline": "Divide this product by the GCF.",
+                    "description": "After finding the product of the two denominators, divide that product by the GCF you found previously. This number will be your least common denominator (LCD). Example: 96 / 4 = 24"
+                },
+                {
+                    "headline": "Divide the LCD by the original denominator.",
+                    "description": "To determine the multiple needed to make the denominators equal, divide the LCD you determined by the original denominator. Multiply the numerator and the denominator of each fraction by this number. The denominators should now both be equal to the LCD. Example: 24 / 8 = 3; 24 / 12 = 2\n(3/3) * (3/8) = 9/24; (2/2) * (5/12) = 10/24\n9/24 + 10/24"
+                },
+                {
+                    "headline": "Solve the rewritten equation.",
+                    "description": "With the LCD found, you should be able to add and subtract the fractions in the equation without further difficulty. Remember to simplify the fraction at the end, if possible. Example: 9/24 + 10/24 = 19/24"
+                }
+            ]
+        },
+        {
+            "name": "Factoring Each Denominator into Primes[4]\n\tX\n\t\tResearch source",
+            "steps": [
+                {
+                    "headline": "Break each denominator into prime numbers.",
+                    "description": "Factor each denominator digit into a series of prime numbers that multiply together to make that number. Prime numbers are numbers that cannot be divided by any other number. Example: 1/4 + 1/5 + 1/12\n\nPrime factorization of 4: 2 * 2\n\nPrime factorization of 5: 5\n\nPrime factorization of 12: 2 * 2 * 3"
+                },
+                {
+                    "headline": "Count the number of times each prime appears in each factorization.",
+                    "description": "Tally up the number of times that each prime number appears in the factorization of each denominator digit. Example: There are two 2\u2019s in 4; zero 2\u2019s in 5; two 2\u2019s in 12\nThere are zero 3\u2019s in 4 and 5; one 3 in 12\nThere are zero 5\u2019s in 4 and 12; one 5 in 5"
+                },
+                {
+                    "headline": "Take the largest count for each prime.",
+                    "description": "Identify the largest number of times you used each prime number for any of the denominators and note that count. Example: The largest count of 2 is two; the largest of 3 is one; the largest of 5 is one"
+                },
+                {
+                    "headline": "Write that prime as many times as you counted in the previous step.",
+                    "description": "Do not write out the number of times each prime number appeared throughout all the original denominators. Only write out the largest count, as determined in the previous step. Example: 2, 2, 3, 5"
+                },
+                {
+                    "headline": "Multiply all the prime numbers written in this manner.",
+                    "description": "Multiply the prime numbers together as they appeared in the previous step. The product of these numbers equals the LCD for the original equation. Example: 2 * 2 * 3 * 5 = 60\nLCD = 60"
+                },
+                {
+                    "headline": "Divide the LCD by the original denominator.",
+                    "description": "To determine the multiple needed to make the denominators equal, divide the LCD you determined by the original denominator. Multiply the numerator and the denominator of each fraction by this number. The denominators should now both be equal to the LCD. Example: 60/4 = 15; 60/5 = 12; 60/12 = 5\n15 * (1/4) = 15/60; 12 * (1/5) = 12/60; 5 * (1/12) = 5/60\n15/60 + 12/60 + 5/60"
+                },
+                {
+                    "headline": "Solve the rewritten equation.",
+                    "description": "With the LCD found, you should be able to add and subtract the fractions as usual. Remember to simplify the fraction at the end, if possible. Example: 15/60 + 12/60 + 5/60 = 32/60 = 8/15"
+                }
+            ]
+        },
+        {
+            "name": "Working with Integers and Mixed Numbers[6]\n\tX\n\t\tResearch source",
+            "steps": [
+                {
+                    "headline": "Convert each integer and mixed number into an improper fraction.",
+                    "description": "Convert mixed numbers into improper fractions by multiplying the integer by the denominator and adding the numerator to the product. Convert integers into improper fractions by placing the integer over a denominator of \u201c1.\u201d\nExample: 8 + 2 1/4 + 2/3\n8 = 8/1\n2 1/4; 2 * 4 + 1 = 8 + 1 = 9; 9/4\n\nRewritten equation: 8/1 + 9/4 + 2/3"
+                },
+                {
+                    "headline": "Find the least common denominator.",
+                    "description": "Implement any of the methods used for finding the LCD of common fractions, as explained in the previous method sections. Note that for this example, we will be using the \u201clisting multiples\u201d method, in which a list of multiples is created for each denominator and the LCD is identified from these lists. Note that you do not need to create a list of multiples for 1 since any number multiplied by 1 equals itself; in other words, every number is a multiple of 1. Example: 4 * 1 = 4; 4 * 2 = 8; 4 * 3 = 12; 4 * 4 = 16; etc. 3 * 1 = 3; 3 * 2 = 6; 3 * 3 = 9; 3 * 4 = 12; etc. The LCD = 12"
+                },
+                {
+                    "headline": "Rewrite the original equation.",
+                    "description": "Instead of multiplying the denominator alone, you must multiply the entire fraction by the digit required for changing the original denominator into the LCD. Example: (12/12) * (8/1) = 96/12; (3/3) * (9/4) = 27/12; (4/4) * (2/3) = 8/12\n96/12 + 27/12 + 8/12"
+                },
+                {
+                    "headline": "Solve the equation.",
+                    "description": "With the LCD determined and the original equation changed to reflect the LCD, you should be able to add and subtract without difficulty. Remember to simplify the fraction at the end, if possible. Example: 96/12 + 27/12 + 8/12 = 131/12 = 10 11/12"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil",
+        "Paper",
+        "Calculator (optional)"
+    ],
+    "text": " Listing Multiples List the multiples of each denominator. Make a list of several multiples for each denominator in the equation. Each list should consist of the denominator numeral multiplied by 1, 2, 3, 4, and so on. Example: 1/2 + 1/3 + 1/5\n\nMultiples of 2: 2 * 1 = 2; 2 * 2 = 4; 2 * 3 = 6; 2 * 4 = 8; 2 * 5 = 10; 2 * 6 = 12; 2 * 7 = 14; etc. Multiples of 3: 3 * 1 = 3; 3 * 2 = 6; 3 *3 = 9; 3 * 4 = 12; 3 * 5 = 15; 3 * 6 = 18; 3 * 7 = 21; etc. Multiples of 5: 5 * 1 = 5; 5 * 2 = 10; 5 * 3 = 15; 5 * 4 = 20; 5 * 5 = 25; 5 * 6 = 30; 5 * 7 = 35; etc. Identify the lowest common multiple. Scan through each list and mark any multiples that are shared by all of the original denominators. After identifying the common multiples, identify the lowest multiple common to all the denominators. Note that if no common multiple exists at this point, you may need to continue writing out multiples until you eventually come across a shared multiple. This method is easier to use when small numbers are present in the denominator. In this example, the denominators only share one multiple and it is 30: 2 * 15 = 30; 3 * 10 = 30; 5 * 6 = 30\n\nThe LCD = 30 Rewrite the original equation. In order to change each fraction in the equation so that it remains true to the original equation, you will need to multiply each numerator (the top of the fraction) and denominator by the same factor used to multiply the corresponding denominator when reaching the LCD. Example: (15/15) * (1/2); (10/10) * (1/3); (6/6) * (1/5)\nNew equation: 15/30 + 10/30 + 6/30 Solve the rewritten problem. After finding the LCD and changing the fractions accordingly, you should be able to solve the problem without further difficulty. Remember to simplify the fraction at the end. Example: 15/30 + 10/30 + 6/30 = 31/30 = 1 1/30 Using the Greatest Common Factor [2]\n\tX\n\t\tResearch source List all of the factors of each denominator. The factors of a number are all of the whole numbers that are evenly divisible into that number. The number 6 has four factors: 6, 3, 2, and 1. (Every number has a factor of 1, because every number can be evenly divided by 1.) For example: 3/8 + 5/12. Factors of 8: 1, 2, 4, and 8\nFactors of 12: 1, 2, 3, 4, 6, 12 Identify the greatest common factor between both denominators. Once you have listed the factors of each denominator, circle all of the common factors. The largest of the common factors is the greatest common factor (GCF) that will be used to continue solving the problem. In our example, 8 and 12 share the factors 1, 2, and 4. The greatest common factor is 4. Multiply the denominators together. In order to use the greatest common factor to solve the problem, you must first multiply the two denominators together. Continuing our example: 8 * 12 = 96 Divide this product by the GCF. After finding the product of the two denominators, divide that product by the GCF you found previously. This number will be your least common denominator (LCD). Example: 96 / 4 = 24 Divide the LCD by the original denominator. To determine the multiple needed to make the denominators equal, divide the LCD you determined by the original denominator. Multiply the numerator and the denominator of each fraction by this number. The denominators should now both be equal to the LCD. Example: 24 / 8 = 3; 24 / 12 = 2\n(3/3) * (3/8) = 9/24; (2/2) * (5/12) = 10/24\n9/24 + 10/24 Solve the rewritten equation. With the LCD found, you should be able to add and subtract the fractions in the equation without further difficulty. Remember to simplify the fraction at the end, if possible. Example: 9/24 + 10/24 = 19/24 Factoring Each Denominator into Primes[4]\n\tX\n\t\tResearch source Break each denominator into prime numbers. Factor each denominator digit into a series of prime numbers that multiply together to make that number. Prime numbers are numbers that cannot be divided by any other number. Example: 1/4 + 1/5 + 1/12\n\nPrime factorization of 4: 2 * 2\n\nPrime factorization of 5: 5\n\nPrime factorization of 12: 2 * 2 * 3 Count the number of times each prime appears in each factorization. Tally up the number of times that each prime number appears in the factorization of each denominator digit. Example: There are two 2\u2019s in 4; zero 2\u2019s in 5; two 2\u2019s in 12\nThere are zero 3\u2019s in 4 and 5; one 3 in 12\nThere are zero 5\u2019s in 4 and 12; one 5 in 5 Take the largest count for each prime. Identify the largest number of times you used each prime number for any of the denominators and note that count. Example: The largest count of 2 is two; the largest of 3 is one; the largest of 5 is one Write that prime as many times as you counted in the previous step. Do not write out the number of times each prime number appeared throughout all the original denominators. Only write out the largest count, as determined in the previous step. Example: 2, 2, 3, 5 Multiply all the prime numbers written in this manner. Multiply the prime numbers together as they appeared in the previous step. The product of these numbers equals the LCD for the original equation. Example: 2 * 2 * 3 * 5 = 60\nLCD = 60 Divide the LCD by the original denominator. To determine the multiple needed to make the denominators equal, divide the LCD you determined by the original denominator. Multiply the numerator and the denominator of each fraction by this number. The denominators should now both be equal to the LCD. Example: 60/4 = 15; 60/5 = 12; 60/12 = 5\n15 * (1/4) = 15/60; 12 * (1/5) = 12/60; 5 * (1/12) = 5/60\n15/60 + 12/60 + 5/60 Solve the rewritten equation. With the LCD found, you should be able to add and subtract the fractions as usual. Remember to simplify the fraction at the end, if possible. Example: 15/60 + 12/60 + 5/60 = 32/60 = 8/15 Working with Integers and Mixed Numbers[6]\n\tX\n\t\tResearch source Convert each integer and mixed number into an improper fraction. Convert mixed numbers into improper fractions by multiplying the integer by the denominator and adding the numerator to the product. Convert integers into improper fractions by placing the integer over a denominator of \u201c1.\u201d\nExample: 8 + 2 1/4 + 2/3\n8 = 8/1\n2 1/4; 2 * 4 + 1 = 8 + 1 = 9; 9/4\n\nRewritten equation: 8/1 + 9/4 + 2/3 Find the least common denominator. Implement any of the methods used for finding the LCD of common fractions, as explained in the previous method sections. Note that for this example, we will be using the \u201clisting multiples\u201d method, in which a list of multiples is created for each denominator and the LCD is identified from these lists. Note that you do not need to create a list of multiples for 1 since any number multiplied by 1 equals itself; in other words, every number is a multiple of 1. Example: 4 * 1 = 4; 4 * 2 = 8; 4 * 3 = 12; 4 * 4 = 16; etc. 3 * 1 = 3; 3 * 2 = 6; 3 * 3 = 9; 3 * 4 = 12; etc. The LCD = 12 Rewrite the original equation. Instead of multiplying the denominator alone, you must multiply the entire fraction by the digit required for changing the original denominator into the LCD. Example: (12/12) * (8/1) = 96/12; (3/3) * (9/4) = 27/12; (4/4) * (2/3) = 8/12\n96/12 + 27/12 + 8/12 Solve the equation. With the LCD determined and the original equation changed to reflect the LCD, you should be able to add and subtract without difficulty. Remember to simplify the fraction at the end, if possible. Example: 96/12 + 27/12 + 8/12 = 131/12 = 10 11/12",
+    "sentences": [
+        " Listing Multiples List the multiples of each denominator.",
+        "Make a list of several multiples for each denominator in the equation.",
+        "Each list should consist of the denominator numeral multiplied by 1, 2, 3, 4, and so on.",
+        "Example: 1/2 + 1/3 + 1/5\n\nMultiples of 2: 2 * 1 = 2; 2 * 2 = 4; 2 * 3 = 6; 2 * 4 = 8; 2 * 5 = 10; 2 * 6 = 12; 2 * 7 = 14; etc.",
+        "Multiples of 3: 3 * 1 = 3; 3 * 2 = 6; 3 *3 = 9; 3 * 4 = 12; 3 * 5 = 15; 3 * 6 = 18; 3 * 7 = 21; etc.",
+        "Multiples of 5: 5 * 1 = 5; 5 * 2 = 10; 5 * 3 = 15; 5 * 4 = 20; 5 * 5 = 25; 5 * 6 = 30; 5 * 7 = 35; etc.",
+        "Identify the lowest common multiple.",
+        "Scan through each list and mark any multiples that are shared by all of the original denominators.",
+        "After identifying the common multiples, identify the lowest multiple common to all the denominators.",
+        "Note that if no common multiple exists at this point, you may need to continue writing out multiples until you eventually come across a shared multiple.",
+        "This method is easier to use when small numbers are present in the denominator.",
+        "In this example, the denominators only share one multiple and it is 30: 2 * 15 = 30; 3 * 10 = 30; 5 * 6 = 30\n\nThe LCD = 30 Rewrite the original equation.",
+        "In order to change each fraction in the equation so that it remains true to the original equation, you will need to multiply each numerator (the top of the fraction) and denominator by the same factor used to multiply the corresponding denominator when reaching the LCD.",
+        "Example: (15/15) * (1/2); (10/10) * (1/3); (6/6) * (1/5)\nNew equation: 15/30 + 10/30 + 6/30 Solve the rewritten problem.",
+        "After finding the LCD and changing the fractions accordingly, you should be able to solve the problem without further difficulty.",
+        "Remember to simplify the fraction at the end.",
+        "Example: 15/30 + 10/30 + 6/30 = 31/30 = 1 1/30 Using the Greatest Common Factor [2]\n\tX\n\t\tResearch source List all of the factors of each denominator.",
+        "The factors of a number are all of the whole numbers that are evenly divisible into that number.",
+        "The number 6 has four factors: 6, 3, 2, and 1.",
+        "(Every number has a factor of 1, because every number can be evenly divided by 1.)",
+        "For example: 3/8 + 5/12.",
+        "Factors of 8: 1, 2, 4, and 8\nFactors of 12: 1, 2, 3, 4, 6, 12 Identify the greatest common factor between both denominators.",
+        "Once you have listed the factors of each denominator, circle all of the common factors.",
+        "The largest of the common factors is the greatest common factor (GCF) that will be used to continue solving the problem.",
+        "In our example, 8 and 12 share the factors 1, 2, and 4.",
+        "The greatest common factor is 4.",
+        "Multiply the denominators together.",
+        "In order to use the greatest common factor to solve the problem, you must first multiply the two denominators together.",
+        "Continuing our example: 8 * 12 = 96 Divide this product by the GCF.",
+        "After finding the product of the two denominators, divide that product by the GCF you found previously.",
+        "This number will be your least common denominator (LCD).",
+        "Example: 96 / 4 = 24 Divide the LCD by the original denominator.",
+        "To determine the multiple needed to make the denominators equal, divide the LCD you determined by the original denominator.",
+        "Multiply the numerator and the denominator of each fraction by this number.",
+        "The denominators should now both be equal to the LCD.",
+        "Example: 24 / 8 = 3; 24 / 12 = 2\n(3/3) * (3/8) = 9/24; (2/2) * (5/12) = 10/24\n9/24 + 10/24 Solve the rewritten equation.",
+        "With the LCD found, you should be able to add and subtract the fractions in the equation without further difficulty.",
+        "Remember to simplify the fraction at the end, if possible.",
+        "Example: 9/24 + 10/24 = 19/24 Factoring Each Denominator into Primes[4]\n\tX\n\t\tResearch source Break each denominator into prime numbers.",
+        "Factor each denominator digit into a series of prime numbers that multiply together to make that number.",
+        "Prime numbers are numbers that cannot be divided by any other number.",
+        "Example: 1/4 + 1/5 + 1/12\n\nPrime factorization of 4: 2 * 2\n\nPrime factorization of 5: 5\n\nPrime factorization of 12: 2 * 2 * 3 Count the number of times each prime appears in each factorization.",
+        "Tally up the number of times that each prime number appears in the factorization of each denominator digit.",
+        "Example: There are two 2\u2019s in 4; zero 2\u2019s in 5; two 2\u2019s in 12\nThere are zero 3\u2019s in 4 and 5; one 3 in 12\nThere are zero 5\u2019s in 4 and 12; one 5 in 5 Take the largest count for each prime.",
+        "Identify the largest number of times you used each prime number for any of the denominators and note that count.",
+        "Example: The largest count of 2 is two; the largest of 3 is one; the largest of 5 is one Write that prime as many times as you counted in the previous step.",
+        "Do not write out the number of times each prime number appeared throughout all the original denominators.",
+        "Only write out the largest count, as determined in the previous step.",
+        "Example: 2, 2, 3, 5 Multiply all the prime numbers written in this manner.",
+        "Multiply the prime numbers together as they appeared in the previous step.",
+        "The product of these numbers equals the LCD for the original equation.",
+        "Example: 2 * 2 * 3 * 5 = 60\nLCD = 60 Divide the LCD by the original denominator.",
+        "To determine the multiple needed to make the denominators equal, divide the LCD you determined by the original denominator.",
+        "Multiply the numerator and the denominator of each fraction by this number.",
+        "The denominators should now both be equal to the LCD.",
+        "Example: 60/4 = 15; 60/5 = 12; 60/12 = 5\n15 * (1/4) = 15/60; 12 * (1/5) = 12/60; 5 * (1/12) = 5/60\n15/60 + 12/60 + 5/60 Solve the rewritten equation.",
+        "With the LCD found, you should be able to add and subtract the fractions as usual.",
+        "Remember to simplify the fraction at the end, if possible.",
+        "Example: 15/60 + 12/60 + 5/60 = 32/60 = 8/15 Working with Integers and Mixed Numbers[6]\n\tX\n\t\tResearch source Convert each integer and mixed number into an improper fraction.",
+        "Convert mixed numbers into improper fractions by multiplying the integer by the denominator and adding the numerator to the product.",
+        "Convert integers into improper fractions by placing the integer over a denominator of \u201c1.\u201d\nExample: 8 + 2 1/4 + 2/3\n8 = 8/1\n2 1/4; 2 * 4 + 1 = 8 + 1 = 9; 9/4\n\nRewritten equation: 8/1 + 9/4 + 2/3 Find the least common denominator.",
+        "Implement any of the methods used for finding the LCD of common fractions, as explained in the previous method sections.",
+        "Note that for this example, we will be using the \u201clisting multiples\u201d method, in which a list of multiples is created for each denominator and the LCD is identified from these lists.",
+        "Note that you do not need to create a list of multiples for 1 since any number multiplied by 1 equals itself; in other words, every number is a multiple of 1.",
+        "Example: 4 * 1 = 4; 4 * 2 = 8; 4 * 3 = 12; 4 * 4 = 16; etc.",
+        "3 * 1 = 3; 3 * 2 = 6; 3 * 3 = 9; 3 * 4 = 12; etc.",
+        "The LCD = 12 Rewrite the original equation.",
+        "Instead of multiplying the denominator alone, you must multiply the entire fraction by the digit required for changing the original denominator into the LCD.",
+        "Example: (12/12) * (8/1) = 96/12; (3/3) * (9/4) = 27/12; (4/4) * (2/3) = 8/12\n96/12 + 27/12 + 8/12 Solve the equation.",
+        "With the LCD determined and the original equation changed to reflect the LCD, you should be able to add and subtract without difficulty.",
+        "Remember to simplify the fraction at the end, if possible.",
+        "Example: 96/12 + 27/12 + 8/12 = 131/12 = 10 11/12"
+    ]
+}

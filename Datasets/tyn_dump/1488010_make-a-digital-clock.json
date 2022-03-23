@@ -1,0 +1,124 @@
+{
+    "title": "How to Make a Digital Clock",
+    "url": "https://www.wikihow.com/Make-a-Digital-Clock",
+    "category_hierarchy": [
+        "Home and Garden",
+        "Home Decorating",
+        "Home Decor"
+    ],
+    "steps": [
+        {
+            "headline": "Identify an electronics parts supplier.",
+            "description": "Many suppliers are available on the Internet or through electronics supply catalogs. Choose a vendor that offers basic integrated circuits of the generic 74xx and 40xx families, and discrete components, such as resistors and capacitors."
+        },
+        {
+            "headline": "Acquire an electronics prototyping breadboard.",
+            "description": "If the breadboard does not come with clips, which are wires that can be plugged into the breadboard to connect integrated circuits, purchase the required clips."
+        },
+        {
+            "headline": "Get the data sheet for a 7805 regulator.",
+            "description": "The data sheet will show how to wire connect the 7805 and supporting discrete components."
+        },
+        {
+            "headline": "Create a 5 volt power source.",
+            "description": "Acquire the 7805 and support components and build them up on 1 corner of the breadboard. Consult the manufacturer's data sheet for the 7805 to get the required pin-to-pin wire connections for this circuit. Plug the components into the breadboard to physically support them."
+        },
+        {
+            "headline": "Define a 1 Hz time base.",
+            "description": "Find the data sheet for the 4060 multivibrator integrated circuit (IC). It will show how to wire the 4060 to operate as a time generator in conjunction with a 4013 flip flop IC. Support discrete components and the wiring of the support discrete components will be shown on the data sheets."
+        },
+        {
+            "headline": "Generate the 1 Hz time base.",
+            "description": "Acquire the 4060, 4013, breadboard sockets for those parts, and all discrete support components identified in the data sheets. Build the 1 Hz time base on 1 corner of the breadboard. Consult the manufacturer's data sheet for the 4060 to get the required pin-to-pin wire connections for this circuit. Plug the components into the breadboard to support them."
+        },
+        {
+            "headline": "Prepare the physical components of the clock.",
+            "description": "Mount 6 7490 counter ICs in a line on the breadboard. Mount 6 7447 display driver ICs in a line beside the 7490 ICs. Mount 6 light emitting diode (LED) displays in another line, arranged so that they are side by side as the digits of a digital clock should be. All of these devices must be plugged into breadboard sockets, which are in turn plugged into the breadboard."
+        },
+        {
+            "headline": "Connect the display drivers.",
+            "description": "Wire the 7447s to the LED displays and to the 7490s, as indicated in the device data sheets."
+        },
+        {
+            "headline": "Create the counter section.",
+            "description": "Refer to the 7490 data sheets. Wiring from the rightmost device to the leftmost device, wire the first 4 7490s as a count by 10, a count by 6, a count by 10, and a count by 6. Wire the fifth 7490 as a count by 2 and the sixth 7490 as a count by 1 for the 12-hour clock. Wire the fifth 7490 as a count by 4 and the sixth 7490 as a count by 2 for the 24-hour clock."
+        },
+        {
+            "headline": "Sequence the time clocking signals.",
+            "description": "Connect the 1 Hz time base of the clocking input (In B, pin 14) to the clocking input of the first 7490. This 7490 is the seconds counter. Wire pin 11 of the first 7490 to the clocking input of the second 7490. This 7490 is the tens of seconds counter. Provide the ability to set the minutes section of the counter. Wire the output from pin 8 of the second 7490 to the normally closed contact of a single pole double throw switch. Wire the normally open contact of the switch to the 1 Hz time base. Wire the wiper of the switch to the clock input of the third 7490. This 7490 is the minutes counter. Wire pin 11 of the third 7490 as the clocking input of the fourth 7490. This 7490 is the tens of minutes counter. Provide the ability to set the hours section of the counter. Wire the output from pin 8 of the fourth 7490 to the normally closed contact of a single pole double throw switch. Wire the normally open contact of the switch to the 1 Hz time base. Wire the wiper of the switch to the clock input of the fifth 7490. The fifth 7490 is the hours counter. Connect pin 6 or pin 7 of the fifth 7490 as the clocking input of the sixth 7490. This 7490 is the tens of hours counter. Use pin 6 of the fifth 7490 for the American 12-hour clock. Use pin 7 of the fifth 7490 for the 24-hour European clock."
+        },
+        {
+            "headline": "Attach the 12 volt battery to the 7805 regulator using the 12 volt battery socket.",
+            "description": ""
+        }
+    ],
+    "tyn": [
+        "Electronics breadboard with clips",
+        "Integrated circuit sockets for electronic breadboarding",
+        "Voltage regulator and support discrete electronics",
+        "Time base generator and support discrete electronics",
+        "Counter integrated circuits",
+        "Light Emitting Diode (LED) display driver integrated circuits",
+        "Display driver integrated circuits.",
+        "Seven segment Light Emitting Diode (LED) displays",
+        "Push button switches",
+        "12 volt battery and 12 volt battery socket"
+    ],
+    "text": " Identify an electronics parts supplier. Many suppliers are available on the Internet or through electronics supply catalogs. Choose a vendor that offers basic integrated circuits of the generic 74xx and 40xx families, and discrete components, such as resistors and capacitors. Acquire an electronics prototyping breadboard. If the breadboard does not come with clips, which are wires that can be plugged into the breadboard to connect integrated circuits, purchase the required clips. Get the data sheet for a 7805 regulator. The data sheet will show how to wire connect the 7805 and supporting discrete components. Create a 5 volt power source. Acquire the 7805 and support components and build them up on 1 corner of the breadboard. Consult the manufacturer's data sheet for the 7805 to get the required pin-to-pin wire connections for this circuit. Plug the components into the breadboard to physically support them. Define a 1 Hz time base. Find the data sheet for the 4060 multivibrator integrated circuit (IC). It will show how to wire the 4060 to operate as a time generator in conjunction with a 4013 flip flop IC. Support discrete components and the wiring of the support discrete components will be shown on the data sheets. Generate the 1 Hz time base. Acquire the 4060, 4013, breadboard sockets for those parts, and all discrete support components identified in the data sheets. Build the 1 Hz time base on 1 corner of the breadboard. Consult the manufacturer's data sheet for the 4060 to get the required pin-to-pin wire connections for this circuit. Plug the components into the breadboard to support them. Prepare the physical components of the clock. Mount 6 7490 counter ICs in a line on the breadboard. Mount 6 7447 display driver ICs in a line beside the 7490 ICs. Mount 6 light emitting diode (LED) displays in another line, arranged so that they are side by side as the digits of a digital clock should be. All of these devices must be plugged into breadboard sockets, which are in turn plugged into the breadboard. Connect the display drivers. Wire the 7447s to the LED displays and to the 7490s, as indicated in the device data sheets. Create the counter section. Refer to the 7490 data sheets. Wiring from the rightmost device to the leftmost device, wire the first 4 7490s as a count by 10, a count by 6, a count by 10, and a count by 6. Wire the fifth 7490 as a count by 2 and the sixth 7490 as a count by 1 for the 12-hour clock. Wire the fifth 7490 as a count by 4 and the sixth 7490 as a count by 2 for the 24-hour clock. Sequence the time clocking signals. Connect the 1 Hz time base of the clocking input (In B, pin 14) to the clocking input of the first 7490. This 7490 is the seconds counter. Wire pin 11 of the first 7490 to the clocking input of the second 7490. This 7490 is the tens of seconds counter. Provide the ability to set the minutes section of the counter. Wire the output from pin 8 of the second 7490 to the normally closed contact of a single pole double throw switch. Wire the normally open contact of the switch to the 1 Hz time base. Wire the wiper of the switch to the clock input of the third 7490. This 7490 is the minutes counter. Wire pin 11 of the third 7490 as the clocking input of the fourth 7490. This 7490 is the tens of minutes counter. Provide the ability to set the hours section of the counter. Wire the output from pin 8 of the fourth 7490 to the normally closed contact of a single pole double throw switch. Wire the normally open contact of the switch to the 1 Hz time base. Wire the wiper of the switch to the clock input of the fifth 7490. The fifth 7490 is the hours counter. Connect pin 6 or pin 7 of the fifth 7490 as the clocking input of the sixth 7490. This 7490 is the tens of hours counter. Use pin 6 of the fifth 7490 for the American 12-hour clock. Use pin 7 of the fifth 7490 for the 24-hour European clock. Attach the 12 volt battery to the 7805 regulator using the 12 volt battery socket. ",
+    "sentences": [
+        " Identify an electronics parts supplier.",
+        "Many suppliers are available on the Internet or through electronics supply catalogs.",
+        "Choose a vendor that offers basic integrated circuits of the generic 74xx and 40xx families, and discrete components, such as resistors and capacitors.",
+        "Acquire an electronics prototyping breadboard.",
+        "If the breadboard does not come with clips, which are wires that can be plugged into the breadboard to connect integrated circuits, purchase the required clips.",
+        "Get the data sheet for a 7805 regulator.",
+        "The data sheet will show how to wire connect the 7805 and supporting discrete components.",
+        "Create a 5 volt power source.",
+        "Acquire the 7805 and support components and build them up on 1 corner of the breadboard.",
+        "Consult the manufacturer's data sheet for the 7805 to get the required pin-to-pin wire connections for this circuit.",
+        "Plug the components into the breadboard to physically support them.",
+        "Define a 1 Hz time base.",
+        "Find the data sheet for the 4060 multivibrator integrated circuit (IC).",
+        "It will show how to wire the 4060 to operate as a time generator in conjunction with a 4013 flip flop IC.",
+        "Support discrete components and the wiring of the support discrete components will be shown on the data sheets.",
+        "Generate the 1 Hz time base.",
+        "Acquire the 4060, 4013, breadboard sockets for those parts, and all discrete support components identified in the data sheets.",
+        "Build the 1 Hz time base on 1 corner of the breadboard.",
+        "Consult the manufacturer's data sheet for the 4060 to get the required pin-to-pin wire connections for this circuit.",
+        "Plug the components into the breadboard to support them.",
+        "Prepare the physical components of the clock.",
+        "Mount 6 7490 counter ICs in a line on the breadboard.",
+        "Mount 6 7447 display driver ICs in a line beside the 7490 ICs.",
+        "Mount 6 light emitting diode (LED) displays in another line, arranged so that they are side by side as the digits of a digital clock should be.",
+        "All of these devices must be plugged into breadboard sockets, which are in turn plugged into the breadboard.",
+        "Connect the display drivers.",
+        "Wire the 7447s to the LED displays and to the 7490s, as indicated in the device data sheets.",
+        "Create the counter section.",
+        "Refer to the 7490 data sheets.",
+        "Wiring from the rightmost device to the leftmost device, wire the first 4 7490s as a count by 10, a count by 6, a count by 10, and a count by 6.",
+        "Wire the fifth 7490 as a count by 2 and the sixth 7490 as a count by 1 for the 12-hour clock.",
+        "Wire the fifth 7490 as a count by 4 and the sixth 7490 as a count by 2 for the 24-hour clock.",
+        "Sequence the time clocking signals.",
+        "Connect the 1 Hz time base of the clocking input (In B, pin 14) to the clocking input of the first 7490.",
+        "This 7490 is the seconds counter.",
+        "Wire pin 11 of the first 7490 to the clocking input of the second 7490.",
+        "This 7490 is the tens of seconds counter.",
+        "Provide the ability to set the minutes section of the counter.",
+        "Wire the output from pin 8 of the second 7490 to the normally closed contact of a single pole double throw switch.",
+        "Wire the normally open contact of the switch to the 1 Hz time base.",
+        "Wire the wiper of the switch to the clock input of the third 7490.",
+        "This 7490 is the minutes counter.",
+        "Wire pin 11 of the third 7490 as the clocking input of the fourth 7490.",
+        "This 7490 is the tens of minutes counter.",
+        "Provide the ability to set the hours section of the counter.",
+        "Wire the output from pin 8 of the fourth 7490 to the normally closed contact of a single pole double throw switch.",
+        "Wire the normally open contact of the switch to the 1 Hz time base.",
+        "Wire the wiper of the switch to the clock input of the fifth 7490.",
+        "The fifth 7490 is the hours counter.",
+        "Connect pin 6 or pin 7 of the fifth 7490 as the clocking input of the sixth 7490.",
+        "This 7490 is the tens of hours counter.",
+        "Use pin 6 of the fifth 7490 for the American 12-hour clock.",
+        "Use pin 7 of the fifth 7490 for the 24-hour European clock.",
+        "Attach the 12 volt battery to the 7805 regulator using the 12 volt battery socket."
+    ]
+}

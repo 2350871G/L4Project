@@ -1,0 +1,250 @@
+{
+    "title": "How to Factor Second Degree Polynomials (Quadratic Equations)",
+    "url": "https://www.wikihow.com/Factor-Second-Degree-Polynomials-(Quadratic-Equations)",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Algebra"
+    ],
+    "methods": [
+        {
+            "name": "Starting Out",
+            "steps": [
+                {
+                    "headline": "Set up your expression.",
+                    "description": "The standard format for the quadratic equation is:ax + bx + c = 0\nStart by ordering the terms in your equation from highest to lowest power, just like this standard format. For example, take: 6 + 6x + 13x = 0\nWe will re-order this expression so it's easier to work with by simply moving the terms around:6x + 13x + 6 = 0"
+                },
+                {
+                    "headline": "Find the factored form using one of the methods below.",
+                    "description": "Factoring the polynomial will result in two smaller expressions which can be multiplied to produce the original polynomial:6x + 13x + 6 = (2x + 3)(3x + 2)\nIn this example, (2x +3) and (3x + 2) are factors of the original expression, 6x + 13x + 6."
+                },
+                {
+                    "headline": "Check your work!",
+                    "description": "Multiply the factors you identified. Then combine like terms and you're done. Start with:(2x + 3)(3x + 2)\nLet's test it, multiplying the terms using FOIL (first - outer - inner - last), obtaining:6x + 4x + 9x + 6\nFrom here, we can add 4x and 9x together since they're like terms. We know our factors are correct because we get the equation we started with:6x + 13x + 6"
+                }
+            ]
+        },
+        {
+            "name": "Trial and Error",
+            "steps": [
+                {
+                    "headline": "List the factors of the a term and the c term.",
+                    "description": "Using the expression format ax + bx + c = 0, identify the a and c terms and list out what factors they have. For 3x + 2x - 8, that means:a = 3 and has one set of factors: 1 * 3\nc = -8 and has four sets of factors: -2 * 4, -4 * 2, -8 * 1, and -1 * 8."
+                },
+                {
+                    "headline": "Write down two sets of parentheses with empty spaces.",
+                    "description": "You'll be filling in the constants for each expression into the space you've made:(  x    )(  x    )"
+                },
+                {
+                    "headline": "Fill the spaces in front of the x's with a pair of possible factors of the a value.",
+                    "description": "For the a term in our example, 3x, there is only one possibility for our example: (3x   )(1x   )"
+                },
+                {
+                    "headline": "Fill in the two spaces after the x's with a pair of factors for the constants.",
+                    "description": "Let's say we chose 8 and 1. Write it in:(3x  8)(x  1)"
+                },
+                {
+                    "headline": "Decide what signs (plus or minus) should be between the x variables and the numbers.",
+                    "description": "Depending on the signs in the original expression, it's possible to figure out what the signs for the constants should be. Let's call the two constants for our two factors h and k:If ax + bx + c then (x + h)(x + k)\nIf ax - bx - c or ax + bx - c then (x - h)(x + k)\nIf ax - bx + c then (x - h)(x - k)\nFor our example, 3x + 2x - 8, the signs must be:(x - h)(x + k), giving us the two factors:(3x + 8) and (x - 1)"
+                },
+                {
+                    "headline": "Test your choice using first-outer-inner-last (FOIL) multiplication.",
+                    "description": "A quick first test to run is to see if the middle term is at least the correct value. If it is not, you may have chosen the wrong c factors. Let's test our answer:(3x + 8)(x - 1)\nBy multiplication, we arrive at:3x - 3x + 8x - 8\nSimplifying this expression by adding the like terms (-3x) and (8x), we get:3x - 3x + 8x - 8 = 3x + 5x - 8\nWe know now that we must have identified the wrong factors:3x + 5x - 8 \u2260 3x + 2x - 8"
+                },
+                {
+                    "headline": "Swap out your choices if necessary.",
+                    "description": "In our example, let's try 2 and 4 instead of 1 and 8:(3x + 2)(x - 4)\nNow our c term is a -8, but our outside/inside product (3x * -4) and (2 * x) is -12x and 2x, which will not combine to make the correct b term of +2x.-12x + 2x = 10x\n10x \u2260 2x"
+                },
+                {
+                    "headline": "Reverse the order if necessary.",
+                    "description": "Let's try moving the 2 and 4 around:(3x + 4)(x - 2)\nNow, our c term (4 * 2 = 8) is still okay, but the outside/inside products are -6x and 4x. If we combine them:-6x + 4x = 2x\n2x \u2260 -2x\nWe're pretty close to the 2x we were aiming for, but it's the wrong sign."
+                },
+                {
+                    "headline": "Double-check your signs if necessary.",
+                    "description": "We're going to stick with the same order, but swap which one has the minus:(3x - 4)(x + 2)\nNow the c term is still okay, and the outside/inside products are now (6x) and (-4x). Since:6x - 4x = 2x\n2x = 2x\nWe can now recognize the positive 2x from the original problem. These must be the correct factors."
+                }
+            ]
+        },
+        {
+            "name": "Decomposition",
+            "steps": [
+                {
+                    "headline": "Multiply the a term by the c term.",
+                    "description": "In this example, a is 6 and c is also 6.6 * 6 = 36"
+                },
+                {
+                    "headline": "Get the b term by factoring and testing.",
+                    "description": "We're looking for two numbers that are factors of the a * c product we identified and also add up to the b term (13).4 * 9 = 36\n4 + 9 = 13"
+                },
+                {
+                    "headline": "Substitute the two numbers you get into your equation as the sum of the b term.",
+                    "description": "Let's use k and h to represent the two numbers we got, 4 and 9:ax + kx + hx + c\n6x + 4x + 9x + 6"
+                },
+                {
+                    "headline": "Factor the polynomial by grouping.",
+                    "description": "Organize the equation so that you can factor out the greatest common factor of the first two terms and the last two terms. Both factored groups should be the same. Add the Greatest Common Factors together and enclose them in parentheses next to the factored group; the result will be your two factors:6x + 4x + 9x + 6\n2x(3x + 2) + 3(3x + 2)\n(2x + 3)(3x + 2)"
+                }
+            ]
+        },
+        {
+            "name": "Triple Play",
+            "steps": [
+                {
+                    "headline": "Multiply the a term by the c term.",
+                    "description": "As with the decomposition method, this is going to help us identify candidates for the b term. In this example, a is 8 and c is 2.8 * 2 = 16"
+                },
+                {
+                    "headline": "Find two numbers with this number as a product and with a sum equal to the b term.",
+                    "description": "This step is identical to the decomposition method - we're testing and rejecting candidates for the constants. The product of the a and c terms is 16, and the c term is 10:2 * 8 = 16\n8 + 2 = 10"
+                },
+                {
+                    "headline": "Take these two numbers and test substitute them into the 'triple play' formula.",
+                    "description": "Take our two numbers from the previous step - let's call them h and k - and put them into this expression:((ax + h)(ax + k))/ a\nHere, we'd get:((8x + 8)(8x + 2)) / 8"
+                },
+                {
+                    "headline": "Look to see which one of the two terms in the numerator is evenly divisible by a.",
+                    "description": "In this example, we're seeing if (8x + 8) or (8x + 2) can be divided by 8. (8x + 8) is divisible by 8, so we'll divide this term by a and leave the other one as is. (8x + 8) = 8(x + 1)\nThe term we're saving out of here is what's left after dividing by the a term:(x + 1)"
+                },
+                {
+                    "headline": "Take the greatest common factor (GCF) out of either or both terms, if any.",
+                    "description": "In this example, the second term, has a GCF of 2, since 8x + 2 = 2(4x + 1). Combine this answer with the term you identified in the previous step. These are your equation's factors.2(x + 1)(4x + 1)"
+                }
+            ]
+        },
+        {
+            "name": "Difference of Two Squares",
+            "steps": [
+                {
+                    "headline": "Factor out a greatest common factor if possible.",
+                    "description": "In this case, we can see that 27 and 12 are both divisible by 3, so we'll separate that out:27x - 12 = 3(9x - 4)"
+                },
+                {
+                    "headline": "Identify if your equation's coefficients are square numbers.",
+                    "description": "To use this method you should be able to take the square root of the terms evenly. (Notice that we'll have left out the negative signs - since these numbers are squares they may be products of positive or two negative numbers)9x = 3x * 3x and 4 = 2 * 2"
+                },
+                {
+                    "headline": "Using the square roots you have identified, write out the factors.",
+                    "description": "We'll take the a and c values from our step above - a = 9 and c = 4, then find their square roots - \u221aa = 3 and \u221ac = 2. These are the coefficients for the factor expressions:27x - 12 = 3(9x - 4) = 3(3x + 2)(3x - 2)"
+                }
+            ]
+        },
+        {
+            "name": "Quadratic Formula",
+            "steps": [
+                {
+                    "headline": "Plug the corresponding values into the quadratic formula:x = -b \u00b1 \u221a(b - 4ac)      ---------------------                2a",
+                    "description": "We obtain the expression:x = -4 \u00b1 \u221a(4 - 4\u20221\u20221) / 2"
+                },
+                {
+                    "headline": "Solve for x.",
+                    "description": "You should get two x values. As shown above, we obtain two answers:\nx = -2 + \u221a(3) or x = -2 - \u221a(3)"
+                },
+                {
+                    "headline": "Use your value for x to figure out the factors.",
+                    "description": "Plug the x values you obtained into two polynomial expressions as the constants. These will be your factors. If we call our two answers h and k, we're writing two factors like so:(x - h)(x - k)\nIn this case, our final answer is:(x - (-2 + \u221a(3))(x - (-2 - \u221a(3)) = (x + 2 - \u221a(3))(x + 2 + \u221a(3))"
+                }
+            ]
+        },
+        {
+            "name": "Using a Calculator",
+            "steps": [
+                {
+                    "headline": "Enter your equation into the calculator.",
+                    "description": "You will use the equation solver, also known as the [Y = ] screen."
+                },
+                {
+                    "headline": "Graph the equation using your calculator.",
+                    "description": "Once you've entered your equation, press [GRAPH] - you should see a smooth arc representing your equation (and it will be an arc since we are dealing with polynomials)."
+                },
+                {
+                    "headline": "Locate where the arc intersects the x axis.",
+                    "description": "Since polynomial equations are traditionally written as ax + bx + c = 0, these are the two x values that cause the expression to equal zero: (-1, 0), (2, 0)\nx = -1, x = 2\n\nIf you cannot identify where your graph crosses the x axis by sight, press [2nd] and then [TRACE]. Press [2] or select \"zero\". Slide the cursor to the left of an intersect and press [ENTER]. Slide the cursor to the right of an intersect and press [ENTER]. Slide the cursor as close as possible to the intersect and press [ENTER]. The calculator will find the x value. Do this for the other intersect also."
+                },
+                {
+                    "headline": "Plug the x values obtained in the previous into two factorial expressions.",
+                    "description": "If we term our two x-values h and k, the expression we will be using is:(x - h)(x - k) = 0\nThus, our two factors must be:(x - (-1))(x - 2) = (x + 1)(x - 2)"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil",
+        "Paper",
+        "Quadratic equation (also called a 2nd degree polynomial)",
+        "Graphing calculator (optional)"
+    ],
+    "text": " Starting Out Set up your expression. The standard format for the quadratic equation is:ax + bx + c = 0\nStart by ordering the terms in your equation from highest to lowest power, just like this standard format. For example, take: 6 + 6x + 13x = 0\nWe will re-order this expression so it's easier to work with by simply moving the terms around:6x + 13x + 6 = 0 Find the factored form using one of the methods below. Factoring the polynomial will result in two smaller expressions which can be multiplied to produce the original polynomial:6x + 13x + 6 = (2x + 3)(3x + 2)\nIn this example, (2x +3) and (3x + 2) are factors of the original expression, 6x + 13x + 6. Check your work! Multiply the factors you identified. Then combine like terms and you're done. Start with:(2x + 3)(3x + 2)\nLet's test it, multiplying the terms using FOIL (first - outer - inner - last), obtaining:6x + 4x + 9x + 6\nFrom here, we can add 4x and 9x together since they're like terms. We know our factors are correct because we get the equation we started with:6x + 13x + 6 Trial and Error List the factors of the a term and the c term. Using the expression format ax + bx + c = 0, identify the a and c terms and list out what factors they have. For 3x + 2x - 8, that means:a = 3 and has one set of factors: 1 * 3\nc = -8 and has four sets of factors: -2 * 4, -4 * 2, -8 * 1, and -1 * 8. Write down two sets of parentheses with empty spaces. You'll be filling in the constants for each expression into the space you've made:(  x    )(  x    ) Fill the spaces in front of the x's with a pair of possible factors of the a value. For the a term in our example, 3x, there is only one possibility for our example: (3x   )(1x   ) Fill in the two spaces after the x's with a pair of factors for the constants. Let's say we chose 8 and 1. Write it in:(3x  8)(x  1) Decide what signs (plus or minus) should be between the x variables and the numbers. Depending on the signs in the original expression, it's possible to figure out what the signs for the constants should be. Let's call the two constants for our two factors h and k:If ax + bx + c then (x + h)(x + k)\nIf ax - bx - c or ax + bx - c then (x - h)(x + k)\nIf ax - bx + c then (x - h)(x - k)\nFor our example, 3x + 2x - 8, the signs must be:(x - h)(x + k), giving us the two factors:(3x + 8) and (x - 1) Test your choice using first-outer-inner-last (FOIL) multiplication. A quick first test to run is to see if the middle term is at least the correct value. If it is not, you may have chosen the wrong c factors. Let's test our answer:(3x + 8)(x - 1)\nBy multiplication, we arrive at:3x - 3x + 8x - 8\nSimplifying this expression by adding the like terms (-3x) and (8x), we get:3x - 3x + 8x - 8 = 3x + 5x - 8\nWe know now that we must have identified the wrong factors:3x + 5x - 8 \u2260 3x + 2x - 8 Swap out your choices if necessary. In our example, let's try 2 and 4 instead of 1 and 8:(3x + 2)(x - 4)\nNow our c term is a -8, but our outside/inside product (3x * -4) and (2 * x) is -12x and 2x, which will not combine to make the correct b term of +2x.-12x + 2x = 10x\n10x \u2260 2x Reverse the order if necessary. Let's try moving the 2 and 4 around:(3x + 4)(x - 2)\nNow, our c term (4 * 2 = 8) is still okay, but the outside/inside products are -6x and 4x. If we combine them:-6x + 4x = 2x\n2x \u2260 -2x\nWe're pretty close to the 2x we were aiming for, but it's the wrong sign. Double-check your signs if necessary. We're going to stick with the same order, but swap which one has the minus:(3x - 4)(x + 2)\nNow the c term is still okay, and the outside/inside products are now (6x) and (-4x). Since:6x - 4x = 2x\n2x = 2x\nWe can now recognize the positive 2x from the original problem. These must be the correct factors. Decomposition Multiply the a term by the c term. In this example, a is 6 and c is also 6.6 * 6 = 36 Get the b term by factoring and testing. We're looking for two numbers that are factors of the a * c product we identified and also add up to the b term (13).4 * 9 = 36\n4 + 9 = 13 Substitute the two numbers you get into your equation as the sum of the b term. Let's use k and h to represent the two numbers we got, 4 and 9:ax + kx + hx + c\n6x + 4x + 9x + 6 Factor the polynomial by grouping. Organize the equation so that you can factor out the greatest common factor of the first two terms and the last two terms. Both factored groups should be the same. Add the Greatest Common Factors together and enclose them in parentheses next to the factored group; the result will be your two factors:6x + 4x + 9x + 6\n2x(3x + 2) + 3(3x + 2)\n(2x + 3)(3x + 2) Triple Play Multiply the a term by the c term. As with the decomposition method, this is going to help us identify candidates for the b term. In this example, a is 8 and c is 2.8 * 2 = 16 Find two numbers with this number as a product and with a sum equal to the b term. This step is identical to the decomposition method - we're testing and rejecting candidates for the constants. The product of the a and c terms is 16, and the c term is 10:2 * 8 = 16\n8 + 2 = 10 Take these two numbers and test substitute them into the 'triple play' formula. Take our two numbers from the previous step - let's call them h and k - and put them into this expression:((ax + h)(ax + k))/ a\nHere, we'd get:((8x + 8)(8x + 2)) / 8 Look to see which one of the two terms in the numerator is evenly divisible by a. In this example, we're seeing if (8x + 8) or (8x + 2) can be divided by 8. (8x + 8) is divisible by 8, so we'll divide this term by a and leave the other one as is. (8x + 8) = 8(x + 1)\nThe term we're saving out of here is what's left after dividing by the a term:(x + 1) Take the greatest common factor (GCF) out of either or both terms, if any. In this example, the second term, has a GCF of 2, since 8x + 2 = 2(4x + 1). Combine this answer with the term you identified in the previous step. These are your equation's factors.2(x + 1)(4x + 1) Difference of Two Squares Factor out a greatest common factor if possible. In this case, we can see that 27 and 12 are both divisible by 3, so we'll separate that out:27x - 12 = 3(9x - 4) Identify if your equation's coefficients are square numbers. To use this method you should be able to take the square root of the terms evenly. (Notice that we'll have left out the negative signs - since these numbers are squares they may be products of positive or two negative numbers)9x = 3x * 3x and 4 = 2 * 2 Using the square roots you have identified, write out the factors. We'll take the a and c values from our step above - a = 9 and c = 4, then find their square roots - \u221aa = 3 and \u221ac = 2. These are the coefficients for the factor expressions:27x - 12 = 3(9x - 4) = 3(3x + 2)(3x - 2) Quadratic Formula Plug the corresponding values into the quadratic formula:x = -b \u00b1 \u221a(b - 4ac)      ---------------------                2a We obtain the expression:x = -4 \u00b1 \u221a(4 - 4\u20221\u20221) / 2 Solve for x. You should get two x values. As shown above, we obtain two answers:\nx = -2 + \u221a(3) or x = -2 - \u221a(3) Use your value for x to figure out the factors. Plug the x values you obtained into two polynomial expressions as the constants. These will be your factors. If we call our two answers h and k, we're writing two factors like so:(x - h)(x - k)\nIn this case, our final answer is:(x - (-2 + \u221a(3))(x - (-2 - \u221a(3)) = (x + 2 - \u221a(3))(x + 2 + \u221a(3)) Using a Calculator Enter your equation into the calculator. You will use the equation solver, also known as the [Y = ] screen. Graph the equation using your calculator. Once you've entered your equation, press [GRAPH] - you should see a smooth arc representing your equation (and it will be an arc since we are dealing with polynomials). Locate where the arc intersects the x axis. Since polynomial equations are traditionally written as ax + bx + c = 0, these are the two x values that cause the expression to equal zero: (-1, 0), (2, 0)\nx = -1, x = 2\n\nIf you cannot identify where your graph crosses the x axis by sight, press [2nd] and then [TRACE]. Press [2] or select \"zero\". Slide the cursor to the left of an intersect and press [ENTER]. Slide the cursor to the right of an intersect and press [ENTER]. Slide the cursor as close as possible to the intersect and press [ENTER]. The calculator will find the x value. Do this for the other intersect also. Plug the x values obtained in the previous into two factorial expressions. If we term our two x-values h and k, the expression we will be using is:(x - h)(x - k) = 0\nThus, our two factors must be:(x - (-1))(x - 2) = (x + 1)(x - 2)",
+    "sentences": [
+        " Starting Out Set up your expression.",
+        "The standard format for the quadratic equation is:ax + bx + c = 0\nStart by ordering the terms in your equation from highest to lowest power, just like this standard format.",
+        "For example, take: 6 + 6x + 13x = 0\nWe will re-order this expression so it's easier to work with by simply moving the terms around:6x + 13x + 6 = 0 Find the factored form using one of the methods below.",
+        "Factoring the polynomial will result in two smaller expressions which can be multiplied to produce the original polynomial:6x + 13x + 6 = (2x + 3)(3x + 2)\nIn this example, (2x +3) and (3x + 2) are factors of the original expression, 6x + 13x + 6.",
+        "Check your work!",
+        "Multiply the factors you identified.",
+        "Then combine like terms and you're done.",
+        "Start with:(2x + 3)(3x + 2)\nLet's test it, multiplying the terms using FOIL (first - outer - inner - last), obtaining:6x + 4x + 9x + 6\nFrom here, we can add 4x and 9x together since they're like terms.",
+        "We know our factors are correct because we get the equation we started with:6x + 13x + 6 Trial and Error List the factors of the a term and the c term.",
+        "Using the expression format ax + bx + c = 0, identify the a and c terms and list out what factors they have.",
+        "For 3x + 2x - 8, that means:a = 3 and has one set of factors: 1 * 3\nc = -8 and has four sets of factors: -2 * 4, -4 * 2, -8 * 1, and -1 * 8.",
+        "Write down two sets of parentheses with empty spaces.",
+        "You'll be filling in the constants for each expression into the space you've made:(  x    )(  x    ) Fill the spaces in front of the x's with a pair of possible factors of the a value.",
+        "For the a term in our example, 3x, there is only one possibility for our example: (3x   )(1x   ) Fill in the two spaces after the x's with a pair of factors for the constants.",
+        "Let's say we chose 8 and 1.",
+        "Write it in:(3x  8)(x  1) Decide what signs (plus or minus) should be between the x variables and the numbers.",
+        "Depending on the signs in the original expression, it's possible to figure out what the signs for the constants should be.",
+        "Let's call the two constants for our two factors h and k:If ax + bx + c then (x + h)(x + k)\nIf ax - bx - c or ax + bx - c then (x - h)(x + k)\nIf ax - bx + c then (x - h)(x - k)\nFor our example, 3x + 2x - 8, the signs must be:(x - h)(x + k), giving us the two factors:(3x + 8) and (x - 1) Test your choice using first-outer-inner-last (FOIL) multiplication.",
+        "A quick first test to run is to see if the middle term is at least the correct value.",
+        "If it is not, you may have chosen the wrong c factors.",
+        "Let's test our answer:(3x + 8)(x - 1)\nBy multiplication, we arrive at:3x - 3x + 8x - 8\nSimplifying this expression by adding the like terms (-3x) and (8x), we get:3x - 3x + 8x - 8 = 3x + 5x - 8\nWe know now that we must have identified the wrong factors:3x + 5x - 8 \u2260 3x + 2x - 8 Swap out your choices if necessary.",
+        "In our example, let's try 2 and 4 instead of 1 and 8:(3x + 2)(x - 4)\nNow our c term is a -8, but our outside/inside product (3x * -4) and (2 * x) is -12x and 2x, which will not combine to make the correct b term of +2x.-12x + 2x = 10x\n10x \u2260 2x Reverse the order if necessary.",
+        "Let's try moving the 2 and 4 around:(3x + 4)(x - 2)\nNow, our c term (4 * 2 = 8) is still okay, but the outside/inside products are -6x and 4x.",
+        "If we combine them:-6x + 4x = 2x\n2x \u2260 -2x\nWe're pretty close to the 2x we were aiming for, but it's the wrong sign.",
+        "Double-check your signs if necessary.",
+        "We're going to stick with the same order, but swap which one has the minus:(3x - 4)(x + 2)\nNow the c term is still okay, and the outside/inside products are now (6x) and (-4x).",
+        "Since:6x - 4x = 2x\n2x = 2x\nWe can now recognize the positive 2x from the original problem.",
+        "These must be the correct factors.",
+        "Decomposition Multiply the a term by the c term.",
+        "In this example, a is 6 and c is also 6.6 * 6 = 36 Get the b term by factoring and testing.",
+        "We're looking for two numbers that are factors of the a * c product we identified and also add up to the b term (13).4 * 9 = 36\n4 + 9 = 13 Substitute the two numbers you get into your equation as the sum of the b term.",
+        "Let's use k and h to represent the two numbers we got, 4 and 9:ax + kx + hx + c\n6x + 4x + 9x + 6 Factor the polynomial by grouping.",
+        "Organize the equation so that you can factor out the greatest common factor of the first two terms and the last two terms.",
+        "Both factored groups should be the same.",
+        "Add the Greatest Common Factors together and enclose them in parentheses next to the factored group; the result will be your two factors:6x + 4x + 9x + 6\n2x(3x + 2) + 3(3x + 2)\n(2x + 3)(3x + 2) Triple Play Multiply the a term by the c term.",
+        "As with the decomposition method, this is going to help us identify candidates for the b term.",
+        "In this example, a is 8 and c is 2.8 * 2 = 16 Find two numbers with this number as a product and with a sum equal to the b term.",
+        "This step is identical to the decomposition method - we're testing and rejecting candidates for the constants.",
+        "The product of the a and c terms is 16, and the c term is 10:2 * 8 = 16\n8 + 2 = 10 Take these two numbers and test substitute them into the 'triple play' formula.",
+        "Take our two numbers from the previous step - let's call them h and k - and put them into this expression:((ax + h)(ax + k))/ a\nHere, we'd get:((8x + 8)(8x + 2)) / 8 Look to see which one of the two terms in the numerator is evenly divisible by a.",
+        "In this example, we're seeing if (8x + 8) or (8x + 2) can be divided by 8.",
+        "(8x + 8) is divisible by 8, so we'll divide this term by a and leave the other one as is.",
+        "(8x + 8) = 8(x + 1)\nThe term we're saving out of here is what's left after dividing by the a term:(x + 1) Take the greatest common factor (GCF) out of either or both terms, if any.",
+        "In this example, the second term, has a GCF of 2, since 8x + 2 = 2(4x + 1).",
+        "Combine this answer with the term you identified in the previous step.",
+        "These are your equation's factors.2(x + 1)(4x + 1) Difference of Two Squares Factor out a greatest common factor if possible.",
+        "In this case, we can see that 27 and 12 are both divisible by 3, so we'll separate that out:27x - 12 = 3(9x - 4) Identify if your equation's coefficients are square numbers.",
+        "To use this method you should be able to take the square root of the terms evenly.",
+        "(Notice that we'll have left out the negative signs - since these numbers are squares they may be products of positive or two negative numbers)9x = 3x * 3x and 4 = 2 * 2 Using the square roots you have identified, write out the factors.",
+        "We'll take the a and c values from our step above - a = 9 and c = 4, then find their square roots - \u221aa = 3 and \u221ac = 2.",
+        "These are the coefficients for the factor expressions:27x - 12 = 3(9x - 4) = 3(3x + 2)(3x - 2) Quadratic Formula Plug the corresponding values into the quadratic formula:x = -b \u00b1 \u221a(b - 4ac)      ---------------------                2a We obtain the expression:x = -4 \u00b1 \u221a(4 - 4\u20221\u20221) / 2 Solve for x.",
+        "You should get two x values.",
+        "As shown above, we obtain two answers:\nx = -2 + \u221a(3) or x = -2 - \u221a(3) Use your value for x to figure out the factors.",
+        "Plug the x values you obtained into two polynomial expressions as the constants.",
+        "These will be your factors.",
+        "If we call our two answers h and k, we're writing two factors like so:(x - h)(x - k)\nIn this case, our final answer is:(x - (-2 + \u221a(3))(x - (-2 - \u221a(3)) = (x + 2 - \u221a(3))(x + 2 + \u221a(3)) Using a Calculator Enter your equation into the calculator.",
+        "You will use the equation solver, also known as the [Y = ] screen.",
+        "Graph the equation using your calculator.",
+        "Once you've entered your equation, press [GRAPH] - you should see a smooth arc representing your equation (and it will be an arc since we are dealing with polynomials).",
+        "Locate where the arc intersects the x axis.",
+        "Since polynomial equations are traditionally written as ax + bx + c = 0, these are the two x values that cause the expression to equal zero: (-1, 0), (2, 0)\nx = -1, x = 2\n\nIf you cannot identify where your graph crosses the x axis by sight, press [2nd] and then [TRACE].",
+        "Press [2] or select \"zero\".",
+        "Slide the cursor to the left of an intersect and press [ENTER].",
+        "Slide the cursor to the right of an intersect and press [ENTER].",
+        "Slide the cursor as close as possible to the intersect and press [ENTER].",
+        "The calculator will find the x value.",
+        "Do this for the other intersect also.",
+        "Plug the x values obtained in the previous into two factorial expressions.",
+        "If we term our two x-values h and k, the expression we will be using is:(x - h)(x - k) = 0\nThus, our two factors must be:(x - (-1))(x - 2) = (x + 1)(x - 2)"
+    ]
+}

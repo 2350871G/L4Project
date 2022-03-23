@@ -1,0 +1,138 @@
+{
+    "title": "How to Test a Battery Charger",
+    "url": "https://www.wikihow.com/Test-a-Battery-Charger",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Telephones",
+        "Phone Accessories",
+        "Phone Batteries"
+    ],
+    "methods": [
+        {
+            "name": "Performing a Test on a Small-Battery Charger",
+            "steps": [
+                {
+                    "headline": "Plug your battery charger into a wall outlet.",
+                    "description": "To determine whether or not your battery charger is putting out as much voltage as it\u2019s supposed to, you\u2019ll first need to make sure that there\u2019s electricity running to it. Hook the power cord up to a nearby AC outlet. This will cause the charger to begin channeling electricity, which you\u2019ll measure using a multimeter tool. If your battery charger has a separate On/Off switch, go ahead and flip it to the \u201cOn\u201d position. A multimeter, also sometimes known as a \u201cvoltmeter,\u201d is a type of instrument designed to test the power levels of various electrical devices. You can pick up a digital multimeter from any hardware shop or electronics supply store for as little as $10-20."
+                },
+                {
+                    "headline": "Attach the test probes of your multimeter to their corresponding ports.",
+                    "description": "Most multimeters come with a pair of detachable colored probes, one black and one red, that are used to measure the electricity running through the poles of a battery or charger. Insert the end of the black, or negative, probe into the port on the multimeter labelled \u201cCOM.\u201d Then, insert the red, or positive, probe into the port labelled \u201cV.\u201d\nIn some cases, the test probe ports may be color-coded rather than labelled, depending on the design of the specific model you're using. If your multimeter features built-in test probes, you can skip this step."
+                },
+                {
+                    "headline": "Set the multimeter to \u201cDC.\u201d Locate the dial on the face of the tool indicating the different testing modes.",
+                    "description": "Twist the dial until the pointer enters the \u201cDC\u201d range, stopping on the next-highest setting to the voltage of the charger you'll be measuring. This will prepare the tool to test your battery charger, which supplies DC, or \u201cdirect current,\u201d power. To test a standard AA battery, which is about 1.5 volts, you would use the \"2 DCV\" setting. \u201cDirect current\u201d means that the electricity runs straight from the device generating it to the device receiving it.Warning: Operating your multimeter on the wrong settings could overload it, or even result in more serious damage such as an explosion. To avoid this, always double-check that it's set for the type of current you're gauging at a voltage higher than that of your device."
+                },
+                {
+                    "headline": "Touch the black test probe to the negative contact point on the charger.",
+                    "description": "If the charger you\u2019re testing hooks up to a battery via a power supply cord, press the tip of the probe against the side of the metal prong at the end of the jack. If you\u2019re testing a receptacle charger like the kind used to reload rechargeable AA batteries, hold the probe to a section of the exposed metal on the side of the charging chamber marked \u201c-\u201d. Some multimeters have input ports that make it possible to plug certain types of power supply jacks directly into the tool."
+                },
+                {
+                    "headline": "Hold the red test probe against the charger\u2019s positive contact point.",
+                    "description": "Insert the tip of the probe into the barrel at the end of the power supply jack, which is what transmits the live current. To take a reading for a receptacle charger, hold the probe to a section of the exposed metal on the side of the charging chamber marked \u201c+\u201d. If you accidentally get your poles mixed up, the multimeter may display a negative reading (or no reading at all). Switch the position of the probes and try again."
+                },
+                {
+                    "headline": "Check the number displayed on the multimeter\u2019s display screen.",
+                    "description": "This number indicates how many volts of DC power the charger is putting out. Your battery charger needs to be supplying at least an equal voltage (preferably higher) to the batteries you\u2019re charging in order to restore them to their full capacity in a timely fashion. If you\u2019re not sure exactly how much, consult to the instruction booklet included with your battery charger, or look for the information somewhere on the charger itself. For reference, a standard lithium ion battery is rated for around 4 volts of electricity. Larger devices and appliances may run on batteries or battery packs that put out 12-24 volts. If your battery charger tests well below the recommended output, it may be time to invest in a new one."
+                }
+            ]
+        },
+        {
+            "name": "Testing a Car Battery\u2019s Charging Capabilities",
+            "steps": [
+                {
+                    "headline": "Turn on your vehicle\u2019s battery.",
+                    "description": "Once the battery is on, switch on the headlights to \u201cload\u201d the battery and reduce any surface charge that the battery may have built up. However, don\u2019t start the engine just yet. Before you test how well the battery is charging, you\u2019ll take what\u2019s known as a \u201cstatic\u201d reading to confirm the battery\u2019s current level of charge. If you like, you can also turn on your vehicle\u2019s radio, fan, emergency flashers, and other electrical components to load the battery even more. Eliminating surface charge helps to ensure a reading that accurately reflects the alternator\u2019s charging capabilities."
+                },
+                {
+                    "headline": "Set your multimeter to \u201cDC.\"",
+                    "description": "Turn the dial that controls your multimeter\u2019s test mode so that it\u2019s primed to measure DC current in the next-highest voltage range to your vehicle's battery. Like small appliance batteries, car batteries rely on direct current electricity to power the motor, headlights, fans, and other electrical components. Car batteries typically put out 12 volts of electricity, which is about 6 times more than most personal use batteries. To avoid overloading your multimeter, make sure you have it set to a voltage higher than that of your battery (20 DCV on most tools)."
+                },
+                {
+                    "headline": "Connect the multimeter test probes to your vehicle's battery terminals.",
+                    "description": "The best way to do this is to insert the tips of the probes vertically into the spaces between the terminals themselves and the surrounding metal fittings. That way, you can ensure that they don\u2019t accidentally slip out at any point during your test. Position the negative probe first, followed by the positive probe. Immediately after attaching both probes, your multimeter should display a reading somewhere in the range of 12.6 volts. This is the battery\u2019s static voltage, which only shows that it\u2019s holding a charge, not that it\u2019s charging the way it\u2019s supposed to.Tip: Installing alligator clips on the ends of the test probes could come in handy if you\u2019re having trouble keeping them on the terminals."
+                },
+                {
+                    "headline": "Start your vehicle\u2019s engine.",
+                    "description": "The number displayed on the multimeter will drop suddenly as the starter pulls power from the battery to begin turning the over the engine. Allow the engine to continue running for about 5 minutes to give the alternator a chance to charge the battery a small amount. If your headlights or other electrical components dim or cut out momentarily when you start up the engine, it could be a sign that your battery is going bad."
+                },
+                {
+                    "headline": "Shut off the vehicle completely and look for a reading of 13.2 or higher.",
+                    "description": "Turn the key in the ignition to turn off everything at once, including the lights, radio, and other electrical components. As you do, the multimeter should display a new reading. If this reading is higher than the battery\u2019s static voltage, it means that the alternator is doing its job and charging the battery correctly. If there\u2019s no change in the reading, a failing alternator could be to blame. Consider making an appointment to have your vehicle looked at by a professional. Look for a reading within the same range if you\u2019re testing an external battery charger."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Performing a Test on a Small-Battery Charger",
+        "Small battery charger",
+        "Multimeter",
+        "Testing a Car Battery\u2019s Charging Capabilities",
+        "Vehicle battery",
+        "Alligator clips (optional)"
+    ],
+    "text": " Performing a Test on a Small-Battery Charger Plug your battery charger into a wall outlet. To determine whether or not your battery charger is putting out as much voltage as it\u2019s supposed to, you\u2019ll first need to make sure that there\u2019s electricity running to it. Hook the power cord up to a nearby AC outlet. This will cause the charger to begin channeling electricity, which you\u2019ll measure using a multimeter tool. If your battery charger has a separate On/Off switch, go ahead and flip it to the \u201cOn\u201d position. A multimeter, also sometimes known as a \u201cvoltmeter,\u201d is a type of instrument designed to test the power levels of various electrical devices. You can pick up a digital multimeter from any hardware shop or electronics supply store for as little as $10-20. Attach the test probes of your multimeter to their corresponding ports. Most multimeters come with a pair of detachable colored probes, one black and one red, that are used to measure the electricity running through the poles of a battery or charger. Insert the end of the black, or negative, probe into the port on the multimeter labelled \u201cCOM.\u201d Then, insert the red, or positive, probe into the port labelled \u201cV.\u201d\nIn some cases, the test probe ports may be color-coded rather than labelled, depending on the design of the specific model you're using. If your multimeter features built-in test probes, you can skip this step. Set the multimeter to \u201cDC.\u201d Locate the dial on the face of the tool indicating the different testing modes. Twist the dial until the pointer enters the \u201cDC\u201d range, stopping on the next-highest setting to the voltage of the charger you'll be measuring. This will prepare the tool to test your battery charger, which supplies DC, or \u201cdirect current,\u201d power. To test a standard AA battery, which is about 1.5 volts, you would use the \"2 DCV\" setting. \u201cDirect current\u201d means that the electricity runs straight from the device generating it to the device receiving it.Warning: Operating your multimeter on the wrong settings could overload it, or even result in more serious damage such as an explosion. To avoid this, always double-check that it's set for the type of current you're gauging at a voltage higher than that of your device. Touch the black test probe to the negative contact point on the charger. If the charger you\u2019re testing hooks up to a battery via a power supply cord, press the tip of the probe against the side of the metal prong at the end of the jack. If you\u2019re testing a receptacle charger like the kind used to reload rechargeable AA batteries, hold the probe to a section of the exposed metal on the side of the charging chamber marked \u201c-\u201d. Some multimeters have input ports that make it possible to plug certain types of power supply jacks directly into the tool. Hold the red test probe against the charger\u2019s positive contact point. Insert the tip of the probe into the barrel at the end of the power supply jack, which is what transmits the live current. To take a reading for a receptacle charger, hold the probe to a section of the exposed metal on the side of the charging chamber marked \u201c+\u201d. If you accidentally get your poles mixed up, the multimeter may display a negative reading (or no reading at all). Switch the position of the probes and try again. Check the number displayed on the multimeter\u2019s display screen. This number indicates how many volts of DC power the charger is putting out. Your battery charger needs to be supplying at least an equal voltage (preferably higher) to the batteries you\u2019re charging in order to restore them to their full capacity in a timely fashion. If you\u2019re not sure exactly how much, consult to the instruction booklet included with your battery charger, or look for the information somewhere on the charger itself. For reference, a standard lithium ion battery is rated for around 4 volts of electricity. Larger devices and appliances may run on batteries or battery packs that put out 12-24 volts. If your battery charger tests well below the recommended output, it may be time to invest in a new one. Testing a Car Battery\u2019s Charging Capabilities Turn on your vehicle\u2019s battery. Once the battery is on, switch on the headlights to \u201cload\u201d the battery and reduce any surface charge that the battery may have built up. However, don\u2019t start the engine just yet. Before you test how well the battery is charging, you\u2019ll take what\u2019s known as a \u201cstatic\u201d reading to confirm the battery\u2019s current level of charge. If you like, you can also turn on your vehicle\u2019s radio, fan, emergency flashers, and other electrical components to load the battery even more. Eliminating surface charge helps to ensure a reading that accurately reflects the alternator\u2019s charging capabilities. Set your multimeter to \u201cDC.\" Turn the dial that controls your multimeter\u2019s test mode so that it\u2019s primed to measure DC current in the next-highest voltage range to your vehicle's battery. Like small appliance batteries, car batteries rely on direct current electricity to power the motor, headlights, fans, and other electrical components. Car batteries typically put out 12 volts of electricity, which is about 6 times more than most personal use batteries. To avoid overloading your multimeter, make sure you have it set to a voltage higher than that of your battery (20 DCV on most tools). Connect the multimeter test probes to your vehicle's battery terminals. The best way to do this is to insert the tips of the probes vertically into the spaces between the terminals themselves and the surrounding metal fittings. That way, you can ensure that they don\u2019t accidentally slip out at any point during your test. Position the negative probe first, followed by the positive probe. Immediately after attaching both probes, your multimeter should display a reading somewhere in the range of 12.6 volts. This is the battery\u2019s static voltage, which only shows that it\u2019s holding a charge, not that it\u2019s charging the way it\u2019s supposed to.Tip: Installing alligator clips on the ends of the test probes could come in handy if you\u2019re having trouble keeping them on the terminals. Start your vehicle\u2019s engine. The number displayed on the multimeter will drop suddenly as the starter pulls power from the battery to begin turning the over the engine. Allow the engine to continue running for about 5 minutes to give the alternator a chance to charge the battery a small amount. If your headlights or other electrical components dim or cut out momentarily when you start up the engine, it could be a sign that your battery is going bad. Shut off the vehicle completely and look for a reading of 13.2 or higher. Turn the key in the ignition to turn off everything at once, including the lights, radio, and other electrical components. As you do, the multimeter should display a new reading. If this reading is higher than the battery\u2019s static voltage, it means that the alternator is doing its job and charging the battery correctly. If there\u2019s no change in the reading, a failing alternator could be to blame. Consider making an appointment to have your vehicle looked at by a professional. Look for a reading within the same range if you\u2019re testing an external battery charger.",
+    "sentences": [
+        " Performing a Test on a Small-Battery Charger Plug your battery charger into a wall outlet.",
+        "To determine whether or not your battery charger is putting out as much voltage as it\u2019s supposed to, you\u2019ll first need to make sure that there\u2019s electricity running to it.",
+        "Hook the power cord up to a nearby AC outlet.",
+        "This will cause the charger to begin channeling electricity, which you\u2019ll measure using a multimeter tool.",
+        "If your battery charger has a separate On/Off switch, go ahead and flip it to the \u201cOn\u201d position.",
+        "A multimeter, also sometimes known as a \u201cvoltmeter,\u201d is a type of instrument designed to test the power levels of various electrical devices.",
+        "You can pick up a digital multimeter from any hardware shop or electronics supply store for as little as $10-20.",
+        "Attach the test probes of your multimeter to their corresponding ports.",
+        "Most multimeters come with a pair of detachable colored probes, one black and one red, that are used to measure the electricity running through the poles of a battery or charger.",
+        "Insert the end of the black, or negative, probe into the port on the multimeter labelled \u201cCOM.\u201d Then, insert the red, or positive, probe into the port labelled \u201cV.\u201d\nIn some cases, the test probe ports may be color-coded rather than labelled, depending on the design of the specific model you're using.",
+        "If your multimeter features built-in test probes, you can skip this step.",
+        "Set the multimeter to \u201cDC.\u201d Locate the dial on the face of the tool indicating the different testing modes.",
+        "Twist the dial until the pointer enters the \u201cDC\u201d range, stopping on the next-highest setting to the voltage of the charger you'll be measuring.",
+        "This will prepare the tool to test your battery charger, which supplies DC, or \u201cdirect current,\u201d power.",
+        "To test a standard AA battery, which is about 1.5 volts, you would use the \"2 DCV\" setting.",
+        "\u201cDirect current\u201d means that the electricity runs straight from the device generating it to the device receiving it.Warning: Operating your multimeter on the wrong settings could overload it, or even result in more serious damage such as an explosion.",
+        "To avoid this, always double-check that it's set for the type of current you're gauging at a voltage higher than that of your device.",
+        "Touch the black test probe to the negative contact point on the charger.",
+        "If the charger you\u2019re testing hooks up to a battery via a power supply cord, press the tip of the probe against the side of the metal prong at the end of the jack.",
+        "If you\u2019re testing a receptacle charger like the kind used to reload rechargeable AA batteries, hold the probe to a section of the exposed metal on the side of the charging chamber marked \u201c-\u201d.",
+        "Some multimeters have input ports that make it possible to plug certain types of power supply jacks directly into the tool.",
+        "Hold the red test probe against the charger\u2019s positive contact point.",
+        "Insert the tip of the probe into the barrel at the end of the power supply jack, which is what transmits the live current.",
+        "To take a reading for a receptacle charger, hold the probe to a section of the exposed metal on the side of the charging chamber marked \u201c+\u201d.",
+        "If you accidentally get your poles mixed up, the multimeter may display a negative reading (or no reading at all).",
+        "Switch the position of the probes and try again.",
+        "Check the number displayed on the multimeter\u2019s display screen.",
+        "This number indicates how many volts of DC power the charger is putting out.",
+        "Your battery charger needs to be supplying at least an equal voltage (preferably higher) to the batteries you\u2019re charging in order to restore them to their full capacity in a timely fashion.",
+        "If you\u2019re not sure exactly how much, consult to the instruction booklet included with your battery charger, or look for the information somewhere on the charger itself.",
+        "For reference, a standard lithium ion battery is rated for around 4 volts of electricity.",
+        "Larger devices and appliances may run on batteries or battery packs that put out 12-24 volts.",
+        "If your battery charger tests well below the recommended output, it may be time to invest in a new one.",
+        "Testing a Car Battery\u2019s Charging Capabilities Turn on your vehicle\u2019s battery.",
+        "Once the battery is on, switch on the headlights to \u201cload\u201d the battery and reduce any surface charge that the battery may have built up.",
+        "However, don\u2019t start the engine just yet.",
+        "Before you test how well the battery is charging, you\u2019ll take what\u2019s known as a \u201cstatic\u201d reading to confirm the battery\u2019s current level of charge.",
+        "If you like, you can also turn on your vehicle\u2019s radio, fan, emergency flashers, and other electrical components to load the battery even more.",
+        "Eliminating surface charge helps to ensure a reading that accurately reflects the alternator\u2019s charging capabilities.",
+        "Set your multimeter to \u201cDC.\"",
+        "Turn the dial that controls your multimeter\u2019s test mode so that it\u2019s primed to measure DC current in the next-highest voltage range to your vehicle's battery.",
+        "Like small appliance batteries, car batteries rely on direct current electricity to power the motor, headlights, fans, and other electrical components.",
+        "Car batteries typically put out 12 volts of electricity, which is about 6 times more than most personal use batteries.",
+        "To avoid overloading your multimeter, make sure you have it set to a voltage higher than that of your battery (20 DCV on most tools).",
+        "Connect the multimeter test probes to your vehicle's battery terminals.",
+        "The best way to do this is to insert the tips of the probes vertically into the spaces between the terminals themselves and the surrounding metal fittings.",
+        "That way, you can ensure that they don\u2019t accidentally slip out at any point during your test.",
+        "Position the negative probe first, followed by the positive probe.",
+        "Immediately after attaching both probes, your multimeter should display a reading somewhere in the range of 12.6 volts.",
+        "This is the battery\u2019s static voltage, which only shows that it\u2019s holding a charge, not that it\u2019s charging the way it\u2019s supposed to.Tip: Installing alligator clips on the ends of the test probes could come in handy if you\u2019re having trouble keeping them on the terminals.",
+        "Start your vehicle\u2019s engine.",
+        "The number displayed on the multimeter will drop suddenly as the starter pulls power from the battery to begin turning the over the engine.",
+        "Allow the engine to continue running for about 5 minutes to give the alternator a chance to charge the battery a small amount.",
+        "If your headlights or other electrical components dim or cut out momentarily when you start up the engine, it could be a sign that your battery is going bad.",
+        "Shut off the vehicle completely and look for a reading of 13.2 or higher.",
+        "Turn the key in the ignition to turn off everything at once, including the lights, radio, and other electrical components.",
+        "As you do, the multimeter should display a new reading.",
+        "If this reading is higher than the battery\u2019s static voltage, it means that the alternator is doing its job and charging the battery correctly.",
+        "If there\u2019s no change in the reading, a failing alternator could be to blame.",
+        "Consider making an appointment to have your vehicle looked at by a professional.",
+        "Look for a reading within the same range if you\u2019re testing an external battery charger."
+    ]
+}

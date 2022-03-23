@@ -1,0 +1,101 @@
+{
+    "title": "How to Calculate Effective Interest Rate",
+    "url": "https://www.wikihow.com/Calculate-Effective-Interest-Rate",
+    "category_hierarchy": [
+        "Finance and Business",
+        "Managing Your Money"
+    ],
+    "parts": [
+        {
+            "name": "Gathering the Necessary Information",
+            "steps": [
+                {
+                    "headline": "Familiarize yourself with the concept of the effective interest rate.",
+                    "description": "The effective interest rate attempts to describe the full cost of borrowing. It takes into account the effect of compounding interest, which is left out of the nominal or \"stated\" interest rate. For example, a loan with 10 percent interest compounded monthly will actually carry an interest rate higher than 10 percent, because more interest is accumulated each month. The effective interest rate calculation does not take into account one-time fees like loan origination fees. These fees are considered, however, in the calculation of the annual percentage rate."
+                },
+                {
+                    "headline": "Determine the stated interest rate.",
+                    "description": "The stated (also called nominal) interest rate will be expressed as a percentage. The stated interest rate is usually the \"headline\" interest rate. It's the number that the lender typically advertises as the interest rate."
+                },
+                {
+                    "headline": "Determine the number of compounding periods for the loan.",
+                    "description": "The compounding periods will generally be monthly, quarterly, annually, or continuously. This refers to how often the interest is applied. Usually, the compounding period is monthly. You'll still want to check with your lender to verify that, though."
+                }
+            ]
+        },
+        {
+            "name": "Calculating the Effective Interest Rate",
+            "steps": [
+                {
+                    "headline": "Familiarize yourself with the formula for converting the stated interest rate to the effective interest rate.",
+                    "description": "The effective interest rate is calculated through a simple formula: r = (1 + i/n)^n - 1. In this formula, r represents the effective interest rate, i represents the stated interest rate, and n represents the number of compounding periods per year."
+                },
+                {
+                    "headline": "Calculate the effective interest rate using the formula above.",
+                    "description": "For example, consider a loan with a stated interest rate of 5 percent that is compounded monthly. Using the formula yields: r = (1 + .05/12)^12 - 1, or r = 5.12 percent. The same loan compounded daily would yield: r = (1 + .05/365)^365 - 1, or r = 5.13 percent. Note that the effective interest rate will always be greater than the stated rate."
+                },
+                {
+                    "headline": "Familiarize yourself with the formula used in case of continuously compounding interest.",
+                    "description": "If interest is compounded continuously, you should calculate the effective interest rate using a different formula: r = e^i - 1. In this formula, r is the effective interest rate, i is the stated interest rate, and e is the constant 2.718."
+                },
+                {
+                    "headline": "Calculate the effective interest rate in case of continuously compounding interest.",
+                    "description": "For example, consider a loan with a nominal interest rate of 9 percent compounded continuously. The formula above yields: r = 2.718^.09 - 1, or 9.417 percent."
+                },
+                {
+                    "headline": "After reading and fully understanding the theory, calculation can be simplified in the following way.",
+                    "description": "After familiarising the theory, do the maths differently. Find the number of intervals for a year. It is 2 for semi-annual, 4 for quarterly, 12 for monthly, 365 for daily. Number of intervals per year x 100 plus the interest rate. If the interest rate is 5%, it is 205 for semi-annual, 405 for quarterly, 1205 for monthly, 36505 for daily compounding. Effective interest is the value in excess of 100, when the principal is 100. Do the maths as:\n((205\u00f7200)^2)\u00d7100 = 105.0625\n((405\u00f7400)^4)\u00d7100 = 105.095\n((1,205\u00f71,200)^12)\u00d7100=105.116\n((36,505\u00f736,500)^365)\u00d7100 = 105.127\n\nThe value exceeding 100 in case 'a' is the effective interest rate when compounding is semi-annual. Hence 5.063  is the effective interest rate for semi-annual, 5.094 for quarterly, 5.116 for monthly, and 5.127 for daily compounding. Just memorise in the form of a theorem. (No of intervals x 100  plus interest )divided by (number of intervals x100) raised to the power of intervals, the result multiplied by 100. The value exceeding 100 will be the effective interest yield."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil",
+        "Paper",
+        "Calculator"
+    ],
+    "text": " Gathering the Necessary Information Familiarize yourself with the concept of the effective interest rate. The effective interest rate attempts to describe the full cost of borrowing. It takes into account the effect of compounding interest, which is left out of the nominal or \"stated\" interest rate. For example, a loan with 10 percent interest compounded monthly will actually carry an interest rate higher than 10 percent, because more interest is accumulated each month. The effective interest rate calculation does not take into account one-time fees like loan origination fees. These fees are considered, however, in the calculation of the annual percentage rate. Determine the stated interest rate. The stated (also called nominal) interest rate will be expressed as a percentage. The stated interest rate is usually the \"headline\" interest rate. It's the number that the lender typically advertises as the interest rate. Determine the number of compounding periods for the loan. The compounding periods will generally be monthly, quarterly, annually, or continuously. This refers to how often the interest is applied. Usually, the compounding period is monthly. You'll still want to check with your lender to verify that, though. Calculating the Effective Interest Rate Familiarize yourself with the formula for converting the stated interest rate to the effective interest rate. The effective interest rate is calculated through a simple formula: r = (1 + i/n)^n - 1. In this formula, r represents the effective interest rate, i represents the stated interest rate, and n represents the number of compounding periods per year. Calculate the effective interest rate using the formula above. For example, consider a loan with a stated interest rate of 5 percent that is compounded monthly. Using the formula yields: r = (1 + .05/12)^12 - 1, or r = 5.12 percent. The same loan compounded daily would yield: r = (1 + .05/365)^365 - 1, or r = 5.13 percent. Note that the effective interest rate will always be greater than the stated rate. Familiarize yourself with the formula used in case of continuously compounding interest. If interest is compounded continuously, you should calculate the effective interest rate using a different formula: r = e^i - 1. In this formula, r is the effective interest rate, i is the stated interest rate, and e is the constant 2.718. Calculate the effective interest rate in case of continuously compounding interest. For example, consider a loan with a nominal interest rate of 9 percent compounded continuously. The formula above yields: r = 2.718^.09 - 1, or 9.417 percent. After reading and fully understanding the theory, calculation can be simplified in the following way. After familiarising the theory, do the maths differently. Find the number of intervals for a year. It is 2 for semi-annual, 4 for quarterly, 12 for monthly, 365 for daily. Number of intervals per year x 100 plus the interest rate. If the interest rate is 5%, it is 205 for semi-annual, 405 for quarterly, 1205 for monthly, 36505 for daily compounding. Effective interest is the value in excess of 100, when the principal is 100. Do the maths as:\n((205\u00f7200)^2)\u00d7100 = 105.0625\n((405\u00f7400)^4)\u00d7100 = 105.095\n((1,205\u00f71,200)^12)\u00d7100=105.116\n((36,505\u00f736,500)^365)\u00d7100 = 105.127\n\nThe value exceeding 100 in case 'a' is the effective interest rate when compounding is semi-annual. Hence 5.063  is the effective interest rate for semi-annual, 5.094 for quarterly, 5.116 for monthly, and 5.127 for daily compounding. Just memorise in the form of a theorem. (No of intervals x 100  plus interest )divided by (number of intervals x100) raised to the power of intervals, the result multiplied by 100. The value exceeding 100 will be the effective interest yield.",
+    "sentences": [
+        " Gathering the Necessary Information Familiarize yourself with the concept of the effective interest rate.",
+        "The effective interest rate attempts to describe the full cost of borrowing.",
+        "It takes into account the effect of compounding interest, which is left out of the nominal or \"stated\" interest rate.",
+        "For example, a loan with 10 percent interest compounded monthly will actually carry an interest rate higher than 10 percent, because more interest is accumulated each month.",
+        "The effective interest rate calculation does not take into account one-time fees like loan origination fees.",
+        "These fees are considered, however, in the calculation of the annual percentage rate.",
+        "Determine the stated interest rate.",
+        "The stated (also called nominal) interest rate will be expressed as a percentage.",
+        "The stated interest rate is usually the \"headline\" interest rate.",
+        "It's the number that the lender typically advertises as the interest rate.",
+        "Determine the number of compounding periods for the loan.",
+        "The compounding periods will generally be monthly, quarterly, annually, or continuously.",
+        "This refers to how often the interest is applied.",
+        "Usually, the compounding period is monthly.",
+        "You'll still want to check with your lender to verify that, though.",
+        "Calculating the Effective Interest Rate Familiarize yourself with the formula for converting the stated interest rate to the effective interest rate.",
+        "The effective interest rate is calculated through a simple formula: r = (1 + i/n)^n - 1.",
+        "In this formula, r represents the effective interest rate, i represents the stated interest rate, and n represents the number of compounding periods per year.",
+        "Calculate the effective interest rate using the formula above.",
+        "For example, consider a loan with a stated interest rate of 5 percent that is compounded monthly.",
+        "Using the formula yields: r = (1 + .05/12)^12 - 1, or r = 5.12 percent.",
+        "The same loan compounded daily would yield: r = (1 + .05/365)^365 - 1, or r = 5.13 percent.",
+        "Note that the effective interest rate will always be greater than the stated rate.",
+        "Familiarize yourself with the formula used in case of continuously compounding interest.",
+        "If interest is compounded continuously, you should calculate the effective interest rate using a different formula: r = e^i - 1.",
+        "In this formula, r is the effective interest rate, i is the stated interest rate, and e is the constant 2.718.",
+        "Calculate the effective interest rate in case of continuously compounding interest.",
+        "For example, consider a loan with a nominal interest rate of 9 percent compounded continuously.",
+        "The formula above yields: r = 2.718^.09 - 1, or 9.417 percent.",
+        "After reading and fully understanding the theory, calculation can be simplified in the following way.",
+        "After familiarising the theory, do the maths differently.",
+        "Find the number of intervals for a year.",
+        "It is 2 for semi-annual, 4 for quarterly, 12 for monthly, 365 for daily.",
+        "Number of intervals per year x 100 plus the interest rate.",
+        "If the interest rate is 5%, it is 205 for semi-annual, 405 for quarterly, 1205 for monthly, 36505 for daily compounding.",
+        "Effective interest is the value in excess of 100, when the principal is 100.",
+        "Do the maths as:\n((205\u00f7200)^2)\u00d7100 = 105.0625\n((405\u00f7400)^4)\u00d7100 = 105.095\n((1,205\u00f71,200)^12)\u00d7100=105.116\n((36,505\u00f736,500)^365)\u00d7100 = 105.127\n\nThe value exceeding 100 in case 'a' is the effective interest rate when compounding is semi-annual.",
+        "Hence 5.063  is the effective interest rate for semi-annual, 5.094 for quarterly, 5.116 for monthly, and 5.127 for daily compounding.",
+        "Just memorise in the form of a theorem.",
+        "(No of intervals x 100  plus interest )divided by (number of intervals x100) raised to the power of intervals, the result multiplied by 100.",
+        "The value exceeding 100 will be the effective interest yield."
+    ]
+}

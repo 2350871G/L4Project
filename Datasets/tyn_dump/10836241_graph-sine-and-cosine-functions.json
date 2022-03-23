@@ -1,0 +1,139 @@
+{
+    "title": "How to Graph Sine and Cosine Functions",
+    "url": "https://www.wikihow.com/Graph-Sine-and-Cosine-Functions",
+    "category_hierarchy": [
+        "Education and Communications",
+        "Studying",
+        "Subjects",
+        "Mathematics",
+        "Trigonometry"
+    ],
+    "parts": [
+        {
+            "name": "Graphing the Basic Equations",
+            "steps": [
+                {
+                    "headline": "Draw a coordinate plane.",
+                    "description": "For a sine or cosine graph, simply go from 0 to 2\u03c0 on the x-axis, and -1 to 1 on the y-axis, intersecting at the origin (0, 0). Both y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos\u2061(x){\\displaystyle y=\\cos(x)} repeat the same shape from negative infinity to positive infinity on the x-axis (you'll generally only graph a portion of it). Use the basic equations as given: y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos(x){\\displaystyle y=cos(x)}"
+                },
+                {
+                    "headline": "Graph the basic form of y=sin\u2061(x){\\displaystyle y=\\sin(x)}.",
+                    "description": "Plot and connect the points (0, 0), (\u03c0/2, 1), (\u03c0, 0), and (3\u03c0/2, -1) with a continuous curve. Both y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos\u2061(x){\\displaystyle y=\\cos(x)} never go past -1 or 1 on the y-axis. Since you are only hand-drawing your graphs, there is no precise scale, but it must be accurate at certain points."
+                },
+                {
+                    "headline": "Graph the basic form of y=cos(x){\\displaystyle y=cos(x)}.",
+                    "description": "Plot and connect the points (0, 1), (\u03c0/2, 0), (\u03c0, -1), and (3\u03c0/2, 0) with a continuous curve. It may be helpful to use two separate colors to distinguish between sine and cosine."
+                }
+            ]
+        },
+        {
+            "name": "Graphing Different Sine Equations",
+            "steps": [
+                {
+                    "headline": "Use the standard equation to define your variables.",
+                    "description": "y=Asin\u2061(Bx+C)+D{\\displaystyle y=A\\sin(Bx+C)+D}\nFind your values of A, B, C, and D.\nNote that in the basic equation for sine, A = 1, B = 1, C = 0, and D = 0."
+                },
+                {
+                    "headline": "Calculate the period.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/3\\/3e\\/Sinx_period_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3e\\/Sinx_period_change.gif\\/300px-Sinx_period_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nDivide your period on the x-axis into four sections that are equal distances apart, just like in the basic equations. The y-values will still alternate from 0, 1, 0, and -1 just like in the basic equation. Period=2\u03c0B{\\displaystyle {\\text{Period}}={\\frac {2\\pi }{B}}}"
+                },
+                {
+                    "headline": "Calculate the amplitude.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/85\\/Sinx_amplitude_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/85\\/Sinx_amplitude_change.gif\\/300px-Sinx_amplitude_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nAmplitude=A{\\displaystyle {\\text{Amplitude}}=A}\nMultiply the y-values you have by A, and graph these new points. If A is negative, the graph will flip over the x-axis. This is called a reflection."
+                },
+                {
+                    "headline": "Calculate the phase shift.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1c\\/Sinx_phase_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1c\\/Sinx_phase_change.gif\\/300px-Sinx_phase_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nPhase shift=CB{\\displaystyle {\\text{Phase shift}}={\\frac {C}{B}}}\nThis will move the graph to the left or right. For each x-value in the period, move the x-value to the left by C/B if C/B is negative, or move each x-value to the right by C/B if C/B is positive."
+                },
+                {
+                    "headline": "Calculate the vertical shift.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f2\\/Sinx_intercept_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f2\\/Sinx_intercept_change.gif\\/300px-Sinx_intercept_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nVertical shift=D{\\displaystyle {\\text{Vertical shift}}=D}\nFor each y-value, move the y-value up by D if D is positive, or move the y-value down if D is negative."
+                },
+                {
+                    "headline": "Graph the final function.",
+                    "description": "After each transformation has been applied, your graph is finished!"
+                }
+            ]
+        },
+        {
+            "name": "Graphing Different Cosine Equations",
+            "steps": [
+                {
+                    "headline": "Use the standard equation to define your variables.",
+                    "description": "y=Acos\u2061(Bx+C)+D{\\displaystyle y=A\\cos(Bx+C)+D}\nFind your values of A, B, C, and D.\nNote that in the basic equation for cosine, A = 1, B = 1, C = 0, and D = 0."
+                },
+                {
+                    "headline": "Calculate the period.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/c4\\/Cosx_period_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c4\\/Cosx_period_change.gif\\/300px-Cosx_period_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nDivide your period on the x-axis into four sections that are equal distances apart, just like in the basic equations. The y-values will still alternate from 1, 0, -1, and 0 just like in the basic equation. Period=2\u03c0B{\\displaystyle {\\text{Period}}={\\frac {2\\pi }{B}}}"
+                },
+                {
+                    "headline": "Calculate the amplitude.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d9\\/Cosx_amplitude_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d9\\/Cosx_amplitude_change.gif\\/300px-Cosx_amplitude_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nAmplitude=A{\\displaystyle {\\text{Amplitude}}=A}\nMultiply the y-values you have by A, and graph these new points. If A is negative, the graph will flip over the x-axis. This is called a reflection."
+                },
+                {
+                    "headline": "Calculate the phase shift.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/ed\\/Cosx_phase_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ed\\/Cosx_phase_change.gif\\/300px-Cosx_phase_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nPhase shift=CB{\\displaystyle {\\text{Phase shift}}={\\frac {C}{B}}}\nThis will move the graph to the left or right. For each x-value in the period, move the x-value to the left by C/B if C/B is negative, or move each x-value to the right by C/B if C/B is positive."
+                },
+                {
+                    "headline": "Calculate the vertical shift.",
+                    "description": "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/75\\/Cosx_intercept_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/75\\/Cosx_intercept_change.gif\\/300px-Cosx_intercept_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nVertical shift=D{\\displaystyle {\\text{Vertical shift}}=D}\nThis will move the graph up or down. For each y-value, move the y-value up by D if D is positive, or move the y-value down if D is negative."
+                },
+                {
+                    "headline": "Graph the final function.",
+                    "description": "After each transformation has been applied, your graph is finished!"
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Pencil or pen to draw",
+        "Different colors to display the different shapes of the graph (optional)",
+        "Graphing calculator or software to check your work (optional)"
+    ],
+    "text": " Graphing the Basic Equations Draw a coordinate plane. For a sine or cosine graph, simply go from 0 to 2\u03c0 on the x-axis, and -1 to 1 on the y-axis, intersecting at the origin (0, 0). Both y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos\u2061(x){\\displaystyle y=\\cos(x)} repeat the same shape from negative infinity to positive infinity on the x-axis (you'll generally only graph a portion of it). Use the basic equations as given: y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos(x){\\displaystyle y=cos(x)} Graph the basic form of y=sin\u2061(x){\\displaystyle y=\\sin(x)}. Plot and connect the points (0, 0), (\u03c0/2, 1), (\u03c0, 0), and (3\u03c0/2, -1) with a continuous curve. Both y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos\u2061(x){\\displaystyle y=\\cos(x)} never go past -1 or 1 on the y-axis. Since you are only hand-drawing your graphs, there is no precise scale, but it must be accurate at certain points. Graph the basic form of y=cos(x){\\displaystyle y=cos(x)}. Plot and connect the points (0, 1), (\u03c0/2, 0), (\u03c0, -1), and (3\u03c0/2, 0) with a continuous curve. It may be helpful to use two separate colors to distinguish between sine and cosine. Graphing Different Sine Equations Use the standard equation to define your variables. y=Asin\u2061(Bx+C)+D{\\displaystyle y=A\\sin(Bx+C)+D}\nFind your values of A, B, C, and D.\nNote that in the basic equation for sine, A = 1, B = 1, C = 0, and D = 0. Calculate the period. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/3\\/3e\\/Sinx_period_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3e\\/Sinx_period_change.gif\\/300px-Sinx_period_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nDivide your period on the x-axis into four sections that are equal distances apart, just like in the basic equations. The y-values will still alternate from 0, 1, 0, and -1 just like in the basic equation. Period=2\u03c0B{\\displaystyle {\\text{Period}}={\\frac {2\\pi }{B}}} Calculate the amplitude. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/85\\/Sinx_amplitude_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/85\\/Sinx_amplitude_change.gif\\/300px-Sinx_amplitude_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nAmplitude=A{\\displaystyle {\\text{Amplitude}}=A}\nMultiply the y-values you have by A, and graph these new points. If A is negative, the graph will flip over the x-axis. This is called a reflection. Calculate the phase shift. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1c\\/Sinx_phase_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1c\\/Sinx_phase_change.gif\\/300px-Sinx_phase_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nPhase shift=CB{\\displaystyle {\\text{Phase shift}}={\\frac {C}{B}}}\nThis will move the graph to the left or right. For each x-value in the period, move the x-value to the left by C/B if C/B is negative, or move each x-value to the right by C/B if C/B is positive. Calculate the vertical shift. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f2\\/Sinx_intercept_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f2\\/Sinx_intercept_change.gif\\/300px-Sinx_intercept_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nVertical shift=D{\\displaystyle {\\text{Vertical shift}}=D}\nFor each y-value, move the y-value up by D if D is positive, or move the y-value down if D is negative. Graph the final function. After each transformation has been applied, your graph is finished! Graphing Different Cosine Equations Use the standard equation to define your variables. y=Acos\u2061(Bx+C)+D{\\displaystyle y=A\\cos(Bx+C)+D}\nFind your values of A, B, C, and D.\nNote that in the basic equation for cosine, A = 1, B = 1, C = 0, and D = 0. Calculate the period. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/c4\\/Cosx_period_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c4\\/Cosx_period_change.gif\\/300px-Cosx_period_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nDivide your period on the x-axis into four sections that are equal distances apart, just like in the basic equations. The y-values will still alternate from 1, 0, -1, and 0 just like in the basic equation. Period=2\u03c0B{\\displaystyle {\\text{Period}}={\\frac {2\\pi }{B}}} Calculate the amplitude. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d9\\/Cosx_amplitude_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d9\\/Cosx_amplitude_change.gif\\/300px-Cosx_amplitude_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nAmplitude=A{\\displaystyle {\\text{Amplitude}}=A}\nMultiply the y-values you have by A, and graph these new points. If A is negative, the graph will flip over the x-axis. This is called a reflection. Calculate the phase shift. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/ed\\/Cosx_phase_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ed\\/Cosx_phase_change.gif\\/300px-Cosx_phase_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nPhase shift=CB{\\displaystyle {\\text{Phase shift}}={\\frac {C}{B}}}\nThis will move the graph to the left or right. For each x-value in the period, move the x-value to the left by C/B if C/B is negative, or move each x-value to the right by C/B if C/B is positive. Calculate the vertical shift. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/75\\/Cosx_intercept_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/75\\/Cosx_intercept_change.gif\\/300px-Cosx_intercept_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nVertical shift=D{\\displaystyle {\\text{Vertical shift}}=D}\nThis will move the graph up or down. For each y-value, move the y-value up by D if D is positive, or move the y-value down if D is negative. Graph the final function. After each transformation has been applied, your graph is finished!",
+    "sentences": [
+        " Graphing the Basic Equations Draw a coordinate plane.",
+        "For a sine or cosine graph, simply go from 0 to 2\u03c0 on the x-axis, and -1 to 1 on the y-axis, intersecting at the origin (0, 0).",
+        "Both y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos\u2061(x){\\displaystyle y=\\cos(x)} repeat the same shape from negative infinity to positive infinity on the x-axis (you'll generally only graph a portion of it).",
+        "Use the basic equations as given: y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos(x){\\displaystyle y=cos(x)} Graph the basic form of y=sin\u2061(x){\\displaystyle y=\\sin(x)}.",
+        "Plot and connect the points (0, 0), (\u03c0/2, 1), (\u03c0, 0), and (3\u03c0/2, -1) with a continuous curve.",
+        "Both y=sin\u2061(x){\\displaystyle y=\\sin(x)} and y=cos\u2061(x){\\displaystyle y=\\cos(x)} never go past -1 or 1 on the y-axis.",
+        "Since you are only hand-drawing your graphs, there is no precise scale, but it must be accurate at certain points.",
+        "Graph the basic form of y=cos(x){\\displaystyle y=cos(x)}.",
+        "Plot and connect the points (0, 1), (\u03c0/2, 0), (\u03c0, -1), and (3\u03c0/2, 0) with a continuous curve.",
+        "It may be helpful to use two separate colors to distinguish between sine and cosine.",
+        "Graphing Different Sine Equations Use the standard equation to define your variables.",
+        "y=Asin\u2061(Bx+C)+D{\\displaystyle y=A\\sin(Bx+C)+D}\nFind your values of A, B, C, and D.\nNote that in the basic equation for sine, A = 1, B = 1, C = 0, and D = 0.",
+        "Calculate the period.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/3\\/3e\\/Sinx_period_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/3\\/3e\\/Sinx_period_change.gif\\/300px-Sinx_period_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nDivide your period on the x-axis into four sections that are equal distances apart, just like in the basic equations.",
+        "The y-values will still alternate from 0, 1, 0, and -1 just like in the basic equation.",
+        "Period=2\u03c0B{\\displaystyle {\\text{Period}}={\\frac {2\\pi }{B}}} Calculate the amplitude.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/8\\/85\\/Sinx_amplitude_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/8\\/85\\/Sinx_amplitude_change.gif\\/300px-Sinx_amplitude_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nAmplitude=A{\\displaystyle {\\text{Amplitude}}=A}\nMultiply the y-values you have by A, and graph these new points.",
+        "If A is negative, the graph will flip over the x-axis.",
+        "This is called a reflection.",
+        "Calculate the phase shift.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1c\\/Sinx_phase_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1c\\/Sinx_phase_change.gif\\/300px-Sinx_phase_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nPhase shift=CB{\\displaystyle {\\text{Phase shift}}={\\frac {C}{B}}}\nThis will move the graph to the left or right.",
+        "For each x-value in the period, move the x-value to the left by C/B if C/B is negative, or move each x-value to the right by C/B if C/B is positive.",
+        "Calculate the vertical shift.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f2\\/Sinx_intercept_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f2\\/Sinx_intercept_change.gif\\/300px-Sinx_intercept_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nVertical shift=D{\\displaystyle {\\text{Vertical shift}}=D}\nFor each y-value, move the y-value up by D if D is positive, or move the y-value down if D is negative.",
+        "Graph the final function.",
+        "After each transformation has been applied, your graph is finished!",
+        "Graphing Different Cosine Equations Use the standard equation to define your variables.",
+        "y=Acos\u2061(Bx+C)+D{\\displaystyle y=A\\cos(Bx+C)+D}\nFind your values of A, B, C, and D.\nNote that in the basic equation for cosine, A = 1, B = 1, C = 0, and D = 0.",
+        "Calculate the period.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/c4\\/Cosx_period_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c4\\/Cosx_period_change.gif\\/300px-Cosx_period_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nDivide your period on the x-axis into four sections that are equal distances apart, just like in the basic equations.",
+        "The y-values will still alternate from 1, 0, -1, and 0 just like in the basic equation.",
+        "Period=2\u03c0B{\\displaystyle {\\text{Period}}={\\frac {2\\pi }{B}}} Calculate the amplitude.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d9\\/Cosx_amplitude_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d9\\/Cosx_amplitude_change.gif\\/300px-Cosx_amplitude_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nAmplitude=A{\\displaystyle {\\text{Amplitude}}=A}\nMultiply the y-values you have by A, and graph these new points.",
+        "If A is negative, the graph will flip over the x-axis.",
+        "This is called a reflection.",
+        "Calculate the phase shift.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/ed\\/Cosx_phase_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ed\\/Cosx_phase_change.gif\\/300px-Cosx_phase_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nPhase shift=CB{\\displaystyle {\\text{Phase shift}}={\\frac {C}{B}}}\nThis will move the graph to the left or right.",
+        "For each x-value in the period, move the x-value to the left by C/B if C/B is negative, or move each x-value to the right by C/B if C/B is positive.",
+        "Calculate the vertical shift.",
+        "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/75\\/Cosx_intercept_change.gif\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/75\\/Cosx_intercept_change.gif\\/300px-Cosx_intercept_change.gif\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"300\",\"bigHeight\":\"300\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}\nVertical shift=D{\\displaystyle {\\text{Vertical shift}}=D}\nThis will move the graph up or down.",
+        "For each y-value, move the y-value up by D if D is positive, or move the y-value down if D is negative.",
+        "Graph the final function.",
+        "After each transformation has been applied, your graph is finished!"
+    ]
+}

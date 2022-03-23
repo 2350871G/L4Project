@@ -1,0 +1,172 @@
+{
+    "title": "How to Remove Background With Photoshop Elements",
+    "url": "https://www.wikihow.com/Remove-Background-With-Photoshop-Elements",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Software",
+        "Adobe Software",
+        "Adobe Photoshop Elements"
+    ],
+    "methods": [
+        {
+            "name": "Deleting a Simple Background",
+            "steps": [
+                {
+                    "headline": "Open the image in Photoshop Elements.",
+                    "description": "This method works best if the background is a solid color, or close to a solid color."
+                },
+                {
+                    "headline": "Navigate to the Layers window.",
+                    "description": "This is typically located on the right side of the screen. Most images that haven\u2019t been edited before will only have one layer, called \u201cBackground\u201d. Right-click on this layer and select \u201cLayer From Background\u2026\u201d. This will open the New Layer window. Leave the options at their presets and press OK. \u201cBackground\u201d will change to \u201cLayer 0\u201d. Doing this will unlock the image, allowing you to edit it."
+                },
+                {
+                    "headline": "Select the Magic Eraser tool.",
+                    "description": "This is located in the Eraser tool menu. To access it, click and hold the Eraser tool icon. Select the Magic Eraser Tool from the menu that appears."
+                },
+                {
+                    "headline": "Adjust the Magic Eraser settings.",
+                    "description": "Once you select the Magic Eraser, you will see some settings in the top menu bar. Adjust them so that they look similar to this:\nSet Tolerance to 20-30. A low tolerance will keep parts of your original image from being erased when you use the tool. Adjust the tolerance to find a level that works for your project. Check the Anti-alias box. Check the Contiguous box. Set Opacity to 100%"
+                },
+                {
+                    "headline": "Click the background.",
+                    "description": "The Magic Eraser will remove all of the color that you clicked on, turning it into transparent background. The Tolerance level will affect how many related colors are removed as well (For gradient backgrounds)."
+                },
+                {
+                    "headline": "Make any minor adjustments.",
+                    "description": "If you were deleting a solid-color background, it should be almost completely erased in one click. You may need to zoom in and make minor adjustments with the Eraser tool."
+                },
+                {
+                    "headline": "Select your object.",
+                    "description": "Once you are satisfied with the removal of the background, you can use the Lasso tool to draw a rough outline around the object. Press Ctrl+Shift+J to create a \u201cNew Layer Via Cut\u201d, which will place your object on a separate layer from the old background. You can now delete the background layer (Layer 0)."
+                },
+                {
+                    "headline": "Save your image.",
+                    "description": "You now have an object with a transparent background that can be overlaid onto any other existing image."
+                }
+            ]
+        },
+        {
+            "name": "Erasing a Complex Background",
+            "steps": [
+                {
+                    "headline": "Open the image that you want to edit.",
+                    "description": "This method will allow you to delete more complex background without removing the subject of the picture.."
+                },
+                {
+                    "headline": "Select the Background Eraser tool.",
+                    "description": "Click and hold the Eraser icon until the Eraser menu appears. Select Background Eraser Tool."
+                },
+                {
+                    "headline": "Set your brush options.",
+                    "description": "In the toolbar at the top of the window, click the arrow icon next to the brush shape. Set the Hardness to 100% so that the edges of the brush remove as much as the center. Set the diameter to a size that works well with the image you have. You will be making large, broad strokes with the brush."
+                },
+                {
+                    "headline": "Set the Limits to Contiguous.",
+                    "description": "This will delete the color that you select in the circle, but only if the colors are touching. This will help keep from deleting colors inside the subject of the photo, while only erasing the background. If you have spots of the image where there is background inside the subject (wisps of hair that can be seen through, for example), use the Dis contiguous option to remove the background from inside the isolated spots."
+                },
+                {
+                    "headline": "Set a low Tolerance.",
+                    "description": "A low tolerance limits erasure to areas that are very similar to the sampled color. A high tolerance erases a broader range of colors. Set your tolerance between 20-30."
+                },
+                {
+                    "headline": "Bring the pointer near to the edge of subject.",
+                    "description": "You will see a circle with small cross hairs in the center. The crosshairs show the \u201chotspot\u201d and deletes that color wherever it appears inside the brush. It also performs color extraction at the edges of any foreground objects, so that color halos are not visible if the foreground object is later pasted into another image."
+                },
+                {
+                    "headline": "Click and drag to start erasing.",
+                    "description": "You can allow the circle to cross over into the subject while erasing and you shouldn\u2019t lose anything, but do not allow the cross hair in the circle to touch the subject, otherwise you will start deleting those colors.."
+                },
+                {
+                    "headline": "Check your progress.",
+                    "description": "As you click and drag you\u2019ll see the checkerboard pattern appear in the areas you have erased. The checkerboard represents transparency."
+                },
+                {
+                    "headline": "Continue erasing around the subject.",
+                    "description": "In some places you will need to reduce the size of the brush to ensure that you don\u2019t accidentally erase part of the subject. For example, in this image you would want to change the size when erasing between the petals."
+                },
+                {
+                    "headline": "Focus on erasing on the exact edge of the subject.",
+                    "description": "Once you have the subject properly outlined, you can make broad strokes with a standard eraser to remove the remaining background."
+                },
+                {
+                    "headline": "Smudge the edges.",
+                    "description": "If you want to soften the edges of your subject so that it will blend in better with the whatever background you put it on, use the Smudge tool. Set it to a low strength (20% or so) and drag it around the edge of the subject. This will soften any hard lines."
+                }
+            ]
+        }
+    ],
+    "tyn": [
+        "Photoshop Elements"
+    ],
+    "text": " Deleting a Simple Background Open the image in Photoshop Elements. This method works best if the background is a solid color, or close to a solid color. Navigate to the Layers window. This is typically located on the right side of the screen. Most images that haven\u2019t been edited before will only have one layer, called \u201cBackground\u201d. Right-click on this layer and select \u201cLayer From Background\u2026\u201d. This will open the New Layer window. Leave the options at their presets and press OK. \u201cBackground\u201d will change to \u201cLayer 0\u201d. Doing this will unlock the image, allowing you to edit it. Select the Magic Eraser tool. This is located in the Eraser tool menu. To access it, click and hold the Eraser tool icon. Select the Magic Eraser Tool from the menu that appears. Adjust the Magic Eraser settings. Once you select the Magic Eraser, you will see some settings in the top menu bar. Adjust them so that they look similar to this:\nSet Tolerance to 20-30. A low tolerance will keep parts of your original image from being erased when you use the tool. Adjust the tolerance to find a level that works for your project. Check the Anti-alias box. Check the Contiguous box. Set Opacity to 100% Click the background. The Magic Eraser will remove all of the color that you clicked on, turning it into transparent background. The Tolerance level will affect how many related colors are removed as well (For gradient backgrounds). Make any minor adjustments. If you were deleting a solid-color background, it should be almost completely erased in one click. You may need to zoom in and make minor adjustments with the Eraser tool. Select your object. Once you are satisfied with the removal of the background, you can use the Lasso tool to draw a rough outline around the object. Press Ctrl+Shift+J to create a \u201cNew Layer Via Cut\u201d, which will place your object on a separate layer from the old background. You can now delete the background layer (Layer 0). Save your image. You now have an object with a transparent background that can be overlaid onto any other existing image. Erasing a Complex Background Open the image that you want to edit. This method will allow you to delete more complex background without removing the subject of the picture.. Select the Background Eraser tool. Click and hold the Eraser icon until the Eraser menu appears. Select Background Eraser Tool. Set your brush options. In the toolbar at the top of the window, click the arrow icon next to the brush shape. Set the Hardness to 100% so that the edges of the brush remove as much as the center. Set the diameter to a size that works well with the image you have. You will be making large, broad strokes with the brush. Set the Limits to Contiguous. This will delete the color that you select in the circle, but only if the colors are touching. This will help keep from deleting colors inside the subject of the photo, while only erasing the background. If you have spots of the image where there is background inside the subject (wisps of hair that can be seen through, for example), use the Dis contiguous option to remove the background from inside the isolated spots. Set a low Tolerance. A low tolerance limits erasure to areas that are very similar to the sampled color. A high tolerance erases a broader range of colors. Set your tolerance between 20-30. Bring the pointer near to the edge of subject. You will see a circle with small cross hairs in the center. The crosshairs show the \u201chotspot\u201d and deletes that color wherever it appears inside the brush. It also performs color extraction at the edges of any foreground objects, so that color halos are not visible if the foreground object is later pasted into another image. Click and drag to start erasing. You can allow the circle to cross over into the subject while erasing and you shouldn\u2019t lose anything, but do not allow the cross hair in the circle to touch the subject, otherwise you will start deleting those colors.. Check your progress. As you click and drag you\u2019ll see the checkerboard pattern appear in the areas you have erased. The checkerboard represents transparency. Continue erasing around the subject. In some places you will need to reduce the size of the brush to ensure that you don\u2019t accidentally erase part of the subject. For example, in this image you would want to change the size when erasing between the petals. Focus on erasing on the exact edge of the subject. Once you have the subject properly outlined, you can make broad strokes with a standard eraser to remove the remaining background. Smudge the edges. If you want to soften the edges of your subject so that it will blend in better with the whatever background you put it on, use the Smudge tool. Set it to a low strength (20% or so) and drag it around the edge of the subject. This will soften any hard lines.",
+    "sentences": [
+        " Deleting a Simple Background Open the image in Photoshop Elements.",
+        "This method works best if the background is a solid color, or close to a solid color.",
+        "Navigate to the Layers window.",
+        "This is typically located on the right side of the screen.",
+        "Most images that haven\u2019t been edited before will only have one layer, called \u201cBackground\u201d.",
+        "Right-click on this layer and select \u201cLayer From Background\u2026\u201d.",
+        "This will open the New Layer window.",
+        "Leave the options at their presets and press OK. \u201cBackground\u201d will change to \u201cLayer 0\u201d.",
+        "Doing this will unlock the image, allowing you to edit it.",
+        "Select the Magic Eraser tool.",
+        "This is located in the Eraser tool menu.",
+        "To access it, click and hold the Eraser tool icon.",
+        "Select the Magic Eraser Tool from the menu that appears.",
+        "Adjust the Magic Eraser settings.",
+        "Once you select the Magic Eraser, you will see some settings in the top menu bar.",
+        "Adjust them so that they look similar to this:\nSet Tolerance to 20-30.",
+        "A low tolerance will keep parts of your original image from being erased when you use the tool.",
+        "Adjust the tolerance to find a level that works for your project.",
+        "Check the Anti-alias box.",
+        "Check the Contiguous box.",
+        "Set Opacity to 100% Click the background.",
+        "The Magic Eraser will remove all of the color that you clicked on, turning it into transparent background.",
+        "The Tolerance level will affect how many related colors are removed as well (For gradient backgrounds).",
+        "Make any minor adjustments.",
+        "If you were deleting a solid-color background, it should be almost completely erased in one click.",
+        "You may need to zoom in and make minor adjustments with the Eraser tool.",
+        "Select your object.",
+        "Once you are satisfied with the removal of the background, you can use the Lasso tool to draw a rough outline around the object.",
+        "Press Ctrl+Shift+J to create a \u201cNew Layer Via Cut\u201d, which will place your object on a separate layer from the old background.",
+        "You can now delete the background layer (Layer 0).",
+        "Save your image.",
+        "You now have an object with a transparent background that can be overlaid onto any other existing image.",
+        "Erasing a Complex Background Open the image that you want to edit.",
+        "This method will allow you to delete more complex background without removing the subject of the picture..",
+        "Select the Background Eraser tool.",
+        "Click and hold the Eraser icon until the Eraser menu appears.",
+        "Select Background Eraser Tool.",
+        "Set your brush options.",
+        "In the toolbar at the top of the window, click the arrow icon next to the brush shape.",
+        "Set the Hardness to 100% so that the edges of the brush remove as much as the center.",
+        "Set the diameter to a size that works well with the image you have.",
+        "You will be making large, broad strokes with the brush.",
+        "Set the Limits to Contiguous.",
+        "This will delete the color that you select in the circle, but only if the colors are touching.",
+        "This will help keep from deleting colors inside the subject of the photo, while only erasing the background.",
+        "If you have spots of the image where there is background inside the subject (wisps of hair that can be seen through, for example), use the Dis contiguous option to remove the background from inside the isolated spots.",
+        "Set a low Tolerance.",
+        "A low tolerance limits erasure to areas that are very similar to the sampled color.",
+        "A high tolerance erases a broader range of colors.",
+        "Set your tolerance between 20-30.",
+        "Bring the pointer near to the edge of subject.",
+        "You will see a circle with small cross hairs in the center.",
+        "The crosshairs show the \u201chotspot\u201d and deletes that color wherever it appears inside the brush.",
+        "It also performs color extraction at the edges of any foreground objects, so that color halos are not visible if the foreground object is later pasted into another image.",
+        "Click and drag to start erasing.",
+        "You can allow the circle to cross over into the subject while erasing and you shouldn\u2019t lose anything, but do not allow the cross hair in the circle to touch the subject, otherwise you will start deleting those colors..",
+        "Check your progress.",
+        "As you click and drag you\u2019ll see the checkerboard pattern appear in the areas you have erased.",
+        "The checkerboard represents transparency.",
+        "Continue erasing around the subject.",
+        "In some places you will need to reduce the size of the brush to ensure that you don\u2019t accidentally erase part of the subject.",
+        "For example, in this image you would want to change the size when erasing between the petals.",
+        "Focus on erasing on the exact edge of the subject.",
+        "Once you have the subject properly outlined, you can make broad strokes with a standard eraser to remove the remaining background.",
+        "Smudge the edges.",
+        "If you want to soften the edges of your subject so that it will blend in better with the whatever background you put it on, use the Smudge tool.",
+        "Set it to a low strength (20% or so) and drag it around the edge of the subject.",
+        "This will soften any hard lines."
+    ]
+}

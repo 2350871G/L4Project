@@ -1,0 +1,59 @@
+{
+    "title": "How to Fix Ntfs Error",
+    "url": "https://www.wikihow.com/Fix-Ntfs-Error",
+    "category_hierarchy": [
+        "Computers and Electronics",
+        "Maintenance and Repair",
+        "System Maintenance and Repair"
+    ],
+    "steps": [
+        {
+            "headline": "Attempt to boot your computer in order to run the disk repair utility chkdsk.",
+            "description": "This can be done by one of the following ways:Safe mode:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/58\\/Fix-Ntfs-Error-Step-1Bullet1.jpg\\/v4-460px-Fix-Ntfs-Error-Step-1Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/58\\/Fix-Ntfs-Error-Step-1Bullet1.jpg\\/aid189681-v4-675px-Fix-Ntfs-Error-Step-1Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":258,\"bigWidth\":\"675\",\"bigHeight\":\"379\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nBoot your computer in safe mode, continuously press F8 key while it's starting. A menu will appear where you can choose booting in \"safe mode\". System installation CD-ROM or DVD:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/78\\/Fix-Ntfs-Error-Step-1Bullet2.jpg\\/v4-460px-Fix-Ntfs-Error-Step-1Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/78\\/Fix-Ntfs-Error-Step-1Bullet2.jpg\\/aid189681-v4-664px-Fix-Ntfs-Error-Step-1Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":263,\"bigWidth\":\"664\",\"bigHeight\":\"380\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nInsert your system install medium into the computer. When it starts it should detect that an installation has already been made and let you start the recovery console (by pressing the 'R' key). You will have to follow the on-screen instructions until you see the repair console."
+        },
+        {
+            "headline": "Place the disk on a different computer.",
+            "description": "Remove the hard disk drive from your computer and place it on another computer. You'll be able to access your disk from the other computer's host system."
+        },
+        {
+            "headline": "Run 'chkdsk' until end.",
+            "description": ""
+        },
+        {
+            "headline": "If you have a graphical interface, go to \"My Computer\", select the appropriate disk, click with the right mouse button and select Properties.",
+            "description": "Head for the \"Tools\" tab. Select \"Check this drive for errors\"."
+        },
+        {
+            "headline": "If you have just a text console, write \"chkdsk c:\".",
+            "description": "\"c:\" should be replaced with the appropriate drive letter for the partition you are trying to check."
+        },
+        {
+            "headline": "In order to fix problems found repeat the above step but use \"chkdsk c: /r\" in order for the utility to automatically recover lost data.",
+            "description": "this process can take some time depending on speed of computer and size of Hard drive"
+        }
+    ],
+    "tyn": [
+        "Your disk with the NTFS partition you want to fix.",
+        "Another computer to plug the disk into (optional)"
+    ],
+    "text": " Attempt to boot your computer in order to run the disk repair utility chkdsk. This can be done by one of the following ways:Safe mode:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/58\\/Fix-Ntfs-Error-Step-1Bullet1.jpg\\/v4-460px-Fix-Ntfs-Error-Step-1Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/58\\/Fix-Ntfs-Error-Step-1Bullet1.jpg\\/aid189681-v4-675px-Fix-Ntfs-Error-Step-1Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":258,\"bigWidth\":\"675\",\"bigHeight\":\"379\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nBoot your computer in safe mode, continuously press F8 key while it's starting. A menu will appear where you can choose booting in \"safe mode\". System installation CD-ROM or DVD:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/78\\/Fix-Ntfs-Error-Step-1Bullet2.jpg\\/v4-460px-Fix-Ntfs-Error-Step-1Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/78\\/Fix-Ntfs-Error-Step-1Bullet2.jpg\\/aid189681-v4-664px-Fix-Ntfs-Error-Step-1Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":263,\"bigWidth\":\"664\",\"bigHeight\":\"380\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nInsert your system install medium into the computer. When it starts it should detect that an installation has already been made and let you start the recovery console (by pressing the 'R' key). You will have to follow the on-screen instructions until you see the repair console. Place the disk on a different computer. Remove the hard disk drive from your computer and place it on another computer. You'll be able to access your disk from the other computer's host system. Run 'chkdsk' until end.  If you have a graphical interface, go to \"My Computer\", select the appropriate disk, click with the right mouse button and select Properties. Head for the \"Tools\" tab. Select \"Check this drive for errors\". If you have just a text console, write \"chkdsk c:\". \"c:\" should be replaced with the appropriate drive letter for the partition you are trying to check. In order to fix problems found repeat the above step but use \"chkdsk c: /r\" in order for the utility to automatically recover lost data. this process can take some time depending on speed of computer and size of Hard drive",
+    "sentences": [
+        " Attempt to boot your computer in order to run the disk repair utility chkdsk.",
+        "This can be done by one of the following ways:Safe mode:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/5\\/58\\/Fix-Ntfs-Error-Step-1Bullet1.jpg\\/v4-460px-Fix-Ntfs-Error-Step-1Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/58\\/Fix-Ntfs-Error-Step-1Bullet1.jpg\\/aid189681-v4-675px-Fix-Ntfs-Error-Step-1Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":258,\"bigWidth\":\"675\",\"bigHeight\":\"379\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nBoot your computer in safe mode, continuously press F8 key while it's starting.",
+        "A menu will appear where you can choose booting in \"safe mode\".",
+        "System installation CD-ROM or DVD:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/78\\/Fix-Ntfs-Error-Step-1Bullet2.jpg\\/v4-460px-Fix-Ntfs-Error-Step-1Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/78\\/Fix-Ntfs-Error-Step-1Bullet2.jpg\\/aid189681-v4-664px-Fix-Ntfs-Error-Step-1Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":263,\"bigWidth\":\"664\",\"bigHeight\":\"380\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nInsert your system install medium into the computer.",
+        "When it starts it should detect that an installation has already been made and let you start the recovery console (by pressing the 'R' key).",
+        "You will have to follow the on-screen instructions until you see the repair console.",
+        "Place the disk on a different computer.",
+        "Remove the hard disk drive from your computer and place it on another computer.",
+        "You'll be able to access your disk from the other computer's host system.",
+        "Run 'chkdsk' until end.",
+        "If you have a graphical interface, go to \"My Computer\", select the appropriate disk, click with the right mouse button and select Properties.",
+        "Head for the \"Tools\" tab.",
+        "Select \"Check this drive for errors\".",
+        "If you have just a text console, write \"chkdsk c:\".",
+        "\"c:\" should be replaced with the appropriate drive letter for the partition you are trying to check.",
+        "In order to fix problems found repeat the above step but use \"chkdsk c: /r\" in order for the utility to automatically recover lost data.",
+        "this process can take some time depending on speed of computer and size of Hard drive"
+    ]
+}
