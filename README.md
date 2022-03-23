@@ -1,5 +1,5 @@
 # L4Project
-Repository for code, datasets, and resources related to my Level 4 project. My project is an NLP task for extracting task structure from text, specifically related to extracting the tools and materials required ("Things you'll need" or TYN) for a given task from instructions to that task.
+Repository for code, datasets, and resources related to my Level 4 project. My project is an NLP task for extracting household task structure from Wikihow articles, specifically related to the tools and materials required for a given task.
 
 ## Directory structure
 - **Datasets** - Unlabelled datasets generated over the course of the project. Includes TYN dump scraped from Wikihow.
@@ -11,3 +11,7 @@ Repository for code, datasets, and resources related to my Level 4 project. My p
 - **Prodigy labelling** - Folder with files related to human-labelled data created using Prodigy and models trained on this dataset. Includes spaCy projects for models with instructions to run.
 - **transformer_ner_HaG** - Transformer model trained only on instructions from articles in the "Home and Garden" category, labelled using Jaccard matching. Model achieves good performance and script works well with practical examples from instructions for tasks in the correct category.
 - **transformer_prodigy_script** - Script for interacting with transformer model trained on human-labelled data. This is the final system evaluated, and this model has the strongest metrics on test data and best results at extracting TYN from real instructions. tests folder inside includes tests on examples of real instructional text.
+
+To run the script to extract TYN, using the final trained model, inside **transformer_prodigy_script** on command line do :
+`python script.py filepath` 
+where `filepath` is the filepath of the file with the instructional text inside it.
