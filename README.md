@@ -12,6 +12,6 @@ Repository for code, datasets, and resources related to my Level 4 project. My p
 - **transformer_ner_HaG** - Transformer model trained only on instructions from articles in the "Home and Garden" category, labelled using Jaccard matching. Model achieves good performance and script works well with practical examples from instructions for tasks in the correct category.
 - **transformer_prodigy_script** - Script for interacting with transformer model trained on human-labelled data. This is the final system evaluated, and this model has the strongest metrics on test data and best results at extracting TYN from real instructions. tests folder inside includes tests on examples of real instructional text.
 ------------
-To run the final script inside **transformer_prodigy_script** from command line do : \\
-`python script.py filepath` \\
+To run the final script inside **transformer_prodigy_script** from command line do : <br />
+`python script.py filepath` <br />
 where `filepath` is the filepath of the file with the instructional text inside it.
