@@ -25,25 +25,23 @@ def get_tyn(filepath):
     with open(filepath) as f:
         text = f.read()
     tyn = get_tyn_from_text(text)
-    '''
-    ner = get_model()
-    if ner:
-        doc = ner(text)
-        return doc.ents
-        '''
-    return sorted(set(tyn))
+    return sorted(tyn)
 
 def get_tyn_from_text(text):
     ner = get_model()
-    nlp = spacy.load('en_core_web_sm')
-    if ner and nlp:
-        d1 = ner(text)
-        results = d1.ents
-        d2 = nlp(text)
-        ents = set([ent.text for ent in d2.ents])
-        tyn = [thing for thing in results if thing not in d2.ents]
-        return tyn
+    if ner:
+        d = ner(text)
+        return collate_tyn(d.ents)
         
+def collate_tyn(tyn):
+    tyn_lower = set([thing.text.lower() for thing in tyn])
+    collated = []
+    for thing in tyn:
+        if thing.text.lower() in tyn_lower:
+            collated.append(thing)
+            tyn_lower.remove(thing.text.lower())
+    return collated
+
 # MAIN PROGRAM
 if __name__ == "__main__":
     text_filepath = get_filepath()
