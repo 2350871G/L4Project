@@ -1,8 +1,8 @@
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
-# 🪐 spaCy Project: Demo NER in a new pipeline (Named Entity Recognition)
+# 🪐 spaCy Project: TYN NER Pipeline on Jaccard labelled data
 
-A minimal demo NER project for spaCy v3 adapted from the spaCy v2 [`train_ner.py`](https://github.com/explosion/spaCy/blob/v2.3.x/examples/training/train_ner.py) example script for creating an NER component in a new pipeline.
+An NER project for labelling "Things you'll need" in instructional text. Trained using data generated using Jaccard matching on noun chunks, with a threshold of 2/3 similarity for a span to be labelled, from the TYN section of Wikihow articles to label mentions of TYN in instructional article text.
 
 ## 📋 project.yml
 
@@ -46,7 +46,7 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| [`assets/train.json`](assets/train.json) | Local | Demo training data converted from the v2 `train_ner.py` example with `srsly.write_json("train.json", TRAIN_DATA)` |
-| [`assets/dev.json`](assets/dev.json) | Local | Demo development data |
+| [`assets/train.json`](assets/train.json) | Local | 80% of the labelled data used for training |
+| [`assets/dev.json`](assets/dev.json) | Local | Unseen 20% of the labelled data used for evaluation |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
