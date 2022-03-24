@@ -2,7 +2,7 @@
 
 # 🪐 spaCy Project: TYN NER Pipeline on simply labelled data
 
-An NER project for labelling "Things you'll need" in instructional text. Trained using data generated using simple string matching from the TYN section of Wikihow articles to label mentions of TYN in instructional article text.
+An NER project for labelling "Things you'll need" in instructional text. Trained using data generated using simple string matching from the TYN section of Wikihow articles to label mentions of TYN in instructional article text. CNN architecture is used for the model.
 
 ## 📋 project.yml
 
