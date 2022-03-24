@@ -2,7 +2,7 @@
 
 # 🪐 spaCy Project: TYN NER Pipeline trained on Jaccard labelled data tested on human-labelled data
 
-An NER project for labelling "Things you'll need" in instructional text. Trained using data generated using simple string matching from the TYN section of Wikihow articles to label mentions of TYN in instructional article text. Evaluated on human-labelled data created using Prodigy
+An NER project for labelling "Things you'll need" in instructional text. Trained using data generated using simple string matching from the TYN section of Wikihow articles to label mentions of TYN in instructional article text. Evaluated on human-labelled data created using Prodigy. CNN architecture is used for the model.
 
 ## 📋 project.yml
 
