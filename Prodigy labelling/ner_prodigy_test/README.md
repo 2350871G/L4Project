@@ -47,6 +47,6 @@ in the project directory.
 | File | Source | Description |
 | --- | --- | --- |
 | [`assets/train.json`](assets/train.json) | Local | Large set of Jaccard labelled training examples |
-| [`assets/dev.json`](assets/dev.json) | Local | Unseen evaluation data labelled by a human |
+| [`assets/dev.json`](assets/dev.json) | Local | Unseen evaluation data labelled by a human (much smaller than training set) |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
