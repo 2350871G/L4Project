@@ -1,0 +1,110 @@
+{
+  "title":"How to Make Green Beer",
+  "url":"https://www.wikihow.com/Make-Green-Beer",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Beer and Cider"
+  ],
+  "methods":[
+    {
+      "name":"Food coloring",
+      "steps":[
+        {
+          "headline":"Choose a light colored beer.",
+          "description":"A pilsner, IPA or light beer are all good choices. You can make darker beer green, but it requires so much food coloring that your teeth will turn green."
+        },
+        {
+          "headline":"Squirt 4 - 6 drops of green food coloring in the bottom of a beer glass.",
+          "description":"Use more drops for beer of a darker hue. Use liquid food coloring, as opposed to gel; it'll mix with the beer much more easily. Don't use blue food coloring. You may think it will mix with yellow beer to make green, but since the colors aren't pure pigments, you'll end up with something closer to turquoise."
+        },
+        {
+          "headline":"Fill the mug with beer.",
+          "description":"The food coloring will mix with the beer as you pour, tinting your beer a lovely green. Don't stir the beer, or it's likely to go flat."
+        },
+        {
+          "headline":"Enjoy.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Beerzicle",
+      "steps":[
+        {
+          "headline":"Buy beer bottles that are made out of clear glass.",
+          "description":""
+        },
+        {
+          "headline":"Get a shamrock green Beerzicle.",
+          "description":"You'll be able to find this product online and at some alcohol-related product retailers."
+        },
+        {
+          "headline":"Freeze the Beerzicle if you wish.",
+          "description":"This will chill your beer."
+        },
+        {
+          "headline":"Insert a bottle into the Beerzicle.",
+          "description":"The beer now looks green. You're ready to be the talk of any St Patrick's Day party!"
+        }
+      ]
+    }
+  ],
+  "text":" Food coloring Choose a light colored beer. A pilsner, IPA or light beer are all good choices. You can make darker beer green, but it requires so much food coloring that your teeth will turn green. Squirt 4 - 6 drops of green food coloring in the bottom of a beer glass. Use more drops for beer of a darker hue. Use liquid food coloring, as opposed to gel; it'll mix with the beer much more easily. Don't use blue food coloring. You may think it will mix with yellow beer to make green, but since the colors aren't pure pigments, you'll end up with something closer to turquoise. Fill the mug with beer. The food coloring will mix with the beer as you pour, tinting your beer a lovely green. Don't stir the beer, or it's likely to go flat. Enjoy.  Beerzicle Buy beer bottles that are made out of clear glass.  Get a shamrock green Beerzicle. You'll be able to find this product online and at some alcohol-related product retailers. Freeze the Beerzicle if you wish. This will chill your beer. Insert a bottle into the Beerzicle. The beer now looks green. You're ready to be the talk of any St Patrick's Day party!",
+  "sentences":[
+    " Food coloring Choose a light colored beer.",
+    "A pilsner, IPA or light beer are all good choices.",
+    "You can make darker beer green, but it requires so much food coloring that your teeth will turn green.",
+    "Squirt 4 - 6 drops of green food coloring in the bottom of a beer glass.",
+    "Use more drops for beer of a darker hue.",
+    "Use liquid food coloring, as opposed to gel; it'll mix with the beer much more easily.",
+    "Don't use blue food coloring.",
+    "You may think it will mix with yellow beer to make green, but since the colors aren't pure pigments, you'll end up with something closer to turquoise.",
+    "Fill the mug with beer.",
+    "The food coloring will mix with the beer as you pour, tinting your beer a lovely green.",
+    "Don't stir the beer, or it's likely to go flat.",
+    "Enjoy.",
+    "Beerzicle Buy beer bottles that are made out of clear glass.",
+    "Get a shamrock green Beerzicle.",
+    "You'll be able to find this product online and at some alcohol-related product retailers.",
+    "Freeze the Beerzicle if you wish.",
+    "This will chill your beer.",
+    "Insert a bottle into the Beerzicle.",
+    "The beer now looks green.",
+    "You're ready to be the talk of any St Patrick's Day party!"
+  ],
+  "tyn_section":[
+    "Beer"
+  ],
+  "tyn_model":[
+    "food coloring",
+    "beerzicle",
+    "beer glass",
+    "mug",
+    "beer",
+    "clear glass",
+    "bottle"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.1428571429,
+    "f1":0.25,
+    "avg_pos":0.5714285714
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2857142857,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2857142857,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.1428571429,
+    "f1":0.25
+  }
+}

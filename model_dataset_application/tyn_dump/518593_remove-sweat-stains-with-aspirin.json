@@ -1,0 +1,98 @@
+{
+  "title":"How to Remove Sweat Stains With Aspirin",
+  "url":"https://www.wikihow.com/Remove-Sweat-Stains-With-Aspirin",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Laundry",
+    "Cleaning Clothes"
+  ],
+  "steps":[
+    {
+      "headline":"Crush three or four aspirin pills.",
+      "description":"Break them down with a mortar and pestle. Alternatively, seal the pills inside a plastic bag and press it to powder with a rolling pin, a utensil handle, or a drinking glass. Strong-dose aspirin works best. You can fold the aspirin in a piece of paper instead of using a bag."
+    },
+    {
+      "headline":"Mix with water.",
+      "description":"Pour the crushed pill into a small bowl of warm water. Wait for the crushed particles to dissolve. If the powder doesn't dissolve, just add more warm water."
+    },
+    {
+      "headline":"Soak the stain.",
+      "description":"Place the stain in the bowl of warm water and aspirin. Wait at least five minutes, or up to two hours for significant stains. Alternatively, transfer the water to a spray bottle. Shake the bottle for 30 seconds, then spray the sweat stain until it is fully saturated."
+    },
+    {
+      "headline":"Rub on an aspirin paste.",
+      "description":"For best results, crush an additional two or three aspirin. This time, add just enough water to make a thick paste. Rub this over the stain and let sit another five minutes. The paste should be wet enough that no dry powder is visible, but not so wet that it becomes runny."
+    },
+    {
+      "headline":"Wash the garment as you would normally.",
+      "description":"Wash in cold or warm water, as the acid in the aspirin may be less effective in hot water. Check to see if the stain has been removed. If it has, fold it and put it away. If not, consider repeating and then washing again. If you live in an area with \"hard,\" mineral-heavy water, this may inhibit the effects of your detergent. Consider adding washing soda to your laundry to counteract this."
+    }
+  ],
+  "text":" Crush three or four aspirin pills. Break them down with a mortar and pestle. Alternatively, seal the pills inside a plastic bag and press it to powder with a rolling pin, a utensil handle, or a drinking glass. Strong-dose aspirin works best. You can fold the aspirin in a piece of paper instead of using a bag. Mix with water. Pour the crushed pill into a small bowl of warm water. Wait for the crushed particles to dissolve. If the powder doesn't dissolve, just add more warm water. Soak the stain. Place the stain in the bowl of warm water and aspirin. Wait at least five minutes, or up to two hours for significant stains. Alternatively, transfer the water to a spray bottle. Shake the bottle for 30 seconds, then spray the sweat stain until it is fully saturated. Rub on an aspirin paste. For best results, crush an additional two or three aspirin. This time, add just enough water to make a thick paste. Rub this over the stain and let sit another five minutes. The paste should be wet enough that no dry powder is visible, but not so wet that it becomes runny. Wash the garment as you would normally. Wash in cold or warm water, as the acid in the aspirin may be less effective in hot water. Check to see if the stain has been removed. If it has, fold it and put it away. If not, consider repeating and then washing again. If you live in an area with \"hard,\" mineral-heavy water, this may inhibit the effects of your detergent. Consider adding washing soda to your laundry to counteract this.",
+  "sentences":[
+    " Crush three or four aspirin pills.",
+    "Break them down with a mortar and pestle.",
+    "Alternatively, seal the pills inside a plastic bag and press it to powder with a rolling pin, a utensil handle, or a drinking glass.",
+    "Strong-dose aspirin works best.",
+    "You can fold the aspirin in a piece of paper instead of using a bag.",
+    "Mix with water.",
+    "Pour the crushed pill into a small bowl of warm water.",
+    "Wait for the crushed particles to dissolve.",
+    "If the powder doesn't dissolve, just add more warm water.",
+    "Soak the stain.",
+    "Place the stain in the bowl of warm water and aspirin.",
+    "Wait at least five minutes, or up to two hours for significant stains.",
+    "Alternatively, transfer the water to a spray bottle.",
+    "Shake the bottle for 30 seconds, then spray the sweat stain until it is fully saturated.",
+    "Rub on an aspirin paste.",
+    "For best results, crush an additional two or three aspirin.",
+    "This time, add just enough water to make a thick paste.",
+    "Rub this over the stain and let sit another five minutes.",
+    "The paste should be wet enough that no dry powder is visible, but not so wet that it becomes runny.",
+    "Wash the garment as you would normally.",
+    "Wash in cold or warm water, as the acid in the aspirin may be less effective in hot water.",
+    "Check to see if the stain has been removed.",
+    "If it has, fold it and put it away.",
+    "If not, consider repeating and then washing again.",
+    "If you live in an area with \"hard,\" mineral-heavy water, this may inhibit the effects of your detergent.",
+    "Consider adding washing soda to your laundry to counteract this."
+  ],
+  "tyn_section":[
+    "Aspirin pills",
+    "Water",
+    "Washing machine"
+  ],
+  "tyn_model":[
+    "water",
+    "aspirin",
+    "warm water",
+    "mortar and pestle",
+    "rolling pin",
+    "drinking glass",
+    "bowl",
+    "spray bottle",
+    "washing soda"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1111111111,
+    "f1":0.1666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4444444444,
+    "f1":0.6153846154
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1111111111,
+    "f1":0.1666666667
+  }
+}

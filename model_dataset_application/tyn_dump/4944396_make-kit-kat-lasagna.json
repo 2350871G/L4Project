@@ -1,0 +1,118 @@
+{
+  "title":"How to Make Kit Kat Lasagna",
+  "url":"https://www.wikihow.com/Make-Kit-Kat-Lasagna",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles",
+    "Lasagna"
+  ],
+  "parts":[
+    {
+      "name":"Layer 2 - Candy meat",
+      "steps":[
+        {
+          "headline":"Place the chocolate coated honeycomb into a resealable bag.",
+          "description":""
+        },
+        {
+          "headline":"Use a rolling pin to roll back and forth and crush the honeycomb into large crumbs.",
+          "description":""
+        },
+        {
+          "headline":"Sprinkle over the base layer of wafer biscuits.",
+          "description":"Cover it as well as possible. If you're running short, spread it out evenly."
+        }
+      ]
+    },
+    {
+      "name":"Layer 3 - Candy sauce",
+      "steps":[
+        {
+          "headline":"Melt the white chocolate.",
+          "description":"Either melt it in a double boiler over the stove, or place in a microwave-proof bowl and microwave until melted."
+        },
+        {
+          "headline":"Pour the melted chocolate over the crushed honeycomb layer.",
+          "description":"Completely cover this layer; melt more chocolate if needed."
+        }
+      ]
+    },
+    {
+      "name":"Layer 9 - Top of the lasagna",
+      "steps":[
+        {
+          "headline":"Break the Kit Kat into single sticks.",
+          "description":""
+        },
+        {
+          "headline":"Arrange the Kit Kat sticks across the top of the candy lasagna.",
+          "description":""
+        },
+        {
+          "headline":"Place in the refrigerator to set.",
+          "description":"You might like to cover the dish, to prevent fridge odors from contaminating the wonderful candy taste."
+        }
+      ]
+    }
+  ],
+  "text":" Layer 2 - Candy meat Place the chocolate coated honeycomb into a resealable bag.  Use a rolling pin to roll back and forth and crush the honeycomb into large crumbs.  Sprinkle over the base layer of wafer biscuits. Cover it as well as possible. If you're running short, spread it out evenly. Layer 3 - Candy sauce Melt the white chocolate. Either melt it in a double boiler over the stove, or place in a microwave-proof bowl and microwave until melted. Pour the melted chocolate over the crushed honeycomb layer. Completely cover this layer; melt more chocolate if needed. Layer 9 - Top of the lasagna Break the Kit Kat into single sticks.  Arrange the Kit Kat sticks across the top of the candy lasagna.  Place in the refrigerator to set. You might like to cover the dish, to prevent fridge odors from contaminating the wonderful candy taste.",
+  "sentences":[
+    " Layer 2 - Candy meat Place the chocolate coated honeycomb into a resealable bag.",
+    "Use a rolling pin to roll back and forth and crush the honeycomb into large crumbs.",
+    "Sprinkle over the base layer of wafer biscuits.",
+    "Cover it as well as possible.",
+    "If you're running short, spread it out evenly.",
+    "Layer 3 - Candy sauce Melt the white chocolate.",
+    "Either melt it in a double boiler over the stove, or place in a microwave-proof bowl and microwave until melted.",
+    "Pour the melted chocolate over the crushed honeycomb layer.",
+    "Completely cover this layer; melt more chocolate if needed.",
+    "Layer 9 - Top of the lasagna Break the Kit Kat into single sticks.",
+    "Arrange the Kit Kat sticks across the top of the candy lasagna.",
+    "Place in the refrigerator to set.",
+    "You might like to cover the dish, to prevent fridge odors from contaminating the wonderful candy taste."
+  ],
+  "tyn_section":[
+    "Lasagna dish, standard size to large, up to you\u2013\u2013adjust ingredients as needed",
+    "Knife and cutting board",
+    "Resealable bag",
+    "Rolling pin",
+    "Double boiler for melting chocolate, or a microwave proof dish"
+  ],
+  "tyn_model":[
+    "chocolate",
+    "kit kat",
+    "candy meat",
+    "chocolate coated",
+    "resealable bag",
+    "rolling pin",
+    "wafer biscuits",
+    "candy sauce",
+    "white chocolate",
+    "double boiler",
+    "microwave-proof bowl",
+    "microwave",
+    "refrigerator"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222
+  }
+}

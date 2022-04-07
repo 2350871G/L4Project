@@ -1,0 +1,103 @@
+{
+  "title":"How to Make a Sausage Sandwich",
+  "url":"https://www.wikihow.com/Make-a-Sausage-Sandwich",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Sandwiches and Quick Meals",
+    "Meat and Poultry Sandwiches"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the ingredients.",
+      "description":"Run to the store and buy sausage, sausage bread, peppers, and onions then have these ingredients ready in the place you'll be making the sandwich in."
+    },
+    {
+      "headline":"Cook both the onions and peppers until soft.",
+      "description":"Cook the peppers and the onions together in a large pan for about 15 to 20 minutes on medium heat or until the onions are translucent and the peppers are soft."
+    },
+    {
+      "headline":"Cook the sausage.",
+      "description":"Fry the sausage for 20 minutes or according to the instructions on the package. Use a small bit of butter to grease the pan and to add flavor."
+    },
+    {
+      "headline":"Let the sausage sizzle.",
+      "description":"Put the bread on the pan and gently push it around with a spatula so that it soaks up the excess butter making the bread nice and buttery."
+    },
+    {
+      "headline":"Turn off the heat.",
+      "description":"Cut the sausages in half the long way and allow them to cool a bit."
+    },
+    {
+      "headline":"Assemble the sandwich.",
+      "description":"Put the peppers, sausage, and onions into the bread."
+    },
+    {
+      "headline":"Squeeze some sauce ontop.",
+      "description":"Choose any type of sauce you want such as mustard and add some ontop of the sausage or you can add no sauce at all."
+    },
+    {
+      "headline":"Serve.",
+      "description":"These can be eaten with a side dish such as fries or chips if you're really hungry. Enjoy your masterpiece!"
+    }
+  ],
+  "text":" Prepare the ingredients. Run to the store and buy sausage, sausage bread, peppers, and onions then have these ingredients ready in the place you'll be making the sandwich in. Cook both the onions and peppers until soft. Cook the peppers and the onions together in a large pan for about 15 to 20 minutes on medium heat or until the onions are translucent and the peppers are soft. Cook the sausage. Fry the sausage for 20 minutes or according to the instructions on the package. Use a small bit of butter to grease the pan and to add flavor. Let the sausage sizzle. Put the bread on the pan and gently push it around with a spatula so that it soaks up the excess butter making the bread nice and buttery. Turn off the heat. Cut the sausages in half the long way and allow them to cool a bit. Assemble the sandwich. Put the peppers, sausage, and onions into the bread. Squeeze some sauce ontop. Choose any type of sauce you want such as mustard and add some ontop of the sausage or you can add no sauce at all. Serve. These can be eaten with a side dish such as fries or chips if you're really hungry. Enjoy your masterpiece!",
+  "sentences":[
+    " Prepare the ingredients.",
+    "Run to the store and buy sausage, sausage bread, peppers, and onions then have these ingredients ready in the place you'll be making the sandwich in.",
+    "Cook both the onions and peppers until soft.",
+    "Cook the peppers and the onions together in a large pan for about 15 to 20 minutes on medium heat or until the onions are translucent and the peppers are soft.",
+    "Cook the sausage.",
+    "Fry the sausage for 20 minutes or according to the instructions on the package.",
+    "Use a small bit of butter to grease the pan and to add flavor.",
+    "Let the sausage sizzle.",
+    "Put the bread on the pan and gently push it around with a spatula so that it soaks up the excess butter making the bread nice and buttery.",
+    "Turn off the heat.",
+    "Cut the sausages in half the long way and allow them to cool a bit.",
+    "Assemble the sandwich.",
+    "Put the peppers, sausage, and onions into the bread.",
+    "Squeeze some sauce ontop.",
+    "Choose any type of sauce you want such as mustard and add some ontop of the sausage or you can add no sauce at all.",
+    "Serve.",
+    "These can be eaten with a side dish such as fries or chips if you're really hungry.",
+    "Enjoy your masterpiece!"
+  ],
+  "tyn_section":[
+    "Frying pan",
+    "Spatula",
+    "Fork",
+    "Plate"
+  ],
+  "tyn_model":[
+    "peppers",
+    "onions",
+    "sausage",
+    "butter",
+    "bread",
+    "sausage bread",
+    "large pan",
+    "spatula",
+    "mustard"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1111111111,
+    "f1":0.1538461538,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1111111111,
+    "f1":0.1538461538
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2222222222,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1111111111,
+    "f1":0.1538461538
+  }
+}

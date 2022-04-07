@@ -1,0 +1,75 @@
+{
+  "title":"How to Make Curds and Whey",
+  "url":"https://www.wikihow.com/Make-Curds-and-Whey",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Eggs and Dairy"
+  ],
+  "steps":[
+    {
+      "headline":"Place two cups of milk in the saucepan.",
+      "description":"Slowly bring the milk to the boil, while stirring constantly. It is very important to constantly stir the milk or it will burn."
+    },
+    {
+      "headline":"Turn off the heat once the milk is boiling.",
+      "description":"Leave the saucepan on the heat source to cool slowly."
+    },
+    {
+      "headline":"Add 4 teaspoons of vinegar or citrus fruit juice to the boiling milk.",
+      "description":"At this point, the milk should cuddle and turn into curds and whey. Scoop out the curds and store separately. Use as required."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Place two cups of milk in the saucepan. Slowly bring the milk to the boil, while stirring constantly. It is very important to constantly stir the milk or it will burn. Turn off the heat once the milk is boiling. Leave the saucepan on the heat source to cool slowly. Add 4 teaspoons of vinegar or citrus fruit juice to the boiling milk. At this point, the milk should cuddle and turn into curds and whey. Scoop out the curds and store separately. Use as required. Finished. ",
+  "sentences":[
+    " Place two cups of milk in the saucepan.",
+    "Slowly bring the milk to the boil, while stirring constantly.",
+    "It is very important to constantly stir the milk or it will burn.",
+    "Turn off the heat once the milk is boiling.",
+    "Leave the saucepan on the heat source to cool slowly.",
+    "Add 4 teaspoons of vinegar or citrus fruit juice to the boiling milk.",
+    "At this point, the milk should cuddle and turn into curds and whey.",
+    "Scoop out the curds and store separately.",
+    "Use as required.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Saucepan",
+    "Stove (electrical or gas)",
+    "Spoon",
+    "Cup",
+    "Teaspoon"
+  ],
+  "tyn_model":[
+    "milk",
+    "saucepan",
+    "vinegar",
+    "citrus fruit juice",
+    "whey"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2,
+    "avg_pos":0.2
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2
+  }
+}

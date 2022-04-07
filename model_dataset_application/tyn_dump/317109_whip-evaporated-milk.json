@@ -1,0 +1,92 @@
+{
+  "title":"How to Whip Evaporated Milk",
+  "url":"https://www.wikihow.com/Whip-Evaporated-Milk",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Eggs and Dairy"
+  ],
+  "steps":[
+    {
+      "headline":"Pour the evaporated milk into ice cube trays.",
+      "description":""
+    },
+    {
+      "headline":"Place in the freezer for half an hour.",
+      "description":"The cubes are ready when ice has formed around the edges of the milk."
+    },
+    {
+      "headline":"Chill the bowl and mixer beaters in the fridge while the cubes are in the freezer.",
+      "description":""
+    },
+    {
+      "headline":"Remove the chilled bowl and mixer beaters.",
+      "description":""
+    },
+    {
+      "headline":"Take the ice tray out of the freezer and pour the slightly frozen evaporated milk into a pre-chilled bowl.",
+      "description":""
+    },
+    {
+      "headline":"Whisk  the ice cubes with the chilled beater until a thick texture forms that resembles cream.",
+      "description":""
+    },
+    {
+      "headline":"Use in place of cream for dessert, cake filling etc.",
+      "description":"Use a spatula to remove from the bowl."
+    }
+  ],
+  "text":" Pour the evaporated milk into ice cube trays.  Place in the freezer for half an hour. The cubes are ready when ice has formed around the edges of the milk. Chill the bowl and mixer beaters in the fridge while the cubes are in the freezer.  Remove the chilled bowl and mixer beaters.  Take the ice tray out of the freezer and pour the slightly frozen evaporated milk into a pre-chilled bowl.  Whisk  the ice cubes with the chilled beater until a thick texture forms that resembles cream.  Use in place of cream for dessert, cake filling etc. Use a spatula to remove from the bowl.",
+  "sentences":[
+    " Pour the evaporated milk into ice cube trays.",
+    "Place in the freezer for half an hour.",
+    "The cubes are ready when ice has formed around the edges of the milk.",
+    "Chill the bowl and mixer beaters in the fridge while the cubes are in the freezer.",
+    "Remove the chilled bowl and mixer beaters.",
+    "Take the ice tray out of the freezer and pour the slightly frozen evaporated milk into a pre-chilled bowl.",
+    "Whisk  the ice cubes with the chilled beater until a thick texture forms that resembles cream.",
+    "Use in place of cream for dessert, cake filling etc.",
+    "Use a spatula to remove from the bowl."
+  ],
+  "tyn_section":[
+    "Ice cube trays",
+    "Mixing bowl",
+    "Electric mixer",
+    "Spatula"
+  ],
+  "tyn_model":[
+    "bowl",
+    "milk",
+    "freezer",
+    "mixer beaters",
+    "cream",
+    "ice cube trays",
+    "fridge",
+    "ice tray",
+    "evaporated milk",
+    "ice cubes",
+    "chilled beater",
+    "spatula"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25,
+    "avg_pos":0.4166666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.25,
+    "f1":0.375
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  }
+}

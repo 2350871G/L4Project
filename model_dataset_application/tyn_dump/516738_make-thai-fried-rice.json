@@ -1,0 +1,100 @@
+{
+  "title":"How to Make Thai Fried Rice",
+  "url":"https://www.wikihow.com/Make-Thai-Fried-Rice",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "World Cuisines",
+    "Asian Cuisine",
+    "Thai Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Get a bowl and mix the eggs with half of the soy sauce.",
+      "description":""
+    },
+    {
+      "headline":"Heat an oiled wok and add the egg mixture to the wok.",
+      "description":"Stir and cook the egg and move it to the side of the wok."
+    },
+    {
+      "headline":"Add the garlic, onion, rice, and chilli to the wok.",
+      "description":"Add a little more oil and mix everything together."
+    },
+    {
+      "headline":"Add the tomatoes, soy sauce, and fish sauce to the wok.",
+      "description":"Continue to stir everything together."
+    },
+    {
+      "headline":"Stir in the chopped coriander just before serving the dish.",
+      "description":""
+    },
+    {
+      "headline":"Spoon the fried rice into a serving bowl.",
+      "description":"Garnish it with cucumber slices and a lime wedge. The wedges can also be squeezed over the top of the rice to give it an added tangy flavor."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Get a bowl and mix the eggs with half of the soy sauce.  Heat an oiled wok and add the egg mixture to the wok. Stir and cook the egg and move it to the side of the wok. Add the garlic, onion, rice, and chilli to the wok. Add a little more oil and mix everything together. Add the tomatoes, soy sauce, and fish sauce to the wok. Continue to stir everything together. Stir in the chopped coriander just before serving the dish.  Spoon the fried rice into a serving bowl. Garnish it with cucumber slices and a lime wedge. The wedges can also be squeezed over the top of the rice to give it an added tangy flavor. Finished. ",
+  "sentences":[
+    " Get a bowl and mix the eggs with half of the soy sauce.",
+    "Heat an oiled wok and add the egg mixture to the wok.",
+    "Stir and cook the egg and move it to the side of the wok.",
+    "Add the garlic, onion, rice, and chilli to the wok.",
+    "Add a little more oil and mix everything together.",
+    "Add the tomatoes, soy sauce, and fish sauce to the wok.",
+    "Continue to stir everything together.",
+    "Stir in the chopped coriander just before serving the dish.",
+    "Spoon the fried rice into a serving bowl.",
+    "Garnish it with cucumber slices and a lime wedge.",
+    "The wedges can also be squeezed over the top of the rice to give it an added tangy flavor.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Wok",
+    "Wooden spoon"
+  ],
+  "tyn_model":[
+    "wok",
+    "soy sauce",
+    "rice",
+    "bowl",
+    "eggs",
+    "oiled wok",
+    "garlic",
+    "onion",
+    "chilli",
+    "oil",
+    "tomatoes",
+    "fish sauce",
+    "coriander",
+    "fried rice",
+    "serving bowl",
+    "cucumber",
+    "lime"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.0588235294,
+    "f1":0.1052631579,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1176470588,
+    "f1":0.1904761905
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1176470588,
+    "f1":0.1904761905
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.0588235294,
+    "f1":0.1052631579
+  }
+}

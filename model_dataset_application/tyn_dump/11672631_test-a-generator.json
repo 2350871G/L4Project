@@ -1,0 +1,210 @@
+{
+  "title":"How to Test a Generator",
+  "url":"https://www.wikihow.com/Test-a-Generator",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Motors Generators and Transformers"
+  ],
+  "methods":[
+    {
+      "name":"Checking the Output",
+      "steps":[
+        {
+          "headline":"Start your generator.",
+          "description":"Put the generator\u2019s choke at the START or halfway position. Flip the generator\u2019s power switch to ON or turn the key in the ignition switch to the ON position. Pull the recoil cord if your generator has one to actually start the engine. If your generator does not start, double-check that the fuel line is open. A recoil cord is a cord with a T-shaped plastic handle, like the cord you start a gas-powered lawn mower with. Many small portable generators have these."
+        },
+        {
+          "headline":"Turn on a voltmeter to the \u201cAC voltage\u201d position.",
+          "description":"Move the dial on the voltmeter from the OFF position to the position marked for testing AC voltage. The AC voltage position might be marked as \u201cACA,\u201d \u201cACV,\u201d \u201cA~,\u201d or \u201cV~.\u201dWarning: Don\u2019t test the output of your generator with any setting other than the AC voltage setting or you will blow the voltmeter\u2019s fuse. If you aren\u2019t sure which position is the AC voltage testing position, consult the manufacturer\u2019s instructions for your voltmeter."
+        },
+        {
+          "headline":"Attach the black lead from the voltmeter to the frame of the generator.",
+          "description":"Plug the black cable that comes with the voltmeter into the black socket on the voltmeter, then use the alligator clip at the other end of the cable to clip it anywhere on the generator\u2019s frame. This will ground it to protect electrical wires and components from damage due to any sudden power surges. If the voltmeter cable doesn\u2019t have a built-in alligator clip, you will need to get an alligator clip to use to clip the metal tip of the cable to the frame."
+        },
+        {
+          "headline":"Plug the red lead from the voltmeter into the generator\u2019s output plug outlet.",
+          "description":"The output plug outlet is where you plug any power cable into the generator. Plug the red cable that comes with the voltmeter into the red socket on the voltmeter, then put the metal tip at the other end of the cable inside the generator\u2019s output plug to read the voltage. The generator might have different output plug outlets for different voltages. For example, it might have a 120-volt output outlet and a 220-volt outlet. The outlets will be labeled and may look different. You can test both of them in the same way. Outlets with a 120-volt output are most commonly used for plugging in standard electrical devices, while 220-volt outlets are typically used for things that require more power, such as clothes dryers and welders."
+        },
+        {
+          "headline":"Read the number on the voltmeter to see the output in volts.",
+          "description":"Check the display of the voltmeter as you hold the red lead against the output plug outlet. The number displayed is how many volts of power your generator is putting out. For example, if your generator has a 120-volt output, the display should show 120 volts or very close to that number, unless there is a problem with your generator."
+        },
+        {
+          "headline":"Disconnect the voltmeter and turn off the generator.",
+          "description":"Remove the red cable and unclip the black cable. Switch your generator\u2019s ignition switch to OFF or flip the power switch to the OFF position to shut down the generator."
+        }
+      ]
+    },
+    {
+      "name":"Performing a Load Test",
+      "steps":[
+        {
+          "headline":"Check all the generator\u2019s fluid levels to ensure they are full.",
+          "description":"Look at the fuel gauge to make sure that the generator has a full tank of fuel. Check the oil level to verify that it is full.Tip: Note that unless you have experience working with load bank testing, it is best to hire a certified contractor to perform the test for you. The process is fairly simple, but it does require some knowledge as well as a load bank testing machine. If the generator is water-cooled, check the levels in the radiator or coolant tank to verify that it has enough coolant as well. Make sure the reservoir is filled to within about 1 in (2.5 cm) of the top."
+        },
+        {
+          "headline":"Start the generator and run it at full speed.",
+          "description":"Turn the key switch on the generator\u2019s control panel to the ON position to start the generator. Pull the governor, which is the knob that controls the engine speed, all the way out to set the generator to full speed. Listen for any strange sounds during this step and stop the generator if anything seems wrong. There shouldn't be any sputtering or clunking noises; the engine should sound smooth and consistent."
+        },
+        {
+          "headline":"Plug a load bank into the generator.",
+          "description":"A load bank is a machine that simulates an artificial load in order to test the generator. Connect the output load cable from the generator to the load bank testing machine. You can buy or rent a load bank if you plan to perform this test yourself. Keep in mind that unless you run a facility with multiple generators or you need to perform frequent load tests of generators, it doesn\u2019t make much sense to purchase and keep a load bank on hand. Companies that perform generator load testing for you will bring a portable load bank to your premises to perform the test."
+        },
+        {
+          "headline":"Turn on the generator\u2019s circuit breaker.",
+          "description":"Flip the circuit breaker switch to the ON position. This will allow power from the generator to flow to the load bank. The circuit breaker switch is located on the generator\u2019s control panel."
+        },
+        {
+          "headline":"Flip the load switches on one at a time until the generator is at full capacity.",
+          "description":"Turn on the largest load switch on the load bank machine first. Add smaller loads until the generator is running at its maximum output. For example, if the generator can put out 50 amps of power, you could flip on 1 load switch for a 20 amp load followed by 3 load switches for 10 amp loads. You\u2019ll hear the engine noise of the generator lower as you add loads, this is totally normal. However, continue to listen carefully for any noises that sound like a mechanical problem and shut the generator down if you hear anything suspicious."
+        },
+        {
+          "headline":"Run the load test for the required period and monitor the generator\u2019s output.",
+          "description":"The period of time you need to run the test for depends on the type of generator and its uses. Keep the generator running under the same load for the duration of the test and read the output numbers on the load bank machine to ensure the performance does not drop at any point during the test. For example, heavy-duty portable generators, such as those used by contractors, might be tested for 4-8 hours. Continuous duty generators or industrial generators must be load tested for anywhere from 1 day to 1 week or more. Consult a contractor if you aren't sure how long to run the test for. Output numbers to monitor include voltage, amperage, kilowatt load, and hertz. If you are running a 50 amp load test on a 220-volt generator, make sure that the readings for amps and volts on the load bank stay at these numbers for the duration of the test."
+        },
+        {
+          "headline":"Switch off the loads one by one until the generator is running a light load.",
+          "description":"Flip the largest load on the load bank off first. Keep turning off the loads one at a time until the generator is running at 10-20% of its maximum output. For example, if the generator has an output of 50 amps, leave it running under a 10 amp load from the load bank."
+        },
+        {
+          "headline":"Let the generator run on a light load for 1 hour.",
+          "description":"Leave the generator running at 10-20% of its maximum output after switching off most of the loads. Turn off the rest of the loads after 1 hour has passed. This is just for the purpose of shutting down the generator after a test. In normal use, try not to run your generator on a light load often because it can lead to wet-stacking, which is when unburned fuel builds up in the exhaust system of the generator."
+        },
+        {
+          "headline":"Turn off the generator.",
+          "description":"Flip the generator\u2019s circuit breaker to OFF to stop sending power to the load bank. Push in the governor all the way to reduce the generator\u2019s speed. Turn the key switch off to stop the generator completely. Do this all within 5-10 minutes of switching off the last load to avoid leaving the generator running under no load for too long."
+        }
+      ]
+    }
+  ],
+  "text":" Checking the Output Start your generator. Put the generator\u2019s choke at the START or halfway position. Flip the generator\u2019s power switch to ON or turn the key in the ignition switch to the ON position. Pull the recoil cord if your generator has one to actually start the engine. If your generator does not start, double-check that the fuel line is open. A recoil cord is a cord with a T-shaped plastic handle, like the cord you start a gas-powered lawn mower with. Many small portable generators have these. Turn on a voltmeter to the \u201cAC voltage\u201d position. Move the dial on the voltmeter from the OFF position to the position marked for testing AC voltage. The AC voltage position might be marked as \u201cACA,\u201d \u201cACV,\u201d \u201cA~,\u201d or \u201cV~.\u201dWarning: Don\u2019t test the output of your generator with any setting other than the AC voltage setting or you will blow the voltmeter\u2019s fuse. If you aren\u2019t sure which position is the AC voltage testing position, consult the manufacturer\u2019s instructions for your voltmeter. Attach the black lead from the voltmeter to the frame of the generator. Plug the black cable that comes with the voltmeter into the black socket on the voltmeter, then use the alligator clip at the other end of the cable to clip it anywhere on the generator\u2019s frame. This will ground it to protect electrical wires and components from damage due to any sudden power surges. If the voltmeter cable doesn\u2019t have a built-in alligator clip, you will need to get an alligator clip to use to clip the metal tip of the cable to the frame. Plug the red lead from the voltmeter into the generator\u2019s output plug outlet. The output plug outlet is where you plug any power cable into the generator. Plug the red cable that comes with the voltmeter into the red socket on the voltmeter, then put the metal tip at the other end of the cable inside the generator\u2019s output plug to read the voltage. The generator might have different output plug outlets for different voltages. For example, it might have a 120-volt output outlet and a 220-volt outlet. The outlets will be labeled and may look different. You can test both of them in the same way. Outlets with a 120-volt output are most commonly used for plugging in standard electrical devices, while 220-volt outlets are typically used for things that require more power, such as clothes dryers and welders. Read the number on the voltmeter to see the output in volts. Check the display of the voltmeter as you hold the red lead against the output plug outlet. The number displayed is how many volts of power your generator is putting out. For example, if your generator has a 120-volt output, the display should show 120 volts or very close to that number, unless there is a problem with your generator. Disconnect the voltmeter and turn off the generator. Remove the red cable and unclip the black cable. Switch your generator\u2019s ignition switch to OFF or flip the power switch to the OFF position to shut down the generator. Performing a Load Test Check all the generator\u2019s fluid levels to ensure they are full. Look at the fuel gauge to make sure that the generator has a full tank of fuel. Check the oil level to verify that it is full.Tip: Note that unless you have experience working with load bank testing, it is best to hire a certified contractor to perform the test for you. The process is fairly simple, but it does require some knowledge as well as a load bank testing machine. If the generator is water-cooled, check the levels in the radiator or coolant tank to verify that it has enough coolant as well. Make sure the reservoir is filled to within about 1 in (2.5 cm) of the top. Start the generator and run it at full speed. Turn the key switch on the generator\u2019s control panel to the ON position to start the generator. Pull the governor, which is the knob that controls the engine speed, all the way out to set the generator to full speed. Listen for any strange sounds during this step and stop the generator if anything seems wrong. There shouldn't be any sputtering or clunking noises; the engine should sound smooth and consistent. Plug a load bank into the generator. A load bank is a machine that simulates an artificial load in order to test the generator. Connect the output load cable from the generator to the load bank testing machine. You can buy or rent a load bank if you plan to perform this test yourself. Keep in mind that unless you run a facility with multiple generators or you need to perform frequent load tests of generators, it doesn\u2019t make much sense to purchase and keep a load bank on hand. Companies that perform generator load testing for you will bring a portable load bank to your premises to perform the test. Turn on the generator\u2019s circuit breaker. Flip the circuit breaker switch to the ON position. This will allow power from the generator to flow to the load bank. The circuit breaker switch is located on the generator\u2019s control panel. Flip the load switches on one at a time until the generator is at full capacity. Turn on the largest load switch on the load bank machine first. Add smaller loads until the generator is running at its maximum output. For example, if the generator can put out 50 amps of power, you could flip on 1 load switch for a 20 amp load followed by 3 load switches for 10 amp loads. You\u2019ll hear the engine noise of the generator lower as you add loads, this is totally normal. However, continue to listen carefully for any noises that sound like a mechanical problem and shut the generator down if you hear anything suspicious. Run the load test for the required period and monitor the generator\u2019s output. The period of time you need to run the test for depends on the type of generator and its uses. Keep the generator running under the same load for the duration of the test and read the output numbers on the load bank machine to ensure the performance does not drop at any point during the test. For example, heavy-duty portable generators, such as those used by contractors, might be tested for 4-8 hours. Continuous duty generators or industrial generators must be load tested for anywhere from 1 day to 1 week or more. Consult a contractor if you aren't sure how long to run the test for. Output numbers to monitor include voltage, amperage, kilowatt load, and hertz. If you are running a 50 amp load test on a 220-volt generator, make sure that the readings for amps and volts on the load bank stay at these numbers for the duration of the test. Switch off the loads one by one until the generator is running a light load. Flip the largest load on the load bank off first. Keep turning off the loads one at a time until the generator is running at 10-20% of its maximum output. For example, if the generator has an output of 50 amps, leave it running under a 10 amp load from the load bank. Let the generator run on a light load for 1 hour. Leave the generator running at 10-20% of its maximum output after switching off most of the loads. Turn off the rest of the loads after 1 hour has passed. This is just for the purpose of shutting down the generator after a test. In normal use, try not to run your generator on a light load often because it can lead to wet-stacking, which is when unburned fuel builds up in the exhaust system of the generator. Turn off the generator. Flip the generator\u2019s circuit breaker to OFF to stop sending power to the load bank. Push in the governor all the way to reduce the generator\u2019s speed. Turn the key switch off to stop the generator completely. Do this all within 5-10 minutes of switching off the last load to avoid leaving the generator running under no load for too long.",
+  "sentences":[
+    " Checking the Output Start your generator.",
+    "Put the generator\u2019s choke at the START or halfway position.",
+    "Flip the generator\u2019s power switch to ON or turn the key in the ignition switch to the ON position.",
+    "Pull the recoil cord if your generator has one to actually start the engine.",
+    "If your generator does not start, double-check that the fuel line is open.",
+    "A recoil cord is a cord with a T-shaped plastic handle, like the cord you start a gas-powered lawn mower with.",
+    "Many small portable generators have these.",
+    "Turn on a voltmeter to the \u201cAC voltage\u201d position.",
+    "Move the dial on the voltmeter from the OFF position to the position marked for testing AC voltage.",
+    "The AC voltage position might be marked as \u201cACA,\u201d \u201cACV,\u201d \u201cA~,\u201d or \u201cV~.\u201dWarning: Don\u2019t test the output of your generator with any setting other than the AC voltage setting or you will blow the voltmeter\u2019s fuse.",
+    "If you aren\u2019t sure which position is the AC voltage testing position, consult the manufacturer\u2019s instructions for your voltmeter.",
+    "Attach the black lead from the voltmeter to the frame of the generator.",
+    "Plug the black cable that comes with the voltmeter into the black socket on the voltmeter, then use the alligator clip at the other end of the cable to clip it anywhere on the generator\u2019s frame.",
+    "This will ground it to protect electrical wires and components from damage due to any sudden power surges.",
+    "If the voltmeter cable doesn\u2019t have a built-in alligator clip, you will need to get an alligator clip to use to clip the metal tip of the cable to the frame.",
+    "Plug the red lead from the voltmeter into the generator\u2019s output plug outlet.",
+    "The output plug outlet is where you plug any power cable into the generator.",
+    "Plug the red cable that comes with the voltmeter into the red socket on the voltmeter, then put the metal tip at the other end of the cable inside the generator\u2019s output plug to read the voltage.",
+    "The generator might have different output plug outlets for different voltages.",
+    "For example, it might have a 120-volt output outlet and a 220-volt outlet.",
+    "The outlets will be labeled and may look different.",
+    "You can test both of them in the same way.",
+    "Outlets with a 120-volt output are most commonly used for plugging in standard electrical devices, while 220-volt outlets are typically used for things that require more power, such as clothes dryers and welders.",
+    "Read the number on the voltmeter to see the output in volts.",
+    "Check the display of the voltmeter as you hold the red lead against the output plug outlet.",
+    "The number displayed is how many volts of power your generator is putting out.",
+    "For example, if your generator has a 120-volt output, the display should show 120 volts or very close to that number, unless there is a problem with your generator.",
+    "Disconnect the voltmeter and turn off the generator.",
+    "Remove the red cable and unclip the black cable.",
+    "Switch your generator\u2019s ignition switch to OFF or flip the power switch to the OFF position to shut down the generator.",
+    "Performing a Load Test Check all the generator\u2019s fluid levels to ensure they are full.",
+    "Look at the fuel gauge to make sure that the generator has a full tank of fuel.",
+    "Check the oil level to verify that it is full.Tip: Note that unless you have experience working with load bank testing, it is best to hire a certified contractor to perform the test for you.",
+    "The process is fairly simple, but it does require some knowledge as well as a load bank testing machine.",
+    "If the generator is water-cooled, check the levels in the radiator or coolant tank to verify that it has enough coolant as well.",
+    "Make sure the reservoir is filled to within about 1 in (2.5 cm) of the top.",
+    "Start the generator and run it at full speed.",
+    "Turn the key switch on the generator\u2019s control panel to the ON position to start the generator.",
+    "Pull the governor, which is the knob that controls the engine speed, all the way out to set the generator to full speed.",
+    "Listen for any strange sounds during this step and stop the generator if anything seems wrong.",
+    "There shouldn't be any sputtering or clunking noises; the engine should sound smooth and consistent.",
+    "Plug a load bank into the generator.",
+    "A load bank is a machine that simulates an artificial load in order to test the generator.",
+    "Connect the output load cable from the generator to the load bank testing machine.",
+    "You can buy or rent a load bank if you plan to perform this test yourself.",
+    "Keep in mind that unless you run a facility with multiple generators or you need to perform frequent load tests of generators, it doesn\u2019t make much sense to purchase and keep a load bank on hand.",
+    "Companies that perform generator load testing for you will bring a portable load bank to your premises to perform the test.",
+    "Turn on the generator\u2019s circuit breaker.",
+    "Flip the circuit breaker switch to the ON position.",
+    "This will allow power from the generator to flow to the load bank.",
+    "The circuit breaker switch is located on the generator\u2019s control panel.",
+    "Flip the load switches on one at a time until the generator is at full capacity.",
+    "Turn on the largest load switch on the load bank machine first.",
+    "Add smaller loads until the generator is running at its maximum output.",
+    "For example, if the generator can put out 50 amps of power, you could flip on 1 load switch for a 20 amp load followed by 3 load switches for 10 amp loads.",
+    "You\u2019ll hear the engine noise of the generator lower as you add loads, this is totally normal.",
+    "However, continue to listen carefully for any noises that sound like a mechanical problem and shut the generator down if you hear anything suspicious.",
+    "Run the load test for the required period and monitor the generator\u2019s output.",
+    "The period of time you need to run the test for depends on the type of generator and its uses.",
+    "Keep the generator running under the same load for the duration of the test and read the output numbers on the load bank machine to ensure the performance does not drop at any point during the test.",
+    "For example, heavy-duty portable generators, such as those used by contractors, might be tested for 4-8 hours.",
+    "Continuous duty generators or industrial generators must be load tested for anywhere from 1 day to 1 week or more.",
+    "Consult a contractor if you aren't sure how long to run the test for.",
+    "Output numbers to monitor include voltage, amperage, kilowatt load, and hertz.",
+    "If you are running a 50 amp load test on a 220-volt generator, make sure that the readings for amps and volts on the load bank stay at these numbers for the duration of the test.",
+    "Switch off the loads one by one until the generator is running a light load.",
+    "Flip the largest load on the load bank off first.",
+    "Keep turning off the loads one at a time until the generator is running at 10-20% of its maximum output.",
+    "For example, if the generator has an output of 50 amps, leave it running under a 10 amp load from the load bank.",
+    "Let the generator run on a light load for 1 hour.",
+    "Leave the generator running at 10-20% of its maximum output after switching off most of the loads.",
+    "Turn off the rest of the loads after 1 hour has passed.",
+    "This is just for the purpose of shutting down the generator after a test.",
+    "In normal use, try not to run your generator on a light load often because it can lead to wet-stacking, which is when unburned fuel builds up in the exhaust system of the generator.",
+    "Turn off the generator.",
+    "Flip the generator\u2019s circuit breaker to OFF to stop sending power to the load bank.",
+    "Push in the governor all the way to reduce the generator\u2019s speed.",
+    "Turn the key switch off to stop the generator completely.",
+    "Do this all within 5-10 minutes of switching off the last load to avoid leaving the generator running under no load for too long."
+  ],
+  "tyn_section":[
+    "Voltmeter",
+    "Load bank"
+  ],
+  "tyn_model":[
+    "generator",
+    "voltmeter",
+    "generators",
+    "load bank",
+    "alligator clip",
+    "recoil cord",
+    "\u201d \u201c",
+    "circuit breaker",
+    "\u201cac",
+    "\u201d position",
+    "\u201caca",
+    "\u201d or",
+    "\u201cv~.\u201dwarning",
+    "voltmeter cable",
+    "electrical devices",
+    "oil",
+    "load bank testing machine",
+    "governor",
+    "220-volt generator"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.1052631579,
+    "f1":0.1904761905,
+    "avg_pos":0.0526315789
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2105263158,
+    "f1":0.347826087
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2105263158,
+    "f1":0.347826087
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.1052631579,
+    "f1":0.1904761905
+  }
+}

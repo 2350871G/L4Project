@@ -1,0 +1,90 @@
+{
+  "title":"How to Make Chinese Green Tea",
+  "url":"https://www.wikihow.com/Make-Chinese-Green-Tea",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Tea",
+    "Green Tea"
+  ],
+  "methods":[
+    {
+      "name":"Using a Few Leaves",
+      "steps":[
+        {
+          "headline":"Put 5-10 grams of tea leaves in the tea pot.",
+          "description":""
+        },
+        {
+          "headline":"Add not-quite-boiling (80-90\u00b0) water.",
+          "description":""
+        },
+        {
+          "headline":"Wait 3 - 5 minutes, then serve.",
+          "description":"You will get a few cups of fresh tea for yourself."
+        }
+      ]
+    },
+    {
+      "name":"Using More Leaves to Serve for 4 More People",
+      "steps":[
+        {
+          "headline":"Add 20 - 30 grams of  tea leaves into the tea pot.",
+          "description":""
+        },
+        {
+          "headline":"Add not-quite-boiling (80-90\u00b0) water.",
+          "description":""
+        },
+        {
+          "headline":"Wait 3 - 5 minutes and then pour to serve for yourself or guest.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Using a Few Leaves Put 5-10 grams of tea leaves in the tea pot.  Add not-quite-boiling (80-90\u00b0) water.  Wait 3 - 5 minutes, then serve. You will get a few cups of fresh tea for yourself. Using More Leaves to Serve for 4 More People Add 20 - 30 grams of  tea leaves into the tea pot.  Add not-quite-boiling (80-90\u00b0) water.  Wait 3 - 5 minutes and then pour to serve for yourself or guest. ",
+  "sentences":[
+    " Using a Few Leaves Put 5-10 grams of tea leaves in the tea pot.",
+    "Add not-quite-boiling (80-90\u00b0) water.",
+    "Wait 3 - 5 minutes, then serve.",
+    "You will get a few cups of fresh tea for yourself.",
+    "Using More Leaves to Serve for 4 More People Add 20 - 30 grams of  tea leaves into the tea pot.",
+    "Add not-quite-boiling (80-90\u00b0) water.",
+    "Wait 3 - 5 minutes and then pour to serve for yourself or guest."
+  ],
+  "tyn_section":[
+    "Teapot",
+    "cups",
+    "kettle",
+    "water just under boiling(190\u00b0F)",
+    "tea"
+  ],
+  "tyn_model":[
+    "tea leaves",
+    "tea pot",
+    "water",
+    "tea"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.25,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.75,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.75,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.25,
+    "f1":0.2222222222
+  }
+}

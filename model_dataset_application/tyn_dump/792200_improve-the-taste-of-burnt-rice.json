@@ -1,0 +1,92 @@
+{
+  "title":"How to Improve the Taste of Burnt Rice",
+  "url":"https://www.wikihow.com/Improve-the-Taste-of-Burnt-Rice",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Rice and Beans"
+  ],
+  "steps":[
+    {
+      "headline":"Remove the rice from the heat source if you haven't already done so.",
+      "description":""
+    },
+    {
+      "headline":"Place a slice of white bread on top of the cooked rice.",
+      "description":""
+    },
+    {
+      "headline":"Put the lid of the pan back on.",
+      "description":"Leave to sit for five to ten minutes."
+    },
+    {
+      "headline":"Remove the lid.",
+      "description":"The combination of the warmth of the cooked rice and the white bread should have worked its magic to restore the taste of the rice to normal. Taste test it to be sure."
+    },
+    {
+      "headline":"Remove the slice of bread and add to the compost.",
+      "description":"It will absorbed much of the burnt flavour."
+    },
+    {
+      "headline":"Carefully pour or spoon out the rice into a strainer or colander from the saucepan.",
+      "description":"Take great care not to introduce any of the burned the grains from the base of the pan. Any grains that appear borderline should be rejected."
+    },
+    {
+      "headline":"Serve as intended.",
+      "description":""
+    }
+  ],
+  "text":" Remove the rice from the heat source if you haven't already done so.  Place a slice of white bread on top of the cooked rice.  Put the lid of the pan back on. Leave to sit for five to ten minutes. Remove the lid. The combination of the warmth of the cooked rice and the white bread should have worked its magic to restore the taste of the rice to normal. Taste test it to be sure. Remove the slice of bread and add to the compost. It will absorbed much of the burnt flavour. Carefully pour or spoon out the rice into a strainer or colander from the saucepan. Take great care not to introduce any of the burned the grains from the base of the pan. Any grains that appear borderline should be rejected. Serve as intended. ",
+  "sentences":[
+    " Remove the rice from the heat source if you haven't already done so.",
+    "Place a slice of white bread on top of the cooked rice.",
+    "Put the lid of the pan back on.",
+    "Leave to sit for five to ten minutes.",
+    "Remove the lid.",
+    "The combination of the warmth of the cooked rice and the white bread should have worked its magic to restore the taste of the rice to normal.",
+    "Taste test it to be sure.",
+    "Remove the slice of bread and add to the compost.",
+    "It will absorbed much of the burnt flavour.",
+    "Carefully pour or spoon out the rice into a strainer or colander from the saucepan.",
+    "Take great care not to introduce any of the burned the grains from the base of the pan.",
+    "Any grains that appear borderline should be rejected.",
+    "Serve as intended."
+  ],
+  "tyn_section":[
+    "Original scorched rice",
+    "Slice of white bread",
+    "Pan lid",
+    "Colander or strainer"
+  ],
+  "tyn_model":[
+    "rice",
+    "white bread",
+    "pan",
+    "bread",
+    "compost",
+    "strainer",
+    "colander",
+    "saucepan"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.625,
+    "f1":0.7692307692
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "title":"How to Play Dots and Boxes",
+  "url":"https://www.wikihow.com/Play-Dots-and-Boxes",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games"
+  ],
+  "methods":[
+    {
+      "name":"Setting Up the Game and Rules",
+      "steps":[
+        {
+          "headline":"Know the goal of the game to keep track of the rules.",
+          "description":"Dots and boxes is a simple game with a simple goal: whoever \"owns\" the most boxes at the end of the game wins. You and your opponent take turns drawing horizontal or vertical lines to connect the boxes. When someone draws a line that completes a box, you write your initial inside to win the box. Once all the dots have been connected, you can count up the boxes and find the winner."
+        },
+        {
+          "headline":"Create a grid of dots at least four dots wide and four dots long.",
+          "description":"Using a pen and pencil, make a simple vertical line of dots, each about 1 cm apart. Make three more columns of dots going horizontally, so you have an even square of at least 16 dots. You can make any size board you want -- from 6x6 to 10x10. Even uneven boards, like a 4x6, will work out fine. While shorter games can be played on 3x3 grids, they must generally be at least 4x4 provide a worthwhile game."
+        },
+        {
+          "headline":"Give each player a pencil or pen.",
+          "description":"It is often fun to play with different color inks, allowing you to look back on the game and see who played or set up what boxes, but it is not essential. In a pinch, you can share a pencil as well."
+        },
+        {
+          "headline":"Flip a coin, play rock-paper-scissors, or otherwise decide who gets to go first.",
+          "description":"This may seem like a small choice, but for higher-level strategies (which do exist in Dots) there is a slight difference in play for who goes first. The best practice is to play multiple games, switching who is first each time. Note that this difference is slight, especially if you don't care about the precise mathematical strategies. There is no real advantage to going either first or second."
+        },
+        {
+          "headline":"Each turn, draw one horizontal or vertical line to connect two dots.",
+          "description":"Early on this will be mostly random, as there are not enough lines to win any boxes. Each line simply goes from one dot to it's neighboring dot either above, below, left, or right. There are no diagonal lines."
+        },
+        {
+          "headline":"Draw the 4th wall of a box to win it for yourself.",
+          "description":"Each box is worth one point, so write your initial in the completed box to score it for yourself. If you have two different colored pens, you can also scribble your color in to mark it as well. For strategy purposes, most computer programs use two colors for the teams, usually red and blue. The rest of the article will use Red and Blue as the hypothetical players."
+        },
+        {
+          "headline":"Take an extra turn if you complete a box.",
+          "description":"Once you've finished a box, drawing the 4th line, you get to keep going. This allows you to create chains, where the 4th wall of your first box makes the 3rd wall of another box. You can then use your extra turn to complete this box too, keeping the cycle alive until the chain runs out. A \"chain\" is a line of boxes that one player can take in one turn, and is the central strategy element in boxes. Whoever gets the longest and/or most chains usually wins. You must take your extra turn -- you cannot skip it."
+        },
+        {
+          "headline":"Count up each player's number of boxes once the whole board is covered.",
+          "description":"The player with the largest number of boxes win. If you want to continue playing, you should draw a new grid, switch who goes first and keep going."
+        },
+        {
+          "headline":"Play the game using free internet programs, alternatively.",
+          "description":"Sites like these will draw the boards for you, often letting you choose the size of the grid as well. All of the rules are written into the code, meaning you can just focus on playing. Check out this free, educational version provided by UCLA's math department which lets you battle a computer player."
+        }
+      ]
+    },
+    {
+      "name":"Forming a Winning Strategy",
+      "steps":[
+        {
+          "headline":"Avoid creating the third side of a box until you absolutely have to.",
+          "description":"Once a box has three sides, the next player up can complete the box to score a point. Early in the game, there is never a reason to draw in this third line, as you are simply offering up a point to your opponent."
+        },
+        {
+          "headline":"Keep track of the length of a \"run,\" trying to give away the shortest chains possible.",
+          "description":"Eventually, you're going to have to give up boxes, and it is very rare that you'll only give up one at a time. When contemplating what box to give away, count out the number of boxes a chain reaction would be worth. Is there another run that could give away that has fewer points?"
+        },
+        {
+          "headline":"Let your opponent win the last two boxes in any chain longer than three squares.",
+          "description":"This may seem sacrilegious, as you're giving away free boxes, but what it actually does is force the other player to take the two boxes and then give you the next available chain. Note that this strategy only works if there are no open moves left -- otherwise they could take the two boxes and still avoid giving you a chain. When played well, this strategy will win you most games. In serious games, this is called a \"double-cross.\" Double-crosses are the heart of serious dots strategy. Once you make a double-cross, you gain control of the board. Your opponents only moves are to open up a new chain for you or take the two boxes you've given them."
+        },
+        {
+          "headline":"Force good opponents into giving you the first chain.",
+          "description":"If both players know the double-cross rule mentioned above, then it would seem like every game will come down to who wins the first chain, as they can then double-cross their opponent until they win. This is true -- the winner of the first chain is usually the winner. But there is a way to manipulate the game to ensure you win the very first chain, double-cross the rest of the time, and thus win the game. How? You control the number of chains available on the board based on a simple mathematical rule:\nIf there have an odd number of total dots (5x5 board, 9x9, etc.) then the first player wins if there is an odd number of chains. The second player wins if there are an even number. If there are an even number of dots (4x4 board, 6x6, etc.) then the first player wins if there is an even number of chains. The second player wins if there are an odd number of chains. Note: A set of just two boxes is not considered a chain in this strategy."
+        },
+        {
+          "headline":"Think about cordoning off sections of the board when trying to force the right number of chains.",
+          "description":"While the rule above is helpful in theory, you actually have to know how to set-up the right number of chains to make it work. To do this, consider that most chains take up large, continuous areas of the board -- sections, not randomly snaking lines. Instead of making specific chains, make specific areas. For a 5x5 example board, remember that the first player (for this example, Red) wants an odd number of chains:\nRed should try to split the board into three parts by creating a \"hallway\" of boxes down the center of the board, either horizontally or vertically. This then creates a middle chain and two chains on either side -- three total -- for a Red win. Blue should try to cut the board in half, with 1 chain on each side. This allows an even number of chains -- two -- and a Blue win."
+        },
+        {
+          "headline":"Sacrifice a chain to reset the count if you're pre-determined to lose.",
+          "description":"Continuing with the 5x5 example where Red goes first (and wants an odd number of chains), imagine there are three chains on the board, meaning Blue will lose. However, if Blue has at least 1 more box then Red, she can still tie the game, and she can win if they're up 3 boxes or more. To do so, you give up a chain before you're forced to, but you do so in a way that cuts the chain into two separate chains -- giving blue an even number of chains remaining and a new chance to win. You give up the first chain, yes -- but you also minimize the long-term damage. Remember this only works if there is another option available that doesn't give up a chain -- a two-sided box you can safely draw a line in after cutting the chain up. If you must respond to this scenario as Red, you have two options -- take the chain or leave the boxes for Blue later. If the game is early on, sacrifice the boxes. If you're near the end and it's close, take them and keep moving."
+        }
+      ]
+    }
+  ],
+  "text":" Setting Up the Game and Rules Know the goal of the game to keep track of the rules. Dots and boxes is a simple game with a simple goal: whoever \"owns\" the most boxes at the end of the game wins. You and your opponent take turns drawing horizontal or vertical lines to connect the boxes. When someone draws a line that completes a box, you write your initial inside to win the box. Once all the dots have been connected, you can count up the boxes and find the winner. Create a grid of dots at least four dots wide and four dots long. Using a pen and pencil, make a simple vertical line of dots, each about 1 cm apart. Make three more columns of dots going horizontally, so you have an even square of at least 16 dots. You can make any size board you want -- from 6x6 to 10x10. Even uneven boards, like a 4x6, will work out fine. While shorter games can be played on 3x3 grids, they must generally be at least 4x4 provide a worthwhile game. Give each player a pencil or pen. It is often fun to play with different color inks, allowing you to look back on the game and see who played or set up what boxes, but it is not essential. In a pinch, you can share a pencil as well. Flip a coin, play rock-paper-scissors, or otherwise decide who gets to go first. This may seem like a small choice, but for higher-level strategies (which do exist in Dots) there is a slight difference in play for who goes first. The best practice is to play multiple games, switching who is first each time. Note that this difference is slight, especially if you don't care about the precise mathematical strategies. There is no real advantage to going either first or second. Each turn, draw one horizontal or vertical line to connect two dots. Early on this will be mostly random, as there are not enough lines to win any boxes. Each line simply goes from one dot to it's neighboring dot either above, below, left, or right. There are no diagonal lines. Draw the 4th wall of a box to win it for yourself. Each box is worth one point, so write your initial in the completed box to score it for yourself. If you have two different colored pens, you can also scribble your color in to mark it as well. For strategy purposes, most computer programs use two colors for the teams, usually red and blue. The rest of the article will use Red and Blue as the hypothetical players. Take an extra turn if you complete a box. Once you've finished a box, drawing the 4th line, you get to keep going. This allows you to create chains, where the 4th wall of your first box makes the 3rd wall of another box. You can then use your extra turn to complete this box too, keeping the cycle alive until the chain runs out. A \"chain\" is a line of boxes that one player can take in one turn, and is the central strategy element in boxes. Whoever gets the longest and/or most chains usually wins. You must take your extra turn -- you cannot skip it. Count up each player's number of boxes once the whole board is covered. The player with the largest number of boxes win. If you want to continue playing, you should draw a new grid, switch who goes first and keep going. Play the game using free internet programs, alternatively. Sites like these will draw the boards for you, often letting you choose the size of the grid as well. All of the rules are written into the code, meaning you can just focus on playing. Check out this free, educational version provided by UCLA's math department which lets you battle a computer player. Forming a Winning Strategy Avoid creating the third side of a box until you absolutely have to. Once a box has three sides, the next player up can complete the box to score a point. Early in the game, there is never a reason to draw in this third line, as you are simply offering up a point to your opponent. Keep track of the length of a \"run,\" trying to give away the shortest chains possible. Eventually, you're going to have to give up boxes, and it is very rare that you'll only give up one at a time. When contemplating what box to give away, count out the number of boxes a chain reaction would be worth. Is there another run that could give away that has fewer points? Let your opponent win the last two boxes in any chain longer than three squares. This may seem sacrilegious, as you're giving away free boxes, but what it actually does is force the other player to take the two boxes and then give you the next available chain. Note that this strategy only works if there are no open moves left -- otherwise they could take the two boxes and still avoid giving you a chain. When played well, this strategy will win you most games. In serious games, this is called a \"double-cross.\" Double-crosses are the heart of serious dots strategy. Once you make a double-cross, you gain control of the board. Your opponents only moves are to open up a new chain for you or take the two boxes you've given them. Force good opponents into giving you the first chain. If both players know the double-cross rule mentioned above, then it would seem like every game will come down to who wins the first chain, as they can then double-cross their opponent until they win. This is true -- the winner of the first chain is usually the winner. But there is a way to manipulate the game to ensure you win the very first chain, double-cross the rest of the time, and thus win the game. How? You control the number of chains available on the board based on a simple mathematical rule:\nIf there have an odd number of total dots (5x5 board, 9x9, etc.) then the first player wins if there is an odd number of chains. The second player wins if there are an even number. If there are an even number of dots (4x4 board, 6x6, etc.) then the first player wins if there is an even number of chains. The second player wins if there are an odd number of chains. Note: A set of just two boxes is not considered a chain in this strategy. Think about cordoning off sections of the board when trying to force the right number of chains. While the rule above is helpful in theory, you actually have to know how to set-up the right number of chains to make it work. To do this, consider that most chains take up large, continuous areas of the board -- sections, not randomly snaking lines. Instead of making specific chains, make specific areas. For a 5x5 example board, remember that the first player (for this example, Red) wants an odd number of chains:\nRed should try to split the board into three parts by creating a \"hallway\" of boxes down the center of the board, either horizontally or vertically. This then creates a middle chain and two chains on either side -- three total -- for a Red win. Blue should try to cut the board in half, with 1 chain on each side. This allows an even number of chains -- two -- and a Blue win. Sacrifice a chain to reset the count if you're pre-determined to lose. Continuing with the 5x5 example where Red goes first (and wants an odd number of chains), imagine there are three chains on the board, meaning Blue will lose. However, if Blue has at least 1 more box then Red, she can still tie the game, and she can win if they're up 3 boxes or more. To do so, you give up a chain before you're forced to, but you do so in a way that cuts the chain into two separate chains -- giving blue an even number of chains remaining and a new chance to win. You give up the first chain, yes -- but you also minimize the long-term damage. Remember this only works if there is another option available that doesn't give up a chain -- a two-sided box you can safely draw a line in after cutting the chain up. If you must respond to this scenario as Red, you have two options -- take the chain or leave the boxes for Blue later. If the game is early on, sacrifice the boxes. If you're near the end and it's close, take them and keep moving.",
+  "sentences":[
+    " Setting Up the Game and Rules Know the goal of the game to keep track of the rules.",
+    "Dots and boxes is a simple game with a simple goal: whoever \"owns\" the most boxes at the end of the game wins.",
+    "You and your opponent take turns drawing horizontal or vertical lines to connect the boxes.",
+    "When someone draws a line that completes a box, you write your initial inside to win the box.",
+    "Once all the dots have been connected, you can count up the boxes and find the winner.",
+    "Create a grid of dots at least four dots wide and four dots long.",
+    "Using a pen and pencil, make a simple vertical line of dots, each about 1 cm apart.",
+    "Make three more columns of dots going horizontally, so you have an even square of at least 16 dots.",
+    "You can make any size board you want -- from 6x6 to 10x10.",
+    "Even uneven boards, like a 4x6, will work out fine.",
+    "While shorter games can be played on 3x3 grids, they must generally be at least 4x4 provide a worthwhile game.",
+    "Give each player a pencil or pen.",
+    "It is often fun to play with different color inks, allowing you to look back on the game and see who played or set up what boxes, but it is not essential.",
+    "In a pinch, you can share a pencil as well.",
+    "Flip a coin, play rock-paper-scissors, or otherwise decide who gets to go first.",
+    "This may seem like a small choice, but for higher-level strategies (which do exist in Dots) there is a slight difference in play for who goes first.",
+    "The best practice is to play multiple games, switching who is first each time.",
+    "Note that this difference is slight, especially if you don't care about the precise mathematical strategies.",
+    "There is no real advantage to going either first or second.",
+    "Each turn, draw one horizontal or vertical line to connect two dots.",
+    "Early on this will be mostly random, as there are not enough lines to win any boxes.",
+    "Each line simply goes from one dot to it's neighboring dot either above, below, left, or right.",
+    "There are no diagonal lines.",
+    "Draw the 4th wall of a box to win it for yourself.",
+    "Each box is worth one point, so write your initial in the completed box to score it for yourself.",
+    "If you have two different colored pens, you can also scribble your color in to mark it as well.",
+    "For strategy purposes, most computer programs use two colors for the teams, usually red and blue.",
+    "The rest of the article will use Red and Blue as the hypothetical players.",
+    "Take an extra turn if you complete a box.",
+    "Once you've finished a box, drawing the 4th line, you get to keep going.",
+    "This allows you to create chains, where the 4th wall of your first box makes the 3rd wall of another box.",
+    "You can then use your extra turn to complete this box too, keeping the cycle alive until the chain runs out.",
+    "A \"chain\" is a line of boxes that one player can take in one turn, and is the central strategy element in boxes.",
+    "Whoever gets the longest and/or most chains usually wins.",
+    "You must take your extra turn -- you cannot skip it.",
+    "Count up each player's number of boxes once the whole board is covered.",
+    "The player with the largest number of boxes win.",
+    "If you want to continue playing, you should draw a new grid, switch who goes first and keep going.",
+    "Play the game using free internet programs, alternatively.",
+    "Sites like these will draw the boards for you, often letting you choose the size of the grid as well.",
+    "All of the rules are written into the code, meaning you can just focus on playing.",
+    "Check out this free, educational version provided by UCLA's math department which lets you battle a computer player.",
+    "Forming a Winning Strategy Avoid creating the third side of a box until you absolutely have to.",
+    "Once a box has three sides, the next player up can complete the box to score a point.",
+    "Early in the game, there is never a reason to draw in this third line, as you are simply offering up a point to your opponent.",
+    "Keep track of the length of a \"run,\" trying to give away the shortest chains possible.",
+    "Eventually, you're going to have to give up boxes, and it is very rare that you'll only give up one at a time.",
+    "When contemplating what box to give away, count out the number of boxes a chain reaction would be worth.",
+    "Is there another run that could give away that has fewer points?",
+    "Let your opponent win the last two boxes in any chain longer than three squares.",
+    "This may seem sacrilegious, as you're giving away free boxes, but what it actually does is force the other player to take the two boxes and then give you the next available chain.",
+    "Note that this strategy only works if there are no open moves left -- otherwise they could take the two boxes and still avoid giving you a chain.",
+    "When played well, this strategy will win you most games.",
+    "In serious games, this is called a \"double-cross.\"",
+    "Double-crosses are the heart of serious dots strategy.",
+    "Once you make a double-cross, you gain control of the board.",
+    "Your opponents only moves are to open up a new chain for you or take the two boxes you've given them.",
+    "Force good opponents into giving you the first chain.",
+    "If both players know the double-cross rule mentioned above, then it would seem like every game will come down to who wins the first chain, as they can then double-cross their opponent until they win.",
+    "This is true -- the winner of the first chain is usually the winner.",
+    "But there is a way to manipulate the game to ensure you win the very first chain, double-cross the rest of the time, and thus win the game.",
+    "How?",
+    "You control the number of chains available on the board based on a simple mathematical rule:\nIf there have an odd number of total dots (5x5 board, 9x9, etc.)",
+    "then the first player wins if there is an odd number of chains.",
+    "The second player wins if there are an even number.",
+    "If there are an even number of dots (4x4 board, 6x6, etc.)",
+    "then the first player wins if there is an even number of chains.",
+    "The second player wins if there are an odd number of chains.",
+    "Note: A set of just two boxes is not considered a chain in this strategy.",
+    "Think about cordoning off sections of the board when trying to force the right number of chains.",
+    "While the rule above is helpful in theory, you actually have to know how to set-up the right number of chains to make it work.",
+    "To do this, consider that most chains take up large, continuous areas of the board -- sections, not randomly snaking lines.",
+    "Instead of making specific chains, make specific areas.",
+    "For a 5x5 example board, remember that the first player (for this example, Red) wants an odd number of chains:\nRed should try to split the board into three parts by creating a \"hallway\" of boxes down the center of the board, either horizontally or vertically.",
+    "This then creates a middle chain and two chains on either side -- three total -- for a Red win.",
+    "Blue should try to cut the board in half, with 1 chain on each side.",
+    "This allows an even number of chains -- two -- and a Blue win.",
+    "Sacrifice a chain to reset the count if you're pre-determined to lose.",
+    "Continuing with the 5x5 example where Red goes first (and wants an odd number of chains), imagine there are three chains on the board, meaning Blue will lose.",
+    "However, if Blue has at least 1 more box then Red, she can still tie the game, and she can win if they're up 3 boxes or more.",
+    "To do so, you give up a chain before you're forced to, but you do so in a way that cuts the chain into two separate chains -- giving blue an even number of chains remaining and a new chance to win.",
+    "You give up the first chain, yes -- but you also minimize the long-term damage.",
+    "Remember this only works if there is another option available that doesn't give up a chain -- a two-sided box you can safely draw a line in after cutting the chain up.",
+    "If you must respond to this scenario as Red, you have two options -- take the chain or leave the boxes for Blue later.",
+    "If the game is early on, sacrifice the boxes.",
+    "If you're near the end and it's close, take them and keep moving."
+  ],
+  "tyn_section":[
+    "Pen or pencil",
+    "Paper",
+    "Additional colored pencils or markers if using color as the box identifier"
+  ],
+  "tyn_model":[
+    "pencil",
+    "boxes",
+    "pen",
+    "board",
+    "colored pens"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.4,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

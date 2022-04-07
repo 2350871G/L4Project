@@ -1,0 +1,74 @@
+{
+  "title":"How to Make a Tuna Egg Sandwich",
+  "url":"https://www.wikihow.com/Make-a-Tuna-Egg-Sandwich",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Sandwiches and Quick Meals",
+    "Meat and Poultry Sandwiches"
+  ],
+  "steps":[
+    {
+      "headline":"Put the tuna in the bowl.",
+      "description":""
+    },
+    {
+      "headline":"Place the boiled egg in the bowl and smash it with the fork.",
+      "description":""
+    },
+    {
+      "headline":"Mix it together with the mayonnaise and salt.",
+      "description":""
+    },
+    {
+      "headline":"Pour your mixed ingredients on one slice of bread and place your other slice of bread on top of the ingredients.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Put the tuna in the bowl.  Place the boiled egg in the bowl and smash it with the fork.  Mix it together with the mayonnaise and salt.  Pour your mixed ingredients on one slice of bread and place your other slice of bread on top of the ingredients.  Finished. ",
+  "sentences":[
+    " Put the tuna in the bowl.",
+    "Place the boiled egg in the bowl and smash it with the fork.",
+    "Mix it together with the mayonnaise and salt.",
+    "Pour your mixed ingredients on one slice of bread and place your other slice of bread on top of the ingredients.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Bowl",
+    "Fork",
+    "Plate"
+  ],
+  "tyn_model":[
+    "bowl",
+    "tuna",
+    "boiled egg",
+    "fork",
+    "mayonnaise",
+    "salt"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  }
+}

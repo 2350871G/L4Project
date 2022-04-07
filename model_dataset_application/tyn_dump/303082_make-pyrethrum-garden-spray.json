@@ -1,0 +1,77 @@
+{
+  "title":"How to Make Pyrethrum Garden Spray",
+  "url":"https://www.wikihow.com/Make-Pyrethrum-Garden-Spray",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Garden Pests and Weeds",
+    "Garden Sprays"
+  ],
+  "steps":[
+    {
+      "headline":"Obtain the flower heads.",
+      "description":""
+    },
+    {
+      "headline":"Mix the flower heads with the hot water.",
+      "description":"Allow to stand for one hour."
+    },
+    {
+      "headline":"Strain off the flower heads.",
+      "description":""
+    },
+    {
+      "headline":"Add the soap powder and mix.",
+      "description":""
+    },
+    {
+      "headline":"Pour the mixture into a spray bottle.",
+      "description":""
+    },
+    {
+      "headline":"Spray.",
+      "description":""
+    }
+  ],
+  "text":" Obtain the flower heads.  Mix the flower heads with the hot water. Allow to stand for one hour. Strain off the flower heads.  Add the soap powder and mix.  Pour the mixture into a spray bottle.  Spray. ",
+  "sentences":[
+    " Obtain the flower heads.",
+    "Mix the flower heads with the hot water.",
+    "Allow to stand for one hour.",
+    "Strain off the flower heads.",
+    "Add the soap powder and mix.",
+    "Pour the mixture into a spray bottle.",
+    "Spray."
+  ],
+  "tyn_section":[
+    "Bucket",
+    "Sieve",
+    "Spray bottle"
+  ],
+  "tyn_model":[
+    "hot water",
+    "soap powder",
+    "spray bottle"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  }
+}

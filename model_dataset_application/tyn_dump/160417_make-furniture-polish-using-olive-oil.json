@@ -1,0 +1,101 @@
+{
+  "title":"How to Make Furniture Polish Using Olive Oil",
+  "url":"https://www.wikihow.com/Make-Furniture-Polish-Using-Olive-Oil",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Furniture",
+    "Furniture Care",
+    "Furniture Polish"
+  ],
+  "methods":[
+    {
+      "name":"Deep Cleansing Furniture Oil",
+      "steps":[
+        {
+          "headline":"Combine the olive oil and vinegar (using proportions specified below) in a glass or ceramic container.",
+          "description":""
+        },
+        {
+          "headline":"Apply the polish with a soft polishing cloth.",
+          "description":"Do not rub it in too hard but leave it to soak in."
+        },
+        {
+          "headline":"Allow to air dry.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Regular Cleaning Furniture Oil",
+      "steps":[
+        {
+          "headline":"Combine the oil and lemon juice in a glass or ceramic container.",
+          "description":""
+        },
+        {
+          "headline":"Apply with a soft polishing cloth.",
+          "description":""
+        },
+        {
+          "headline":"Use the soft cloth to shine the furniture by rubbing briskly.",
+          "description":""
+        },
+        {
+          "headline":"Allow to air dry if it hasn't already through buffing.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Deep Cleansing Furniture Oil Combine the olive oil and vinegar (using proportions specified below) in a glass or ceramic container.  Apply the polish with a soft polishing cloth. Do not rub it in too hard but leave it to soak in. Allow to air dry.  Regular Cleaning Furniture Oil Combine the oil and lemon juice in a glass or ceramic container.  Apply with a soft polishing cloth.  Use the soft cloth to shine the furniture by rubbing briskly.  Allow to air dry if it hasn't already through buffing. ",
+  "sentences":[
+    " Deep Cleansing Furniture Oil Combine the olive oil and vinegar (using proportions specified below) in a glass or ceramic container.",
+    "Apply the polish with a soft polishing cloth.",
+    "Do not rub it in too hard but leave it to soak in.",
+    "Allow to air dry.",
+    "Regular Cleaning Furniture Oil Combine the oil and lemon juice in a glass or ceramic container.",
+    "Apply with a soft polishing cloth.",
+    "Use the soft cloth to shine the furniture by rubbing briskly.",
+    "Allow to air dry if it hasn't already through buffing."
+  ],
+  "tyn_section":[
+    "Polish #1:",
+    "3/4 cup olive oil",
+    "1/4 cup white vinegar",
+    "soft polishing cloth",
+    "Polish #2:",
+    "1 Cup olive oil",
+    "1/2 Cup of fresh lemon juice"
+  ],
+  "tyn_model":[
+    "glass or ceramic",
+    "soft polishing cloth",
+    "cleansing furniture oil",
+    "olive oil",
+    "vinegar",
+    "regular cleaning furniture oil",
+    "oil",
+    "lemon juice"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.125,
+    "f1":0.1333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4285714286,
+    "p":0.25,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5714285714,
+    "p":0.375,
+    "f1":0.4528301887
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.125,
+    "f1":0.1333333333
+  }
+}

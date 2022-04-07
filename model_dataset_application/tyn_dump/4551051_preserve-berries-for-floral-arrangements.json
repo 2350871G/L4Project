@@ -1,0 +1,104 @@
+{
+  "title":"How to Preserve Berries for Floral Arrangements",
+  "url":"https://www.wikihow.com/Preserve-Berries-for-Floral-Arrangements",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts"
+  ],
+  "parts":[
+    {
+      "name":"Conditioning the cuttings",
+      "steps":[
+        {
+          "headline":"Cut the berries with plenty of stem left intact.",
+          "description":"The stem is essential for allowing the berries to be included in any floral arrangement."
+        },
+        {
+          "headline":"Cut the stems at an angle.",
+          "description":"This allows for maximum surface to uptake water."
+        },
+        {
+          "headline":"Stand the stems in a vase or container of warm water.",
+          "description":"Let stand for several hours."
+        }
+      ]
+    },
+    {
+      "name":"Spraying the Berries With Fixative",
+      "steps":[
+        {
+          "headline":"Place the vase or container holding the berries on their stems inside an upended box.",
+          "description":"The box will prevent over spray onto non-work surfaces."
+        },
+        {
+          "headline":"Spray the berries with hair spray.",
+          "description":"Be sure to get all of the berries and coat all surfaces evenly."
+        },
+        {
+          "headline":"Use a polyurethane spray varnish if you also want gloss.",
+          "description":"This also gives additional preservation to the berries. Spray two light layers, allowing for drying in between."
+        },
+        {
+          "headline":"Arrange the berries.",
+          "description":"Once the sprays have dried properly, the berries are now ready to be included as part of your floral arrangement."
+        }
+      ]
+    }
+  ],
+  "text":" Conditioning the cuttings Cut the berries with plenty of stem left intact. The stem is essential for allowing the berries to be included in any floral arrangement. Cut the stems at an angle. This allows for maximum surface to uptake water. Stand the stems in a vase or container of warm water. Let stand for several hours. Spraying the Berries With Fixative Place the vase or container holding the berries on their stems inside an upended box. The box will prevent over spray onto non-work surfaces. Spray the berries with hair spray. Be sure to get all of the berries and coat all surfaces evenly. Use a polyurethane spray varnish if you also want gloss. This also gives additional preservation to the berries. Spray two light layers, allowing for drying in between. Arrange the berries. Once the sprays have dried properly, the berries are now ready to be included as part of your floral arrangement.",
+  "sentences":[
+    " Conditioning the cuttings Cut the berries with plenty of stem left intact.",
+    "The stem is essential for allowing the berries to be included in any floral arrangement.",
+    "Cut the stems at an angle.",
+    "This allows for maximum surface to uptake water.",
+    "Stand the stems in a vase or container of warm water.",
+    "Let stand for several hours.",
+    "Spraying the Berries With Fixative Place the vase or container holding the berries on their stems inside an upended box.",
+    "The box will prevent over spray onto non-work surfaces.",
+    "Spray the berries with hair spray.",
+    "Be sure to get all of the berries and coat all surfaces evenly.",
+    "Use a polyurethane spray varnish if you also want gloss.",
+    "This also gives additional preservation to the berries.",
+    "Spray two light layers, allowing for drying in between.",
+    "Arrange the berries.",
+    "Once the sprays have dried properly, the berries are now ready to be included as part of your floral arrangement."
+  ],
+  "tyn_section":[
+    "Berries on their stems (preferably nontoxic, check with a florist)",
+    "Scissors or gardening snips",
+    "Vase or container suitable for holding the berries above the vase/water line",
+    "Warm water",
+    "Box large enough to fit the berries in the vase when turned upright or sideways",
+    "Hair spray or petroleum jelly",
+    "Polyurethane spray varnish (optional)"
+  ],
+  "tyn_model":[
+    "berries",
+    "water",
+    "vase",
+    "container",
+    "hair spray",
+    "polyurethane spray varnish"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2857142857,
+    "p":0.3333333333,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4285714286,
+    "p":0.5,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.1666666667,
+    "f1":0.1538461538
+  }
+}

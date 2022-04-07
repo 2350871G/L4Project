@@ -1,0 +1,138 @@
+{
+  "title":"How to Make Fried Dough",
+  "url":"https://www.wikihow.com/Make-Fried-Dough",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Donuts and Doughnuts"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat a deep-fryer.",
+      "description":"Set it to 375\u00baF/190\u00baC."
+    },
+    {
+      "headline":"Mix the flour, baking powder, salt and cool butter together.",
+      "description":"Mix using a pastry blender or an electric mixer."
+    },
+    {
+      "headline":"Add warm water in generous amounts to soften the dough.",
+      "description":""
+    },
+    {
+      "headline":"Let the dough rest for 15 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Pull apart the dough, so that it forms 8 pieces.",
+      "description":""
+    },
+    {
+      "headline":"Roll these pieces, one at a time, until each piece is approximately 5\" (12.5cm) round.",
+      "description":""
+    },
+    {
+      "headline":"Drop the dough rounds carefully into the deep fryer.",
+      "description":""
+    },
+    {
+      "headline":"Cook these dough rounds for 45-60 seconds.",
+      "description":""
+    },
+    {
+      "headline":"Use a cooking utensil to flip the dough over, when you notice the other side start to turn brown.",
+      "description":""
+    },
+    {
+      "headline":"Make sure both sides are brown.",
+      "description":""
+    },
+    {
+      "headline":"Remove the fried dough rounds from fryer immediately after they begin to brown.",
+      "description":""
+    },
+    {
+      "headline":"Allow the fried dough rounds to dry off on a paper towel and to cool somewhat to room temperature.",
+      "description":""
+    },
+    {
+      "headline":"Reheat slightly to serve, using heat from a regular (unset) oven.",
+      "description":""
+    },
+    {
+      "headline":"Top off the dough with some confectioner's sugar and/or cinnamon seasoning or topping of your choice.",
+      "description":""
+    },
+    {
+      "headline":"Finish making the dough piece..",
+      "description":""
+    }
+  ],
+  "text":" Preheat a deep-fryer. Set it to 375\u00baF/190\u00baC. Mix the flour, baking powder, salt and cool butter together. Mix using a pastry blender or an electric mixer. Add warm water in generous amounts to soften the dough.  Let the dough rest for 15 minutes.  Pull apart the dough, so that it forms 8 pieces.  Roll these pieces, one at a time, until each piece is approximately 5\" (12.5cm) round.  Drop the dough rounds carefully into the deep fryer.  Cook these dough rounds for 45-60 seconds.  Use a cooking utensil to flip the dough over, when you notice the other side start to turn brown.  Make sure both sides are brown.  Remove the fried dough rounds from fryer immediately after they begin to brown.  Allow the fried dough rounds to dry off on a paper towel and to cool somewhat to room temperature.  Reheat slightly to serve, using heat from a regular (unset) oven.  Top off the dough with some confectioner's sugar and/or cinnamon seasoning or topping of your choice.  Finish making the dough piece.. ",
+  "sentences":[
+    " Preheat a deep-fryer.",
+    "Set it to 375\u00baF/190\u00baC.",
+    "Mix the flour, baking powder, salt and cool butter together.",
+    "Mix using a pastry blender or an electric mixer.",
+    "Add warm water in generous amounts to soften the dough.",
+    "Let the dough rest for 15 minutes.",
+    "Pull apart the dough, so that it forms 8 pieces.",
+    "Roll these pieces, one at a time, until each piece is approximately 5\" (12.5cm) round.",
+    "Drop the dough rounds carefully into the deep fryer.",
+    "Cook these dough rounds for 45-60 seconds.",
+    "Use a cooking utensil to flip the dough over, when you notice the other side start to turn brown.",
+    "Make sure both sides are brown.",
+    "Remove the fried dough rounds from fryer immediately after they begin to brown.",
+    "Allow the fried dough rounds to dry off on a paper towel and to cool somewhat to room temperature.",
+    "Reheat slightly to serve, using heat from a regular (unset) oven.",
+    "Top off the dough with some confectioner's sugar and/or cinnamon seasoning or topping of your choice.",
+    "Finish making the dough piece.."
+  ],
+  "tyn_section":[
+    "Deep fryer",
+    "Mixing bowl",
+    "Mixer",
+    "Rolling pin",
+    "Cooking utensil to help with frying, such as tongs or a spatula",
+    "Kitchen paper towel"
+  ],
+  "tyn_model":[
+    "deep-fryer",
+    "flour",
+    "baking powder",
+    "salt",
+    "cool butter",
+    "pastry blender",
+    "electric mixer",
+    "water",
+    "deep fryer",
+    "cooking utensil",
+    "fryer",
+    "paper towel",
+    "oven",
+    "confectioner's sugar",
+    "cinnamon seasoning"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0666666667,
+    "f1":0.0952380952,
+    "avg_pos":0.5333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.2666666667,
+    "f1":0.347826087
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2666666667,
+    "f1":0.347826087
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1333333333,
+    "f1":0.1904761905
+  }
+}

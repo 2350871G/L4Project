@@ -1,0 +1,116 @@
+{
+  "title":"How to Make Singapore Noodles",
+  "url":"https://www.wikihow.com/Make-Singapore-Noodles",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles"
+  ],
+  "steps":[
+    {
+      "headline":"Make a marinade.",
+      "description":"Place the pork and shrimp in a bowl together. Pour the wine, fish sauce, soy sauce, and corn starch into the bowl. Mix everything well together and place it on the side for 10 minutes."
+    },
+    {
+      "headline":"Oil and heat the wok.",
+      "description":"Carefully shake off as much marinate from the shrimp and pork possible. Place the pieces into the wok and cook them for about a minute or so."
+    },
+    {
+      "headline":"Add the marinate liquid when the pieces are cooked and stir mixture.",
+      "description":"Remove the shrimp/pork mixture from the wok and cool it off on a tray. Leave the wok on the heat for the vegetables."
+    },
+    {
+      "headline":"Refresh the wok with a little more oil.",
+      "description":"Add all the vegetables (onions, bean sprouts, red pepper, spring onions, and garlic) in the wok. Cook while stirring and then remove the vegetables from the heat. Place them on the side of the shrimp/pork mixture."
+    },
+    {
+      "headline":"Add a bit more oil to the wok.",
+      "description":"Stir the eggs and then add the noodles (without the water). Mix in the curry powder and sugar and then season with salt and pepper."
+    },
+    {
+      "headline":"Combine everything together.",
+      "description":"Re-add the shrimp/pork mixture and vegetables to the noodle/egg mixture. Make sure that everything is mixed together so that the flavors are combined and everything is heated & cooked well."
+    },
+    {
+      "headline":"Garnish the meal with the coriander and serve on individual plates.",
+      "description":""
+    }
+  ],
+  "text":" Make a marinade. Place the pork and shrimp in a bowl together. Pour the wine, fish sauce, soy sauce, and corn starch into the bowl. Mix everything well together and place it on the side for 10 minutes. Oil and heat the wok. Carefully shake off as much marinate from the shrimp and pork possible. Place the pieces into the wok and cook them for about a minute or so. Add the marinate liquid when the pieces are cooked and stir mixture. Remove the shrimp/pork mixture from the wok and cool it off on a tray. Leave the wok on the heat for the vegetables. Refresh the wok with a little more oil. Add all the vegetables (onions, bean sprouts, red pepper, spring onions, and garlic) in the wok. Cook while stirring and then remove the vegetables from the heat. Place them on the side of the shrimp/pork mixture. Add a bit more oil to the wok. Stir the eggs and then add the noodles (without the water). Mix in the curry powder and sugar and then season with salt and pepper. Combine everything together. Re-add the shrimp/pork mixture and vegetables to the noodle/egg mixture. Make sure that everything is mixed together so that the flavors are combined and everything is heated & cooked well. Garnish the meal with the coriander and serve on individual plates. ",
+  "sentences":[
+    " Make a marinade.",
+    "Place the pork and shrimp in a bowl together.",
+    "Pour the wine, fish sauce, soy sauce, and corn starch into the bowl.",
+    "Mix everything well together and place it on the side for 10 minutes.",
+    "Oil and heat the wok.",
+    "Carefully shake off as much marinate from the shrimp and pork possible.",
+    "Place the pieces into the wok and cook them for about a minute or so.",
+    "Add the marinate liquid when the pieces are cooked and stir mixture.",
+    "Remove the shrimp/pork mixture from the wok and cool it off on a tray.",
+    "Leave the wok on the heat for the vegetables.",
+    "Refresh the wok with a little more oil.",
+    "Add all the vegetables (onions, bean sprouts, red pepper, spring onions, and garlic) in the wok.",
+    "Cook while stirring and then remove the vegetables from the heat.",
+    "Place them on the side of the shrimp/pork mixture.",
+    "Add a bit more oil to the wok.",
+    "Stir the eggs and then add the noodles (without the water).",
+    "Mix in the curry powder and sugar and then season with salt and pepper.",
+    "Combine everything together.",
+    "Re-add the shrimp/pork mixture and vegetables to the noodle/egg mixture.",
+    "Make sure that everything is mixed together so that the flavors are combined and everything is heated & cooked well.",
+    "Garnish the meal with the coriander and serve on individual plates."
+  ],
+  "tyn_section":[
+    "Wok",
+    "Wooden spoon",
+    "Tray",
+    "Slotted spoon",
+    "Tongs"
+  ],
+  "tyn_model":[
+    "wok",
+    "shrimp",
+    "pork",
+    "oil",
+    "bowl",
+    "onions",
+    "wine",
+    "fish sauce",
+    "soy sauce",
+    "corn starch",
+    "marinate",
+    "tray",
+    "bean sprouts",
+    "red pepper",
+    "garlic",
+    "eggs",
+    "noodles",
+    "water",
+    "curry powder",
+    "sugar",
+    "salt and pepper",
+    "vegetables",
+    "coriander"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.0869565217,
+    "f1":0.1428571429,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.0869565217,
+    "f1":0.1428571429
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.0869565217,
+    "f1":0.1428571429
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.0869565217,
+    "f1":0.1428571429
+  }
+}

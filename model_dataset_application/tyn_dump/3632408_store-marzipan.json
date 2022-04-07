@@ -1,0 +1,75 @@
+{
+  "title":"How to Store Marzipan",
+  "url":"https://www.wikihow.com/Store-Marzipan",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy"
+  ],
+  "steps":[
+    {
+      "headline":"Select the marzipan to be stored after removing it from the packaging.",
+      "description":"Cut away cleanly from the marzipan you're using."
+    },
+    {
+      "headline":"Lay down a sheet of plastic food (cling) wrap.",
+      "description":"Cut the wrap larger than the piece of marzipan."
+    },
+    {
+      "headline":"Wrap the marzipan tightly.",
+      "description":"Overlap the plastic wrap to ensure that air cannot enter the package."
+    },
+    {
+      "headline":"Place the wrapped marzipan inside an airtight container.",
+      "description":""
+    },
+    {
+      "headline":"Store.",
+      "description":"The marzipan will keep at room temperature in a dark, dry and cool place for up to 3 weeks."
+    }
+  ],
+  "text":" Select the marzipan to be stored after removing it from the packaging. Cut away cleanly from the marzipan you're using. Lay down a sheet of plastic food (cling) wrap. Cut the wrap larger than the piece of marzipan. Wrap the marzipan tightly. Overlap the plastic wrap to ensure that air cannot enter the package. Place the wrapped marzipan inside an airtight container.  Store. The marzipan will keep at room temperature in a dark, dry and cool place for up to 3 weeks.",
+  "sentences":[
+    " Select the marzipan to be stored after removing it from the packaging.",
+    "Cut away cleanly from the marzipan you're using.",
+    "Lay down a sheet of plastic food (cling) wrap.",
+    "Cut the wrap larger than the piece of marzipan.",
+    "Wrap the marzipan tightly.",
+    "Overlap the plastic wrap to ensure that air cannot enter the package.",
+    "Place the wrapped marzipan inside an airtight container.",
+    "Store.",
+    "The marzipan will keep at room temperature in a dark, dry and cool place for up to 3 weeks."
+  ],
+  "tyn_section":[
+    "Marzipan",
+    "Plastic food (cling) wrap",
+    "Airtight container"
+  ],
+  "tyn_model":[
+    "marzipan",
+    "plastic food (cling)",
+    "plastic wrap",
+    "airtight container"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.5,
+    "f1":0.5714285714,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":1.0,
+    "f1":1.0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":1.0,
+    "f1":1.0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.75,
+    "f1":0.8571428571
+  }
+}

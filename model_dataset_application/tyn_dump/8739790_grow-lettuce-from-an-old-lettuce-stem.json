@@ -1,0 +1,117 @@
+{
+  "title":"How to Grow Lettuce from an Old Lettuce Stem",
+  "url":"https://www.wikihow.com/Grow-Lettuce-from-an-Old-Lettuce-Stem",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Planting and Growing",
+    "Growing Vegetables",
+    "Growing Lettuce"
+  ],
+  "steps":[
+    {
+      "headline":"Cut off the end of the lettuce stalk.",
+      "description":"Make sure you don\u2019t cut the stump to an excessively small size. About 1-2 inches of leaf should be left."
+    },
+    {
+      "headline":"Place the stem in a small container of water.",
+      "description":"Ensure that the water level will cover the roots. Use approximately 1/2 inch of water."
+    },
+    {
+      "headline":"Put the stem and container near a window.",
+      "description":"A window that receives light for at least a few hours a day should suffice."
+    },
+    {
+      "headline":"Replace the water in the container each day.",
+      "description":"This is to prevent the water from becoming dirty and mouldy. Unclean water can cause the lettuce to rot."
+    },
+    {
+      "headline":"Observe your growing lettuce!",
+      "description":"Within 2 days you should see the first few leaves grow out of the center of your stem. You may find that some of the leaves leftover from the last stalk will start to turn brown and spotted."
+    },
+    {
+      "headline":"Plant your lettuce in potting soil.",
+      "description":"After about 1 week or when the leaves have reached about 3 inches above the cut stem, it should be ready for planting. Make sure the soil covers the roots but not the old leaves."
+    },
+    {
+      "headline":"Place your planted lettuce in the sun again.",
+      "description":"Water daily to keep the soil moist."
+    },
+    {
+      "headline":"Watch your lettuce continue to grow taller!",
+      "description":"There may be a period where you do not notice much upward growth. Check the center, and you may find smaller leaves are being produced instead!"
+    },
+    {
+      "headline":"Harvest the leaves.",
+      "description":"Begin collecting leaves once they are big enough to make a small salad. Pluck or cut off the leaves and compost the stem. The average harvesting height is 8 inches."
+    },
+    {
+      "headline":"Create a delicious salad with your home-grown lettuce leaves!",
+      "description":""
+    }
+  ],
+  "text":" Cut off the end of the lettuce stalk. Make sure you don\u2019t cut the stump to an excessively small size. About 1-2 inches of leaf should be left. Place the stem in a small container of water. Ensure that the water level will cover the roots. Use approximately 1/2 inch of water. Put the stem and container near a window. A window that receives light for at least a few hours a day should suffice. Replace the water in the container each day. This is to prevent the water from becoming dirty and mouldy. Unclean water can cause the lettuce to rot. Observe your growing lettuce! Within 2 days you should see the first few leaves grow out of the center of your stem. You may find that some of the leaves leftover from the last stalk will start to turn brown and spotted. Plant your lettuce in potting soil. After about 1 week or when the leaves have reached about 3 inches above the cut stem, it should be ready for planting. Make sure the soil covers the roots but not the old leaves. Place your planted lettuce in the sun again. Water daily to keep the soil moist. Watch your lettuce continue to grow taller! There may be a period where you do not notice much upward growth. Check the center, and you may find smaller leaves are being produced instead! Harvest the leaves. Begin collecting leaves once they are big enough to make a small salad. Pluck or cut off the leaves and compost the stem. The average harvesting height is 8 inches. Create a delicious salad with your home-grown lettuce leaves! ",
+  "sentences":[
+    " Cut off the end of the lettuce stalk.",
+    "Make sure you don\u2019t cut the stump to an excessively small size.",
+    "About 1-2 inches of leaf should be left.",
+    "Place the stem in a small container of water.",
+    "Ensure that the water level will cover the roots.",
+    "Use approximately 1/2 inch of water.",
+    "Put the stem and container near a window.",
+    "A window that receives light for at least a few hours a day should suffice.",
+    "Replace the water in the container each day.",
+    "This is to prevent the water from becoming dirty and mouldy.",
+    "Unclean water can cause the lettuce to rot.",
+    "Observe your growing lettuce!",
+    "Within 2 days you should see the first few leaves grow out of the center of your stem.",
+    "You may find that some of the leaves leftover from the last stalk will start to turn brown and spotted.",
+    "Plant your lettuce in potting soil.",
+    "After about 1 week or when the leaves have reached about 3 inches above the cut stem, it should be ready for planting.",
+    "Make sure the soil covers the roots but not the old leaves.",
+    "Place your planted lettuce in the sun again.",
+    "Water daily to keep the soil moist.",
+    "Watch your lettuce continue to grow taller!",
+    "There may be a period where you do not notice much upward growth.",
+    "Check the center, and you may find smaller leaves are being produced instead!",
+    "Harvest the leaves.",
+    "Begin collecting leaves once they are big enough to make a small salad.",
+    "Pluck or cut off the leaves and compost the stem.",
+    "The average harvesting height is 8 inches.",
+    "Create a delicious salad with your home-grown lettuce leaves!"
+  ],
+  "tyn_section":[
+    "Romaine lettuce",
+    "Sunny window",
+    "Small pot or shallow container",
+    "Water",
+    "Potting soil"
+  ],
+  "tyn_model":[
+    "water",
+    "lettuce",
+    "container",
+    "potting soil"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.5,
+    "f1":0.4444444444,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.75,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.75,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.5,
+    "f1":0.4444444444
+  }
+}

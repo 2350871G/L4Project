@@ -1,0 +1,159 @@
+{
+  "title":"How to Make Rainbow Popcorn",
+  "url":"https://www.wikihow.com/Make-Rainbow-Popcorn",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Parties",
+    "Party Snacks",
+    "Popcorn"
+  ],
+  "parts":[
+    {
+      "name":"Popping the Corn",
+      "steps":[
+        {
+          "headline":"Add the oil to the large saucepan.",
+          "description":"Sprinkle the corn kernels over the base of the pan, in the oil. Put the lid on."
+        },
+        {
+          "headline":"Put the saucepan on the stove top.",
+          "description":"Heat at full heat."
+        },
+        {
+          "headline":"Wait for the popping.",
+          "description":"Every now and then, give the pan a shake to help prevent burning. Shake more often when you hear popping noises."
+        },
+        {
+          "headline":"Remove from the heat when you think the popping is done.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Making the Colored Sugar Water",
+      "steps":[
+        {
+          "headline":"Add the sugar and water to the small saucepan.",
+          "description":"Bring to the boil."
+        },
+        {
+          "headline":"Stir frequently as the mixture boils.",
+          "description":"Stir and boil until the sugar has dissolved completely."
+        },
+        {
+          "headline":"Pour the sugar water into as many bowls as you have food coloring choices.",
+          "description":"Add a drop or two of different food coloring to each bowl."
+        }
+      ]
+    },
+    {
+      "name":"Coloring the popcorn",
+      "steps":[
+        {
+          "headline":"Divide the popped corn into as many bowls as you have food coloring choices.",
+          "description":""
+        },
+        {
+          "headline":"Pour one colored sugar water over one bowl of popcorn.",
+          "description":""
+        },
+        {
+          "headline":"Repeat for the remaining colored sugar water and bowls of popcorn.",
+          "description":""
+        },
+        {
+          "headline":"Stir and toss to mix the coloring through the bowls of popcorn thoroughly.",
+          "description":"It's more fun if you have a helper to do this with."
+        },
+        {
+          "headline":"Air dry the bowl of colored popcorn before combining all the colors.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Serving the colored popcorn",
+      "steps":[
+        {
+          "headline":"Use one large bowl to combine all of the colored popcorn.",
+          "description":"Mix well."
+        },
+        {
+          "headline":"Serve.",
+          "description":"You can either leave the large bowl out for everyone to share from, or you can serve in individual containers once the colors have been mixed. The latter method will require lots more dishes or boxes though!"
+        }
+      ]
+    }
+  ],
+  "text":" Popping the Corn Add the oil to the large saucepan. Sprinkle the corn kernels over the base of the pan, in the oil. Put the lid on. Put the saucepan on the stove top. Heat at full heat. Wait for the popping. Every now and then, give the pan a shake to help prevent burning. Shake more often when you hear popping noises. Remove from the heat when you think the popping is done.  Making the Colored Sugar Water Add the sugar and water to the small saucepan. Bring to the boil. Stir frequently as the mixture boils. Stir and boil until the sugar has dissolved completely. Pour the sugar water into as many bowls as you have food coloring choices. Add a drop or two of different food coloring to each bowl. Coloring the popcorn Divide the popped corn into as many bowls as you have food coloring choices.  Pour one colored sugar water over one bowl of popcorn.  Repeat for the remaining colored sugar water and bowls of popcorn.  Stir and toss to mix the coloring through the bowls of popcorn thoroughly. It's more fun if you have a helper to do this with. Air dry the bowl of colored popcorn before combining all the colors.  Serving the colored popcorn Use one large bowl to combine all of the colored popcorn. Mix well. Serve. You can either leave the large bowl out for everyone to share from, or you can serve in individual containers once the colors have been mixed. The latter method will require lots more dishes or boxes though!",
+  "sentences":[
+    " Popping the Corn Add the oil to the large saucepan.",
+    "Sprinkle the corn kernels over the base of the pan, in the oil.",
+    "Put the lid on.",
+    "Put the saucepan on the stove top.",
+    "Heat at full heat.",
+    "Wait for the popping.",
+    "Every now and then, give the pan a shake to help prevent burning.",
+    "Shake more often when you hear popping noises.",
+    "Remove from the heat when you think the popping is done.",
+    "Making the Colored Sugar Water Add the sugar and water to the small saucepan.",
+    "Bring to the boil.",
+    "Stir frequently as the mixture boils.",
+    "Stir and boil until the sugar has dissolved completely.",
+    "Pour the sugar water into as many bowls as you have food coloring choices.",
+    "Add a drop or two of different food coloring to each bowl.",
+    "Coloring the popcorn Divide the popped corn into as many bowls as you have food coloring choices.",
+    "Pour one colored sugar water over one bowl of popcorn.",
+    "Repeat for the remaining colored sugar water and bowls of popcorn.",
+    "Stir and toss to mix the coloring through the bowls of popcorn thoroughly.",
+    "It's more fun if you have a helper to do this with.",
+    "Air dry the bowl of colored popcorn before combining all the colors.",
+    "Serving the colored popcorn Use one large bowl to combine all of the colored popcorn.",
+    "Mix well.",
+    "Serve.",
+    "You can either leave the large bowl out for everyone to share from, or you can serve in individual containers once the colors have been mixed.",
+    "The latter method will require lots more dishes or boxes though!"
+  ],
+  "tyn_section":[
+    "Large saucepan with lid (or use your corn popping appliance)",
+    "Small bowls",
+    "Large bowls",
+    "Small saucepan",
+    "Wooden spoon",
+    "1 large serving bowl or lots of smaller containers for each guest"
+  ],
+  "tyn_model":[
+    "popcorn",
+    "colored sugar water",
+    "food coloring",
+    "oil",
+    "sugar",
+    "large saucepan",
+    "saucepan",
+    "stove top",
+    "water",
+    "small saucepan",
+    "sugar water"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0909090909,
+    "f1":0.1176470588,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.1818181818,
+    "f1":0.1739130435
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2727272727,
+    "f1":0.3529411765
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.0909090909,
+    "f1":0.1176470588
+  }
+}

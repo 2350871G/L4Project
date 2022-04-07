@@ -1,0 +1,138 @@
+{
+  "title":"How to Make Gluten Free Pancakes",
+  "url":"https://www.wikihow.com/Make-Gluten-Free-Pancakes",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Pancakes"
+  ],
+  "parts":[
+    {
+      "name":"Make the Pancake Batter",
+      "steps":[
+        {
+          "headline":"Add the flours, tapioca starch, baking powder, salt and xantham gum to a large mixing bowl.",
+          "description":""
+        },
+        {
+          "headline":"Whisk the dry ingredients well and make sure there are no clumps in the mixture.",
+          "description":""
+        },
+        {
+          "headline":"Create a well in the center of your dry ingredients.",
+          "description":""
+        },
+        {
+          "headline":"Put your coconut oil in a small, microwave-safe bowl and heat it in the microwave for 10-second intervals until it completely melts.",
+          "description":""
+        },
+        {
+          "headline":"Add the milk, water, eggs, melted coconut oil, honey, vanilla and almond extract into the well of your dry ingredients.",
+          "description":""
+        },
+        {
+          "headline":"Using your whisk, beat all the ingredients together until your batter is silky and smooth.",
+          "description":"Do not over mix."
+        }
+      ]
+    },
+    {
+      "name":"Cook the Pancakes",
+      "steps":[
+        {
+          "headline":"Ladle 1/4 cup of the pancake batter onto the heated griddle to make one pancake.",
+          "description":""
+        },
+        {
+          "headline":"Repeat for as many pancakes as you can fit onto your griddle.",
+          "description":""
+        },
+        {
+          "headline":"Flip the pancakes with a spatula when their edges start to bubble.",
+          "description":""
+        },
+        {
+          "headline":"Continue to cook the second side of the pancakes for another minute or two until they are firm.",
+          "description":""
+        },
+        {
+          "headline":"Remove the pancakes from the heat and set them aside on a large plate.",
+          "description":""
+        },
+        {
+          "headline":"Repeat this process until you've used up all your batter.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Make the Pancake Batter Add the flours, tapioca starch, baking powder, salt and xantham gum to a large mixing bowl.  Whisk the dry ingredients well and make sure there are no clumps in the mixture.  Create a well in the center of your dry ingredients.  Put your coconut oil in a small, microwave-safe bowl and heat it in the microwave for 10-second intervals until it completely melts.  Add the milk, water, eggs, melted coconut oil, honey, vanilla and almond extract into the well of your dry ingredients.  Using your whisk, beat all the ingredients together until your batter is silky and smooth. Do not over mix. Cook the Pancakes Ladle 1/4 cup of the pancake batter onto the heated griddle to make one pancake.  Repeat for as many pancakes as you can fit onto your griddle.  Flip the pancakes with a spatula when their edges start to bubble.  Continue to cook the second side of the pancakes for another minute or two until they are firm.  Remove the pancakes from the heat and set them aside on a large plate.  Repeat this process until you've used up all your batter. ",
+  "sentences":[
+    " Make the Pancake Batter Add the flours, tapioca starch, baking powder, salt and xantham gum to a large mixing bowl.",
+    "Whisk the dry ingredients well and make sure there are no clumps in the mixture.",
+    "Create a well in the center of your dry ingredients.",
+    "Put your coconut oil in a small, microwave-safe bowl and heat it in the microwave for 10-second intervals until it completely melts.",
+    "Add the milk, water, eggs, melted coconut oil, honey, vanilla and almond extract into the well of your dry ingredients.",
+    "Using your whisk, beat all the ingredients together until your batter is silky and smooth.",
+    "Do not over mix.",
+    "Cook the Pancakes Ladle 1/4 cup of the pancake batter onto the heated griddle to make one pancake.",
+    "Repeat for as many pancakes as you can fit onto your griddle.",
+    "Flip the pancakes with a spatula when their edges start to bubble.",
+    "Continue to cook the second side of the pancakes for another minute or two until they are firm.",
+    "Remove the pancakes from the heat and set them aside on a large plate.",
+    "Repeat this process until you've used up all your batter."
+  ],
+  "tyn_section":[
+    "Griddle",
+    "Large mixing bowl",
+    "Whisk",
+    "Ladle",
+    "Spatula",
+    "Large plate",
+    "Measuring cup",
+    "Small microwave-safe bowl"
+  ],
+  "tyn_model":[
+    "pancake batter",
+    "coconut oil",
+    "griddle",
+    "flours",
+    "tapioca starch",
+    "baking powder",
+    "salt",
+    "xantham gum",
+    "large mixing bowl",
+    "microwave",
+    "milk",
+    "water",
+    "eggs",
+    "honey",
+    "vanilla",
+    "almond extract",
+    "whisk",
+    "spatula",
+    "pancakes",
+    "large plate"
+  ],
+  "simple_metrics":{
+    "r":0.625,
+    "p":0.25,
+    "f1":0.3571428571,
+    "avg_pos":0.1
+  },
+  "jacc_metrics_0.5":{
+    "r":0.625,
+    "p":0.25,
+    "f1":0.3571428571
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.625,
+    "p":0.25,
+    "f1":0.3571428571
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.625,
+    "p":0.25,
+    "f1":0.3571428571
+  }
+}

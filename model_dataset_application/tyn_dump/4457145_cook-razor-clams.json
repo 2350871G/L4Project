@@ -1,0 +1,123 @@
+{
+  "title":"How to Cook Razor Clams",
+  "url":"https://www.wikihow.com/Cook-Razor-Clams",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fish and Seafood"
+  ],
+  "parts":[
+    {
+      "name":"Cleaning",
+      "steps":[
+        {
+          "headline":"Put the clams into the colander and rinse with cold water to remove obvious foreign objects.",
+          "description":""
+        },
+        {
+          "headline":"Put the colander of calms unto a sink and get boiling water ready.",
+          "description":""
+        },
+        {
+          "headline":"Pour boiling water over the clams until they pop open.",
+          "description":"Don't let them soak in the water."
+        },
+        {
+          "headline":"Cut off the tough part of the neck.",
+          "description":""
+        },
+        {
+          "headline":"Cut along the zipper to open the body.",
+          "description":""
+        },
+        {
+          "headline":"Remove the diggers, stomach and gills.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Cooking",
+      "steps":[
+        {
+          "headline":"Rinse the clams under cold water.",
+          "description":""
+        },
+        {
+          "headline":"Pour a layer of oil into the frying pan.",
+          "description":""
+        },
+        {
+          "headline":"Put the frying pan over hot heat.",
+          "description":""
+        },
+        {
+          "headline":"Place the clams into the frying pan.",
+          "description":""
+        },
+        {
+          "headline":"Cook them for 1 minute or until golden brown.",
+          "description":""
+        },
+        {
+          "headline":"Serve the clams on a paper towel so the oil can be absorbed.",
+          "description":""
+        },
+        {
+          "headline":"Season clams to your liking.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Cleaning Put the clams into the colander and rinse with cold water to remove obvious foreign objects.  Put the colander of calms unto a sink and get boiling water ready.  Pour boiling water over the clams until they pop open. Don't let them soak in the water. Cut off the tough part of the neck.  Cut along the zipper to open the body.  Remove the diggers, stomach and gills.  Cooking Rinse the clams under cold water.  Pour a layer of oil into the frying pan.  Put the frying pan over hot heat.  Place the clams into the frying pan.  Cook them for 1 minute or until golden brown.  Serve the clams on a paper towel so the oil can be absorbed.  Season clams to your liking. ",
+  "sentences":[
+    " Cleaning Put the clams into the colander and rinse with cold water to remove obvious foreign objects.",
+    "Put the colander of calms unto a sink and get boiling water ready.",
+    "Pour boiling water over the clams until they pop open.",
+    "Don't let them soak in the water.",
+    "Cut off the tough part of the neck.",
+    "Cut along the zipper to open the body.",
+    "Remove the diggers, stomach and gills.",
+    "Cooking Rinse the clams under cold water.",
+    "Pour a layer of oil into the frying pan.",
+    "Put the frying pan over hot heat.",
+    "Place the clams into the frying pan.",
+    "Cook them for 1 minute or until golden brown.",
+    "Serve the clams on a paper towel so the oil can be absorbed.",
+    "Season clams to your liking."
+  ],
+  "tyn_section":[
+    "Scissors",
+    "Colander",
+    "Boiling water"
+  ],
+  "tyn_model":[
+    "water",
+    "frying pan",
+    "colander",
+    "oil",
+    "paper towel"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  }
+}

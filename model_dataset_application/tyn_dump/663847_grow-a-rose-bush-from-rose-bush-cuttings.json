@@ -1,0 +1,80 @@
+{
+  "title":"How to Grow a Rose Bush from Rose Bush Cuttings",
+  "url":"https://www.wikihow.com/Grow-a-Rose-Bush-from-Rose-Bush-Cuttings",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Planting and Growing",
+    "Growing Flowers",
+    "Roses"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the pot or area in your yard where you plan to plant your clipping.",
+      "description":"If you use a pot, fill about halfway up with soil and add enough water to moisten it. If planting it in the ground, dig a hole, add potting soil (for extra nutrients) and moisten."
+    },
+    {
+      "headline":"Take a cutting from the rose bush you would like to grow your new bush from.",
+      "description":"It can be a whole branch or a stem. With your knife, gently scrape off 1\u20132 inches (2.5\u20135.1 cm) of the outer covering of the clipping at the bottom. This will allow the rooting hormone to get into the stem."
+    },
+    {
+      "headline":"Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+      "description":"Tap it a few times to remove the excess."
+    },
+    {
+      "headline":"Immediately plant the cutting.",
+      "description":"If everything goes right, it should start to put out roots within the next week or so!"
+    }
+  ],
+  "text":" Prepare the pot or area in your yard where you plan to plant your clipping. If you use a pot, fill about halfway up with soil and add enough water to moisten it. If planting it in the ground, dig a hole, add potting soil (for extra nutrients) and moisten. Take a cutting from the rose bush you would like to grow your new bush from. It can be a whole branch or a stem. With your knife, gently scrape off 1\u20132 inches (2.5\u20135.1 cm) of the outer covering of the clipping at the bottom. This will allow the rooting hormone to get into the stem. Moisten the part of the clipping that you just scraped and dip it into rooting hormone. Tap it a few times to remove the excess. Immediately plant the cutting. If everything goes right, it should start to put out roots within the next week or so!",
+  "sentences":[
+    " Prepare the pot or area in your yard where you plan to plant your clipping.",
+    "If you use a pot, fill about halfway up with soil and add enough water to moisten it.",
+    "If planting it in the ground, dig a hole, add potting soil (for extra nutrients) and moisten.",
+    "Take a cutting from the rose bush you would like to grow your new bush from.",
+    "It can be a whole branch or a stem.",
+    "With your knife, gently scrape off 1\u20132 inches (2.5\u20135.1 cm) of the outer covering of the clipping at the bottom.",
+    "This will allow the rooting hormone to get into the stem.",
+    "Moisten the part of the clipping that you just scraped and dip it into rooting hormone.",
+    "Tap it a few times to remove the excess.",
+    "Immediately plant the cutting.",
+    "If everything goes right, it should start to put out roots within the next week or so!"
+  ],
+  "tyn_section":[
+    "Pruning shears",
+    "A sharp knife",
+    "Pot",
+    "Soil",
+    "Trowel",
+    "A rose stem, any length",
+    "Rooting hormone (found in most garden centers and garden-supply stores)."
+  ],
+  "tyn_model":[
+    "pot",
+    "water",
+    "potting soil",
+    "knife",
+    "rooting hormone"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.2,
+    "f1":0.1666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2857142857,
+    "p":0.4,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4285714286,
+    "p":0.6,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.2,
+    "f1":0.1666666667
+  }
+}

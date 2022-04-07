@@ -1,0 +1,94 @@
+{
+  "title":"How to Make Chocolate With Cocoa Powder",
+  "url":"https://www.wikihow.com/Make-Chocolate-With-Cocoa-Powder",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy",
+    "Making Chocolate"
+  ],
+  "steps":[
+    {
+      "headline":"Blend cocoa and butter.",
+      "description":"Place the cocoa powder and softened butter in a bowl and stir until blended and mix until it becomes a paste. Transfer the chocolate mixture into a bowl (or top of a double boiler)"
+    },
+    {
+      "headline":"Fill saucepan or double boiler about 1/4 full with water (1 cup).",
+      "description":"Place the chocolate mixture on top of the saucepan or double boiler, and bring the water to just simmering, over low heat. Heat until hot, stirring frequently. Regularly scrape the chocolate off the sides with a rubber spatula, to prevent scorching. When the paste is hot (but not cooked), put it back in the processor and mix till smooth."
+    },
+    {
+      "headline":"Blend in milk and sugar.",
+      "description":"Stir the paste, and add milk and sugar gradually. Mix well until the paste is smooth and creamy. Taste, and adjust with more sugar if necessary, and salt as needed."
+    },
+    {
+      "headline":"Pour in mold or ice cube tray.",
+      "description":"Put it in the fridge until the chocolates have set."
+    },
+    {
+      "headline":"Take them out, and dust with powdered sugar.",
+      "description":"Enjoy!"
+    }
+  ],
+  "text":" Blend cocoa and butter. Place the cocoa powder and softened butter in a bowl and stir until blended and mix until it becomes a paste. Transfer the chocolate mixture into a bowl (or top of a double boiler) Fill saucepan or double boiler about 1/4 full with water (1 cup). Place the chocolate mixture on top of the saucepan or double boiler, and bring the water to just simmering, over low heat. Heat until hot, stirring frequently. Regularly scrape the chocolate off the sides with a rubber spatula, to prevent scorching. When the paste is hot (but not cooked), put it back in the processor and mix till smooth. Blend in milk and sugar. Stir the paste, and add milk and sugar gradually. Mix well until the paste is smooth and creamy. Taste, and adjust with more sugar if necessary, and salt as needed. Pour in mold or ice cube tray. Put it in the fridge until the chocolates have set. Take them out, and dust with powdered sugar. Enjoy!",
+  "sentences":[
+    " Blend cocoa and butter.",
+    "Place the cocoa powder and softened butter in a bowl and stir until blended and mix until it becomes a paste.",
+    "Transfer the chocolate mixture into a bowl (or top of a double boiler) Fill saucepan or double boiler about 1/4 full with water (1 cup).",
+    "Place the chocolate mixture on top of the saucepan or double boiler, and bring the water to just simmering, over low heat.",
+    "Heat until hot, stirring frequently.",
+    "Regularly scrape the chocolate off the sides with a rubber spatula, to prevent scorching.",
+    "When the paste is hot (but not cooked), put it back in the processor and mix till smooth.",
+    "Blend in milk and sugar.",
+    "Stir the paste, and add milk and sugar gradually.",
+    "Mix well until the paste is smooth and creamy.",
+    "Taste, and adjust with more sugar if necessary, and salt as needed.",
+    "Pour in mold or ice cube tray.",
+    "Put it in the fridge until the chocolates have set.",
+    "Take them out, and dust with powdered sugar.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "2-quart saucepan",
+    "Food processor",
+    "Mold or ice cube tray"
+  ],
+  "tyn_model":[
+    "chocolate",
+    "double boiler",
+    "sugar",
+    "butter",
+    "bowl",
+    "saucepan",
+    "water",
+    "milk",
+    "cocoa",
+    "cocoa powder",
+    "rubber spatula",
+    "processor",
+    "salt",
+    "mold or ice cube tray",
+    "fridge",
+    "powdered sugar"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.0625,
+    "f1":0.1052631579,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.1875,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.1875,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.0625,
+    "f1":0.1052631579
+  }
+}

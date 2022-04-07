@@ -1,0 +1,104 @@
+{
+  "title":"How to Make Prawn Pakora",
+  "url":"https://www.wikihow.com/Make-Prawn-Pakora",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fish and Seafood",
+    "Prawns and Shrimp"
+  ],
+  "steps":[
+    {
+      "headline":"Pur\u00e9e the prawns.",
+      "description":"Do this in a blender. Then combine the prawns with all the remaining ingredients, except the oil - you'll need that for cooking the pakoras."
+    },
+    {
+      "headline":"Portion out into balls.",
+      "description":"Do this with a tablespoon. Now, with damp hands, roll each portion into a ball; place on a plate, and cover with cling film until they are ready for frying."
+    },
+    {
+      "headline":"Heat the oil.",
+      "description":"Do this in a wok or heavy based frying pan."
+    },
+    {
+      "headline":"Fry several balls at once.",
+      "description":"Cook until the pakoras are golden brown."
+    },
+    {
+      "headline":"Drain the pakoras on paper towels.",
+      "description":"This is a good idea, as draining them removes a lot of the oil you would otherwise be eating. This doesn't make the pakoras a healthy food option, mind you, but it does get rid of some of the calories."
+    },
+    {
+      "headline":"Garnish with fresh coriander.",
+      "description":""
+    },
+    {
+      "headline":"Serve your prawn pakoras.",
+      "description":"Serve them hot, with some mint or mango chutney on the side."
+    }
+  ],
+  "text":" Pur\u00e9e the prawns. Do this in a blender. Then combine the prawns with all the remaining ingredients, except the oil - you'll need that for cooking the pakoras. Portion out into balls. Do this with a tablespoon. Now, with damp hands, roll each portion into a ball; place on a plate, and cover with cling film until they are ready for frying. Heat the oil. Do this in a wok or heavy based frying pan. Fry several balls at once. Cook until the pakoras are golden brown. Drain the pakoras on paper towels. This is a good idea, as draining them removes a lot of the oil you would otherwise be eating. This doesn't make the pakoras a healthy food option, mind you, but it does get rid of some of the calories. Garnish with fresh coriander.  Serve your prawn pakoras. Serve them hot, with some mint or mango chutney on the side.",
+  "sentences":[
+    " Pur\u00e9e the prawns.",
+    "Do this in a blender.",
+    "Then combine the prawns with all the remaining ingredients, except the oil - you'll need that for cooking the pakoras.",
+    "Portion out into balls.",
+    "Do this with a tablespoon.",
+    "Now, with damp hands, roll each portion into a ball; place on a plate, and cover with cling film until they are ready for frying.",
+    "Heat the oil.",
+    "Do this in a wok or heavy based frying pan.",
+    "Fry several balls at once.",
+    "Cook until the pakoras are golden brown.",
+    "Drain the pakoras on paper towels.",
+    "This is a good idea, as draining them removes a lot of the oil you would otherwise be eating.",
+    "This doesn't make the pakoras a healthy food option, mind you, but it does get rid of some of the calories.",
+    "Garnish with fresh coriander.",
+    "Serve your prawn pakoras.",
+    "Serve them hot, with some mint or mango chutney on the side."
+  ],
+  "tyn_section":[
+    "Chopped Prawn Pakoras",
+    "Blender or food processor",
+    "Measuring cups and spoons",
+    "Bowls",
+    "Spoons",
+    "Deep pan",
+    "Slotted spoon",
+    "Serving plate",
+    "Paper towels",
+    "Spicy Whole Prawn Pakoras",
+    "Deep-fry thermometer"
+  ],
+  "tyn_model":[
+    "oil",
+    "blender",
+    "plate",
+    "cling film",
+    "wok",
+    "frying pan",
+    "paper towels",
+    "coriander",
+    "prawn pakoras"
+  ],
+  "simple_metrics":{
+    "r":0.0909090909,
+    "p":0.1111111111,
+    "f1":0.1,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3636363636,
+    "p":0.3333333333,
+    "f1":0.347826087
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4545454545,
+    "p":0.4444444444,
+    "f1":0.4494382022
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1818181818,
+    "p":0.2222222222,
+    "f1":0.2
+  }
+}

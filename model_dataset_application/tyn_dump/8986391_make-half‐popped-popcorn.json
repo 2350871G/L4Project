@@ -1,0 +1,71 @@
+{
+  "title":"How to Make Half\u2010Popped Popcorn",
+  "url":"https://www.wikihow.com/Make-Half%E2%80%90Popped-Popcorn",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Parties",
+    "Party Snacks",
+    "Popcorn"
+  ],
+  "steps":[
+    {
+      "headline":"Add the water to the pot and boil it.",
+      "description":"A fair amount of water will evaporate from the pot, so if needed, add extra. If you plan on doubling the number of kernels, only add two extra cups of water to the original four."
+    },
+    {
+      "headline":"Add the kernels to the pot and boil for 45 minutes.",
+      "description":"If you want your popcorn less crunchy, boil for 30 minutes."
+    },
+    {
+      "headline":"Strain the kernels using the strainer and set them out to dry for around two to three hours.",
+      "description":""
+    },
+    {
+      "headline":"Pop the boiled kernels with any popcorn popper.",
+      "description":"Salt kernels to taste."
+    }
+  ],
+  "text":" Add the water to the pot and boil it. A fair amount of water will evaporate from the pot, so if needed, add extra. If you plan on doubling the number of kernels, only add two extra cups of water to the original four. Add the kernels to the pot and boil for 45 minutes. If you want your popcorn less crunchy, boil for 30 minutes. Strain the kernels using the strainer and set them out to dry for around two to three hours.  Pop the boiled kernels with any popcorn popper. Salt kernels to taste.",
+  "sentences":[
+    " Add the water to the pot and boil it.",
+    "A fair amount of water will evaporate from the pot, so if needed, add extra.",
+    "If you plan on doubling the number of kernels, only add two extra cups of water to the original four.",
+    "Add the kernels to the pot and boil for 45 minutes.",
+    "If you want your popcorn less crunchy, boil for 30 minutes.",
+    "Strain the kernels using the strainer and set them out to dry for around two to three hours.",
+    "Pop the boiled kernels with any popcorn popper.",
+    "Salt kernels to taste."
+  ],
+  "tyn_section":[
+    "Large pot",
+    "Strainer"
+  ],
+  "tyn_model":[
+    "water",
+    "pot",
+    "strainer",
+    "popcorn popper",
+    "salt"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.4,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857
+  }
+}

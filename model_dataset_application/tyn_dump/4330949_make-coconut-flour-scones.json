@@ -1,0 +1,120 @@
+{
+  "title":"How to Make Coconut Flour Scones",
+  "url":"https://www.wikihow.com/Make-Coconut-Flour-Scones",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Scones"
+  ],
+  "steps":[
+    {
+      "headline":"Turn on the oven to 350 degrees Fahrenheit (176.67 degrees Celsius) to preheat.",
+      "description":""
+    },
+    {
+      "headline":"Mix the dry ingredients into a bowl fairly well.",
+      "description":"Set the bowl to the side."
+    },
+    {
+      "headline":"Crack the eggs into the food processor and whip them very thoroughly.",
+      "description":""
+    },
+    {
+      "headline":"Add the milk in and whatever your sweetener is.",
+      "description":"Start on the low end (because you can't take it out when done)."
+    },
+    {
+      "headline":"Pulse the eggs, milk, and sweetener a few times to make sure it is very well mixed.",
+      "description":""
+    },
+    {
+      "headline":"Add your choice of the fats (coconut oil and butter).",
+      "description":"Like before, pulse a few times to make sure that the ingredients are thoroughly incorporated together."
+    },
+    {
+      "headline":"Add in the dry ingredients and pulse gently to mix them.",
+      "description":""
+    },
+    {
+      "headline":"Taste the dough and see if you like it as it is.",
+      "description":"(Optional if you are concerned about the raw eggs)."
+    },
+    {
+      "headline":"Use more sweetener if you are going to be using it as a cookie or you need it sweeter.",
+      "description":"If not, leave it as is."
+    },
+    {
+      "headline":"If you want something extra, try adding dried fruits, orange or lemon zest, lavender, or anything else you might want to add to it to liven it up.",
+      "description":""
+    },
+    {
+      "headline":"Drop by spoonfuls onto your cookie sheet.",
+      "description":""
+    },
+    {
+      "headline":"Cook for 20 minutes in your preheated oven.",
+      "description":""
+    }
+  ],
+  "text":" Turn on the oven to 350 degrees Fahrenheit (176.67 degrees Celsius) to preheat.  Mix the dry ingredients into a bowl fairly well. Set the bowl to the side. Crack the eggs into the food processor and whip them very thoroughly.  Add the milk in and whatever your sweetener is. Start on the low end (because you can't take it out when done). Pulse the eggs, milk, and sweetener a few times to make sure it is very well mixed.  Add your choice of the fats (coconut oil and butter). Like before, pulse a few times to make sure that the ingredients are thoroughly incorporated together. Add in the dry ingredients and pulse gently to mix them.  Taste the dough and see if you like it as it is. (Optional if you are concerned about the raw eggs). Use more sweetener if you are going to be using it as a cookie or you need it sweeter. If not, leave it as is. If you want something extra, try adding dried fruits, orange or lemon zest, lavender, or anything else you might want to add to it to liven it up.  Drop by spoonfuls onto your cookie sheet.  Cook for 20 minutes in your preheated oven. ",
+  "sentences":[
+    " Turn on the oven to 350 degrees Fahrenheit (176.67 degrees Celsius) to preheat.",
+    "Mix the dry ingredients into a bowl fairly well.",
+    "Set the bowl to the side.",
+    "Crack the eggs into the food processor and whip them very thoroughly.",
+    "Add the milk in and whatever your sweetener is.",
+    "Start on the low end (because you can't take it out when done).",
+    "Pulse the eggs, milk, and sweetener a few times to make sure it is very well mixed.",
+    "Add your choice of the fats (coconut oil and butter).",
+    "Like before, pulse a few times to make sure that the ingredients are thoroughly incorporated together.",
+    "Add in the dry ingredients and pulse gently to mix them.",
+    "Taste the dough and see if you like it as it is.",
+    "(Optional if you are concerned about the raw eggs).",
+    "Use more sweetener if you are going to be using it as a cookie or you need it sweeter.",
+    "If not, leave it as is.",
+    "If you want something extra, try adding dried fruits, orange or lemon zest, lavender, or anything else you might want to add to it to liven it up.",
+    "Drop by spoonfuls onto your cookie sheet.",
+    "Cook for 20 minutes in your preheated oven."
+  ],
+  "tyn_section":[
+    "Small bowl",
+    "Fork for stirring",
+    "Food processor",
+    "Cookie sheet",
+    "Spoon for spooning out the dough"
+  ],
+  "tyn_model":[
+    "eggs",
+    "sweetener",
+    "oven",
+    "bowl",
+    "milk",
+    "food processor",
+    "coconut oil",
+    "butter",
+    "lavender",
+    "cookie sheet"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.2,
+    "f1":0.2666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.3,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.3,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.2,
+    "f1":0.2666666667
+  }
+}

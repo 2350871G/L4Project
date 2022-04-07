@@ -1,0 +1,97 @@
+{
+  "title":"How to Make Al Baik and Shawarma Garlic Sauce",
+  "url":"https://www.wikihow.com/Make-Al-Baik-and-Shawarma-Garlic-Sauce",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Sauces"
+  ],
+  "methods":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"To make the Al-Baik garlic sauce, get the following ingredients:",
+          "description":"1 cup of Mayonnaise 2 table spoons of Garlic Paste (You can make a paste yourself or you can buy it.) \u00bd Cup of cream cheese\n1 medium sized Boiled potato\nA pinch of salt\n3 tablespoons Lemon juice"
+        },
+        {
+          "headline":"Blend all ingredients together nicely.",
+          "description":""
+        },
+        {
+          "headline":"Serve.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Shawarma Garlic Sauce",
+      "steps":[
+        {
+          "headline":"Get the following ingredients:",
+          "description":"1 cup of Yogurt/Curd. 1 or 2 table spoons of Garlic Paste. Add Salt."
+        },
+        {
+          "headline":"Mix all these ingredients together nicely.",
+          "description":""
+        },
+        {
+          "headline":"Serve.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Steps To make the Al-Baik garlic sauce, get the following ingredients: 1 cup of Mayonnaise 2 table spoons of Garlic Paste (You can make a paste yourself or you can buy it.) \u00bd Cup of cream cheese\n1 medium sized Boiled potato\nA pinch of salt\n3 tablespoons Lemon juice Blend all ingredients together nicely.  Serve.  Shawarma Garlic Sauce Get the following ingredients: 1 cup of Yogurt/Curd. 1 or 2 table spoons of Garlic Paste. Add Salt. Mix all these ingredients together nicely.  Serve. ",
+  "sentences":[
+    " Steps To make the Al-Baik garlic sauce, get the following ingredients: 1 cup of Mayonnaise 2 table spoons of Garlic Paste (You can make a paste yourself or you can buy it.)",
+    "\u00bd Cup of cream cheese\n1 medium sized Boiled potato\nA pinch of salt\n3 tablespoons Lemon juice Blend all ingredients together nicely.",
+    "Serve.",
+    "Shawarma Garlic Sauce Get the following ingredients: 1 cup of Yogurt/Curd.",
+    "1 or 2 table spoons of Garlic Paste.",
+    "Add Salt.",
+    "Mix all these ingredients together nicely.",
+    "Serve."
+  ],
+  "tyn_section":[
+    "Mayonnaise",
+    "Garlic Paste",
+    "Cream Cheese",
+    "Boiled Potato",
+    "Yoghurt/Curd",
+    "Salt"
+  ],
+  "tyn_model":[
+    "garlic paste",
+    "salt",
+    "garlic sauce",
+    "mayonnaise",
+    "cream cheese",
+    "lemon juice",
+    "shawarma garlic sauce",
+    "yogurt",
+    "table spoons"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.4444444444,
+    "f1":0.5333333333,
+    "avg_pos":0.3333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.4444444444,
+    "f1":0.5333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.5555555556,
+    "f1":0.6060606061
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.4444444444,
+    "f1":0.5333333333
+  }
+}

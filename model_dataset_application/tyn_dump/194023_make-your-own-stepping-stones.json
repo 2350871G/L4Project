@@ -1,0 +1,91 @@
+{
+  "title":"How to Make Your Own Stepping Stones",
+  "url":"https://www.wikihow.com/Make-Your-Own-Stepping-Stones",
+  "category_hierarchy":[
+    "Home and Garden",
+    "DIY",
+    "Brickwork and Stone Masonry"
+  ],
+  "steps":[
+    {
+      "headline":"Go to local store and purchase concrete mix.",
+      "description":"Also purchase some decorations such as seashells, river stones, beads, sea glass, marbles, and other little things to decorate your stepping stones with."
+    },
+    {
+      "headline":"Put about two cups of the mix in an aluminum pan and add one cup of water.",
+      "description":"You can also add dye to change the color of the cement at a local hardware store."
+    },
+    {
+      "headline":"Mix the concrete up and put your hand print into the mix if you choose to.",
+      "description":""
+    },
+    {
+      "headline":"Decorate it with the river stones, beads, seashells, and anything else you want, and let it dry.",
+      "description":""
+    },
+    {
+      "headline":"Note that the cement should be like brownie batter, not too wet.",
+      "description":""
+    },
+    {
+      "headline":"Let it sit 30 min or so before pressing in bits of glass, shells, rocks, etc; to have it set up strong, let it dry in a shaded area and sprinkle it with the hose a couple times a day depending on the heat for a week or so.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Go to local store and purchase concrete mix. Also purchase some decorations such as seashells, river stones, beads, sea glass, marbles, and other little things to decorate your stepping stones with. Put about two cups of the mix in an aluminum pan and add one cup of water. You can also add dye to change the color of the cement at a local hardware store. Mix the concrete up and put your hand print into the mix if you choose to.  Decorate it with the river stones, beads, seashells, and anything else you want, and let it dry.  Note that the cement should be like brownie batter, not too wet.  Let it sit 30 min or so before pressing in bits of glass, shells, rocks, etc; to have it set up strong, let it dry in a shaded area and sprinkle it with the hose a couple times a day depending on the heat for a week or so.  Finished. ",
+  "sentences":[
+    " Go to local store and purchase concrete mix.",
+    "Also purchase some decorations such as seashells, river stones, beads, sea glass, marbles, and other little things to decorate your stepping stones with.",
+    "Put about two cups of the mix in an aluminum pan and add one cup of water.",
+    "You can also add dye to change the color of the cement at a local hardware store.",
+    "Mix the concrete up and put your hand print into the mix if you choose to.",
+    "Decorate it with the river stones, beads, seashells, and anything else you want, and let it dry.",
+    "Note that the cement should be like brownie batter, not too wet.",
+    "Let it sit 30 min or so before pressing in bits of glass, shells, rocks, etc; to have it set up strong, let it dry in a shaded area and sprinkle it with the hose a couple times a day depending on the heat for a week or so.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Cement mix",
+    "water",
+    "beads, shells, pea gravel etc.",
+    "aluminum pan"
+  ],
+  "tyn_model":[
+    "beads",
+    "cement",
+    "concrete mix",
+    "sea glass",
+    "stepping stones",
+    "aluminum pan",
+    "water",
+    "concrete",
+    "river stones",
+    "rocks",
+    "hose"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.2727272727,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.3636363636,
+    "f1":0.4897959184
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667
+  }
+}

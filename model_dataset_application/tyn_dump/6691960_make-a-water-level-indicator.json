@@ -1,0 +1,202 @@
+{
+  "title":"How to Make a Water Level Indicator",
+  "url":"https://www.wikihow.com/Make-a-Water-Level-Indicator",
+  "category_hierarchy":[
+    "Home and Garden",
+    "DIY"
+  ],
+  "parts":[
+    {
+      "name":"Getting the Parts and Tools",
+      "steps":[
+        {
+          "headline":"Get all of the electronic parts that you need for the project.",
+          "description":"A water level indicator requires a few different electronic components to create a circuit. These components are simple and easy to find. You can purchase all of the parts that you need either at an electronics supply store or online. A ULN2003 Integrated Circuit (IC) is necessary to complete this project. This is a tiny set of premade electronic circuits that are mounted on a flat piece of silicon. You will also need 3 LEDs, which are used for indicating when the water level is low, moderate, and high. 1 buzzer is necessary to signal when the water level is high. 5 sensing wires are needed for measuring the water level. The length doesn't matter, as you will be cutting them to size later on. You can also solder sensing wires together if one is too short. A 9-volt battery and a battery connector are required to provide energy to the water level indicator."
+        },
+        {
+          "headline":"Find all of the tools that you need to make the water level indicator.",
+          "description":"You only need a couple of tools to make the circuit for your water level indicator. These tools are easy to find and use, and you may even already have them at your school or home. You can purchase any tools that you don't have from home improvement stores or online. Pliers are necessary for preparing the IC to add the LEDs. A soldering iron and solder are key for most electronics projects. This is how you will connect the circuit together. You will also need wire cutters to cut the sensing wires to size."
+        },
+        {
+          "headline":"The leads on the IC in this project are pointed down to stick through holes in a circuit board.",
+          "description":"Use the pair of pliers to gently bend the IC leads up and out flat on both sides for easier soldering."
+        },
+        {
+          "headline":"Cut the 5 sensing wires to the different lengths you want to measure.",
+          "description":"The length of the sensing wires that you need depends entirely on the different water levels that you are planning to measure. Use the wire cutters to cut 2 long wires of equal length. Then cut the remaining 3 wires progressively shorter. For example, the 2 longest wires could be 10 in (25 cm) each, and the remaining wires could be 8 in (20 cm), 6 in (15 cm), and 4 in (10 cm) respectively. The shorter sensing wires measure higher water levels, while 1 of the longest wires measures the lowest water level. The other longest wire is for the buzzer, which signals when the water is at the highest level."
+        }
+      ]
+    },
+    {
+      "name":"Connecting the LEDs and the Buzzer",
+      "steps":[
+        {
+          "headline":"Solder the LED negative points to IC pins #12, #14, and #16.",
+          "description":"Hold the LED negative point on the pin and feed the solder to the tip of the soldering iron where the LED negative point and the pin meets. Repeat this process for each of the 3 LED lights to connect them to the IC. The negative point on each LED is the short lead, while the positive point is the long lead. Rest the IC flat in front of you to understand how the pins are numbered. There are 8 pins on each side and a notch at one end of the IC. With the notch toward the top, pin #1 is next to the notch on the left side and pin #8 is at the bottom left side. Pins #9 to #16 are counted up the opposite direction with pin #16 being next to the notch on the right side."
+        },
+        {
+          "headline":"Connect the positive point of the pin #12 LED to pin #9.",
+          "description":"Identify the LED that has its negative point attached to pin #12. Use the soldering iron to solder the positive point of that LED to pin #9. Be very careful not to burn your fingers as you work in the tight space with the soldering iron."
+        },
+        {
+          "headline":"Attach the buzzer's positive point to pin #10 and the negative point to pin #12.",
+          "description":"It's now time to add the buzzer to your circuit! Use the soldering iron and solder to connect the buzzer's positive point to pin #10 first. Then attach the buzzer's negative point to pin #12. Because pin #12 is already connected to an LED, you need to solder the negative point of the buzzer to the negative wire of the LED that is connected to pin #12. Even though the buzzer isn't attached directly onto pin #12, it still works because the wires are connected in a circuit. The negative point on the buzzer has a shorter lead than the positive point. This is the same as the LEDs."
+        },
+        {
+          "headline":"Use the soldering iron to connect all of the positive LED wires together.",
+          "description":"Solder the positive wires that stem from each LED together so that they all connect in a circuit. The positive point of the buzzer is already connected to the circuit. This completes the circuit which means that all of the LEDs will work when you use the water level indicator."
+        },
+        {
+          "headline":"Attach the sensing wires to pins #1, #3, #5, #7, and #9.",
+          "description":"Begin working on the other side of the IC where you haven't soldered any wires yet. Solder the 2 longest wires to pins #1 and #9. Then solder the second longest wire to pin #3, the second shortest wire to pin #5, and the shortest wire to pin #7. For the wire that attaches to pin #9, attach it between the buzzer and the IC pin. This means that the LED that's connected to pin #16 lights up when the water level is low, the LED at pin #14 lights up when the water level is moderate, and the LED at pin #12 lights up when the water level is high. The buzzer will also indicate when the water level is high."
+        }
+      ]
+    },
+    {
+      "name":"Attaching the Battery and Testing the Circuit",
+      "steps":[
+        {
+          "headline":"Attach the battery connector's positive wire to pin #9 and the negative wire to pin #8.",
+          "description":"Follow the same process of soldering the wires to the wires that stem from the correct pins at the IC. Let the battery connector rest to the side after it has been attached. It will be at the top of the water level indicator, at the same height as the buzzer."
+        },
+        {
+          "headline":"Connect the 9-volt battery to the water level indicator.",
+          "description":"The hexagon shape on the battery indicates the negative terminal while the circular shape indicates the positive terminal. Press the hexagon terminal of the battery connector onto the circular terminal of the battery and vice versa. Make sure that the battery connector is securely attached to the battery. Now that the battery is connected, your water level indicator is able to work!"
+        },
+        {
+          "headline":"Test the water level indicator.",
+          "description":"Place the sensing wires of the water level indicator into a glass, cup, or container. Slowly fill up the glass, cup, or container with water. Watch as the LED with the longest wire indicates when the water level is lowest and how as the water level rises, the LED with the shortest wire shows when the water is at the highest point. Listen for the buzzer too when the water level reaches the highest point. It's necessary for the buzzer to let you know when the water reaches the highest point, as this prevents it from overflowing and stops the water being wasted."
+        }
+      ]
+    }
+  ],
+  "text":" Getting the Parts and Tools Get all of the electronic parts that you need for the project. A water level indicator requires a few different electronic components to create a circuit. These components are simple and easy to find. You can purchase all of the parts that you need either at an electronics supply store or online. A ULN2003 Integrated Circuit (IC) is necessary to complete this project. This is a tiny set of premade electronic circuits that are mounted on a flat piece of silicon. You will also need 3 LEDs, which are used for indicating when the water level is low, moderate, and high. 1 buzzer is necessary to signal when the water level is high. 5 sensing wires are needed for measuring the water level. The length doesn't matter, as you will be cutting them to size later on. You can also solder sensing wires together if one is too short. A 9-volt battery and a battery connector are required to provide energy to the water level indicator. Find all of the tools that you need to make the water level indicator. You only need a couple of tools to make the circuit for your water level indicator. These tools are easy to find and use, and you may even already have them at your school or home. You can purchase any tools that you don't have from home improvement stores or online. Pliers are necessary for preparing the IC to add the LEDs. A soldering iron and solder are key for most electronics projects. This is how you will connect the circuit together. You will also need wire cutters to cut the sensing wires to size. The leads on the IC in this project are pointed down to stick through holes in a circuit board. Use the pair of pliers to gently bend the IC leads up and out flat on both sides for easier soldering. Cut the 5 sensing wires to the different lengths you want to measure. The length of the sensing wires that you need depends entirely on the different water levels that you are planning to measure. Use the wire cutters to cut 2 long wires of equal length. Then cut the remaining 3 wires progressively shorter. For example, the 2 longest wires could be 10 in (25 cm) each, and the remaining wires could be 8 in (20 cm), 6 in (15 cm), and 4 in (10 cm) respectively. The shorter sensing wires measure higher water levels, while 1 of the longest wires measures the lowest water level. The other longest wire is for the buzzer, which signals when the water is at the highest level. Connecting the LEDs and the Buzzer Solder the LED negative points to IC pins #12, #14, and #16. Hold the LED negative point on the pin and feed the solder to the tip of the soldering iron where the LED negative point and the pin meets. Repeat this process for each of the 3 LED lights to connect them to the IC. The negative point on each LED is the short lead, while the positive point is the long lead. Rest the IC flat in front of you to understand how the pins are numbered. There are 8 pins on each side and a notch at one end of the IC. With the notch toward the top, pin #1 is next to the notch on the left side and pin #8 is at the bottom left side. Pins #9 to #16 are counted up the opposite direction with pin #16 being next to the notch on the right side. Connect the positive point of the pin #12 LED to pin #9. Identify the LED that has its negative point attached to pin #12. Use the soldering iron to solder the positive point of that LED to pin #9. Be very careful not to burn your fingers as you work in the tight space with the soldering iron. Attach the buzzer's positive point to pin #10 and the negative point to pin #12. It's now time to add the buzzer to your circuit! Use the soldering iron and solder to connect the buzzer's positive point to pin #10 first. Then attach the buzzer's negative point to pin #12. Because pin #12 is already connected to an LED, you need to solder the negative point of the buzzer to the negative wire of the LED that is connected to pin #12. Even though the buzzer isn't attached directly onto pin #12, it still works because the wires are connected in a circuit. The negative point on the buzzer has a shorter lead than the positive point. This is the same as the LEDs. Use the soldering iron to connect all of the positive LED wires together. Solder the positive wires that stem from each LED together so that they all connect in a circuit. The positive point of the buzzer is already connected to the circuit. This completes the circuit which means that all of the LEDs will work when you use the water level indicator. Attach the sensing wires to pins #1, #3, #5, #7, and #9. Begin working on the other side of the IC where you haven't soldered any wires yet. Solder the 2 longest wires to pins #1 and #9. Then solder the second longest wire to pin #3, the second shortest wire to pin #5, and the shortest wire to pin #7. For the wire that attaches to pin #9, attach it between the buzzer and the IC pin. This means that the LED that's connected to pin #16 lights up when the water level is low, the LED at pin #14 lights up when the water level is moderate, and the LED at pin #12 lights up when the water level is high. The buzzer will also indicate when the water level is high. Attaching the Battery and Testing the Circuit Attach the battery connector's positive wire to pin #9 and the negative wire to pin #8. Follow the same process of soldering the wires to the wires that stem from the correct pins at the IC. Let the battery connector rest to the side after it has been attached. It will be at the top of the water level indicator, at the same height as the buzzer. Connect the 9-volt battery to the water level indicator. The hexagon shape on the battery indicates the negative terminal while the circular shape indicates the positive terminal. Press the hexagon terminal of the battery connector onto the circular terminal of the battery and vice versa. Make sure that the battery connector is securely attached to the battery. Now that the battery is connected, your water level indicator is able to work! Test the water level indicator. Place the sensing wires of the water level indicator into a glass, cup, or container. Slowly fill up the glass, cup, or container with water. Watch as the LED with the longest wire indicates when the water level is lowest and how as the water level rises, the LED with the shortest wire shows when the water is at the highest point. Listen for the buzzer too when the water level reaches the highest point. It's necessary for the buzzer to let you know when the water reaches the highest point, as this prevents it from overflowing and stops the water being wasted.",
+  "sentences":[
+    " Getting the Parts and Tools Get all of the electronic parts that you need for the project.",
+    "A water level indicator requires a few different electronic components to create a circuit.",
+    "These components are simple and easy to find.",
+    "You can purchase all of the parts that you need either at an electronics supply store or online.",
+    "A ULN2003 Integrated Circuit (IC) is necessary to complete this project.",
+    "This is a tiny set of premade electronic circuits that are mounted on a flat piece of silicon.",
+    "You will also need 3 LEDs, which are used for indicating when the water level is low, moderate, and high.",
+    "1 buzzer is necessary to signal when the water level is high.",
+    "5 sensing wires are needed for measuring the water level.",
+    "The length doesn't matter, as you will be cutting them to size later on.",
+    "You can also solder sensing wires together if one is too short.",
+    "A 9-volt battery and a battery connector are required to provide energy to the water level indicator.",
+    "Find all of the tools that you need to make the water level indicator.",
+    "You only need a couple of tools to make the circuit for your water level indicator.",
+    "These tools are easy to find and use, and you may even already have them at your school or home.",
+    "You can purchase any tools that you don't have from home improvement stores or online.",
+    "Pliers are necessary for preparing the IC to add the LEDs.",
+    "A soldering iron and solder are key for most electronics projects.",
+    "This is how you will connect the circuit together.",
+    "You will also need wire cutters to cut the sensing wires to size.",
+    "The leads on the IC in this project are pointed down to stick through holes in a circuit board.",
+    "Use the pair of pliers to gently bend the IC leads up and out flat on both sides for easier soldering.",
+    "Cut the 5 sensing wires to the different lengths you want to measure.",
+    "The length of the sensing wires that you need depends entirely on the different water levels that you are planning to measure.",
+    "Use the wire cutters to cut 2 long wires of equal length.",
+    "Then cut the remaining 3 wires progressively shorter.",
+    "For example, the 2 longest wires could be 10 in (25 cm) each, and the remaining wires could be 8 in (20 cm), 6 in (15 cm), and 4 in (10 cm) respectively.",
+    "The shorter sensing wires measure higher water levels, while 1 of the longest wires measures the lowest water level.",
+    "The other longest wire is for the buzzer, which signals when the water is at the highest level.",
+    "Connecting the LEDs and the Buzzer Solder the LED negative points to IC pins #12, #14, and #16.",
+    "Hold the LED negative point on the pin and feed the solder to the tip of the soldering iron where the LED negative point and the pin meets.",
+    "Repeat this process for each of the 3 LED lights to connect them to the IC.",
+    "The negative point on each LED is the short lead, while the positive point is the long lead.",
+    "Rest the IC flat in front of you to understand how the pins are numbered.",
+    "There are 8 pins on each side and a notch at one end of the IC.",
+    "With the notch toward the top, pin #1 is next to the notch on the left side and pin #8 is at the bottom left side.",
+    "Pins #9 to #16 are counted up the opposite direction with pin #16 being next to the notch on the right side.",
+    "Connect the positive point of the pin #12 LED to pin #9.",
+    "Identify the LED that has its negative point attached to pin #12.",
+    "Use the soldering iron to solder the positive point of that LED to pin #9.",
+    "Be very careful not to burn your fingers as you work in the tight space with the soldering iron.",
+    "Attach the buzzer's positive point to pin #10 and the negative point to pin #12.",
+    "It's now time to add the buzzer to your circuit!",
+    "Use the soldering iron and solder to connect the buzzer's positive point to pin #10 first.",
+    "Then attach the buzzer's negative point to pin #12.",
+    "Because pin #12 is already connected to an LED, you need to solder the negative point of the buzzer to the negative wire of the LED that is connected to pin #12.",
+    "Even though the buzzer isn't attached directly onto pin #12, it still works because the wires are connected in a circuit.",
+    "The negative point on the buzzer has a shorter lead than the positive point.",
+    "This is the same as the LEDs.",
+    "Use the soldering iron to connect all of the positive LED wires together.",
+    "Solder the positive wires that stem from each LED together so that they all connect in a circuit.",
+    "The positive point of the buzzer is already connected to the circuit.",
+    "This completes the circuit which means that all of the LEDs will work when you use the water level indicator.",
+    "Attach the sensing wires to pins #1, #3, #5, #7, and #9.",
+    "Begin working on the other side of the IC where you haven't soldered any wires yet.",
+    "Solder the 2 longest wires to pins #1 and #9.",
+    "Then solder the second longest wire to pin #3, the second shortest wire to pin #5, and the shortest wire to pin #7.",
+    "For the wire that attaches to pin #9, attach it between the buzzer and the IC pin.",
+    "This means that the LED that's connected to pin #16 lights up when the water level is low, the LED at pin #14 lights up when the water level is moderate, and the LED at pin #12 lights up when the water level is high.",
+    "The buzzer will also indicate when the water level is high.",
+    "Attaching the Battery and Testing the Circuit Attach the battery connector's positive wire to pin #9 and the negative wire to pin #8.",
+    "Follow the same process of soldering the wires to the wires that stem from the correct pins at the IC.",
+    "Let the battery connector rest to the side after it has been attached.",
+    "It will be at the top of the water level indicator, at the same height as the buzzer.",
+    "Connect the 9-volt battery to the water level indicator.",
+    "The hexagon shape on the battery indicates the negative terminal while the circular shape indicates the positive terminal.",
+    "Press the hexagon terminal of the battery connector onto the circular terminal of the battery and vice versa.",
+    "Make sure that the battery connector is securely attached to the battery.",
+    "Now that the battery is connected, your water level indicator is able to work!",
+    "Test the water level indicator.",
+    "Place the sensing wires of the water level indicator into a glass, cup, or container.",
+    "Slowly fill up the glass, cup, or container with water.",
+    "Watch as the LED with the longest wire indicates when the water level is lowest and how as the water level rises, the LED with the shortest wire shows when the water is at the highest point.",
+    "Listen for the buzzer too when the water level reaches the highest point.",
+    "It's necessary for the buzzer to let you know when the water reaches the highest point, as this prevents it from overflowing and stops the water being wasted."
+  ],
+  "tyn_section":[
+    "ULN2003 IC",
+    "3 LEDs",
+    "Buzzer",
+    "5 sensing wires",
+    "9-volt battery",
+    "Battery connector",
+    "Pliers",
+    "Soldering iron",
+    "Solder",
+    "Wire cutters",
+    "Glass, cup, or container"
+  ],
+  "tyn_model":[
+    "water",
+    "soldering iron",
+    "buzzer",
+    "water level indicator",
+    "solder",
+    "leds",
+    "ic",
+    "battery",
+    "9-volt battery",
+    "pliers",
+    "wire cutters",
+    "electronics supply store",
+    "buzzer solder",
+    "wires",
+    "glass"
+  ],
+  "simple_metrics":{
+    "r":0.5454545455,
+    "p":0.4,
+    "f1":0.4615384615,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.8181818182,
+    "p":0.6666666667,
+    "f1":0.7346938776
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.9090909091,
+    "p":0.7333333333,
+    "f1":0.8118081181
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5454545455,
+    "p":0.4,
+    "f1":0.4615384615
+  }
+}

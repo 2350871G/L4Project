@@ -1,0 +1,112 @@
+{
+  "title":"How to Make an Electric Match",
+  "url":"https://www.wikihow.com/Make-an-Electric-Match",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Heating and Cooling",
+    "Fire",
+    "Fire Making"
+  ],
+  "steps":[
+    {
+      "headline":"Cut two lengths of wire around 4 to 8 inches (10.2 to 20.3 cm).",
+      "description":""
+    },
+    {
+      "headline":"Strip about \u20444 inch (1.9 cm) from each end.",
+      "description":""
+    },
+    {
+      "headline":"Twist the two wires together in the center.",
+      "description":""
+    },
+    {
+      "headline":"Take two matches from the matchbook and tape them together with the match heads even.",
+      "description":"Make sure the tape is just below the match heads."
+    },
+    {
+      "headline":"Tape the matches to the wires with the heads between the two stripped ends and just slightly below the end of the two wires.",
+      "description":""
+    },
+    {
+      "headline":"Insert a 6 inch (15.2 cm) strand of steel wool between the two match heads.",
+      "description":""
+    },
+    {
+      "headline":"Wrap one end of the steel wool tightly around one of the wires until little or no steel wool is left to wrap.",
+      "description":"Do the same with the other side."
+    },
+    {
+      "headline":"Cut off any excess steel wool.",
+      "description":""
+    },
+    {
+      "headline":"Cut a \u20442 inch (1.3 cm) piece of a drinking straw and put it over the match heads.",
+      "description":""
+    },
+    {
+      "headline":"Tape the bottom of the straw to the matches and wires.",
+      "description":"These can be fired with an alkaline 9v battery or using an adapter plug."
+    },
+    {
+      "headline":"Attach both ends to battery.",
+      "description":"Finished"
+    }
+  ],
+  "text":" Cut two lengths of wire around 4 to 8 inches (10.2 to 20.3 cm).  Strip about \u20444 inch (1.9 cm) from each end.  Twist the two wires together in the center.  Take two matches from the matchbook and tape them together with the match heads even. Make sure the tape is just below the match heads. Tape the matches to the wires with the heads between the two stripped ends and just slightly below the end of the two wires.  Insert a 6 inch (15.2 cm) strand of steel wool between the two match heads.  Wrap one end of the steel wool tightly around one of the wires until little or no steel wool is left to wrap. Do the same with the other side. Cut off any excess steel wool.  Cut a \u20442 inch (1.3 cm) piece of a drinking straw and put it over the match heads.  Tape the bottom of the straw to the matches and wires. These can be fired with an alkaline 9v battery or using an adapter plug. Attach both ends to battery. Finished",
+  "sentences":[
+    " Cut two lengths of wire around 4 to 8 inches (10.2 to 20.3 cm).",
+    "Strip about \u20444 inch (1.9 cm) from each end.",
+    "Twist the two wires together in the center.",
+    "Take two matches from the matchbook and tape them together with the match heads even.",
+    "Make sure the tape is just below the match heads.",
+    "Tape the matches to the wires with the heads between the two stripped ends and just slightly below the end of the two wires.",
+    "Insert a 6 inch (15.2 cm) strand of steel wool between the two match heads.",
+    "Wrap one end of the steel wool tightly around one of the wires until little or no steel wool is left to wrap.",
+    "Do the same with the other side.",
+    "Cut off any excess steel wool.",
+    "Cut a \u20442 inch (1.3 cm) piece of a drinking straw and put it over the match heads.",
+    "Tape the bottom of the straw to the matches and wires.",
+    "These can be fired with an alkaline 9v battery or using an adapter plug.",
+    "Attach both ends to battery.",
+    "Finished"
+  ],
+  "tyn_section":[
+    "Very Coarse Steel Wool",
+    "Electrical Wire",
+    "matchbook",
+    "Masking tape",
+    "Large diameter drinking straw",
+    "Scissors",
+    "Wire strippers (scissors work too)"
+  ],
+  "tyn_model":[
+    "steel wool",
+    "matches",
+    "wire",
+    "tape",
+    "drinking straw",
+    "straw"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5714285714,
+    "p":0.6666666667,
+    "f1":0.6153846154
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5714285714,
+    "p":0.6666666667,
+    "f1":0.6153846154
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

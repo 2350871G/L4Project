@@ -1,0 +1,107 @@
+{
+  "title":"How to Empty a Trash Bin",
+  "url":"https://www.wikihow.com/Empty-a-Trash-Bin",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Household Waste Disposal"
+  ],
+  "steps":[
+    {
+      "headline":"Know when your garbage collection day is.",
+      "description":"Change your garbage's and get it all to the curb the day before. This will prevent damage to the bags/cans from weather, animals, and anything else that might rip, topple, or destroy the garbage."
+    },
+    {
+      "headline":"Have bags handy.",
+      "description":"You can buy garbage bags from a store specifically fitted for almost any size trash container. Find the brand and size you like. Usual sizes include tall, short, kitchen, or can varieties."
+    },
+    {
+      "headline":"Get the old, full bag out of the container.",
+      "description":"If the bag has drawstrings, handles, or anything else to grab onto, pull gently on them, as to not spill any of the contents over the sides. If the bag won't come out, pull with a little more force, or hold down the bin so that it's not off the floor."
+    },
+    {
+      "headline":"Replace the bag.",
+      "description":"Open it by unfolding it, then open the top. Catch air in the bag by waving it around, which will open it the rest of the way. Slide in the bag, and fold the top of the sides over the lid of the bin to hold it in place. Replace any covering you may have on top of the bin."
+    },
+    {
+      "headline":"Repeat these steps on any other garbage's you may have in your house.",
+      "description":""
+    },
+    {
+      "headline":"Take all these bags out to a master can, such as a large can.",
+      "description":""
+    },
+    {
+      "headline":"Take the trash out to the curb.",
+      "description":"If your master bin(s) use a bag, remove it using the steps above. Carry it or the whole can itself to the curb."
+    },
+    {
+      "headline":"Put a new bag in your can(s) if necessary.",
+      "description":"If you took out the whole can, remember to put it back to wherever you store it (garage, shed, outside, etc.) after the garbage collectors are gone."
+    }
+  ],
+  "text":" Know when your garbage collection day is. Change your garbage's and get it all to the curb the day before. This will prevent damage to the bags/cans from weather, animals, and anything else that might rip, topple, or destroy the garbage. Have bags handy. You can buy garbage bags from a store specifically fitted for almost any size trash container. Find the brand and size you like. Usual sizes include tall, short, kitchen, or can varieties. Get the old, full bag out of the container. If the bag has drawstrings, handles, or anything else to grab onto, pull gently on them, as to not spill any of the contents over the sides. If the bag won't come out, pull with a little more force, or hold down the bin so that it's not off the floor. Replace the bag. Open it by unfolding it, then open the top. Catch air in the bag by waving it around, which will open it the rest of the way. Slide in the bag, and fold the top of the sides over the lid of the bin to hold it in place. Replace any covering you may have on top of the bin. Repeat these steps on any other garbage's you may have in your house.  Take all these bags out to a master can, such as a large can.  Take the trash out to the curb. If your master bin(s) use a bag, remove it using the steps above. Carry it or the whole can itself to the curb. Put a new bag in your can(s) if necessary. If you took out the whole can, remember to put it back to wherever you store it (garage, shed, outside, etc.) after the garbage collectors are gone.",
+  "sentences":[
+    " Know when your garbage collection day is.",
+    "Change your garbage's and get it all to the curb the day before.",
+    "This will prevent damage to the bags/cans from weather, animals, and anything else that might rip, topple, or destroy the garbage.",
+    "Have bags handy.",
+    "You can buy garbage bags from a store specifically fitted for almost any size trash container.",
+    "Find the brand and size you like.",
+    "Usual sizes include tall, short, kitchen, or can varieties.",
+    "Get the old, full bag out of the container.",
+    "If the bag has drawstrings, handles, or anything else to grab onto, pull gently on them, as to not spill any of the contents over the sides.",
+    "If the bag won't come out, pull with a little more force, or hold down the bin so that it's not off the floor.",
+    "Replace the bag.",
+    "Open it by unfolding it, then open the top.",
+    "Catch air in the bag by waving it around, which will open it the rest of the way.",
+    "Slide in the bag, and fold the top of the sides over the lid of the bin to hold it in place.",
+    "Replace any covering you may have on top of the bin.",
+    "Repeat these steps on any other garbage's you may have in your house.",
+    "Take all these bags out to a master can, such as a large can.",
+    "Take the trash out to the curb.",
+    "If your master bin(s) use a bag, remove it using the steps above.",
+    "Carry it or the whole can itself to the curb.",
+    "Put a new bag in your can(s) if necessary.",
+    "If you took out the whole can, remember to put it back to wherever you store it (garage, shed, outside, etc.)",
+    "after the garbage collectors are gone."
+  ],
+  "tyn_section":[
+    "Trash bags",
+    "Trash bins",
+    "Master can(s)"
+  ],
+  "tyn_model":[
+    "garbage",
+    "bag",
+    "bin",
+    "garbage collection",
+    "bags",
+    "garbage bags",
+    "trash container",
+    "container",
+    "trash",
+    "garbage collectors"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.2,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "title":"How to Make Edible Chocolate Chip Cookie Dough",
+  "url":"https://www.wikihow.com/Make-Edible-Chocolate-Chip-Cookie-Dough",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cookies and Biscuits",
+    "Chocolate Cookies and Biscuits"
+  ],
+  "methods":[
+    {
+      "name":"Simple Chocolate Chip Cookie Dough",
+      "steps":[
+        {
+          "headline":"Combine the butter, brown sugar, vanilla, and salt.",
+          "description":"In a large bowl pour the softened butter, brown sugar, vanilla extract, and salt. Use a spatula or mixer to combine them thoroughly."
+        },
+        {
+          "headline":"Pour the one tablespoon of milk in and stir again.",
+          "description":"Then add the flour, only adding one tablespoon at a time, while mixing properly. Combine the ingredients until there are no flour streaks and the ingredients start to form a dough."
+        },
+        {
+          "headline":"Add the chocolate chips.",
+          "description":"Use the rubber spatula to mix well."
+        },
+        {
+          "headline":"Serve and enjoy!",
+          "description":"Eat the cookie dough right out of the bowl or add it on your favorite desserts, such as ice cream, cake, and/or brownies."
+        }
+      ]
+    },
+    {
+      "name":"Milk Chocolate Chip Cookie Dough",
+      "steps":[
+        {
+          "headline":"Cream the butter and brown sugar.",
+          "description":"In a large bowl, cream the softened butter and brown sugar on high for about two minutes using a hand or electric blender. Cream until the butter is light, fluffy, and brown."
+        },
+        {
+          "headline":"Pour in the vanilla extract and salt to the creamed butter.",
+          "description":"Blend again for about thirty seconds until properly combined."
+        },
+        {
+          "headline":"Pour in the flour to the cookie dough and blend again.",
+          "description":"The cookie dough will start to become crumbly and dry. Blend on slow speed until there are no more flour streaks."
+        },
+        {
+          "headline":"Pour in the milk.",
+          "description":"Blend again until the cookie dough forms and is slightly sticky."
+        },
+        {
+          "headline":"Add the chocolate chips.",
+          "description":"Blend on slow speed, mixing until the chocolate chips combine in with the cookie dough."
+        },
+        {
+          "headline":"Serve and enjoy!",
+          "description":"Eat the cookie dough right out of the bowl or add it to your favorite desserts such as ice cream, cake, and/or brownies."
+        }
+      ]
+    }
+  ],
+  "text":" Simple Chocolate Chip Cookie Dough Combine the butter, brown sugar, vanilla, and salt. In a large bowl pour the softened butter, brown sugar, vanilla extract, and salt. Use a spatula or mixer to combine them thoroughly. Pour the one tablespoon of milk in and stir again. Then add the flour, only adding one tablespoon at a time, while mixing properly. Combine the ingredients until there are no flour streaks and the ingredients start to form a dough. Add the chocolate chips. Use the rubber spatula to mix well. Serve and enjoy! Eat the cookie dough right out of the bowl or add it on your favorite desserts, such as ice cream, cake, and/or brownies. Milk Chocolate Chip Cookie Dough Cream the butter and brown sugar. In a large bowl, cream the softened butter and brown sugar on high for about two minutes using a hand or electric blender. Cream until the butter is light, fluffy, and brown. Pour in the vanilla extract and salt to the creamed butter. Blend again for about thirty seconds until properly combined. Pour in the flour to the cookie dough and blend again. The cookie dough will start to become crumbly and dry. Blend on slow speed until there are no more flour streaks. Pour in the milk. Blend again until the cookie dough forms and is slightly sticky. Add the chocolate chips. Blend on slow speed, mixing until the chocolate chips combine in with the cookie dough. Serve and enjoy! Eat the cookie dough right out of the bowl or add it to your favorite desserts such as ice cream, cake, and/or brownies.",
+  "sentences":[
+    " Simple Chocolate Chip Cookie Dough Combine the butter, brown sugar, vanilla, and salt.",
+    "In a large bowl pour the softened butter, brown sugar, vanilla extract, and salt.",
+    "Use a spatula or mixer to combine them thoroughly.",
+    "Pour the one tablespoon of milk in and stir again.",
+    "Then add the flour, only adding one tablespoon at a time, while mixing properly.",
+    "Combine the ingredients until there are no flour streaks and the ingredients start to form a dough.",
+    "Add the chocolate chips.",
+    "Use the rubber spatula to mix well.",
+    "Serve and enjoy!",
+    "Eat the cookie dough right out of the bowl or add it on your favorite desserts, such as ice cream, cake, and/or brownies.",
+    "Milk Chocolate Chip Cookie Dough Cream the butter and brown sugar.",
+    "In a large bowl, cream the softened butter and brown sugar on high for about two minutes using a hand or electric blender.",
+    "Cream until the butter is light, fluffy, and brown.",
+    "Pour in the vanilla extract and salt to the creamed butter.",
+    "Blend again for about thirty seconds until properly combined.",
+    "Pour in the flour to the cookie dough and blend again.",
+    "The cookie dough will start to become crumbly and dry.",
+    "Blend on slow speed until there are no more flour streaks.",
+    "Pour in the milk.",
+    "Blend again until the cookie dough forms and is slightly sticky.",
+    "Add the chocolate chips.",
+    "Blend on slow speed, mixing until the chocolate chips combine in with the cookie dough.",
+    "Serve and enjoy!",
+    "Eat the cookie dough right out of the bowl or add it to your favorite desserts such as ice cream, cake, and/or brownies."
+  ],
+  "tyn_section":[
+    "Large bowl",
+    "Rubber spatula",
+    "Electric or hand mixer, if desired"
+  ],
+  "tyn_model":[
+    "butter",
+    "brown sugar",
+    "salt",
+    "flour",
+    "chocolate chips",
+    "vanilla extract",
+    "milk",
+    "cookie dough",
+    "bowl",
+    "ice cream",
+    "chocolate chip cookie dough",
+    "vanilla",
+    "spatula",
+    "mixer",
+    "rubber spatula",
+    "milk chocolate chip cookie dough",
+    "large bowl",
+    "electric blender",
+    "creamed butter"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.1052631579,
+    "f1":0.1818181818,
+    "avg_pos":0.8421052632
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.2105263158,
+    "f1":0.32
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.2105263158,
+    "f1":0.32
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.1052631579,
+    "f1":0.1818181818
+  }
+}

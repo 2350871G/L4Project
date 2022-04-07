@@ -1,0 +1,111 @@
+{
+  "title":"How to Rag Paint a Wall",
+  "url":"https://www.wikihow.com/Rag-Paint-a-Wall",
+  "category_hierarchy":[
+    "Home and Garden",
+    "DIY"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the room where you will be painting by removing all furniture (if possible) and other obstacles.",
+      "description":"It's important in the process of knowing how to rag paint a wall to have a clear work area."
+    },
+    {
+      "headline":"Cover the floor and any large furniture (like couches) that cannot be removed from the room with plastic drop cloths.",
+      "description":""
+    },
+    {
+      "headline":"Tape edges of the areas you do not wish to be painted to protect the areas from paint splatters and brush edges.",
+      "description":""
+    },
+    {
+      "headline":"Pour paint for the base color into a paint tray.",
+      "description":"Use latex paint for the base color. This type of paint is easy to work with and to clean up and will provide a smooth base underneath the rag pattern. The base color latex paint is usually a lighter shade, so the glaze color that is rolled on top with the rag will stand out on top of the base coat."
+    },
+    {
+      "headline":"Mix the paint for the glaze that will be applied with a rag.",
+      "description":"To prepare, use a separate paint bucket and mix the latex paint with a glaze that is water-based. The glaze will give the wall a soft look and add a sheen."
+    },
+    {
+      "headline":"Roll the base color latex paint on the walls, covering the walls completely.",
+      "description":"Allow to dry for 24 hours before adding the rag glaze."
+    },
+    {
+      "headline":"Apply the glaze paint with a rag.",
+      "description":"Moisten the rag slightly with water and then dip it into the glaze. Dab the rag onto the wall, making a pattern. Go back in with another rag to dab off excess paint to change the pattern. Experiment."
+    },
+    {
+      "headline":"Allow glaze paint to dry.",
+      "description":""
+    },
+    {
+      "headline":"Wash out rollers and brushes, remove drop cloths, and return furniture to the newly rag-painted room.",
+      "description":""
+    }
+  ],
+  "text":" Prepare the room where you will be painting by removing all furniture (if possible) and other obstacles. It's important in the process of knowing how to rag paint a wall to have a clear work area. Cover the floor and any large furniture (like couches) that cannot be removed from the room with plastic drop cloths.  Tape edges of the areas you do not wish to be painted to protect the areas from paint splatters and brush edges.  Pour paint for the base color into a paint tray. Use latex paint for the base color. This type of paint is easy to work with and to clean up and will provide a smooth base underneath the rag pattern. The base color latex paint is usually a lighter shade, so the glaze color that is rolled on top with the rag will stand out on top of the base coat. Mix the paint for the glaze that will be applied with a rag. To prepare, use a separate paint bucket and mix the latex paint with a glaze that is water-based. The glaze will give the wall a soft look and add a sheen. Roll the base color latex paint on the walls, covering the walls completely. Allow to dry for 24 hours before adding the rag glaze. Apply the glaze paint with a rag. Moisten the rag slightly with water and then dip it into the glaze. Dab the rag onto the wall, making a pattern. Go back in with another rag to dab off excess paint to change the pattern. Experiment. Allow glaze paint to dry.  Wash out rollers and brushes, remove drop cloths, and return furniture to the newly rag-painted room. ",
+  "sentences":[
+    " Prepare the room where you will be painting by removing all furniture (if possible) and other obstacles.",
+    "It's important in the process of knowing how to rag paint a wall to have a clear work area.",
+    "Cover the floor and any large furniture (like couches) that cannot be removed from the room with plastic drop cloths.",
+    "Tape edges of the areas you do not wish to be painted to protect the areas from paint splatters and brush edges.",
+    "Pour paint for the base color into a paint tray.",
+    "Use latex paint for the base color.",
+    "This type of paint is easy to work with and to clean up and will provide a smooth base underneath the rag pattern.",
+    "The base color latex paint is usually a lighter shade, so the glaze color that is rolled on top with the rag will stand out on top of the base coat.",
+    "Mix the paint for the glaze that will be applied with a rag.",
+    "To prepare, use a separate paint bucket and mix the latex paint with a glaze that is water-based.",
+    "The glaze will give the wall a soft look and add a sheen.",
+    "Roll the base color latex paint on the walls, covering the walls completely.",
+    "Allow to dry for 24 hours before adding the rag glaze.",
+    "Apply the glaze paint with a rag.",
+    "Moisten the rag slightly with water and then dip it into the glaze.",
+    "Dab the rag onto the wall, making a pattern.",
+    "Go back in with another rag to dab off excess paint to change the pattern.",
+    "Experiment.",
+    "Allow glaze paint to dry.",
+    "Wash out rollers and brushes, remove drop cloths, and return furniture to the newly rag-painted room."
+  ],
+  "tyn_section":[
+    "Drop cloths, plastic or canvas",
+    "Bucket to mix the paint",
+    "Paint sticks for stirring paint",
+    "Masking tape to mask edges (low-tack)",
+    "Latex paint for the base coat",
+    "Latex paint in highlight color for rag painting",
+    "Glaze (water-based) \u2028",
+    "Cotton rags"
+  ],
+  "tyn_model":[
+    "paint",
+    "latex paint",
+    "rag",
+    "paint tray",
+    "paint bucket",
+    "water",
+    "glaze paint",
+    "rollers",
+    "drop cloths"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.375,
+    "p":0.3333333333,
+    "f1":0.3529411765
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

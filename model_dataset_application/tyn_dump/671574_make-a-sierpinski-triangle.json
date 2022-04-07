@@ -1,0 +1,98 @@
+{
+  "title":"How to Make a Sierpinski Triangle",
+  "url":"https://www.wikihow.com/Make-a-Sierpinski-Triangle",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Shapes",
+    "Drawing Triangles"
+  ],
+  "steps":[
+    {
+      "headline":"Print out triangular grid paper.",
+      "description":"You can make your own in a graphics program, print out the image next to this step (click to enlarge), or print it out from here."
+    },
+    {
+      "headline":"Draw an equilateral triangle.",
+      "description":"The sides should each have a number of triangles that is a multiple of four. This example will start with a large triangle that is 16 triangles to a side. Don't colour the triangles yet. Just trace the outsides of the ones you will colour."
+    },
+    {
+      "headline":"Divide this triangle into four smaller triangles.",
+      "description":"Leave the one in the middle blank."
+    },
+    {
+      "headline":"Divide all the coloured triangles into four smaller triangles just as you did the first one.",
+      "description":"Again, leave the middle triangle of each set blank."
+    },
+    {
+      "headline":"Divide the next smaller coloured triangles into fours, leaving the center of each blank.",
+      "description":""
+    },
+    {
+      "headline":"Divide the next smaller triangles.",
+      "description":"Colour them as mentioned in the previous steps."
+    },
+    {
+      "headline":"Keep dividing triangles as many times as you wish.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Print out triangular grid paper. You can make your own in a graphics program, print out the image next to this step (click to enlarge), or print it out from here. Draw an equilateral triangle. The sides should each have a number of triangles that is a multiple of four. This example will start with a large triangle that is 16 triangles to a side. Don't colour the triangles yet. Just trace the outsides of the ones you will colour. Divide this triangle into four smaller triangles. Leave the one in the middle blank. Divide all the coloured triangles into four smaller triangles just as you did the first one. Again, leave the middle triangle of each set blank. Divide the next smaller coloured triangles into fours, leaving the center of each blank.  Divide the next smaller triangles. Colour them as mentioned in the previous steps. Keep dividing triangles as many times as you wish.  Finished. ",
+  "sentences":[
+    " Print out triangular grid paper.",
+    "You can make your own in a graphics program, print out the image next to this step (click to enlarge), or print it out from here.",
+    "Draw an equilateral triangle.",
+    "The sides should each have a number of triangles that is a multiple of four.",
+    "This example will start with a large triangle that is 16 triangles to a side.",
+    "Don't colour the triangles yet.",
+    "Just trace the outsides of the ones you will colour.",
+    "Divide this triangle into four smaller triangles.",
+    "Leave the one in the middle blank.",
+    "Divide all the coloured triangles into four smaller triangles just as you did the first one.",
+    "Again, leave the middle triangle of each set blank.",
+    "Divide the next smaller coloured triangles into fours, leaving the center of each blank.",
+    "Divide the next smaller triangles.",
+    "Colour them as mentioned in the previous steps.",
+    "Keep dividing triangles as many times as you wish.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "triangular grid paper",
+    "(felt) pens, markers or pencils.",
+    "ruler",
+    "Optional:",
+    "scissors",
+    "cardstock",
+    "glue"
+  ],
+  "tyn_model":[
+    "triangular grid paper",
+    "graphics program",
+    "colour"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.3333333333,
+    "f1":0.2,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1428571429,
+    "p":0.3333333333,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.1428571429,
+    "p":0.3333333333,
+    "f1":0.2
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.3333333333,
+    "f1":0.2
+  }
+}

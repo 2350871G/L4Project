@@ -1,0 +1,99 @@
+{
+  "title":"How to Make a Shrimp Po Boy Sandwich",
+  "url":"https://www.wikihow.com/Make-a-Shrimp-Po-Boy-Sandwich",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Sandwiches and Quick Meals",
+    "Fish and Seafood Sandwiches"
+  ],
+  "steps":[
+    {
+      "headline":"Get a small bowl and mix the lemon juice, mayonnaise, and Tabasco sauce together.",
+      "description":"Place the bowl on the side for later use."
+    },
+    {
+      "headline":"Mix all of the spices (garlic powder, oregano, cayenne, paprika, and thyme) in another bowl.",
+      "description":"Sprinkle a dash of salt and pepper in there as well."
+    },
+    {
+      "headline":"Cover the shrimp pieces very well into the spice bowl from the last step.",
+      "description":"The amount of spices on the shrimp is up to you."
+    },
+    {
+      "headline":"Oil and heat a frying pan while you add the coated shrimp pieces.",
+      "description":"Remove them from the heat when both sides achieve a good reddish color."
+    },
+    {
+      "headline":"Take the bread halves and spread your mayonnaise on them.",
+      "description":"Place a few tomato slices and lettuce pieces evenly throughout the bread piece."
+    },
+    {
+      "headline":"Distribute the shrimp mixture evenly onto the lettuce and tomatoes.",
+      "description":"Put the two bread pieces together and enjoy."
+    }
+  ],
+  "text":" Get a small bowl and mix the lemon juice, mayonnaise, and Tabasco sauce together. Place the bowl on the side for later use. Mix all of the spices (garlic powder, oregano, cayenne, paprika, and thyme) in another bowl. Sprinkle a dash of salt and pepper in there as well. Cover the shrimp pieces very well into the spice bowl from the last step. The amount of spices on the shrimp is up to you. Oil and heat a frying pan while you add the coated shrimp pieces. Remove them from the heat when both sides achieve a good reddish color. Take the bread halves and spread your mayonnaise on them. Place a few tomato slices and lettuce pieces evenly throughout the bread piece. Distribute the shrimp mixture evenly onto the lettuce and tomatoes. Put the two bread pieces together and enjoy.",
+  "sentences":[
+    " Get a small bowl and mix the lemon juice, mayonnaise, and Tabasco sauce together.",
+    "Place the bowl on the side for later use.",
+    "Mix all of the spices (garlic powder, oregano, cayenne, paprika, and thyme) in another bowl.",
+    "Sprinkle a dash of salt and pepper in there as well.",
+    "Cover the shrimp pieces very well into the spice bowl from the last step.",
+    "The amount of spices on the shrimp is up to you.",
+    "Oil and heat a frying pan while you add the coated shrimp pieces.",
+    "Remove them from the heat when both sides achieve a good reddish color.",
+    "Take the bread halves and spread your mayonnaise on them.",
+    "Place a few tomato slices and lettuce pieces evenly throughout the bread piece.",
+    "Distribute the shrimp mixture evenly onto the lettuce and tomatoes.",
+    "Put the two bread pieces together and enjoy."
+  ],
+  "tyn_section":[
+    "spoon",
+    "frying pan",
+    "2 bowls"
+  ],
+  "tyn_model":[
+    "shrimp",
+    "mayonnaise",
+    "bowl",
+    "bread",
+    "lettuce",
+    "small bowl",
+    "lemon juice",
+    "tabasco sauce",
+    "spices",
+    "garlic powder",
+    "oregano",
+    "cayenne",
+    "paprika",
+    "thyme",
+    "salt and pepper",
+    "spice bowl",
+    "oil",
+    "frying pan",
+    "tomato",
+    "tomatoes"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.05,
+    "f1":0.0869565217,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.05,
+    "f1":0.0869565217
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.05,
+    "f1":0.0869565217
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.05,
+    "f1":0.0869565217
+  }
+}

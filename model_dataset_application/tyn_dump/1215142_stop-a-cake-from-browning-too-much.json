@@ -1,0 +1,91 @@
+{
+  "title":"How to Stop a Cake from Browning Too Much",
+  "url":"https://www.wikihow.com/Stop-a-Cake-from-Browning-Too-Much",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cakes",
+    "Cake Making Tips"
+  ],
+  "steps":[
+    {
+      "headline":"Check that the cake pan is deep enough for the cake.",
+      "description":"A shallow pan carries more risk of browning than a deep one."
+    },
+    {
+      "headline":"Line the sides of the cake pan.",
+      "description":"Use two layers of brown paper and two layers of baking paper. Allow this paper to extend above the pan about 5 centimeter (2.0 in) to 7 centimeter (2.8 in). This paper \"wall\" will help to protect the cake top from browning."
+    },
+    {
+      "headline":"Smooth the cake before adding it to the oven.",
+      "description":"A flatter surface made by a spatula or knife can help to prevent uneven browning."
+    },
+    {
+      "headline":"Check the alignment of the oven shelves.",
+      "description":"The shelf used should not place the cake too close to the heat source. Bake the cake in the lower half of the oven."
+    },
+    {
+      "headline":"Keep an eye on the cake as it bakes.",
+      "description":"If it appears to be browning unevenly, turn it in quarters several times during baking."
+    },
+    {
+      "headline":"Add a layer of kitchen foil.",
+      "description":"Halfway through baking, you can place a layer of kitchen foil over the top of the cake to prevent browning, especially where it has a fruit or caramelized top."
+    }
+  ],
+  "text":" Check that the cake pan is deep enough for the cake. A shallow pan carries more risk of browning than a deep one. Line the sides of the cake pan. Use two layers of brown paper and two layers of baking paper. Allow this paper to extend above the pan about 5 centimeter (2.0 in) to 7 centimeter (2.8 in). This paper \"wall\" will help to protect the cake top from browning. Smooth the cake before adding it to the oven. A flatter surface made by a spatula or knife can help to prevent uneven browning. Check the alignment of the oven shelves. The shelf used should not place the cake too close to the heat source. Bake the cake in the lower half of the oven. Keep an eye on the cake as it bakes. If it appears to be browning unevenly, turn it in quarters several times during baking. Add a layer of kitchen foil. Halfway through baking, you can place a layer of kitchen foil over the top of the cake to prevent browning, especially where it has a fruit or caramelized top.",
+  "sentences":[
+    " Check that the cake pan is deep enough for the cake.",
+    "A shallow pan carries more risk of browning than a deep one.",
+    "Line the sides of the cake pan.",
+    "Use two layers of brown paper and two layers of baking paper.",
+    "Allow this paper to extend above the pan about 5 centimeter (2.0 in) to 7 centimeter (2.8 in).",
+    "This paper \"wall\" will help to protect the cake top from browning.",
+    "Smooth the cake before adding it to the oven.",
+    "A flatter surface made by a spatula or knife can help to prevent uneven browning.",
+    "Check the alignment of the oven shelves.",
+    "The shelf used should not place the cake too close to the heat source.",
+    "Bake the cake in the lower half of the oven.",
+    "Keep an eye on the cake as it bakes.",
+    "If it appears to be browning unevenly, turn it in quarters several times during baking.",
+    "Add a layer of kitchen foil.",
+    "Halfway through baking, you can place a layer of kitchen foil over the top of the cake to prevent browning, especially where it has a fruit or caramelized top."
+  ],
+  "tyn_section":[
+    "Deep pan",
+    "Baking paper and brown paper; scissors",
+    "Oven shelf levels rearranged (where needed)",
+    "Kitchen foil sheet",
+    "Spatula or knife for smoothing cake"
+  ],
+  "tyn_model":[
+    "oven",
+    "cake pan",
+    "kitchen foil",
+    "brown paper",
+    "baking paper",
+    "spatula"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.1666666667,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.6666666667,
+    "f1":0.6315789474
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.1666666667,
+    "f1":0.1818181818
+  }
+}

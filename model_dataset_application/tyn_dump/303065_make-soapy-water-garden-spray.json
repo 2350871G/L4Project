@@ -1,0 +1,67 @@
+{
+  "title":"How to Make Soapy Water Garden Spray",
+  "url":"https://www.wikihow.com/Make-Soapy-Water-Garden-Spray",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Garden Pests and Weeds",
+    "Garden Sprays"
+  ],
+  "steps":[
+    {
+      "headline":"Purchase soap powder.",
+      "description":"Check that it is pure and does not contain chemical additives."
+    },
+    {
+      "headline":"Mix the soap powder and water together.",
+      "description":""
+    },
+    {
+      "headline":"Transfer the mixture to a spray bottle.",
+      "description":""
+    },
+    {
+      "headline":"Use immediately.",
+      "description":"There is no point storing this spray mixture  - discard unwanted mixture down the drain."
+    }
+  ],
+  "text":" Purchase soap powder. Check that it is pure and does not contain chemical additives. Mix the soap powder and water together.  Transfer the mixture to a spray bottle.  Use immediately. There is no point storing this spray mixture  - discard unwanted mixture down the drain.",
+  "sentences":[
+    " Purchase soap powder.",
+    "Check that it is pure and does not contain chemical additives.",
+    "Mix the soap powder and water together.",
+    "Transfer the mixture to a spray bottle.",
+    "Use immediately.",
+    "There is no point storing this spray mixture  - discard unwanted mixture down the drain."
+  ],
+  "tyn_section":[
+    "Mixing container",
+    "Spray bottle"
+  ],
+  "tyn_model":[
+    "soap powder",
+    "water",
+    "spray bottle"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  }
+}

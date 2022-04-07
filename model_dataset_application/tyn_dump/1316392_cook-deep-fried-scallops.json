@@ -1,0 +1,118 @@
+{
+  "title":"How to Cook Deep Fried Scallops",
+  "url":"https://www.wikihow.com/Cook-Deep-Fried-Scallops",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fish and Seafood"
+  ],
+  "steps":[
+    {
+      "headline":"Scallops: You will need approximately 1/4 pound of scallops per person, this recipe is for one pound.",
+      "description":""
+    },
+    {
+      "headline":"You will also need either a deep fryer, or a deep fringe pan that can comfortably hold a couple of inches of oil.",
+      "description":""
+    },
+    {
+      "headline":"Start heating the oil, while you assemble the rest of the ingredients.",
+      "description":"THE OIL MUST BE HOT."
+    },
+    {
+      "headline":"Break 1-2 eggs in a shallow bowl and add 1/4 cup of water for each egg.",
+      "description":"You don't want too thick of a batter."
+    },
+    {
+      "headline":"Place breadcrumbs into a pie pan, or on a paper plate",
+      "description":""
+    },
+    {
+      "headline":"Check your oil.",
+      "description":"Take a slice of bread, and cut it into cubes throw a cube into the oil."
+    },
+    {
+      "headline":"The bread should begin to cook immediately, and turn golden rather quickly.",
+      "description":"Oil is very HOT!"
+    },
+    {
+      "headline":"Put Scallops in egg batter, and with a strainer spoon, remove them to the breadcrumbs.",
+      "description":"Coat evenly."
+    },
+    {
+      "headline":"CAREFULLY place spoonfuls of scallops into your hot oil.",
+      "description":""
+    },
+    {
+      "headline":"In 3-4 minutes you will have a delicious meal.",
+      "description":""
+    },
+    {
+      "headline":"Serve with Lemon Wedges, Tartar Sauce, or Red Cocktail Sauce.",
+      "description":""
+    },
+    {
+      "headline":"Stir",
+      "description":""
+    }
+  ],
+  "text":" Scallops: You will need approximately 1/4 pound of scallops per person, this recipe is for one pound.  You will also need either a deep fryer, or a deep fringe pan that can comfortably hold a couple of inches of oil.  Start heating the oil, while you assemble the rest of the ingredients. THE OIL MUST BE HOT. Break 1-2 eggs in a shallow bowl and add 1/4 cup of water for each egg. You don't want too thick of a batter. Place breadcrumbs into a pie pan, or on a paper plate  Check your oil. Take a slice of bread, and cut it into cubes throw a cube into the oil. The bread should begin to cook immediately, and turn golden rather quickly. Oil is very HOT! Put Scallops in egg batter, and with a strainer spoon, remove them to the breadcrumbs. Coat evenly. CAREFULLY place spoonfuls of scallops into your hot oil.  In 3-4 minutes you will have a delicious meal.  Serve with Lemon Wedges, Tartar Sauce, or Red Cocktail Sauce.  Stir ",
+  "sentences":[
+    " Scallops: You will need approximately 1/4 pound of scallops per person, this recipe is for one pound.",
+    "You will also need either a deep fryer, or a deep fringe pan that can comfortably hold a couple of inches of oil.",
+    "Start heating the oil, while you assemble the rest of the ingredients.",
+    "THE OIL MUST BE HOT.",
+    "Break 1-2 eggs in a shallow bowl and add 1/4 cup of water for each egg.",
+    "You don't want too thick of a batter.",
+    "Place breadcrumbs into a pie pan, or on a paper plate  Check your oil.",
+    "Take a slice of bread, and cut it into cubes throw a cube into the oil.",
+    "The bread should begin to cook immediately, and turn golden rather quickly.",
+    "Oil is very HOT!",
+    "Put Scallops in egg batter, and with a strainer spoon, remove them to the breadcrumbs.",
+    "Coat evenly.",
+    "CAREFULLY place spoonfuls of scallops into your hot oil.",
+    "In 3-4 minutes you will have a delicious meal.",
+    "Serve with Lemon Wedges, Tartar Sauce, or Red Cocktail Sauce.",
+    "Stir"
+  ],
+  "tyn_section":[
+    "Deep Fryer, or Deep Frying Pan",
+    "Oil",
+    "Slotted Spoon or Birds Nest"
+  ],
+  "tyn_model":[
+    "oil",
+    "scallops",
+    "deep fryer",
+    "deep fringe pan",
+    "eggs",
+    "water",
+    "pie pan",
+    "bread",
+    "strainer spoon",
+    "lemon wedges",
+    "tartar sauce",
+    "red cocktail sauce"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.0833333333,
+    "f1":0.1333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.0833333333,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.1666666667,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.0833333333,
+    "f1":0.1333333333
+  }
+}

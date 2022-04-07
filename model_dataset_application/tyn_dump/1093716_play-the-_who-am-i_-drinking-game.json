@@ -1,0 +1,100 @@
+{
+  "title":"How to Play the \"Who Am I\" Drinking Game",
+  "url":"https://www.wikihow.com/Play-the-%22Who-Am-I%22-Drinking-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games"
+  ],
+  "steps":[
+    {
+      "headline":"Have everyone sit around a table.",
+      "description":""
+    },
+    {
+      "headline":"Pass blank cards (anything that would stick on you when wet) to each person.",
+      "description":""
+    },
+    {
+      "headline":"Have each person write the name of a person on their card.",
+      "description":"There are some rules to this:\nThe person or character chosen must be famous or well-known. No vanity references like a person's father or a high school friend. The person or character can either be real or fictitious. Examples could be \"King Kong\", \"Oprah Winfrey\", or \"Dr. Seuss\"."
+    },
+    {
+      "headline":"Place the cards face down on the table.",
+      "description":""
+    },
+    {
+      "headline":"Pass your card to the person on your right.",
+      "description":"You would get the card from the person on your left."
+    },
+    {
+      "headline":"Pick up the card, so that the unwritten side is facing you.",
+      "description":""
+    },
+    {
+      "headline":"Lick the back of the card and stick it on your forehead.",
+      "description":"Everyone but you should be seeing your card. You, on the other hand, can see everyone else's."
+    },
+    {
+      "headline":"Choose a person to start the game.",
+      "description":"This person asks the group \"yes or no\" questions to figure out who they are (what their card says). If they guess their character correctly, everyone else but them must finish their drinks. If they guess their character incorrectly, they would need to finish their drink alone."
+    },
+    {
+      "headline":"Continue around the table until everyone either has had a turn or the game is finished in agreement.",
+      "description":""
+    }
+  ],
+  "text":" Have everyone sit around a table.  Pass blank cards (anything that would stick on you when wet) to each person.  Have each person write the name of a person on their card. There are some rules to this:\nThe person or character chosen must be famous or well-known. No vanity references like a person's father or a high school friend. The person or character can either be real or fictitious. Examples could be \"King Kong\", \"Oprah Winfrey\", or \"Dr. Seuss\". Place the cards face down on the table.  Pass your card to the person on your right. You would get the card from the person on your left. Pick up the card, so that the unwritten side is facing you.  Lick the back of the card and stick it on your forehead. Everyone but you should be seeing your card. You, on the other hand, can see everyone else's. Choose a person to start the game. This person asks the group \"yes or no\" questions to figure out who they are (what their card says). If they guess their character correctly, everyone else but them must finish their drinks. If they guess their character incorrectly, they would need to finish their drink alone. Continue around the table until everyone either has had a turn or the game is finished in agreement. ",
+  "sentences":[
+    " Have everyone sit around a table.",
+    "Pass blank cards (anything that would stick on you when wet) to each person.",
+    "Have each person write the name of a person on their card.",
+    "There are some rules to this:\nThe person or character chosen must be famous or well-known.",
+    "No vanity references like a person's father or a high school friend.",
+    "The person or character can either be real or fictitious.",
+    "Examples could be \"King Kong\", \"Oprah Winfrey\", or \"Dr. Seuss\".",
+    "Place the cards face down on the table.",
+    "Pass your card to the person on your right.",
+    "You would get the card from the person on your left.",
+    "Pick up the card, so that the unwritten side is facing you.",
+    "Lick the back of the card and stick it on your forehead.",
+    "Everyone but you should be seeing your card.",
+    "You, on the other hand, can see everyone else's.",
+    "Choose a person to start the game.",
+    "This person asks the group \"yes or no\" questions to figure out who they are (what their card says).",
+    "If they guess their character correctly, everyone else but them must finish their drinks.",
+    "If they guess their character incorrectly, they would need to finish their drink alone.",
+    "Continue around the table until everyone either has had a turn or the game is finished in agreement."
+  ],
+  "tyn_section":[
+    "Blank cards",
+    "Markers or pens for each player",
+    "Water"
+  ],
+  "tyn_model":[
+    "card",
+    "table",
+    "cards",
+    "drinks"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title":"How to Make Coca Cola Marinade",
+  "url":"https://www.wikihow.com/Make-Coca-Cola-Marinade",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Sauces",
+    "Marinades"
+  ],
+  "steps":[
+    {
+      "headline":"Mix the ingredients in a bowl with a whisk.",
+      "description":""
+    },
+    {
+      "headline":"Use immediately over the steak pieces and be sure to coat thoroughly.",
+      "description":""
+    },
+    {
+      "headline":"Chill the steaks in the refrigerator for at least 6 hours or overnight, for best flavor.",
+      "description":""
+    }
+  ],
+  "text":" Mix the ingredients in a bowl with a whisk.  Use immediately over the steak pieces and be sure to coat thoroughly.  Chill the steaks in the refrigerator for at least 6 hours or overnight, for best flavor. ",
+  "sentences":[
+    " Mix the ingredients in a bowl with a whisk.",
+    "Use immediately over the steak pieces and be sure to coat thoroughly.",
+    "Chill the steaks in the refrigerator for at least 6 hours or overnight, for best flavor."
+  ],
+  "tyn_section":[
+    "Large bowl",
+    "Whisk",
+    "Container or freezer bags, to marinate steaks"
+  ],
+  "tyn_model":[
+    "bowl",
+    "whisk",
+    "refrigerator"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  }
+}

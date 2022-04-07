@@ -1,0 +1,119 @@
+{
+  "title":"How to Make Coconut Milk from Coconut Cream",
+  "url":"https://www.wikihow.com/Make-Coconut-Milk-from-Coconut-Cream",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation"
+  ],
+  "methods":[
+    {
+      "name":"Coconut cream and water",
+      "steps":[
+        {
+          "headline":"Purchase or take out the coconut cream can.",
+          "description":""
+        },
+        {
+          "headline":"Open the can and pour the coconut cream into two bowls.",
+          "description":"Make sure to include an even amount of coconut cream in each bowl."
+        },
+        {
+          "headline":"Add water to each bowl.",
+          "description":"The amount will depend on the consistency you want. It's best to add small amounts and build up rather than to overdo it."
+        },
+        {
+          "headline":"Mix the coconut cream and water together thoroughly.",
+          "description":"The consistency should be smooth and look like - coconut milk!"
+        },
+        {
+          "headline":"Use or store.",
+          "description":"If storing, pour into a suitable storage container or jar and refrigerate (such as a glass jug or bowl with lid). Don't keep it longer than a few more days though or it will go off."
+        }
+      ]
+    },
+    {
+      "name":"Coconut cream and coconut water",
+      "steps":[
+        {
+          "headline":"Choose a suitable coconut cream.",
+          "description":"You can make this by the cup or by the quart."
+        },
+        {
+          "headline":"Open the can.",
+          "description":"Pour the coconut cream into two bowls, in even amounts."
+        },
+        {
+          "headline":"Add coconut water to each bowl.",
+          "description":"Mix it at the ratio of about 1 ounce of coconut cream to either 7 or 8 ounces of packaged coconut water."
+        },
+        {
+          "headline":"Stir vigorously or shake.",
+          "description":"You now have coconut milk made at home."
+        },
+        {
+          "headline":"Use or store.",
+          "description":"Refrigerate if storing, or follow the freezer method in the Tips."
+        }
+      ]
+    }
+  ],
+  "text":" Coconut cream and water Purchase or take out the coconut cream can.  Open the can and pour the coconut cream into two bowls. Make sure to include an even amount of coconut cream in each bowl. Add water to each bowl. The amount will depend on the consistency you want. It's best to add small amounts and build up rather than to overdo it. Mix the coconut cream and water together thoroughly. The consistency should be smooth and look like - coconut milk! Use or store. If storing, pour into a suitable storage container or jar and refrigerate (such as a glass jug or bowl with lid). Don't keep it longer than a few more days though or it will go off. Coconut cream and coconut water Choose a suitable coconut cream. You can make this by the cup or by the quart. Open the can. Pour the coconut cream into two bowls, in even amounts. Add coconut water to each bowl. Mix it at the ratio of about 1 ounce of coconut cream to either 7 or 8 ounces of packaged coconut water. Stir vigorously or shake. You now have coconut milk made at home. Use or store. Refrigerate if storing, or follow the freezer method in the Tips.",
+  "sentences":[
+    " Coconut cream and water Purchase or take out the coconut cream can.",
+    "Open the can and pour the coconut cream into two bowls.",
+    "Make sure to include an even amount of coconut cream in each bowl.",
+    "Add water to each bowl.",
+    "The amount will depend on the consistency you want.",
+    "It's best to add small amounts and build up rather than to overdo it.",
+    "Mix the coconut cream and water together thoroughly.",
+    "The consistency should be smooth and look like - coconut milk!",
+    "Use or store.",
+    "If storing, pour into a suitable storage container or jar and refrigerate (such as a glass jug or bowl with lid).",
+    "Don't keep it longer than a few more days though or it will go off.",
+    "Coconut cream and coconut water Choose a suitable coconut cream.",
+    "You can make this by the cup or by the quart.",
+    "Open the can.",
+    "Pour the coconut cream into two bowls, in even amounts.",
+    "Add coconut water to each bowl.",
+    "Mix it at the ratio of about 1 ounce of coconut cream to either 7 or 8 ounces of packaged coconut water.",
+    "Stir vigorously or shake.",
+    "You now have coconut milk made at home.",
+    "Use or store.",
+    "Refrigerate if storing, or follow the freezer method in the Tips."
+  ],
+  "tyn_section":[
+    "Coconut cream",
+    "Can opener",
+    "Two bowls",
+    "Water",
+    "Storage container (optional)"
+  ],
+  "tyn_model":[
+    "coconut cream",
+    "water",
+    "coconut water",
+    "coconut milk",
+    "bowl"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.4,
+    "f1":0.4,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.6,
+    "f1":0.48
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.8,
+    "f1":0.5333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.4,
+    "f1":0.4
+  }
+}

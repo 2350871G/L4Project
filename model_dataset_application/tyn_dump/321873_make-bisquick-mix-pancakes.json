@@ -1,0 +1,90 @@
+{
+  "title":"How to Make Bisquick Mix Pancakes",
+  "url":"https://www.wikihow.com/Make-Bisquick-Mix-Pancakes",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Pancakes"
+  ],
+  "steps":[
+    {
+      "headline":"Heat griddle or skillet over a medium-high heat.",
+      "description":"If you are using an electric griddle, heat to 375\u00b0F (190\u00b0C). You know it's hot enough when a few drops of water sprinkled on it sizzle and disappear."
+    },
+    {
+      "headline":"Grease with cooking spray or shortening.",
+      "description":""
+    },
+    {
+      "headline":"Whisk the ingredients together.",
+      "description":"Be careful not to over mix -- you still want lumps. They leaven the batter as it cooks resulting in fluffier pancakes. Over-mixing the batter will produce thin pancakes."
+    },
+    {
+      "headline":"Pour just under 1/4 cupfuls onto a hot griddle.",
+      "description":"Cook until edges are dry and bubbles start to form on top."
+    },
+    {
+      "headline":"Flip them over and cook until golden.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":"Serve with butter and syrup or whipped cream and fresh berries."
+    }
+  ],
+  "text":" Heat griddle or skillet over a medium-high heat. If you are using an electric griddle, heat to 375\u00b0F (190\u00b0C). You know it's hot enough when a few drops of water sprinkled on it sizzle and disappear. Grease with cooking spray or shortening.  Whisk the ingredients together. Be careful not to over mix -- you still want lumps. They leaven the batter as it cooks resulting in fluffier pancakes. Over-mixing the batter will produce thin pancakes. Pour just under 1/4 cupfuls onto a hot griddle. Cook until edges are dry and bubbles start to form on top. Flip them over and cook until golden.  Finished. Serve with butter and syrup or whipped cream and fresh berries.",
+  "sentences":[
+    " Heat griddle or skillet over a medium-high heat.",
+    "If you are using an electric griddle, heat to 375\u00b0F (190\u00b0C).",
+    "You know it's hot enough when a few drops of water sprinkled on it sizzle and disappear.",
+    "Grease with cooking spray or shortening.",
+    "Whisk the ingredients together.",
+    "Be careful not to over mix -- you still want lumps.",
+    "They leaven the batter as it cooks resulting in fluffier pancakes.",
+    "Over-mixing the batter will produce thin pancakes.",
+    "Pour just under 1/4 cupfuls onto a hot griddle.",
+    "Cook until edges are dry and bubbles start to form on top.",
+    "Flip them over and cook until golden.",
+    "Finished.",
+    "Serve with butter and syrup or whipped cream and fresh berries."
+  ],
+  "tyn_section":[
+    "Whisk or fork",
+    "Stove top and skillet or electric griddle",
+    "Spatula",
+    "Shortening or cooking spray"
+  ],
+  "tyn_model":[
+    "griddle",
+    "skillet",
+    "electric griddle",
+    "water",
+    "cooking spray",
+    "shortening",
+    "hot griddle",
+    "butter and syrup",
+    "whipped cream",
+    "berries"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

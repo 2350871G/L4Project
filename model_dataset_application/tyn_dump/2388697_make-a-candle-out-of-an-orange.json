@@ -1,0 +1,113 @@
+{
+  "title":"How to Make a Candle out of an Orange",
+  "url":"https://www.wikihow.com/Make-a-Candle-out-of-an-Orange",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Lighting",
+    "Candles"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare your orange.",
+      "description":""
+    },
+    {
+      "headline":"Cut the orange on the cutting board.",
+      "description":"Use the paring knife to slice into the peel of the orange. Insert only as far as the pith, taking the knife around the middle of the orange, going all the way around the circumference."
+    },
+    {
+      "headline":"Peel the orange.",
+      "description":"Gently push your finger under the skin of the orange and peel the skin away so that it separates from the orange without tearing."
+    },
+    {
+      "headline":"Locate the \"wick\".",
+      "description":"Once separated from orange flesh, the orange peel should be easy to remove. When removing the orange flesh, a white wick-like \u201cstem\u201d part should remain\u2013\u2013leave this intact, still attached to the peel."
+    },
+    {
+      "headline":"Add oil.",
+      "description":"Pour olive oil (approximately 3 tablespoons) to cover the stem and allow wick to soak for a 2-3 minutes."
+    },
+    {
+      "headline":"Create a design.",
+      "description":"The design is both pretty and functional, as it allows the candle to breathe. Create a design on paper first, to help prevent mistakes when cutting the orange. Then, take the top off the orange and score out the design you've made, using the paring knife."
+    },
+    {
+      "headline":"Light the candle.",
+      "description":"Light the orange\u2019s stem with a lighter. This may take a couple of attempts. It might be easier to use extra long barbecue matches if you feel it's too cramped using a lighter."
+    },
+    {
+      "headline":"Place the top half (with its pre-designed hole) onto the bottom half with the wick.",
+      "description":"This completes the candle."
+    },
+    {
+      "headline":"Enjoy!",
+      "description":""
+    }
+  ],
+  "text":" Prepare your orange.  Cut the orange on the cutting board. Use the paring knife to slice into the peel of the orange. Insert only as far as the pith, taking the knife around the middle of the orange, going all the way around the circumference. Peel the orange. Gently push your finger under the skin of the orange and peel the skin away so that it separates from the orange without tearing. Locate the \"wick\". Once separated from orange flesh, the orange peel should be easy to remove. When removing the orange flesh, a white wick-like \u201cstem\u201d part should remain\u2013\u2013leave this intact, still attached to the peel. Add oil. Pour olive oil (approximately 3 tablespoons) to cover the stem and allow wick to soak for a 2-3 minutes. Create a design. The design is both pretty and functional, as it allows the candle to breathe. Create a design on paper first, to help prevent mistakes when cutting the orange. Then, take the top off the orange and score out the design you've made, using the paring knife. Light the candle. Light the orange\u2019s stem with a lighter. This may take a couple of attempts. It might be easier to use extra long barbecue matches if you feel it's too cramped using a lighter. Place the top half (with its pre-designed hole) onto the bottom half with the wick. This completes the candle. Enjoy! ",
+  "sentences":[
+    " Prepare your orange.",
+    "Cut the orange on the cutting board.",
+    "Use the paring knife to slice into the peel of the orange.",
+    "Insert only as far as the pith, taking the knife around the middle of the orange, going all the way around the circumference.",
+    "Peel the orange.",
+    "Gently push your finger under the skin of the orange and peel the skin away so that it separates from the orange without tearing.",
+    "Locate the \"wick\".",
+    "Once separated from orange flesh, the orange peel should be easy to remove.",
+    "When removing the orange flesh, a white wick-like \u201cstem\u201d part should remain\u2013\u2013leave this intact, still attached to the peel.",
+    "Add oil.",
+    "Pour olive oil (approximately 3 tablespoons) to cover the stem and allow wick to soak for a 2-3 minutes.",
+    "Create a design.",
+    "The design is both pretty and functional, as it allows the candle to breathe.",
+    "Create a design on paper first, to help prevent mistakes when cutting the orange.",
+    "Then, take the top off the orange and score out the design you've made, using the paring knife.",
+    "Light the candle.",
+    "Light the orange\u2019s stem with a lighter.",
+    "This may take a couple of attempts.",
+    "It might be easier to use extra long barbecue matches if you feel it's too cramped using a lighter.",
+    "Place the top half (with its pre-designed hole) onto the bottom half with the wick.",
+    "This completes the candle.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Orange (on the large side)",
+    "Cutting board",
+    "Paring knife",
+    "Olive oil or vegetable oil (you can add a few drops of orange oil for scent if desired)",
+    "Lighter"
+  ],
+  "tyn_model":[
+    "paring knife",
+    "lighter",
+    "cutting board",
+    "knife",
+    "orange",
+    "\u201cstem",
+    "\u201d part",
+    "oil",
+    "olive oil",
+    "candle",
+    "barbecue matches"
+  ],
+  "simple_metrics":{
+    "r":0.6,
+    "p":0.2727272727,
+    "f1":0.375,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.3636363636,
+    "f1":0.4528301887
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.3636363636,
+    "f1":0.4528301887
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6,
+    "p":0.2727272727,
+    "f1":0.375
+  }
+}

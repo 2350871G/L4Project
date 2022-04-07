@@ -1,0 +1,67 @@
+{
+  "title":"How to Make an Apple Volcano",
+  "url":"https://www.wikihow.com/Make-an-Apple-Volcano",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets",
+    "Fruit Desserts"
+  ],
+  "steps":[
+    {
+      "headline":"Use the apple corer to take out the core of the apple.",
+      "description":""
+    },
+    {
+      "headline":"Fill the hole of the apple with peanut butter using a butter knife or spoon.",
+      "description":"If the peanut butter is too stiff, pop it in the microwave for a couple seconds to soften it."
+    },
+    {
+      "headline":"Sprinkle sunflower seeds and/ or M&M's on the top.",
+      "description":""
+    },
+    {
+      "headline":"Don't make too much ahead of time because the apple will brown.",
+      "description":""
+    }
+  ],
+  "text":" Use the apple corer to take out the core of the apple.  Fill the hole of the apple with peanut butter using a butter knife or spoon. If the peanut butter is too stiff, pop it in the microwave for a couple seconds to soften it. Sprinkle sunflower seeds and/ or M&M's on the top.  Don't make too much ahead of time because the apple will brown. ",
+  "sentences":[
+    " Use the apple corer to take out the core of the apple.",
+    "Fill the hole of the apple with peanut butter using a butter knife or spoon.",
+    "If the peanut butter is too stiff, pop it in the microwave for a couple seconds to soften it.",
+    "Sprinkle sunflower seeds and/ or M&M's on the top.",
+    "Don't make too much ahead of time because the apple will brown."
+  ],
+  "tyn_section":[
+    "Apple corer"
+  ],
+  "tyn_model":[
+    "peanut butter",
+    "apple corer",
+    "butter knife",
+    "microwave",
+    "sunflower seeds"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333,
+    "avg_pos":0.2
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333
+  }
+}

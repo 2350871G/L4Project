@@ -1,0 +1,121 @@
+{
+  "title":"How to Get the Sticker Remains off Valuable Products",
+  "url":"https://www.wikihow.com/Get-the-Sticker-Remains-off-Valuable-Products",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Stain Removal",
+    "Adhesive Stains"
+  ],
+  "methods":[
+    {
+      "name":"Glass",
+      "steps":[
+        {
+          "headline":"Soak the remains of the sticker with rubbing alcohol.",
+          "description":""
+        },
+        {
+          "headline":"Use the sharp edge of a razor blade to scrape off the remains; this will not damage the glass.",
+          "description":""
+        },
+        {
+          "headline":"Make sure the blade isn't pointing directly towards the glass.",
+          "description":"It should be facing the remains and should just skim the surface of it. If it gets harder to scrape off, add warmer water."
+        }
+      ]
+    },
+    {
+      "name":"Wood",
+      "steps":[
+        {
+          "headline":"Put hot water on a sponge.",
+          "description":""
+        },
+        {
+          "headline":"Dab the sponge on the the remains of the sticker on the wood.",
+          "description":""
+        },
+        {
+          "headline":"Slowly peel off as you would with a sticker.",
+          "description":"It will be easier than using cold water."
+        },
+        {
+          "headline":"Consider using a towel to rub it off but it depends on the wood type.",
+          "description":"If it is smooth, the towel will work better than peeling it off."
+        }
+      ]
+    },
+    {
+      "name":"Metal",
+      "steps":[
+        {
+          "headline":"Use very hot water on the remains.",
+          "description":"Let it set for about 3 minutes."
+        },
+        {
+          "headline":"Get a towel and rub the remains off hard.",
+          "description":"The harder you rub the remains, the more effective it will be."
+        },
+        {
+          "headline":"Confirm that you are doing it correctly by checking if you get small rolls of sticker.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Glass Soak the remains of the sticker with rubbing alcohol.  Use the sharp edge of a razor blade to scrape off the remains; this will not damage the glass.  Make sure the blade isn't pointing directly towards the glass. It should be facing the remains and should just skim the surface of it. If it gets harder to scrape off, add warmer water. Wood Put hot water on a sponge.  Dab the sponge on the the remains of the sticker on the wood.  Slowly peel off as you would with a sticker. It will be easier than using cold water. Consider using a towel to rub it off but it depends on the wood type. If it is smooth, the towel will work better than peeling it off. Metal Use very hot water on the remains. Let it set for about 3 minutes. Get a towel and rub the remains off hard. The harder you rub the remains, the more effective it will be. Confirm that you are doing it correctly by checking if you get small rolls of sticker. ",
+  "sentences":[
+    " Glass Soak the remains of the sticker with rubbing alcohol.",
+    "Use the sharp edge of a razor blade to scrape off the remains; this will not damage the glass.",
+    "Make sure the blade isn't pointing directly towards the glass.",
+    "It should be facing the remains and should just skim the surface of it.",
+    "If it gets harder to scrape off, add warmer water.",
+    "Wood Put hot water on a sponge.",
+    "Dab the sponge on the the remains of the sticker on the wood.",
+    "Slowly peel off as you would with a sticker.",
+    "It will be easier than using cold water.",
+    "Consider using a towel to rub it off but it depends on the wood type.",
+    "If it is smooth, the towel will work better than peeling it off.",
+    "Metal Use very hot water on the remains.",
+    "Let it set for about 3 minutes.",
+    "Get a towel and rub the remains off hard.",
+    "The harder you rub the remains, the more effective it will be.",
+    "Confirm that you are doing it correctly by checking if you get small rolls of sticker."
+  ],
+  "tyn_section":[
+    "Razor blade",
+    "Warm water",
+    "Hot water",
+    "Towel"
+  ],
+  "tyn_model":[
+    "water",
+    "towel",
+    "sponge",
+    "rubbing alcohol",
+    "razor blade",
+    "hot water"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6,
+    "avg_pos":0.6666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.6666666667,
+    "f1":0.8
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.6666666667,
+    "f1":0.8
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6
+  }
+}

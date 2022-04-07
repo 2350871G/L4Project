@@ -1,0 +1,134 @@
+{
+  "title":"How to Reuse an Old Candle",
+  "url":"https://www.wikihow.com/Reuse-an-Old-Candle",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Lighting",
+    "Candles"
+  ],
+  "steps":[
+    {
+      "headline":"Take out the candle you'd like to reuse.",
+      "description":""
+    },
+    {
+      "headline":"Plug the candle warmer in the socket and turn it on.",
+      "description":""
+    },
+    {
+      "headline":"Place the candle in a jar, if it's  not already in one.",
+      "description":""
+    },
+    {
+      "headline":"Put the candle on the candle warmer hot plate.",
+      "description":"Exercise caution while working with the hot plate."
+    },
+    {
+      "headline":"Allow time for the old candle to completely melt.",
+      "description":""
+    },
+    {
+      "headline":"Dip the new wick into the melted wax.",
+      "description":"Be careful while doing this, as you can easily burn yourself."
+    },
+    {
+      "headline":"Give it a few minutes to dry.",
+      "description":"It should do this relatively quickly."
+    },
+    {
+      "headline":"Dip the wick again in the melted wax.",
+      "description":""
+    },
+    {
+      "headline":"Let it dry for a few minutes.",
+      "description":"Make sure the wick is well coated."
+    },
+    {
+      "headline":"Place the wick into the empty jar.",
+      "description":"You should wash your hands after this, because your hands are probably covered in wax."
+    },
+    {
+      "headline":"Pour the wax into the jar with the wick.",
+      "description":"Make sure the jar doesn't overflow, because this can create a big mess. The melted wax will still be hot, so don't burn yourself. It's a good idea to use oven mitts for this part."
+    },
+    {
+      "headline":"Take the wick out of the jar carefully.",
+      "description":""
+    },
+    {
+      "headline":"Allow to dry and harden.",
+      "description":"This could take up to a day, depending on the temperature. For immediate drying, place it in the sun outside."
+    },
+    {
+      "headline":"Place it in a safe area",
+      "description":""
+    },
+    {
+      "headline":"Take a lighter, light the candle, and enjoy its fragrance.",
+      "description":""
+    }
+  ],
+  "text":" Take out the candle you'd like to reuse.  Plug the candle warmer in the socket and turn it on.  Place the candle in a jar, if it's  not already in one.  Put the candle on the candle warmer hot plate. Exercise caution while working with the hot plate. Allow time for the old candle to completely melt.  Dip the new wick into the melted wax. Be careful while doing this, as you can easily burn yourself. Give it a few minutes to dry. It should do this relatively quickly. Dip the wick again in the melted wax.  Let it dry for a few minutes. Make sure the wick is well coated. Place the wick into the empty jar. You should wash your hands after this, because your hands are probably covered in wax. Pour the wax into the jar with the wick. Make sure the jar doesn't overflow, because this can create a big mess. The melted wax will still be hot, so don't burn yourself. It's a good idea to use oven mitts for this part. Take the wick out of the jar carefully.  Allow to dry and harden. This could take up to a day, depending on the temperature. For immediate drying, place it in the sun outside. Place it in a safe area  Take a lighter, light the candle, and enjoy its fragrance. ",
+  "sentences":[
+    " Take out the candle you'd like to reuse.",
+    "Plug the candle warmer in the socket and turn it on.",
+    "Place the candle in a jar, if it's  not already in one.",
+    "Put the candle on the candle warmer hot plate.",
+    "Exercise caution while working with the hot plate.",
+    "Allow time for the old candle to completely melt.",
+    "Dip the new wick into the melted wax.",
+    "Be careful while doing this, as you can easily burn yourself.",
+    "Give it a few minutes to dry.",
+    "It should do this relatively quickly.",
+    "Dip the wick again in the melted wax.",
+    "Let it dry for a few minutes.",
+    "Make sure the wick is well coated.",
+    "Place the wick into the empty jar.",
+    "You should wash your hands after this, because your hands are probably covered in wax.",
+    "Pour the wax into the jar with the wick.",
+    "Make sure the jar doesn't overflow, because this can create a big mess.",
+    "The melted wax will still be hot, so don't burn yourself.",
+    "It's a good idea to use oven mitts for this part.",
+    "Take the wick out of the jar carefully.",
+    "Allow to dry and harden.",
+    "This could take up to a day, depending on the temperature.",
+    "For immediate drying, place it in the sun outside.",
+    "Place it in a safe area  Take a lighter, light the candle, and enjoy its fragrance."
+  ],
+  "tyn_section":[
+    "An old candle (the one you want to make like new)",
+    "2 jars, if the old candle is not already in one",
+    "A pack of candle wicks",
+    "A candle warmer"
+  ],
+  "tyn_model":[
+    "wax",
+    "jar",
+    "candle",
+    "candle warmer",
+    "hot plate",
+    "oven mitts",
+    "lighter"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1428571429,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.2857142857,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1428571429,
+    "f1":0.1818181818
+  }
+}

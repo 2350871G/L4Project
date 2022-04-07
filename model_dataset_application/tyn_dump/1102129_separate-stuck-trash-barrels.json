@@ -1,0 +1,104 @@
+{
+  "title":"How to Separate Stuck Trash Barrels",
+  "url":"https://www.wikihow.com/Separate-Stuck-Trash-Barrels",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Household Waste Disposal"
+  ],
+  "steps":[
+    {
+      "headline":"With a garden hose on low, attempt to fill the bottom garbage can with water.",
+      "description":"Since water can't be compressed it will uniformly lift the top garbage so you can remove it."
+    },
+    {
+      "headline":"If that doesn't work, obtain some heavy duty dish washing soap.",
+      "description":""
+    },
+    {
+      "headline":"Put some water in a spray bottle or other convenient dispenser.",
+      "description":""
+    },
+    {
+      "headline":"Stand the stuck trash barrels upright, so the opening is at the top.",
+      "description":""
+    },
+    {
+      "headline":"Empty the top trash barrel of any trash or extraneous items.",
+      "description":""
+    },
+    {
+      "headline":"Spray/pour the water all around the lip of the second trash barrel, between where the barrels are stuck together.",
+      "description":"Try to flex the barrels apart from each other a bit to let the water get in between them."
+    },
+    {
+      "headline":"Repeat essentially the same process with the dish soap.",
+      "description":"Pour a copious amount around the edge where the barrels meet, flexing to allow it to get between the barrels. It should mix and form suds with the water. As a bonus your barrels will get cleaned by this process."
+    },
+    {
+      "headline":"Apply more water as above for extra suds.",
+      "description":""
+    },
+    {
+      "headline":"Hold the bottom barrel in place and wiggle the top barrel around to allow the suds to get farther between the barrels.",
+      "description":""
+    },
+    {
+      "headline":"Try to lift the top barrel out while holding the bottom barrel down.",
+      "description":"With enough soap penetration the top barrel should slide out easily. If not, apply more soap and water as above and try again."
+    }
+  ],
+  "text":" With a garden hose on low, attempt to fill the bottom garbage can with water. Since water can't be compressed it will uniformly lift the top garbage so you can remove it. If that doesn't work, obtain some heavy duty dish washing soap.  Put some water in a spray bottle or other convenient dispenser.  Stand the stuck trash barrels upright, so the opening is at the top.  Empty the top trash barrel of any trash or extraneous items.  Spray/pour the water all around the lip of the second trash barrel, between where the barrels are stuck together. Try to flex the barrels apart from each other a bit to let the water get in between them. Repeat essentially the same process with the dish soap. Pour a copious amount around the edge where the barrels meet, flexing to allow it to get between the barrels. It should mix and form suds with the water. As a bonus your barrels will get cleaned by this process. Apply more water as above for extra suds.  Hold the bottom barrel in place and wiggle the top barrel around to allow the suds to get farther between the barrels.  Try to lift the top barrel out while holding the bottom barrel down. With enough soap penetration the top barrel should slide out easily. If not, apply more soap and water as above and try again.",
+  "sentences":[
+    " With a garden hose on low, attempt to fill the bottom garbage can with water.",
+    "Since water can't be compressed it will uniformly lift the top garbage so you can remove it.",
+    "If that doesn't work, obtain some heavy duty dish washing soap.",
+    "Put some water in a spray bottle or other convenient dispenser.",
+    "Stand the stuck trash barrels upright, so the opening is at the top.",
+    "Empty the top trash barrel of any trash or extraneous items.",
+    "Spray/pour the water all around the lip of the second trash barrel, between where the barrels are stuck together.",
+    "Try to flex the barrels apart from each other a bit to let the water get in between them.",
+    "Repeat essentially the same process with the dish soap.",
+    "Pour a copious amount around the edge where the barrels meet, flexing to allow it to get between the barrels.",
+    "It should mix and form suds with the water.",
+    "As a bonus your barrels will get cleaned by this process.",
+    "Apply more water as above for extra suds.",
+    "Hold the bottom barrel in place and wiggle the top barrel around to allow the suds to get farther between the barrels.",
+    "Try to lift the top barrel out while holding the bottom barrel down.",
+    "With enough soap penetration the top barrel should slide out easily.",
+    "If not, apply more soap and water as above and try again."
+  ],
+  "tyn_section":[
+    "Garden hose",
+    "Heavy duty dish soap."
+  ],
+  "tyn_model":[
+    "water",
+    "soap",
+    "garden hose",
+    "heavy duty dish washing soap",
+    "spray bottle",
+    "dish soap"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25,
+    "avg_pos":0.3333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  }
+}

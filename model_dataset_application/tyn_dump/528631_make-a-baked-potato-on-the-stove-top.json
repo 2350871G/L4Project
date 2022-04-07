@@ -1,0 +1,86 @@
+{
+  "title":"How to Make a Baked Potato on the Stove Top",
+  "url":"https://www.wikihow.com/Make-a-Baked-Potato-on-the-Stove-Top",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Potato Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Clean out an old coffee can and the lid of a jar.",
+      "description":""
+    },
+    {
+      "headline":"Place the jar lid on the base of the coffee can.",
+      "description":""
+    },
+    {
+      "headline":"Rest the potato on the jar lid.",
+      "description":""
+    },
+    {
+      "headline":"Cover the coffee can.",
+      "description":""
+    },
+    {
+      "headline":"Place on a very low flame or heat setting on the stove.",
+      "description":""
+    },
+    {
+      "headline":"Leave to cook for 20 minutes.",
+      "description":"Check regularly to avoid burning. After the time for cooking is up, you should have a delicious \"baked\" potato."
+    },
+    {
+      "headline":"Serve.",
+      "description":"Add a filling and a salad and you have a complete meal."
+    }
+  ],
+  "text":" Clean out an old coffee can and the lid of a jar.  Place the jar lid on the base of the coffee can.  Rest the potato on the jar lid.  Cover the coffee can.  Place on a very low flame or heat setting on the stove.  Leave to cook for 20 minutes. Check regularly to avoid burning. After the time for cooking is up, you should have a delicious \"baked\" potato. Serve. Add a filling and a salad and you have a complete meal.",
+  "sentences":[
+    " Clean out an old coffee can and the lid of a jar.",
+    "Place the jar lid on the base of the coffee can.",
+    "Rest the potato on the jar lid.",
+    "Cover the coffee can.",
+    "Place on a very low flame or heat setting on the stove.",
+    "Leave to cook for 20 minutes.",
+    "Check regularly to avoid burning.",
+    "After the time for cooking is up, you should have a delicious \"baked\" potato.",
+    "Serve.",
+    "Add a filling and a salad and you have a complete meal."
+  ],
+  "tyn_section":[
+    "Coffee can",
+    "Jar lid",
+    "Stove top (gas or electric hobs)"
+  ],
+  "tyn_model":[
+    "coffee can",
+    "potato",
+    "jar",
+    "stove",
+    "salad"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title":"How to Make a Platform Game in Game Maker",
+  "url":"https://www.wikihow.com/Make-a-Platform-Game-in-Game-Maker",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "steps":[
+    {
+      "headline":"Make a simple block sprite for your wall.",
+      "description":"Also make a sprite for your player. For the wall call it spr_wall and the player spr_player"
+    },
+    {
+      "headline":"Make an object called obj_wall and check the solid box.",
+      "description":""
+    },
+    {
+      "headline":"Make sure you select the wall sprite.",
+      "description":""
+    },
+    {
+      "headline":"Make an object and call it obj_player.",
+      "description":""
+    },
+    {
+      "headline":"Make sure you select your player sprite.",
+      "description":""
+    },
+    {
+      "headline":"For obj_player: go to add event and click Step then Step again.",
+      "description":"Then go to the control tab, and drag and drop the 'execute code' action."
+    },
+    {
+      "headline":"Now in the code box put in// simple Platforming code!//if place_free(x,y+1){gravity = 0.7gravity_direction = 270}else{gravity=0gravity_direction = 270}//the arrow keys<,>,^if place_free(x-4,y)and keyboard_check(vk_left){x-=4}if place_free(x+4,y)and keyboard_check(vk_right){x+=4}if !place_free(x,y+1)and keyboard_check(vk_up){vspeed=-10}",
+      "description":""
+    },
+    {
+      "headline":"Just copy and paste.",
+      "description":""
+    },
+    {
+      "headline":"For obj_player: Go to add event, then Collision, then with obj_wall.",
+      "description":""
+    },
+    {
+      "headline":"Put in this code (go to the control tab and drag and drop 'execute code':move_contact_solid(direction,12);vspeed=0;",
+      "description":""
+    },
+    {
+      "headline":"Make a room, call it room_1, make a level design by clicking with the selected object and save the room (click the tick at the top.)",
+      "description":""
+    },
+    {
+      "headline":"Run the game!",
+      "description":""
+    }
+  ],
+  "text":" Make a simple block sprite for your wall. Also make a sprite for your player. For the wall call it spr_wall and the player spr_player Make an object called obj_wall and check the solid box.  Make sure you select the wall sprite.  Make an object and call it obj_player.  Make sure you select your player sprite.  For obj_player: go to add event and click Step then Step again. Then go to the control tab, and drag and drop the 'execute code' action. Now in the code box put in// simple Platforming code!//if place_free(x,y+1){gravity = 0.7gravity_direction = 270}else{gravity=0gravity_direction = 270}//the arrow keys<,>,^if place_free(x-4,y)and keyboard_check(vk_left){x-=4}if place_free(x+4,y)and keyboard_check(vk_right){x+=4}if !place_free(x,y+1)and keyboard_check(vk_up){vspeed=-10}  Just copy and paste.  For obj_player: Go to add event, then Collision, then with obj_wall.  Put in this code (go to the control tab and drag and drop 'execute code':move_contact_solid(direction,12);vspeed=0;  Make a room, call it room_1, make a level design by clicking with the selected object and save the room (click the tick at the top.)  Run the game! ",
+  "sentences":[
+    " Make a simple block sprite for your wall.",
+    "Also make a sprite for your player.",
+    "For the wall call it spr_wall and the player spr_player Make an object called obj_wall and check the solid box.",
+    "Make sure you select the wall sprite.",
+    "Make an object and call it obj_player.",
+    "Make sure you select your player sprite.",
+    "For obj_player: go to add event and click Step then Step again.",
+    "Then go to the control tab, and drag and drop the 'execute code' action.",
+    "Now in the code box put in// simple Platforming code!//if place_free(x,y+1){gravity = 0.7gravity_direction = 270}else{gravity=0gravity_direction = 270}//the arrow keys<,>,^if place_free(x-4,y)and keyboard_check(vk_left){x-=4}if place_free(x+4,y)and keyboard_check(vk_right){x+=4}if !place_free(x,y+1)and keyboard_check(vk_up){vspeed=-10}  Just copy and paste.",
+    "For obj_player: Go to add event, then Collision, then with obj_wall.",
+    "Put in this code (go to the control tab and drag and drop 'execute code':move_contact_solid(direction,12);vspeed=0;  Make a room, call it room_1, make a level design by clicking with the selected object and save the room (click the tick at the top.)",
+    "Run the game!"
+  ],
+  "tyn_section":[
+    "GameMaker of course! This tutorial uses GM:S Professional, but Standard is also good. You'll also need a bit of experience in GML first before doing this tutorial."
+  ],
+  "tyn_model":[
+
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0,
+    "f1":0
+  }
+}

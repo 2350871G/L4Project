@@ -1,0 +1,92 @@
+{
+  "title":"How to Make Beetroot Salad",
+  "url":"https://www.wikihow.com/Make-Beetroot-Salad",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Salads"
+  ],
+  "steps":[
+    {
+      "headline":"Wash the apple, beetroot and carrot(s).",
+      "description":""
+    },
+    {
+      "headline":"Set the grater on the chopping board.",
+      "description":""
+    },
+    {
+      "headline":"Cut the fruit into halves, using the knife.",
+      "description":"Do not cut smaller than quarters."
+    },
+    {
+      "headline":"Grate the apple.",
+      "description":"Stop once you reach the core."
+    },
+    {
+      "headline":"Put the grated apple in the bowl.",
+      "description":""
+    },
+    {
+      "headline":"Grate the carrot and beetroot.",
+      "description":""
+    },
+    {
+      "headline":"Mix them in with the grated apple.",
+      "description":""
+    },
+    {
+      "headline":"Serve and enjoy!",
+      "description":""
+    }
+  ],
+  "text":" Wash the apple, beetroot and carrot(s).  Set the grater on the chopping board.  Cut the fruit into halves, using the knife. Do not cut smaller than quarters. Grate the apple. Stop once you reach the core. Put the grated apple in the bowl.  Grate the carrot and beetroot.  Mix them in with the grated apple.  Serve and enjoy! ",
+  "sentences":[
+    " Wash the apple, beetroot and carrot(s).",
+    "Set the grater on the chopping board.",
+    "Cut the fruit into halves, using the knife.",
+    "Do not cut smaller than quarters.",
+    "Grate the apple.",
+    "Stop once you reach the core.",
+    "Put the grated apple in the bowl.",
+    "Grate the carrot and beetroot.",
+    "Mix them in with the grated apple.",
+    "Serve and enjoy!"
+  ],
+  "tyn_section":[
+    "Chopping board",
+    "Knife",
+    "A Bowl",
+    "A Grater"
+  ],
+  "tyn_model":[
+    "apple",
+    "beetroot",
+    "grater",
+    "chopping board",
+    "knife",
+    "bowl",
+    "carrot"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636,
+    "avg_pos":0.4285714286
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.5714285714,
+    "f1":0.7272727273
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5714285714,
+    "f1":0.7272727273
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636
+  }
+}

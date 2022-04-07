@@ -1,0 +1,94 @@
+{
+  "title":"How to Make Stick Candy",
+  "url":"https://www.wikihow.com/Make-Stick-Candy",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy",
+    "Sugar Treats"
+  ],
+  "steps":[
+    {
+      "headline":"Boil all the ingredients except for the flavoring and soda.",
+      "description":"Do not stir. Boil until crisp when a ball of the mixture is dropped in water."
+    },
+    {
+      "headline":"Add the soda.",
+      "description":""
+    },
+    {
+      "headline":"Pour onto lined or greased cookie sheets to cool.",
+      "description":""
+    },
+    {
+      "headline":"Pour the flavoring over the top.",
+      "description":""
+    },
+    {
+      "headline":"Allow mixture to cool.",
+      "description":""
+    },
+    {
+      "headline":"Begin shaping.",
+      "description":"Once partly cool, pull the mixture until it becomes very white."
+    },
+    {
+      "headline":"Draw it into stick shapes the size you wish and cut off excess with kitchen scissors.",
+      "description":""
+    },
+    {
+      "headline":"Allow to cool completely.",
+      "description":"Store in an air-tight container."
+    }
+  ],
+  "text":" Boil all the ingredients except for the flavoring and soda. Do not stir. Boil until crisp when a ball of the mixture is dropped in water. Add the soda.  Pour onto lined or greased cookie sheets to cool.  Pour the flavoring over the top.  Allow mixture to cool.  Begin shaping. Once partly cool, pull the mixture until it becomes very white. Draw it into stick shapes the size you wish and cut off excess with kitchen scissors.  Allow to cool completely. Store in an air-tight container.",
+  "sentences":[
+    " Boil all the ingredients except for the flavoring and soda.",
+    "Do not stir.",
+    "Boil until crisp when a ball of the mixture is dropped in water.",
+    "Add the soda.",
+    "Pour onto lined or greased cookie sheets to cool.",
+    "Pour the flavoring over the top.",
+    "Allow mixture to cool.",
+    "Begin shaping.",
+    "Once partly cool, pull the mixture until it becomes very white.",
+    "Draw it into stick shapes the size you wish and cut off excess with kitchen scissors.",
+    "Allow to cool completely.",
+    "Store in an air-tight container."
+  ],
+  "tyn_section":[
+    "Saucepan",
+    "Cookie sheets/trays",
+    "Baking paper",
+    "Kitchen scissors",
+    "Air-tight container for storage"
+  ],
+  "tyn_model":[
+    "soda",
+    "water",
+    "cookie sheets",
+    "kitchen scissors",
+    "air-tight container"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.4,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.6,
+    "f1":0.6
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2
+  }
+}

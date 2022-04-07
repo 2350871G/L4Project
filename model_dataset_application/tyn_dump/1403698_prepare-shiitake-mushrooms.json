@@ -1,0 +1,111 @@
+{
+  "title":"How to Prepare Shiitake Mushrooms",
+  "url":"https://www.wikihow.com/Prepare-Shiitake-Mushrooms",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Mushrooms"
+  ],
+  "steps":[
+    {
+      "headline":"Select your shiitake mushrooms from the produce section of your local grocery store.",
+      "description":""
+    },
+    {
+      "headline":"Wash your mushrooms thoroughly but gently.",
+      "description":""
+    },
+    {
+      "headline":"Remove any tough spots on the stems, or the entire stem, when preparing shiitake mushrooms.",
+      "description":"If the stems are tender, you don't have to cut them away. They can be used along with the caps of the mushrooms for added flavor."
+    },
+    {
+      "headline":"Dry your shiitake mushrooms by blotting them with paper towel or a clean kitchen towel.",
+      "description":""
+    },
+    {
+      "headline":"Cut your shitake mushrooms as desired using a sharp kitchen knife.",
+      "description":"Depending on the recipe and the method you decide to use in shiitake mushroom preparation, you can slice them, chop them into pieces, or even use them whole. Slices go well for side dishes, while smaller pieces are best in soups, stuffings or sauces."
+    },
+    {
+      "headline":"Gather other ingredients you might need for preparing your shiitake mushrooms, including butter, oil and herbs and spices.",
+      "description":""
+    },
+    {
+      "headline":"Select the desired method of cooking your shiitake mushrooms.",
+      "description":"You can grill them by brushing them with olive oil and putting them on the grill for about 5 to 10 minutes. Saut\u00e9 them with butter, salt and pepper for 4 to 5 minutes in a hot skillet. Try roasting them sliced or whole in the oven for about 15 minutes after basting them with oil. If you plan to prepare shiitake mushrooms by using them in a recipe such as stuffed mushroom caps, mushroom stuffing, or mushroom gravy, closely follow the recipe of your choice."
+    },
+    {
+      "headline":"Serve your prepared shiitake mushrooms.",
+      "description":""
+    }
+  ],
+  "text":" Select your shiitake mushrooms from the produce section of your local grocery store.  Wash your mushrooms thoroughly but gently.  Remove any tough spots on the stems, or the entire stem, when preparing shiitake mushrooms. If the stems are tender, you don't have to cut them away. They can be used along with the caps of the mushrooms for added flavor. Dry your shiitake mushrooms by blotting them with paper towel or a clean kitchen towel.  Cut your shitake mushrooms as desired using a sharp kitchen knife. Depending on the recipe and the method you decide to use in shiitake mushroom preparation, you can slice them, chop them into pieces, or even use them whole. Slices go well for side dishes, while smaller pieces are best in soups, stuffings or sauces. Gather other ingredients you might need for preparing your shiitake mushrooms, including butter, oil and herbs and spices.  Select the desired method of cooking your shiitake mushrooms. You can grill them by brushing them with olive oil and putting them on the grill for about 5 to 10 minutes. Saut\u00e9 them with butter, salt and pepper for 4 to 5 minutes in a hot skillet. Try roasting them sliced or whole in the oven for about 15 minutes after basting them with oil. If you plan to prepare shiitake mushrooms by using them in a recipe such as stuffed mushroom caps, mushroom stuffing, or mushroom gravy, closely follow the recipe of your choice. Serve your prepared shiitake mushrooms. ",
+  "sentences":[
+    " Select your shiitake mushrooms from the produce section of your local grocery store.",
+    "Wash your mushrooms thoroughly but gently.",
+    "Remove any tough spots on the stems, or the entire stem, when preparing shiitake mushrooms.",
+    "If the stems are tender, you don't have to cut them away.",
+    "They can be used along with the caps of the mushrooms for added flavor.",
+    "Dry your shiitake mushrooms by blotting them with paper towel or a clean kitchen towel.",
+    "Cut your shitake mushrooms as desired using a sharp kitchen knife.",
+    "Depending on the recipe and the method you decide to use in shiitake mushroom preparation, you can slice them, chop them into pieces, or even use them whole.",
+    "Slices go well for side dishes, while smaller pieces are best in soups, stuffings or sauces.",
+    "Gather other ingredients you might need for preparing your shiitake mushrooms, including butter, oil and herbs and spices.",
+    "Select the desired method of cooking your shiitake mushrooms.",
+    "You can grill them by brushing them with olive oil and putting them on the grill for about 5 to 10 minutes.",
+    "Saut\u00e9 them with butter, salt and pepper for 4 to 5 minutes in a hot skillet.",
+    "Try roasting them sliced or whole in the oven for about 15 minutes after basting them with oil.",
+    "If you plan to prepare shiitake mushrooms by using them in a recipe such as stuffed mushroom caps, mushroom stuffing, or mushroom gravy, closely follow the recipe of your choice.",
+    "Serve your prepared shiitake mushrooms."
+  ],
+  "tyn_section":[
+    "Shiitake mushrooms",
+    "Paper towel or kitchen towel",
+    "Knife",
+    "Desired herbs and spices",
+    "Salt and pepper",
+    "Butter or oil"
+  ],
+  "tyn_model":[
+    "shiitake mushrooms",
+    "mushrooms",
+    "butter",
+    "oil",
+    "paper towel",
+    "shitake mushrooms",
+    "herbs",
+    "spices",
+    "olive oil",
+    "grill",
+    "salt",
+    "pepper",
+    "skillet",
+    "oven",
+    "mushroom caps",
+    "mushroom stuffing",
+    "mushroom gravy"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0588235294,
+    "f1":0.0869565217,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1764705882,
+    "f1":0.2307692308
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.4705882353,
+    "f1":0.5517241379
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.0588235294,
+    "f1":0.0869565217
+  }
+}

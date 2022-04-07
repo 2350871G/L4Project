@@ -1,0 +1,78 @@
+{
+  "title":"How to Make Dried Bananas in the Microwave",
+  "url":"https://www.wikihow.com/Make-Dried-Bananas-in-the-Microwave",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets",
+    "Fruit Desserts"
+  ],
+  "steps":[
+    {
+      "headline":"Peel the banana(s).",
+      "description":"Slice each banana in \u20442 centimeter (0.2 in) - 1 centimeter (0.4 in) slices."
+    },
+    {
+      "headline":"Arrange the slices on a microwave roasting rack or plate stacker.",
+      "description":"You may also use any microwavable container."
+    },
+    {
+      "headline":"Microwave on the defrost mode for 10 to 15 minutes, or until slightly sticky to touch.",
+      "description":"If you smell burning a few minutes into microwaving them, remove them and make sure it's in defrost next time."
+    },
+    {
+      "headline":"Remove from the microwave.",
+      "description":"Transfer the slices to a wire cake rack."
+    },
+    {
+      "headline":"Allow to stand overnight.",
+      "description":""
+    }
+  ],
+  "text":" Peel the banana(s). Slice each banana in \u20442 centimeter (0.2 in) - 1 centimeter (0.4 in) slices. Arrange the slices on a microwave roasting rack or plate stacker. You may also use any microwavable container. Microwave on the defrost mode for 10 to 15 minutes, or until slightly sticky to touch. If you smell burning a few minutes into microwaving them, remove them and make sure it's in defrost next time. Remove from the microwave. Transfer the slices to a wire cake rack. Allow to stand overnight. ",
+  "sentences":[
+    " Peel the banana(s).",
+    "Slice each banana in \u20442 centimeter (0.2 in) - 1 centimeter (0.4 in) slices.",
+    "Arrange the slices on a microwave roasting rack or plate stacker.",
+    "You may also use any microwavable container.",
+    "Microwave on the defrost mode for 10 to 15 minutes, or until slightly sticky to touch.",
+    "If you smell burning a few minutes into microwaving them, remove them and make sure it's in defrost next time.",
+    "Remove from the microwave.",
+    "Transfer the slices to a wire cake rack.",
+    "Allow to stand overnight."
+  ],
+  "tyn_section":[
+    "Microwave",
+    "Knife and cutting board",
+    "Microwave roasting rack or plate stacker",
+    "Wire cake rack for cooling",
+    "Airtight container and baking paper for lining"
+  ],
+  "tyn_model":[
+    "microwave",
+    "banana",
+    "microwave roasting rack",
+    "plate stacker"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.25,
+    "f1":0.2222222222,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.5,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.75,
+    "f1":0.5217391304
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.25,
+    "f1":0.2222222222
+  }
+}

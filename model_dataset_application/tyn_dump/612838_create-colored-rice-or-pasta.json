@@ -1,0 +1,145 @@
+{
+  "title":"How to Create Colored Rice or Pasta",
+  "url":"https://www.wikihow.com/Create-Colored-Rice-or-Pasta",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Craft for Kids",
+    "Food Crafts"
+  ],
+  "methods":[
+    {
+      "name":"Using Water and Food Coloring",
+      "steps":[
+        {
+          "headline":"Measure a teaspoon of water in a sandwich bag.",
+          "description":""
+        },
+        {
+          "headline":"Carefully drop the food coloring into the water.",
+          "description":""
+        },
+        {
+          "headline":"Add the rice or pasta into the bag.",
+          "description":""
+        },
+        {
+          "headline":"Zip the bag or securely tie it.",
+          "description":"Shake and \"mush\" the rice or pasta into the food coloring water. Make sure that everything gets mixed in."
+        },
+        {
+          "headline":"Shake it on a wax paper lined baking sheet.",
+          "description":"You may use a paper plate instead of a baking sheet. Spread the rice or pasta around to avoid clumps."
+        },
+        {
+          "headline":"Let the mixture dry for 30 minutes before using.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Using Vinegar or Hand Sanitizer",
+      "steps":[
+        {
+          "headline":"Place 2 tablespoons of vinegar or hand sanitizer into a small resealable bag.",
+          "description":""
+        },
+        {
+          "headline":"Add as many drops of food coloring as you want.",
+          "description":""
+        },
+        {
+          "headline":"Add the rice or pasta.",
+          "description":""
+        },
+        {
+          "headline":"Seal the bag.",
+          "description":"Massage it for a bit."
+        },
+        {
+          "headline":"Place the bag on a plate or baking tray lined with wax paper or paper towels.",
+          "description":""
+        },
+        {
+          "headline":"Leave to dry for at least 2 hours or overnight.",
+          "description":"Once dried, use for craft or art projects."
+        }
+      ]
+    }
+  ],
+  "text":" Using Water and Food Coloring Measure a teaspoon of water in a sandwich bag.  Carefully drop the food coloring into the water.  Add the rice or pasta into the bag.  Zip the bag or securely tie it. Shake and \"mush\" the rice or pasta into the food coloring water. Make sure that everything gets mixed in. Shake it on a wax paper lined baking sheet. You may use a paper plate instead of a baking sheet. Spread the rice or pasta around to avoid clumps. Let the mixture dry for 30 minutes before using.  Using Vinegar or Hand Sanitizer Place 2 tablespoons of vinegar or hand sanitizer into a small resealable bag.  Add as many drops of food coloring as you want.  Add the rice or pasta.  Seal the bag. Massage it for a bit. Place the bag on a plate or baking tray lined with wax paper or paper towels.  Leave to dry for at least 2 hours or overnight. Once dried, use for craft or art projects.",
+  "sentences":[
+    " Using Water and Food Coloring Measure a teaspoon of water in a sandwich bag.",
+    "Carefully drop the food coloring into the water.",
+    "Add the rice or pasta into the bag.",
+    "Zip the bag or securely tie it.",
+    "Shake and \"mush\" the rice or pasta into the food coloring water.",
+    "Make sure that everything gets mixed in.",
+    "Shake it on a wax paper lined baking sheet.",
+    "You may use a paper plate instead of a baking sheet.",
+    "Spread the rice or pasta around to avoid clumps.",
+    "Let the mixture dry for 30 minutes before using.",
+    "Using Vinegar or Hand Sanitizer Place 2 tablespoons of vinegar or hand sanitizer into a small resealable bag.",
+    "Add as many drops of food coloring as you want.",
+    "Add the rice or pasta.",
+    "Seal the bag.",
+    "Massage it for a bit.",
+    "Place the bag on a plate or baking tray lined with wax paper or paper towels.",
+    "Leave to dry for at least 2 hours or overnight.",
+    "Once dried, use for craft or art projects."
+  ],
+  "tyn_section":[
+    "Method one",
+    "1/2 cup uncooked white rice or macaroni pasta",
+    "4 to 6 drops of food coloring, will need more for yellow pasta",
+    "Wax paper",
+    "Baking sheet or paper plate",
+    "1 teaspoon of water",
+    "Sandwich baggies",
+    "Method two:",
+    "Vinegar or hand sanitizer",
+    "Rice or pasta (uncooked)",
+    "Food coloring",
+    "Resealable bag",
+    "Wax paper or paper towels",
+    "Baking sheet or plate"
+  ],
+  "tyn_model":[
+    "water",
+    "food coloring",
+    "sandwich bag",
+    "food coloring water",
+    "wax paper lined baking sheet",
+    "paper plate",
+    "baking sheet",
+    "vinegar or",
+    "vinegar",
+    "hand sanitizer",
+    "resealable bag",
+    "plate",
+    "baking tray",
+    "wax paper",
+    "paper towels"
+  ],
+  "simple_metrics":{
+    "r":0.2142857143,
+    "p":0.2,
+    "f1":0.2068965517,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4285714286,
+    "p":0.5333333333,
+    "f1":0.4752475248
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5714285714,
+    "p":0.7333333333,
+    "f1":0.6423357664
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2142857143,
+    "p":0.2666666667,
+    "f1":0.2376237624
+  }
+}

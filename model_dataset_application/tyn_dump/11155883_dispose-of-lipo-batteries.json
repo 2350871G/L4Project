@@ -1,0 +1,227 @@
+{
+  "title":"How to Dispose of Lipo Batteries",
+  "url":"https://www.wikihow.com/Dispose-of-Lipo-Batteries",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Household Waste Disposal"
+  ],
+  "methods":[
+    {
+      "name":"Disposing of your LiPo batteries",
+      "steps":[
+        {
+          "headline":"Place your LiPo battery outdoors in a fireproof container.",
+          "description":"Do this before taking any further action.This container could be an ammo box, LiPo safety bag, or even a bucket of sand or cat litter. Keep the container far away from flammable surfaces like wood or carpet. Ceramic and concrete are safe surfaces to place the container on."
+        },
+        {
+          "headline":"Take special precautions with damaged batteries.",
+          "description":"Damaged, defective, or recalled batteries (DDR) are particularly dangerous, especially in the case of LiPo batteries. While many hobbyists believe that LiPo batteries that are swollen or puffed from overcharging are safe for home discharging, you should do so at your own risk, as swelling is technically a form of damage. If your battery is leaking, corroded, punctured, or burned, you need to take immediate action. First, see whether a Household Hazardous Waste (HHW) service is available near you. Call the HHW facility to discuss the situation. Contact Customer Service at Call2Recycle.org to see whether they can handle the damaged battery for you or offer another solution. Transporting and shipping DDR batteries is dangerous and illegal in most containers. If you will need to take that step, you may need to purchase a battery safe."
+        },
+        {
+          "headline":"Consider using a professional battery disposal service.",
+          "description":"Professionals may be able to discharge and dispose of unusable or swollen LiPo batteries. This is the easiest option, and the one you should use if you are afraid of the risks of LiPo battery combustion. Leaving the task to professionals can be the best method, especially if you are new to LiPo batteries. If you choose to use a professional disposal service, make sure that they know the battery needs to be discharged. Disposing of charged LiPo batteries is very hazardous."
+        },
+        {
+          "headline":"Call RC hobby shops to see whether they can handle battery disposal.",
+          "description":"Hobby shop employees can be experts in discharging and disposing LiPo batteries. Electronics stores may also be able to help. While stores will carry a fee for their services, this option can give you peace of mind."
+        },
+        {
+          "headline":"Find a battery recycling center.",
+          "description":"Call2Recycle.org is a great resource for finding centers and stores in the United States that can dispose of your discharged batteries safely. While some hobbyists claim that throwing discharged LiPo batteries into the trash is safe, recycling them professionally is always the best and safest option."
+        }
+      ]
+    },
+    {
+      "name":"Discharging with a LiPo Charger",
+      "steps":[
+        {
+          "headline":"Set your charger to the \u201cdischarge\u201d setting if it has one.",
+          "description":"Some LiPo chargers, especially computerized ones, have a discharge setting. Using it is by far the easiest method to discharge your LiPo battery. If you do, set a low current of .5A-1A. Be warned that, like other discharge methods, this can take a much longer time than charging would."
+        },
+        {
+          "headline":"Place the battery and charger into a fireproof container.",
+          "description":"This could be a LiPo safety bag or metal ammo box. If the battery is puffed, it is in a particularly dangerous state. LiPo batteries are more prone to combustion when overcharged or discharging, meaning this is a time to be extra careful. If possible, keep a fire extinguisher near your discharge station."
+        },
+        {
+          "headline":"Check to make sure the voltage is 0.0V before disposing of your battery.",
+          "description":"Some LiPo chargers do not discharge the battery below a minimum voltage because this would render the battery unusable. However, any disposed battery above 0V is still combustible. Sometimes, using the discharge setting on your charger is just not enough to reach 0V. In this case, you'll have to use another discharge method. Another great option is purchasing a commercial LiPo discharger. Just make sure that the discharger is produced to bring the battery voltage down to 0V."
+        }
+      ]
+    },
+    {
+      "name":"Building Your Own Light Bulb Discharger",
+      "steps":[
+        {
+          "headline":"Purchase materials for a simple DIY discharger.",
+          "description":"These include halogen light bulbs, wire, and heatshrink. For those who are handy, a homemade rig is a great thing to have on hand for safely discharging your LiPo batteries. While halogen light bulbs can get very hot, they are still recommended because LED bulbs slow down the process."
+        },
+        {
+          "headline":"Plug your soldering iron into a standard outlet.",
+          "description":"Make sure that the soldering tip is safely attached to the iron. Let the iron heat up. Soldering is a key part of making the discharger. When you solder two electronic components together, it binds the two with a metal alloy called solder. Solder is strong enough to forge a permanent connection between parts. In this method, you will be soldering a light bulb to 14 AWG wires, which will also be soldered to male connector that the LiPo battery can plug into. Be careful with soldering, as the iron can heat up to very high temperatures of up to 800 degrees Fahrenheit (427 degrees Celsius). Solder in a well-ventilated area and wear protective eyewear. Wash your hands carefully afterward."
+        },
+        {
+          "headline":"Fill the metal connector cups with solder once the iron is hot.",
+          "description":"Your male connector should have two small metal \"cups\" or indents. Use your soldering iron to fill these cups with solder. The XT60 male connector used in this project is loved by RC hobbyists. The connector is made of yellow nylon plastic and has two cylindrical brass connectors. The  solder cups on the connectors make electrical connections possible."
+        },
+        {
+          "headline":"Trim the 14 AWG electrical wire to around 3 to 6 in (8 to 15 cm).",
+          "description":"Electrical wire has two strands: one red and one black. You will need both of these strands to create this device."
+        },
+        {
+          "headline":"Solder the wires to the connector cups and shrink the wire ends.",
+          "description":"Solder the black wire to the negative cup and the red wire to the positive cup. It is important to take note of this or else the electrical current cannot pass through."
+        },
+        {
+          "headline":"Insert the light bulb prongs into the wire strands.",
+          "description":"Join the prongs and strands with solder. Be careful to ensure that the positive and negative wires aren\u2019t touching. If the light bulb burns out during this process, simply snip the wire ends with Lineman\u2019s pliers and solder on a new light bulb."
+        },
+        {
+          "headline":"Plug your battery into the discharger.",
+          "description":"While the battery is discharging, the bulb should light up. Then, when it is done discharging, the bulb should go out. The battery should have a charge of 0.0V."
+        },
+        {
+          "headline":"Follow all fire safety precautions for your discharge station.",
+          "description":"This includes using a fireproof container, choosing a safe spot outside, and having a fire extinguisher handy. Rest the rig on ceramic or concrete, not wood or carpet."
+        }
+      ]
+    }
+  ],
+  "text":" Disposing of your LiPo batteries Place your LiPo battery outdoors in a fireproof container. Do this before taking any further action.This container could be an ammo box, LiPo safety bag, or even a bucket of sand or cat litter. Keep the container far away from flammable surfaces like wood or carpet. Ceramic and concrete are safe surfaces to place the container on. Take special precautions with damaged batteries. Damaged, defective, or recalled batteries (DDR) are particularly dangerous, especially in the case of LiPo batteries. While many hobbyists believe that LiPo batteries that are swollen or puffed from overcharging are safe for home discharging, you should do so at your own risk, as swelling is technically a form of damage. If your battery is leaking, corroded, punctured, or burned, you need to take immediate action. First, see whether a Household Hazardous Waste (HHW) service is available near you. Call the HHW facility to discuss the situation. Contact Customer Service at Call2Recycle.org to see whether they can handle the damaged battery for you or offer another solution. Transporting and shipping DDR batteries is dangerous and illegal in most containers. If you will need to take that step, you may need to purchase a battery safe. Consider using a professional battery disposal service. Professionals may be able to discharge and dispose of unusable or swollen LiPo batteries. This is the easiest option, and the one you should use if you are afraid of the risks of LiPo battery combustion. Leaving the task to professionals can be the best method, especially if you are new to LiPo batteries. If you choose to use a professional disposal service, make sure that they know the battery needs to be discharged. Disposing of charged LiPo batteries is very hazardous. Call RC hobby shops to see whether they can handle battery disposal. Hobby shop employees can be experts in discharging and disposing LiPo batteries. Electronics stores may also be able to help. While stores will carry a fee for their services, this option can give you peace of mind. Find a battery recycling center. Call2Recycle.org is a great resource for finding centers and stores in the United States that can dispose of your discharged batteries safely. While some hobbyists claim that throwing discharged LiPo batteries into the trash is safe, recycling them professionally is always the best and safest option. Discharging with a LiPo Charger Set your charger to the \u201cdischarge\u201d setting if it has one. Some LiPo chargers, especially computerized ones, have a discharge setting. Using it is by far the easiest method to discharge your LiPo battery. If you do, set a low current of .5A-1A. Be warned that, like other discharge methods, this can take a much longer time than charging would. Place the battery and charger into a fireproof container. This could be a LiPo safety bag or metal ammo box. If the battery is puffed, it is in a particularly dangerous state. LiPo batteries are more prone to combustion when overcharged or discharging, meaning this is a time to be extra careful. If possible, keep a fire extinguisher near your discharge station. Check to make sure the voltage is 0.0V before disposing of your battery. Some LiPo chargers do not discharge the battery below a minimum voltage because this would render the battery unusable. However, any disposed battery above 0V is still combustible. Sometimes, using the discharge setting on your charger is just not enough to reach 0V. In this case, you'll have to use another discharge method. Another great option is purchasing a commercial LiPo discharger. Just make sure that the discharger is produced to bring the battery voltage down to 0V. Building Your Own Light Bulb Discharger Purchase materials for a simple DIY discharger. These include halogen light bulbs, wire, and heatshrink. For those who are handy, a homemade rig is a great thing to have on hand for safely discharging your LiPo batteries. While halogen light bulbs can get very hot, they are still recommended because LED bulbs slow down the process. Plug your soldering iron into a standard outlet. Make sure that the soldering tip is safely attached to the iron. Let the iron heat up. Soldering is a key part of making the discharger. When you solder two electronic components together, it binds the two with a metal alloy called solder. Solder is strong enough to forge a permanent connection between parts. In this method, you will be soldering a light bulb to 14 AWG wires, which will also be soldered to male connector that the LiPo battery can plug into. Be careful with soldering, as the iron can heat up to very high temperatures of up to 800 degrees Fahrenheit (427 degrees Celsius). Solder in a well-ventilated area and wear protective eyewear. Wash your hands carefully afterward. Fill the metal connector cups with solder once the iron is hot. Your male connector should have two small metal \"cups\" or indents. Use your soldering iron to fill these cups with solder. The XT60 male connector used in this project is loved by RC hobbyists. The connector is made of yellow nylon plastic and has two cylindrical brass connectors. The  solder cups on the connectors make electrical connections possible. Trim the 14 AWG electrical wire to around 3 to 6 in (8 to 15 cm). Electrical wire has two strands: one red and one black. You will need both of these strands to create this device. Solder the wires to the connector cups and shrink the wire ends. Solder the black wire to the negative cup and the red wire to the positive cup. It is important to take note of this or else the electrical current cannot pass through. Insert the light bulb prongs into the wire strands. Join the prongs and strands with solder. Be careful to ensure that the positive and negative wires aren\u2019t touching. If the light bulb burns out during this process, simply snip the wire ends with Lineman\u2019s pliers and solder on a new light bulb. Plug your battery into the discharger. While the battery is discharging, the bulb should light up. Then, when it is done discharging, the bulb should go out. The battery should have a charge of 0.0V. Follow all fire safety precautions for your discharge station. This includes using a fireproof container, choosing a safe spot outside, and having a fire extinguisher handy. Rest the rig on ceramic or concrete, not wood or carpet.",
+  "sentences":[
+    " Disposing of your LiPo batteries Place your LiPo battery outdoors in a fireproof container.",
+    "Do this before taking any further action.This container could be an ammo box, LiPo safety bag, or even a bucket of sand or cat litter.",
+    "Keep the container far away from flammable surfaces like wood or carpet.",
+    "Ceramic and concrete are safe surfaces to place the container on.",
+    "Take special precautions with damaged batteries.",
+    "Damaged, defective, or recalled batteries (DDR) are particularly dangerous, especially in the case of LiPo batteries.",
+    "While many hobbyists believe that LiPo batteries that are swollen or puffed from overcharging are safe for home discharging, you should do so at your own risk, as swelling is technically a form of damage.",
+    "If your battery is leaking, corroded, punctured, or burned, you need to take immediate action.",
+    "First, see whether a Household Hazardous Waste (HHW) service is available near you.",
+    "Call the HHW facility to discuss the situation.",
+    "Contact Customer Service at Call2Recycle.org to see whether they can handle the damaged battery for you or offer another solution.",
+    "Transporting and shipping DDR batteries is dangerous and illegal in most containers.",
+    "If you will need to take that step, you may need to purchase a battery safe.",
+    "Consider using a professional battery disposal service.",
+    "Professionals may be able to discharge and dispose of unusable or swollen LiPo batteries.",
+    "This is the easiest option, and the one you should use if you are afraid of the risks of LiPo battery combustion.",
+    "Leaving the task to professionals can be the best method, especially if you are new to LiPo batteries.",
+    "If you choose to use a professional disposal service, make sure that they know the battery needs to be discharged.",
+    "Disposing of charged LiPo batteries is very hazardous.",
+    "Call RC hobby shops to see whether they can handle battery disposal.",
+    "Hobby shop employees can be experts in discharging and disposing LiPo batteries.",
+    "Electronics stores may also be able to help.",
+    "While stores will carry a fee for their services, this option can give you peace of mind.",
+    "Find a battery recycling center.",
+    "Call2Recycle.org is a great resource for finding centers and stores in the United States that can dispose of your discharged batteries safely.",
+    "While some hobbyists claim that throwing discharged LiPo batteries into the trash is safe, recycling them professionally is always the best and safest option.",
+    "Discharging with a LiPo Charger Set your charger to the \u201cdischarge\u201d setting if it has one.",
+    "Some LiPo chargers, especially computerized ones, have a discharge setting.",
+    "Using it is by far the easiest method to discharge your LiPo battery.",
+    "If you do, set a low current of .5A-1A.",
+    "Be warned that, like other discharge methods, this can take a much longer time than charging would.",
+    "Place the battery and charger into a fireproof container.",
+    "This could be a LiPo safety bag or metal ammo box.",
+    "If the battery is puffed, it is in a particularly dangerous state.",
+    "LiPo batteries are more prone to combustion when overcharged or discharging, meaning this is a time to be extra careful.",
+    "If possible, keep a fire extinguisher near your discharge station.",
+    "Check to make sure the voltage is 0.0V before disposing of your battery.",
+    "Some LiPo chargers do not discharge the battery below a minimum voltage because this would render the battery unusable.",
+    "However, any disposed battery above 0V is still combustible.",
+    "Sometimes, using the discharge setting on your charger is just not enough to reach 0V.",
+    "In this case, you'll have to use another discharge method.",
+    "Another great option is purchasing a commercial LiPo discharger.",
+    "Just make sure that the discharger is produced to bring the battery voltage down to 0V.",
+    "Building Your Own Light Bulb Discharger Purchase materials for a simple DIY discharger.",
+    "These include halogen light bulbs, wire, and heatshrink.",
+    "For those who are handy, a homemade rig is a great thing to have on hand for safely discharging your LiPo batteries.",
+    "While halogen light bulbs can get very hot, they are still recommended because LED bulbs slow down the process.",
+    "Plug your soldering iron into a standard outlet.",
+    "Make sure that the soldering tip is safely attached to the iron.",
+    "Let the iron heat up.",
+    "Soldering is a key part of making the discharger.",
+    "When you solder two electronic components together, it binds the two with a metal alloy called solder.",
+    "Solder is strong enough to forge a permanent connection between parts.",
+    "In this method, you will be soldering a light bulb to 14 AWG wires, which will also be soldered to male connector that the LiPo battery can plug into.",
+    "Be careful with soldering, as the iron can heat up to very high temperatures of up to 800 degrees Fahrenheit (427 degrees Celsius).",
+    "Solder in a well-ventilated area and wear protective eyewear.",
+    "Wash your hands carefully afterward.",
+    "Fill the metal connector cups with solder once the iron is hot.",
+    "Your male connector should have two small metal \"cups\" or indents.",
+    "Use your soldering iron to fill these cups with solder.",
+    "The XT60 male connector used in this project is loved by RC hobbyists.",
+    "The connector is made of yellow nylon plastic and has two cylindrical brass connectors.",
+    "The  solder cups on the connectors make electrical connections possible.",
+    "Trim the 14 AWG electrical wire to around 3 to 6 in (8 to 15 cm).",
+    "Electrical wire has two strands: one red and one black.",
+    "You will need both of these strands to create this device.",
+    "Solder the wires to the connector cups and shrink the wire ends.",
+    "Solder the black wire to the negative cup and the red wire to the positive cup.",
+    "It is important to take note of this or else the electrical current cannot pass through.",
+    "Insert the light bulb prongs into the wire strands.",
+    "Join the prongs and strands with solder.",
+    "Be careful to ensure that the positive and negative wires aren\u2019t touching.",
+    "If the light bulb burns out during this process, simply snip the wire ends with Lineman\u2019s pliers and solder on a new light bulb.",
+    "Plug your battery into the discharger.",
+    "While the battery is discharging, the bulb should light up.",
+    "Then, when it is done discharging, the bulb should go out.",
+    "The battery should have a charge of 0.0V.",
+    "Follow all fire safety precautions for your discharge station.",
+    "This includes using a fireproof container, choosing a safe spot outside, and having a fire extinguisher handy.",
+    "Rest the rig on ceramic or concrete, not wood or carpet."
+  ],
+  "tyn_section":[
+    "1 Soldering Iron",
+    "Solder",
+    "1 XT60 male connector",
+    "1 ft of 14 AWG wire",
+    "2 pieces of heat shrink",
+    "1 halogen light bulb"
+  ],
+  "tyn_model":[
+    "lipo batteries",
+    "solder",
+    "light bulb",
+    "iron",
+    "lipo battery",
+    "charger",
+    "fireproof container",
+    "lipo safety bag",
+    "lipo chargers",
+    "fire extinguisher",
+    "halogen light bulbs",
+    "soldering iron",
+    "electrical wire",
+    "battery safe",
+    "battery disposal service",
+    "battery recycling center",
+    "\u201cdischarge",
+    "\u201d setting",
+    "lipo discharger",
+    "wire",
+    "soldering",
+    "connector cups",
+    "lineman\u2019s pliers"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0434782609,
+    "f1":0.0689655172,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1304347826,
+    "f1":0.2068965517
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2608695652,
+    "f1":0.3428571429
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.0869565217,
+    "f1":0.1379310345
+  }
+}

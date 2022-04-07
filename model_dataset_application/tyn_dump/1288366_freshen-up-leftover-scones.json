@@ -1,0 +1,68 @@
+{
+  "title":"How to Freshen up Leftover Scones",
+  "url":"https://www.wikihow.com/Freshen-up-Leftover-Scones",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Scones"
+  ],
+  "steps":[
+    {
+      "headline":"Place the scones into a saucepan that has a lid.",
+      "description":"Put the lid on top."
+    },
+    {
+      "headline":"Put the saucepan on low heat.",
+      "description":"Warm for five minutes. Keep an eye on them, as you don't want the bottoms to burn."
+    },
+    {
+      "headline":"Switch off the heat.",
+      "description":"Leave the saucepan with scones sitting on the cooling element for another five minutes."
+    },
+    {
+      "headline":"Remove the scones.",
+      "description":"They should now be fresher and ready to be eaten straight away."
+    }
+  ],
+  "text":" Place the scones into a saucepan that has a lid. Put the lid on top. Put the saucepan on low heat. Warm for five minutes. Keep an eye on them, as you don't want the bottoms to burn. Switch off the heat. Leave the saucepan with scones sitting on the cooling element for another five minutes. Remove the scones. They should now be fresher and ready to be eaten straight away.",
+  "sentences":[
+    " Place the scones into a saucepan that has a lid.",
+    "Put the lid on top.",
+    "Put the saucepan on low heat.",
+    "Warm for five minutes.",
+    "Keep an eye on them, as you don't want the bottoms to burn.",
+    "Switch off the heat.",
+    "Leave the saucepan with scones sitting on the cooling element for another five minutes.",
+    "Remove the scones.",
+    "They should now be fresher and ready to be eaten straight away."
+  ],
+  "tyn_section":[
+    "Saucepan with lid",
+    "Stale scones"
+  ],
+  "tyn_model":[
+    "saucepan"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

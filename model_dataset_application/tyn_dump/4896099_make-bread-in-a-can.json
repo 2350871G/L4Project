@@ -1,0 +1,111 @@
+{
+  "title":"How to Make Bread in a Can",
+  "url":"https://www.wikihow.com/Make-Bread-in-a-Can",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Breads"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat oven to 375 degrees.",
+      "description":""
+    },
+    {
+      "headline":"Clean and prepare coffee can.",
+      "description":"Only use a can that is free or damage and/or rust. Clean with hot soapy water and rinse well. Dry with a clean cloth and make sure lid is also clean and dry. Spray the inside of the can with non-stick butter spray or coat with oil or margarine."
+    },
+    {
+      "headline":"Combine warm water, yeast, sugar, salt and olive oil in a large bowl.",
+      "description":"Mix well to fully integrate and combine ingredients."
+    },
+    {
+      "headline":"Add 2 cups of the flour and knead dough.",
+      "description":"Make a soft ball until all the flour is completely integrated."
+    },
+    {
+      "headline":"Add remaining \u00bd cup of flour to dough to create a soft, non-sticky dough.",
+      "description":"Sprinkle flour and knead slowly so you can determine when you\u2019ve achieved the desired consistency."
+    },
+    {
+      "headline":"Fill the coffee can with bread dough halfway.",
+      "description":"If you fill the can all the way with dough it will spill over as it rises."
+    },
+    {
+      "headline":"Add can lid and let dough rise.",
+      "description":"The lid will provide an ideal environment for yeast to rise. Lid will pop off once bread has fully risen."
+    },
+    {
+      "headline":"Remove lid and bake bread inside the can.",
+      "description":"Bake for 30 to 40 minutes or until golden brown."
+    },
+    {
+      "headline":"Allow baked dough to rest and cool before releasing from can.",
+      "description":""
+    }
+  ],
+  "text":" Preheat oven to 375 degrees.  Clean and prepare coffee can. Only use a can that is free or damage and/or rust. Clean with hot soapy water and rinse well. Dry with a clean cloth and make sure lid is also clean and dry. Spray the inside of the can with non-stick butter spray or coat with oil or margarine. Combine warm water, yeast, sugar, salt and olive oil in a large bowl. Mix well to fully integrate and combine ingredients. Add 2 cups of the flour and knead dough. Make a soft ball until all the flour is completely integrated. Add remaining \u00bd cup of flour to dough to create a soft, non-sticky dough. Sprinkle flour and knead slowly so you can determine when you\u2019ve achieved the desired consistency. Fill the coffee can with bread dough halfway. If you fill the can all the way with dough it will spill over as it rises. Add can lid and let dough rise. The lid will provide an ideal environment for yeast to rise. Lid will pop off once bread has fully risen. Remove lid and bake bread inside the can. Bake for 30 to 40 minutes or until golden brown. Allow baked dough to rest and cool before releasing from can. ",
+  "sentences":[
+    " Preheat oven to 375 degrees.",
+    "Clean and prepare coffee can.",
+    "Only use a can that is free or damage and/or rust.",
+    "Clean with hot soapy water and rinse well.",
+    "Dry with a clean cloth and make sure lid is also clean and dry.",
+    "Spray the inside of the can with non-stick butter spray or coat with oil or margarine.",
+    "Combine warm water, yeast, sugar, salt and olive oil in a large bowl.",
+    "Mix well to fully integrate and combine ingredients.",
+    "Add 2 cups of the flour and knead dough.",
+    "Make a soft ball until all the flour is completely integrated.",
+    "Add remaining \u00bd cup of flour to dough to create a soft, non-sticky dough.",
+    "Sprinkle flour and knead slowly so you can determine when you\u2019ve achieved the desired consistency.",
+    "Fill the coffee can with bread dough halfway.",
+    "If you fill the can all the way with dough it will spill over as it rises.",
+    "Add can lid and let dough rise.",
+    "The lid will provide an ideal environment for yeast to rise.",
+    "Lid will pop off once bread has fully risen.",
+    "Remove lid and bake bread inside the can.",
+    "Bake for 30 to 40 minutes or until golden brown.",
+    "Allow baked dough to rest and cool before releasing from can."
+  ],
+  "tyn_section":[
+    "Empty coffee can (with lid)",
+    "Non stick butter spray (or butter)"
+  ],
+  "tyn_model":[
+    "flour",
+    "coffee can",
+    "yeast",
+    "oven",
+    "hot soapy water",
+    "non-stick butter spray",
+    "oil or margarine",
+    "water",
+    "sugar",
+    "salt",
+    "olive oil",
+    "large bowl",
+    "bread dough"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.0769230769,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

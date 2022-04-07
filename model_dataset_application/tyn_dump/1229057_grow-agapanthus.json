@@ -1,0 +1,100 @@
+{
+  "title":"How to Grow Agapanthus",
+  "url":"https://www.wikihow.com/Grow-Agapanthus",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Planting and Growing",
+    "Growing Flowers"
+  ],
+  "steps":[
+    {
+      "headline":"Choose the agapanthus.",
+      "description":"There are large and dwarf varieties of agapanthus, and differing flower colours from purple to white. Dwarf varieties can be used in smaller garden beds, as border edging, or in mixed garden beds."
+    },
+    {
+      "headline":"Plant agapanthus in a suitable location.",
+      "description":"Ensure that there is plenty of space for it to bulk out. Part-shade to full sun will be tolerated by agapanthus. As the shade increases though, the flowering will decrease, so bear this in mind when selecting a spot. Most agapanthus have a moderate frost hardiness."
+    },
+    {
+      "headline":"Prepare the soil.",
+      "description":"Agapanthus will tolerate most soil types. It grows best in good loam soil with some organic matter added (compost material)."
+    },
+    {
+      "headline":"Plant the agapanthus rhizomes.",
+      "description":"You can plant them in massed clumps such as a large garden bed or you can plant them in dense rows to create a line for a driveway or path."
+    },
+    {
+      "headline":"Water regularly while establishing.",
+      "description":"Agapanthus can tolerate less watering than many other plants and can thrive in a hot summer."
+    },
+    {
+      "headline":"Fertilise in late winter or early spring.",
+      "description":"Use a slow release fertiliser or pellets."
+    },
+    {
+      "headline":"Prune.",
+      "description":"It is important to trim off the flower heads following flowering. Doing this provides the plant the best opportunity to store energy for the next flowering season the following year. It will also stop seeds from setting in your garden. Also take the chance to trim off dead leaves and stems."
+    }
+  ],
+  "text":" Choose the agapanthus. There are large and dwarf varieties of agapanthus, and differing flower colours from purple to white. Dwarf varieties can be used in smaller garden beds, as border edging, or in mixed garden beds. Plant agapanthus in a suitable location. Ensure that there is plenty of space for it to bulk out. Part-shade to full sun will be tolerated by agapanthus. As the shade increases though, the flowering will decrease, so bear this in mind when selecting a spot. Most agapanthus have a moderate frost hardiness. Prepare the soil. Agapanthus will tolerate most soil types. It grows best in good loam soil with some organic matter added (compost material). Plant the agapanthus rhizomes. You can plant them in massed clumps such as a large garden bed or you can plant them in dense rows to create a line for a driveway or path. Water regularly while establishing. Agapanthus can tolerate less watering than many other plants and can thrive in a hot summer. Fertilise in late winter or early spring. Use a slow release fertiliser or pellets. Prune. It is important to trim off the flower heads following flowering. Doing this provides the plant the best opportunity to store energy for the next flowering season the following year. It will also stop seeds from setting in your garden. Also take the chance to trim off dead leaves and stems.",
+  "sentences":[
+    " Choose the agapanthus.",
+    "There are large and dwarf varieties of agapanthus, and differing flower colours from purple to white.",
+    "Dwarf varieties can be used in smaller garden beds, as border edging, or in mixed garden beds.",
+    "Plant agapanthus in a suitable location.",
+    "Ensure that there is plenty of space for it to bulk out.",
+    "Part-shade to full sun will be tolerated by agapanthus.",
+    "As the shade increases though, the flowering will decrease, so bear this in mind when selecting a spot.",
+    "Most agapanthus have a moderate frost hardiness.",
+    "Prepare the soil.",
+    "Agapanthus will tolerate most soil types.",
+    "It grows best in good loam soil with some organic matter added (compost material).",
+    "Plant the agapanthus rhizomes.",
+    "You can plant them in massed clumps such as a large garden bed or you can plant them in dense rows to create a line for a driveway or path.",
+    "Water regularly while establishing.",
+    "Agapanthus can tolerate less watering than many other plants and can thrive in a hot summer.",
+    "Fertilise in late winter or early spring.",
+    "Use a slow release fertiliser or pellets.",
+    "Prune.",
+    "It is important to trim off the flower heads following flowering.",
+    "Doing this provides the plant the best opportunity to store energy for the next flowering season the following year.",
+    "It will also stop seeds from setting in your garden.",
+    "Also take the chance to trim off dead leaves and stems."
+  ],
+  "tyn_section":[
+    "Garden bed",
+    "Agapanthus rhizomes",
+    "Digging implements",
+    "Pruning gear"
+  ],
+  "tyn_model":[
+    "agapanthus",
+    "agapanthus rhizomes",
+    "water",
+    "watering",
+    "fertiliser",
+    "prune"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.3333333333,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.3333333333,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  }
+}

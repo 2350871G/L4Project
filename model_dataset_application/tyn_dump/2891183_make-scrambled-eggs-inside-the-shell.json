@@ -1,0 +1,101 @@
+{
+  "title":"How to Make Scrambled Eggs Inside the Shell",
+  "url":"https://www.wikihow.com/Make-Scrambled-Eggs-Inside-the-Shell",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Eggs and Dairy",
+    "Scrambled Eggs"
+  ],
+  "steps":[
+    {
+      "headline":"Gather the materials.",
+      "description":"You will need the following:\nA long-sleeved T-shirt\nRubber bands or twine\nAn egg of your choice (uncooked)"
+    },
+    {
+      "headline":"Insert the egg in one of the sleeves of the shirt.",
+      "description":"Make sure that it is placed in the middle of the sleeve so you can have room to grab the ends in the next few steps."
+    },
+    {
+      "headline":"Tie the rubber bands or twine on both sides of the egg.",
+      "description":"This will secure the egg as you \"scramble\" it in the following process. Make sure they're tied tightly around the egg so that it won't fall out."
+    },
+    {
+      "headline":"Grab the ends of the sleeve with each hand, and wind it several times.",
+      "description":"Once the sleeve is wound, pull both ends of the sleeve, unwinding it and spinning the egg in the middle. Continue doing this several times, winding and unwinding the sleeve, as this gradually scrambles the egg in its shell."
+    },
+    {
+      "headline":"Once finished, untie the sleeve and retrieve the egg.",
+      "description":"Check for any cracks on the egg and make sure there are no deformities. It's also a good idea to shine a flashlight through the egg \u2014 if it produces an orange hue, then you can tell it's fully scrambled."
+    },
+    {
+      "headline":"Boil the egg.",
+      "description":"It's likely the shell has been considerably weakened through all the spinning, so it's recommended that you boil at a lower-than-normal temperature. This will prevent the egg from cracking. Cook for about 15 minutes."
+    },
+    {
+      "headline":"When the egg is done boiling, take it out and open the shell.",
+      "description":"The colour of the egg should be light yellow."
+    },
+    {
+      "headline":"Enjoy your delicious scrambled surprise!",
+      "description":""
+    }
+  ],
+  "text":" Gather the materials. You will need the following:\nA long-sleeved T-shirt\nRubber bands or twine\nAn egg of your choice (uncooked) Insert the egg in one of the sleeves of the shirt. Make sure that it is placed in the middle of the sleeve so you can have room to grab the ends in the next few steps. Tie the rubber bands or twine on both sides of the egg. This will secure the egg as you \"scramble\" it in the following process. Make sure they're tied tightly around the egg so that it won't fall out. Grab the ends of the sleeve with each hand, and wind it several times. Once the sleeve is wound, pull both ends of the sleeve, unwinding it and spinning the egg in the middle. Continue doing this several times, winding and unwinding the sleeve, as this gradually scrambles the egg in its shell. Once finished, untie the sleeve and retrieve the egg. Check for any cracks on the egg and make sure there are no deformities. It's also a good idea to shine a flashlight through the egg \u2014 if it produces an orange hue, then you can tell it's fully scrambled. Boil the egg. It's likely the shell has been considerably weakened through all the spinning, so it's recommended that you boil at a lower-than-normal temperature. This will prevent the egg from cracking. Cook for about 15 minutes. When the egg is done boiling, take it out and open the shell. The colour of the egg should be light yellow. Enjoy your delicious scrambled surprise! ",
+  "sentences":[
+    " Gather the materials.",
+    "You will need the following:\nA long-sleeved T-shirt\nRubber bands or twine\nAn egg of your choice (uncooked) Insert the egg in one of the sleeves of the shirt.",
+    "Make sure that it is placed in the middle of the sleeve so you can have room to grab the ends in the next few steps.",
+    "Tie the rubber bands or twine on both sides of the egg.",
+    "This will secure the egg as you \"scramble\" it in the following process.",
+    "Make sure they're tied tightly around the egg so that it won't fall out.",
+    "Grab the ends of the sleeve with each hand, and wind it several times.",
+    "Once the sleeve is wound, pull both ends of the sleeve, unwinding it and spinning the egg in the middle.",
+    "Continue doing this several times, winding and unwinding the sleeve, as this gradually scrambles the egg in its shell.",
+    "Once finished, untie the sleeve and retrieve the egg.",
+    "Check for any cracks on the egg and make sure there are no deformities.",
+    "It's also a good idea to shine a flashlight through the egg \u2014 if it produces an orange hue, then you can tell it's fully scrambled.",
+    "Boil the egg.",
+    "It's likely the shell has been considerably weakened through all the spinning, so it's recommended that you boil at a lower-than-normal temperature.",
+    "This will prevent the egg from cracking.",
+    "Cook for about 15 minutes.",
+    "When the egg is done boiling, take it out and open the shell.",
+    "The colour of the egg should be light yellow.",
+    "Enjoy your delicious scrambled surprise!"
+  ],
+  "tyn_section":[
+    "A long-sleeved T-shirt",
+    "Rubber bands or twine",
+    "An egg of your choice (uncooked)",
+    "Boiling water"
+  ],
+  "tyn_model":[
+    "egg",
+    "rubber bands",
+    "twine",
+    "flashlight",
+    "\u2014 if",
+    "boil"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

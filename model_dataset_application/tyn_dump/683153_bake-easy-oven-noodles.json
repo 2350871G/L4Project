@@ -1,0 +1,104 @@
+{
+  "title":"How to Bake Easy Oven Noodles",
+  "url":"https://www.wikihow.com/Bake-Easy-Oven-Noodles",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat oven to 325\u00baF/170\u00baC.",
+      "description":""
+    },
+    {
+      "headline":"Bring water to a boil in a saucepan.",
+      "description":""
+    },
+    {
+      "headline":"Spray a 1 1/2-quart (1.4 liter) casserole dish with nonstick cooking spray.",
+      "description":""
+    },
+    {
+      "headline":"Add the egg noodles to the casserole dish.",
+      "description":""
+    },
+    {
+      "headline":"Sprinkle the noodles with salt.",
+      "description":""
+    },
+    {
+      "headline":"Add the margarine to the hot water.",
+      "description":""
+    },
+    {
+      "headline":"Pour the hot water mixture over the noodles.",
+      "description":""
+    },
+    {
+      "headline":"Push the noodles down into the hot water mixture with a spoon.",
+      "description":""
+    },
+    {
+      "headline":"Cover and bake until the egg noodles are tender.",
+      "description":"This should take between 35 and 40 minutes."
+    },
+    {
+      "headline":"Serves 4.",
+      "description":""
+    }
+  ],
+  "text":" Preheat oven to 325\u00baF/170\u00baC.  Bring water to a boil in a saucepan.  Spray a 1 1/2-quart (1.4 liter) casserole dish with nonstick cooking spray.  Add the egg noodles to the casserole dish.  Sprinkle the noodles with salt.  Add the margarine to the hot water.  Pour the hot water mixture over the noodles.  Push the noodles down into the hot water mixture with a spoon.  Cover and bake until the egg noodles are tender. This should take between 35 and 40 minutes. Serves 4. ",
+  "sentences":[
+    " Preheat oven to 325\u00baF/170\u00baC.",
+    "Bring water to a boil in a saucepan.",
+    "Spray a 1 1/2-quart (1.4 liter) casserole dish with nonstick cooking spray.",
+    "Add the egg noodles to the casserole dish.",
+    "Sprinkle the noodles with salt.",
+    "Add the margarine to the hot water.",
+    "Pour the hot water mixture over the noodles.",
+    "Push the noodles down into the hot water mixture with a spoon.",
+    "Cover and bake until the egg noodles are tender.",
+    "This should take between 35 and 40 minutes.",
+    "Serves 4."
+  ],
+  "tyn_section":[
+    "Saucepan",
+    "Baking dish",
+    "Spoon",
+    "Oven mitts"
+  ],
+  "tyn_model":[
+    "water",
+    "casserole dish",
+    "hot water",
+    "oven",
+    "saucepan",
+    "nonstick cooking spray",
+    "egg noodles",
+    "salt",
+    "margarine",
+    "spoon"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857,
+    "avg_pos":0.4
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.3,
+    "f1":0.4285714286
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857
+  }
+}

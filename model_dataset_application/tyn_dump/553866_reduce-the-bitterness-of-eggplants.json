@@ -1,0 +1,73 @@
+{
+  "title":"How to Reduce the Bitterness of Eggplants",
+  "url":"https://www.wikihow.com/Reduce-the-Bitterness-of-Eggplants",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Eggplant"
+  ],
+  "steps":[
+    {
+      "headline":"Slice or dice the eggplant as required for your recipe.",
+      "description":""
+    },
+    {
+      "headline":"Sprinkle salt over the slices or diced pieces.",
+      "description":""
+    },
+    {
+      "headline":"Leave to sit for half an hour with the salt on the flesh.",
+      "description":""
+    },
+    {
+      "headline":"Remove the salt by washing it off once you are ready to cook with the eggplant after the half hour is up.",
+      "description":""
+    },
+    {
+      "headline":"Consider avoiding the bitterness by buying younger, smaller eggplants.",
+      "description":"When the pips are the same colour as the flesh, the eggplant is not bitter. As soon as the seeds are brown, however, the bitterness will have set in."
+    }
+  ],
+  "text":" Slice or dice the eggplant as required for your recipe.  Sprinkle salt over the slices or diced pieces.  Leave to sit for half an hour with the salt on the flesh.  Remove the salt by washing it off once you are ready to cook with the eggplant after the half hour is up.  Consider avoiding the bitterness by buying younger, smaller eggplants. When the pips are the same colour as the flesh, the eggplant is not bitter. As soon as the seeds are brown, however, the bitterness will have set in.",
+  "sentences":[
+    " Slice or dice the eggplant as required for your recipe.",
+    "Sprinkle salt over the slices or diced pieces.",
+    "Leave to sit for half an hour with the salt on the flesh.",
+    "Remove the salt by washing it off once you are ready to cook with the eggplant after the half hour is up.",
+    "Consider avoiding the bitterness by buying younger, smaller eggplants.",
+    "When the pips are the same colour as the flesh, the eggplant is not bitter.",
+    "As soon as the seeds are brown, however, the bitterness will have set in."
+  ],
+  "tyn_section":[
+    "Salt",
+    "Eggplant",
+    "Knife and cutting board"
+  ],
+  "tyn_model":[
+    "eggplant",
+    "salt",
+    "eggplants"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667,
+    "avg_pos":0.3333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  }
+}

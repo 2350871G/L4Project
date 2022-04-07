@@ -1,0 +1,78 @@
+{
+  "title":"How to Make a Blue Lagoon Cocktail",
+  "url":"https://www.wikihow.com/Make-a-Blue-Lagoon-Cocktail",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Cocktails",
+    "Vodka Based Cocktails"
+  ],
+  "steps":[
+    {
+      "headline":"Fill the highball glass about 3/4 full with ice cubes.",
+      "description":""
+    },
+    {
+      "headline":"Measure and pour the vodka and blue Cura\u00e7ao into the highball glass.",
+      "description":""
+    },
+    {
+      "headline":"Top the drink off with the lemonade.",
+      "description":""
+    },
+    {
+      "headline":"Use your long stirrer and stir everything well.",
+      "description":""
+    },
+    {
+      "headline":"Plop the cherry in the drink and wedge the orange slice on the side of the glass as a garnish.",
+      "description":""
+    }
+  ],
+  "text":" Fill the highball glass about 3/4 full with ice cubes.  Measure and pour the vodka and blue Cura\u00e7ao into the highball glass.  Top the drink off with the lemonade.  Use your long stirrer and stir everything well.  Plop the cherry in the drink and wedge the orange slice on the side of the glass as a garnish. ",
+  "sentences":[
+    " Fill the highball glass about 3/4 full with ice cubes.",
+    "Measure and pour the vodka and blue Cura\u00e7ao into the highball glass.",
+    "Top the drink off with the lemonade.",
+    "Use your long stirrer and stir everything well.",
+    "Plop the cherry in the drink and wedge the orange slice on the side of the glass as a garnish."
+  ],
+  "tyn_section":[
+    "Shot measure",
+    "Highball glass",
+    "Long handled bar spoon or stirrer"
+  ],
+  "tyn_model":[
+    "highball glass",
+    "ice cubes",
+    "vodka",
+    "blue cura\u00e7ao",
+    "lemonade",
+    "long stirrer",
+    "cherry",
+    "orange"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.125,
+    "f1":0.1818181818,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.125,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.25,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.125,
+    "f1":0.1818181818
+  }
+}

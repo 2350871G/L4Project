@@ -1,0 +1,126 @@
+{
+  "title":"How to Test Resistors",
+  "url":"https://www.wikihow.com/Test-Resistors",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Remove power from the circuit containing the resistor.",
+      "description":"This can be done by unplugging it from the mains or by removing the batteries if it is a portable device. Keep in mind that some devices still can be charged with a potentially harmful voltage until minutes after removing its power!"
+    },
+    {
+      "headline":"Isolate the resistor from the circuit.",
+      "description":"An attempt to measure a resistor that is still connected to the circuit can yield an incorrect calculation, as part of the circuit might also be measured. Disconnect one end of the resistor from the circuit. It does not matter which end of the resistor is disconnected. Disconnect the resistor by pulling on the resistor. If the resistor is soldered in place, melt the solder with an electronic grade soldering iron and pull the resistor free using small needle nose pliers. Soldering irons are available at electronic parts and hobby stores."
+    },
+    {
+      "headline":"Inspect the resistor.",
+      "description":"If the resistor shows signs of blackening or charring, it may be damaged by excess current flow. A resistor showing blackening or charring should be replaced and discarded."
+    },
+    {
+      "headline":"Read the resistor value visually.",
+      "description":"The resistor value will be printed on the resistor. Smaller resistors may have their value indicated by color coded bands. Note the resistor tolerance. No resistor is precisely the value indicated on it. The tolerance indicates how much the printed value may vary and still be considered a properly sized resistor. For example, a 1,000 ohm resistor with a 10 percent tolerance indication is still considered to be accurate if it measures no less that 900 ohms and no more than 1,100 ohms."
+    },
+    {
+      "headline":"Prepare a digital multimeter (DMM) to measure the resistor.",
+      "description":"DMMs are available at electronics parts and hobby stores. Ensure that the DMM comes on and does not indicate a low battery condition. Set the adjustable scale of the DMM to the next setting higher than the expected resistor value. For example, if the DMM may be set to scales that are multiples of 10 and a resistor marked as 840 ohms is to be measured, set the DMM to the 1,000 ohm scale."
+    },
+    {
+      "headline":"Measure the resistance.",
+      "description":"Connect the 2 leads of the DMM to the 2 legs of the resistor. Resistors have no polarity, so it does not matter which DMM lead is connected to which resistor leg."
+    },
+    {
+      "headline":"Determine the actual resistance of the resistor.",
+      "description":"Read the result shown on the multimeter. In determining whether or not the resistor is within the allowable range for that resistor, do not forget to take the resistor tolerance into account."
+    },
+    {
+      "headline":"Reattach a resistor that gives an accurate reading.",
+      "description":"Reconnect it to the circuit by pressing it back into place if you pulled it free with your fingers. If the solder joint had to be melted and the resistor had to be disconnected using pliers, melt the solder with the soldering iron and use the needle nose pliers to push the resistor back in to place."
+    },
+    {
+      "headline":"Replace a resistor that measures outside of the acceptable value range.",
+      "description":"Discard the old resistor. Resistors are available in electronics parts stores and hobby stores. Note that replacing the malfunctioning resistor will not necessarily fix the problem, if the resistor fails again the source of the problem should be sought elsewhere in the circuit."
+    }
+  ],
+  "text":" Remove power from the circuit containing the resistor. This can be done by unplugging it from the mains or by removing the batteries if it is a portable device. Keep in mind that some devices still can be charged with a potentially harmful voltage until minutes after removing its power! Isolate the resistor from the circuit. An attempt to measure a resistor that is still connected to the circuit can yield an incorrect calculation, as part of the circuit might also be measured. Disconnect one end of the resistor from the circuit. It does not matter which end of the resistor is disconnected. Disconnect the resistor by pulling on the resistor. If the resistor is soldered in place, melt the solder with an electronic grade soldering iron and pull the resistor free using small needle nose pliers. Soldering irons are available at electronic parts and hobby stores. Inspect the resistor. If the resistor shows signs of blackening or charring, it may be damaged by excess current flow. A resistor showing blackening or charring should be replaced and discarded. Read the resistor value visually. The resistor value will be printed on the resistor. Smaller resistors may have their value indicated by color coded bands. Note the resistor tolerance. No resistor is precisely the value indicated on it. The tolerance indicates how much the printed value may vary and still be considered a properly sized resistor. For example, a 1,000 ohm resistor with a 10 percent tolerance indication is still considered to be accurate if it measures no less that 900 ohms and no more than 1,100 ohms. Prepare a digital multimeter (DMM) to measure the resistor. DMMs are available at electronics parts and hobby stores. Ensure that the DMM comes on and does not indicate a low battery condition. Set the adjustable scale of the DMM to the next setting higher than the expected resistor value. For example, if the DMM may be set to scales that are multiples of 10 and a resistor marked as 840 ohms is to be measured, set the DMM to the 1,000 ohm scale. Measure the resistance. Connect the 2 leads of the DMM to the 2 legs of the resistor. Resistors have no polarity, so it does not matter which DMM lead is connected to which resistor leg. Determine the actual resistance of the resistor. Read the result shown on the multimeter. In determining whether or not the resistor is within the allowable range for that resistor, do not forget to take the resistor tolerance into account. Reattach a resistor that gives an accurate reading. Reconnect it to the circuit by pressing it back into place if you pulled it free with your fingers. If the solder joint had to be melted and the resistor had to be disconnected using pliers, melt the solder with the soldering iron and use the needle nose pliers to push the resistor back in to place. Replace a resistor that measures outside of the acceptable value range. Discard the old resistor. Resistors are available in electronics parts stores and hobby stores. Note that replacing the malfunctioning resistor will not necessarily fix the problem, if the resistor fails again the source of the problem should be sought elsewhere in the circuit.",
+  "sentences":[
+    " Remove power from the circuit containing the resistor.",
+    "This can be done by unplugging it from the mains or by removing the batteries if it is a portable device.",
+    "Keep in mind that some devices still can be charged with a potentially harmful voltage until minutes after removing its power!",
+    "Isolate the resistor from the circuit.",
+    "An attempt to measure a resistor that is still connected to the circuit can yield an incorrect calculation, as part of the circuit might also be measured.",
+    "Disconnect one end of the resistor from the circuit.",
+    "It does not matter which end of the resistor is disconnected.",
+    "Disconnect the resistor by pulling on the resistor.",
+    "If the resistor is soldered in place, melt the solder with an electronic grade soldering iron and pull the resistor free using small needle nose pliers.",
+    "Soldering irons are available at electronic parts and hobby stores.",
+    "Inspect the resistor.",
+    "If the resistor shows signs of blackening or charring, it may be damaged by excess current flow.",
+    "A resistor showing blackening or charring should be replaced and discarded.",
+    "Read the resistor value visually.",
+    "The resistor value will be printed on the resistor.",
+    "Smaller resistors may have their value indicated by color coded bands.",
+    "Note the resistor tolerance.",
+    "No resistor is precisely the value indicated on it.",
+    "The tolerance indicates how much the printed value may vary and still be considered a properly sized resistor.",
+    "For example, a 1,000 ohm resistor with a 10 percent tolerance indication is still considered to be accurate if it measures no less that 900 ohms and no more than 1,100 ohms.",
+    "Prepare a digital multimeter (DMM) to measure the resistor.",
+    "DMMs are available at electronics parts and hobby stores.",
+    "Ensure that the DMM comes on and does not indicate a low battery condition.",
+    "Set the adjustable scale of the DMM to the next setting higher than the expected resistor value.",
+    "For example, if the DMM may be set to scales that are multiples of 10 and a resistor marked as 840 ohms is to be measured, set the DMM to the 1,000 ohm scale.",
+    "Measure the resistance.",
+    "Connect the 2 leads of the DMM to the 2 legs of the resistor.",
+    "Resistors have no polarity, so it does not matter which DMM lead is connected to which resistor leg.",
+    "Determine the actual resistance of the resistor.",
+    "Read the result shown on the multimeter.",
+    "In determining whether or not the resistor is within the allowable range for that resistor, do not forget to take the resistor tolerance into account.",
+    "Reattach a resistor that gives an accurate reading.",
+    "Reconnect it to the circuit by pressing it back into place if you pulled it free with your fingers.",
+    "If the solder joint had to be melted and the resistor had to be disconnected using pliers, melt the solder with the soldering iron and use the needle nose pliers to push the resistor back in to place.",
+    "Replace a resistor that measures outside of the acceptable value range.",
+    "Discard the old resistor.",
+    "Resistors are available in electronics parts stores and hobby stores.",
+    "Note that replacing the malfunctioning resistor will not necessarily fix the problem, if the resistor fails again the source of the problem should be sought elsewhere in the circuit."
+  ],
+  "tyn_section":[
+    "Digital multimeter (DMM)",
+    "Electronic soldering iron",
+    "Small needle nose pliers"
+  ],
+  "tyn_model":[
+    "resistor",
+    "electronic grade soldering iron",
+    "small needle nose pliers",
+    "soldering irons",
+    "digital multimeter",
+    "dmms",
+    "multimeter",
+    "pliers",
+    "soldering iron",
+    "electronics parts stores"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1,
+    "f1":0.1538461538,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.4,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.4,
+    "f1":0.5714285714
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "title":"How to Peel and Seed a Cucumber",
+  "url":"https://www.wikihow.com/Peel-and-Seed-a-Cucumber",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Peeling Food"
+  ],
+  "methods":[
+    {
+      "name":"Seeding a Halved Cucumber",
+      "steps":[
+        {
+          "headline":"Wash the cucumber under a stream of cool water.",
+          "description":"Make sure to wash all the cucumbers you have!"
+        },
+        {
+          "headline":"Lay the cucumber on your cutting board and slice the cucumber in half lengthwise using a chef\u2019s knife.",
+          "description":""
+        },
+        {
+          "headline":"Scoop out the seeds using the tip of a spoon.",
+          "description":"Using a butter knife is also a best way to remove the seeds from the cucumber."
+        },
+        {
+          "headline":"Discard the seeds.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Seeding a Quartered Cucumber",
+      "steps":[
+        {
+          "headline":"Wash the cucumber in cool water.",
+          "description":""
+        },
+        {
+          "headline":"Lay the cucumber on your cutting board and slice the cucumber in half lengthwise using a chef\u2019s knife.",
+          "description":""
+        },
+        {
+          "headline":"Lay one half of the cucumber on the cutting board with the flesh side down.",
+          "description":""
+        },
+        {
+          "headline":"Cut the cucumber in half again to create two quarters.",
+          "description":""
+        },
+        {
+          "headline":"Pick up one quarter of the cucumber and lay it on one of its flat sides that has exposed flesh.",
+          "description":""
+        },
+        {
+          "headline":"Position your knife over the top of the seeds and slice down diagonally using a downward motion.",
+          "description":""
+        },
+        {
+          "headline":"Remove the seeds and discard them before removing the seeds from all other quarters of the cucumber.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Peeling a Cucumber",
+      "steps":[
+        {
+          "headline":"Cut the both ends off of your cucumber.",
+          "description":""
+        },
+        {
+          "headline":"Halve or quarter your cucumber and remove the seeds.",
+          "description":""
+        },
+        {
+          "headline":"Pick up your cucumber section in your non-dominant hand.",
+          "description":"Use your dominant hand to position the paring knife or vegetable peeler on the part of the peel closest to your body. Point the blade of the knife away from you."
+        },
+        {
+          "headline":"Slice away the peel in long strips, taking care not to cut too deeply into the flesh.",
+          "description":"Slice so that the knife moves away from your body. Sometimes the cucumber can be tender and peeling its skin after cutting will be hard, so make sure to peel the skin and then cut it and remove its seeds!"
+        },
+        {
+          "headline":"Repeat the process as needed until all sections of the peel are removed.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Seeding a Halved Cucumber Wash the cucumber under a stream of cool water. Make sure to wash all the cucumbers you have! Lay the cucumber on your cutting board and slice the cucumber in half lengthwise using a chef\u2019s knife.  Scoop out the seeds using the tip of a spoon. Using a butter knife is also a best way to remove the seeds from the cucumber. Discard the seeds.  Seeding a Quartered Cucumber Wash the cucumber in cool water.  Lay the cucumber on your cutting board and slice the cucumber in half lengthwise using a chef\u2019s knife.  Lay one half of the cucumber on the cutting board with the flesh side down.  Cut the cucumber in half again to create two quarters.  Pick up one quarter of the cucumber and lay it on one of its flat sides that has exposed flesh.  Position your knife over the top of the seeds and slice down diagonally using a downward motion.  Remove the seeds and discard them before removing the seeds from all other quarters of the cucumber.  Peeling a Cucumber Cut the both ends off of your cucumber.  Halve or quarter your cucumber and remove the seeds.  Pick up your cucumber section in your non-dominant hand. Use your dominant hand to position the paring knife or vegetable peeler on the part of the peel closest to your body. Point the blade of the knife away from you. Slice away the peel in long strips, taking care not to cut too deeply into the flesh. Slice so that the knife moves away from your body. Sometimes the cucumber can be tender and peeling its skin after cutting will be hard, so make sure to peel the skin and then cut it and remove its seeds! Repeat the process as needed until all sections of the peel are removed. ",
+  "sentences":[
+    " Seeding a Halved Cucumber Wash the cucumber under a stream of cool water.",
+    "Make sure to wash all the cucumbers you have!",
+    "Lay the cucumber on your cutting board and slice the cucumber in half lengthwise using a chef\u2019s knife.",
+    "Scoop out the seeds using the tip of a spoon.",
+    "Using a butter knife is also a best way to remove the seeds from the cucumber.",
+    "Discard the seeds.",
+    "Seeding a Quartered Cucumber Wash the cucumber in cool water.",
+    "Lay the cucumber on your cutting board and slice the cucumber in half lengthwise using a chef\u2019s knife.",
+    "Lay one half of the cucumber on the cutting board with the flesh side down.",
+    "Cut the cucumber in half again to create two quarters.",
+    "Pick up one quarter of the cucumber and lay it on one of its flat sides that has exposed flesh.",
+    "Position your knife over the top of the seeds and slice down diagonally using a downward motion.",
+    "Remove the seeds and discard them before removing the seeds from all other quarters of the cucumber.",
+    "Peeling a Cucumber Cut the both ends off of your cucumber.",
+    "Halve or quarter your cucumber and remove the seeds.",
+    "Pick up your cucumber section in your non-dominant hand.",
+    "Use your dominant hand to position the paring knife or vegetable peeler on the part of the peel closest to your body.",
+    "Point the blade of the knife away from you.",
+    "Slice away the peel in long strips, taking care not to cut too deeply into the flesh.",
+    "Slice so that the knife moves away from your body.",
+    "Sometimes the cucumber can be tender and peeling its skin after cutting will be hard, so make sure to peel the skin and then cut it and remove its seeds!",
+    "Repeat the process as needed until all sections of the peel are removed."
+  ],
+  "tyn_section":[
+    "Cutting board",
+    "Chef\u2019s knife",
+    "Spoon",
+    "Paring knife or vegetable peeler"
+  ],
+  "tyn_model":[
+    "cucumber",
+    "knife",
+    "water",
+    "chef\u2019s knife",
+    "spoon",
+    "butter knife",
+    "cutting board",
+    "paring knife",
+    "vegetable peeler"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615,
+    "avg_pos":0.6666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.4444444444,
+    "f1":0.5581395349
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.7777777778,
+    "f1":0.875
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615
+  }
+}

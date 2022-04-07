@@ -1,0 +1,327 @@
+{
+  "title":"How to Solder",
+  "url":"https://www.wikihow.com/Solder",
+  "category_hierarchy":[
+    "Home and Garden",
+    "DIY"
+  ],
+  "methods":[
+    {
+      "name":"Soldering Basics",
+      "steps":[
+        {
+          "headline":"Learn what soldering is.",
+          "description":"Put into basic terms, soldering is the process of melting a metal onto other metal components in order to bind them. Soldering differs from welding. In welding, the component pieces are melted together; in soldering, a softer metal with a lower melting point is used to connect them.Because soldering doesn't melt components, it's useful for more delicate applications, such as electronics work, or plumbing. The purpose of soldering is to bind two other components. Solder can be thought of as a sort of \u201cmetal glue.\u201d It can be used to fill in gaps or hold pieces in place, but doesn't serve any more complicated purpose. Since solder is metallic, it conducts electricity, which is another reason it's so popular for connecting electronic components."
+        },
+        {
+          "headline":"Use solder to bind things.",
+          "description":"Solder is the name of the actual material used in soldering. Historically, many solders contained lead or cadmium, but that has been recently phased out for health reasons. Solder is typically composed of two or more metals combined into an alloy. Silver, antimony, copper, tin, and zinc are all common ingredients. Solder is soft and flexible. It generally comes in a coil, or spool, that can be stretched and bent. Solder has a low melting point, and cools extremely quickly after it's been melted. (350F - 500F)\nSolder can contain a flux core of natural rosin (tree sap) or a chemical acid. The metal of the solder encircles the core, like a tube. The purpose of the core is to serve as a flux, or purifying agent. The flux prevents oxidation in the solder as it cools, keeping it strong and pure."
+        },
+        {
+          "headline":"Use a soldering iron to heat the solder.",
+          "description":"Soldering irons come in various configurations, but are essentially straight tools with tips that can be heated to melt solder in place. Most soldering irons typically heat to between 800 and 900 degrees Fahrenheit, so exercise caution when using one. Soldering irons tend to catch a veneer of solder after each use, which can oxidize and reduce the iron's effectiveness on the next use. To clean this off easily, secure a wet sponge before you turn your iron on, and gently drag the tip across the sponge once the iron is heated. A layer of fresh solder on the tip can actually make a soldering iron more effective. This process is called \u201ctinning,\u201d and is done by allowing a bit of fresh solder to melt evenly over the tip before use. Better models of soldering iron come with a heat control that can be adjusted for different projects and types of solder."
+        },
+        {
+          "headline":"Use other equipment to assist in soldering.",
+          "description":"Soldering isn't especially dangerous or difficult if you take sensible precautions. To solder as efficiently and effectively as possible, there are a few useful pieces of equipment you should have. Clamps or alligator clips, for holding components in place while you solder them\nThick gloves, to protect your hands from the tip of the iron as you feed solder to it\nSafety glasses or goggles, to prevent any errant solder flecks from hitting your eyes\nA solder stand to rest your soldering iron on between applications."
+        },
+        {
+          "headline":"Turn on the lights.",
+          "description":"Be sure you can see everything clearly so that your work will be as accurate as possible. If you need to solder somewhere without much light, bring a bright light (such as a portable lamp) with you."
+        },
+        {
+          "headline":"Prepare adequate ventilation.",
+          "description":"Even without lead in the mix, solder and flux can produce harmful fumes. Avoid breathing in rosin or metal fumes by opening a window, turning on a fan, and generally doing whatever you can to keep air fresh."
+        },
+        {
+          "headline":"Don't solder for too long in one sitting.",
+          "description":"Soldering is a fast process, and it doesn't generally take more than a few minutes to do what needs to be done, but if you find yourself spending more than 15 or 20 minutes on a project, take regular breaks for fresh air."
+        }
+      ]
+    },
+    {
+      "name":"Solder Electronics",
+      "steps":[
+        {
+          "headline":"Pick your iron.",
+          "description":"Most electronic component soldering is done to fasten components to a PCB (printed circuit board). Therefore, an iron with a smaller tip is recommended. Consider a small flathead tip for ordinary work, or a conical point tip for fine detail soldering. Soldering irons don't have exchangeable tips, so you'll need to buy the one(s) you want. Fortunately, they start at around $15 in price, and a good quality iron can be had for around twice that. A typical soldering iron for electronics work will be a 40-watt iron that has a temperature (or a temperature setting) of 900 degrees. This allows the iron to easily melt electronics solder without damaging the small wires of the components themselves."
+        },
+        {
+          "headline":"Pick your solder.",
+          "description":"Both solid wire and Rosin-cored solders area available at stores and online. Be sure the solder you choose will bond to the materials you are trying to solder. Using solid wire solder may require a separate flux to break the oxide coating and allow the solder to bond. 60/40 tin and lead solder used to be the standard for electronics soldering, however due to the toxicity of lead it has fallen out of favor. Tin and silver solder is generally preferred today. The silver raises the melting point slightly to 430F, raises the price, but helps the solder to bind more smoothly. The numbers in solder descriptions are percentages of the element in the solder alloy. (60Sn/40Pb = 60% tin and 40% lead)"
+        },
+        {
+          "headline":"Prepare the iron.",
+          "description":"Plug in the iron and let it warm up on its stand for a few minutes. Be sure to gently wipe it across a sponge if it's been used previously, as described above. Tin it (as described above) once it's clean. When you're ready, set out your components, clips, and solder."
+        },
+        {
+          "headline":"Set a piece in place.",
+          "description":"Put a component in the spot you want to solder it. If soldering to a PCB, be sure the wires of the component are appropriately placed through its pinholes. For most components, use a small clip or clamp to hold them in place once you've set them."
+        },
+        {
+          "headline":"Pick up the solder wire.",
+          "description":"Hold a length of solder with your non-dominant hand. Use a long length to ensure that you'll be able to keep your hand well away from the tip of the iron."
+        },
+        {
+          "headline":"Heat the component.",
+          "description":"Touch the tip of the iron to the component you want to solder. Only touch it for about one second. This warms the metal so that it can handle the solder more flexibly. Quickly touch your solder wire to the soldering point, and apply the iron to it. The solder should melt immediately. Soldering to a PCB board should never require more than about 3-4 seconds' worth of molten solder. If more solder is required to secure the connection, feed it smoothly with your hand. Your solder should pool loosely, forming concave sides as it spreads around the component wire. It shouldn't ball up or look lumpy."
+        },
+        {
+          "headline":"Finish the solder.",
+          "description":"Pull the solder wire away first, wait one second, and then pull the iron away from the soldering point to let the molten solder cool. Again, this should only take 5 or 10 seconds at most. Be sure not to blow on the solder or otherwise try to help it cool. This can make it lumpy or add impurities."
+        },
+        {
+          "headline":"Repeat until finished.",
+          "description":"Repeat the above steps for each point you wish to solder. Re-tin your iron's tip every several applications, and once more before you put the iron away. This helps extend the life of the iron."
+        }
+      ]
+    },
+    {
+      "name":"Solder Pipes",
+      "steps":[
+        {
+          "headline":"Be prepared.",
+          "description":"Soldering copper pipes isn't hard, but it is considerably more involved than soldering electronics, and requires different equipment. People typically engage in pipe soldering to seal joints between sections of pipe, such as elbow turns."
+        },
+        {
+          "headline":"Use a torch.",
+          "description":"Instead of a soldering iron, a propane torch is generally recommended for soldering copper pipes together. These are widely available at hardware stores. Specialized soldering irons can be used for pipe soldering, but a propane torch is just as effective for most jobs, and much cheaper."
+        },
+        {
+          "headline":"Get appropriate solder.",
+          "description":"Manufacturers offer specialized solder wire for soldering pipes. It tends to be much thicker, usually 1/8\" in diameter. Pipe solders often contain an acid flux, however solid wire works as well. Solid wire solder may need a separate flux. Absolutely avoid using leaded solder for soldering your pipes. Be sure to closely read the label to determine the alloy composition. Pipe solders tend to compose mostly tin and may also contain antimony, copper, and/or silver."
+        },
+        {
+          "headline":"Have an abrasive item on hand.",
+          "description":"To be sure your solder takes, it's helpful to clean the pipe beforehand by scouring it with an emery cloth, sandpaper, or fine steel wool."
+        },
+        {
+          "headline":"Cut off the water.",
+          "description":"Turn off the water to your plumbing before you begin work. This will allow you to work with your pipes without fear of flooding or spraying the room. Before you turn the water off, pour a bucket of water. Keep the bucket nearby in case your torch catches anything on fire."
+        },
+        {
+          "headline":"Cut your pipe.",
+          "description":"If you're installing new piping, use a tube cutter to cut any pipe up to an inch in diameter. Tube cutters are available at hardware stores. Take it slowly. A tube cutter works best with slow, steady movement. Go too quickly and you might dent the pipe. For larger pipe, you'll have to use a hacksaw. File off the ragged edges afterward. Once the pipes are cut, fit them into whatever joints you'll need to solder tight."
+        },
+        {
+          "headline":"Clean up the pipe.",
+          "description":"Using an emery cloth or similar abrasive item, thoroughly abrade the area of pipe where you'll be applying solder to smooth and clean it. A smooth and clean surface will allow the solder to flow into the joint smoothly and seal it evenly."
+        },
+        {
+          "headline":"Solder the pipe.",
+          "description":"Fire up your propane torch and apply heat to the pipe you plan to solder. Maintain even heat by moving the flame all around the work area. Once the pipe is good and hot, apply the tip of your solder wire to the place you need to seal. It should melt right away. Hold the solder on the opposite side of the pipe from your torch. It should flow around the joint and fill it up all the way around. Let the joint cool. It will cool quickly. Move on to the next joint that needs sealing, if necessary."
+        },
+        {
+          "headline":"Check your work.",
+          "description":"Once you're finished, wait a few minutes and then turn the water back on. Run water through the pipes you soldered and check for leaks. If there are any, you'll have to repeat the process."
+        }
+      ]
+    }
+  ],
+  "text":" Soldering Basics Learn what soldering is. Put into basic terms, soldering is the process of melting a metal onto other metal components in order to bind them. Soldering differs from welding. In welding, the component pieces are melted together; in soldering, a softer metal with a lower melting point is used to connect them.Because soldering doesn't melt components, it's useful for more delicate applications, such as electronics work, or plumbing. The purpose of soldering is to bind two other components. Solder can be thought of as a sort of \u201cmetal glue.\u201d It can be used to fill in gaps or hold pieces in place, but doesn't serve any more complicated purpose. Since solder is metallic, it conducts electricity, which is another reason it's so popular for connecting electronic components. Use solder to bind things. Solder is the name of the actual material used in soldering. Historically, many solders contained lead or cadmium, but that has been recently phased out for health reasons. Solder is typically composed of two or more metals combined into an alloy. Silver, antimony, copper, tin, and zinc are all common ingredients. Solder is soft and flexible. It generally comes in a coil, or spool, that can be stretched and bent. Solder has a low melting point, and cools extremely quickly after it's been melted. (350F - 500F)\nSolder can contain a flux core of natural rosin (tree sap) or a chemical acid. The metal of the solder encircles the core, like a tube. The purpose of the core is to serve as a flux, or purifying agent. The flux prevents oxidation in the solder as it cools, keeping it strong and pure. Use a soldering iron to heat the solder. Soldering irons come in various configurations, but are essentially straight tools with tips that can be heated to melt solder in place. Most soldering irons typically heat to between 800 and 900 degrees Fahrenheit, so exercise caution when using one. Soldering irons tend to catch a veneer of solder after each use, which can oxidize and reduce the iron's effectiveness on the next use. To clean this off easily, secure a wet sponge before you turn your iron on, and gently drag the tip across the sponge once the iron is heated. A layer of fresh solder on the tip can actually make a soldering iron more effective. This process is called \u201ctinning,\u201d and is done by allowing a bit of fresh solder to melt evenly over the tip before use. Better models of soldering iron come with a heat control that can be adjusted for different projects and types of solder. Use other equipment to assist in soldering. Soldering isn't especially dangerous or difficult if you take sensible precautions. To solder as efficiently and effectively as possible, there are a few useful pieces of equipment you should have. Clamps or alligator clips, for holding components in place while you solder them\nThick gloves, to protect your hands from the tip of the iron as you feed solder to it\nSafety glasses or goggles, to prevent any errant solder flecks from hitting your eyes\nA solder stand to rest your soldering iron on between applications. Turn on the lights. Be sure you can see everything clearly so that your work will be as accurate as possible. If you need to solder somewhere without much light, bring a bright light (such as a portable lamp) with you. Prepare adequate ventilation. Even without lead in the mix, solder and flux can produce harmful fumes. Avoid breathing in rosin or metal fumes by opening a window, turning on a fan, and generally doing whatever you can to keep air fresh. Don't solder for too long in one sitting. Soldering is a fast process, and it doesn't generally take more than a few minutes to do what needs to be done, but if you find yourself spending more than 15 or 20 minutes on a project, take regular breaks for fresh air. Solder Electronics Pick your iron. Most electronic component soldering is done to fasten components to a PCB (printed circuit board). Therefore, an iron with a smaller tip is recommended. Consider a small flathead tip for ordinary work, or a conical point tip for fine detail soldering. Soldering irons don't have exchangeable tips, so you'll need to buy the one(s) you want. Fortunately, they start at around $15 in price, and a good quality iron can be had for around twice that. A typical soldering iron for electronics work will be a 40-watt iron that has a temperature (or a temperature setting) of 900 degrees. This allows the iron to easily melt electronics solder without damaging the small wires of the components themselves. Pick your solder. Both solid wire and Rosin-cored solders area available at stores and online. Be sure the solder you choose will bond to the materials you are trying to solder. Using solid wire solder may require a separate flux to break the oxide coating and allow the solder to bond. 60/40 tin and lead solder used to be the standard for electronics soldering, however due to the toxicity of lead it has fallen out of favor. Tin and silver solder is generally preferred today. The silver raises the melting point slightly to 430F, raises the price, but helps the solder to bind more smoothly. The numbers in solder descriptions are percentages of the element in the solder alloy. (60Sn/40Pb = 60% tin and 40% lead) Prepare the iron. Plug in the iron and let it warm up on its stand for a few minutes. Be sure to gently wipe it across a sponge if it's been used previously, as described above. Tin it (as described above) once it's clean. When you're ready, set out your components, clips, and solder. Set a piece in place. Put a component in the spot you want to solder it. If soldering to a PCB, be sure the wires of the component are appropriately placed through its pinholes. For most components, use a small clip or clamp to hold them in place once you've set them. Pick up the solder wire. Hold a length of solder with your non-dominant hand. Use a long length to ensure that you'll be able to keep your hand well away from the tip of the iron. Heat the component. Touch the tip of the iron to the component you want to solder. Only touch it for about one second. This warms the metal so that it can handle the solder more flexibly. Quickly touch your solder wire to the soldering point, and apply the iron to it. The solder should melt immediately. Soldering to a PCB board should never require more than about 3-4 seconds' worth of molten solder. If more solder is required to secure the connection, feed it smoothly with your hand. Your solder should pool loosely, forming concave sides as it spreads around the component wire. It shouldn't ball up or look lumpy. Finish the solder. Pull the solder wire away first, wait one second, and then pull the iron away from the soldering point to let the molten solder cool. Again, this should only take 5 or 10 seconds at most. Be sure not to blow on the solder or otherwise try to help it cool. This can make it lumpy or add impurities. Repeat until finished. Repeat the above steps for each point you wish to solder. Re-tin your iron's tip every several applications, and once more before you put the iron away. This helps extend the life of the iron. Solder Pipes Be prepared. Soldering copper pipes isn't hard, but it is considerably more involved than soldering electronics, and requires different equipment. People typically engage in pipe soldering to seal joints between sections of pipe, such as elbow turns. Use a torch. Instead of a soldering iron, a propane torch is generally recommended for soldering copper pipes together. These are widely available at hardware stores. Specialized soldering irons can be used for pipe soldering, but a propane torch is just as effective for most jobs, and much cheaper. Get appropriate solder. Manufacturers offer specialized solder wire for soldering pipes. It tends to be much thicker, usually 1/8\" in diameter. Pipe solders often contain an acid flux, however solid wire works as well. Solid wire solder may need a separate flux. Absolutely avoid using leaded solder for soldering your pipes. Be sure to closely read the label to determine the alloy composition. Pipe solders tend to compose mostly tin and may also contain antimony, copper, and/or silver. Have an abrasive item on hand. To be sure your solder takes, it's helpful to clean the pipe beforehand by scouring it with an emery cloth, sandpaper, or fine steel wool. Cut off the water. Turn off the water to your plumbing before you begin work. This will allow you to work with your pipes without fear of flooding or spraying the room. Before you turn the water off, pour a bucket of water. Keep the bucket nearby in case your torch catches anything on fire. Cut your pipe. If you're installing new piping, use a tube cutter to cut any pipe up to an inch in diameter. Tube cutters are available at hardware stores. Take it slowly. A tube cutter works best with slow, steady movement. Go too quickly and you might dent the pipe. For larger pipe, you'll have to use a hacksaw. File off the ragged edges afterward. Once the pipes are cut, fit them into whatever joints you'll need to solder tight. Clean up the pipe. Using an emery cloth or similar abrasive item, thoroughly abrade the area of pipe where you'll be applying solder to smooth and clean it. A smooth and clean surface will allow the solder to flow into the joint smoothly and seal it evenly. Solder the pipe. Fire up your propane torch and apply heat to the pipe you plan to solder. Maintain even heat by moving the flame all around the work area. Once the pipe is good and hot, apply the tip of your solder wire to the place you need to seal. It should melt right away. Hold the solder on the opposite side of the pipe from your torch. It should flow around the joint and fill it up all the way around. Let the joint cool. It will cool quickly. Move on to the next joint that needs sealing, if necessary. Check your work. Once you're finished, wait a few minutes and then turn the water back on. Run water through the pipes you soldered and check for leaks. If there are any, you'll have to repeat the process.",
+  "sentences":[
+    " Soldering Basics Learn what soldering is.",
+    "Put into basic terms, soldering is the process of melting a metal onto other metal components in order to bind them.",
+    "Soldering differs from welding.",
+    "In welding, the component pieces are melted together; in soldering, a softer metal with a lower melting point is used to connect them.Because soldering doesn't melt components, it's useful for more delicate applications, such as electronics work, or plumbing.",
+    "The purpose of soldering is to bind two other components.",
+    "Solder can be thought of as a sort of \u201cmetal glue.\u201d It can be used to fill in gaps or hold pieces in place, but doesn't serve any more complicated purpose.",
+    "Since solder is metallic, it conducts electricity, which is another reason it's so popular for connecting electronic components.",
+    "Use solder to bind things.",
+    "Solder is the name of the actual material used in soldering.",
+    "Historically, many solders contained lead or cadmium, but that has been recently phased out for health reasons.",
+    "Solder is typically composed of two or more metals combined into an alloy.",
+    "Silver, antimony, copper, tin, and zinc are all common ingredients.",
+    "Solder is soft and flexible.",
+    "It generally comes in a coil, or spool, that can be stretched and bent.",
+    "Solder has a low melting point, and cools extremely quickly after it's been melted.",
+    "(350F - 500F)\nSolder can contain a flux core of natural rosin (tree sap) or a chemical acid.",
+    "The metal of the solder encircles the core, like a tube.",
+    "The purpose of the core is to serve as a flux, or purifying agent.",
+    "The flux prevents oxidation in the solder as it cools, keeping it strong and pure.",
+    "Use a soldering iron to heat the solder.",
+    "Soldering irons come in various configurations, but are essentially straight tools with tips that can be heated to melt solder in place.",
+    "Most soldering irons typically heat to between 800 and 900 degrees Fahrenheit, so exercise caution when using one.",
+    "Soldering irons tend to catch a veneer of solder after each use, which can oxidize and reduce the iron's effectiveness on the next use.",
+    "To clean this off easily, secure a wet sponge before you turn your iron on, and gently drag the tip across the sponge once the iron is heated.",
+    "A layer of fresh solder on the tip can actually make a soldering iron more effective.",
+    "This process is called \u201ctinning,\u201d and is done by allowing a bit of fresh solder to melt evenly over the tip before use.",
+    "Better models of soldering iron come with a heat control that can be adjusted for different projects and types of solder.",
+    "Use other equipment to assist in soldering.",
+    "Soldering isn't especially dangerous or difficult if you take sensible precautions.",
+    "To solder as efficiently and effectively as possible, there are a few useful pieces of equipment you should have.",
+    "Clamps or alligator clips, for holding components in place while you solder them\nThick gloves, to protect your hands from the tip of the iron as you feed solder to it\nSafety glasses or goggles, to prevent any errant solder flecks from hitting your eyes\nA solder stand to rest your soldering iron on between applications.",
+    "Turn on the lights.",
+    "Be sure you can see everything clearly so that your work will be as accurate as possible.",
+    "If you need to solder somewhere without much light, bring a bright light (such as a portable lamp) with you.",
+    "Prepare adequate ventilation.",
+    "Even without lead in the mix, solder and flux can produce harmful fumes.",
+    "Avoid breathing in rosin or metal fumes by opening a window, turning on a fan, and generally doing whatever you can to keep air fresh.",
+    "Don't solder for too long in one sitting.",
+    "Soldering is a fast process, and it doesn't generally take more than a few minutes to do what needs to be done, but if you find yourself spending more than 15 or 20 minutes on a project, take regular breaks for fresh air.",
+    "Solder Electronics Pick your iron.",
+    "Most electronic component soldering is done to fasten components to a PCB (printed circuit board).",
+    "Therefore, an iron with a smaller tip is recommended.",
+    "Consider a small flathead tip for ordinary work, or a conical point tip for fine detail soldering.",
+    "Soldering irons don't have exchangeable tips, so you'll need to buy the one(s) you want.",
+    "Fortunately, they start at around $15 in price, and a good quality iron can be had for around twice that.",
+    "A typical soldering iron for electronics work will be a 40-watt iron that has a temperature (or a temperature setting) of 900 degrees.",
+    "This allows the iron to easily melt electronics solder without damaging the small wires of the components themselves.",
+    "Pick your solder.",
+    "Both solid wire and Rosin-cored solders area available at stores and online.",
+    "Be sure the solder you choose will bond to the materials you are trying to solder.",
+    "Using solid wire solder may require a separate flux to break the oxide coating and allow the solder to bond.",
+    "60/40 tin and lead solder used to be the standard for electronics soldering, however due to the toxicity of lead it has fallen out of favor.",
+    "Tin and silver solder is generally preferred today.",
+    "The silver raises the melting point slightly to 430F, raises the price, but helps the solder to bind more smoothly.",
+    "The numbers in solder descriptions are percentages of the element in the solder alloy.",
+    "(60Sn/40Pb = 60% tin and 40% lead) Prepare the iron.",
+    "Plug in the iron and let it warm up on its stand for a few minutes.",
+    "Be sure to gently wipe it across a sponge if it's been used previously, as described above.",
+    "Tin it (as described above) once it's clean.",
+    "When you're ready, set out your components, clips, and solder.",
+    "Set a piece in place.",
+    "Put a component in the spot you want to solder it.",
+    "If soldering to a PCB, be sure the wires of the component are appropriately placed through its pinholes.",
+    "For most components, use a small clip or clamp to hold them in place once you've set them.",
+    "Pick up the solder wire.",
+    "Hold a length of solder with your non-dominant hand.",
+    "Use a long length to ensure that you'll be able to keep your hand well away from the tip of the iron.",
+    "Heat the component.",
+    "Touch the tip of the iron to the component you want to solder.",
+    "Only touch it for about one second.",
+    "This warms the metal so that it can handle the solder more flexibly.",
+    "Quickly touch your solder wire to the soldering point, and apply the iron to it.",
+    "The solder should melt immediately.",
+    "Soldering to a PCB board should never require more than about 3-4 seconds' worth of molten solder.",
+    "If more solder is required to secure the connection, feed it smoothly with your hand.",
+    "Your solder should pool loosely, forming concave sides as it spreads around the component wire.",
+    "It shouldn't ball up or look lumpy.",
+    "Finish the solder.",
+    "Pull the solder wire away first, wait one second, and then pull the iron away from the soldering point to let the molten solder cool.",
+    "Again, this should only take 5 or 10 seconds at most.",
+    "Be sure not to blow on the solder or otherwise try to help it cool.",
+    "This can make it lumpy or add impurities.",
+    "Repeat until finished.",
+    "Repeat the above steps for each point you wish to solder.",
+    "Re-tin your iron's tip every several applications, and once more before you put the iron away.",
+    "This helps extend the life of the iron.",
+    "Solder Pipes Be prepared.",
+    "Soldering copper pipes isn't hard, but it is considerably more involved than soldering electronics, and requires different equipment.",
+    "People typically engage in pipe soldering to seal joints between sections of pipe, such as elbow turns.",
+    "Use a torch.",
+    "Instead of a soldering iron, a propane torch is generally recommended for soldering copper pipes together.",
+    "These are widely available at hardware stores.",
+    "Specialized soldering irons can be used for pipe soldering, but a propane torch is just as effective for most jobs, and much cheaper.",
+    "Get appropriate solder.",
+    "Manufacturers offer specialized solder wire for soldering pipes.",
+    "It tends to be much thicker, usually 1/8\" in diameter.",
+    "Pipe solders often contain an acid flux, however solid wire works as well.",
+    "Solid wire solder may need a separate flux.",
+    "Absolutely avoid using leaded solder for soldering your pipes.",
+    "Be sure to closely read the label to determine the alloy composition.",
+    "Pipe solders tend to compose mostly tin and may also contain antimony, copper, and/or silver.",
+    "Have an abrasive item on hand.",
+    "To be sure your solder takes, it's helpful to clean the pipe beforehand by scouring it with an emery cloth, sandpaper, or fine steel wool.",
+    "Cut off the water.",
+    "Turn off the water to your plumbing before you begin work.",
+    "This will allow you to work with your pipes without fear of flooding or spraying the room.",
+    "Before you turn the water off, pour a bucket of water.",
+    "Keep the bucket nearby in case your torch catches anything on fire.",
+    "Cut your pipe.",
+    "If you're installing new piping, use a tube cutter to cut any pipe up to an inch in diameter.",
+    "Tube cutters are available at hardware stores.",
+    "Take it slowly.",
+    "A tube cutter works best with slow, steady movement.",
+    "Go too quickly and you might dent the pipe.",
+    "For larger pipe, you'll have to use a hacksaw.",
+    "File off the ragged edges afterward.",
+    "Once the pipes are cut, fit them into whatever joints you'll need to solder tight.",
+    "Clean up the pipe.",
+    "Using an emery cloth or similar abrasive item, thoroughly abrade the area of pipe where you'll be applying solder to smooth and clean it.",
+    "A smooth and clean surface will allow the solder to flow into the joint smoothly and seal it evenly.",
+    "Solder the pipe.",
+    "Fire up your propane torch and apply heat to the pipe you plan to solder.",
+    "Maintain even heat by moving the flame all around the work area.",
+    "Once the pipe is good and hot, apply the tip of your solder wire to the place you need to seal.",
+    "It should melt right away.",
+    "Hold the solder on the opposite side of the pipe from your torch.",
+    "It should flow around the joint and fill it up all the way around.",
+    "Let the joint cool.",
+    "It will cool quickly.",
+    "Move on to the next joint that needs sealing, if necessary.",
+    "Check your work.",
+    "Once you're finished, wait a few minutes and then turn the water back on.",
+    "Run water through the pipes you soldered and check for leaks.",
+    "If there are any, you'll have to repeat the process."
+  ],
+  "tyn_section":[
+    "A soldering iron or propane torch",
+    "Appropriate solder for your application.",
+    "A solder stand",
+    "Clips or clamps for holding components in place",
+    "Components to solder",
+    "Safety equipment",
+    "A tube cutter or hacksaw, if cutting pipe",
+    "Abrasive material for smoothing pipe"
+  ],
+  "tyn_model":[
+    "solder",
+    "iron",
+    "soldering iron",
+    "water",
+    "soldering",
+    "soldering irons",
+    "solder wire",
+    "sponge",
+    "propane torch",
+    "tin",
+    "torch",
+    "pipe solders",
+    "bucket",
+    "tube cutter",
+    "welding",
+    "\u201cmetal",
+    "\u201d it",
+    "solders",
+    "copper",
+    "zinc",
+    "chemical acid",
+    "\u201ctinning",
+    "\u201d and",
+    "alligator clips",
+    "solder stand",
+    "solid wire and rosin-cored solders",
+    "solid wire solder",
+    "silver",
+    "lead",
+    "component wire",
+    "soldering electronics",
+    "solid wire",
+    "fine steel wool",
+    "tube cutters",
+    "hacksaw",
+    "emery cloth"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.125,
+    "p":0.0277777778,
+    "f1":0.0454545455
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.375,
+    "p":0.1111111111,
+    "f1":0.1714285714
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.125,
+    "p":0.0277777778,
+    "f1":0.0454545455
+  }
+}

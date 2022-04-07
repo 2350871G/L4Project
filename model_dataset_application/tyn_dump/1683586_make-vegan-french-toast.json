@@ -1,0 +1,93 @@
+{
+  "title":"How to Make Vegan French Toast",
+  "url":"https://www.wikihow.com/Make-Vegan-French-Toast",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Vegetarian",
+    "Vegan",
+    "Vegan Baking"
+  ],
+  "steps":[
+    {
+      "headline":"Heat a nonstick or clad-iron skillet on your stove at medium heat.",
+      "description":""
+    },
+    {
+      "headline":"Mix together the milk, egg replacer, maple syrup, and vanilla in a large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Melt the butter to the skillet over medium heat.",
+      "description":""
+    },
+    {
+      "headline":"Dip the bread into the milk mixture, dousing it completely on both sides.",
+      "description":""
+    },
+    {
+      "headline":"Immediately place the bread into the hot skillet, browning both sides (about two minutes per side).",
+      "description":"Use a spatula to turn the bread over."
+    },
+    {
+      "headline":"Remove the French toast from the pan using the spatula and place on a plate to cool.",
+      "description":""
+    },
+    {
+      "headline":"Add fresh berries, shaved coconut, or a drizzle of warm maple syrup, if desired.",
+      "description":""
+    }
+  ],
+  "text":" Heat a nonstick or clad-iron skillet on your stove at medium heat.  Mix together the milk, egg replacer, maple syrup, and vanilla in a large bowl.  Melt the butter to the skillet over medium heat.  Dip the bread into the milk mixture, dousing it completely on both sides.  Immediately place the bread into the hot skillet, browning both sides (about two minutes per side). Use a spatula to turn the bread over. Remove the French toast from the pan using the spatula and place on a plate to cool.  Add fresh berries, shaved coconut, or a drizzle of warm maple syrup, if desired. ",
+  "sentences":[
+    " Heat a nonstick or clad-iron skillet on your stove at medium heat.",
+    "Mix together the milk, egg replacer, maple syrup, and vanilla in a large bowl.",
+    "Melt the butter to the skillet over medium heat.",
+    "Dip the bread into the milk mixture, dousing it completely on both sides.",
+    "Immediately place the bread into the hot skillet, browning both sides (about two minutes per side).",
+    "Use a spatula to turn the bread over.",
+    "Remove the French toast from the pan using the spatula and place on a plate to cool.",
+    "Add fresh berries, shaved coconut, or a drizzle of warm maple syrup, if desired."
+  ],
+  "tyn_section":[
+    "Nonstick or clad-iron skillet",
+    "Large bowl",
+    "Spatula",
+    "Plate"
+  ],
+  "tyn_model":[
+    "milk",
+    "maple syrup",
+    "skillet",
+    "spatula",
+    "nonstick or clad-iron skillet",
+    "stove",
+    "vanilla",
+    "large bowl",
+    "butter",
+    "french toast",
+    "plate",
+    "coconut"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5,
+    "avg_pos":0.3333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  }
+}

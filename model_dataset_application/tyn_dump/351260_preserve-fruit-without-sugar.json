@@ -1,0 +1,111 @@
+{
+  "title":"How to Preserve Fruit Without Sugar",
+  "url":"https://www.wikihow.com/Preserve-Fruit-Without-Sugar",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Preservation Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Gather the fruit before it is very ripe.",
+      "description":"Slightly under ripe fruit has firmer flesh that stands up to the process used for preserving it better than very ripe fruit."
+    },
+    {
+      "headline":"Prepare the fruit by thoroughly washing it, and for fruits where it is desirable, peeling and removing the pits or seeds.",
+      "description":""
+    },
+    {
+      "headline":"Put it in wide-mouthed bottles.",
+      "description":"Canning jars with dome type lids using modern latex seals create a safer seal than do old cork-stoppered canning bottles described in the original instructions."
+    },
+    {
+      "headline":"Fill them as full as they will hold and cork them tight.",
+      "description":"If using canning jars, install dome lids and bands and tighten snugly."
+    },
+    {
+      "headline":"Seal the corks.",
+      "description":"This is done by melting paraffin wax and dipping the corks in it."
+    },
+    {
+      "headline":"Put some hay in a large saucepan.",
+      "description":"This will prevent the bottles from bumping together while the water is boiled, which could cause them to crack."
+    },
+    {
+      "headline":"Set in the bottles with hay between them to prevent their touching.",
+      "description":"You may choose to use cotton washcloths if hay is not easily obtainable, but remember, these instructions were originally published in the mid-19th century, so many homes had livestock, and hay was plentiful."
+    },
+    {
+      "headline":"Fill the saucepan with water to the necks of the bottles (or jars, if using modern materials), and set it over the fire (or on the stove top) until the water is nearly boiled away.",
+      "description":"The idea is to heat the fruit inside the jars to a sufficiently hot temperature to sterilize the contents without actually cooking them."
+    },
+    {
+      "headline":"Take the pot off the fire or stove, and let it stand until the bottles are cool.",
+      "description":""
+    },
+    {
+      "headline":"Store the bottles or jars in a cool place until wanted, when the fruit will be found equal to fresh.",
+      "description":""
+    }
+  ],
+  "text":" Gather the fruit before it is very ripe. Slightly under ripe fruit has firmer flesh that stands up to the process used for preserving it better than very ripe fruit. Prepare the fruit by thoroughly washing it, and for fruits where it is desirable, peeling and removing the pits or seeds.  Put it in wide-mouthed bottles. Canning jars with dome type lids using modern latex seals create a safer seal than do old cork-stoppered canning bottles described in the original instructions. Fill them as full as they will hold and cork them tight. If using canning jars, install dome lids and bands and tighten snugly. Seal the corks. This is done by melting paraffin wax and dipping the corks in it. Put some hay in a large saucepan. This will prevent the bottles from bumping together while the water is boiled, which could cause them to crack. Set in the bottles with hay between them to prevent their touching. You may choose to use cotton washcloths if hay is not easily obtainable, but remember, these instructions were originally published in the mid-19th century, so many homes had livestock, and hay was plentiful. Fill the saucepan with water to the necks of the bottles (or jars, if using modern materials), and set it over the fire (or on the stove top) until the water is nearly boiled away. The idea is to heat the fruit inside the jars to a sufficiently hot temperature to sterilize the contents without actually cooking them. Take the pot off the fire or stove, and let it stand until the bottles are cool.  Store the bottles or jars in a cool place until wanted, when the fruit will be found equal to fresh. ",
+  "sentences":[
+    " Gather the fruit before it is very ripe.",
+    "Slightly under ripe fruit has firmer flesh that stands up to the process used for preserving it better than very ripe fruit.",
+    "Prepare the fruit by thoroughly washing it, and for fruits where it is desirable, peeling and removing the pits or seeds.",
+    "Put it in wide-mouthed bottles.",
+    "Canning jars with dome type lids using modern latex seals create a safer seal than do old cork-stoppered canning bottles described in the original instructions.",
+    "Fill them as full as they will hold and cork them tight.",
+    "If using canning jars, install dome lids and bands and tighten snugly.",
+    "Seal the corks.",
+    "This is done by melting paraffin wax and dipping the corks in it.",
+    "Put some hay in a large saucepan.",
+    "This will prevent the bottles from bumping together while the water is boiled, which could cause them to crack.",
+    "Set in the bottles with hay between them to prevent their touching.",
+    "You may choose to use cotton washcloths if hay is not easily obtainable, but remember, these instructions were originally published in the mid-19th century, so many homes had livestock, and hay was plentiful.",
+    "Fill the saucepan with water to the necks of the bottles (or jars, if using modern materials), and set it over the fire (or on the stove top) until the water is nearly boiled away.",
+    "The idea is to heat the fruit inside the jars to a sufficiently hot temperature to sterilize the contents without actually cooking them.",
+    "Take the pot off the fire or stove, and let it stand until the bottles are cool.",
+    "Store the bottles or jars in a cool place until wanted, when the fruit will be found equal to fresh."
+  ],
+  "tyn_section":[
+    "Wide-mouthed bottle(s)",
+    "Hay",
+    "A large saucepan",
+    "Fruit"
+  ],
+  "tyn_model":[
+    "hay",
+    "water",
+    "canning jars",
+    "stove",
+    "bottles",
+    "paraffin wax",
+    "large saucepan",
+    "saucepan",
+    "pot",
+    "fire",
+    "jars"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.0909090909,
+    "f1":0.1333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2727272727,
+    "f1":0.3529411765
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667
+  }
+}

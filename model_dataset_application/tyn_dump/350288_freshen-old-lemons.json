@@ -1,0 +1,74 @@
+{
+  "title":"How to Freshen Old Lemons",
+  "url":"https://www.wikihow.com/Freshen-Old-Lemons",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Preservation Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Boil a pan of water on the stove.",
+      "description":""
+    },
+    {
+      "headline":"Reduce the water to simmering.",
+      "description":""
+    },
+    {
+      "headline":"Place the old lemons into the simmering water.",
+      "description":""
+    },
+    {
+      "headline":"Allow to simmer at an even temperature for up to two hours.",
+      "description":"Keep a regular eye on the lemons and make sure that the water does not evaporate."
+    },
+    {
+      "headline":"Remove from the heat.",
+      "description":"Take out the saucepans and allow to cool on a wire rack. The lemons should be soft and juicy again. Use immediately."
+    }
+  ],
+  "text":" Boil a pan of water on the stove.  Reduce the water to simmering.  Place the old lemons into the simmering water.  Allow to simmer at an even temperature for up to two hours. Keep a regular eye on the lemons and make sure that the water does not evaporate. Remove from the heat. Take out the saucepans and allow to cool on a wire rack. The lemons should be soft and juicy again. Use immediately.",
+  "sentences":[
+    " Boil a pan of water on the stove.",
+    "Reduce the water to simmering.",
+    "Place the old lemons into the simmering water.",
+    "Allow to simmer at an even temperature for up to two hours.",
+    "Keep a regular eye on the lemons and make sure that the water does not evaporate.",
+    "Remove from the heat.",
+    "Take out the saucepans and allow to cool on a wire rack.",
+    "The lemons should be soft and juicy again.",
+    "Use immediately."
+  ],
+  "tyn_section":[
+    "Saucepan",
+    "Water",
+    "Wire rack"
+  ],
+  "tyn_model":[
+    "water",
+    "saucepans",
+    "wire rack"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "title":"How to Keep Fruit Cake from Sinking During Baking",
+  "url":"https://www.wikihow.com/Keep-Fruit-Cake-from-Sinking-During-Baking",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cakes",
+    "Fruit Cakes"
+  ],
+  "methods":[
+    {
+      "name":"Baking Powder",
+      "steps":[
+        {
+          "headline":"Sprinkle a little bit of baking powder across the base of the cake pan (tin).",
+          "description":"Do this prior to adding the fruit cake batter. If you are using parchment paper (baking paper), sprinkle the baking powder over that."
+        },
+        {
+          "headline":"Pour the batter into the pan.",
+          "description":"It will sit over the top of the baking soda."
+        },
+        {
+          "headline":"Bake the fruit cake as usual.",
+          "description":"Follow the instructions for your recipe properly - in conjunction with complying accurately with the measurements and cooking directions, the baking soda should do the trick an help stop the fruit cake from sinking during backing."
+        },
+        {
+          "headline":"Finished.",
+          "description":"Remove from the oven when baked and cool according to the recipe's instructions. Your fruit cake should be in great shape!"
+        }
+      ]
+    },
+    {
+      "name":"Flour Coating",
+      "steps":[
+        {
+          "headline":"Place the fruit to be added to the fruit cake into a bowl.",
+          "description":"The fruit should be of the size needed already, so cut if needed before adding to the bowl. Any large pieces of fruit must be cut smaller, in order to prevent their weight from causing these pieces to stick."
+        },
+        {
+          "headline":"Add a small scoop of flour to this bowl.",
+          "description":"The amount of flour should be taken out of the flour being used in the recipe, to avoid adding too much flour in the recipe."
+        },
+        {
+          "headline":"Toss the flour gently over all of the dried fruit.",
+          "description":"It is important to coat as much of the fruit pieces as possible. The flour stops the fruit from clumping together (allowing for better distribution across the cake), and it will also prevent the fruit from getting stuck to the cake batter and sinking downward."
+        },
+        {
+          "headline":"Add the flour coated fruit to the cake batter.",
+          "description":"Follow the recipe and add the flour coated fruit when appropriate, then transfer to the prepared baking pan."
+        }
+      ]
+    }
+  ],
+  "text":" Baking Powder Sprinkle a little bit of baking powder across the base of the cake pan (tin). Do this prior to adding the fruit cake batter. If you are using parchment paper (baking paper), sprinkle the baking powder over that. Pour the batter into the pan. It will sit over the top of the baking soda. Bake the fruit cake as usual. Follow the instructions for your recipe properly - in conjunction with complying accurately with the measurements and cooking directions, the baking soda should do the trick an help stop the fruit cake from sinking during backing. Finished. Remove from the oven when baked and cool according to the recipe's instructions. Your fruit cake should be in great shape! Flour Coating Place the fruit to be added to the fruit cake into a bowl. The fruit should be of the size needed already, so cut if needed before adding to the bowl. Any large pieces of fruit must be cut smaller, in order to prevent their weight from causing these pieces to stick. Add a small scoop of flour to this bowl. The amount of flour should be taken out of the flour being used in the recipe, to avoid adding too much flour in the recipe. Toss the flour gently over all of the dried fruit. It is important to coat as much of the fruit pieces as possible. The flour stops the fruit from clumping together (allowing for better distribution across the cake), and it will also prevent the fruit from getting stuck to the cake batter and sinking downward. Add the flour coated fruit to the cake batter. Follow the recipe and add the flour coated fruit when appropriate, then transfer to the prepared baking pan.",
+  "sentences":[
+    " Baking Powder Sprinkle a little bit of baking powder across the base of the cake pan (tin).",
+    "Do this prior to adding the fruit cake batter.",
+    "If you are using parchment paper (baking paper), sprinkle the baking powder over that.",
+    "Pour the batter into the pan.",
+    "It will sit over the top of the baking soda.",
+    "Bake the fruit cake as usual.",
+    "Follow the instructions for your recipe properly - in conjunction with complying accurately with the measurements and cooking directions, the baking soda should do the trick an help stop the fruit cake from sinking during backing.",
+    "Finished.",
+    "Remove from the oven when baked and cool according to the recipe's instructions.",
+    "Your fruit cake should be in great shape!",
+    "Flour Coating Place the fruit to be added to the fruit cake into a bowl.",
+    "The fruit should be of the size needed already, so cut if needed before adding to the bowl.",
+    "Any large pieces of fruit must be cut smaller, in order to prevent their weight from causing these pieces to stick.",
+    "Add a small scoop of flour to this bowl.",
+    "The amount of flour should be taken out of the flour being used in the recipe, to avoid adding too much flour in the recipe.",
+    "Toss the flour gently over all of the dried fruit.",
+    "It is important to coat as much of the fruit pieces as possible.",
+    "The flour stops the fruit from clumping together (allowing for better distribution across the cake), and it will also prevent the fruit from getting stuck to the cake batter and sinking downward.",
+    "Add the flour coated fruit to the cake batter.",
+    "Follow the recipe and add the flour coated fruit when appropriate, then transfer to the prepared baking pan."
+  ],
+  "tyn_section":[
+    "Baking powder",
+    "Fruit cake recipe and ingredients"
+  ],
+  "tyn_model":[
+    "flour",
+    "fruit cake",
+    "baking powder",
+    "bowl",
+    "baking soda",
+    "cake batter",
+    "cake pan",
+    "fruit cake batter",
+    "parchment paper",
+    "baking paper",
+    "oven",
+    "flour coating",
+    "baking pan"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.0769230769,
+    "f1":0.1333333333,
+    "avg_pos":0.1538461538
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.0769230769,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4615384615,
+    "f1":0.6315789474
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.0769230769,
+    "f1":0.1333333333
+  }
+}

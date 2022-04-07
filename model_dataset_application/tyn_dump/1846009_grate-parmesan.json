@@ -1,0 +1,110 @@
+{
+  "title":"How to Grate Parmesan",
+  "url":"https://www.wikihow.com/Grate-Parmesan",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Basic Cooking Skills"
+  ],
+  "methods":[
+    {
+      "name":"Grating Parmesan Using a Hand Grater",
+      "steps":[
+        {
+          "headline":"Place your cheese grater in a shallow bowl.",
+          "description":"You could also use a flat chopping board or a large plate, but you\u2019ll want to make sure that it\u2019s big enough to catch the bits of grated cheese that will be hard to contain."
+        },
+        {
+          "headline":"Grasp the fresh brick of Parmesan and slide it up and down the grater.",
+          "description":"If your grater has multiple-sized holes, use the side with the larger holes that produce an extra-course grate."
+        },
+        {
+          "headline":"Use a knife or spoon to scrape any cheese clinging to the grate.",
+          "description":"If you are using a box-type grater, be sure to scrape the cheese clinging to the inside of the grater as well. The colder your Parmesan, the less likely it will be that the grated cheese will stick to the grater."
+        },
+        {
+          "headline":"Transfer the grated cheese to individual serving bowls.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Grating Parmesan Using a Blender",
+      "steps":[
+        {
+          "headline":"Place the brick of cheese on a cutting board.",
+          "description":""
+        },
+        {
+          "headline":"Cut the Parmesan into 1/2\" (1.27 cm) chunks using a knife.",
+          "description":""
+        },
+        {
+          "headline":"Toss 3 or 4 chunks into the blender at a time.",
+          "description":""
+        },
+        {
+          "headline":"Use the \u201cgrate\u201d setting.",
+          "description":"If your blender doesn\u2019t have a \u201cgrate\u201d setting, use the pulse function and pulse the cheese in short bursts."
+        }
+      ]
+    }
+  ],
+  "text":" Grating Parmesan Using a Hand Grater Place your cheese grater in a shallow bowl. You could also use a flat chopping board or a large plate, but you\u2019ll want to make sure that it\u2019s big enough to catch the bits of grated cheese that will be hard to contain. Grasp the fresh brick of Parmesan and slide it up and down the grater. If your grater has multiple-sized holes, use the side with the larger holes that produce an extra-course grate. Use a knife or spoon to scrape any cheese clinging to the grate. If you are using a box-type grater, be sure to scrape the cheese clinging to the inside of the grater as well. The colder your Parmesan, the less likely it will be that the grated cheese will stick to the grater. Transfer the grated cheese to individual serving bowls.  Grating Parmesan Using a Blender Place the brick of cheese on a cutting board.  Cut the Parmesan into 1/2\" (1.27 cm) chunks using a knife.  Toss 3 or 4 chunks into the blender at a time.  Use the \u201cgrate\u201d setting. If your blender doesn\u2019t have a \u201cgrate\u201d setting, use the pulse function and pulse the cheese in short bursts.",
+  "sentences":[
+    " Grating Parmesan Using a Hand Grater Place your cheese grater in a shallow bowl.",
+    "You could also use a flat chopping board or a large plate, but you\u2019ll want to make sure that it\u2019s big enough to catch the bits of grated cheese that will be hard to contain.",
+    "Grasp the fresh brick of Parmesan and slide it up and down the grater.",
+    "If your grater has multiple-sized holes, use the side with the larger holes that produce an extra-course grate.",
+    "Use a knife or spoon to scrape any cheese clinging to the grate.",
+    "If you are using a box-type grater, be sure to scrape the cheese clinging to the inside of the grater as well.",
+    "The colder your Parmesan, the less likely it will be that the grated cheese will stick to the grater.",
+    "Transfer the grated cheese to individual serving bowls.",
+    "Grating Parmesan Using a Blender Place the brick of cheese on a cutting board.",
+    "Cut the Parmesan into 1/2\" (1.27 cm) chunks using a knife.",
+    "Toss 3 or 4 chunks into the blender at a time.",
+    "Use the \u201cgrate\u201d setting.",
+    "If your blender doesn\u2019t have a \u201cgrate\u201d setting, use the pulse function and pulse the cheese in short bursts."
+  ],
+  "tyn_section":[
+    "Grater",
+    "Food processor or blender (optional)",
+    "Shallow bowl, or large cutting board or plate",
+    "Knife or spoon",
+    "Individual serving bowls",
+    "Airtight container (if storing extra for later)"
+  ],
+  "tyn_model":[
+    "grater",
+    "parmesan",
+    "blender",
+    "knife",
+    "\u201cgrate",
+    "\u201d setting",
+    "cheese grater",
+    "large plate",
+    "spoon",
+    "cheese"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.1,
+    "f1":0.125,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.2,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.4,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.1,
+    "f1":0.125
+  }
+}

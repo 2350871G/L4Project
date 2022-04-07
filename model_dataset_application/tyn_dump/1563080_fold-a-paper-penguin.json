@@ -1,0 +1,122 @@
+{
+  "title":"How to Fold a Paper Penguin",
+  "url":"https://www.wikihow.com/Fold-a-Paper-Penguin",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Take a square piece of origami paper that is black on one side and white on the other and place it flat on a work surface with the black side facing you.",
+      "description":""
+    },
+    {
+      "headline":"Fold the paper on the diagonal to create a triangle.",
+      "description":"After you fold the triangle, the white side of the paper should now be facing you."
+    },
+    {
+      "headline":"Open the paper with the white side still facing you.",
+      "description":"Angle the paper so that the crease that you just folded is vertical."
+    },
+    {
+      "headline":"Fold the top right side of the paper in toward the center.",
+      "description":"The edge of the paper should be about halfway between the crease in the middle and the outer edge of the paper."
+    },
+    {
+      "headline":"Fold the top left side toward the center so that it mirrors the right side.",
+      "description":""
+    },
+    {
+      "headline":"Fold the top of the paper down toward the center.",
+      "description":"This will start the creation of the penguin\u2019s head."
+    },
+    {
+      "headline":"Turn the model over so that the black side is facing you.",
+      "description":""
+    },
+    {
+      "headline":"Fold the bottom point toward the center of the paper.",
+      "description":""
+    },
+    {
+      "headline":"Bring the left side of the paper over to the right and fold the model in half along the middle crease.",
+      "description":""
+    },
+    {
+      "headline":"Lift up the head of the penguin.",
+      "description":""
+    },
+    {
+      "headline":"Squeeze the head flat by pushing the point where the head overlaps the edge of the model.",
+      "description":""
+    },
+    {
+      "headline":"Push the nose into the interior of the head to create a step fold.",
+      "description":"This will create a beak for the penguin."
+    },
+    {
+      "headline":"Glue craft eyes to either side of the head.",
+      "description":"Alternatively, simply draw them on using a dark marker."
+    },
+    {
+      "headline":"Finished.ENJOY!",
+      "description":""
+    }
+  ],
+  "text":" Take a square piece of origami paper that is black on one side and white on the other and place it flat on a work surface with the black side facing you.  Fold the paper on the diagonal to create a triangle. After you fold the triangle, the white side of the paper should now be facing you. Open the paper with the white side still facing you. Angle the paper so that the crease that you just folded is vertical. Fold the top right side of the paper in toward the center. The edge of the paper should be about halfway between the crease in the middle and the outer edge of the paper. Fold the top left side toward the center so that it mirrors the right side.  Fold the top of the paper down toward the center. This will start the creation of the penguin\u2019s head. Turn the model over so that the black side is facing you.  Fold the bottom point toward the center of the paper.  Bring the left side of the paper over to the right and fold the model in half along the middle crease.  Lift up the head of the penguin.  Squeeze the head flat by pushing the point where the head overlaps the edge of the model.  Push the nose into the interior of the head to create a step fold. This will create a beak for the penguin. Glue craft eyes to either side of the head. Alternatively, simply draw them on using a dark marker. Finished.ENJOY! ",
+  "sentences":[
+    " Take a square piece of origami paper that is black on one side and white on the other and place it flat on a work surface with the black side facing you.",
+    "Fold the paper on the diagonal to create a triangle.",
+    "After you fold the triangle, the white side of the paper should now be facing you.",
+    "Open the paper with the white side still facing you.",
+    "Angle the paper so that the crease that you just folded is vertical.",
+    "Fold the top right side of the paper in toward the center.",
+    "The edge of the paper should be about halfway between the crease in the middle and the outer edge of the paper.",
+    "Fold the top left side toward the center so that it mirrors the right side.",
+    "Fold the top of the paper down toward the center.",
+    "This will start the creation of the penguin\u2019s head.",
+    "Turn the model over so that the black side is facing you.",
+    "Fold the bottom point toward the center of the paper.",
+    "Bring the left side of the paper over to the right and fold the model in half along the middle crease.",
+    "Lift up the head of the penguin.",
+    "Squeeze the head flat by pushing the point where the head overlaps the edge of the model.",
+    "Push the nose into the interior of the head to create a step fold.",
+    "This will create a beak for the penguin.",
+    "Glue craft eyes to either side of the head.",
+    "Alternatively, simply draw them on using a dark marker.",
+    "Finished.ENJOY!"
+  ],
+  "tyn_section":[
+    "Square piece of origami paper that is white on one side and black on the other",
+    "Craft eyes",
+    "Glue"
+  ],
+  "tyn_model":[
+    "paper",
+    "penguin",
+    "origami paper",
+    "glue",
+    "dark marker"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  }
+}

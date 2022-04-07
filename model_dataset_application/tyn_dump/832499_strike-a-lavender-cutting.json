@@ -1,0 +1,94 @@
+{
+  "title":"How to Strike a Lavender Cutting",
+  "url":"https://www.wikihow.com/Strike-a-Lavender-Cutting",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Planting and Growing",
+    "Plant Propagation Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Choose good weather.",
+      "description":"Don't try to strike a cutting when it is too hot or too cold. Temperature extremes will cause the cutting to shrivel and die. The best times for striking a cutting are early autumn and early spring."
+    },
+    {
+      "headline":"Cut the lavender.",
+      "description":""
+    },
+    {
+      "headline":"Fill a pot with propagating mix or sand.",
+      "description":"Both of these provide the perfect medium for a cutting and do not have too much moisture. Soil or potting mix can retain too much moisture, causing the cutting to rot."
+    },
+    {
+      "headline":"If wished, place a little hormone powder for plants on the ends of the cuttings.",
+      "description":"Hormone powder can provide the extra zip needed to overcome any adversities such as very hot or cold spells, insects, soil that isn't ideal, etc."
+    },
+    {
+      "headline":"Plant in the pot.",
+      "description":"Pat down gently into place but do not make too firm."
+    },
+    {
+      "headline":"Place the pot in semi-shade.",
+      "description":"Preferably provide more shade than not."
+    },
+    {
+      "headline":"Water regularly.",
+      "description":"Water every day if very hot but don't drench the soil; aim for moist, not wet, soil or the cutting will rot."
+    }
+  ],
+  "text":" Choose good weather. Don't try to strike a cutting when it is too hot or too cold. Temperature extremes will cause the cutting to shrivel and die. The best times for striking a cutting are early autumn and early spring. Cut the lavender.  Fill a pot with propagating mix or sand. Both of these provide the perfect medium for a cutting and do not have too much moisture. Soil or potting mix can retain too much moisture, causing the cutting to rot. If wished, place a little hormone powder for plants on the ends of the cuttings. Hormone powder can provide the extra zip needed to overcome any adversities such as very hot or cold spells, insects, soil that isn't ideal, etc. Plant in the pot. Pat down gently into place but do not make too firm. Place the pot in semi-shade. Preferably provide more shade than not. Water regularly. Water every day if very hot but don't drench the soil; aim for moist, not wet, soil or the cutting will rot.",
+  "sentences":[
+    " Choose good weather.",
+    "Don't try to strike a cutting when it is too hot or too cold.",
+    "Temperature extremes will cause the cutting to shrivel and die.",
+    "The best times for striking a cutting are early autumn and early spring.",
+    "Cut the lavender.",
+    "Fill a pot with propagating mix or sand.",
+    "Both of these provide the perfect medium for a cutting and do not have too much moisture.",
+    "Soil or potting mix can retain too much moisture, causing the cutting to rot.",
+    "If wished, place a little hormone powder for plants on the ends of the cuttings.",
+    "Hormone powder can provide the extra zip needed to overcome any adversities such as very hot or cold spells, insects, soil that isn't ideal, etc.",
+    "Plant in the pot.",
+    "Pat down gently into place but do not make too firm.",
+    "Place the pot in semi-shade.",
+    "Preferably provide more shade than not.",
+    "Water regularly.",
+    "Water every day if very hot but don't drench the soil; aim for moist, not wet, soil or the cutting will rot."
+  ],
+  "tyn_section":[
+    "Pot",
+    "Propagating mix or sand",
+    "Hormone powder for plant cuttings (optional)"
+  ],
+  "tyn_model":[
+    "pot",
+    "hormone powder",
+    "water",
+    "lavender",
+    "propagating mix",
+    "sand",
+    "soil"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.2857142857,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4285714286,
+    "f1":0.6
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2
+  }
+}

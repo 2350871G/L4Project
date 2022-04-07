@@ -1,0 +1,114 @@
+{
+  "title":"How to Make Fried Cheese Balls",
+  "url":"https://www.wikihow.com/Make-Fried-Cheese-Balls",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Parties",
+    "Party Snacks",
+    "Cheese Party Snacks"
+  ],
+  "steps":[
+    {
+      "headline":"Grate the cheese into a bowl.",
+      "description":""
+    },
+    {
+      "headline":"Pour the milk into the bowl of cheese and mix with spoon until the cheese thickens and clumps together.",
+      "description":""
+    },
+    {
+      "headline":"Plug in the deep fryer or turn on the stove for the pan with oil to heat up.",
+      "description":""
+    },
+    {
+      "headline":"While the fryer gets hot, crack an egg into a second bowl.",
+      "description":""
+    },
+    {
+      "headline":"Pour the flour or bread crumbs into a third bowl.",
+      "description":""
+    },
+    {
+      "headline":"Take a spoon or your hand and scoop a good amount of cheese mixture.",
+      "description":"Roll it into a ball."
+    },
+    {
+      "headline":"Take the uncooked cheese ball and dip it in the egg.",
+      "description":""
+    },
+    {
+      "headline":"Roll the egg and cheese ball in the flour or bread crumbs.",
+      "description":"Make sure it gets an even coating."
+    },
+    {
+      "headline":"Repeat the process until you have a good batch of cheese balls ready to go.",
+      "description":""
+    },
+    {
+      "headline":"Put the cheese balls in the fryer for about 7 minutes or until they're golden brown and crispy.",
+      "description":"You can do all the balls at once or spread them out in batches, depending on the size of your fryer or pan."
+    },
+    {
+      "headline":"Put the cheese balls onto paper towels to soak up any excess oil.",
+      "description":"Let them cool a little before enjoying them."
+    }
+  ],
+  "text":" Grate the cheese into a bowl.  Pour the milk into the bowl of cheese and mix with spoon until the cheese thickens and clumps together.  Plug in the deep fryer or turn on the stove for the pan with oil to heat up.  While the fryer gets hot, crack an egg into a second bowl.  Pour the flour or bread crumbs into a third bowl.  Take a spoon or your hand and scoop a good amount of cheese mixture. Roll it into a ball. Take the uncooked cheese ball and dip it in the egg.  Roll the egg and cheese ball in the flour or bread crumbs. Make sure it gets an even coating. Repeat the process until you have a good batch of cheese balls ready to go.  Put the cheese balls in the fryer for about 7 minutes or until they're golden brown and crispy. You can do all the balls at once or spread them out in batches, depending on the size of your fryer or pan. Put the cheese balls onto paper towels to soak up any excess oil. Let them cool a little before enjoying them.",
+  "sentences":[
+    " Grate the cheese into a bowl.",
+    "Pour the milk into the bowl of cheese and mix with spoon until the cheese thickens and clumps together.",
+    "Plug in the deep fryer or turn on the stove for the pan with oil to heat up.",
+    "While the fryer gets hot, crack an egg into a second bowl.",
+    "Pour the flour or bread crumbs into a third bowl.",
+    "Take a spoon or your hand and scoop a good amount of cheese mixture.",
+    "Roll it into a ball.",
+    "Take the uncooked cheese ball and dip it in the egg.",
+    "Roll the egg and cheese ball in the flour or bread crumbs.",
+    "Make sure it gets an even coating.",
+    "Repeat the process until you have a good batch of cheese balls ready to go.",
+    "Put the cheese balls in the fryer for about 7 minutes or until they're golden brown and crispy.",
+    "You can do all the balls at once or spread them out in batches, depending on the size of your fryer or pan.",
+    "Put the cheese balls onto paper towels to soak up any excess oil.",
+    "Let them cool a little before enjoying them."
+  ],
+  "tyn_section":[
+    "Bowls (3)",
+    "Spoon",
+    "Deep fryer or pan fryer",
+    "Measuring cup"
+  ],
+  "tyn_model":[
+    "fryer",
+    "spoon",
+    "egg",
+    "flour",
+    "bread crumbs",
+    "bowl",
+    "milk",
+    "deep fryer",
+    "stove",
+    "oil",
+    "paper towels"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.0909090909,
+    "f1":0.1333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.0909090909,
+    "f1":0.1333333333
+  }
+}

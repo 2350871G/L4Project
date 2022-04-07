@@ -1,0 +1,71 @@
+{
+  "title":"How to Clean Copper Coins in Seconds",
+  "url":"https://www.wikihow.com/Clean-Copper-Coins-in-Seconds",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Cleaning"
+  ],
+  "steps":[
+    {
+      "headline":"In a small container, place a small amount of table-salt (1 gram is plenty).",
+      "description":""
+    },
+    {
+      "headline":"Add enough acetic acid (vinegar, white vinegar is most recommended) to moisten the salt into a paste.",
+      "description":""
+    },
+    {
+      "headline":"Now simply apply the paste to the penny wherever you want it to brighten up.",
+      "description":"The effect is immediate and obvious."
+    },
+    {
+      "headline":"Note: if you don't have any vinegar you can substitute it with tomato ketchup because it is also acidic.",
+      "description":"This works well for copper bottom pans too!"
+    }
+  ],
+  "text":" In a small container, place a small amount of table-salt (1 gram is plenty).  Add enough acetic acid (vinegar, white vinegar is most recommended) to moisten the salt into a paste.  Now simply apply the paste to the penny wherever you want it to brighten up. The effect is immediate and obvious. Note: if you don't have any vinegar you can substitute it with tomato ketchup because it is also acidic. This works well for copper bottom pans too!",
+  "sentences":[
+    " In a small container, place a small amount of table-salt (1 gram is plenty).",
+    "Add enough acetic acid (vinegar, white vinegar is most recommended) to moisten the salt into a paste.",
+    "Now simply apply the paste to the penny wherever you want it to brighten up.",
+    "The effect is immediate and obvious.",
+    "Note: if you don't have any vinegar you can substitute it with tomato ketchup because it is also acidic.",
+    "This works well for copper bottom pans too!"
+  ],
+  "tyn_section":[
+    "Salt",
+    "Vinegar or tomato ketchup",
+    "Old copper coins",
+    "Small container"
+  ],
+  "tyn_model":[
+    "vinegar",
+    "table-salt",
+    "acetic acid",
+    "white vinegar",
+    "salt",
+    "tomato ketchup"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2,
+    "avg_pos":0.6666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  }
+}

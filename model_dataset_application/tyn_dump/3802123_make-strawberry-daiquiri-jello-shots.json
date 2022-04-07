@@ -1,0 +1,89 @@
+{
+  "title":"How to Make Strawberry Daiquiri Jello Shots",
+  "url":"https://www.wikihow.com/Make-Strawberry-Daiquiri-Jello-Shots",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Mixed Drink Shooters and Shots",
+    "Jello and Jelly Shots"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the shot cups.",
+      "description":"Make individual rows of 2-ounce plastic shot cups on a baking sheet."
+    },
+    {
+      "headline":"Dissolve the gelatin into the boiling water in a large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Measure and pour the cold water and light rum into the bowl.",
+      "description":"Thoroughly stir until well mixed. Allow the mixture to cool a little."
+    },
+    {
+      "headline":"Carefully pour the Jello mixture into the shot cups.",
+      "description":""
+    },
+    {
+      "headline":"Chill in the refrigerator.",
+      "description":"Allow the mixture to fully set and harden, for at least four hours or overnight."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Prepare the shot cups. Make individual rows of 2-ounce plastic shot cups on a baking sheet. Dissolve the gelatin into the boiling water in a large bowl.  Measure and pour the cold water and light rum into the bowl. Thoroughly stir until well mixed. Allow the mixture to cool a little. Carefully pour the Jello mixture into the shot cups.  Chill in the refrigerator. Allow the mixture to fully set and harden, for at least four hours or overnight. Finished. ",
+  "sentences":[
+    " Prepare the shot cups.",
+    "Make individual rows of 2-ounce plastic shot cups on a baking sheet.",
+    "Dissolve the gelatin into the boiling water in a large bowl.",
+    "Measure and pour the cold water and light rum into the bowl.",
+    "Thoroughly stir until well mixed.",
+    "Allow the mixture to cool a little.",
+    "Carefully pour the Jello mixture into the shot cups.",
+    "Chill in the refrigerator.",
+    "Allow the mixture to fully set and harden, for at least four hours or overnight.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Large bowl",
+    "Wire whisk",
+    "Baking sheet",
+    "2 oz plastic Jello shot cups, with lids"
+  ],
+  "tyn_model":[
+    "shot cups",
+    "water",
+    "baking sheet",
+    "gelatin",
+    "large bowl",
+    "light rum",
+    "bowl",
+    "jello",
+    "refrigerator"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2222222222,
+    "f1":0.3076923077,
+    "avg_pos":0.4444444444
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.2222222222,
+    "f1":0.3076923077
+  }
+}

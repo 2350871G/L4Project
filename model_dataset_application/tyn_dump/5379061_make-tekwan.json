@@ -1,0 +1,171 @@
+{
+  "title":"How to Make Tekwan",
+  "url":"https://www.wikihow.com/Make-Tekwan",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Soups",
+    "Seafood and Fish Soups"
+  ],
+  "parts":[
+    {
+      "name":"Making the Fish Balls",
+      "steps":[
+        {
+          "headline":"Put the fish paste into the large bowl, add the cold water.",
+          "description":"Mix it."
+        },
+        {
+          "headline":"Add the egg, starch, sugar, salt, pepper, mashed garlic and onion.",
+          "description":"Mix it well."
+        },
+        {
+          "headline":"Prepare the pot, fill it with water and boil it.",
+          "description":""
+        },
+        {
+          "headline":"Make the fish balls by using the spoon, put it into the boiling water.",
+          "description":""
+        },
+        {
+          "headline":"After the balls float, take it out using the drainer and put it on the side.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Making the Soup",
+      "steps":[
+        {
+          "headline":"Mash the garlic, onion, pepper, salt, and sugar.",
+          "description":"Saut\u00e9 it."
+        },
+        {
+          "headline":"Prepare the pot, fill it with the water.",
+          "description":"And boil it."
+        },
+        {
+          "headline":"After the water boiled, add the saut\u00e9ed spices.",
+          "description":""
+        },
+        {
+          "headline":"Add ebi, leeks, celery, mushroom, jicama and bengkoang.",
+          "description":"Stir it with ladle."
+        },
+        {
+          "headline":"After the soup boiled, turn the stove off.",
+          "description":"Put the fish balls."
+        }
+      ]
+    },
+    {
+      "name":"Serving the Tekwan",
+      "steps":[
+        {
+          "headline":"Prepare the bowl.",
+          "description":""
+        },
+        {
+          "headline":"Add the vermicelli and cucumber.",
+          "description":""
+        },
+        {
+          "headline":"After that, put the Tekwan.",
+          "description":""
+        },
+        {
+          "headline":"Add the fried onion on it.",
+          "description":""
+        },
+        {
+          "headline":"Serve it well.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Making the Fish Balls Put the fish paste into the large bowl, add the cold water. Mix it. Add the egg, starch, sugar, salt, pepper, mashed garlic and onion. Mix it well. Prepare the pot, fill it with water and boil it.  Make the fish balls by using the spoon, put it into the boiling water.  After the balls float, take it out using the drainer and put it on the side.  Making the Soup Mash the garlic, onion, pepper, salt, and sugar. Saut\u00e9 it. Prepare the pot, fill it with the water. And boil it. After the water boiled, add the saut\u00e9ed spices.  Add ebi, leeks, celery, mushroom, jicama and bengkoang. Stir it with ladle. After the soup boiled, turn the stove off. Put the fish balls. Serving the Tekwan Prepare the bowl.  Add the vermicelli and cucumber.  After that, put the Tekwan.  Add the fried onion on it.  Serve it well. ",
+  "sentences":[
+    " Making the Fish Balls Put the fish paste into the large bowl, add the cold water.",
+    "Mix it.",
+    "Add the egg, starch, sugar, salt, pepper, mashed garlic and onion.",
+    "Mix it well.",
+    "Prepare the pot, fill it with water and boil it.",
+    "Make the fish balls by using the spoon, put it into the boiling water.",
+    "After the balls float, take it out using the drainer and put it on the side.",
+    "Making the Soup Mash the garlic, onion, pepper, salt, and sugar.",
+    "Saut\u00e9 it.",
+    "Prepare the pot, fill it with the water.",
+    "And boil it.",
+    "After the water boiled, add the saut\u00e9ed spices.",
+    "Add ebi, leeks, celery, mushroom, jicama and bengkoang.",
+    "Stir it with ladle.",
+    "After the soup boiled, turn the stove off.",
+    "Put the fish balls.",
+    "Serving the Tekwan Prepare the bowl.",
+    "Add the vermicelli and cucumber.",
+    "After that, put the Tekwan.",
+    "Add the fried onion on it.",
+    "Serve it well."
+  ],
+  "tyn_section":[
+    "Pot",
+    "Knife",
+    "Spoon",
+    "Ladle",
+    "Stove",
+    "Bowl for serving",
+    "Drainer",
+    "Pan",
+    "Spatula",
+    "A large bowl"
+  ],
+  "tyn_model":[
+    "water",
+    "sugar",
+    "salt",
+    "pepper",
+    "garlic",
+    "pot",
+    "large bowl",
+    "egg",
+    "spoon",
+    "drainer",
+    "onion",
+    "spices",
+    "ebi",
+    "leeks",
+    "celery",
+    "mushroom",
+    "jicama",
+    "ladle",
+    "stove",
+    "fish",
+    "bowl",
+    "vermicelli",
+    "cucumber",
+    "tekwan",
+    "fried onion"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857,
+    "avg_pos":0.2
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.24,
+    "f1":0.3428571429
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.7,
+    "p":0.28,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6,
+    "p":0.24,
+    "f1":0.3428571429
+  }
+}

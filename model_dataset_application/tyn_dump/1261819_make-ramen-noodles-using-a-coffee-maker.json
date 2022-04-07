@@ -1,0 +1,88 @@
+{
+  "title":"How to Make Ramen Noodles Using a Coffee Maker",
+  "url":"https://www.wikihow.com/Make-Ramen-Noodles-Using-a-Coffee-Maker",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles",
+    "Ramen Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Crumble the ramen noodles in the package.",
+      "description":"Smaller pieces are easier to heat up rather than an entire block."
+    },
+    {
+      "headline":"Add the pieces to the carafe.",
+      "description":"Make sure that any block pieces are evenly placed so that they're not stacking on top of each other."
+    },
+    {
+      "headline":"Add the seasoning.",
+      "description":"Put the seasoning into the coffee filter. Add about 2 cups (475 ml) of water into the reservoir of the coffee maker."
+    },
+    {
+      "headline":"Turn the coffee maker on and wait for your ramen to be done.",
+      "description":"Remove and throw away the used coffee filter."
+    },
+    {
+      "headline":"Carefully pour the noodles and water into your bowl.",
+      "description":"The coffee pot will be hot, so do this with care."
+    },
+    {
+      "headline":"Add any desired toppings to your ramen noodles.",
+      "description":"Serve and enjoy!"
+    }
+  ],
+  "text":" Crumble the ramen noodles in the package. Smaller pieces are easier to heat up rather than an entire block. Add the pieces to the carafe. Make sure that any block pieces are evenly placed so that they're not stacking on top of each other. Add the seasoning. Put the seasoning into the coffee filter. Add about 2 cups (475 ml) of water into the reservoir of the coffee maker. Turn the coffee maker on and wait for your ramen to be done. Remove and throw away the used coffee filter. Carefully pour the noodles and water into your bowl. The coffee pot will be hot, so do this with care. Add any desired toppings to your ramen noodles. Serve and enjoy!",
+  "sentences":[
+    " Crumble the ramen noodles in the package.",
+    "Smaller pieces are easier to heat up rather than an entire block.",
+    "Add the pieces to the carafe.",
+    "Make sure that any block pieces are evenly placed so that they're not stacking on top of each other.",
+    "Add the seasoning.",
+    "Put the seasoning into the coffee filter.",
+    "Add about 2 cups (475 ml) of water into the reservoir of the coffee maker.",
+    "Turn the coffee maker on and wait for your ramen to be done.",
+    "Remove and throw away the used coffee filter.",
+    "Carefully pour the noodles and water into your bowl.",
+    "The coffee pot will be hot, so do this with care.",
+    "Add any desired toppings to your ramen noodles.",
+    "Serve and enjoy!"
+  ],
+  "tyn_section":[
+    "Coffee maker",
+    "Coffee filter",
+    "Ramen noodles",
+    "Serving bowl"
+  ],
+  "tyn_model":[
+    "ramen noodles",
+    "coffee filter",
+    "water",
+    "coffee maker",
+    "carafe",
+    "bowl",
+    "coffee pot"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.4285714286,
+    "f1":0.5454545455,
+    "avg_pos":0.4285714286
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.5714285714,
+    "f1":0.7272727273
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.7142857143,
+    "f1":0.8333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.4285714286,
+    "f1":0.5454545455
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "title":"How to Install LED Strip Lighting",
+  "url":"https://www.wikihow.com/Install-LED-Strip-Lighting",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Lighting",
+    "LED Lighting"
+  ],
+  "methods":[
+    {
+      "name":"Selecting LEDs and Power Supplies",
+      "steps":[
+        {
+          "headline":"Measure the area where you plan on hanging the LEDs.",
+          "description":"Take a rough estimate of how much LED lighting you\u2019re going to need. If you\u2019re going to install LED lighting in different locations, measure each spot so you are able to cut the lighting to size later. Add the measurements together to estimate the total length of LED lighting you will need to purchase. Plan out the installation before doing anything else. Try making a sketch of the area, noting where you\u2019re going to place the lights and any nearby outlets you can connect them to. Be sure to account for the distance between the nearest outlet and the LED light location. Get a longer length of lighting or an extension cord as needed to fill in the gap. LED strips and other supplies are available online. Some department stores, home improvement centers, and light fixture retailers also carry them."
+        },
+        {
+          "headline":"Check the LEDs to see what kind of voltage they require.",
+          "description":"Look at the product label on the LED strips or on the website if you\u2019re purchasing them online. LEDs are either 12V or 24V. To keep your LEDs running long-term, you have to have a matching power supply. Otherwise, the LEDs won\u2019t have enough power to operate. If you\u2019re planning on using multiple strips or cutting LEDs into smaller strips, you can generally wire them to the same power source. The 12V lights are fit well in most locations and use less power. However, the 24V variety shines brighter and comes in longer lengths."
+        },
+        {
+          "headline":"Determine the maximum power consumption of the LED strips.",
+          "description":"Each LED light strip consumes a specific amount of wattage, or electrical power. It depends on how long the strip is. Check the product label to see how many watts per 1 ft (0.30 m) the lighting uses. Then, multiply the watts by the total distance of the strip you plan on installing. For example, if you\u2019re installing a 25 ft (7.6 m) length of lighting that requires 5.12 watts per foot:  25 watts x 3 ft = 128 watts total. Remember that the measurement will vary depending on where you live. Check carefully to see if it\u2019s watts per meter or watts per foot. If the product label lists the total wattage, divide it by the total number of feet or meters in the reel. For example, if the strip is 5 ft (1.5 m) long at 24-watts:  24 / 5 = 4.8 watts per foot."
+        },
+        {
+          "headline":"Multiply the power consumption by 1.2 to figure out the minimum power rating.",
+          "description":"The result will tell you how strong your power supply has to be in order to keep the LEDs powered. Since the LEDs may use a little more power than you anticipate, add an extra 20 percent to the total and treat it as your minimum. That way, the power available will never dip below what the LEDs require. For example, using a 25 ft (7.6 m) strip:  128 total watts x 1.2 = 153.6 watts. The power supply should offer at least 153.6 watts, or else the lights won\u2019t work. Add 20% to the estimate to ensure the lights stay on:  153.6 watts x 20% = 30.72 watts. Then, 153.6 watts + 30.72 watts = 184.32 total watts. Many online retailers have a handy calculator you can take advantage of to ensure you get a compatible power supply."
+        },
+        {
+          "headline":"Divide the power consumption by the voltage to get the minimum amperes.",
+          "description":"One last measurement is essential to powering your new LED strips. Amperes, or amps, measures how fast an electrical current travels. If the current doesn\u2019t travel fast enough through a long stretch of LED strips, then the lights will dim or shut off. The amp rating can be tested with a multimeter or estimated with a little math. For example, if you have 12V LEDs that use 128 watts of power:  128 / 12 = 10.66 amps. To test LED strips, touch the multimeter\u2019s leads to the LED\u2019s copper dots. Make sure it is set to A for amps."
+        },
+        {
+          "headline":"Purchase a power supply that matches your power requirements.",
+          "description":"You now have enough information to select the perfect power supply to light up the LEDs. Find a suitable power supply matching both the maximum power rating in watts and the amperage you calculated earlier. The most common type of power supply is a brick-style adapter, similar to the ones used to power laptops. It\u2019s very easy to use, since all you do is plug it into the wall after connecting it to the LED strip. Most modern adapters come with the parts needed to connect them to LED strips. If you\u2019re planning on powering different LED strips separately, get power supply adapters for each one. Remember to calculate each one\u2019s power requirement, since they may be different. If you have dimmable lights, select a power supply that is also dimmable. You could also place a dimmer switch between the power supply and the LEDs. Another option is to hardwire the LED strips to your existing electrical supply with a hardwire power supply. The installation is tough and potentially dangerous, so call a certified electrician for assistance."
+        }
+      ]
+    },
+    {
+      "name":"Connecting LED Strips and Power Supplies",
+      "steps":[
+        {
+          "headline":"Use plug-in quick connectors if you need to join separate LED strips.",
+          "description":"Clip-on connectors fit over the copper dots at the end of the LED strip. These dots will be labeled with a plus or minus. Position the clip so the correct wire is over each dot. Fit the red wire over the dot marked as positive (+) and the black one over the dot marked as negative (-). Although you have to buy these connectors, they make setting up modern LEDs straightforward. They are very handy for joining LED strips or power sources. If you don\u2019t have the appropriate connectors or don\u2019t wish to use any, you could solder the strips together instead."
+        },
+        {
+          "headline":"Select screw-on connectors for a way to cover any loose wiring.",
+          "description":"Screw-on connecting terminals have open slots for the wires used to connect some LEDs or devices. Check the connector to see which terminals are marked positive and negative. Then, put the matching wire into each one. Use a Phillips screwdriver to turn the terminal screws clockwise, holding the wires in place.Screw-on connectors are often used in soldering, but they can also be helpful for wiring in a dimmer or connecting multiple LED strips to the same power supply."
+        },
+        {
+          "headline":"Connect the LED to your power source with a quick connector.",
+          "description":"Your power supply will have a long cable with a plug at one end. LED strips also have a similar adapter at one end. The power adapter plugs into the one on the LED strip. If you cut off the LED plug, you could get buy another quick connector that attaches to the end of the strip. If your LED strip doesn\u2019t already have a connector, use a clip-on connector first, then attach it to a screw-on connector. One way to connect multiple LED strips to a power supply is through a strip splitter. It has several plugs on one end for the LED strips. The opposite end fits on the power supply plug. Test your LED strips. If they don\u2019t light up right away, check that all of the positive and negative wires align."
+        }
+      ]
+    },
+    {
+      "name":"Soldering LED Strips Together",
+      "steps":[
+        {
+          "headline":"Select red and black power wires to solder to the LED contacts.",
+          "description":"LED lights usually have 2 contacts, each one requiring a separate wire. Try using wires from 0.025 to 0.04 in (0.064 to 0.102 cm) in diameter. Get separate black and red wires for each LED you wish to connect. If you\u2019re soldering a connector to the wire, check the connector first to see if it has wires attached. You won\u2019t have to buy separate wiring if it does. Some LED strips use up to 4 wires. The 24V variety frequently uses red, blue, green, and yellow wires instead of red and black, which you can figure out by looking at the labeled copper dots on the LEDs. Note that the wiring colors and sizes used may vary a little depending on where you live. However, black and red wires are typically used for power."
+        },
+        {
+          "headline":"Use wire strippers to remove \u20442 in (1.3 cm) of casing from each wire.",
+          "description":"Measure from the end of a wire you plan on using. Then, clamp the wire between the tool\u2019s jaws. Press down until it breaks through the casing. After pulling off the casing, strip the remaining wires. If you\u2019re using fresh wires, strip both ends to prepare them for soldering. If the wires are already attached to a connector, you only have to strip the loose end. While you could also cut the casing off with a sharp knife, be careful to avoid puncturing the wires."
+        },
+        {
+          "headline":"Put on protective gear and ventilate the area.",
+          "description":"Soldering releases fumes that can be irritating if you happen to breathe them in. For protection, put on a dust mask and open up nearby doors and windows. Also, wear safety glasses to guard your eyes against heat, smoke, and splattered metal. You could also wear heat-resistant gloves, but they may affect your ability to operate the soldering iron. Keep other people and pets out of the area until you have cooled and put away the soldering iron."
+        },
+        {
+          "headline":"Wait about 30 seconds for the soldering iron to heat to 350 \u00b0F (177 \u00b0C).",
+          "description":"At this temperature, the soldering iron will be ready to melt copper without scorching it. The soldering iron gets hot, so handle it with caution. Set it in a heat-safe soldering iron holder, or just hang onto it until it warms up. Try using a soldering iron with a power rating between 30 to 60W. It will get hot enough to melt copper, but it likely won\u2019t burn it. The heat coming off the soldering iron will be noticeable when it warms up. Keep it away from flammable surfaces until it is cool again."
+        },
+        {
+          "headline":"Melt the ends of the wires onto the LED strip\u2019s copper dots.",
+          "description":"Position the red wire over the dot marked as positive (+) and the black wire over the negative (-) dot. Work on them one at a time. Hold the soldering iron at a 45-degree angle beside the exposed wire. Then, lightly touch it to the wire until it melts and sticks in place. If you\u2019re having a hard time getting the wires to stick, you could get separate copper solder wire and melt it on over the exposed wire. The solder ensures that the wires are well-connected to the LED pads."
+        },
+        {
+          "headline":"Wait at least 30 seconds for the solder to cool.",
+          "description":"Soldered copper usually cools down at a fast rate. After the time is up, move your hand close to the LED strip. If you detect any heat coming off of it, give it more time to cool. Once it\u2019s done, you can plug in your LED lights to test them. While you\u2019re waiting for the LEDs to cool, take care of your soldering iron. Put it in a heat-safe holder until it cools, then unplug it for storage. If the lights don\u2019t work, check the connections. Make sure the wires are firmly attached to the LED and that they are connected to the correct copper dots. If they still don\u2019t work, try again with a fresh strip."
+        },
+        {
+          "headline":"Put a shrink tube over the exposed wires and heat it briefly.",
+          "description":"The shrink tube will encase the exposed wire to protect it and prevent electrical shock. Use a gentle source of heat, such as a hairdryer on a low heat setting. Hold it about 6 in (15 cm) from the tube and move it back and forth to avoid burning it. Once the tube is tight against the soldered joints, after about 15 to 30 minutes of heating, you can install the LEDs for use in your home. The exposed wires are vulnerable even if you did a good job soldering them. Cover them to ensure they last longer and are safe to use in your home! You can use a heat gun or another tool to heat shrink tubes. If you\u2019re using an open flame, be very careful to avoid burning or melting anything."
+        },
+        {
+          "headline":"Join the opposite ends of the solder wires to other LEDs or connectors.",
+          "description":"Soldering is often used to join separate LED strips together, and you can do this by soldering the wires to the copper dots on the nearest LED strips. The wires allow electricity to run through both LED strips. The wires may also be plugged into a screw-on quick connector that plugs into a power supply or another device. If you\u2019re using a connector, slot the wires into the connector\u2019s openings, then use a Phillips screwdriver to tighten the screw terminals holding them in place. Some types of quick connectors come with power wires already installed. To use the connector, all you have to do is solder the wires to the LED strip."
+        }
+      ]
+    },
+    {
+      "name":"Placing Adhesive LEDs",
+      "steps":[
+        {
+          "headline":"Wash the installation point with warm water, then wipe it dry.",
+          "description":"Dampen a clean cloth in warm water, then scrub the surface to remove debris. Any grime left behind could prevent the LEDs from sticking, so thoroughly clean the surface until it\u2019s free of dirt and scuff marks. Remove any moisture left over with a clean, dry cloth or give the surface 30 minutes to air dry. Remove stubborn stains by dampening your cloth in isopropyl alcohol instead. You could also combine equal amounts of warm water and white vinegar for an alternative cleaner. If you\u2019re still having trouble taking care of stains, use a specialty cleaner matching the surface you\u2019re treating. For example, get a wood cleaner to deal with wood surfaces."
+        },
+        {
+          "headline":"Peel the adhesive backing off and press the LEDs in place.",
+          "description":"LED lights are like stickers, so wait until you\u2019re ready to put them on the wall before pulling the backing off. It\u2019s best to do this a little at a time. Start at one end of the surface, peeling the backing off of the initial LED light. Position it, press it flat by hand, then continue placing the rest of the strip. Take your time. Make sure the LEDs are in the right place so you don\u2019t have to move them later. If the strips won\u2019t adhere to the surface, you may need to clean it again. Otherwise, you could get mounting tape, velcro straps, mounting clips, or another tool to hold the lights in place."
+        },
+        {
+          "headline":"Cut the LEDs to size using the dotted guidelines on the strips.",
+          "description":"Unroll the length of LED lights you need from the reel, then find the dotted lines on each one. They are typically positioned between copper dots every 2 in (5.1 cm) along each light. Cut through the line to sever the strip from the reel without damaging it. Make sure the strip is long enough for your project. Cut only at the specified mark. If you cut anywhere else, the strip won\u2019t work. The copper dots are there so you can connect the strip to something else and still get it to work. Remember that each LED strip you cut has to be wired into the power supply or attached to a separate power supply. If you wish to make the process as simple as possible, don\u2019t cut the LEDs unless you absolutely need to."
+        }
+      ]
+    }
+  ],
+  "text":" Selecting LEDs and Power Supplies Measure the area where you plan on hanging the LEDs. Take a rough estimate of how much LED lighting you\u2019re going to need. If you\u2019re going to install LED lighting in different locations, measure each spot so you are able to cut the lighting to size later. Add the measurements together to estimate the total length of LED lighting you will need to purchase. Plan out the installation before doing anything else. Try making a sketch of the area, noting where you\u2019re going to place the lights and any nearby outlets you can connect them to. Be sure to account for the distance between the nearest outlet and the LED light location. Get a longer length of lighting or an extension cord as needed to fill in the gap. LED strips and other supplies are available online. Some department stores, home improvement centers, and light fixture retailers also carry them. Check the LEDs to see what kind of voltage they require. Look at the product label on the LED strips or on the website if you\u2019re purchasing them online. LEDs are either 12V or 24V. To keep your LEDs running long-term, you have to have a matching power supply. Otherwise, the LEDs won\u2019t have enough power to operate. If you\u2019re planning on using multiple strips or cutting LEDs into smaller strips, you can generally wire them to the same power source. The 12V lights are fit well in most locations and use less power. However, the 24V variety shines brighter and comes in longer lengths. Determine the maximum power consumption of the LED strips. Each LED light strip consumes a specific amount of wattage, or electrical power. It depends on how long the strip is. Check the product label to see how many watts per 1 ft (0.30 m) the lighting uses. Then, multiply the watts by the total distance of the strip you plan on installing. For example, if you\u2019re installing a 25 ft (7.6 m) length of lighting that requires 5.12 watts per foot:  25 watts x 3 ft = 128 watts total. Remember that the measurement will vary depending on where you live. Check carefully to see if it\u2019s watts per meter or watts per foot. If the product label lists the total wattage, divide it by the total number of feet or meters in the reel. For example, if the strip is 5 ft (1.5 m) long at 24-watts:  24 / 5 = 4.8 watts per foot. Multiply the power consumption by 1.2 to figure out the minimum power rating. The result will tell you how strong your power supply has to be in order to keep the LEDs powered. Since the LEDs may use a little more power than you anticipate, add an extra 20 percent to the total and treat it as your minimum. That way, the power available will never dip below what the LEDs require. For example, using a 25 ft (7.6 m) strip:  128 total watts x 1.2 = 153.6 watts. The power supply should offer at least 153.6 watts, or else the lights won\u2019t work. Add 20% to the estimate to ensure the lights stay on:  153.6 watts x 20% = 30.72 watts. Then, 153.6 watts + 30.72 watts = 184.32 total watts. Many online retailers have a handy calculator you can take advantage of to ensure you get a compatible power supply. Divide the power consumption by the voltage to get the minimum amperes. One last measurement is essential to powering your new LED strips. Amperes, or amps, measures how fast an electrical current travels. If the current doesn\u2019t travel fast enough through a long stretch of LED strips, then the lights will dim or shut off. The amp rating can be tested with a multimeter or estimated with a little math. For example, if you have 12V LEDs that use 128 watts of power:  128 / 12 = 10.66 amps. To test LED strips, touch the multimeter\u2019s leads to the LED\u2019s copper dots. Make sure it is set to A for amps. Purchase a power supply that matches your power requirements. You now have enough information to select the perfect power supply to light up the LEDs. Find a suitable power supply matching both the maximum power rating in watts and the amperage you calculated earlier. The most common type of power supply is a brick-style adapter, similar to the ones used to power laptops. It\u2019s very easy to use, since all you do is plug it into the wall after connecting it to the LED strip. Most modern adapters come with the parts needed to connect them to LED strips. If you\u2019re planning on powering different LED strips separately, get power supply adapters for each one. Remember to calculate each one\u2019s power requirement, since they may be different. If you have dimmable lights, select a power supply that is also dimmable. You could also place a dimmer switch between the power supply and the LEDs. Another option is to hardwire the LED strips to your existing electrical supply with a hardwire power supply. The installation is tough and potentially dangerous, so call a certified electrician for assistance. Connecting LED Strips and Power Supplies Use plug-in quick connectors if you need to join separate LED strips. Clip-on connectors fit over the copper dots at the end of the LED strip. These dots will be labeled with a plus or minus. Position the clip so the correct wire is over each dot. Fit the red wire over the dot marked as positive (+) and the black one over the dot marked as negative (-). Although you have to buy these connectors, they make setting up modern LEDs straightforward. They are very handy for joining LED strips or power sources. If you don\u2019t have the appropriate connectors or don\u2019t wish to use any, you could solder the strips together instead. Select screw-on connectors for a way to cover any loose wiring. Screw-on connecting terminals have open slots for the wires used to connect some LEDs or devices. Check the connector to see which terminals are marked positive and negative. Then, put the matching wire into each one. Use a Phillips screwdriver to turn the terminal screws clockwise, holding the wires in place.Screw-on connectors are often used in soldering, but they can also be helpful for wiring in a dimmer or connecting multiple LED strips to the same power supply. Connect the LED to your power source with a quick connector. Your power supply will have a long cable with a plug at one end. LED strips also have a similar adapter at one end. The power adapter plugs into the one on the LED strip. If you cut off the LED plug, you could get buy another quick connector that attaches to the end of the strip. If your LED strip doesn\u2019t already have a connector, use a clip-on connector first, then attach it to a screw-on connector. One way to connect multiple LED strips to a power supply is through a strip splitter. It has several plugs on one end for the LED strips. The opposite end fits on the power supply plug. Test your LED strips. If they don\u2019t light up right away, check that all of the positive and negative wires align. Soldering LED Strips Together Select red and black power wires to solder to the LED contacts. LED lights usually have 2 contacts, each one requiring a separate wire. Try using wires from 0.025 to 0.04 in (0.064 to 0.102 cm) in diameter. Get separate black and red wires for each LED you wish to connect. If you\u2019re soldering a connector to the wire, check the connector first to see if it has wires attached. You won\u2019t have to buy separate wiring if it does. Some LED strips use up to 4 wires. The 24V variety frequently uses red, blue, green, and yellow wires instead of red and black, which you can figure out by looking at the labeled copper dots on the LEDs. Note that the wiring colors and sizes used may vary a little depending on where you live. However, black and red wires are typically used for power. Use wire strippers to remove \u20442 in (1.3 cm) of casing from each wire. Measure from the end of a wire you plan on using. Then, clamp the wire between the tool\u2019s jaws. Press down until it breaks through the casing. After pulling off the casing, strip the remaining wires. If you\u2019re using fresh wires, strip both ends to prepare them for soldering. If the wires are already attached to a connector, you only have to strip the loose end. While you could also cut the casing off with a sharp knife, be careful to avoid puncturing the wires. Put on protective gear and ventilate the area. Soldering releases fumes that can be irritating if you happen to breathe them in. For protection, put on a dust mask and open up nearby doors and windows. Also, wear safety glasses to guard your eyes against heat, smoke, and splattered metal. You could also wear heat-resistant gloves, but they may affect your ability to operate the soldering iron. Keep other people and pets out of the area until you have cooled and put away the soldering iron. Wait about 30 seconds for the soldering iron to heat to 350 \u00b0F (177 \u00b0C). At this temperature, the soldering iron will be ready to melt copper without scorching it. The soldering iron gets hot, so handle it with caution. Set it in a heat-safe soldering iron holder, or just hang onto it until it warms up. Try using a soldering iron with a power rating between 30 to 60W. It will get hot enough to melt copper, but it likely won\u2019t burn it. The heat coming off the soldering iron will be noticeable when it warms up. Keep it away from flammable surfaces until it is cool again. Melt the ends of the wires onto the LED strip\u2019s copper dots. Position the red wire over the dot marked as positive (+) and the black wire over the negative (-) dot. Work on them one at a time. Hold the soldering iron at a 45-degree angle beside the exposed wire. Then, lightly touch it to the wire until it melts and sticks in place. If you\u2019re having a hard time getting the wires to stick, you could get separate copper solder wire and melt it on over the exposed wire. The solder ensures that the wires are well-connected to the LED pads. Wait at least 30 seconds for the solder to cool. Soldered copper usually cools down at a fast rate. After the time is up, move your hand close to the LED strip. If you detect any heat coming off of it, give it more time to cool. Once it\u2019s done, you can plug in your LED lights to test them. While you\u2019re waiting for the LEDs to cool, take care of your soldering iron. Put it in a heat-safe holder until it cools, then unplug it for storage. If the lights don\u2019t work, check the connections. Make sure the wires are firmly attached to the LED and that they are connected to the correct copper dots. If they still don\u2019t work, try again with a fresh strip. Put a shrink tube over the exposed wires and heat it briefly. The shrink tube will encase the exposed wire to protect it and prevent electrical shock. Use a gentle source of heat, such as a hairdryer on a low heat setting. Hold it about 6 in (15 cm) from the tube and move it back and forth to avoid burning it. Once the tube is tight against the soldered joints, after about 15 to 30 minutes of heating, you can install the LEDs for use in your home. The exposed wires are vulnerable even if you did a good job soldering them. Cover them to ensure they last longer and are safe to use in your home! You can use a heat gun or another tool to heat shrink tubes. If you\u2019re using an open flame, be very careful to avoid burning or melting anything. Join the opposite ends of the solder wires to other LEDs or connectors. Soldering is often used to join separate LED strips together, and you can do this by soldering the wires to the copper dots on the nearest LED strips. The wires allow electricity to run through both LED strips. The wires may also be plugged into a screw-on quick connector that plugs into a power supply or another device. If you\u2019re using a connector, slot the wires into the connector\u2019s openings, then use a Phillips screwdriver to tighten the screw terminals holding them in place. Some types of quick connectors come with power wires already installed. To use the connector, all you have to do is solder the wires to the LED strip. Placing Adhesive LEDs Wash the installation point with warm water, then wipe it dry. Dampen a clean cloth in warm water, then scrub the surface to remove debris. Any grime left behind could prevent the LEDs from sticking, so thoroughly clean the surface until it\u2019s free of dirt and scuff marks. Remove any moisture left over with a clean, dry cloth or give the surface 30 minutes to air dry. Remove stubborn stains by dampening your cloth in isopropyl alcohol instead. You could also combine equal amounts of warm water and white vinegar for an alternative cleaner. If you\u2019re still having trouble taking care of stains, use a specialty cleaner matching the surface you\u2019re treating. For example, get a wood cleaner to deal with wood surfaces. Peel the adhesive backing off and press the LEDs in place. LED lights are like stickers, so wait until you\u2019re ready to put them on the wall before pulling the backing off. It\u2019s best to do this a little at a time. Start at one end of the surface, peeling the backing off of the initial LED light. Position it, press it flat by hand, then continue placing the rest of the strip. Take your time. Make sure the LEDs are in the right place so you don\u2019t have to move them later. If the strips won\u2019t adhere to the surface, you may need to clean it again. Otherwise, you could get mounting tape, velcro straps, mounting clips, or another tool to hold the lights in place. Cut the LEDs to size using the dotted guidelines on the strips. Unroll the length of LED lights you need from the reel, then find the dotted lines on each one. They are typically positioned between copper dots every 2 in (5.1 cm) along each light. Cut through the line to sever the strip from the reel without damaging it. Make sure the strip is long enough for your project. Cut only at the specified mark. If you cut anywhere else, the strip won\u2019t work. The copper dots are there so you can connect the strip to something else and still get it to work. Remember that each LED strip you cut has to be wired into the power supply or attached to a separate power supply. If you wish to make the process as simple as possible, don\u2019t cut the LEDs unless you absolutely need to.",
+  "sentences":[
+    " Selecting LEDs and Power Supplies Measure the area where you plan on hanging the LEDs.",
+    "Take a rough estimate of how much LED lighting you\u2019re going to need.",
+    "If you\u2019re going to install LED lighting in different locations, measure each spot so you are able to cut the lighting to size later.",
+    "Add the measurements together to estimate the total length of LED lighting you will need to purchase.",
+    "Plan out the installation before doing anything else.",
+    "Try making a sketch of the area, noting where you\u2019re going to place the lights and any nearby outlets you can connect them to.",
+    "Be sure to account for the distance between the nearest outlet and the LED light location.",
+    "Get a longer length of lighting or an extension cord as needed to fill in the gap.",
+    "LED strips and other supplies are available online.",
+    "Some department stores, home improvement centers, and light fixture retailers also carry them.",
+    "Check the LEDs to see what kind of voltage they require.",
+    "Look at the product label on the LED strips or on the website if you\u2019re purchasing them online.",
+    "LEDs are either 12V or 24V.",
+    "To keep your LEDs running long-term, you have to have a matching power supply.",
+    "Otherwise, the LEDs won\u2019t have enough power to operate.",
+    "If you\u2019re planning on using multiple strips or cutting LEDs into smaller strips, you can generally wire them to the same power source.",
+    "The 12V lights are fit well in most locations and use less power.",
+    "However, the 24V variety shines brighter and comes in longer lengths.",
+    "Determine the maximum power consumption of the LED strips.",
+    "Each LED light strip consumes a specific amount of wattage, or electrical power.",
+    "It depends on how long the strip is.",
+    "Check the product label to see how many watts per 1 ft (0.30 m) the lighting uses.",
+    "Then, multiply the watts by the total distance of the strip you plan on installing.",
+    "For example, if you\u2019re installing a 25 ft (7.6 m) length of lighting that requires 5.12 watts per foot:  25 watts x 3 ft = 128 watts total.",
+    "Remember that the measurement will vary depending on where you live.",
+    "Check carefully to see if it\u2019s watts per meter or watts per foot.",
+    "If the product label lists the total wattage, divide it by the total number of feet or meters in the reel.",
+    "For example, if the strip is 5 ft (1.5 m) long at 24-watts:  24 / 5 = 4.8 watts per foot.",
+    "Multiply the power consumption by 1.2 to figure out the minimum power rating.",
+    "The result will tell you how strong your power supply has to be in order to keep the LEDs powered.",
+    "Since the LEDs may use a little more power than you anticipate, add an extra 20 percent to the total and treat it as your minimum.",
+    "That way, the power available will never dip below what the LEDs require.",
+    "For example, using a 25 ft (7.6 m) strip:  128 total watts x 1.2 = 153.6 watts.",
+    "The power supply should offer at least 153.6 watts, or else the lights won\u2019t work.",
+    "Add 20% to the estimate to ensure the lights stay on:  153.6 watts x 20% = 30.72 watts.",
+    "Then, 153.6 watts + 30.72 watts = 184.32 total watts.",
+    "Many online retailers have a handy calculator you can take advantage of to ensure you get a compatible power supply.",
+    "Divide the power consumption by the voltage to get the minimum amperes.",
+    "One last measurement is essential to powering your new LED strips.",
+    "Amperes, or amps, measures how fast an electrical current travels.",
+    "If the current doesn\u2019t travel fast enough through a long stretch of LED strips, then the lights will dim or shut off.",
+    "The amp rating can be tested with a multimeter or estimated with a little math.",
+    "For example, if you have 12V LEDs that use 128 watts of power:  128 / 12 = 10.66 amps.",
+    "To test LED strips, touch the multimeter\u2019s leads to the LED\u2019s copper dots.",
+    "Make sure it is set to A for amps.",
+    "Purchase a power supply that matches your power requirements.",
+    "You now have enough information to select the perfect power supply to light up the LEDs.",
+    "Find a suitable power supply matching both the maximum power rating in watts and the amperage you calculated earlier.",
+    "The most common type of power supply is a brick-style adapter, similar to the ones used to power laptops.",
+    "It\u2019s very easy to use, since all you do is plug it into the wall after connecting it to the LED strip.",
+    "Most modern adapters come with the parts needed to connect them to LED strips.",
+    "If you\u2019re planning on powering different LED strips separately, get power supply adapters for each one.",
+    "Remember to calculate each one\u2019s power requirement, since they may be different.",
+    "If you have dimmable lights, select a power supply that is also dimmable.",
+    "You could also place a dimmer switch between the power supply and the LEDs.",
+    "Another option is to hardwire the LED strips to your existing electrical supply with a hardwire power supply.",
+    "The installation is tough and potentially dangerous, so call a certified electrician for assistance.",
+    "Connecting LED Strips and Power Supplies Use plug-in quick connectors if you need to join separate LED strips.",
+    "Clip-on connectors fit over the copper dots at the end of the LED strip.",
+    "These dots will be labeled with a plus or minus.",
+    "Position the clip so the correct wire is over each dot.",
+    "Fit the red wire over the dot marked as positive (+) and the black one over the dot marked as negative (-).",
+    "Although you have to buy these connectors, they make setting up modern LEDs straightforward.",
+    "They are very handy for joining LED strips or power sources.",
+    "If you don\u2019t have the appropriate connectors or don\u2019t wish to use any, you could solder the strips together instead.",
+    "Select screw-on connectors for a way to cover any loose wiring.",
+    "Screw-on connecting terminals have open slots for the wires used to connect some LEDs or devices.",
+    "Check the connector to see which terminals are marked positive and negative.",
+    "Then, put the matching wire into each one.",
+    "Use a Phillips screwdriver to turn the terminal screws clockwise, holding the wires in place.Screw-on connectors are often used in soldering, but they can also be helpful for wiring in a dimmer or connecting multiple LED strips to the same power supply.",
+    "Connect the LED to your power source with a quick connector.",
+    "Your power supply will have a long cable with a plug at one end.",
+    "LED strips also have a similar adapter at one end.",
+    "The power adapter plugs into the one on the LED strip.",
+    "If you cut off the LED plug, you could get buy another quick connector that attaches to the end of the strip.",
+    "If your LED strip doesn\u2019t already have a connector, use a clip-on connector first, then attach it to a screw-on connector.",
+    "One way to connect multiple LED strips to a power supply is through a strip splitter.",
+    "It has several plugs on one end for the LED strips.",
+    "The opposite end fits on the power supply plug.",
+    "Test your LED strips.",
+    "If they don\u2019t light up right away, check that all of the positive and negative wires align.",
+    "Soldering LED Strips Together Select red and black power wires to solder to the LED contacts.",
+    "LED lights usually have 2 contacts, each one requiring a separate wire.",
+    "Try using wires from 0.025 to 0.04 in (0.064 to 0.102 cm) in diameter.",
+    "Get separate black and red wires for each LED you wish to connect.",
+    "If you\u2019re soldering a connector to the wire, check the connector first to see if it has wires attached.",
+    "You won\u2019t have to buy separate wiring if it does.",
+    "Some LED strips use up to 4 wires.",
+    "The 24V variety frequently uses red, blue, green, and yellow wires instead of red and black, which you can figure out by looking at the labeled copper dots on the LEDs.",
+    "Note that the wiring colors and sizes used may vary a little depending on where you live.",
+    "However, black and red wires are typically used for power.",
+    "Use wire strippers to remove \u20442 in (1.3 cm) of casing from each wire.",
+    "Measure from the end of a wire you plan on using.",
+    "Then, clamp the wire between the tool\u2019s jaws.",
+    "Press down until it breaks through the casing.",
+    "After pulling off the casing, strip the remaining wires.",
+    "If you\u2019re using fresh wires, strip both ends to prepare them for soldering.",
+    "If the wires are already attached to a connector, you only have to strip the loose end.",
+    "While you could also cut the casing off with a sharp knife, be careful to avoid puncturing the wires.",
+    "Put on protective gear and ventilate the area.",
+    "Soldering releases fumes that can be irritating if you happen to breathe them in.",
+    "For protection, put on a dust mask and open up nearby doors and windows.",
+    "Also, wear safety glasses to guard your eyes against heat, smoke, and splattered metal.",
+    "You could also wear heat-resistant gloves, but they may affect your ability to operate the soldering iron.",
+    "Keep other people and pets out of the area until you have cooled and put away the soldering iron.",
+    "Wait about 30 seconds for the soldering iron to heat to 350 \u00b0F (177 \u00b0C).",
+    "At this temperature, the soldering iron will be ready to melt copper without scorching it.",
+    "The soldering iron gets hot, so handle it with caution.",
+    "Set it in a heat-safe soldering iron holder, or just hang onto it until it warms up.",
+    "Try using a soldering iron with a power rating between 30 to 60W.",
+    "It will get hot enough to melt copper, but it likely won\u2019t burn it.",
+    "The heat coming off the soldering iron will be noticeable when it warms up.",
+    "Keep it away from flammable surfaces until it is cool again.",
+    "Melt the ends of the wires onto the LED strip\u2019s copper dots.",
+    "Position the red wire over the dot marked as positive (+) and the black wire over the negative (-) dot.",
+    "Work on them one at a time.",
+    "Hold the soldering iron at a 45-degree angle beside the exposed wire.",
+    "Then, lightly touch it to the wire until it melts and sticks in place.",
+    "If you\u2019re having a hard time getting the wires to stick, you could get separate copper solder wire and melt it on over the exposed wire.",
+    "The solder ensures that the wires are well-connected to the LED pads.",
+    "Wait at least 30 seconds for the solder to cool.",
+    "Soldered copper usually cools down at a fast rate.",
+    "After the time is up, move your hand close to the LED strip.",
+    "If you detect any heat coming off of it, give it more time to cool.",
+    "Once it\u2019s done, you can plug in your LED lights to test them.",
+    "While you\u2019re waiting for the LEDs to cool, take care of your soldering iron.",
+    "Put it in a heat-safe holder until it cools, then unplug it for storage.",
+    "If the lights don\u2019t work, check the connections.",
+    "Make sure the wires are firmly attached to the LED and that they are connected to the correct copper dots.",
+    "If they still don\u2019t work, try again with a fresh strip.",
+    "Put a shrink tube over the exposed wires and heat it briefly.",
+    "The shrink tube will encase the exposed wire to protect it and prevent electrical shock.",
+    "Use a gentle source of heat, such as a hairdryer on a low heat setting.",
+    "Hold it about 6 in (15 cm) from the tube and move it back and forth to avoid burning it.",
+    "Once the tube is tight against the soldered joints, after about 15 to 30 minutes of heating, you can install the LEDs for use in your home.",
+    "The exposed wires are vulnerable even if you did a good job soldering them.",
+    "Cover them to ensure they last longer and are safe to use in your home!",
+    "You can use a heat gun or another tool to heat shrink tubes.",
+    "If you\u2019re using an open flame, be very careful to avoid burning or melting anything.",
+    "Join the opposite ends of the solder wires to other LEDs or connectors.",
+    "Soldering is often used to join separate LED strips together, and you can do this by soldering the wires to the copper dots on the nearest LED strips.",
+    "The wires allow electricity to run through both LED strips.",
+    "The wires may also be plugged into a screw-on quick connector that plugs into a power supply or another device.",
+    "If you\u2019re using a connector, slot the wires into the connector\u2019s openings, then use a Phillips screwdriver to tighten the screw terminals holding them in place.",
+    "Some types of quick connectors come with power wires already installed.",
+    "To use the connector, all you have to do is solder the wires to the LED strip.",
+    "Placing Adhesive LEDs Wash the installation point with warm water, then wipe it dry.",
+    "Dampen a clean cloth in warm water, then scrub the surface to remove debris.",
+    "Any grime left behind could prevent the LEDs from sticking, so thoroughly clean the surface until it\u2019s free of dirt and scuff marks.",
+    "Remove any moisture left over with a clean, dry cloth or give the surface 30 minutes to air dry.",
+    "Remove stubborn stains by dampening your cloth in isopropyl alcohol instead.",
+    "You could also combine equal amounts of warm water and white vinegar for an alternative cleaner.",
+    "If you\u2019re still having trouble taking care of stains, use a specialty cleaner matching the surface you\u2019re treating.",
+    "For example, get a wood cleaner to deal with wood surfaces.",
+    "Peel the adhesive backing off and press the LEDs in place.",
+    "LED lights are like stickers, so wait until you\u2019re ready to put them on the wall before pulling the backing off.",
+    "It\u2019s best to do this a little at a time.",
+    "Start at one end of the surface, peeling the backing off of the initial LED light.",
+    "Position it, press it flat by hand, then continue placing the rest of the strip.",
+    "Take your time.",
+    "Make sure the LEDs are in the right place so you don\u2019t have to move them later.",
+    "If the strips won\u2019t adhere to the surface, you may need to clean it again.",
+    "Otherwise, you could get mounting tape, velcro straps, mounting clips, or another tool to hold the lights in place.",
+    "Cut the LEDs to size using the dotted guidelines on the strips.",
+    "Unroll the length of LED lights you need from the reel, then find the dotted lines on each one.",
+    "They are typically positioned between copper dots every 2 in (5.1 cm) along each light.",
+    "Cut through the line to sever the strip from the reel without damaging it.",
+    "Make sure the strip is long enough for your project.",
+    "Cut only at the specified mark.",
+    "If you cut anywhere else, the strip won\u2019t work.",
+    "The copper dots are there so you can connect the strip to something else and still get it to work.",
+    "Remember that each LED strip you cut has to be wired into the power supply or attached to a separate power supply.",
+    "If you wish to make the process as simple as possible, don\u2019t cut the LEDs unless you absolutely need to."
+  ],
+  "tyn_section":[
+    "LED strips",
+    "Power supply",
+    "Quick connectors",
+    "Soldering iron",
+    "Power wires",
+    "Wire strippers",
+    "Protective glasses",
+    "Soldering iron holder",
+    "Shrink tubes",
+    "Hairdryer, heat gun, or another heat source",
+    "Warm water",
+    "Clean cloth",
+    "Scissors"
+  ],
+  "tyn_model":[
+    "leds",
+    "soldering iron",
+    "power supply",
+    "solder",
+    "led lighting",
+    "led strips",
+    "connectors",
+    "water",
+    "multimeter",
+    "screw-on connectors",
+    "phillips screwdriver",
+    "led lights",
+    "power supplies",
+    "extension cord",
+    "light fixture",
+    "led light strip",
+    "reel",
+    "supply",
+    "adapter",
+    "adapters",
+    "electrical supply",
+    "plug-in quick connectors",
+    "screw-on connecting terminals",
+    "connector",
+    "power adapter",
+    "wire strippers",
+    "copper solder wire",
+    "copper",
+    "shrink tube",
+    "hairdryer",
+    "heat gun",
+    "quick connectors",
+    "isopropyl alcohol",
+    "white vinegar",
+    "cleaner",
+    "wood cleaner",
+    "mounting tape"
+  ],
+  "simple_metrics":{
+    "r":0.3846153846,
+    "p":0.1351351351,
+    "f1":0.2,
+    "avg_pos":0.1351351351
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5384615385,
+    "p":0.2432432432,
+    "f1":0.335106383
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6923076923,
+    "p":0.4324324324,
+    "f1":0.5323475046
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4615384615,
+    "p":0.1621621622,
+    "f1":0.24
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title":"How to Cut a Cake Layer in Half",
+  "url":"https://www.wikihow.com/Cut-a-Cake-Layer-in-Half",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Cutting Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Place toothpicks at the halfway point around the edges of the cake layer, as shown in the image.",
+      "description":""
+    },
+    {
+      "headline":"Align unflavored dental floss around the row of toothpicks.",
+      "description":"If you're making a spongy cake, it helps to make a few cuts with a serrated knife along the toothpick row, to give the floss something to bite into."
+    },
+    {
+      "headline":"When the floss is fully wrapped around the cake, cross the ends of the floss and hold each end in each hand.",
+      "description":"Pull each end out and away from the cake, so the floss cuts through the cake as the circle of floss tightens. Move the floss slightly from side to side to help the cutting movement."
+    },
+    {
+      "headline":"Now you have two layers of cake.",
+      "description":""
+    },
+    {
+      "headline":"Slide a piece of cardboard or a baking sheet (with no sides) between the two layers and lift off the top layer.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Place toothpicks at the halfway point around the edges of the cake layer, as shown in the image.  Align unflavored dental floss around the row of toothpicks. If you're making a spongy cake, it helps to make a few cuts with a serrated knife along the toothpick row, to give the floss something to bite into. When the floss is fully wrapped around the cake, cross the ends of the floss and hold each end in each hand. Pull each end out and away from the cake, so the floss cuts through the cake as the circle of floss tightens. Move the floss slightly from side to side to help the cutting movement. Now you have two layers of cake.  Slide a piece of cardboard or a baking sheet (with no sides) between the two layers and lift off the top layer.  Finished. ",
+  "sentences":[
+    " Place toothpicks at the halfway point around the edges of the cake layer, as shown in the image.",
+    "Align unflavored dental floss around the row of toothpicks.",
+    "If you're making a spongy cake, it helps to make a few cuts with a serrated knife along the toothpick row, to give the floss something to bite into.",
+    "When the floss is fully wrapped around the cake, cross the ends of the floss and hold each end in each hand.",
+    "Pull each end out and away from the cake, so the floss cuts through the cake as the circle of floss tightens.",
+    "Move the floss slightly from side to side to help the cutting movement.",
+    "Now you have two layers of cake.",
+    "Slide a piece of cardboard or a baking sheet (with no sides) between the two layers and lift off the top layer.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Toothpicks",
+    "Unflavored dental floss"
+  ],
+  "tyn_model":[
+    "floss",
+    "dental floss",
+    "serrated knife",
+    "cake",
+    "cardboard",
+    "baking sheet"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  }
+}

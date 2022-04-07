@@ -1,0 +1,79 @@
+{
+  "title":"How to Make Vegan Gruyere Cheese",
+  "url":"https://www.wikihow.com/Make-Vegan-Gruyere-Cheese",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Vegetarian",
+    "Vegan"
+  ],
+  "steps":[
+    {
+      "headline":"Combine all of the ingredients in a food processor.",
+      "description":"Process the ingredients until they are smooth."
+    },
+    {
+      "headline":"Pour the ingredients into a small saucepan.",
+      "description":"Use a flat spatula to scrape the puree from the inside of the food processor bowl."
+    },
+    {
+      "headline":"Heat the cheese over medium heat.",
+      "description":"Stir the mixture constantly until the cheese begins to thicken."
+    },
+    {
+      "headline":"Turn off the heat and continue to stir the cheese for an additional minute.",
+      "description":"Remove the pan from the heat and set it aside."
+    },
+    {
+      "headline":"Allow the cheese to cool.",
+      "description":"You can either incorporate it into a recipe right away or store it in the refrigerator in an airtight container."
+    }
+  ],
+  "text":" Combine all of the ingredients in a food processor. Process the ingredients until they are smooth. Pour the ingredients into a small saucepan. Use a flat spatula to scrape the puree from the inside of the food processor bowl. Heat the cheese over medium heat. Stir the mixture constantly until the cheese begins to thicken. Turn off the heat and continue to stir the cheese for an additional minute. Remove the pan from the heat and set it aside. Allow the cheese to cool. You can either incorporate it into a recipe right away or store it in the refrigerator in an airtight container.",
+  "sentences":[
+    " Combine all of the ingredients in a food processor.",
+    "Process the ingredients until they are smooth.",
+    "Pour the ingredients into a small saucepan.",
+    "Use a flat spatula to scrape the puree from the inside of the food processor bowl.",
+    "Heat the cheese over medium heat.",
+    "Stir the mixture constantly until the cheese begins to thicken.",
+    "Turn off the heat and continue to stir the cheese for an additional minute.",
+    "Remove the pan from the heat and set it aside.",
+    "Allow the cheese to cool.",
+    "You can either incorporate it into a recipe right away or store it in the refrigerator in an airtight container."
+  ],
+  "tyn_section":[
+    "Food processor",
+    "Small saucepan",
+    "Flat spatula",
+    "Airtight container for storage (optional)"
+  ],
+  "tyn_model":[
+    "food processor",
+    "small saucepan",
+    "flat spatula",
+    "refrigerator",
+    "airtight container"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.6,
+    "f1":0.6666666667,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.6,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.8,
+    "f1":0.8888888889
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.6,
+    "f1":0.6666666667
+  }
+}

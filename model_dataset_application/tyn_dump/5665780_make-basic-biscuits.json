@@ -1,0 +1,110 @@
+{
+  "title":"How to Make Basic Biscuits",
+  "url":"https://www.wikihow.com/Make-Basic-Biscuits",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cookies and Biscuits"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat your oven to 190*c.",
+      "description":""
+    },
+    {
+      "headline":"Mix the butter and sugar in a bowl.",
+      "description":"Do this until the mixture is light and fluffy."
+    },
+    {
+      "headline":"Crack your egg into your mix and slowly begin to beat it in, making sure it is all mixed together.",
+      "description":""
+    },
+    {
+      "headline":"Add in the flour using a sieve.",
+      "description":"Place the sieve above the bowl and hold in place while you shake the flour through it, removing any lumps."
+    },
+    {
+      "headline":"Mix the flour into the paste.",
+      "description":"Slowly but surely your mix will become a dough. Add more flour if the mix is too soggy. Your mix should be a dough."
+    },
+    {
+      "headline":"Dust the worktop with flour, so that when you roll the dough it doesn't stick.",
+      "description":""
+    },
+    {
+      "headline":"Flour the rolling pin and then place the dough on the worktop.",
+      "description":"Begin to roll the dough until it's as thick as cardboard. Once rolled out, begin to cut out the circles. Any left over dough can be reclustered to repeat the procedure."
+    },
+    {
+      "headline":"Grease your cooking tray with butter and place the biscuits on top.",
+      "description":""
+    },
+    {
+      "headline":"Cook the biscuits for 15min-25min.",
+      "description":""
+    },
+    {
+      "headline":"Let the biscuits cool off before adding any kind of decoration.",
+      "description":""
+    }
+  ],
+  "text":" Preheat your oven to 190*c.  Mix the butter and sugar in a bowl. Do this until the mixture is light and fluffy. Crack your egg into your mix and slowly begin to beat it in, making sure it is all mixed together.  Add in the flour using a sieve. Place the sieve above the bowl and hold in place while you shake the flour through it, removing any lumps. Mix the flour into the paste. Slowly but surely your mix will become a dough. Add more flour if the mix is too soggy. Your mix should be a dough. Dust the worktop with flour, so that when you roll the dough it doesn't stick.  Flour the rolling pin and then place the dough on the worktop. Begin to roll the dough until it's as thick as cardboard. Once rolled out, begin to cut out the circles. Any left over dough can be reclustered to repeat the procedure. Grease your cooking tray with butter and place the biscuits on top.  Cook the biscuits for 15min-25min.  Let the biscuits cool off before adding any kind of decoration. ",
+  "sentences":[
+    " Preheat your oven to 190*c.  Mix the butter and sugar in a bowl.",
+    "Do this until the mixture is light and fluffy.",
+    "Crack your egg into your mix and slowly begin to beat it in, making sure it is all mixed together.",
+    "Add in the flour using a sieve.",
+    "Place the sieve above the bowl and hold in place while you shake the flour through it, removing any lumps.",
+    "Mix the flour into the paste.",
+    "Slowly but surely your mix will become a dough.",
+    "Add more flour if the mix is too soggy.",
+    "Your mix should be a dough.",
+    "Dust the worktop with flour, so that when you roll the dough it doesn't stick.",
+    "Flour the rolling pin and then place the dough on the worktop.",
+    "Begin to roll the dough until it's as thick as cardboard.",
+    "Once rolled out, begin to cut out the circles.",
+    "Any left over dough can be reclustered to repeat the procedure.",
+    "Grease your cooking tray with butter and place the biscuits on top.",
+    "Cook the biscuits for 15min-25min.",
+    "Let the biscuits cool off before adding any kind of decoration."
+  ],
+  "tyn_section":[
+    "Bowl",
+    "Baking tray",
+    "Sieve",
+    "Rolling pin"
+  ],
+  "tyn_model":[
+    "flour",
+    "butter",
+    "bowl",
+    "sieve",
+    "oven",
+    "sugar",
+    "rolling pin",
+    "cooking tray",
+    "biscuits"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615,
+    "avg_pos":0.2222222222
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4444444444,
+    "f1":0.6153846154
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615
+  }
+}

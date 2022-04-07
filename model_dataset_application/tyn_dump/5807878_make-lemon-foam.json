@@ -1,0 +1,133 @@
+{
+  "title":"How to Make Lemon Foam",
+  "url":"https://www.wikihow.com/Make-Lemon-Foam",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets"
+  ],
+  "methods":[
+    {
+      "name":"Savory lemon foam",
+      "steps":[
+        {
+          "headline":"Stir together the egg yolk, lemon juice and butter in a saucepan.",
+          "description":""
+        },
+        {
+          "headline":"Continue stirring until the mixture becomes foamy in texture.",
+          "description":""
+        },
+        {
+          "headline":"Season the mixture with salt and pepper.",
+          "description":"You can add in some dill, too."
+        },
+        {
+          "headline":"Serve immediately.",
+          "description":"Serve on its own or with steamed vegetables."
+        }
+      ]
+    },
+    {
+      "name":"Sweet lemon foam",
+      "steps":[
+        {
+          "headline":"Place the water, sugar and gelatine into the saucepan.",
+          "description":"Gently warm until the ingredients dissolve into each other."
+        },
+        {
+          "headline":"Place the syrup in the refrigerator.",
+          "description":"Leave until it is has become cold."
+        },
+        {
+          "headline":"Remove from the refrigerator.",
+          "description":"Fold in the egg white and lemon juice. Stir by hand to blend it all together."
+        },
+        {
+          "headline":"Pour the mixture into the cold whipping siphon.",
+          "description":""
+        },
+        {
+          "headline":"Charge the siphon with one charge of nitrous oxide gas.",
+          "description":"Shake vigorously."
+        },
+        {
+          "headline":"Check the foam to see that it has the right consistency.",
+          "description":"It should appear light and velvety without being stiff. You'll need to charge it again if the foam disappears too fast."
+        },
+        {
+          "headline":"Serve as soon as possible, either as a dessert of its own or as a topping on something such as a patisserie dessert or fruit.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Savory lemon foam Stir together the egg yolk, lemon juice and butter in a saucepan.  Continue stirring until the mixture becomes foamy in texture.  Season the mixture with salt and pepper. You can add in some dill, too. Serve immediately. Serve on its own or with steamed vegetables. Sweet lemon foam Place the water, sugar and gelatine into the saucepan. Gently warm until the ingredients dissolve into each other. Place the syrup in the refrigerator. Leave until it is has become cold. Remove from the refrigerator. Fold in the egg white and lemon juice. Stir by hand to blend it all together. Pour the mixture into the cold whipping siphon.  Charge the siphon with one charge of nitrous oxide gas. Shake vigorously. Check the foam to see that it has the right consistency. It should appear light and velvety without being stiff. You'll need to charge it again if the foam disappears too fast. Serve as soon as possible, either as a dessert of its own or as a topping on something such as a patisserie dessert or fruit. ",
+  "sentences":[
+    " Savory lemon foam Stir together the egg yolk, lemon juice and butter in a saucepan.",
+    "Continue stirring until the mixture becomes foamy in texture.",
+    "Season the mixture with salt and pepper.",
+    "You can add in some dill, too.",
+    "Serve immediately.",
+    "Serve on its own or with steamed vegetables.",
+    "Sweet lemon foam Place the water, sugar and gelatine into the saucepan.",
+    "Gently warm until the ingredients dissolve into each other.",
+    "Place the syrup in the refrigerator.",
+    "Leave until it is has become cold.",
+    "Remove from the refrigerator.",
+    "Fold in the egg white and lemon juice.",
+    "Stir by hand to blend it all together.",
+    "Pour the mixture into the cold whipping siphon.",
+    "Charge the siphon with one charge of nitrous oxide gas.",
+    "Shake vigorously.",
+    "Check the foam to see that it has the right consistency.",
+    "It should appear light and velvety without being stiff.",
+    "You'll need to charge it again if the foam disappears too fast.",
+    "Serve as soon as possible, either as a dessert of its own or as a topping on something such as a patisserie dessert or fruit."
+  ],
+  "tyn_section":[
+    "Method 1",
+    "Heavy-based saucepan",
+    "Stirring implement",
+    "Method 2",
+    "Whipping siphon, 1 litre size (ensure that it is cold before using)",
+    "1 nitrous oxide gas charge for the whipping siphon"
+  ],
+  "tyn_model":[
+    "saucepan",
+    "refrigerator",
+    "egg yolk",
+    "lemon juice",
+    "butter",
+    "salt and pepper",
+    "dill",
+    "water",
+    "sugar",
+    "gelatine",
+    "egg white",
+    "lemon",
+    "nitrous oxide",
+    "patisserie dessert"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.0714285714,
+    "f1":0.1
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.1666666667,
+    "p":0.0714285714,
+    "f1":0.1
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

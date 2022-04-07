@@ -1,0 +1,101 @@
+{
+  "title":"How to Clean Asphalt",
+  "url":"https://www.wikihow.com/Clean-Asphalt",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Yard and Outdoors",
+    "Paths and Paving",
+    "Driveways"
+  ],
+  "steps":[
+    {
+      "headline":"Remove loose residue from the asphalt surface.",
+      "description":"Use the oblong push broom to sweep away leaves, grass cuttings, loose dirt and other residue that is lightly resting on the surface. Removing all loose dirt and grime will make the task of actually cleaning the asphalt much easier."
+    },
+    {
+      "headline":"Soak the asphalt with a steady stream of water.",
+      "description":"Use the garden hose to apply the water over the surface. Taking the time to thoroughly moisten the surface of the asphalt before beginning the cleaning phase will help loosen some of the minor residue that may be embedded in small crevices in the surface of the asphalt, making the overall cleaning effort a little easier."
+    },
+    {
+      "headline":"Pre-treat oil stains and tire marks before attempting to clean the entire surface.",
+      "description":"Accomplish this by coating the heavier stained areas with laundry detergent. Pour a generous amount of the powdered detergent directly onto oil and similar stains. Allow the detergent to set for several minutes, soaking into the wet surface and beginning the task of lifting oil and other stains from the top layer of the asphalt."
+    },
+    {
+      "headline":"Mix the cleaning product in a bucket.",
+      "description":"Combine 1 part laundry detergent with 3 parts water and 1 part bleach. Make sure the combination is mixed thoroughly."
+    },
+    {
+      "headline":"Work the cleaner into the asphalt.",
+      "description":"Pour some of the cleaner onto a section of the asphalt, and then use the hand brush to work the product into the asphalt. Use a combination of clockwise, counter-clockwise and back and forth movements to work the bristles into the surface of the asphalt. This will help dislodge any residue that is continued to remain adhered to the surface."
+    },
+    {
+      "headline":"Rinse the asphalt.",
+      "description":"As the final phase of the asphalt cleaning, use a high pressure stream of water from the hose to rinse away the cleaner and the dislodged dirt and grime. Survey the condition of the surface and take note of any lingering stains or surface grime. Administer additional cleaning product and brush vigorously before rinsing the area a second time."
+    }
+  ],
+  "text":" Remove loose residue from the asphalt surface. Use the oblong push broom to sweep away leaves, grass cuttings, loose dirt and other residue that is lightly resting on the surface. Removing all loose dirt and grime will make the task of actually cleaning the asphalt much easier. Soak the asphalt with a steady stream of water. Use the garden hose to apply the water over the surface. Taking the time to thoroughly moisten the surface of the asphalt before beginning the cleaning phase will help loosen some of the minor residue that may be embedded in small crevices in the surface of the asphalt, making the overall cleaning effort a little easier. Pre-treat oil stains and tire marks before attempting to clean the entire surface. Accomplish this by coating the heavier stained areas with laundry detergent. Pour a generous amount of the powdered detergent directly onto oil and similar stains. Allow the detergent to set for several minutes, soaking into the wet surface and beginning the task of lifting oil and other stains from the top layer of the asphalt. Mix the cleaning product in a bucket. Combine 1 part laundry detergent with 3 parts water and 1 part bleach. Make sure the combination is mixed thoroughly. Work the cleaner into the asphalt. Pour some of the cleaner onto a section of the asphalt, and then use the hand brush to work the product into the asphalt. Use a combination of clockwise, counter-clockwise and back and forth movements to work the bristles into the surface of the asphalt. This will help dislodge any residue that is continued to remain adhered to the surface. Rinse the asphalt. As the final phase of the asphalt cleaning, use a high pressure stream of water from the hose to rinse away the cleaner and the dislodged dirt and grime. Survey the condition of the surface and take note of any lingering stains or surface grime. Administer additional cleaning product and brush vigorously before rinsing the area a second time.",
+  "sentences":[
+    " Remove loose residue from the asphalt surface.",
+    "Use the oblong push broom to sweep away leaves, grass cuttings, loose dirt and other residue that is lightly resting on the surface.",
+    "Removing all loose dirt and grime will make the task of actually cleaning the asphalt much easier.",
+    "Soak the asphalt with a steady stream of water.",
+    "Use the garden hose to apply the water over the surface.",
+    "Taking the time to thoroughly moisten the surface of the asphalt before beginning the cleaning phase will help loosen some of the minor residue that may be embedded in small crevices in the surface of the asphalt, making the overall cleaning effort a little easier.",
+    "Pre-treat oil stains and tire marks before attempting to clean the entire surface.",
+    "Accomplish this by coating the heavier stained areas with laundry detergent.",
+    "Pour a generous amount of the powdered detergent directly onto oil and similar stains.",
+    "Allow the detergent to set for several minutes, soaking into the wet surface and beginning the task of lifting oil and other stains from the top layer of the asphalt.",
+    "Mix the cleaning product in a bucket.",
+    "Combine 1 part laundry detergent with 3 parts water and 1 part bleach.",
+    "Make sure the combination is mixed thoroughly.",
+    "Work the cleaner into the asphalt.",
+    "Pour some of the cleaner onto a section of the asphalt, and then use the hand brush to work the product into the asphalt.",
+    "Use a combination of clockwise, counter-clockwise and back and forth movements to work the bristles into the surface of the asphalt.",
+    "This will help dislodge any residue that is continued to remain adhered to the surface.",
+    "Rinse the asphalt.",
+    "As the final phase of the asphalt cleaning, use a high pressure stream of water from the hose to rinse away the cleaner and the dislodged dirt and grime.",
+    "Survey the condition of the surface and take note of any lingering stains or surface grime.",
+    "Administer additional cleaning product and brush vigorously before rinsing the area a second time."
+  ],
+  "tyn_section":[
+    "Garden Hose",
+    "Bucket",
+    "Powdered Laundry Detergent",
+    "Liquid Bleach",
+    "Hand Brush With Stiff Bristles",
+    "Oblong Push Broom With Stiff Bristles"
+  ],
+  "tyn_model":[
+    "water",
+    "laundry detergent",
+    "oblong push broom",
+    "garden hose",
+    "bucket",
+    "bleach",
+    "hand brush",
+    "asphalt",
+    "hose",
+    "cleaning product"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25,
+    "avg_pos":0.3
+  },
+  "jacc_metrics_0.5":{
+    "r":0.8333333333,
+    "p":0.6,
+    "f1":0.6976744186
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.7,
+    "f1":0.8235294118
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3,
+    "f1":0.375
+  }
+}

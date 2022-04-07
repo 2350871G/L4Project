@@ -1,0 +1,123 @@
+{
+  "title":"How to Create Your Own Car Racing Game in Scratch",
+  "url":"https://www.wikihow.com/Create-Your-Own-Car-Racing-Game-in-Scratch",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "steps":[
+    {
+      "headline":"The first step on creating your own car racing game is to open up Scratch on your desktop.",
+      "description":""
+    },
+    {
+      "headline":"When step 1 has been completed, and Scratch has loaded, you will need to delete the small sprite that is on the right side of the screen, this can be done by hovering over the cat in the grey area, a small drop down list will appear, you then press 'Delete'.",
+      "description":"The cat has been used as an example of a sprite."
+    },
+    {
+      "headline":"You now need to  create a new sprite, one that is relevant to the game you are wanting to create.",
+      "description":"You can create the sprite by drawing it free hand, or uploading one. To create one you click on the 'Paint new sprite' button."
+    },
+    {
+      "headline":"When you have completed step 3 a blank page will appear, it will have all the tools in which you will need to create your sprite.",
+      "description":"When finished creating this sprite you need to add a small dot in front of the car, this will later be explained."
+    },
+    {
+      "headline":"When step 4 is completed and the new car sprite is created, you press 'OK'.",
+      "description":"When this has been done the new sprite that you have created will be on the Scratch page. This will be the sprite used for your racing car racing game sprite."
+    },
+    {
+      "headline":"Adding another car to make it two player you hover over the sprite and click duplicate, this will then copy the racing car and make another one exactly like it.",
+      "description":"You may change the colour of the second sprite, you can do this by editing it. The edit button is under the heading 'Costumes' this will only appear when you have clicked on the sprite(s) you would like to edit. You should also add a small coloured dot in front of the duplicated racing car. The colour dot should not be a colour that is already used in the game."
+    },
+    {
+      "headline":"When wanting to change the layout of the  background, you click on the 'Stage' button, this will then allow you to create your own racing game background.",
+      "description":""
+    },
+    {
+      "headline":"When you have created the background for your car racing game you can move the cars around and place them wherever you like.",
+      "description":""
+    },
+    {
+      "headline":"To get your cars to move, you have to set them so they can move individually and go in different directions, you do this by making a script for them.",
+      "description":"This is done by clicking on one of the sprites. This is the script for the pink racing car."
+    },
+    {
+      "headline":"When creating the script for both racing cars, you should have added the 'Forever if' Variable, you should have also added the 'Colour _ is touching _ ?'",
+      "description":"This is so when the cars are driving around, they can not go off the track, so for example if you have put a small pink dot in front of the racing car and the barriers are grey, you should put 'Colour pink is touching grey?' you change this by clicking on the boxes provided in the variable and touch where ever the colours are."
+    },
+    {
+      "headline":"The script for the duplicated car will be slightly different compared to the first racing car.",
+      "description":"The controls will be slightly different due to it being a 2 player game. The keys that you press to move the car are letters on the keypad. These letters are your choice and which ever ones you would find relevant and easy to use. For example the key A and the key D. The letter D can be used to go clockwise (right) and the letter A can be used to go anti-clockwise (left)."
+    },
+    {
+      "headline":"To test your racing game, click on the 'Switch to presentation mode'.",
+      "description":"This button is located at the top right of the Scratch screen. To start the game you click on the green flag, this is also at the top right of the screen."
+    }
+  ],
+  "text":" The first step on creating your own car racing game is to open up Scratch on your desktop.  When step 1 has been completed, and Scratch has loaded, you will need to delete the small sprite that is on the right side of the screen, this can be done by hovering over the cat in the grey area, a small drop down list will appear, you then press 'Delete'. The cat has been used as an example of a sprite. You now need to  create a new sprite, one that is relevant to the game you are wanting to create. You can create the sprite by drawing it free hand, or uploading one. To create one you click on the 'Paint new sprite' button. When you have completed step 3 a blank page will appear, it will have all the tools in which you will need to create your sprite. When finished creating this sprite you need to add a small dot in front of the car, this will later be explained. When step 4 is completed and the new car sprite is created, you press 'OK'. When this has been done the new sprite that you have created will be on the Scratch page. This will be the sprite used for your racing car racing game sprite. Adding another car to make it two player you hover over the sprite and click duplicate, this will then copy the racing car and make another one exactly like it. You may change the colour of the second sprite, you can do this by editing it. The edit button is under the heading 'Costumes' this will only appear when you have clicked on the sprite(s) you would like to edit. You should also add a small coloured dot in front of the duplicated racing car. The colour dot should not be a colour that is already used in the game. When wanting to change the layout of the  background, you click on the 'Stage' button, this will then allow you to create your own racing game background.  When you have created the background for your car racing game you can move the cars around and place them wherever you like.  To get your cars to move, you have to set them so they can move individually and go in different directions, you do this by making a script for them. This is done by clicking on one of the sprites. This is the script for the pink racing car. When creating the script for both racing cars, you should have added the 'Forever if' Variable, you should have also added the 'Colour _ is touching _ ?' This is so when the cars are driving around, they can not go off the track, so for example if you have put a small pink dot in front of the racing car and the barriers are grey, you should put 'Colour pink is touching grey?' you change this by clicking on the boxes provided in the variable and touch where ever the colours are. The script for the duplicated car will be slightly different compared to the first racing car. The controls will be slightly different due to it being a 2 player game. The keys that you press to move the car are letters on the keypad. These letters are your choice and which ever ones you would find relevant and easy to use. For example the key A and the key D. The letter D can be used to go clockwise (right) and the letter A can be used to go anti-clockwise (left). To test your racing game, click on the 'Switch to presentation mode'. This button is located at the top right of the Scratch screen. To start the game you click on the green flag, this is also at the top right of the screen.",
+  "sentences":[
+    " The first step on creating your own car racing game is to open up Scratch on your desktop.",
+    "When step 1 has been completed, and Scratch has loaded, you will need to delete the small sprite that is on the right side of the screen, this can be done by hovering over the cat in the grey area, a small drop down list will appear, you then press 'Delete'.",
+    "The cat has been used as an example of a sprite.",
+    "You now need to  create a new sprite, one that is relevant to the game you are wanting to create.",
+    "You can create the sprite by drawing it free hand, or uploading one.",
+    "To create one you click on the 'Paint new sprite' button.",
+    "When you have completed step 3 a blank page will appear, it will have all the tools in which you will need to create your sprite.",
+    "When finished creating this sprite you need to add a small dot in front of the car, this will later be explained.",
+    "When step 4 is completed and the new car sprite is created, you press 'OK'.",
+    "When this has been done the new sprite that you have created will be on the Scratch page.",
+    "This will be the sprite used for your racing car racing game sprite.",
+    "Adding another car to make it two player you hover over the sprite and click duplicate, this will then copy the racing car and make another one exactly like it.",
+    "You may change the colour of the second sprite, you can do this by editing it.",
+    "The edit button is under the heading 'Costumes' this will only appear when you have clicked on the sprite(s) you would like to edit.",
+    "You should also add a small coloured dot in front of the duplicated racing car.",
+    "The colour dot should not be a colour that is already used in the game.",
+    "When wanting to change the layout of the  background, you click on the 'Stage' button, this will then allow you to create your own racing game background.",
+    "When you have created the background for your car racing game you can move the cars around and place them wherever you like.",
+    "To get your cars to move, you have to set them so they can move individually and go in different directions, you do this by making a script for them.",
+    "This is done by clicking on one of the sprites.",
+    "This is the script for the pink racing car.",
+    "When creating the script for both racing cars, you should have added the 'Forever if' Variable, you should have also added the 'Colour _ is touching _ ?'",
+    "This is so when the cars are driving around, they can not go off the track, so for example if you have put a small pink dot in front of the racing car and the barriers are grey, you should put 'Colour pink is touching grey?'",
+    "you change this by clicking on the boxes provided in the variable and touch where ever the colours are.",
+    "The script for the duplicated car will be slightly different compared to the first racing car.",
+    "The controls will be slightly different due to it being a 2 player game.",
+    "The keys that you press to move the car are letters on the keypad.",
+    "These letters are your choice and which ever ones you would find relevant and easy to use.",
+    "For example the key A and the key D. The letter D can be used to go clockwise (right) and the letter A can be used to go anti-clockwise (left).",
+    "To test your racing game, click on the 'Switch to presentation mode'.",
+    "This button is located at the top right of the Scratch screen.",
+    "To start the game you click on the green flag, this is also at the top right of the screen."
+  ],
+  "tyn_section":[
+    "Scratch"
+  ],
+  "tyn_model":[
+    "scratch",
+    "cat",
+    "racing game"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.3333333333,
+    "f1":0.5
+  }
+}

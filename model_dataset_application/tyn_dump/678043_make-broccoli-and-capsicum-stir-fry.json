@@ -1,0 +1,129 @@
+{
+  "title":"How to Make Broccoli and Capsicum Stir Fry",
+  "url":"https://www.wikihow.com/Make-Broccoli-and-Capsicum-Stir-Fry",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Cruciferous Vegetables"
+  ],
+  "parts":[
+    {
+      "name":"Preparation",
+      "steps":[
+        {
+          "headline":"Chop the capsicums (bell peppers) into thin strips.",
+          "description":""
+        },
+        {
+          "headline":"Grind the garlic and red chilli powder into a smooth paste.",
+          "description":""
+        },
+        {
+          "headline":"Cook the broccoli with enough salt and water till it becomes soft.",
+          "description":"Do not overcook it; aim to retain its tender quality."
+        }
+      ]
+    },
+    {
+      "name":"Making the Stir-Fry",
+      "steps":[
+        {
+          "headline":"Add the olive oil to a frying pan.",
+          "description":"Add the chopped onion and green chilli."
+        },
+        {
+          "headline":"Fry till the onion becomes soft.",
+          "description":""
+        },
+        {
+          "headline":"Add the chopped capsicum.",
+          "description":"Fry till it is half cooked."
+        },
+        {
+          "headline":"Add the garlic paste.",
+          "description":"Fry until the raw smell of garlic disappears."
+        },
+        {
+          "headline":"Add the cooked broccoli.",
+          "description":"Fry until it is mixed in with the other vegetables."
+        },
+        {
+          "headline":"Add the chopped spring onion.",
+          "description":"Fry for a minute."
+        },
+        {
+          "headline":"Serve hot.",
+          "description":"Transfer to serving plates or bowls. Serve with rotis and/or rice."
+        }
+      ]
+    }
+  ],
+  "text":" Preparation Chop the capsicums (bell peppers) into thin strips.  Grind the garlic and red chilli powder into a smooth paste.  Cook the broccoli with enough salt and water till it becomes soft. Do not overcook it; aim to retain its tender quality. Making the Stir-Fry Add the olive oil to a frying pan. Add the chopped onion and green chilli. Fry till the onion becomes soft.  Add the chopped capsicum. Fry till it is half cooked. Add the garlic paste. Fry until the raw smell of garlic disappears. Add the cooked broccoli. Fry until it is mixed in with the other vegetables. Add the chopped spring onion. Fry for a minute. Serve hot. Transfer to serving plates or bowls. Serve with rotis and/or rice.",
+  "sentences":[
+    " Preparation Chop the capsicums (bell peppers) into thin strips.",
+    "Grind the garlic and red chilli powder into a smooth paste.",
+    "Cook the broccoli with enough salt and water till it becomes soft.",
+    "Do not overcook it; aim to retain its tender quality.",
+    "Making the Stir-Fry Add the olive oil to a frying pan.",
+    "Add the chopped onion and green chilli.",
+    "Fry till the onion becomes soft.",
+    "Add the chopped capsicum.",
+    "Fry till it is half cooked.",
+    "Add the garlic paste.",
+    "Fry until the raw smell of garlic disappears.",
+    "Add the cooked broccoli.",
+    "Fry until it is mixed in with the other vegetables.",
+    "Add the chopped spring onion.",
+    "Fry for a minute.",
+    "Serve hot.",
+    "Transfer to serving plates or bowls.",
+    "Serve with rotis and/or rice."
+  ],
+  "tyn_section":[
+    "Cutting board",
+    "Kitchen knife",
+    "Frying pan or wok",
+    "Stirring utensil such as a wooden spatula or spoon",
+    "Serving plates or bowls"
+  ],
+  "tyn_model":[
+    "garlic",
+    "broccoli",
+    "onion",
+    "capsicums",
+    "bell peppers",
+    "red chilli",
+    "salt",
+    "water",
+    "olive oil",
+    "frying pan",
+    "green chilli",
+    "capsicum",
+    "vegetables",
+    "serving plates or",
+    "rotis",
+    "rice"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.125,
+    "f1":0.1904761905
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.125,
+    "f1":0.1904761905
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.0625,
+    "f1":0.0952380952
+  }
+}

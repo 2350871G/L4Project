@@ -1,0 +1,113 @@
+{
+  "title":"How to Make Toast Champignon",
+  "url":"https://www.wikihow.com/Make-Toast-Champignon",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Toast"
+  ],
+  "steps":[
+    {
+      "headline":"Clean the mushrooms.",
+      "description":"Some people like to wipe the mushrooms clean while other people like to rinse them. Choose your favorite method for cleaning mushrooms. You can even peel them if you like. Whatever you do, please do not soak the mushrooms before cooking them, this will make them soggy."
+    },
+    {
+      "headline":"Cut the mushrooms into quarters or small bite sized pieces if you are using quite large mushrooms.",
+      "description":"If you're using baby button mushrooms, you can half them or even them whole."
+    },
+    {
+      "headline":"Add plenty of butter to a frying pan.",
+      "description":"You want enough to coat the mushrooms while they are cooking."
+    },
+    {
+      "headline":"Melt the butter and then add the mushrooms and make sure they\u2019re all coated in butter.",
+      "description":""
+    },
+    {
+      "headline":"Toast the bread while the mushrooms are cooking.",
+      "description":"Use diagonally slices from a French Stick if you like. It may be easier to grill some types of bread than use a toaster. Do what works for you."
+    },
+    {
+      "headline":"Cook the mushrooms until are almost golden brown, stirring often, then add the crushed garlic and parsley.",
+      "description":""
+    },
+    {
+      "headline":"Season mushrooms with pepper and salt.",
+      "description":""
+    },
+    {
+      "headline":"Give it a final good mix and let the mushrooms fry until fully golden brown in colour and tender enough to eat.",
+      "description":""
+    },
+    {
+      "headline":"Remove the toast from the toaster and spread some butter on the browned toast.",
+      "description":""
+    },
+    {
+      "headline":"Lay the mushrooms on the toast and it\u2019s ready to be served!",
+      "description":""
+    }
+  ],
+  "text":" Clean the mushrooms. Some people like to wipe the mushrooms clean while other people like to rinse them. Choose your favorite method for cleaning mushrooms. You can even peel them if you like. Whatever you do, please do not soak the mushrooms before cooking them, this will make them soggy. Cut the mushrooms into quarters or small bite sized pieces if you are using quite large mushrooms. If you're using baby button mushrooms, you can half them or even them whole. Add plenty of butter to a frying pan. You want enough to coat the mushrooms while they are cooking. Melt the butter and then add the mushrooms and make sure they\u2019re all coated in butter.  Toast the bread while the mushrooms are cooking. Use diagonally slices from a French Stick if you like. It may be easier to grill some types of bread than use a toaster. Do what works for you. Cook the mushrooms until are almost golden brown, stirring often, then add the crushed garlic and parsley.  Season mushrooms with pepper and salt.  Give it a final good mix and let the mushrooms fry until fully golden brown in colour and tender enough to eat.  Remove the toast from the toaster and spread some butter on the browned toast.  Lay the mushrooms on the toast and it\u2019s ready to be served! ",
+  "sentences":[
+    " Clean the mushrooms.",
+    "Some people like to wipe the mushrooms clean while other people like to rinse them.",
+    "Choose your favorite method for cleaning mushrooms.",
+    "You can even peel them if you like.",
+    "Whatever you do, please do not soak the mushrooms before cooking them, this will make them soggy.",
+    "Cut the mushrooms into quarters or small bite sized pieces if you are using quite large mushrooms.",
+    "If you're using baby button mushrooms, you can half them or even them whole.",
+    "Add plenty of butter to a frying pan.",
+    "You want enough to coat the mushrooms while they are cooking.",
+    "Melt the butter and then add the mushrooms and make sure they\u2019re all coated in butter.",
+    "Toast the bread while the mushrooms are cooking.",
+    "Use diagonally slices from a French Stick if you like.",
+    "It may be easier to grill some types of bread than use a toaster.",
+    "Do what works for you.",
+    "Cook the mushrooms until are almost golden brown, stirring often, then add the crushed garlic and parsley.",
+    "Season mushrooms with pepper and salt.",
+    "Give it a final good mix and let the mushrooms fry until fully golden brown in colour and tender enough to eat.",
+    "Remove the toast from the toaster and spread some butter on the browned toast.",
+    "Lay the mushrooms on the toast and it\u2019s ready to be served!"
+  ],
+  "tyn_section":[
+    "Kitchen knife",
+    "Cutting board",
+    "Colander",
+    "Skillet",
+    "Toaster"
+  ],
+  "tyn_model":[
+    "mushrooms",
+    "butter",
+    "toaster",
+    "frying pan",
+    "bread",
+    "french stick",
+    "crushed garlic",
+    "parsley",
+    "pepper",
+    "salt"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.1,
+    "f1":0.1333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.1,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.1,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.1,
+    "f1":0.1333333333
+  }
+}

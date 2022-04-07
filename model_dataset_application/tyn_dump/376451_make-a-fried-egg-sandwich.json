@@ -1,0 +1,84 @@
+{
+  "title":"How to Make a Fried Egg Sandwich",
+  "url":"https://www.wikihow.com/Make-a-Fried-Egg-Sandwich",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Sandwiches and Quick Meals",
+    "Meat and Poultry Sandwiches"
+  ],
+  "steps":[
+    {
+      "headline":"Spread butter or mayonnaise on the two slices of bread.",
+      "description":""
+    },
+    {
+      "headline":"Oil and heat a medium sized pan.",
+      "description":"Break two eggs in the heated pan and flick a dab of cooking oil on top of the egg yolks."
+    },
+    {
+      "headline":"Fry your eggs to your liking.",
+      "description":""
+    },
+    {
+      "headline":"Place the two eggs on one slice of bread.",
+      "description":"Dab any toppings you wish or anything else you want to add in your sandwich, for example lettuce or tomatoes."
+    },
+    {
+      "headline":"Turn the other slice of bread over, so that the buttered side is towards the eggs.",
+      "description":"Cut your sandwich in half and enjoy."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Spread butter or mayonnaise on the two slices of bread.  Oil and heat a medium sized pan. Break two eggs in the heated pan and flick a dab of cooking oil on top of the egg yolks. Fry your eggs to your liking.  Place the two eggs on one slice of bread. Dab any toppings you wish or anything else you want to add in your sandwich, for example lettuce or tomatoes. Turn the other slice of bread over, so that the buttered side is towards the eggs. Cut your sandwich in half and enjoy. Finished. ",
+  "sentences":[
+    " Spread butter or mayonnaise on the two slices of bread.",
+    "Oil and heat a medium sized pan.",
+    "Break two eggs in the heated pan and flick a dab of cooking oil on top of the egg yolks.",
+    "Fry your eggs to your liking.",
+    "Place the two eggs on one slice of bread.",
+    "Dab any toppings you wish or anything else you want to add in your sandwich, for example lettuce or tomatoes.",
+    "Turn the other slice of bread over, so that the buttered side is towards the eggs.",
+    "Cut your sandwich in half and enjoy.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Plate",
+    "Butter knife",
+    "Small frying pan",
+    "Spatula",
+    "Bread knife"
+  ],
+  "tyn_model":[
+    "eggs",
+    "butter",
+    "oil",
+    "medium sized pan",
+    "cooking oil",
+    "tomatoes"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.1666666667,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.1666666667,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

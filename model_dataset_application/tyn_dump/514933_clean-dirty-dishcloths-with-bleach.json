@@ -1,0 +1,74 @@
+{
+  "title":"How to Clean Dirty Dishcloths With Bleach",
+  "url":"https://www.wikihow.com/Clean-Dirty-Dishcloths-With-Bleach",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Cleaning",
+    "House Cleaning"
+  ],
+  "steps":[
+    {
+      "headline":"Soak the dishcloths in a bucket of diluted bleach (20 parts water to 1 part bleach).",
+      "description":"Fill the bucket enough to cover the dishcloths."
+    },
+    {
+      "headline":"Leave to stand thirty minutes.",
+      "description":""
+    },
+    {
+      "headline":"Rinse out under running cold water.",
+      "description":""
+    },
+    {
+      "headline":"Allow to dry.",
+      "description":"They should be clean and much better smelling than the day before."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Soak the dishcloths in a bucket of diluted bleach (20 parts water to 1 part bleach). Fill the bucket enough to cover the dishcloths. Leave to stand thirty minutes.  Rinse out under running cold water.  Allow to dry. They should be clean and much better smelling than the day before. Finished. ",
+  "sentences":[
+    " Soak the dishcloths in a bucket of diluted bleach (20 parts water to 1 part bleach).",
+    "Fill the bucket enough to cover the dishcloths.",
+    "Leave to stand thirty minutes.",
+    "Rinse out under running cold water.",
+    "Allow to dry.",
+    "They should be clean and much better smelling than the day before.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Bleach",
+    "Bucket",
+    "Dirty dishcloths"
+  ],
+  "tyn_model":[
+    "bucket",
+    "diluted bleach",
+    "bleach",
+    "water"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.5,
+    "f1":0.5714285714,
+    "avg_pos":0.5
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.75,
+    "f1":0.7058823529
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.75,
+    "f1":0.7058823529
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.5,
+    "f1":0.5714285714
+  }
+}

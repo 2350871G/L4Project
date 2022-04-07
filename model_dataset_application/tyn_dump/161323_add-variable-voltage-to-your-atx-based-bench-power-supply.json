@@ -1,0 +1,75 @@
+{
+  "title":"How to Add Variable Voltage to Your ATX Based Bench Power Supply",
+  "url":"https://www.wikihow.com/Add-Variable-Voltage-to-Your-ATX-Based-Bench-Power-Supply",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "steps":[
+    {
+      "headline":"Gather the materials required and construct the circuit from the circuit diagram.",
+      "description":"It would be a good idea to get the datasheet for the regulator from the manufacturers website."
+    },
+    {
+      "headline":"Get some banana leads and connect the +12V and -12V outputs from your modded ATX supply and connect it to the input of your variable module.",
+      "description":"Use a multimeter to measure the output voltage."
+    },
+    {
+      "headline":"Once you have built the circuit test it carefully and measure the output voltage.",
+      "description":"You should be able to vary the voltage from about 1.5V up to 22V by turning the variable resistor. If you are using the LM317 the output current will be restricted to 1.5A, if using the LM338K it should be slightly higher check the datasheet for exact information."
+    }
+  ],
+  "text":" Gather the materials required and construct the circuit from the circuit diagram. It would be a good idea to get the datasheet for the regulator from the manufacturers website. Get some banana leads and connect the +12V and -12V outputs from your modded ATX supply and connect it to the input of your variable module. Use a multimeter to measure the output voltage. Once you have built the circuit test it carefully and measure the output voltage. You should be able to vary the voltage from about 1.5V up to 22V by turning the variable resistor. If you are using the LM317 the output current will be restricted to 1.5A, if using the LM338K it should be slightly higher check the datasheet for exact information.",
+  "sentences":[
+    " Gather the materials required and construct the circuit from the circuit diagram.",
+    "It would be a good idea to get the datasheet for the regulator from the manufacturers website.",
+    "Get some banana leads and connect the +12V and -12V outputs from your modded ATX supply and connect it to the input of your variable module.",
+    "Use a multimeter to measure the output voltage.",
+    "Once you have built the circuit test it carefully and measure the output voltage.",
+    "You should be able to vary the voltage from about 1.5V up to 22V by turning the variable resistor.",
+    "If you are using the LM317 the output current will be restricted to 1.5A, if using the LM338K it should be slightly higher check the datasheet for exact information."
+  ],
+  "tyn_section":[
+    "You will need the following materials:",
+    "1x LM317 or LM338K Voltage regulator (With heatsink and heatsink paste)",
+    "1x 100nF Capacitors (ceramic or tantalum)",
+    "1x 1uF Capacitors Electrolytic",
+    "1X 1N4001 or 1N4002 Power Diode",
+    "1X 120 Ohm resistor",
+    "1x 5k Ohm variable resistor",
+    "Optional",
+    "Some Veroboard or a matrix board and some suitably thick wire for connecting the circuit.",
+    "A small enclosure about the size of a wall wart to put the circuit in.",
+    "Indispensable",
+    "An ATX power Supply already modded to provide +12V, -12V, +5V and -5V"
+  ],
+  "tyn_model":[
+    "regulator",
+    "atx supply",
+    "multimeter",
+    "resistor"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

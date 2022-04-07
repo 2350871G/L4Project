@@ -1,0 +1,131 @@
+{
+  "title":"How to Make Dragon Fruit Jam",
+  "url":"https://www.wikihow.com/Make-Dragon-Fruit-Jam",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Jams and Jellies"
+  ],
+  "methods":[
+    {
+      "name":"Plain Dragon Fruit Jam",
+      "steps":[
+        {
+          "headline":"Assemble all of your ingredients.",
+          "description":"Cut the dragon fruit in half and scoop out the pulp, squeeze out the juice from the lemon, measure your sugar and butter etc."
+        },
+        {
+          "headline":"Pour in the juice, crack the eggs, add the sugar, butter and dragon fruit pulp in a mixing bowl and whisk until all the ingredients are combined together.",
+          "description":""
+        },
+        {
+          "headline":"Pour the whisked mixture into a double boiler.",
+          "description":""
+        },
+        {
+          "headline":"Cook over a low and steady heat.",
+          "description":"Stir frequently. The mixture will begin to thicken as you stir, over a period of about half an hour. Add some sugar if it is not sweet enough, or water if it's too sweet. Check to see if it's thick enough."
+        },
+        {
+          "headline":"Pour the jam in a container or jar and seal.",
+          "description":"Finished - spread your jam on a bread etc."
+        }
+      ]
+    },
+    {
+      "name":"Dragon Fruit and Lemon Jam",
+      "steps":[
+        {
+          "headline":"Pour in all of the contents except for the sugar in a double boiler.",
+          "description":""
+        },
+        {
+          "headline":"Cook over low and steady heat and constantly stir until the mixture is soft.",
+          "description":""
+        },
+        {
+          "headline":"Add in the sugar and increase the heat.",
+          "description":""
+        },
+        {
+          "headline":"Keep stirring cautiously until the mixture feels thickened.",
+          "description":""
+        },
+        {
+          "headline":"Taste the mixture if it is nice.",
+          "description":"If too sweet add in more water; if not sweet, add in more sugar."
+        },
+        {
+          "headline":"Pour the jam in a container or jar and seal.",
+          "description":"Finished - spread your jam on a bread etc."
+        }
+      ]
+    }
+  ],
+  "text":" Plain Dragon Fruit Jam Assemble all of your ingredients. Cut the dragon fruit in half and scoop out the pulp, squeeze out the juice from the lemon, measure your sugar and butter etc. Pour in the juice, crack the eggs, add the sugar, butter and dragon fruit pulp in a mixing bowl and whisk until all the ingredients are combined together.  Pour the whisked mixture into a double boiler.  Cook over a low and steady heat. Stir frequently. The mixture will begin to thicken as you stir, over a period of about half an hour. Add some sugar if it is not sweet enough, or water if it's too sweet. Check to see if it's thick enough. Pour the jam in a container or jar and seal. Finished - spread your jam on a bread etc. Dragon Fruit and Lemon Jam Pour in all of the contents except for the sugar in a double boiler.  Cook over low and steady heat and constantly stir until the mixture is soft.  Add in the sugar and increase the heat.  Keep stirring cautiously until the mixture feels thickened.  Taste the mixture if it is nice. If too sweet add in more water; if not sweet, add in more sugar. Pour the jam in a container or jar and seal. Finished - spread your jam on a bread etc.",
+  "sentences":[
+    " Plain Dragon Fruit Jam Assemble all of your ingredients.",
+    "Cut the dragon fruit in half and scoop out the pulp, squeeze out the juice from the lemon, measure your sugar and butter etc.",
+    "Pour in the juice, crack the eggs, add the sugar, butter and dragon fruit pulp in a mixing bowl and whisk until all the ingredients are combined together.",
+    "Pour the whisked mixture into a double boiler.",
+    "Cook over a low and steady heat.",
+    "Stir frequently.",
+    "The mixture will begin to thicken as you stir, over a period of about half an hour.",
+    "Add some sugar if it is not sweet enough, or water if it's too sweet.",
+    "Check to see if it's thick enough.",
+    "Pour the jam in a container or jar and seal.",
+    "Finished - spread your jam on a bread etc.",
+    "Dragon Fruit and Lemon Jam Pour in all of the contents except for the sugar in a double boiler.",
+    "Cook over low and steady heat and constantly stir until the mixture is soft.",
+    "Add in the sugar and increase the heat.",
+    "Keep stirring cautiously until the mixture feels thickened.",
+    "Taste the mixture if it is nice.",
+    "If too sweet add in more water; if not sweet, add in more sugar.",
+    "Pour the jam in a container or jar and seal.",
+    "Finished - spread your jam on a bread etc."
+  ],
+  "tyn_section":[
+    "Mixing bowl",
+    "Whisk",
+    "Double boiler (or a bowl over a saucepan of water)",
+    "Clean and sterilized jam jar"
+  ],
+  "tyn_model":[
+    "sugar",
+    "dragon fruit",
+    "butter",
+    "double boiler",
+    "water",
+    "dragon fruit jam",
+    "lemon",
+    "eggs",
+    "dragon fruit pulp",
+    "mixing bowl",
+    "whisk",
+    "lemon jam",
+    "container",
+    "bread"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222,
+    "avg_pos":0.6428571429
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  }
+}

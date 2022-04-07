@@ -1,0 +1,71 @@
+{
+  "title":"How to Play Making Squares",
+  "url":"https://www.wikihow.com/Play-Making-Squares",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games"
+  ],
+  "steps":[
+    {
+      "headline":"Make a square or rectangle of dots, as shown in this image.",
+      "description":""
+    },
+    {
+      "headline":"Provide the players with pencils.",
+      "description":"Each player makes a line joining two dots but tries to prevent the others from making a square."
+    },
+    {
+      "headline":"Keep playing.",
+      "description":"For a while it is easy, but soon the number of dots is scarce, and it requires careful marking to prevent the squares from being formed."
+    },
+    {
+      "headline":"Change turns.",
+      "description":"Finally all the chances are gone and the next player completes a square. As a reward this player is given another chance, thus completing several, then joins two dots and the next player continues."
+    },
+    {
+      "headline":"Each player places his or her initial in the completed square, so that the score is easily counted.",
+      "description":"The player who has succeeded in making the most squares is the winner."
+    }
+  ],
+  "text":" Make a square or rectangle of dots, as shown in this image.  Provide the players with pencils. Each player makes a line joining two dots but tries to prevent the others from making a square. Keep playing. For a while it is easy, but soon the number of dots is scarce, and it requires careful marking to prevent the squares from being formed. Change turns. Finally all the chances are gone and the next player completes a square. As a reward this player is given another chance, thus completing several, then joins two dots and the next player continues. Each player places his or her initial in the completed square, so that the score is easily counted. The player who has succeeded in making the most squares is the winner.",
+  "sentences":[
+    " Make a square or rectangle of dots, as shown in this image.",
+    "Provide the players with pencils.",
+    "Each player makes a line joining two dots but tries to prevent the others from making a square.",
+    "Keep playing.",
+    "For a while it is easy, but soon the number of dots is scarce, and it requires careful marking to prevent the squares from being formed.",
+    "Change turns.",
+    "Finally all the chances are gone and the next player completes a square.",
+    "As a reward this player is given another chance, thus completing several, then joins two dots and the next player continues.",
+    "Each player places his or her initial in the completed square, so that the score is easily counted.",
+    "The player who has succeeded in making the most squares is the winner."
+  ],
+  "tyn_section":[
+    "Paper",
+    "Pencils"
+  ],
+  "tyn_model":[
+    "pencils"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  }
+}

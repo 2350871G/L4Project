@@ -1,0 +1,105 @@
+{
+  "title":"How to Remove Soot from a Painted Mantle",
+  "url":"https://www.wikihow.com/Remove-Soot-from-a-Painted-Mantle",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Cleaning"
+  ],
+  "steps":[
+    {
+      "headline":"Put on rubber gloves to protect the skin of your hands and eye protection like goggles.",
+      "description":""
+    },
+    {
+      "headline":"Mix together 1/4 cup of trisodium phosphate cleaner (TSP) with 2 gallons (7.5 liters) of warm water.",
+      "description":"TSP is a cleaning agent found in most hardware stores. It is a form of lye that is used to cut through grease and soot by causing them to become soapy in nature. TSP is often used to clean and remove grease and mildew from painted surfaces."
+    },
+    {
+      "headline":"Dip a stiff bristled scrub brush into the TSP solution.",
+      "description":""
+    },
+    {
+      "headline":"Apply the solution to the soot on the mantle and begin scrubbing in a circular motion.",
+      "description":""
+    },
+    {
+      "headline":"Use a smaller brush to get into any carvings on the mantel.",
+      "description":""
+    },
+    {
+      "headline":"Dip the brush frequently into the solution to continue cutting through the soot.",
+      "description":""
+    },
+    {
+      "headline":"Soak a clean sponge or cloth into clean water.",
+      "description":""
+    },
+    {
+      "headline":"Wipe and rinse the mantel well to remove both the last of the soot and the TSP mixture.",
+      "description":""
+    },
+    {
+      "headline":"Repeat scrubbing and rinsing as necessary until the soot is gone.",
+      "description":""
+    }
+  ],
+  "text":" Put on rubber gloves to protect the skin of your hands and eye protection like goggles.  Mix together 1/4 cup of trisodium phosphate cleaner (TSP) with 2 gallons (7.5 liters) of warm water. TSP is a cleaning agent found in most hardware stores. It is a form of lye that is used to cut through grease and soot by causing them to become soapy in nature. TSP is often used to clean and remove grease and mildew from painted surfaces. Dip a stiff bristled scrub brush into the TSP solution.  Apply the solution to the soot on the mantle and begin scrubbing in a circular motion.  Use a smaller brush to get into any carvings on the mantel.  Dip the brush frequently into the solution to continue cutting through the soot.  Soak a clean sponge or cloth into clean water.  Wipe and rinse the mantel well to remove both the last of the soot and the TSP mixture.  Repeat scrubbing and rinsing as necessary until the soot is gone. ",
+  "sentences":[
+    " Put on rubber gloves to protect the skin of your hands and eye protection like goggles.",
+    "Mix together 1/4 cup of trisodium phosphate cleaner (TSP) with 2 gallons (7.5 liters) of warm water.",
+    "TSP is a cleaning agent found in most hardware stores.",
+    "It is a form of lye that is used to cut through grease and soot by causing them to become soapy in nature.",
+    "TSP is often used to clean and remove grease and mildew from painted surfaces.",
+    "Dip a stiff bristled scrub brush into the TSP solution.",
+    "Apply the solution to the soot on the mantle and begin scrubbing in a circular motion.",
+    "Use a smaller brush to get into any carvings on the mantel.",
+    "Dip the brush frequently into the solution to continue cutting through the soot.",
+    "Soak a clean sponge or cloth into clean water.",
+    "Wipe and rinse the mantel well to remove both the last of the soot and the TSP mixture.",
+    "Repeat scrubbing and rinsing as necessary until the soot is gone."
+  ],
+  "tyn_section":[
+    "Rubber gloves",
+    "Eye protection",
+    "Large bucket",
+    "TSP or TSP alternative",
+    "Water",
+    "Stiff bristled scrub brush",
+    "Small scrub brush",
+    "Clean sponge or cloth"
+  ],
+  "tyn_model":[
+    "water",
+    "rubber gloves",
+    "trisodium phosphate cleaner",
+    "cleaning agent",
+    "tsp",
+    "scrub brush",
+    "tsp solution",
+    "brush",
+    "sponge",
+    "tsp mixture"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222,
+    "avg_pos":0.1
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3,
+    "f1":0.375
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.625,
+    "p":0.5,
+    "f1":0.5555555556
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.375,
+    "p":0.3,
+    "f1":0.3333333333
+  }
+}

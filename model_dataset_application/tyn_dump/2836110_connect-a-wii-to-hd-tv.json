@@ -1,0 +1,78 @@
+{
+  "title":"How to Connect a Wii to HD TV",
+  "url":"https://www.wikihow.com/Connect-a-Wii-to-HD-TV",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Wii"
+  ],
+  "methods":[
+    {
+      "name":"Composite to HDMI converter cable",
+      "steps":[
+        {
+          "headline":"Plug in your HDMI cord to the cable.",
+          "description":""
+        },
+        {
+          "headline":"Plug it into your TV's HDMI input.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Wii HDMI converter",
+      "steps":[
+        {
+          "headline":"Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+          "description":""
+        },
+        {
+          "headline":"Plug your HDMI cord (assuming you have one) into the converter and your TV.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Composite to HDMI converter cable Plug in your HDMI cord to the cable.  Plug it into your TV's HDMI input.  Wii HDMI converter Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.  Plug your HDMI cord (assuming you have one) into the converter and your TV. ",
+  "sentences":[
+    " Composite to HDMI converter cable Plug in your HDMI cord to the cable.",
+    "Plug it into your TV's HDMI input.",
+    "Wii HDMI converter Plug it into your wii's AV Composite Output instead of putting in the Composite cord that comes with the Wii.",
+    "Plug your HDMI cord (assuming you have one) into the converter and your TV."
+  ],
+  "tyn_section":[
+    "an HDMI cord",
+    "HDMI Wii Adapter",
+    "Composite to HDMI Converter Cable"
+  ],
+  "tyn_model":[
+    "hdmi cord",
+    "composite to hdmi converter",
+    "hdmi converter",
+    "tv"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.5,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.75,
+    "f1":0.7058823529
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.5,
+    "f1":0.5714285714
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "title":"How to Wire GFCI",
+  "url":"https://www.wikihow.com/Wire-GFCI",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical Wiring and Safety Switches"
+  ],
+  "methods":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"Turn off the power to the circuit you are working on from your main fuse or breaker box.",
+          "description":""
+        },
+        {
+          "headline":"Unscrew the cover plate of the electrical outlet box with a flat-head or Phillips screwdriver.",
+          "description":""
+        },
+        {
+          "headline":"Identify how many cables or wires you have in your electrical outlet box.",
+          "description":"You should have no more than 4 loose wires or 2 cables with a total of 6 wires between them, including grounding wires. Some receptacles are configured to be \"switched\" and there may be \"extra\" wires in the box for that function. If the receptacle is intended to be \"half-switched\", meaning one outlet is switched and the other is not, you cannot use an ordinary GFCI receptacle in that location. Contact a qualified electrician to complete the work if you have identified more than 4 loose wires (not counting grounding wires) or more than 2 cables, or for switched receptacles."
+        }
+      ]
+    },
+    {
+      "name":"Wiring Procedure for Wiring With Only 1 Cable (2 or 3 wires)",
+      "steps":[
+        {
+          "headline":"Identify the \"Line\" terminals on the GFCI by examining the markings.",
+          "description":"Do not use the \"Load\" terminals for this procedure. They should have come with a colored tape stuck across them as a reminder."
+        },
+        {
+          "headline":"Strip the wires with wire strippers, if necessary.",
+          "description":"Connect the white \"line\" wire to the silver (white) terminal and connect the black \"line\" wire to the brass \"hot\" terminal. Leave enough wire to allow the receptacle to be pulled at least 4 to 6 inches from the box."
+        },
+        {
+          "headline":"Attach any grounding wires (bare wire or green wire) to the green grounding screws.",
+          "description":"Needle-nose pliers may be needed to connect the wires\nMany electricians wrap the receptacle with a layer of insulating electrician's tape to protect the terminals from accidental contact with metal objects."
+        },
+        {
+          "headline":"Tuck the wires into the box, ensuring any bare grounding wires do not touch any other exposed terminals.",
+          "description":""
+        },
+        {
+          "headline":"Install the receptacle into the box and install the cover.",
+          "description":"{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1a\\/Ground-an-Outlet-Step-11.360p.gif\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1a\\/Ground-an-Outlet-Step-11.360p.gif\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.1333333333333,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Test the GFCI as instructed in the Testing section, below, and resolve any problems before proceeding to the next circuit.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Wiring Procedure for 2 Cables (4 to 6 wires)",
+      "steps":[
+        {
+          "headline":"One cable (or pair of wires) typically supplies power to the first outlet device and the other carries power to other devices further down the line.",
+          "description":"You will need to determine which is which. There are many ways to determine which cable is the \"supply\", using various test instruments (contact, non-contact, meters, etc). The following technique is for those who are unfamiliar with such things or who do not wish to touch the wiring while it is \"live\"."
+        },
+        {
+          "headline":"Detach 1 white \"neutral\" and 1 black \"hot\" wire from one of the two cables and put a wire cap on each of them.",
+          "description":"Ensure the wires come from the same cable or conduit."
+        },
+        {
+          "headline":"Reinstall the receptacle into the electrical box and restore power at the main fuse or breaker box.",
+          "description":""
+        },
+        {
+          "headline":"Plug in a night light or other device and press the \"Reset\" button (if necessary) to determine if power is flowing into the receptacle.",
+          "description":"If the power returns to the device, the capped lines are \"load\" lines, or lines that can be strung together to give GFCI protection to multiple outlets. If no power comes on in the receptacle, your capped wires are probably the \"line\" wires or your main power wires, assuming they are working properly. You may also want to test the capped wires to make sure the GFCI will have power before proceeding. You may do this with a separate tester or by repeating the previous testing steps with the cables swapped."
+        },
+        {
+          "headline":"Turn the power off at your main panel and take out the receptacle.",
+          "description":"Label your \"line\" and \"load\" wires."
+        },
+        {
+          "headline":"Attach your \"line\" white wire to the silver \"line\" terminal of the GFCI.",
+          "description":"Attach your \"line\" black wire to the brass \"hot\" terminal of the \"line\" section of the GFCI."
+        },
+        {
+          "headline":"Remove the yellow sticker (or other colored tape) that covers the \"load\" terminals on the receptacle.",
+          "description":"You will hook your remaining circuit wires to these terminals."
+        },
+        {
+          "headline":"Connect your \"load\" white wire to the silver \"load\" terminal and your \"load\" black wire to the \"hot\" brass \"load\" terminal.",
+          "description":""
+        },
+        {
+          "headline":"Attach your ground wires to the green grounding screw of the GFCI.",
+          "description":"Fold your wires into the box, making sure the grounding wires do not touch any exposed\"line\" or \"load\" terminals. Attach the cover plate. Many electricians wrap each receptacle with a layer of insulating electrician's tape before reinstalling them into a box, especially a metal box. This provides another layer of safety from accidental contact with live parts."
+        }
+      ]
+    },
+    {
+      "name":"Testing the GFCI",
+      "steps":[
+        {
+          "headline":"Turn on the power at the main panel and plug in a lamp or night light into the outlet and switch it on.",
+          "description":"Press \"Reset\" on the GFCI if necessary to make the light come on. If the device does not light up, you need to find out why before proceeding."
+        },
+        {
+          "headline":"Press the \"Test\" button on the GFCI to make the light turn off.",
+          "description":"The \"Reset\" button should also pop out. Press the \"Reset\" button to restore the power to the device. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4a\\/Reset_gfci.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4a\\/Reset_gfci.jpg\",\"smallWidth\":460,\"smallHeight\":318,\"bigWidth\":760,\"bigHeight\":525,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/2.5\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Test the light in the surrounding outlets if you have connected more outlets to the GFCI using the second (two cable) method.",
+          "description":"The same result should occur when the \"Test\" button is pressed on the GFCI. If not, you may have to move the GFCI receptacle or add another one to protect devices plugged into those receptacles. Be sure to mark the additional outlets to show they are \"GFCI Protected\", using stickers that come with the GFCI receptacle. If you intend to work on more than a few of these, you may want to obtain a handy \"outlet polarity and GFCI tester\" at the home improvement store. It plugs into the GFCI and has lights that confirm power is on, the proper wiring polarity and ground, and may be obtained with a GFCI test button to verify the GFCI mechanism operates in each downstream receptacle. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/84\\/Ground-an-Outlet-Step-2-Version-2.jpg\\/v4-460px-Ground-an-Outlet-Step-2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/84\\/Ground-an-Outlet-Step-2-Version-2.jpg\\/v4-760px-Ground-an-Outlet-Step-2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nNote that a GFCI tester plugged into a receptacle without a properly attached grounding wire will not trip the GFCI because the tester is designed to \"leak\" a test current to ground."
+        }
+      ]
+    },
+    {
+      "name":"Adding GFCI at Service Panel",
+      "steps":[
+        {
+          "headline":"Consider whether you need a GFCI circuit breaker.",
+          "description":"In some cases it may be best to have an electrician install a GFCI circuit breaker in the panel, rather than a GFCI receptacle. The GFCI breaker has a protected \"hot\" conductor, a separate neutral connection, as well as a test and reset button. It will protect all devices on that entire branch, if properly installed."
+        },
+        {
+          "headline":"Don't attempt this one as a DIY job if you don't have extensive electrical experience.",
+          "description":"It can be very dangerous to work on exposed circuit breakers, even if you believe the main breaker (or feed) has been disconnected."
+        },
+        {
+          "headline":"Some newer installations may require an AFCI breaker as well as GFCI protection for some circuit branches.",
+          "description":"Combination AFCI/GFCI breakers may be an elegant way to solve that  complicated problem."
+        }
+      ]
+    }
+  ],
+  "text":" Steps Turn off the power to the circuit you are working on from your main fuse or breaker box.  Unscrew the cover plate of the electrical outlet box with a flat-head or Phillips screwdriver.  Identify how many cables or wires you have in your electrical outlet box. You should have no more than 4 loose wires or 2 cables with a total of 6 wires between them, including grounding wires. Some receptacles are configured to be \"switched\" and there may be \"extra\" wires in the box for that function. If the receptacle is intended to be \"half-switched\", meaning one outlet is switched and the other is not, you cannot use an ordinary GFCI receptacle in that location. Contact a qualified electrician to complete the work if you have identified more than 4 loose wires (not counting grounding wires) or more than 2 cables, or for switched receptacles. Wiring Procedure for Wiring With Only 1 Cable (2 or 3 wires) Identify the \"Line\" terminals on the GFCI by examining the markings. Do not use the \"Load\" terminals for this procedure. They should have come with a colored tape stuck across them as a reminder. Strip the wires with wire strippers, if necessary. Connect the white \"line\" wire to the silver (white) terminal and connect the black \"line\" wire to the brass \"hot\" terminal. Leave enough wire to allow the receptacle to be pulled at least 4 to 6 inches from the box. Attach any grounding wires (bare wire or green wire) to the green grounding screws. Needle-nose pliers may be needed to connect the wires\nMany electricians wrap the receptacle with a layer of insulating electrician's tape to protect the terminals from accidental contact with metal objects. Tuck the wires into the box, ensuring any bare grounding wires do not touch any other exposed terminals.  Install the receptacle into the box and install the cover. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1a\\/Ground-an-Outlet-Step-11.360p.gif\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1a\\/Ground-an-Outlet-Step-11.360p.gif\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.1333333333333,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Test the GFCI as instructed in the Testing section, below, and resolve any problems before proceeding to the next circuit.  Wiring Procedure for 2 Cables (4 to 6 wires) One cable (or pair of wires) typically supplies power to the first outlet device and the other carries power to other devices further down the line. You will need to determine which is which. There are many ways to determine which cable is the \"supply\", using various test instruments (contact, non-contact, meters, etc). The following technique is for those who are unfamiliar with such things or who do not wish to touch the wiring while it is \"live\". Detach 1 white \"neutral\" and 1 black \"hot\" wire from one of the two cables and put a wire cap on each of them. Ensure the wires come from the same cable or conduit. Reinstall the receptacle into the electrical box and restore power at the main fuse or breaker box.  Plug in a night light or other device and press the \"Reset\" button (if necessary) to determine if power is flowing into the receptacle. If the power returns to the device, the capped lines are \"load\" lines, or lines that can be strung together to give GFCI protection to multiple outlets. If no power comes on in the receptacle, your capped wires are probably the \"line\" wires or your main power wires, assuming they are working properly. You may also want to test the capped wires to make sure the GFCI will have power before proceeding. You may do this with a separate tester or by repeating the previous testing steps with the cables swapped. Turn the power off at your main panel and take out the receptacle. Label your \"line\" and \"load\" wires. Attach your \"line\" white wire to the silver \"line\" terminal of the GFCI. Attach your \"line\" black wire to the brass \"hot\" terminal of the \"line\" section of the GFCI. Remove the yellow sticker (or other colored tape) that covers the \"load\" terminals on the receptacle. You will hook your remaining circuit wires to these terminals. Connect your \"load\" white wire to the silver \"load\" terminal and your \"load\" black wire to the \"hot\" brass \"load\" terminal.  Attach your ground wires to the green grounding screw of the GFCI. Fold your wires into the box, making sure the grounding wires do not touch any exposed\"line\" or \"load\" terminals. Attach the cover plate. Many electricians wrap each receptacle with a layer of insulating electrician's tape before reinstalling them into a box, especially a metal box. This provides another layer of safety from accidental contact with live parts. Testing the GFCI Turn on the power at the main panel and plug in a lamp or night light into the outlet and switch it on. Press \"Reset\" on the GFCI if necessary to make the light come on. If the device does not light up, you need to find out why before proceeding. Press the \"Test\" button on the GFCI to make the light turn off. The \"Reset\" button should also pop out. Press the \"Reset\" button to restore the power to the device. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4a\\/Reset_gfci.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4a\\/Reset_gfci.jpg\",\"smallWidth\":460,\"smallHeight\":318,\"bigWidth\":760,\"bigHeight\":525,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/2.5\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Test the light in the surrounding outlets if you have connected more outlets to the GFCI using the second (two cable) method. The same result should occur when the \"Test\" button is pressed on the GFCI. If not, you may have to move the GFCI receptacle or add another one to protect devices plugged into those receptacles. Be sure to mark the additional outlets to show they are \"GFCI Protected\", using stickers that come with the GFCI receptacle. If you intend to work on more than a few of these, you may want to obtain a handy \"outlet polarity and GFCI tester\" at the home improvement store. It plugs into the GFCI and has lights that confirm power is on, the proper wiring polarity and ground, and may be obtained with a GFCI test button to verify the GFCI mechanism operates in each downstream receptacle. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/84\\/Ground-an-Outlet-Step-2-Version-2.jpg\\/v4-460px-Ground-an-Outlet-Step-2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/84\\/Ground-an-Outlet-Step-2-Version-2.jpg\\/v4-760px-Ground-an-Outlet-Step-2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nNote that a GFCI tester plugged into a receptacle without a properly attached grounding wire will not trip the GFCI because the tester is designed to \"leak\" a test current to ground. Adding GFCI at Service Panel Consider whether you need a GFCI circuit breaker. In some cases it may be best to have an electrician install a GFCI circuit breaker in the panel, rather than a GFCI receptacle. The GFCI breaker has a protected \"hot\" conductor, a separate neutral connection, as well as a test and reset button. It will protect all devices on that entire branch, if properly installed. Don't attempt this one as a DIY job if you don't have extensive electrical experience. It can be very dangerous to work on exposed circuit breakers, even if you believe the main breaker (or feed) has been disconnected. Some newer installations may require an AFCI breaker as well as GFCI protection for some circuit branches. Combination AFCI/GFCI breakers may be an elegant way to solve that  complicated problem.",
+  "sentences":[
+    " Steps Turn off the power to the circuit you are working on from your main fuse or breaker box.",
+    "Unscrew the cover plate of the electrical outlet box with a flat-head or Phillips screwdriver.",
+    "Identify how many cables or wires you have in your electrical outlet box.",
+    "You should have no more than 4 loose wires or 2 cables with a total of 6 wires between them, including grounding wires.",
+    "Some receptacles are configured to be \"switched\" and there may be \"extra\" wires in the box for that function.",
+    "If the receptacle is intended to be \"half-switched\", meaning one outlet is switched and the other is not, you cannot use an ordinary GFCI receptacle in that location.",
+    "Contact a qualified electrician to complete the work if you have identified more than 4 loose wires (not counting grounding wires) or more than 2 cables, or for switched receptacles.",
+    "Wiring Procedure for Wiring With Only 1 Cable (2 or 3 wires) Identify the \"Line\" terminals on the GFCI by examining the markings.",
+    "Do not use the \"Load\" terminals for this procedure.",
+    "They should have come with a colored tape stuck across them as a reminder.",
+    "Strip the wires with wire strippers, if necessary.",
+    "Connect the white \"line\" wire to the silver (white) terminal and connect the black \"line\" wire to the brass \"hot\" terminal.",
+    "Leave enough wire to allow the receptacle to be pulled at least 4 to 6 inches from the box.",
+    "Attach any grounding wires (bare wire or green wire) to the green grounding screws.",
+    "Needle-nose pliers may be needed to connect the wires\nMany electricians wrap the receptacle with a layer of insulating electrician's tape to protect the terminals from accidental contact with metal objects.",
+    "Tuck the wires into the box, ensuring any bare grounding wires do not touch any other exposed terminals.",
+    "Install the receptacle into the box and install the cover.",
+    "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1a\\/Ground-an-Outlet-Step-11.360p.gif\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1a\\/Ground-an-Outlet-Step-11.360p.gif\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.1333333333333,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Test the GFCI as instructed in the Testing section, below, and resolve any problems before proceeding to the next circuit.",
+    "Wiring Procedure for 2 Cables (4 to 6 wires) One cable (or pair of wires) typically supplies power to the first outlet device and the other carries power to other devices further down the line.",
+    "You will need to determine which is which.",
+    "There are many ways to determine which cable is the \"supply\", using various test instruments (contact, non-contact, meters, etc).",
+    "The following technique is for those who are unfamiliar with such things or who do not wish to touch the wiring while it is \"live\".",
+    "Detach 1 white \"neutral\" and 1 black \"hot\" wire from one of the two cables and put a wire cap on each of them.",
+    "Ensure the wires come from the same cable or conduit.",
+    "Reinstall the receptacle into the electrical box and restore power at the main fuse or breaker box.",
+    "Plug in a night light or other device and press the \"Reset\" button (if necessary) to determine if power is flowing into the receptacle.",
+    "If the power returns to the device, the capped lines are \"load\" lines, or lines that can be strung together to give GFCI protection to multiple outlets.",
+    "If no power comes on in the receptacle, your capped wires are probably the \"line\" wires or your main power wires, assuming they are working properly.",
+    "You may also want to test the capped wires to make sure the GFCI will have power before proceeding.",
+    "You may do this with a separate tester or by repeating the previous testing steps with the cables swapped.",
+    "Turn the power off at your main panel and take out the receptacle.",
+    "Label your \"line\" and \"load\" wires.",
+    "Attach your \"line\" white wire to the silver \"line\" terminal of the GFCI.",
+    "Attach your \"line\" black wire to the brass \"hot\" terminal of the \"line\" section of the GFCI.",
+    "Remove the yellow sticker (or other colored tape) that covers the \"load\" terminals on the receptacle.",
+    "You will hook your remaining circuit wires to these terminals.",
+    "Connect your \"load\" white wire to the silver \"load\" terminal and your \"load\" black wire to the \"hot\" brass \"load\" terminal.",
+    "Attach your ground wires to the green grounding screw of the GFCI.",
+    "Fold your wires into the box, making sure the grounding wires do not touch any exposed\"line\" or \"load\" terminals.",
+    "Attach the cover plate.",
+    "Many electricians wrap each receptacle with a layer of insulating electrician's tape before reinstalling them into a box, especially a metal box.",
+    "This provides another layer of safety from accidental contact with live parts.",
+    "Testing the GFCI Turn on the power at the main panel and plug in a lamp or night light into the outlet and switch it on.",
+    "Press \"Reset\" on the GFCI if necessary to make the light come on.",
+    "If the device does not light up, you need to find out why before proceeding.",
+    "Press the \"Test\" button on the GFCI to make the light turn off.",
+    "The \"Reset\" button should also pop out.",
+    "Press the \"Reset\" button to restore the power to the device.",
+    "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4a\\/Reset_gfci.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4a\\/Reset_gfci.jpg\",\"smallWidth\":460,\"smallHeight\":318,\"bigWidth\":760,\"bigHeight\":525,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/2.5\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Test the light in the surrounding outlets if you have connected more outlets to the GFCI using the second (two cable) method.",
+    "The same result should occur when the \"Test\" button is pressed on the GFCI.",
+    "If not, you may have to move the GFCI receptacle or add another one to protect devices plugged into those receptacles.",
+    "Be sure to mark the additional outlets to show they are \"GFCI Protected\", using stickers that come with the GFCI receptacle.",
+    "If you intend to work on more than a few of these, you may want to obtain a handy \"outlet polarity and GFCI tester\" at the home improvement store.",
+    "It plugs into the GFCI and has lights that confirm power is on, the proper wiring polarity and ground, and may be obtained with a GFCI test button to verify the GFCI mechanism operates in each downstream receptacle.",
+    "{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/84\\/Ground-an-Outlet-Step-2-Version-2.jpg\\/v4-460px-Ground-an-Outlet-Step-2-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/84\\/Ground-an-Outlet-Step-2-Version-2.jpg\\/v4-760px-Ground-an-Outlet-Step-2-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nNote that a GFCI tester plugged into a receptacle without a properly attached grounding wire will not trip the GFCI because the tester is designed to \"leak\" a test current to ground.",
+    "Adding GFCI at Service Panel Consider whether you need a GFCI circuit breaker.",
+    "In some cases it may be best to have an electrician install a GFCI circuit breaker in the panel, rather than a GFCI receptacle.",
+    "The GFCI breaker has a protected \"hot\" conductor, a separate neutral connection, as well as a test and reset button.",
+    "It will protect all devices on that entire branch, if properly installed.",
+    "Don't attempt this one as a DIY job if you don't have extensive electrical experience.",
+    "It can be very dangerous to work on exposed circuit breakers, even if you believe the main breaker (or feed) has been disconnected.",
+    "Some newer installations may require an AFCI breaker as well as GFCI protection for some circuit branches.",
+    "Combination AFCI/GFCI breakers may be an elegant way to solve that  complicated problem."
+  ],
+  "tyn_section":[
+    "Phillips and flat-head screwdrivers",
+    "Wire strippers",
+    "Needle-nose pliers",
+    "Wire connectors (also known as caps)",
+    "GFCI"
+  ],
+  "tyn_model":[
+    "electrical outlet box",
+    "electrician",
+    "insulating electrician's tape",
+    "outlets",
+    "circuit breaker",
+    "flat-head or phillips screwdriver",
+    "wire strippers",
+    "needle-nose pliers",
+    "cable",
+    "wire cap",
+    "electrical box",
+    "receptacle",
+    "circuit wires",
+    "lamp",
+    "home improvement store",
+    "gfci tester",
+    "tester",
+    "gfci breaker",
+    "electrical experience",
+    "circuit breakers",
+    "breakers"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.0952380952,
+    "f1":0.1538461538,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.1904761905,
+    "f1":0.2891566265
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8,
+    "p":0.2857142857,
+    "f1":0.4210526316
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.0952380952,
+    "f1":0.1538461538
+  }
+}

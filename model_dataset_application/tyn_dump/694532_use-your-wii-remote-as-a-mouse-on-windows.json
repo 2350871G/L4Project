@@ -1,0 +1,128 @@
+{
+  "title":"How to Use Your Wii Remote As a Mouse on Windows",
+  "url":"https://www.wikihow.com/Use-Your-Wii-Remote-As-a-Mouse-on-Windows",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Wii"
+  ],
+  "steps":[
+    {
+      "headline":"Set up bluetooth on your computer, if it doesn't already have it built in.",
+      "description":"You can do this by purchasing a bluetooth adapter."
+    },
+    {
+      "headline":"Download BlueSoleil at http://www.bluesoleil.com/download/ and GlovePie at carl.kenner.googlepages.com/glovepie_download.",
+      "description":""
+    },
+    {
+      "headline":"Install BlueSoleil when it\u2019s downloaded.",
+      "description":""
+    },
+    {
+      "headline":"Open BlueSoleil by going to \u201cBluetooth Places\u201d.",
+      "description":""
+    },
+    {
+      "headline":"Search for bluetooth devices by using \u201cSearch Devices\u201d.",
+      "description":""
+    },
+    {
+      "headline":"Connect by using discovery mode on your Wii Remote.",
+      "description":"Press 1 and 2 simultaneously. This will allow BlueSoleil to find your Wii Remote. If done correctly, Nintendo RVL-CNT-01 should appear in  Bluetooth Places. Right click it and \u201cconnect\u201d."
+    },
+    {
+      "headline":"Open GlovePie.",
+      "description":""
+    },
+    {
+      "headline":"Load the Wii Mouse IR script by going to file, open \u201cGlovePIE029\\WiimoteScripts\\WiiMouse IR.PIE\u201d",
+      "description":""
+    },
+    {
+      "headline":"Run the script WiiMouse IR.",
+      "description":""
+    },
+    {
+      "headline":"Turn on the Wii.",
+      "description":"Use the power button on your Wii, not your Wii Remote. If you use it from your Wii Remote, it will connect itself to the Wii instead of your computer."
+    },
+    {
+      "headline":"Aim the Wii Remote at the sensor bar to make your mouse pointer move on your computer.",
+      "description":""
+    },
+    {
+      "headline":"Alternatively, use the wireless sensor bar, or any source that provides two points of infrared light, such as two small candles.",
+      "description":""
+    }
+  ],
+  "text":" Set up bluetooth on your computer, if it doesn't already have it built in. You can do this by purchasing a bluetooth adapter. Download BlueSoleil at http://www.bluesoleil.com/download/ and GlovePie at carl.kenner.googlepages.com/glovepie_download.  Install BlueSoleil when it\u2019s downloaded.  Open BlueSoleil by going to \u201cBluetooth Places\u201d.  Search for bluetooth devices by using \u201cSearch Devices\u201d.  Connect by using discovery mode on your Wii Remote. Press 1 and 2 simultaneously. This will allow BlueSoleil to find your Wii Remote. If done correctly, Nintendo RVL-CNT-01 should appear in  Bluetooth Places. Right click it and \u201cconnect\u201d. Open GlovePie.  Load the Wii Mouse IR script by going to file, open \u201cGlovePIE029\\WiimoteScripts\\WiiMouse IR.PIE\u201d  Run the script WiiMouse IR.  Turn on the Wii. Use the power button on your Wii, not your Wii Remote. If you use it from your Wii Remote, it will connect itself to the Wii instead of your computer. Aim the Wii Remote at the sensor bar to make your mouse pointer move on your computer.  Alternatively, use the wireless sensor bar, or any source that provides two points of infrared light, such as two small candles. ",
+  "sentences":[
+    " Set up bluetooth on your computer, if it doesn't already have it built in.",
+    "You can do this by purchasing a bluetooth adapter.",
+    "Download BlueSoleil at http://www.bluesoleil.com/download/ and GlovePie at carl.kenner.googlepages.com/glovepie_download.",
+    "Install BlueSoleil when it\u2019s downloaded.",
+    "Open BlueSoleil by going to \u201cBluetooth Places\u201d.",
+    "Search for bluetooth devices by using \u201cSearch Devices\u201d.",
+    "Connect by using discovery mode on your Wii Remote.",
+    "Press 1 and 2 simultaneously.",
+    "This will allow BlueSoleil to find your Wii Remote.",
+    "If done correctly, Nintendo RVL-CNT-01 should appear in  Bluetooth Places.",
+    "Right click it and \u201cconnect\u201d.",
+    "Open GlovePie.",
+    "Load the Wii Mouse IR script by going to file, open \u201cGlovePIE029\\WiimoteScripts\\WiiMouse IR.PIE\u201d  Run the script WiiMouse IR.",
+    "Turn on the Wii.",
+    "Use the power button on your Wii, not your Wii Remote.",
+    "If you use it from your Wii Remote, it will connect itself to the Wii instead of your computer.",
+    "Aim the Wii Remote at the sensor bar to make your mouse pointer move on your computer.",
+    "Alternatively, use the wireless sensor bar, or any source that provides two points of infrared light, such as two small candles."
+  ],
+  "tyn_section":[
+    "Hardware:",
+    "Wiimote Remote",
+    "Wii Sensor Bar/Nyko Wireless Sensor Bar",
+    "Bluetooth Dongle",
+    "Computer",
+    "Wii (superfluous if don't use the Sensor Bar)",
+    "Software:",
+    "Windows",
+    "BlueSoliel Bluetooth stack",
+    "GlovePIE by Carl Kenner"
+  ],
+  "tyn_model":[
+    "wii remote",
+    "bluesoleil",
+    "\u201d.",
+    "bluetooth adapter",
+    "\u201cbluetooth",
+    "\u201csearch",
+    "\u201cconnect",
+    "glovepie",
+    "wii mouse",
+    "\u201cglovepie029\\wiimotescripts\\wiimouse",
+    "\u201d  "
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.1818181818,
+    "f1":0.1904761905
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

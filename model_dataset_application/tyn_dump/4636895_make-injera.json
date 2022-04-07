@@ -1,0 +1,109 @@
+{
+  "title":"How to Make Injera",
+  "url":"https://www.wikihow.com/Make-Injera",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "World Cuisines",
+    "African Cuisine"
+  ],
+  "steps":[
+    {
+      "headline":"Sift the teff flour into a mixing bowl.",
+      "description":"Add the warm water and salt. Mix to combine."
+    },
+    {
+      "headline":"If using a fermentation starter, add this now.",
+      "description":"Mix."
+    },
+    {
+      "headline":"Put the batter aside for 12 hours in a warm spot.",
+      "description":"Cover the bowl with a clean tea towel."
+    },
+    {
+      "headline":"Prepare the frying pan.",
+      "description":"Heat a pan until hot. Add just enough oil to coat the pan with, not too much. Tilt the pan to help the oil run from side to side and cover the whole pan base."
+    },
+    {
+      "headline":"Ladle the batter into the pan.",
+      "description":"Do this in a spiral motion, starting in the center, then working the spiral outward to fill the whole frying pan. Work on adding about as much batter as for a crepe, maybe a smidgen more."
+    },
+    {
+      "headline":"Cook.",
+      "description":"When you see holes appearing on top of the injera, it's ready to be removed. It will also lift away from the edges of the plan and appear golden brown."
+    },
+    {
+      "headline":"Repeat for the remaining batter until you have made several injera.",
+      "description":""
+    },
+    {
+      "headline":"Serve warm.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Sift the teff flour into a mixing bowl. Add the warm water and salt. Mix to combine. If using a fermentation starter, add this now. Mix. Put the batter aside for 12 hours in a warm spot. Cover the bowl with a clean tea towel. Prepare the frying pan. Heat a pan until hot. Add just enough oil to coat the pan with, not too much. Tilt the pan to help the oil run from side to side and cover the whole pan base. Ladle the batter into the pan. Do this in a spiral motion, starting in the center, then working the spiral outward to fill the whole frying pan. Work on adding about as much batter as for a crepe, maybe a smidgen more. Cook. When you see holes appearing on top of the injera, it's ready to be removed. It will also lift away from the edges of the plan and appear golden brown. Repeat for the remaining batter until you have made several injera.  Serve warm.  Finished. ",
+  "sentences":[
+    " Sift the teff flour into a mixing bowl.",
+    "Add the warm water and salt.",
+    "Mix to combine.",
+    "If using a fermentation starter, add this now.",
+    "Mix.",
+    "Put the batter aside for 12 hours in a warm spot.",
+    "Cover the bowl with a clean tea towel.",
+    "Prepare the frying pan.",
+    "Heat a pan until hot.",
+    "Add just enough oil to coat the pan with, not too much.",
+    "Tilt the pan to help the oil run from side to side and cover the whole pan base.",
+    "Ladle the batter into the pan.",
+    "Do this in a spiral motion, starting in the center, then working the spiral outward to fill the whole frying pan.",
+    "Work on adding about as much batter as for a crepe, maybe a smidgen more.",
+    "Cook.",
+    "When you see holes appearing on top of the injera, it's ready to be removed.",
+    "It will also lift away from the edges of the plan and appear golden brown.",
+    "Repeat for the remaining batter until you have made several injera.",
+    "Serve warm.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Mixing bowl",
+    "Wooden spoon",
+    "Tea towel or other cover for bowl",
+    "Heavy based frying pan or skillet",
+    "Wooden spatula to lift injera off the pan",
+    "Plate for stacking injera, or separate serving plates"
+  ],
+  "tyn_model":[
+    "frying pan",
+    "oil",
+    "teff flour",
+    "mixing bowl",
+    "salt",
+    "fermentation starter",
+    "tea towel"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.1428571429,
+    "f1":0.1538461538,
+    "avg_pos":0.4285714286
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.1428571429,
+    "f1":0.1538461538
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2857142857,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.1428571429,
+    "f1":0.1538461538
+  }
+}

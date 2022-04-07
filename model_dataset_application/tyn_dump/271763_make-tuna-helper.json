@@ -1,0 +1,121 @@
+{
+  "title":"How to Make Tuna Helper",
+  "url":"https://www.wikihow.com/Make-Tuna-Helper",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fish and Seafood",
+    "Tuna"
+  ],
+  "methods":[
+    {
+      "name":"On the Stove",
+      "steps":[
+        {
+          "headline":"Put the heat on medium to high heat.",
+          "description":"Put the butter in the saucepan for it to melt."
+        },
+        {
+          "headline":"Pour the pasta noodles and seasoning package into the pan.",
+          "description":""
+        },
+        {
+          "headline":"Pour, at a slow rate, the milk and water into the pan.",
+          "description":"This is to avoid any splashing. Gently sprinkle and put the tuna into the pan."
+        },
+        {
+          "headline":"Mix and stir the ingredients together.",
+          "description":"Let the tuna helper come to a boil."
+        },
+        {
+          "headline":"Lower the heat to \"low\" and cover the pan for 13 to 15 minutes.",
+          "description":"Stir on occasion."
+        },
+        {
+          "headline":"Turn off the heat and let the tuna helper cool down.",
+          "description":"As it cools down, the sauce will thicken."
+        },
+        {
+          "headline":"Serve in bowls with spoons.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"In the Oven",
+      "steps":[
+        {
+          "headline":"Preheat oven to 425 \u00b0F (218 \u00b0C).",
+          "description":""
+        },
+        {
+          "headline":"Mix all ingredients in an ungreased 2-quart casserole.",
+          "description":""
+        },
+        {
+          "headline":"Bake 35 minutes or until pasta is tender.",
+          "description":"Gently uncover and stir to thicken sauce."
+        }
+      ]
+    }
+  ],
+  "text":" On the Stove Put the heat on medium to high heat. Put the butter in the saucepan for it to melt. Pour the pasta noodles and seasoning package into the pan.  Pour, at a slow rate, the milk and water into the pan. This is to avoid any splashing. Gently sprinkle and put the tuna into the pan. Mix and stir the ingredients together. Let the tuna helper come to a boil. Lower the heat to \"low\" and cover the pan for 13 to 15 minutes. Stir on occasion. Turn off the heat and let the tuna helper cool down. As it cools down, the sauce will thicken. Serve in bowls with spoons.  In the Oven Preheat oven to 425 \u00b0F (218 \u00b0C).  Mix all ingredients in an ungreased 2-quart casserole.  Bake 35 minutes or until pasta is tender. Gently uncover and stir to thicken sauce.",
+  "sentences":[
+    " On the Stove Put the heat on medium to high heat.",
+    "Put the butter in the saucepan for it to melt.",
+    "Pour the pasta noodles and seasoning package into the pan.",
+    "Pour, at a slow rate, the milk and water into the pan.",
+    "This is to avoid any splashing.",
+    "Gently sprinkle and put the tuna into the pan.",
+    "Mix and stir the ingredients together.",
+    "Let the tuna helper come to a boil.",
+    "Lower the heat to \"low\" and cover the pan for 13 to 15 minutes.",
+    "Stir on occasion.",
+    "Turn off the heat and let the tuna helper cool down.",
+    "As it cools down, the sauce will thicken.",
+    "Serve in bowls with spoons.",
+    "In the Oven Preheat oven to 425 \u00b0F (218 \u00b0C).",
+    "Mix all ingredients in an ungreased 2-quart casserole.",
+    "Bake 35 minutes or until pasta is tender.",
+    "Gently uncover and stir to thicken sauce."
+  ],
+  "tyn_section":[
+    "Saucepan or pot",
+    "Wooden spoon",
+    "2-quart Casserole",
+    "Spoon to stir"
+  ],
+  "tyn_model":[
+    "tuna helper",
+    "oven",
+    "butter",
+    "saucepan",
+    "pasta noodles",
+    "milk",
+    "water",
+    "tuna",
+    "spoons",
+    "2-quart casserole"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "title":"How to Make an Apple and Banana Milkshake",
+  "url":"https://www.wikihow.com/Make-an-Apple-and-Banana-Milkshake",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Smoothies Shakes and Milk",
+    "Fruit Based Shakes"
+  ],
+  "methods":[
+    {
+      "name":"Making an Apple and Banana Milkshake",
+      "steps":[
+        {
+          "headline":"Get an apple.",
+          "description":"Peel, chop, and core the apple."
+        },
+        {
+          "headline":"Get a banana.",
+          "description":"Peel and chop the banana."
+        },
+        {
+          "headline":"Get a blender.",
+          "description":"Put the apples and bananas into the blender but don't start the blender yet."
+        },
+        {
+          "headline":"Pour in 1/3 of a milk in the blender.",
+          "description":"Don't start it just yet."
+        },
+        {
+          "headline":"Add up to 2 teaspoons of sugar.",
+          "description":"Put these into the blender and start the blender."
+        },
+        {
+          "headline":"Set the blender to whip.",
+          "description":"Blend for 1 minute."
+        },
+        {
+          "headline":"Crush the ice for a minute in the blender.",
+          "description":""
+        },
+        {
+          "headline":"Divide the milkshake in two.",
+          "description":"Pour into glasses. Serve and enjoy."
+        }
+      ]
+    },
+    {
+      "name":"Making an Apple, Banana and Dates Milkshake",
+      "steps":[
+        {
+          "headline":"Peel the apple and banana.",
+          "description":"Chop both into small pieces."
+        },
+        {
+          "headline":"Chop the almonds and dates into small pieces.",
+          "description":""
+        },
+        {
+          "headline":"Add the chopped ingredients to a blender or food processor.",
+          "description":"Blend them together for one minute to create a smooth paste."
+        },
+        {
+          "headline":"Pour the milk in with the puree.",
+          "description":"Blend or puree for another minute."
+        },
+        {
+          "headline":"Taste.",
+          "description":"Add sweetener if needed/preferred."
+        },
+        {
+          "headline":"Pour into two glasses.",
+          "description":"Serve immediately."
+        }
+      ]
+    }
+  ],
+  "text":" Making an Apple and Banana Milkshake Get an apple. Peel, chop, and core the apple. Get a banana. Peel and chop the banana. Get a blender. Put the apples and bananas into the blender but don't start the blender yet. Pour in 1/3 of a milk in the blender. Don't start it just yet. Add up to 2 teaspoons of sugar. Put these into the blender and start the blender. Set the blender to whip. Blend for 1 minute. Crush the ice for a minute in the blender.  Divide the milkshake in two. Pour into glasses. Serve and enjoy. Making an Apple, Banana and Dates Milkshake Peel the apple and banana. Chop both into small pieces. Chop the almonds and dates into small pieces.  Add the chopped ingredients to a blender or food processor. Blend them together for one minute to create a smooth paste. Pour the milk in with the puree. Blend or puree for another minute. Taste. Add sweetener if needed/preferred. Pour into two glasses. Serve immediately.",
+  "sentences":[
+    " Making an Apple and Banana Milkshake Get an apple.",
+    "Peel, chop, and core the apple.",
+    "Get a banana.",
+    "Peel and chop the banana.",
+    "Get a blender.",
+    "Put the apples and bananas into the blender but don't start the blender yet.",
+    "Pour in 1/3 of a milk in the blender.",
+    "Don't start it just yet.",
+    "Add up to 2 teaspoons of sugar.",
+    "Put these into the blender and start the blender.",
+    "Set the blender to whip.",
+    "Blend for 1 minute.",
+    "Crush the ice for a minute in the blender.",
+    "Divide the milkshake in two.",
+    "Pour into glasses.",
+    "Serve and enjoy.",
+    "Making an Apple, Banana and Dates Milkshake Peel the apple and banana.",
+    "Chop both into small pieces.",
+    "Chop the almonds and dates into small pieces.",
+    "Add the chopped ingredients to a blender or food processor.",
+    "Blend them together for one minute to create a smooth paste.",
+    "Pour the milk in with the puree.",
+    "Blend or puree for another minute.",
+    "Taste.",
+    "Add sweetener if needed/preferred.",
+    "Pour into two glasses.",
+    "Serve immediately."
+  ],
+  "tyn_section":[
+    "Blender or food processor",
+    "Cutting board and knife",
+    "2 glasses"
+  ],
+  "tyn_model":[
+    "blender",
+    "banana",
+    "milk",
+    "apples",
+    "bananas",
+    "sugar",
+    "ice",
+    "apple",
+    "almonds",
+    "dates",
+    "food processor",
+    "puree",
+    "sweetener"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.0769230769,
+    "f1":0.125
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.0769230769,
+    "f1":0.125
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

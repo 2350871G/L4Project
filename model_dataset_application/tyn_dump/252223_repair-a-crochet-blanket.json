@@ -1,0 +1,114 @@
+{
+  "title":"How to Repair a Crochet Blanket",
+  "url":"https://www.wikihow.com/Repair-a-Crochet-Blanket",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Needlework",
+    "Knitting and Crochet",
+    "Crochet",
+    "Crochet Blankets and Afghans"
+  ],
+  "methods":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"Learn to crochet, if you do not already know how.",
+          "description":""
+        },
+        {
+          "headline":"Obtain matching yarn.",
+          "description":"It will need to match in both color and weight."
+        },
+        {
+          "headline":"Obtain a crochet hook in a suitable size for your yarn.",
+          "description":""
+        },
+        {
+          "headline":"Determine how your crocheted blanket unraveled.",
+          "description":"Was it along a single crocheted seam? Torn in the middle? Unravels are easier to fix than tears!"
+        }
+      ]
+    },
+    {
+      "name":"Fixing Unravels",
+      "steps":[
+        {
+          "headline":"Pull the original yarn, if it is still attached, until you have a loose loop and then re-crochet the unraveled section, taking care to secure the end of the yarn when finished.",
+          "description":""
+        },
+        {
+          "headline":"If you are unable to find an \"end loop\" or if your unraveled yarn is missing, tie on your replacement yarn in an inconspicuous spot and re-crochet the missing area.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Fixing Tears",
+      "steps":[
+        {
+          "headline":"Apply FrayCheck (or similar) fabric glue to the raw edges of the tear to prevent further raveling.",
+          "description":""
+        },
+        {
+          "headline":"Sew the torn edges together using matching yarn, carefully crisscrossing the area.",
+          "description":""
+        },
+        {
+          "headline":"Sew well into the surrounding area to ensure that your \"patch\" will not rip further with use.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Steps Learn to crochet, if you do not already know how.  Obtain matching yarn. It will need to match in both color and weight. Obtain a crochet hook in a suitable size for your yarn.  Determine how your crocheted blanket unraveled. Was it along a single crocheted seam? Torn in the middle? Unravels are easier to fix than tears! Fixing Unravels Pull the original yarn, if it is still attached, until you have a loose loop and then re-crochet the unraveled section, taking care to secure the end of the yarn when finished.  If you are unable to find an \"end loop\" or if your unraveled yarn is missing, tie on your replacement yarn in an inconspicuous spot and re-crochet the missing area.  Fixing Tears Apply FrayCheck (or similar) fabric glue to the raw edges of the tear to prevent further raveling.  Sew the torn edges together using matching yarn, carefully crisscrossing the area.  Sew well into the surrounding area to ensure that your \"patch\" will not rip further with use. ",
+  "sentences":[
+    " Steps Learn to crochet, if you do not already know how.",
+    "Obtain matching yarn.",
+    "It will need to match in both color and weight.",
+    "Obtain a crochet hook in a suitable size for your yarn.",
+    "Determine how your crocheted blanket unraveled.",
+    "Was it along a single crocheted seam?",
+    "Torn in the middle?",
+    "Unravels are easier to fix than tears!",
+    "Fixing Unravels Pull the original yarn, if it is still attached, until you have a loose loop and then re-crochet the unraveled section, taking care to secure the end of the yarn when finished.",
+    "If you are unable to find an \"end loop\" or if your unraveled yarn is missing, tie on your replacement yarn in an inconspicuous spot and re-crochet the missing area.",
+    "Fixing Tears Apply FrayCheck (or similar) fabric glue to the raw edges of the tear to prevent further raveling.",
+    "Sew the torn edges together using matching yarn, carefully crisscrossing the area.",
+    "Sew well into the surrounding area to ensure that your \"patch\" will not rip further with use."
+  ],
+  "tyn_section":[
+    "Matching yarn",
+    "Appropriate size crochet hook",
+    "Large eyed needle for sewing or yarn needle",
+    "Fray Check fabric stabilizer (fabric glue)"
+  ],
+  "tyn_model":[
+    "yarn",
+    "crochet hook",
+    "fraycheck (",
+    "fabric glue"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

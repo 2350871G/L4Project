@@ -1,0 +1,126 @@
+{
+  "title":"How to Make Reversible Curtains",
+  "url":"https://www.wikihow.com/Make-Reversible-Curtains",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Doors and Windows",
+    "Window Treatments",
+    "Curtains"
+  ],
+  "steps":[
+    {
+      "headline":"Understand approximate measurements.",
+      "description":"Gathered curtains are usually 1.5 to 2.0 times wider than a window."
+    },
+    {
+      "headline":"Measure for your desired length and width.",
+      "description":"Add the width of the curtain rod to the length of the fabric. Add an additional 1/4 inch for movement of the rod within the rod pocket. If you would like a ruffle, above the rod, add an extra inch to the length of the fabric."
+    },
+    {
+      "headline":"Gather your fabric and sewing supplies.",
+      "description":""
+    },
+    {
+      "headline":"Cut four identical pieces of fabric, allowing a half-inch seam allowance on all sides.",
+      "description":"Cut two pieces in each color."
+    },
+    {
+      "headline":"With right sides together, stitch two pieces of fabric together.",
+      "description":"Stitch one panel with two different colors. Stitch the side seams and top of the curtain, leaving a half-inch seam allowance. Leave the remaining side as the lower opening."
+    },
+    {
+      "headline":"Turn the fabric right side out and iron it flat.",
+      "description":""
+    },
+    {
+      "headline":"Tuck in a half-inch of fabric at the lower opening and stitch it together by hand.",
+      "description":""
+    },
+    {
+      "headline":"Create the top ruffle.",
+      "description":"Stitch horizontally and one inch below the top of the curtain."
+    },
+    {
+      "headline":"Stitch again, below the previous stitching, accommodating for the width of the curtain rod.",
+      "description":""
+    },
+    {
+      "headline":"Using a seam ripper, open \"just\" the rod pocket at the side seams.",
+      "description":""
+    },
+    {
+      "headline":"Slide the rods into the pockets and hang your curtains.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Understand approximate measurements. Gathered curtains are usually 1.5 to 2.0 times wider than a window. Measure for your desired length and width. Add the width of the curtain rod to the length of the fabric. Add an additional 1/4 inch for movement of the rod within the rod pocket. If you would like a ruffle, above the rod, add an extra inch to the length of the fabric. Gather your fabric and sewing supplies.  Cut four identical pieces of fabric, allowing a half-inch seam allowance on all sides. Cut two pieces in each color. With right sides together, stitch two pieces of fabric together. Stitch one panel with two different colors. Stitch the side seams and top of the curtain, leaving a half-inch seam allowance. Leave the remaining side as the lower opening. Turn the fabric right side out and iron it flat.  Tuck in a half-inch of fabric at the lower opening and stitch it together by hand.  Create the top ruffle. Stitch horizontally and one inch below the top of the curtain. Stitch again, below the previous stitching, accommodating for the width of the curtain rod.  Using a seam ripper, open \"just\" the rod pocket at the side seams.  Slide the rods into the pockets and hang your curtains.  Finished. ",
+  "sentences":[
+    " Understand approximate measurements.",
+    "Gathered curtains are usually 1.5 to 2.0 times wider than a window.",
+    "Measure for your desired length and width.",
+    "Add the width of the curtain rod to the length of the fabric.",
+    "Add an additional 1/4 inch for movement of the rod within the rod pocket.",
+    "If you would like a ruffle, above the rod, add an extra inch to the length of the fabric.",
+    "Gather your fabric and sewing supplies.",
+    "Cut four identical pieces of fabric, allowing a half-inch seam allowance on all sides.",
+    "Cut two pieces in each color.",
+    "With right sides together, stitch two pieces of fabric together.",
+    "Stitch one panel with two different colors.",
+    "Stitch the side seams and top of the curtain, leaving a half-inch seam allowance.",
+    "Leave the remaining side as the lower opening.",
+    "Turn the fabric right side out and iron it flat.",
+    "Tuck in a half-inch of fabric at the lower opening and stitch it together by hand.",
+    "Create the top ruffle.",
+    "Stitch horizontally and one inch below the top of the curtain.",
+    "Stitch again, below the previous stitching, accommodating for the width of the curtain rod.",
+    "Using a seam ripper, open \"just\" the rod pocket at the side seams.",
+    "Slide the rods into the pockets and hang your curtains.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Fabric",
+    "Tape measure",
+    "Scissors",
+    "Needle",
+    "Matching threads",
+    "Common pins",
+    "Sewing machine",
+    "Iron",
+    "Curtain rod"
+  ],
+  "tyn_model":[
+    "fabric",
+    "curtain rod",
+    "sewing supplies",
+    "iron",
+    "seam ripper",
+    "rods",
+    "curtains"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.4285714286,
+    "f1":0.375,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.4285714286,
+    "f1":0.375
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4444444444,
+    "p":0.5714285714,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.4285714286,
+    "f1":0.375
+  }
+}

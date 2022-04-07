@@ -1,0 +1,71 @@
+{
+  "title":"How to Earth Up Potatoes",
+  "url":"https://www.wikihow.com/Earth-Up-Potatoes",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Planting and Growing",
+    "Growing Vegetables",
+    "Growing Potatoes"
+  ],
+  "steps":[
+    {
+      "headline":"Earth up the potatoes at the right time.",
+      "description":"Do it before the tubers turn green, because once they have turned green, they become poisonous and inedible. Begin earthing up once the shoots of your plant reached approximately 20 cm (8 inches)."
+    },
+    {
+      "headline":"Using your hoe, draw the gathered soil into mounds around the stems of your potato plants.",
+      "description":"Use enough soil so that just 5cm (2 inches) of stem are left visible above the mound. This will ensure enough foliage is left to allow the plant to carry on growing strongly, but will starve the developing tubers of light so that they are prevented from turning green and poisonous. Whilst doing this, take the opportunity to remove any weeds or debris that have returned since planting."
+    },
+    {
+      "headline":"Maintain the mounds.",
+      "description":"Keep an eye on your potatoes over the coming weeks in case the earth has been washed away by heavy rain. To avoid this occurring, do not make the mounds too steep. As the plant continues to grow, repeat the process every time it reaches 10-15cm (4-6 inches) of new growth above ground. This could mean repeating the process 3 or 4 times per season."
+    }
+  ],
+  "text":" Earth up the potatoes at the right time. Do it before the tubers turn green, because once they have turned green, they become poisonous and inedible. Begin earthing up once the shoots of your plant reached approximately 20 cm (8 inches). Using your hoe, draw the gathered soil into mounds around the stems of your potato plants. Use enough soil so that just 5cm (2 inches) of stem are left visible above the mound. This will ensure enough foliage is left to allow the plant to carry on growing strongly, but will starve the developing tubers of light so that they are prevented from turning green and poisonous. Whilst doing this, take the opportunity to remove any weeds or debris that have returned since planting. Maintain the mounds. Keep an eye on your potatoes over the coming weeks in case the earth has been washed away by heavy rain. To avoid this occurring, do not make the mounds too steep. As the plant continues to grow, repeat the process every time it reaches 10-15cm (4-6 inches) of new growth above ground. This could mean repeating the process 3 or 4 times per season.",
+  "sentences":[
+    " Earth up the potatoes at the right time.",
+    "Do it before the tubers turn green, because once they have turned green, they become poisonous and inedible.",
+    "Begin earthing up once the shoots of your plant reached approximately 20 cm (8 inches).",
+    "Using your hoe, draw the gathered soil into mounds around the stems of your potato plants.",
+    "Use enough soil so that just 5cm (2 inches) of stem are left visible above the mound.",
+    "This will ensure enough foliage is left to allow the plant to carry on growing strongly, but will starve the developing tubers of light so that they are prevented from turning green and poisonous.",
+    "Whilst doing this, take the opportunity to remove any weeds or debris that have returned since planting.",
+    "Maintain the mounds.",
+    "Keep an eye on your potatoes over the coming weeks in case the earth has been washed away by heavy rain.",
+    "To avoid this occurring, do not make the mounds too steep.",
+    "As the plant continues to grow, repeat the process every time it reaches 10-15cm (4-6 inches) of new growth above ground.",
+    "This could mean repeating the process 3 or 4 times per season."
+  ],
+  "tyn_section":[
+    "Garden hoe",
+    "Potato patch"
+  ],
+  "tyn_model":[
+    "potatoes",
+    "soil",
+    "hoe",
+    "potato"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

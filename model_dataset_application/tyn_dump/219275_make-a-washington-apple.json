@@ -1,0 +1,103 @@
+{
+  "title":"How to Make a Washington Apple",
+  "url":"https://www.wikihow.com/Make-a-Washington-Apple",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs"
+  ],
+  "methods":[
+    {
+      "name":"Making a Washington Apple in a Shaker",
+      "steps":[
+        {
+          "headline":"Pour Canadian whiskey, sour apple schnapps, and cranberry juice into a shaker.",
+          "description":"Use 1  fl oz (30 mL) each of the whiskey, schnapps, and juice."
+        },
+        {
+          "headline":"Add ice and shake the mixture.",
+          "description":"Toss in a few cubes of ice, put the top on the shaker, and shake it vigorously to mix the drink."
+        },
+        {
+          "headline":"Enjoy the drink in a chilled martini glass.",
+          "description":"Pour the drink through a fine strainer into a chilled martini glass and savor the flavor of this cocktail. Garnish with fanned apples on a cocktail pick, if desired."
+        }
+      ]
+    },
+    {
+      "name":"Building a Washington Apple in a Highball",
+      "steps":[
+        {
+          "headline":"Add Canadian whiskey, sour apple schnapps, and cranberry juice to a highball glass.",
+          "description":"Pour in 1  fl oz (30 mL) of each liquid."
+        },
+        {
+          "headline":"Put some ice in the glass.",
+          "description":"Add a few ice cubes into the glass and stir it to mix up the liquids."
+        },
+        {
+          "headline":"Garnish the drink.",
+          "description":"Drop an apple slice in your cocktail and enjoy this sweet but tart drink!"
+        }
+      ]
+    }
+  ],
+  "text":" Making a Washington Apple in a Shaker Pour Canadian whiskey, sour apple schnapps, and cranberry juice into a shaker. Use 1  fl oz (30 mL) each of the whiskey, schnapps, and juice. Add ice and shake the mixture. Toss in a few cubes of ice, put the top on the shaker, and shake it vigorously to mix the drink. Enjoy the drink in a chilled martini glass. Pour the drink through a fine strainer into a chilled martini glass and savor the flavor of this cocktail. Garnish with fanned apples on a cocktail pick, if desired. Building a Washington Apple in a Highball Add Canadian whiskey, sour apple schnapps, and cranberry juice to a highball glass. Pour in 1  fl oz (30 mL) of each liquid. Put some ice in the glass. Add a few ice cubes into the glass and stir it to mix up the liquids. Garnish the drink. Drop an apple slice in your cocktail and enjoy this sweet but tart drink!",
+  "sentences":[
+    " Making a Washington Apple in a Shaker Pour Canadian whiskey, sour apple schnapps, and cranberry juice into a shaker.",
+    "Use 1  fl oz (30 mL) each of the whiskey, schnapps, and juice.",
+    "Add ice and shake the mixture.",
+    "Toss in a few cubes of ice, put the top on the shaker, and shake it vigorously to mix the drink.",
+    "Enjoy the drink in a chilled martini glass.",
+    "Pour the drink through a fine strainer into a chilled martini glass and savor the flavor of this cocktail.",
+    "Garnish with fanned apples on a cocktail pick, if desired.",
+    "Building a Washington Apple in a Highball Add Canadian whiskey, sour apple schnapps, and cranberry juice to a highball glass.",
+    "Pour in 1  fl oz (30 mL) of each liquid.",
+    "Put some ice in the glass.",
+    "Add a few ice cubes into the glass and stir it to mix up the liquids.",
+    "Garnish the drink.",
+    "Drop an apple slice in your cocktail and enjoy this sweet but tart drink!"
+  ],
+  "tyn_section":[
+    "Cocktail shaker",
+    "Martini glass",
+    "Shot glasses",
+    "Highball glass"
+  ],
+  "tyn_model":[
+    "ice",
+    "canadian whiskey",
+    "sour apple schnapps",
+    "cranberry juice",
+    "shaker",
+    "chilled martini glass",
+    "whiskey",
+    "fine strainer",
+    "cocktail pick",
+    "highball glass",
+    "ice cubes",
+    "apple"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.25,
+    "f1":0.375
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  }
+}

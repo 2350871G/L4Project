@@ -1,0 +1,102 @@
+{
+  "title":"How to Make Lemon Paste",
+  "url":"https://www.wikihow.com/Make-Lemon-Paste",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Citrus Fruits"
+  ],
+  "steps":[
+    {
+      "headline":"Cut the lemons through the middle.",
+      "description":""
+    },
+    {
+      "headline":"Put them into a saucepan of boiling water and boil them until tender.",
+      "description":""
+    },
+    {
+      "headline":"Remove from the heat and allow to cool.",
+      "description":""
+    },
+    {
+      "headline":"Blend them to form a paste.",
+      "description":"Strain any excess liquid or pulp (see \"Tips\" below for using a mortar and pestle at this step.)"
+    },
+    {
+      "headline":"Add the sugar to the paste.",
+      "description":""
+    },
+    {
+      "headline":"Roll it out onto a baking tray lined with baking paper.",
+      "description":""
+    },
+    {
+      "headline":"Place in the oven on a very low heat for several hours until dried.",
+      "description":"Turn frequently. If you choose to sun dry, this will take several days and should also be turned frequently. Keep sun-drying lemon paste protected from insects."
+    },
+    {
+      "headline":"Put it into an air-tight storage container.",
+      "description":"It will keep for up to one year."
+    }
+  ],
+  "text":" Cut the lemons through the middle.  Put them into a saucepan of boiling water and boil them until tender.  Remove from the heat and allow to cool.  Blend them to form a paste. Strain any excess liquid or pulp (see \"Tips\" below for using a mortar and pestle at this step.) Add the sugar to the paste.  Roll it out onto a baking tray lined with baking paper.  Place in the oven on a very low heat for several hours until dried. Turn frequently. If you choose to sun dry, this will take several days and should also be turned frequently. Keep sun-drying lemon paste protected from insects. Put it into an air-tight storage container. It will keep for up to one year.",
+  "sentences":[
+    " Cut the lemons through the middle.",
+    "Put them into a saucepan of boiling water and boil them until tender.",
+    "Remove from the heat and allow to cool.",
+    "Blend them to form a paste.",
+    "Strain any excess liquid or pulp (see \"Tips\" below for using a mortar and pestle at this step.)",
+    "Add the sugar to the paste.",
+    "Roll it out onto a baking tray lined with baking paper.",
+    "Place in the oven on a very low heat for several hours until dried.",
+    "Turn frequently.",
+    "If you choose to sun dry, this will take several days and should also be turned frequently.",
+    "Keep sun-drying lemon paste protected from insects.",
+    "Put it into an air-tight storage container.",
+    "It will keep for up to one year."
+  ],
+  "tyn_section":[
+    "Cutting board and knife",
+    "Saucepan",
+    "Stirring implement (wooden spoon)",
+    "Rolling pin",
+    "Baking tray (sheet) lined with baking paper (parchment)",
+    "Blender or mortar and pestle (or a food processor)",
+    "Oven, or sun-drying racks"
+  ],
+  "tyn_model":[
+    "lemons",
+    "saucepan",
+    "water",
+    "mortar and pestle",
+    "sugar",
+    "baking tray",
+    "baking paper",
+    "oven",
+    "lemon",
+    "air-tight storage container"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.1,
+    "f1":0.1176470588,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1428571429,
+    "p":0.1,
+    "f1":0.1176470588
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2857142857,
+    "p":0.2,
+    "f1":0.2352941176
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.1,
+    "f1":0.1176470588
+  }
+}

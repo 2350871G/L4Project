@@ -1,0 +1,150 @@
+{
+  "title":"How to Make a Galaxy Smoothie",
+  "url":"https://www.wikihow.com/Make-a-Galaxy-Smoothie",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Smoothies Shakes and Milk",
+    "Smoothies"
+  ],
+  "parts":[
+    {
+      "name":"Milky Way Smoothie Layer",
+      "steps":[
+        {
+          "headline":"Prepare two tall glasses and set them aside.",
+          "description":""
+        },
+        {
+          "headline":"Pour the coconut milk and ice into a blender.",
+          "description":""
+        },
+        {
+          "headline":"Blend on high speed for about two minutes until slightly liquid and well-combined.",
+          "description":""
+        },
+        {
+          "headline":"Splatter and spread the mixture around in both glasses with a spoon.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Supernova Red Smoothie Layer",
+      "steps":[
+        {
+          "headline":"Add the raspberries and milk into the blender.",
+          "description":""
+        },
+        {
+          "headline":"Blend on high speed for about two minutes, until red and creamy.",
+          "description":""
+        },
+        {
+          "headline":"Add in the sugar and vanilla or honey.",
+          "description":"Blend until well-combined."
+        },
+        {
+          "headline":"Pour the red layer in both glasses.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Black Hole Blue Smoothie Layer",
+      "steps":[
+        {
+          "headline":"Add the blueberries and milk into the blender.",
+          "description":""
+        },
+        {
+          "headline":"Blend on high speed for about two minutes, until blue and creamy.",
+          "description":""
+        },
+        {
+          "headline":"Add in the sugar, vanilla or honey, and lemon juice if desired.",
+          "description":"Blend until well-combined."
+        },
+        {
+          "headline":"Pour the blue layer in both glasses.",
+          "description":""
+        },
+        {
+          "headline":"Sprinkle the edible glitter over the smoothies if desired.",
+          "description":""
+        },
+        {
+          "headline":"Using a spoon, gently swirl the smoothies around to resemble a galactic look.",
+          "description":""
+        },
+        {
+          "headline":"Serve.",
+          "description":"Garnish both smoothies with edible glitter if desired. Enjoy!"
+        }
+      ]
+    }
+  ],
+  "text":" Milky Way Smoothie Layer Prepare two tall glasses and set them aside.  Pour the coconut milk and ice into a blender.  Blend on high speed for about two minutes until slightly liquid and well-combined.  Splatter and spread the mixture around in both glasses with a spoon.  Supernova Red Smoothie Layer Add the raspberries and milk into the blender.  Blend on high speed for about two minutes, until red and creamy.  Add in the sugar and vanilla or honey. Blend until well-combined. Pour the red layer in both glasses.  Black Hole Blue Smoothie Layer Add the blueberries and milk into the blender.  Blend on high speed for about two minutes, until blue and creamy.  Add in the sugar, vanilla or honey, and lemon juice if desired. Blend until well-combined. Pour the blue layer in both glasses.  Sprinkle the edible glitter over the smoothies if desired.  Using a spoon, gently swirl the smoothies around to resemble a galactic look.  Serve. Garnish both smoothies with edible glitter if desired. Enjoy!",
+  "sentences":[
+    " Milky Way Smoothie Layer Prepare two tall glasses and set them aside.",
+    "Pour the coconut milk and ice into a blender.",
+    "Blend on high speed for about two minutes until slightly liquid and well-combined.",
+    "Splatter and spread the mixture around in both glasses with a spoon.",
+    "Supernova Red Smoothie Layer Add the raspberries and milk into the blender.",
+    "Blend on high speed for about two minutes, until red and creamy.",
+    "Add in the sugar and vanilla or honey.",
+    "Blend until well-combined.",
+    "Pour the red layer in both glasses.",
+    "Black Hole Blue Smoothie Layer Add the blueberries and milk into the blender.",
+    "Blend on high speed for about two minutes, until blue and creamy.",
+    "Add in the sugar, vanilla or honey, and lemon juice if desired.",
+    "Blend until well-combined.",
+    "Pour the blue layer in both glasses.",
+    "Sprinkle the edible glitter over the smoothies if desired.",
+    "Using a spoon, gently swirl the smoothies around to resemble a galactic look.",
+    "Serve.",
+    "Garnish both smoothies with edible glitter if desired.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Blender",
+    "Spoon",
+    "Two tall glasses"
+  ],
+  "tyn_model":[
+    "blender",
+    "spoon",
+    "milk",
+    "sugar",
+    "vanilla",
+    "honey",
+    "edible glitter",
+    "tall glasses",
+    "coconut milk",
+    "ice",
+    "raspberries",
+    "blueberries",
+    "lemon juice"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.1538461538,
+    "f1":0.25,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2307692308,
+    "f1":0.375
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2307692308,
+    "f1":0.375
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.2307692308,
+    "f1":0.375
+  }
+}

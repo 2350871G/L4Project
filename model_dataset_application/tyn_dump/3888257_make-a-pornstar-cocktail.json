@@ -1,0 +1,142 @@
+{
+  "title":"How to Make a Pornstar Cocktail",
+  "url":"https://www.wikihow.com/Make-a-Pornstar-Cocktail",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Mixed Drink Shooters and Shots"
+  ],
+  "methods":[
+    {
+      "name":"Pornstar Shot",
+      "steps":[
+        {
+          "headline":"Add crushed ice to a cocktail shaker.",
+          "description":"Fill it about halfway with ice."
+        },
+        {
+          "headline":"Measure and pour the ingredients into the shaker.",
+          "description":""
+        },
+        {
+          "headline":"Shake the contents.",
+          "description":"Secure the lid on and vigorously shake it for a few seconds. You will know when the contents are cold when you see condensation building up on the outside of the shaker."
+        },
+        {
+          "headline":"Strain the contents.",
+          "description":"Attach a strainer on the cocktail shaker (if the shaker doesn't have one) and strain it into a shot glass."
+        }
+      ]
+    },
+    {
+      "name":"Pornstar Cocktail",
+      "steps":[
+        {
+          "headline":"Add crushed ice to a cocktail shaker.",
+          "description":"Fill it about halfway with ice."
+        },
+        {
+          "headline":"Measure and pour the ingredients into the shaker.",
+          "description":""
+        },
+        {
+          "headline":"Stir the drink.",
+          "description":"Use a long cocktail stirrer to combine everything together."
+        },
+        {
+          "headline":"Strain the contents.",
+          "description":"Attach a strainer on the cocktail shaker (if the shaker doesn't have one) and strain it into a highball glass."
+        }
+      ]
+    },
+    {
+      "name":"Pornstar Drop Shot",
+      "steps":[
+        {
+          "headline":"Prepare a beer mug.",
+          "description":"Measure the juice and 7-up and add it to the mug."
+        },
+        {
+          "headline":"Prepare a shot glass.",
+          "description":"Measure equal parts of the pucker and blue curacao into the glass."
+        },
+        {
+          "headline":"Drop the shot glass into the beer mug.",
+          "description":""
+        },
+        {
+          "headline":"Chug the contents immediately.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Pornstar Shot Add crushed ice to a cocktail shaker. Fill it about halfway with ice. Measure and pour the ingredients into the shaker.  Shake the contents. Secure the lid on and vigorously shake it for a few seconds. You will know when the contents are cold when you see condensation building up on the outside of the shaker. Strain the contents. Attach a strainer on the cocktail shaker (if the shaker doesn't have one) and strain it into a shot glass. Pornstar Cocktail Add crushed ice to a cocktail shaker. Fill it about halfway with ice. Measure and pour the ingredients into the shaker.  Stir the drink. Use a long cocktail stirrer to combine everything together. Strain the contents. Attach a strainer on the cocktail shaker (if the shaker doesn't have one) and strain it into a highball glass. Pornstar Drop Shot Prepare a beer mug. Measure the juice and 7-up and add it to the mug. Prepare a shot glass. Measure equal parts of the pucker and blue curacao into the glass. Drop the shot glass into the beer mug.  Chug the contents immediately. ",
+  "sentences":[
+    " Pornstar Shot Add crushed ice to a cocktail shaker.",
+    "Fill it about halfway with ice.",
+    "Measure and pour the ingredients into the shaker.",
+    "Shake the contents.",
+    "Secure the lid on and vigorously shake it for a few seconds.",
+    "You will know when the contents are cold when you see condensation building up on the outside of the shaker.",
+    "Strain the contents.",
+    "Attach a strainer on the cocktail shaker (if the shaker doesn't have one) and strain it into a shot glass.",
+    "Pornstar Cocktail Add crushed ice to a cocktail shaker.",
+    "Fill it about halfway with ice.",
+    "Measure and pour the ingredients into the shaker.",
+    "Stir the drink.",
+    "Use a long cocktail stirrer to combine everything together.",
+    "Strain the contents.",
+    "Attach a strainer on the cocktail shaker (if the shaker doesn't have one) and strain it into a highball glass.",
+    "Pornstar Drop Shot Prepare a beer mug.",
+    "Measure the juice and 7-up and add it to the mug.",
+    "Prepare a shot glass.",
+    "Measure equal parts of the pucker and blue curacao into the glass.",
+    "Drop the shot glass into the beer mug.",
+    "Chug the contents immediately."
+  ],
+  "tyn_section":[
+    "2 shot glasses",
+    "Cocktail shaker",
+    "Strainer attachment, optional",
+    "Crushed ice cubes",
+    "Cocktail stirrer",
+    "Highball glass",
+    "Beer mug"
+  ],
+  "tyn_model":[
+    "cocktail shaker",
+    "shot glass",
+    "crushed ice",
+    "ice",
+    "shaker",
+    "strainer",
+    "beer mug",
+    "cocktail stirrer",
+    "7-up",
+    "blue curacao"
+  ],
+  "simple_metrics":{
+    "r":0.4285714286,
+    "p":0.3,
+    "f1":0.3529411765,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5714285714,
+    "p":0.5,
+    "f1":0.5333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8571428571,
+    "p":0.8,
+    "f1":0.8275862069
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5714285714,
+    "p":0.4,
+    "f1":0.4705882353
+  }
+}

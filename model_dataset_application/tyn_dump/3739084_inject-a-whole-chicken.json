@@ -1,0 +1,108 @@
+{
+  "title":"How to Inject a Whole Chicken",
+  "url":"https://www.wikihow.com/Inject-a-Whole-Chicken",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation"
+  ],
+  "parts":[
+    {
+      "name":"Making the Injection Mixture",
+      "steps":[
+        {
+          "headline":"Put all of the ingredients into a saucepan.",
+          "description":""
+        },
+        {
+          "headline":"Bring the liquid to a boil.",
+          "description":""
+        },
+        {
+          "headline":"Allow to cool to room temperature.",
+          "description":""
+        },
+        {
+          "headline":"Inject into the chicken.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Injecting the Chicken",
+      "steps":[
+        {
+          "headline":"Pour the infusion into something like a tall shot glass so that the syringe will work.",
+          "description":""
+        },
+        {
+          "headline":"Be aware that you must be very careful with the needle and do not puncture the skin.",
+          "description":"Your chicken will leak all of the flavorful juices out."
+        },
+        {
+          "headline":"Find places where you can enter the meat without compromising the skin.",
+          "description":""
+        },
+        {
+          "headline":"Use two full syringes for each breast.",
+          "description":"This will help keep your breasts from being so dry."
+        },
+        {
+          "headline":"In the legs, you will need to find a point of entry at the very bottom where the feet were.",
+          "description":""
+        },
+        {
+          "headline":"Continue infusing the chicken, until you have used all of the mixture.",
+          "description":"Try to share it equally on both sides of the bird."
+        }
+      ]
+    }
+  ],
+  "text":" Making the Injection Mixture Put all of the ingredients into a saucepan.  Bring the liquid to a boil.  Allow to cool to room temperature.  Inject into the chicken.  Injecting the Chicken Pour the infusion into something like a tall shot glass so that the syringe will work.  Be aware that you must be very careful with the needle and do not puncture the skin. Your chicken will leak all of the flavorful juices out. Find places where you can enter the meat without compromising the skin.  Use two full syringes for each breast. This will help keep your breasts from being so dry. In the legs, you will need to find a point of entry at the very bottom where the feet were.  Continue infusing the chicken, until you have used all of the mixture. Try to share it equally on both sides of the bird.",
+  "sentences":[
+    " Making the Injection Mixture Put all of the ingredients into a saucepan.",
+    "Bring the liquid to a boil.",
+    "Allow to cool to room temperature.",
+    "Inject into the chicken.",
+    "Injecting the Chicken Pour the infusion into something like a tall shot glass so that the syringe will work.",
+    "Be aware that you must be very careful with the needle and do not puncture the skin.",
+    "Your chicken will leak all of the flavorful juices out.",
+    "Find places where you can enter the meat without compromising the skin.",
+    "Use two full syringes for each breast.",
+    "This will help keep your breasts from being so dry.",
+    "In the legs, you will need to find a point of entry at the very bottom where the feet were.",
+    "Continue infusing the chicken, until you have used all of the mixture.",
+    "Try to share it equally on both sides of the bird."
+  ],
+  "tyn_section":[
+    "An injector",
+    "Container for holding the injection mixture"
+  ],
+  "tyn_model":[
+    "chicken",
+    "saucepan",
+    "shot glass",
+    "syringe",
+    "syringes"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

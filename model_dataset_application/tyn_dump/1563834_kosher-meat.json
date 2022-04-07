@@ -1,0 +1,125 @@
+{
+  "title":"How to Kosher Meat",
+  "url":"https://www.wikihow.com/Kosher-Meat",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Meat"
+  ],
+  "methods":[
+    {
+      "name":"Washing and Soaking",
+      "steps":[
+        {
+          "headline":"Wash the meat or fowl thoroughly to remove any visible blood.",
+          "description":"Blood will be drained from meat in the salting process to make it kosher. Before washing the meat, cut out any clots."
+        },
+        {
+          "headline":"Soak the meat in water at room temperature for at least a half hour.",
+          "description":"Meat left to soak for 24 hours or more becomes non-kosher. If you like, cut the meat into smaller pieces after soaking."
+        }
+      ]
+    },
+    {
+      "name":"Salting",
+      "steps":[
+        {
+          "headline":"Wash the meat with water again before salting.",
+          "description":"It is okay to use the water in which you soaked the meat. Inspect the meat to make certain there is no visible blood."
+        },
+        {
+          "headline":"Shake off the water and allow the meat to sit on the salting board to allow excess water to dry.",
+          "description":"Keep the meat damp enough so salt sticks to it but not so wet the salt dissolves easily."
+        },
+        {
+          "headline":"Salt the meat thoroughly -- top, bottom and sides -- with coarse salt.",
+          "description":"Do not put so much salt on the meat that blood cannot drain out."
+        },
+        {
+          "headline":"Allow the meat or fowl to sit on the salting board for at least an hour.",
+          "description":"Allow the blood to drain into a tub or basin. Do not allow the meat to be salted for more than 12 hours as this may make the meat unkosher. If you leave salt on the meat for more than 12 hours, consult a rabbi as to whether the meat is still kosher."
+        }
+      ]
+    },
+    {
+      "name":"Broiling",
+      "steps":[
+        {
+          "headline":"You may also kosher meat by broiling.",
+          "description":"Wash the meat or fowl. Salt the meat or fowl. Cook the meat on an open grill over flames until a crust forms and the meat is half done. Allow drippings to collect in a pan. The grill and pan must be used only for kashering meat."
+        },
+        {
+          "headline":"Finished.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Washing and Soaking Wash the meat or fowl thoroughly to remove any visible blood. Blood will be drained from meat in the salting process to make it kosher. Before washing the meat, cut out any clots. Soak the meat in water at room temperature for at least a half hour. Meat left to soak for 24 hours or more becomes non-kosher. If you like, cut the meat into smaller pieces after soaking. Salting Wash the meat with water again before salting. It is okay to use the water in which you soaked the meat. Inspect the meat to make certain there is no visible blood. Shake off the water and allow the meat to sit on the salting board to allow excess water to dry. Keep the meat damp enough so salt sticks to it but not so wet the salt dissolves easily. Salt the meat thoroughly -- top, bottom and sides -- with coarse salt. Do not put so much salt on the meat that blood cannot drain out. Allow the meat or fowl to sit on the salting board for at least an hour. Allow the blood to drain into a tub or basin. Do not allow the meat to be salted for more than 12 hours as this may make the meat unkosher. If you leave salt on the meat for more than 12 hours, consult a rabbi as to whether the meat is still kosher. Broiling You may also kosher meat by broiling. Wash the meat or fowl. Salt the meat or fowl. Cook the meat on an open grill over flames until a crust forms and the meat is half done. Allow drippings to collect in a pan. The grill and pan must be used only for kashering meat. Finished. ",
+  "sentences":[
+    " Washing and Soaking Wash the meat or fowl thoroughly to remove any visible blood.",
+    "Blood will be drained from meat in the salting process to make it kosher.",
+    "Before washing the meat, cut out any clots.",
+    "Soak the meat in water at room temperature for at least a half hour.",
+    "Meat left to soak for 24 hours or more becomes non-kosher.",
+    "If you like, cut the meat into smaller pieces after soaking.",
+    "Salting Wash the meat with water again before salting.",
+    "It is okay to use the water in which you soaked the meat.",
+    "Inspect the meat to make certain there is no visible blood.",
+    "Shake off the water and allow the meat to sit on the salting board to allow excess water to dry.",
+    "Keep the meat damp enough so salt sticks to it but not so wet the salt dissolves easily.",
+    "Salt the meat thoroughly -- top, bottom and sides -- with coarse salt.",
+    "Do not put so much salt on the meat that blood cannot drain out.",
+    "Allow the meat or fowl to sit on the salting board for at least an hour.",
+    "Allow the blood to drain into a tub or basin.",
+    "Do not allow the meat to be salted for more than 12 hours as this may make the meat unkosher.",
+    "If you leave salt on the meat for more than 12 hours, consult a rabbi as to whether the meat is still kosher.",
+    "Broiling You may also kosher meat by broiling.",
+    "Wash the meat or fowl.",
+    "Salt the meat or fowl.",
+    "Cook the meat on an open grill over flames until a crust forms and the meat is half done.",
+    "Allow drippings to collect in a pan.",
+    "The grill and pan must be used only for kashering meat.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Knife",
+    "Water",
+    "Soaking basin",
+    "Coarse salt",
+    "Salting board",
+    "Tub or basin to catch blood",
+    "Grill",
+    "Pan to catch blood"
+  ],
+  "tyn_model":[
+    "water",
+    "salt",
+    "salting board",
+    "grill",
+    "pan",
+    "fowl",
+    "coarse salt"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.5714285714,
+    "f1":0.5333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.7142857143,
+    "f1":0.5882352941
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.7142857143,
+    "f1":0.5882352941
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.5714285714,
+    "f1":0.5333333333
+  }
+}

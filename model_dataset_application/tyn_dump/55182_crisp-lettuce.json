@@ -1,0 +1,80 @@
+{
+  "title":"How to Crisp Lettuce",
+  "url":"https://www.wikihow.com/Crisp-Lettuce",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Preservation Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Empty 1 or 2 trays of ice into a large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Put lettuce (washed or not) into the bowl.",
+      "description":""
+    },
+    {
+      "headline":"Fill the bowl with cold water, keeping the lettuce as fully submerged as possible.",
+      "description":""
+    },
+    {
+      "headline":"Wait 15-20 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Remove the lettuce from the water and dry it in a salad spinner.",
+      "description":""
+    },
+    {
+      "headline":"Make salad and serve immediately.",
+      "description":""
+    }
+  ],
+  "text":" Empty 1 or 2 trays of ice into a large bowl.  Put lettuce (washed or not) into the bowl.  Fill the bowl with cold water, keeping the lettuce as fully submerged as possible.  Wait 15-20 minutes.  Remove the lettuce from the water and dry it in a salad spinner.  Make salad and serve immediately. ",
+  "sentences":[
+    " Empty 1 or 2 trays of ice into a large bowl.",
+    "Put lettuce (washed or not) into the bowl.",
+    "Fill the bowl with cold water, keeping the lettuce as fully submerged as possible.",
+    "Wait 15-20 minutes.",
+    "Remove the lettuce from the water and dry it in a salad spinner.",
+    "Make salad and serve immediately."
+  ],
+  "tyn_section":[
+    "Lettuce",
+    "Large Bowl",
+    "1 or 2 Trays of ice",
+    "Water",
+    "Salad Spinner (optional, but highly recommended)"
+  ],
+  "tyn_model":[
+    "bowl",
+    "ice",
+    "large bowl",
+    "cold water",
+    "water",
+    "salad spinner"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.3333333333,
+    "f1":0.3636363636,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.6666666667,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.8333333333,
+    "f1":0.6976744186
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.3333333333,
+    "f1":0.3636363636
+  }
+}

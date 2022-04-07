@@ -1,0 +1,98 @@
+{
+  "title":"How to Make Fairy Cakes with Self Raising Flour",
+  "url":"https://www.wikihow.com/Make-Fairy-Cakes-with-Self-Raising-Flour",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cakes",
+    "Cupcakes"
+  ],
+  "steps":[
+    {
+      "headline":"Set the oven to 180\u00b0C/350\u00b0F/Gas Mark 4.",
+      "description":""
+    },
+    {
+      "headline":"Fill a cake tin with 12 paper cases",
+      "description":""
+    },
+    {
+      "headline":"Beat the sugar and butter together until creamy and light",
+      "description":""
+    },
+    {
+      "headline":"Carefully add one egg and stir it in until the mixture is smooth.",
+      "description":"Do the same with the second egg"
+    },
+    {
+      "headline":"Sieve the flour into the mixture in the bowl",
+      "description":""
+    },
+    {
+      "headline":"Add the milk and beat everything together until smooth",
+      "description":""
+    },
+    {
+      "headline":"Drop a big spoonful of the mixture into each of the 12 cases",
+      "description":""
+    },
+    {
+      "headline":"Cook in the oven for 15-20 minutes or until it feels springy and looks golden",
+      "description":""
+    },
+    {
+      "headline":"Leave them to cool slightly in the tin, then lift them onto a wire cooling rack",
+      "description":""
+    },
+    {
+      "headline":"Decorate with icing or eat them plain, either way they're delicious.",
+      "description":"Enjoy!"
+    }
+  ],
+  "text":" Set the oven to 180\u00b0C/350\u00b0F/Gas Mark 4.  Fill a cake tin with 12 paper cases  Beat the sugar and butter together until creamy and light  Carefully add one egg and stir it in until the mixture is smooth. Do the same with the second egg Sieve the flour into the mixture in the bowl  Add the milk and beat everything together until smooth  Drop a big spoonful of the mixture into each of the 12 cases  Cook in the oven for 15-20 minutes or until it feels springy and looks golden  Leave them to cool slightly in the tin, then lift them onto a wire cooling rack  Decorate with icing or eat them plain, either way they're delicious. Enjoy!",
+  "sentences":[
+    " Set the oven to 180\u00b0C/350\u00b0F/Gas Mark 4.",
+    "Fill a cake tin with 12 paper cases  Beat the sugar and butter together until creamy and light  Carefully add one egg and stir it in until the mixture is smooth.",
+    "Do the same with the second egg Sieve the flour into the mixture in the bowl  Add the milk and beat everything together until smooth  Drop a big spoonful of the mixture into each of the 12 cases  Cook in the oven for 15-20 minutes or until it feels springy and looks golden  Leave them to cool slightly in the tin, then lift them onto a wire cooling rack  Decorate with icing or eat them plain, either way they're delicious.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "A bowl",
+    "A spoon",
+    "A cake tin",
+    "12 fairy cake cases",
+    "A sieve",
+    "Scales"
+  ],
+  "tyn_model":[
+    "oven",
+    "cake tin",
+    "sugar",
+    "butter",
+    "flour",
+    "bowl",
+    "milk"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.2857142857,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2857142857,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.1428571429,
+    "f1":0.1538461538
+  }
+}

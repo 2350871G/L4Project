@@ -1,0 +1,104 @@
+{
+  "title":"How to Make Potato Balls",
+  "url":"https://www.wikihow.com/Make-Potato-Balls",
+  "category_hierarchy":[
+    "Food and Entertaining"
+  ],
+  "steps":[
+    {
+      "headline":"Place the oil in a large pot and have it preheat to 375\u00b0 Fahrenheit (190\u00b0 Celsius).",
+      "description":""
+    },
+    {
+      "headline":"Place the mashed potatoes in a large bowl and have it sit for about 30 minutes in room temperature.",
+      "description":""
+    },
+    {
+      "headline":"Fold in the cheese, onions, egg, and bacon with a wooden spoon.",
+      "description":"Mix."
+    },
+    {
+      "headline":"Roll the mixture into balls.",
+      "description":"Grab a tablespoon of the mashed potatoes and use your hands to roll them into small balls. Place the potato balls on a dish."
+    },
+    {
+      "headline":"Roll the balls with breadcrumbs.",
+      "description":"Put the breadcrumbs on a plate and roll the balls on the plate to coat them with breadcrumbs."
+    },
+    {
+      "headline":"Fry the potato balls.",
+      "description":"Drop the potato balls in the hot oil, only adding a couple at a time. Have the balls cook for about 3 minutes, until they are crispy and golden brown. Place them on a dish covered with a napkin."
+    },
+    {
+      "headline":"Serve.",
+      "description":"Serve the potato balls immediately while they are warm with tomato ketchup or sour cream. Enjoy!"
+    }
+  ],
+  "text":" Place the oil in a large pot and have it preheat to 375\u00b0 Fahrenheit (190\u00b0 Celsius).  Place the mashed potatoes in a large bowl and have it sit for about 30 minutes in room temperature.  Fold in the cheese, onions, egg, and bacon with a wooden spoon. Mix. Roll the mixture into balls. Grab a tablespoon of the mashed potatoes and use your hands to roll them into small balls. Place the potato balls on a dish. Roll the balls with breadcrumbs. Put the breadcrumbs on a plate and roll the balls on the plate to coat them with breadcrumbs. Fry the potato balls. Drop the potato balls in the hot oil, only adding a couple at a time. Have the balls cook for about 3 minutes, until they are crispy and golden brown. Place them on a dish covered with a napkin. Serve. Serve the potato balls immediately while they are warm with tomato ketchup or sour cream. Enjoy!",
+  "sentences":[
+    " Place the oil in a large pot and have it preheat to 375\u00b0 Fahrenheit (190\u00b0 Celsius).",
+    "Place the mashed potatoes in a large bowl and have it sit for about 30 minutes in room temperature.",
+    "Fold in the cheese, onions, egg, and bacon with a wooden spoon.",
+    "Mix.",
+    "Roll the mixture into balls.",
+    "Grab a tablespoon of the mashed potatoes and use your hands to roll them into small balls.",
+    "Place the potato balls on a dish.",
+    "Roll the balls with breadcrumbs.",
+    "Put the breadcrumbs on a plate and roll the balls on the plate to coat them with breadcrumbs.",
+    "Fry the potato balls.",
+    "Drop the potato balls in the hot oil, only adding a couple at a time.",
+    "Have the balls cook for about 3 minutes, until they are crispy and golden brown.",
+    "Place them on a dish covered with a napkin.",
+    "Serve.",
+    "Serve the potato balls immediately while they are warm with tomato ketchup or sour cream.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Large pot",
+    "Bowl",
+    "Dish",
+    "Wooden spoon",
+    "Napkin",
+    "Stovetop",
+    "Serving plate"
+  ],
+  "tyn_model":[
+    "potato",
+    "potatoes",
+    "dish",
+    "plate",
+    "oil",
+    "large pot",
+    "large bowl",
+    "cheese",
+    "onions",
+    "egg",
+    "bacon",
+    "wooden spoon",
+    "hot oil",
+    "napkin",
+    "tomato ketchup",
+    "sour cream"
+  ],
+  "simple_metrics":{
+    "r":0.5714285714,
+    "p":0.25,
+    "f1":0.347826087,
+    "avg_pos":0.3125
+  },
+  "jacc_metrics_0.5":{
+    "r":0.8571428571,
+    "p":0.375,
+    "f1":0.5217391304
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8571428571,
+    "p":0.375,
+    "f1":0.5217391304
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5714285714,
+    "p":0.25,
+    "f1":0.347826087
+  }
+}

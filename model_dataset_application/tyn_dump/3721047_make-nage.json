@@ -1,0 +1,138 @@
+{
+  "title":"How to Make Nage",
+  "url":"https://www.wikihow.com/Make-Nage",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables"
+  ],
+  "methods":[
+    {
+      "name":"Vegetable nage",
+      "steps":[
+        {
+          "headline":"Place everything except the peppercorns into the saucepan.",
+          "description":""
+        },
+        {
+          "headline":"Put the saucepan on high heat.",
+          "description":"Bring to the boil."
+        },
+        {
+          "headline":"Reduce to a low simmer.",
+          "description":"Simmer for 45 minutes. Check occasionally; skim off surface fat as needed."
+        },
+        {
+          "headline":"Add the peppercorns in cheesecloth after 35 minutes of boiling.",
+          "description":""
+        },
+        {
+          "headline":"Strain the liquid through a fine sieve into a bowl.",
+          "description":"Cool it quickly\u2013\u2013fill a bowl with ice and nestle the nage bowl into the ice in the other bowl."
+        },
+        {
+          "headline":"Use for poaching as needed.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Buttery nage",
+      "steps":[
+        {
+          "headline":"Pour the vegetable stock into the saucepan.",
+          "description":""
+        },
+        {
+          "headline":"Cook over medium heat to reduce.",
+          "description":"Continue cooking until it is reduced by half."
+        },
+        {
+          "headline":"Cut the butter into cubes about 1 centimeter (0.4 in).",
+          "description":"Whisk the butter into the reduced stock to combine well."
+        },
+        {
+          "headline":"Season to taste with salt and pepper.",
+          "description":""
+        },
+        {
+          "headline":"Sprinkle the thyme leaves into the liquid.",
+          "description":"Stir."
+        },
+        {
+          "headline":"Use to poach at a simmer temperature.",
+          "description":""
+        },
+        {
+          "headline":"Finished.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Vegetable nage Place everything except the peppercorns into the saucepan.  Put the saucepan on high heat. Bring to the boil. Reduce to a low simmer. Simmer for 45 minutes. Check occasionally; skim off surface fat as needed. Add the peppercorns in cheesecloth after 35 minutes of boiling.  Strain the liquid through a fine sieve into a bowl. Cool it quickly\u2013\u2013fill a bowl with ice and nestle the nage bowl into the ice in the other bowl. Use for poaching as needed.  Buttery nage Pour the vegetable stock into the saucepan.  Cook over medium heat to reduce. Continue cooking until it is reduced by half. Cut the butter into cubes about 1 centimeter (0.4 in). Whisk the butter into the reduced stock to combine well. Season to taste with salt and pepper.  Sprinkle the thyme leaves into the liquid. Stir. Use to poach at a simmer temperature.  Finished. ",
+  "sentences":[
+    " Vegetable nage Place everything except the peppercorns into the saucepan.",
+    "Put the saucepan on high heat.",
+    "Bring to the boil.",
+    "Reduce to a low simmer.",
+    "Simmer for 45 minutes.",
+    "Check occasionally; skim off surface fat as needed.",
+    "Add the peppercorns in cheesecloth after 35 minutes of boiling.",
+    "Strain the liquid through a fine sieve into a bowl.",
+    "Cool it quickly\u2013\u2013fill a bowl with ice and nestle the nage bowl into the ice in the other bowl.",
+    "Use for poaching as needed.",
+    "Buttery nage Pour the vegetable stock into the saucepan.",
+    "Cook over medium heat to reduce.",
+    "Continue cooking until it is reduced by half.",
+    "Cut the butter into cubes about 1 centimeter (0.4 in).",
+    "Whisk the butter into the reduced stock to combine well.",
+    "Season to taste with salt and pepper.",
+    "Sprinkle the thyme leaves into the liquid.",
+    "Stir.",
+    "Use to poach at a simmer temperature.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Cheesecloth and string",
+    "Saucepan, large",
+    "Stirring spoon",
+    "Fine-mesh conical sieve",
+    "Saucepan"
+  ],
+  "tyn_model":[
+    "saucepan",
+    "bowl",
+    "ice",
+    "butter",
+    "vegetable nage",
+    "cheesecloth after",
+    "fine sieve",
+    "buttery nage",
+    "vegetable stock",
+    "stock",
+    "salt and pepper",
+    "thyme"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.0833333333,
+    "f1":0.1176470588,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.0833333333,
+    "f1":0.1176470588
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.0833333333,
+    "f1":0.1176470588
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.0833333333,
+    "f1":0.1176470588
+  }
+}

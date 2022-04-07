@@ -1,0 +1,156 @@
+{
+  "title":"How to Make a Grape Smoothie",
+  "url":"https://www.wikihow.com/Make-a-Grape-Smoothie",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Smoothies Shakes and Milk",
+    "Fruit Based Shakes"
+  ],
+  "methods":[
+    {
+      "name":"Simple Grape Smoothie",
+      "steps":[
+        {
+          "headline":"Wash the grapes and dry them on a clean kitchen towel or paper towel.",
+          "description":""
+        },
+        {
+          "headline":"Place all of the ingredients in the blender.",
+          "description":""
+        },
+        {
+          "headline":"Blend on medium to high speed until the smoothie is your desired thickness.",
+          "description":""
+        },
+        {
+          "headline":"Serve immediately on a hot day.",
+          "description":"Garnish with extra chopped grapes or whipped cream. Enjoy!"
+        }
+      ]
+    },
+    {
+      "name":"Banana Grape Smoothie",
+      "steps":[
+        {
+          "headline":"Wash the grapes and dry them on a clean kitchen towel or paper towel.",
+          "description":""
+        },
+        {
+          "headline":"Blend the banana and yogurt on high speed for about two minutes.",
+          "description":""
+        },
+        {
+          "headline":"Add the milk and grapes.",
+          "description":"Blend again."
+        },
+        {
+          "headline":"Serve immediately on a hot day.",
+          "description":"Garnish with extra chopped grapes or whipped cream. Enjoy!"
+        }
+      ]
+    },
+    {
+      "name":"Peanut Butter Grape Smoothie",
+      "steps":[
+        {
+          "headline":"Place all of the ingredients in the blender.",
+          "description":""
+        },
+        {
+          "headline":"Blend on medium to high speed until the smoothie is your desired thickness.",
+          "description":""
+        },
+        {
+          "headline":"Serve immediately on a hot day.",
+          "description":"Garnish with extra chopped grapes or whipped cream. Enjoy!"
+        }
+      ]
+    },
+    {
+      "name":"Strawberry Grape Smoothie",
+      "steps":[
+        {
+          "headline":"Wash the grapes and dry them on a clean kitchen towel or paper towel.",
+          "description":""
+        },
+        {
+          "headline":"Place all of the ingredients in the blender.",
+          "description":""
+        },
+        {
+          "headline":"Blend on medium to high speed until the smoothie is your desired thickness.",
+          "description":""
+        },
+        {
+          "headline":"Serve immediately on a hot day.",
+          "description":"Garnish with extra chopped grapes or whipped cream. Enjoy!"
+        }
+      ]
+    }
+  ],
+  "text":" Simple Grape Smoothie Wash the grapes and dry them on a clean kitchen towel or paper towel.  Place all of the ingredients in the blender.  Blend on medium to high speed until the smoothie is your desired thickness.  Serve immediately on a hot day. Garnish with extra chopped grapes or whipped cream. Enjoy! Banana Grape Smoothie Wash the grapes and dry them on a clean kitchen towel or paper towel.  Blend the banana and yogurt on high speed for about two minutes.  Add the milk and grapes. Blend again. Serve immediately on a hot day. Garnish with extra chopped grapes or whipped cream. Enjoy! Peanut Butter Grape Smoothie Place all of the ingredients in the blender.  Blend on medium to high speed until the smoothie is your desired thickness.  Serve immediately on a hot day. Garnish with extra chopped grapes or whipped cream. Enjoy! Strawberry Grape Smoothie Wash the grapes and dry them on a clean kitchen towel or paper towel.  Place all of the ingredients in the blender.  Blend on medium to high speed until the smoothie is your desired thickness.  Serve immediately on a hot day. Garnish with extra chopped grapes or whipped cream. Enjoy!",
+  "sentences":[
+    " Simple Grape Smoothie Wash the grapes and dry them on a clean kitchen towel or paper towel.",
+    "Place all of the ingredients in the blender.",
+    "Blend on medium to high speed until the smoothie is your desired thickness.",
+    "Serve immediately on a hot day.",
+    "Garnish with extra chopped grapes or whipped cream.",
+    "Enjoy!",
+    "Banana Grape Smoothie Wash the grapes and dry them on a clean kitchen towel or paper towel.",
+    "Blend the banana and yogurt on high speed for about two minutes.",
+    "Add the milk and grapes.",
+    "Blend again.",
+    "Serve immediately on a hot day.",
+    "Garnish with extra chopped grapes or whipped cream.",
+    "Enjoy!",
+    "Peanut Butter Grape Smoothie Place all of the ingredients in the blender.",
+    "Blend on medium to high speed until the smoothie is your desired thickness.",
+    "Serve immediately on a hot day.",
+    "Garnish with extra chopped grapes or whipped cream.",
+    "Enjoy!",
+    "Strawberry Grape Smoothie Wash the grapes and dry them on a clean kitchen towel or paper towel.",
+    "Place all of the ingredients in the blender.",
+    "Blend on medium to high speed until the smoothie is your desired thickness.",
+    "Serve immediately on a hot day.",
+    "Garnish with extra chopped grapes or whipped cream.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Electric blender",
+    "Cup"
+  ],
+  "tyn_model":[
+    "grapes",
+    "whipped cream",
+    "blender",
+    "kitchen towel",
+    "banana grape smoothie",
+    "banana",
+    "yogurt",
+    "milk",
+    "peanut butter grape smoothie",
+    "strawberry grape smoothie"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1,
+    "f1":0.1666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1,
+    "f1":0.1666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

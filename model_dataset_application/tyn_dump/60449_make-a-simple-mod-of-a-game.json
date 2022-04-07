@@ -1,0 +1,70 @@
+{
+  "title":"How to Make a Simple Mod of a Game",
+  "url":"https://www.wikihow.com/Make-a-Simple-Mod-of-a-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "steps":[
+    {
+      "headline":"Locate the game folder, which is usually in \"C:\\Program Files\", and find common file types to replace.",
+      "description":""
+    },
+    {
+      "headline":"Use Notepad or another text editor to modify an .ini file (e.g.",
+      "description":"gunAmmo(26) to gunAmmo(255)). Some .dat * .cfg files can also be modified, but don't try it if you see a bunch of funny symbols"
+    },
+    {
+      "headline":"Use Paint or another graphics editor to modify image files.",
+      "description":"These include files with the extensions .bmp (bitmap), .gif (Graphics Interchange Format), .png (portable network graphics), and .jpeg (Joint Photographic Experts Group), among others. Usually these image files are textures to be mapped to certain surfaces or pictures to be used on the game's intro or setup screens."
+    },
+    {
+      "headline":"Replace .wav (wave), .mp3 (mpeg3), and .ogg (ogg vorbis) sound and music files with your own.",
+      "description":"These are audio files that are used for music tracks or sound effects inside a game."
+    }
+  ],
+  "text":" Locate the game folder, which is usually in \"C:\\Program Files\", and find common file types to replace.  Use Notepad or another text editor to modify an .ini file (e.g. gunAmmo(26) to gunAmmo(255)). Some .dat * .cfg files can also be modified, but don't try it if you see a bunch of funny symbols Use Paint or another graphics editor to modify image files. These include files with the extensions .bmp (bitmap), .gif (Graphics Interchange Format), .png (portable network graphics), and .jpeg (Joint Photographic Experts Group), among others. Usually these image files are textures to be mapped to certain surfaces or pictures to be used on the game's intro or setup screens. Replace .wav (wave), .mp3 (mpeg3), and .ogg (ogg vorbis) sound and music files with your own. These are audio files that are used for music tracks or sound effects inside a game.",
+  "sentences":[
+    " Locate the game folder, which is usually in \"C:\\Program Files\", and find common file types to replace.",
+    "Use Notepad or another text editor to modify an .ini file (e.g.",
+    "gunAmmo(26) to gunAmmo(255)).",
+    "Some .dat * .cfg files can also be modified, but don't try it if you see a bunch of funny symbols Use Paint or another graphics editor to modify image files.",
+    "These include files with the extensions .bmp (bitmap), .gif (Graphics Interchange Format), .png (portable network graphics), and .jpeg (Joint Photographic Experts Group), among others.",
+    "Usually these image files are textures to be mapped to certain surfaces or pictures to be used on the game's intro or setup screens.",
+    "Replace .wav (wave), .mp3 (mpeg3), and .ogg (ogg vorbis) sound and music files with your own.",
+    "These are audio files that are used for music tracks or sound effects inside a game."
+  ],
+  "tyn_section":[
+    "Text Editor for .ini files. Notepad is fine.",
+    "A basic knowledge of programming helps.",
+    "Picture Program for .bmp, .png, .gif, and other picture file formats. Paint works well.A good photo and image editor that's free is Gimp and another, more featured but paid, is Photoshop.",
+    "Program such as Windows Media Player for ripping music."
+  ],
+  "tyn_model":[
+    "notepad",
+    "paint",
+    "graphics editor"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

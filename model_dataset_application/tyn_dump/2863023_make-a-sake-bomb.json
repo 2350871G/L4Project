@@ -1,0 +1,128 @@
+{
+  "title":"How to Make a Sake Bomb",
+  "url":"https://www.wikihow.com/Make-a-Sake-Bomb",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Cocktails"
+  ],
+  "methods":[
+    {
+      "name":"Making the sake bomb",
+      "steps":[
+        {
+          "headline":"Pour beer into a tall glass.",
+          "description":"Pour about the same amount as would fit into a shot glass."
+        },
+        {
+          "headline":"Pour one shot of sake into the shot glass.",
+          "description":"Whether or not you warm it or chill it first is personal preference. You might like to experiment to work out which you prefer."
+        },
+        {
+          "headline":"Place two chopsticks parallel, moving out slightly to an elongated V shape on top of the tall glass.",
+          "description":"Where the chopsticks sit over the center of the glass, the distance should be narrow enough to balance the shot glass in place."
+        },
+        {
+          "headline":"Place the shot glass with sake on the chopsticks in the center over the tall glass.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Drinking the sake bomb",
+      "steps":[
+        {
+          "headline":"Count to three.",
+          "description":"It can be done in English but it's most authentic if done in Japanese, which is simply ichi, ni, san. Some people finish by shouting \"Sake bomb!\" or \"Kampai!\". (Kampai means something like \"Cheers\" in Japanese.) Another chant is simply \"sake, sake, sake! \"."
+        },
+        {
+          "headline":"Bang both hands or fists down, either side of the glass.",
+          "description":"This needs to be hard enough to dislodge the shot glass but not so hard you injure yourself!"
+        },
+        {
+          "headline":"Watch the shot glass descend into the beer.",
+          "description":"Once it lands and the beer starts frothing, drink fast! Get it all down in one go."
+        },
+        {
+          "headline":"Coordinate with a mate.",
+          "description":"If you are with someone else who is having a sake bomb, try to time the table banging at exactly the same time and drink down your own bombs at the same time. It's just more fun that way!"
+        },
+        {
+          "headline":"If you want to drink a sake bomb without banging the table, that's okay too:",
+          "description":"Forget the chopsticks. Simply drop the shot glass of sake straight into the beer. Drink quickly."
+        },
+        {
+          "headline":"Finished.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Making the sake bomb Pour beer into a tall glass. Pour about the same amount as would fit into a shot glass. Pour one shot of sake into the shot glass. Whether or not you warm it or chill it first is personal preference. You might like to experiment to work out which you prefer. Place two chopsticks parallel, moving out slightly to an elongated V shape on top of the tall glass. Where the chopsticks sit over the center of the glass, the distance should be narrow enough to balance the shot glass in place. Place the shot glass with sake on the chopsticks in the center over the tall glass.  Drinking the sake bomb Count to three. It can be done in English but it's most authentic if done in Japanese, which is simply ichi, ni, san. Some people finish by shouting \"Sake bomb!\" or \"Kampai!\". (Kampai means something like \"Cheers\" in Japanese.) Another chant is simply \"sake, sake, sake! \". Bang both hands or fists down, either side of the glass. This needs to be hard enough to dislodge the shot glass but not so hard you injure yourself! Watch the shot glass descend into the beer. Once it lands and the beer starts frothing, drink fast! Get it all down in one go. Coordinate with a mate. If you are with someone else who is having a sake bomb, try to time the table banging at exactly the same time and drink down your own bombs at the same time. It's just more fun that way! If you want to drink a sake bomb without banging the table, that's okay too: Forget the chopsticks. Simply drop the shot glass of sake straight into the beer. Drink quickly. Finished. ",
+  "sentences":[
+    " Making the sake bomb Pour beer into a tall glass.",
+    "Pour about the same amount as would fit into a shot glass.",
+    "Pour one shot of sake into the shot glass.",
+    "Whether or not you warm it or chill it first is personal preference.",
+    "You might like to experiment to work out which you prefer.",
+    "Place two chopsticks parallel, moving out slightly to an elongated V shape on top of the tall glass.",
+    "Where the chopsticks sit over the center of the glass, the distance should be narrow enough to balance the shot glass in place.",
+    "Place the shot glass with sake on the chopsticks in the center over the tall glass.",
+    "Drinking the sake bomb Count to three.",
+    "It can be done in English but it's most authentic if done in Japanese, which is simply ichi, ni, san.",
+    "Some people finish by shouting \"Sake bomb!\"",
+    "or \"Kampai!\".",
+    "(Kampai means something like \"Cheers\" in Japanese.)",
+    "Another chant is simply \"sake, sake, sake!",
+    "\".",
+    "Bang both hands or fists down, either side of the glass.",
+    "This needs to be hard enough to dislodge the shot glass but not so hard you injure yourself!",
+    "Watch the shot glass descend into the beer.",
+    "Once it lands and the beer starts frothing, drink fast!",
+    "Get it all down in one go.",
+    "Coordinate with a mate.",
+    "If you are with someone else who is having a sake bomb, try to time the table banging at exactly the same time and drink down your own bombs at the same time.",
+    "It's just more fun that way!",
+    "If you want to drink a sake bomb without banging the table, that's okay too: Forget the chopsticks.",
+    "Simply drop the shot glass of sake straight into the beer.",
+    "Drink quickly.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Tall beer glass",
+    "Shot glass",
+    "Chopsticks",
+    "Cloth or bar towel for cleaning up any mess"
+  ],
+  "tyn_model":[
+    "shot glass",
+    "sake bomb",
+    "beer",
+    "tall glass",
+    "sake",
+    "chopsticks"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.6666666667,
+    "f1":0.7058823529
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6
+  }
+}

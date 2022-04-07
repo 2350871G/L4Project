@@ -1,0 +1,122 @@
+{
+  "title":"How to Make Poorman Pancakes",
+  "url":"https://www.wikihow.com/Make-Poorman-Pancakes",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Pancakes"
+  ],
+  "steps":[
+    {
+      "headline":"Pour the flour into a medium sized bowl.",
+      "description":""
+    },
+    {
+      "headline":"Put the sugar into the bowl with the flour.",
+      "description":""
+    },
+    {
+      "headline":"Pour the water into the bowl.",
+      "description":"Do this carefully to make sure the sugar and flour don't spill."
+    },
+    {
+      "headline":"Stir the flour, sugar, and water together.",
+      "description":"Until it all looks soft and smooth. Avoid stirring for too long, the mixture will become heavy."
+    },
+    {
+      "headline":"Put the pan on the stove.",
+      "description":"Set the stove to medium heat and wait until the pan starts to heat up. Add margarine to the pan (if desired) to stop the pancake batter from sticking."
+    },
+    {
+      "headline":"Pour some of the batter onto the pan.",
+      "description":"Try to make it look like a circular or oval-like shape. Wait for 1-2 minutes for it to cook. You will know that it is cooked when bubbles start to form around the pancake. Each side should be golden brown once it's cooked all the way."
+    },
+    {
+      "headline":"Pour the batter on the pan.",
+      "description":"Doing this with a bottle of mayo or tomato sauce is recommended. The batter on the pan will even out the pancake shape that way."
+    },
+    {
+      "headline":"Scoop the pancake out and place it on a plate once it has cooked all the way.",
+      "description":"Continue cooking with the remaining batter until the bowl is empty."
+    },
+    {
+      "headline":"Place the pancakes on a plate and leave to cool.",
+      "description":"Add maple syrup, peanut butter, etc. to them."
+    },
+    {
+      "headline":"Finished.",
+      "description":"Enjoy!"
+    }
+  ],
+  "text":" Pour the flour into a medium sized bowl.  Put the sugar into the bowl with the flour.  Pour the water into the bowl. Do this carefully to make sure the sugar and flour don't spill. Stir the flour, sugar, and water together. Until it all looks soft and smooth. Avoid stirring for too long, the mixture will become heavy. Put the pan on the stove. Set the stove to medium heat and wait until the pan starts to heat up. Add margarine to the pan (if desired) to stop the pancake batter from sticking. Pour some of the batter onto the pan. Try to make it look like a circular or oval-like shape. Wait for 1-2 minutes for it to cook. You will know that it is cooked when bubbles start to form around the pancake. Each side should be golden brown once it's cooked all the way. Pour the batter on the pan. Doing this with a bottle of mayo or tomato sauce is recommended. The batter on the pan will even out the pancake shape that way. Scoop the pancake out and place it on a plate once it has cooked all the way. Continue cooking with the remaining batter until the bowl is empty. Place the pancakes on a plate and leave to cool. Add maple syrup, peanut butter, etc. to them. Finished. Enjoy!",
+  "sentences":[
+    " Pour the flour into a medium sized bowl.",
+    "Put the sugar into the bowl with the flour.",
+    "Pour the water into the bowl.",
+    "Do this carefully to make sure the sugar and flour don't spill.",
+    "Stir the flour, sugar, and water together.",
+    "Until it all looks soft and smooth.",
+    "Avoid stirring for too long, the mixture will become heavy.",
+    "Put the pan on the stove.",
+    "Set the stove to medium heat and wait until the pan starts to heat up.",
+    "Add margarine to the pan (if desired) to stop the pancake batter from sticking.",
+    "Pour some of the batter onto the pan.",
+    "Try to make it look like a circular or oval-like shape.",
+    "Wait for 1-2 minutes for it to cook.",
+    "You will know that it is cooked when bubbles start to form around the pancake.",
+    "Each side should be golden brown once it's cooked all the way.",
+    "Pour the batter on the pan.",
+    "Doing this with a bottle of mayo or tomato sauce is recommended.",
+    "The batter on the pan will even out the pancake shape that way.",
+    "Scoop the pancake out and place it on a plate once it has cooked all the way.",
+    "Continue cooking with the remaining batter until the bowl is empty.",
+    "Place the pancakes on a plate and leave to cool.",
+    "Add maple syrup, peanut butter, etc.",
+    "to them.",
+    "Finished.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Pan",
+    "Medium sized bowl",
+    "Stovetop",
+    "Spoon",
+    "Spatula"
+  ],
+  "tyn_model":[
+    "flour",
+    "sugar",
+    "bowl",
+    "water",
+    "stove",
+    "plate",
+    "medium sized bowl",
+    "margarine",
+    "pan",
+    "mayo",
+    "tomato sauce",
+    "maple syrup",
+    "peanut butter"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222,
+    "avg_pos":0.6153846154
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.2307692308,
+    "f1":0.2926829268
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.1538461538,
+    "f1":0.2222222222
+  }
+}

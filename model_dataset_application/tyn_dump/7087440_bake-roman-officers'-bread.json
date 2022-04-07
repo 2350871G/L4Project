@@ -1,0 +1,114 @@
+{
+  "title":"How to Bake Roman Officers' Bread",
+  "url":"https://www.wikihow.com/Bake-Roman-Officers%27-Bread",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Breads"
+  ],
+  "steps":[
+    {
+      "headline":"Mix the dough ingredients in a mixing bowl.",
+      "description":"Mix by hand, using a wire whisk."
+    },
+    {
+      "headline":"Start to make the fermentation liquid.",
+      "description":"Use a resealable glass/container with a volume of 350 mL (about 1 1/2 cups)."
+    },
+    {
+      "headline":"Add lukewarm water to a separate bowl.",
+      "description":"Add the amount of fresh yeast (or instant yeast) suitable for 250 g flour. Dissolve this together with add two heaped teaspoons full of sugar (the original sweetener was honey, as sugar was unknown in Roman times)."
+    },
+    {
+      "headline":"Add the liquid to the flour mix and stir.",
+      "description":"You can use a kneading hook, preferably with a kitchen mixing machine, for about five minutes. Or, this can be done by hand."
+    },
+    {
+      "headline":"Allow the dough to ferment for one to two hours, covered in a bowl with a kitchen towel.",
+      "description":""
+    },
+    {
+      "headline":"Do handwork.",
+      "description":"Knead and treat the dough on a kitchen plank, covered with flour, to avoid having the dough stick on your hands."
+    },
+    {
+      "headline":"Divide the roll-shaped dough into two pieces.",
+      "description":"Each piece will form one whole bread."
+    },
+    {
+      "headline":"Take two flat oven pans, covered with baking paper.",
+      "description":"Place in the oven and bake for about 30 minutes at 175\u00b0C (about 350\u00b0F). Baking time is when using a fan oven."
+    }
+  ],
+  "text":" Mix the dough ingredients in a mixing bowl. Mix by hand, using a wire whisk. Start to make the fermentation liquid. Use a resealable glass/container with a volume of 350 mL (about 1 1/2 cups). Add lukewarm water to a separate bowl. Add the amount of fresh yeast (or instant yeast) suitable for 250 g flour. Dissolve this together with add two heaped teaspoons full of sugar (the original sweetener was honey, as sugar was unknown in Roman times). Add the liquid to the flour mix and stir. You can use a kneading hook, preferably with a kitchen mixing machine, for about five minutes. Or, this can be done by hand. Allow the dough to ferment for one to two hours, covered in a bowl with a kitchen towel.  Do handwork. Knead and treat the dough on a kitchen plank, covered with flour, to avoid having the dough stick on your hands. Divide the roll-shaped dough into two pieces. Each piece will form one whole bread. Take two flat oven pans, covered with baking paper. Place in the oven and bake for about 30 minutes at 175\u00b0C (about 350\u00b0F). Baking time is when using a fan oven.",
+  "sentences":[
+    " Mix the dough ingredients in a mixing bowl.",
+    "Mix by hand, using a wire whisk.",
+    "Start to make the fermentation liquid.",
+    "Use a resealable glass/container with a volume of 350 mL (about 1 1/2 cups).",
+    "Add lukewarm water to a separate bowl.",
+    "Add the amount of fresh yeast (or instant yeast) suitable for 250 g flour.",
+    "Dissolve this together with add two heaped teaspoons full of sugar (the original sweetener was honey, as sugar was unknown in Roman times).",
+    "Add the liquid to the flour mix and stir.",
+    "You can use a kneading hook, preferably with a kitchen mixing machine, for about five minutes.",
+    "Or, this can be done by hand.",
+    "Allow the dough to ferment for one to two hours, covered in a bowl with a kitchen towel.",
+    "Do handwork.",
+    "Knead and treat the dough on a kitchen plank, covered with flour, to avoid having the dough stick on your hands.",
+    "Divide the roll-shaped dough into two pieces.",
+    "Each piece will form one whole bread.",
+    "Take two flat oven pans, covered with baking paper.",
+    "Place in the oven and bake for about 30 minutes at 175\u00b0C (about 350\u00b0F).",
+    "Baking time is when using a fan oven."
+  ],
+  "tyn_section":[
+    "2 mixing bowls",
+    "Mixing implements",
+    "Kitchen mixing machine with dough hook (optional but helpful)",
+    "Kitchen towel",
+    "Flat oven pans/sheets",
+    "Baking/parchment paper",
+    "Oven mitts"
+  ],
+  "tyn_model":[
+    "flour",
+    "bowl",
+    "sugar",
+    "mixing bowl",
+    "wire whisk",
+    "resealable glass",
+    "water",
+    "fresh yeast",
+    "instant yeast",
+    "honey",
+    "kneading hook",
+    "kitchen towel",
+    "kitchen plank",
+    "oven pans",
+    "baking paper",
+    "oven",
+    "fan oven"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.0588235294,
+    "f1":0.0833333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2857142857,
+    "p":0.1176470588,
+    "f1":0.1666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.7142857143,
+    "p":0.4117647059,
+    "f1":0.5223880597
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.0588235294,
+    "f1":0.0833333333
+  }
+}

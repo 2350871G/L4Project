@@ -1,0 +1,75 @@
+{
+  "title":"How to Make Gingko Tea",
+  "url":"https://www.wikihow.com/Make-Gingko-Tea",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Tea",
+    "Herbal Tea"
+  ],
+  "steps":[
+    {
+      "headline":"Place the leaves into a bowl.",
+      "description":""
+    },
+    {
+      "headline":"Pour the hot water over the leaves.",
+      "description":""
+    },
+    {
+      "headline":"Steep for 5 to 7 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Strain and pour into the teacup.",
+      "description":"Drink & enjoy\nTo sweeten, add honey or lemon juice."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Place the leaves into a bowl.  Pour the hot water over the leaves.  Steep for 5 to 7 minutes.  Strain and pour into the teacup. Drink & enjoy\nTo sweeten, add honey or lemon juice. Finished. ",
+  "sentences":[
+    " Place the leaves into a bowl.",
+    "Pour the hot water over the leaves.",
+    "Steep for 5 to 7 minutes.",
+    "Strain and pour into the teacup.",
+    "Drink & enjoy\nTo sweeten, add honey or lemon juice.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Ceramic or glass bowl for steeping",
+    "Tea kettle or electric jug for boiling water",
+    "Teacup",
+    "Strainer (use a tea strainer the size of the cup for easiest straining)"
+  ],
+  "tyn_model":[
+    "bowl",
+    "hot water",
+    "teacup",
+    "honey",
+    "lemon juice"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  }
+}

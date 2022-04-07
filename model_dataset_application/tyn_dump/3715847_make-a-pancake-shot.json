@@ -1,0 +1,89 @@
+{
+  "title":"How to Make a Pancake Shot",
+  "url":"https://www.wikihow.com/Make-a-Pancake-Shot",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks"
+  ],
+  "parts":[
+    {
+      "name":"Preparation",
+      "steps":[
+        {
+          "headline":"Pour the Frangelico into a shot glass.",
+          "description":""
+        },
+        {
+          "headline":"Pour the sugar into a small saucer or bowl.",
+          "description":""
+        },
+        {
+          "headline":"Serve with a lemon wedge on a side plate.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Drinking the pancake shot",
+      "steps":[
+        {
+          "headline":"Dip the lemon wedge into the sugar.",
+          "description":""
+        },
+        {
+          "headline":"Drink the Frangelico.",
+          "description":"At the same time, bite into the sugared lemon and suck."
+        },
+        {
+          "headline":"Repeat!",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Preparation Pour the Frangelico into a shot glass.  Pour the sugar into a small saucer or bowl.  Serve with a lemon wedge on a side plate.  Drinking the pancake shot Dip the lemon wedge into the sugar.  Drink the Frangelico. At the same time, bite into the sugared lemon and suck. Repeat! ",
+  "sentences":[
+    " Preparation Pour the Frangelico into a shot glass.",
+    "Pour the sugar into a small saucer or bowl.",
+    "Serve with a lemon wedge on a side plate.",
+    "Drinking the pancake shot Dip the lemon wedge into the sugar.",
+    "Drink the Frangelico.",
+    "At the same time, bite into the sugared lemon and suck.",
+    "Repeat!"
+  ],
+  "tyn_section":[
+    "Shot glass",
+    "Small saucer/bowl",
+    "Side plate"
+  ],
+  "tyn_model":[
+    "sugar",
+    "lemon",
+    "shot glass",
+    "small saucer",
+    "bowl",
+    "lemon wedge",
+    "frangelico"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2,
+    "avg_pos":0.2857142857
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.2857142857,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2
+  }
+}

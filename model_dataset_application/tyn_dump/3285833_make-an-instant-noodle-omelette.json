@@ -1,0 +1,122 @@
+{
+  "title":"How to Make an Instant Noodle Omelette",
+  "url":"https://www.wikihow.com/Make-an-Instant-Noodle-Omelette",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Eggs and Dairy",
+    "Omelets"
+  ],
+  "methods":[
+    {
+      "name":"Cooking the noodles",
+      "steps":[
+        {
+          "headline":"Bring the water to the boil.",
+          "description":""
+        },
+        {
+          "headline":"Add the noodles to the boiling water.",
+          "description":"Add the flavour sachet too."
+        },
+        {
+          "headline":"Cook the noodles according to the packet instructions.",
+          "description":""
+        },
+        {
+          "headline":"Remove from the heat once cooked.",
+          "description":"Drain well and set aside."
+        }
+      ]
+    },
+    {
+      "name":"Making the omelette",
+      "steps":[
+        {
+          "headline":"Crack the eggs into the bowl.",
+          "description":"Add the parsley, chopped tomato and celery pieces and mix well. Then add the noodles and mix through."
+        },
+        {
+          "headline":"Pour the butter or oil into the frying pan.",
+          "description":"Heat gently."
+        },
+        {
+          "headline":"Add the omelette mixture.",
+          "description":"Cook for 5 minutes without stirring."
+        },
+        {
+          "headline":"Sprinkle the cheese over the omelette.",
+          "description":"If possible, place the omelette under a grill to brown."
+        },
+        {
+          "headline":"Serve hot.",
+          "description":"Slide the omelette onto a serving plate. Serve with a side salad."
+        }
+      ]
+    }
+  ],
+  "text":" Cooking the noodles Bring the water to the boil.  Add the noodles to the boiling water. Add the flavour sachet too. Cook the noodles according to the packet instructions.  Remove from the heat once cooked. Drain well and set aside. Making the omelette Crack the eggs into the bowl. Add the parsley, chopped tomato and celery pieces and mix well. Then add the noodles and mix through. Pour the butter or oil into the frying pan. Heat gently. Add the omelette mixture. Cook for 5 minutes without stirring. Sprinkle the cheese over the omelette. If possible, place the omelette under a grill to brown. Serve hot. Slide the omelette onto a serving plate. Serve with a side salad.",
+  "sentences":[
+    " Cooking the noodles Bring the water to the boil.",
+    "Add the noodles to the boiling water.",
+    "Add the flavour sachet too.",
+    "Cook the noodles according to the packet instructions.",
+    "Remove from the heat once cooked.",
+    "Drain well and set aside.",
+    "Making the omelette Crack the eggs into the bowl.",
+    "Add the parsley, chopped tomato and celery pieces and mix well.",
+    "Then add the noodles and mix through.",
+    "Pour the butter or oil into the frying pan.",
+    "Heat gently.",
+    "Add the omelette mixture.",
+    "Cook for 5 minutes without stirring.",
+    "Sprinkle the cheese over the omelette.",
+    "If possible, place the omelette under a grill to brown.",
+    "Serve hot.",
+    "Slide the omelette onto a serving plate.",
+    "Serve with a side salad."
+  ],
+  "tyn_section":[
+    "Small saucepan",
+    "Colander",
+    "Mixing bowl",
+    "Fork",
+    "Nonstick frying pan (use a pan that can be placed on the hot plate and under the grill if possible)",
+    "Serving plate"
+  ],
+  "tyn_model":[
+    "water",
+    "noodles",
+    "eggs",
+    "bowl",
+    "parsley",
+    "tomato",
+    "celery",
+    "butter",
+    "oil",
+    "frying pan",
+    "grill",
+    "serving plate"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0833333333,
+    "f1":0.1111111111,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.0833333333,
+    "f1":0.1111111111
+  }
+}

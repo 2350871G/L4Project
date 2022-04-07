@@ -1,0 +1,135 @@
+{
+  "title":"How to Make Boureg",
+  "url":"https://www.wikihow.com/Make-Boureg",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Pastries"
+  ],
+  "steps":[
+    {
+      "headline":"Acquire the ingredients and materials needed to make boureg.",
+      "description":""
+    },
+    {
+      "headline":"Place the phyllo dough on a large sheet of saran on a large, flat surface.",
+      "description":"The sheets of dough should not be touching the counter or table top."
+    },
+    {
+      "headline":"Cover the stacked dough with another sufficiently large sheet of saran, followed by the damp towel to keep the phyllo dough from losing moisture during the following steps.",
+      "description":""
+    },
+    {
+      "headline":"Preheat oven to 380\u00b0F.",
+      "description":""
+    },
+    {
+      "headline":"Whisk the egg thoroughly in the mixing bowl.",
+      "description":""
+    },
+    {
+      "headline":"Add the shredded cheese into the bowl with the beaten egg, mixing until the egg is adequately and evenly distributed amongst the cheese.",
+      "description":""
+    },
+    {
+      "headline":"Heat the stick of butter over low heat in the small saucepan until melted.",
+      "description":"Clarifying is optional but not necessary. Remove from heat to cool."
+    },
+    {
+      "headline":"Fold a sheet of phyllo dough into roughly-four-inch squares as neatly as possible, using the melted butter as a binding agent.",
+      "description":""
+    },
+    {
+      "headline":"Scoop a tablespoon of the cheese and egg mixture into the center of the square of dough.",
+      "description":""
+    },
+    {
+      "headline":"Form a triangle by folding a corner of the square to its opposite corner.",
+      "description":"Butter should be used to seal the dough to itself. The fork can be used as a stamp to seal the edges further. Repeat this until ingredients are exhausted or the desired amount is reached."
+    },
+    {
+      "headline":"Place the parchment paper on the baking sheet.",
+      "description":"Arrange the triangles approximately two inches apart on the parchment."
+    },
+    {
+      "headline":"Brush one final layer of butter on top of each boureg and bake for approximately 30 minutes or until each appears golden brown.",
+      "description":""
+    },
+    {
+      "headline":"Remove the tray from the oven and let it sit for ten minutes before enjoying.",
+      "description":""
+    }
+  ],
+  "text":" Acquire the ingredients and materials needed to make boureg.  Place the phyllo dough on a large sheet of saran on a large, flat surface. The sheets of dough should not be touching the counter or table top. Cover the stacked dough with another sufficiently large sheet of saran, followed by the damp towel to keep the phyllo dough from losing moisture during the following steps.  Preheat oven to 380\u00b0F.  Whisk the egg thoroughly in the mixing bowl.  Add the shredded cheese into the bowl with the beaten egg, mixing until the egg is adequately and evenly distributed amongst the cheese.  Heat the stick of butter over low heat in the small saucepan until melted. Clarifying is optional but not necessary. Remove from heat to cool. Fold a sheet of phyllo dough into roughly-four-inch squares as neatly as possible, using the melted butter as a binding agent.  Scoop a tablespoon of the cheese and egg mixture into the center of the square of dough.  Form a triangle by folding a corner of the square to its opposite corner. Butter should be used to seal the dough to itself. The fork can be used as a stamp to seal the edges further. Repeat this until ingredients are exhausted or the desired amount is reached. Place the parchment paper on the baking sheet. Arrange the triangles approximately two inches apart on the parchment. Brush one final layer of butter on top of each boureg and bake for approximately 30 minutes or until each appears golden brown.  Remove the tray from the oven and let it sit for ten minutes before enjoying. ",
+  "sentences":[
+    " Acquire the ingredients and materials needed to make boureg.",
+    "Place the phyllo dough on a large sheet of saran on a large, flat surface.",
+    "The sheets of dough should not be touching the counter or table top.",
+    "Cover the stacked dough with another sufficiently large sheet of saran, followed by the damp towel to keep the phyllo dough from losing moisture during the following steps.",
+    "Preheat oven to 380\u00b0F.",
+    "Whisk the egg thoroughly in the mixing bowl.",
+    "Add the shredded cheese into the bowl with the beaten egg, mixing until the egg is adequately and evenly distributed amongst the cheese.",
+    "Heat the stick of butter over low heat in the small saucepan until melted.",
+    "Clarifying is optional but not necessary.",
+    "Remove from heat to cool.",
+    "Fold a sheet of phyllo dough into roughly-four-inch squares as neatly as possible, using the melted butter as a binding agent.",
+    "Scoop a tablespoon of the cheese and egg mixture into the center of the square of dough.",
+    "Form a triangle by folding a corner of the square to its opposite corner.",
+    "Butter should be used to seal the dough to itself.",
+    "The fork can be used as a stamp to seal the edges further.",
+    "Repeat this until ingredients are exhausted or the desired amount is reached.",
+    "Place the parchment paper on the baking sheet.",
+    "Arrange the triangles approximately two inches apart on the parchment.",
+    "Brush one final layer of butter on top of each boureg and bake for approximately 30 minutes or until each appears golden brown.",
+    "Remove the tray from the oven and let it sit for ten minutes before enjoying."
+  ],
+  "tyn_section":[
+    "Pastry brush",
+    "Baking sheet",
+    "Small saucepan",
+    "Parchment paper",
+    "Damp kitchen towel or rag",
+    "Saran wrap",
+    "Large mixing bowl",
+    "Tablespoon",
+    "Fork"
+  ],
+  "tyn_model":[
+    "butter",
+    "saran",
+    "oven",
+    "mixing bowl",
+    "bowl",
+    "egg",
+    "small saucepan",
+    "phyllo dough",
+    "cheese",
+    "fork",
+    "parchment paper",
+    "baking sheet",
+    "parchment",
+    "tray"
+  ],
+  "simple_metrics":{
+    "r":0.4444444444,
+    "p":0.2857142857,
+    "f1":0.347826087,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.5,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.5714285714,
+    "f1":0.6153846154
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5555555556,
+    "p":0.3571428571,
+    "f1":0.4347826087
+  }
+}

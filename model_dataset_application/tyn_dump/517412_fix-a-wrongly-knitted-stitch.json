@@ -1,0 +1,102 @@
+{
+  "title":"How to Fix a Wrongly Knitted Stitch",
+  "url":"https://www.wikihow.com/Fix-a-Wrongly-Knitted-Stitch",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Needlework",
+    "Knitting and Crochet",
+    "Knitting",
+    "Knitting Techniques"
+  ],
+  "methods":[
+    {
+      "name":"Dropping Method",
+      "steps":[
+        {
+          "headline":"Drop the stitch immediately above the one to be changed.",
+          "description":""
+        },
+        {
+          "headline":"Allow it to ladder down to this stitch.",
+          "description":""
+        },
+        {
+          "headline":"Use a crochet hook to work back up to the needle again.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Continuation Method",
+      "steps":[
+        {
+          "headline":"This is a good method if you are a ways a long and have just noticed that you have an incorrect stitch.",
+          "description":""
+        },
+        {
+          "headline":"Place a marker next to the incorrect stitch.",
+          "description":""
+        },
+        {
+          "headline":"Continue knitting in the pattern until you reach the incorrect stitch again.",
+          "description":""
+        },
+        {
+          "headline":"Pull the stitch above the column where the incorrect stitch is off the needle.",
+          "description":"Pull off the stitches until you get to the incorrect one. Correct with a crochet hook or your fingers, until the whole column of stitches is repaired."
+        },
+        {
+          "headline":"Place the stitch back onto the needle.",
+          "description":""
+        },
+        {
+          "headline":"Pat yourself on the back for fixing your mistake, and keep knitting.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Dropping Method Drop the stitch immediately above the one to be changed.  Allow it to ladder down to this stitch.  Use a crochet hook to work back up to the needle again.  Continuation Method This is a good method if you are a ways a long and have just noticed that you have an incorrect stitch.  Place a marker next to the incorrect stitch.  Continue knitting in the pattern until you reach the incorrect stitch again.  Pull the stitch above the column where the incorrect stitch is off the needle. Pull off the stitches until you get to the incorrect one. Correct with a crochet hook or your fingers, until the whole column of stitches is repaired. Place the stitch back onto the needle.  Pat yourself on the back for fixing your mistake, and keep knitting. ",
+  "sentences":[
+    " Dropping Method Drop the stitch immediately above the one to be changed.",
+    "Allow it to ladder down to this stitch.",
+    "Use a crochet hook to work back up to the needle again.",
+    "Continuation Method This is a good method if you are a ways a long and have just noticed that you have an incorrect stitch.",
+    "Place a marker next to the incorrect stitch.",
+    "Continue knitting in the pattern until you reach the incorrect stitch again.",
+    "Pull the stitch above the column where the incorrect stitch is off the needle.",
+    "Pull off the stitches until you get to the incorrect one.",
+    "Correct with a crochet hook or your fingers, until the whole column of stitches is repaired.",
+    "Place the stitch back onto the needle.",
+    "Pat yourself on the back for fixing your mistake, and keep knitting."
+  ],
+  "tyn_section":[
+    "Crochet hook"
+  ],
+  "tyn_model":[
+    "crochet hook",
+    "marker"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title":"How to Make an Easy Low Calorie Dessert",
+  "url":"https://www.wikihow.com/Make-an-Easy-Low-Calorie-Dessert",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets"
+  ],
+  "steps":[
+    {
+      "headline":"Boil approximately 1 cup of water.",
+      "description":""
+    },
+    {
+      "headline":"Pour gelatin mix into a large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Pour boiling water into a measuring cup.",
+      "description":"Measure out 2/3 of a cup."
+    },
+    {
+      "headline":"Pour the boiling water into the large bowl, stirring it into the gelatin.",
+      "description":"Keep stirring until gelatin is completely dissolved, about 2 minutes."
+    },
+    {
+      "headline":"Add 2 cups of whipped topping and two small containers of yogurt.",
+      "description":"Stir in with wire whisk until well blended."
+    },
+    {
+      "headline":"Spoon mixture into pie crust.",
+      "description":""
+    },
+    {
+      "headline":"Refrigerate for 4 hours or until firm.",
+      "description":""
+    },
+    {
+      "headline":"Top with remaining whipped topping just before serving.",
+      "description":""
+    }
+  ],
+  "text":" Boil approximately 1 cup of water.  Pour gelatin mix into a large bowl.  Pour boiling water into a measuring cup. Measure out 2/3 of a cup. Pour the boiling water into the large bowl, stirring it into the gelatin. Keep stirring until gelatin is completely dissolved, about 2 minutes. Add 2 cups of whipped topping and two small containers of yogurt. Stir in with wire whisk until well blended. Spoon mixture into pie crust.  Refrigerate for 4 hours or until firm.  Top with remaining whipped topping just before serving. ",
+  "sentences":[
+    " Boil approximately 1 cup of water.",
+    "Pour gelatin mix into a large bowl.",
+    "Pour boiling water into a measuring cup.",
+    "Measure out 2/3 of a cup.",
+    "Pour the boiling water into the large bowl, stirring it into the gelatin.",
+    "Keep stirring until gelatin is completely dissolved, about 2 minutes.",
+    "Add 2 cups of whipped topping and two small containers of yogurt.",
+    "Stir in with wire whisk until well blended.",
+    "Spoon mixture into pie crust.",
+    "Refrigerate for 4 hours or until firm.",
+    "Top with remaining whipped topping just before serving."
+  ],
+  "tyn_section":[
+    "wire whisk",
+    "large bowl"
+  ],
+  "tyn_model":[
+    "water",
+    "gelatin",
+    "large bowl",
+    "whipped topping",
+    "measuring cup",
+    "yogurt",
+    "wire whisk",
+    "pie crust"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.25,
+    "f1":0.4,
+    "avg_pos":0.75
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.25,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.25,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.25,
+    "f1":0.4
+  }
+}

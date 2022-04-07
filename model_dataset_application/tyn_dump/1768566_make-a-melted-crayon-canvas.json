@@ -1,0 +1,80 @@
+{
+  "title":"How to Make a Melted Crayon Canvas",
+  "url":"https://www.wikihow.com/Make-a-Melted-Crayon-Canvas",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Craft for Kids"
+  ],
+  "steps":[
+    {
+      "headline":"First, find your supplies.",
+      "description":"(List of supplies below) Make sure that you are working in an area that you don't mind getting dirty."
+    },
+    {
+      "headline":"Glue crayons onto the top of your canvas in rainbow order.",
+      "description":"Let the glue dry. This might take up to an hour."
+    },
+    {
+      "headline":"When your glue is dry, place your canvas against a wall so it's easier to make the melted wax drip downwards.",
+      "description":""
+    },
+    {
+      "headline":"Take your hair-dryer, turn it on it's highest setting, and blow-dry the crayons.",
+      "description":"The heat from the blow-dryer will make the wax drip down the canvas. This may take awhile."
+    },
+    {
+      "headline":"Once you're satisfied with your canvas, let the wax dry.",
+      "description":"It won't take too long. Hang up your masterpiece in a place where everybody will see it!"
+    }
+  ],
+  "text":" First, find your supplies. (List of supplies below) Make sure that you are working in an area that you don't mind getting dirty. Glue crayons onto the top of your canvas in rainbow order. Let the glue dry. This might take up to an hour. When your glue is dry, place your canvas against a wall so it's easier to make the melted wax drip downwards.  Take your hair-dryer, turn it on it's highest setting, and blow-dry the crayons. The heat from the blow-dryer will make the wax drip down the canvas. This may take awhile. Once you're satisfied with your canvas, let the wax dry. It won't take too long. Hang up your masterpiece in a place where everybody will see it!",
+  "sentences":[
+    " First, find your supplies.",
+    "(List of supplies below) Make sure that you are working in an area that you don't mind getting dirty.",
+    "Glue crayons onto the top of your canvas in rainbow order.",
+    "Let the glue dry.",
+    "This might take up to an hour.",
+    "When your glue is dry, place your canvas against a wall so it's easier to make the melted wax drip downwards.",
+    "Take your hair-dryer, turn it on it's highest setting, and blow-dry the crayons.",
+    "The heat from the blow-dryer will make the wax drip down the canvas.",
+    "This may take awhile.",
+    "Once you're satisfied with your canvas, let the wax dry.",
+    "It won't take too long.",
+    "Hang up your masterpiece in a place where everybody will see it!"
+  ],
+  "tyn_section":[
+    "A Hair-Dryer (Blow-Dryer)",
+    "Crayons",
+    "A Canvas",
+    "Glue"
+  ],
+  "tyn_model":[
+    "crayons",
+    "glue",
+    "wax",
+    "hair-dryer",
+    "blow-dryer"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.4,
+    "f1":0.4444444444,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.4,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.6,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.4,
+    "f1":0.4444444444
+  }
+}

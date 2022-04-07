@@ -1,0 +1,134 @@
+{
+  "title":"How to Make Your Own Homemade Cereal",
+  "url":"https://www.wikihow.com/Make-Your-Own-Homemade-Cereal",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Breakfast Cereal"
+  ],
+  "methods":[
+    {
+      "name":"Making Granola",
+      "steps":[
+        {
+          "headline":"Preheat your oven to 250 \u00b0F (120 \u00b0C).",
+          "description":""
+        },
+        {
+          "headline":"Mix the nuts, oats, coconut, and brown sugar in a large bowl.",
+          "description":"Mix thoroughly to ensure that there are no clumps of the same ingredient."
+        },
+        {
+          "headline":"In a different bowl, mix the maple syrup (or honey), oil, and salt.",
+          "description":""
+        },
+        {
+          "headline":"Pour the syrup mixture into the oats mixture.",
+          "description":"Combine well."
+        },
+        {
+          "headline":"Spread the mixture into two shallow pans.",
+          "description":"Place in the preheated oven for 1 hour and 15 minutes."
+        },
+        {
+          "headline":"Stir the mixture every 15 minutes.",
+          "description":"To help it brown evenly."
+        },
+        {
+          "headline":"Take the granola out of the oven.",
+          "description":"Pour it into a large bowl and allow it to cool. Add raisins (or your dried fruit of choice) and combine until the fruit is evenly mixed into the granola."
+        },
+        {
+          "headline":"Place in an airtight container.",
+          "description":"It should keep for 2-3 weeks."
+        }
+      ]
+    },
+    {
+      "name":"Making Muesli",
+      "steps":[
+        {
+          "headline":"Mix the oats, wheat germ, wheat bran, oat bran, raisins (or dried fruit), nuts, sugar and seeds in a large bowl.",
+          "description":""
+        },
+        {
+          "headline":"Combine all the ingredients and store in an airtight container.",
+          "description":"It will keep for 4-6 weeks in an airtight container."
+        },
+        {
+          "headline":"Finished.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Making Granola Preheat your oven to 250 \u00b0F (120 \u00b0C).  Mix the nuts, oats, coconut, and brown sugar in a large bowl. Mix thoroughly to ensure that there are no clumps of the same ingredient. In a different bowl, mix the maple syrup (or honey), oil, and salt.  Pour the syrup mixture into the oats mixture. Combine well. Spread the mixture into two shallow pans. Place in the preheated oven for 1 hour and 15 minutes. Stir the mixture every 15 minutes. To help it brown evenly. Take the granola out of the oven. Pour it into a large bowl and allow it to cool. Add raisins (or your dried fruit of choice) and combine until the fruit is evenly mixed into the granola. Place in an airtight container. It should keep for 2-3 weeks. Making Muesli Mix the oats, wheat germ, wheat bran, oat bran, raisins (or dried fruit), nuts, sugar and seeds in a large bowl.  Combine all the ingredients and store in an airtight container. It will keep for 4-6 weeks in an airtight container. Finished. ",
+  "sentences":[
+    " Making Granola Preheat your oven to 250 \u00b0F (120 \u00b0C).",
+    "Mix the nuts, oats, coconut, and brown sugar in a large bowl.",
+    "Mix thoroughly to ensure that there are no clumps of the same ingredient.",
+    "In a different bowl, mix the maple syrup (or honey), oil, and salt.",
+    "Pour the syrup mixture into the oats mixture.",
+    "Combine well.",
+    "Spread the mixture into two shallow pans.",
+    "Place in the preheated oven for 1 hour and 15 minutes.",
+    "Stir the mixture every 15 minutes.",
+    "To help it brown evenly.",
+    "Take the granola out of the oven.",
+    "Pour it into a large bowl and allow it to cool.",
+    "Add raisins (or your dried fruit of choice) and combine until the fruit is evenly mixed into the granola.",
+    "Place in an airtight container.",
+    "It should keep for 2-3 weeks.",
+    "Making Muesli Mix the oats, wheat germ, wheat bran, oat bran, raisins (or dried fruit), nuts, sugar and seeds in a large bowl.",
+    "Combine all the ingredients and store in an airtight container.",
+    "It will keep for 4-6 weeks in an airtight container.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Large Bowl",
+    "Medium Bowl",
+    "Oven",
+    "Airtight container"
+  ],
+  "tyn_model":[
+    "granola",
+    "oven",
+    "oats",
+    "large bowl",
+    "airtight container",
+    "nuts",
+    "raisins",
+    "coconut",
+    "brown sugar",
+    "maple syrup",
+    "honey",
+    "oil",
+    "salt",
+    "syrup",
+    "wheat germ",
+    "wheat bran",
+    "oat bran",
+    "sugar"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.1666666667,
+    "f1":0.2727272727,
+    "avg_pos":0.1666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.1666666667,
+    "f1":0.2727272727
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.1666666667,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.1666666667,
+    "f1":0.2727272727
+  }
+}

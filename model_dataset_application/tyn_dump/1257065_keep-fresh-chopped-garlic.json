@@ -1,0 +1,74 @@
+{
+  "title":"How to Keep Fresh Chopped Garlic",
+  "url":"https://www.wikihow.com/Keep-Fresh-Chopped-Garlic",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Herbs and Spices",
+    "Garlic"
+  ],
+  "steps":[
+    {
+      "headline":"Peel more garlic than the recipe requires.",
+      "description":"This will give you a supply for the next one or two meals."
+    },
+    {
+      "headline":"Mince or chop as usual.",
+      "description":""
+    },
+    {
+      "headline":"Place the excess garlic into a clean jar that has a lid.",
+      "description":"Cover with olive oil."
+    },
+    {
+      "headline":"Store in the refrigerator.",
+      "description":"Remove and add to dishes as needed."
+    },
+    {
+      "headline":"Use up within a week.",
+      "description":"Make a new batch the next time you're cooking with garlic."
+    }
+  ],
+  "text":" Peel more garlic than the recipe requires. This will give you a supply for the next one or two meals. Mince or chop as usual.  Place the excess garlic into a clean jar that has a lid. Cover with olive oil. Store in the refrigerator. Remove and add to dishes as needed. Use up within a week. Make a new batch the next time you're cooking with garlic.",
+  "sentences":[
+    " Peel more garlic than the recipe requires.",
+    "This will give you a supply for the next one or two meals.",
+    "Mince or chop as usual.",
+    "Place the excess garlic into a clean jar that has a lid.",
+    "Cover with olive oil.",
+    "Store in the refrigerator.",
+    "Remove and add to dishes as needed.",
+    "Use up within a week.",
+    "Make a new batch the next time you're cooking with garlic."
+  ],
+  "tyn_section":[
+    "Sterilised jar",
+    "Chopping board and knife or garlic crusher",
+    "Refrigerator"
+  ],
+  "tyn_model":[
+    "garlic",
+    "olive oil",
+    "refrigerator"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  }
+}

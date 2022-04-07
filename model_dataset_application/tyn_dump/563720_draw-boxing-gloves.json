@@ -1,0 +1,83 @@
+{
+  "title":"How to Draw Boxing Gloves",
+  "url":"https://www.wikihow.com/Draw-Boxing-Gloves",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Objects"
+  ],
+  "steps":[
+    {
+      "headline":"Draw an egg shape on your paper, but leave the top part open.",
+      "description":""
+    },
+    {
+      "headline":"Add an oval on the left side, draw it a little inside the first shape.",
+      "description":"This will be for the thumb."
+    },
+    {
+      "headline":"Now for the top part that is fixed on your wrist, draw a rectangular.",
+      "description":"This is the basic shape of your glove."
+    },
+    {
+      "headline":"Add some details.",
+      "description":"Make the glove more realistic by rounding the edges, try to give it a more flexible look."
+    },
+    {
+      "headline":"Repeat the first 4 steps for the second glove, the left one.",
+      "description":"You can position the next glove above or below the first glove, or on the same line."
+    },
+    {
+      "headline":"Erase all the guideline and refine it a bit if needed.",
+      "description":""
+    },
+    {
+      "headline":"Connect  them with laces and hang them on the wall.",
+      "description":""
+    }
+  ],
+  "text":" Draw an egg shape on your paper, but leave the top part open.  Add an oval on the left side, draw it a little inside the first shape. This will be for the thumb. Now for the top part that is fixed on your wrist, draw a rectangular. This is the basic shape of your glove. Add some details. Make the glove more realistic by rounding the edges, try to give it a more flexible look. Repeat the first 4 steps for the second glove, the left one. You can position the next glove above or below the first glove, or on the same line. Erase all the guideline and refine it a bit if needed.  Connect  them with laces and hang them on the wall. ",
+  "sentences":[
+    " Draw an egg shape on your paper, but leave the top part open.",
+    "Add an oval on the left side, draw it a little inside the first shape.",
+    "This will be for the thumb.",
+    "Now for the top part that is fixed on your wrist, draw a rectangular.",
+    "This is the basic shape of your glove.",
+    "Add some details.",
+    "Make the glove more realistic by rounding the edges, try to give it a more flexible look.",
+    "Repeat the first 4 steps for the second glove, the left one.",
+    "You can position the next glove above or below the first glove, or on the same line.",
+    "Erase all the guideline and refine it a bit if needed.",
+    "Connect  them with laces and hang them on the wall."
+  ],
+  "tyn_section":[
+    "Paper",
+    "Pen/pencil",
+    "Coloured pencils/pens (optional)"
+  ],
+  "tyn_model":[
+    "paper",
+    "laces"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  }
+}

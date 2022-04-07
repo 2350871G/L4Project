@@ -1,0 +1,111 @@
+{
+  "title":"How to Ice Paint",
+  "url":"https://www.wikihow.com/Ice-Paint",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts"
+  ],
+  "parts":[
+    {
+      "name":"Making the Paint Ice Cubes",
+      "steps":[
+        {
+          "headline":"Make the \"paint ice cubes\".",
+          "description":"Instead of putting water to freeze, use washable tempura liquid paint to fill the ice cube tray holes. Squirt paints of different colors into the holes of an ice tray."
+        },
+        {
+          "headline":"Place the ice cube tray in the freezer.",
+          "description":"Freeze for about thirty minutes, just to begin to harden the cubes."
+        },
+        {
+          "headline":"When each cube has nearly frozen, poke a craft (popsicle) stick in each cube.",
+          "description":"Let the cubes freeze for three hours (or until solid) or overnight."
+        }
+      ]
+    },
+    {
+      "name":"Ice Painting",
+      "steps":[
+        {
+          "headline":"Place the paint ice cubes in a bucket.",
+          "description":"Take them outside for your activity. It should only take about ten minutes or less for the cubes to warm up. Warming too long can cause the cubes to melt."
+        },
+        {
+          "headline":"Prepare to paint.",
+          "description":"Spread a big piece of paper or a poster outside on the sidewalk. Use the ice cubes as paintbrushes, spreading and moving the cubes across the page. Children love to move the cold ice and see how the paint goes on the paper!"
+        },
+        {
+          "headline":"Clean up when finished.",
+          "description":"When everyone is done ice painting, pick up the remaining ice cubes and place them in the bucket. The leftovers can be frozen again."
+        },
+        {
+          "headline":"Hang the paintings up to dry.",
+          "description":"You don't want to forget this fun activity! Place finished artwork in a picture frame, stick it on the fridge, or tape it on a wall."
+        }
+      ]
+    }
+  ],
+  "text":" Making the Paint Ice Cubes Make the \"paint ice cubes\". Instead of putting water to freeze, use washable tempura liquid paint to fill the ice cube tray holes. Squirt paints of different colors into the holes of an ice tray. Place the ice cube tray in the freezer. Freeze for about thirty minutes, just to begin to harden the cubes. When each cube has nearly frozen, poke a craft (popsicle) stick in each cube. Let the cubes freeze for three hours (or until solid) or overnight. Ice Painting Place the paint ice cubes in a bucket. Take them outside for your activity. It should only take about ten minutes or less for the cubes to warm up. Warming too long can cause the cubes to melt. Prepare to paint. Spread a big piece of paper or a poster outside on the sidewalk. Use the ice cubes as paintbrushes, spreading and moving the cubes across the page. Children love to move the cold ice and see how the paint goes on the paper! Clean up when finished. When everyone is done ice painting, pick up the remaining ice cubes and place them in the bucket. The leftovers can be frozen again. Hang the paintings up to dry. You don't want to forget this fun activity! Place finished artwork in a picture frame, stick it on the fridge, or tape it on a wall.",
+  "sentences":[
+    " Making the Paint Ice Cubes Make the \"paint ice cubes\".",
+    "Instead of putting water to freeze, use washable tempura liquid paint to fill the ice cube tray holes.",
+    "Squirt paints of different colors into the holes of an ice tray.",
+    "Place the ice cube tray in the freezer.",
+    "Freeze for about thirty minutes, just to begin to harden the cubes.",
+    "When each cube has nearly frozen, poke a craft (popsicle) stick in each cube.",
+    "Let the cubes freeze for three hours (or until solid) or overnight.",
+    "Ice Painting Place the paint ice cubes in a bucket.",
+    "Take them outside for your activity.",
+    "It should only take about ten minutes or less for the cubes to warm up.",
+    "Warming too long can cause the cubes to melt.",
+    "Prepare to paint.",
+    "Spread a big piece of paper or a poster outside on the sidewalk.",
+    "Use the ice cubes as paintbrushes, spreading and moving the cubes across the page.",
+    "Children love to move the cold ice and see how the paint goes on the paper!",
+    "Clean up when finished.",
+    "When everyone is done ice painting, pick up the remaining ice cubes and place them in the bucket.",
+    "The leftovers can be frozen again.",
+    "Hang the paintings up to dry.",
+    "You don't want to forget this fun activity!",
+    "Place finished artwork in a picture frame, stick it on the fridge, or tape it on a wall."
+  ],
+  "tyn_section":[
+    "Ice cube tray",
+    "Washable tempura liquid paint in varying colors (or similar paints)",
+    "Craft (popsicle) sticks",
+    "Paper to paint on"
+  ],
+  "tyn_model":[
+    "ice cubes",
+    "ice cube tray",
+    "ice painting",
+    "bucket",
+    "tempura liquid paint",
+    "paints",
+    "ice tray",
+    "freezer",
+    "ice",
+    "picture frame"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429,
+    "avg_pos":0.1
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.3,
+    "f1":0.2727272727
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  }
+}

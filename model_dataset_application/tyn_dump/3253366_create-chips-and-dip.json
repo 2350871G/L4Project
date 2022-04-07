@@ -1,0 +1,156 @@
+{
+  "title":"How to Create Chips and Dip",
+  "url":"https://www.wikihow.com/Create-Chips-and-Dip",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Parties",
+    "Party Snacks",
+    "Potato Chip Snacks"
+  ],
+  "methods":[
+    {
+      "name":"For the Chips:",
+      "steps":[
+        {
+          "headline":"Pre-heat the oven to 200 degrees, before-hand.",
+          "description":""
+        },
+        {
+          "headline":"Wash the potatoes.",
+          "description":"Make sure they are clean and any other bits which stick out have been peeled. Though, leave the skin on if you can!"
+        },
+        {
+          "headline":"Cut them.",
+          "description":"Cut the potatoes in half, half again, and half again! Cut all potatoes into eighths. If your potato is small, then cut less, if it is big, then cut some more pieces."
+        },
+        {
+          "headline":"Cover the tray in foil.",
+          "description":"You need to this so that the food doesn't stick. Add the potatoes into the tray."
+        },
+        {
+          "headline":"Add the oil, soya sauce, salt, mustard and 2tsp of black pepper.",
+          "description":"With your CLEAN hands, mix the potatoes with all the ingredients and make sure each chip gets an even coating of everything."
+        },
+        {
+          "headline":"Put the tray in when the oven is hot enough.",
+          "description":"Leave for 30 minutes."
+        },
+        {
+          "headline":"Turn the potatoes over so that the other side can bake.",
+          "description":"Wait another 15 minutes."
+        },
+        {
+          "headline":"After the time is up, take them out and leave to cool!",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"For the Dip:",
+      "steps":[
+        {
+          "headline":"In a bowl, add all the sour cream.",
+          "description":""
+        },
+        {
+          "headline":"With the scissors, cut the chives over the bowl into tiny fragments.",
+          "description":"This may make your eyes water, so beware!!!!!! !"
+        },
+        {
+          "headline":"With a spoon, mix everything together.",
+          "description":"If you want to add the slightest bit of green food colouring, you can! But only a slight amount! Mix a bit more."
+        },
+        {
+          "headline":"Put in the fridge to until serving time.",
+          "description":""
+        },
+        {
+          "headline":"Finished.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" For the Chips: Pre-heat the oven to 200 degrees, before-hand.  Wash the potatoes. Make sure they are clean and any other bits which stick out have been peeled. Though, leave the skin on if you can! Cut them. Cut the potatoes in half, half again, and half again! Cut all potatoes into eighths. If your potato is small, then cut less, if it is big, then cut some more pieces. Cover the tray in foil. You need to this so that the food doesn't stick. Add the potatoes into the tray. Add the oil, soya sauce, salt, mustard and 2tsp of black pepper. With your CLEAN hands, mix the potatoes with all the ingredients and make sure each chip gets an even coating of everything. Put the tray in when the oven is hot enough. Leave for 30 minutes. Turn the potatoes over so that the other side can bake. Wait another 15 minutes. After the time is up, take them out and leave to cool!  For the Dip: In a bowl, add all the sour cream.  With the scissors, cut the chives over the bowl into tiny fragments. This may make your eyes water, so beware!!!!!! ! With a spoon, mix everything together. If you want to add the slightest bit of green food colouring, you can! But only a slight amount! Mix a bit more. Put in the fridge to until serving time.  Finished. ",
+  "sentences":[
+    " For the Chips: Pre-heat the oven to 200 degrees, before-hand.",
+    "Wash the potatoes.",
+    "Make sure they are clean and any other bits which stick out have been peeled.",
+    "Though, leave the skin on if you can!",
+    "Cut them.",
+    "Cut the potatoes in half, half again, and half again!",
+    "Cut all potatoes into eighths.",
+    "If your potato is small, then cut less, if it is big, then cut some more pieces.",
+    "Cover the tray in foil.",
+    "You need to this so that the food doesn't stick.",
+    "Add the potatoes into the tray.",
+    "Add the oil, soya sauce, salt, mustard and 2tsp of black pepper.",
+    "With your CLEAN hands, mix the potatoes with all the ingredients and make sure each chip gets an even coating of everything.",
+    "Put the tray in when the oven is hot enough.",
+    "Leave for 30 minutes.",
+    "Turn the potatoes over so that the other side can bake.",
+    "Wait another 15 minutes.",
+    "After the time is up, take them out and leave to cool!",
+    "For the Dip: In a bowl, add all the sour cream.",
+    "With the scissors, cut the chives over the bowl into tiny fragments.",
+    "This may make your eyes water, so beware!!!!!!",
+    "!",
+    "With a spoon, mix everything together.",
+    "If you want to add the slightest bit of green food colouring, you can!",
+    "But only a slight amount!",
+    "Mix a bit more.",
+    "Put in the fridge to until serving time.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Baking Tray",
+    "Foil",
+    "Hands!",
+    "Oven",
+    "Bowl",
+    "Scissors",
+    "Spoon",
+    "Chopping Board",
+    "Knife",
+    "Spatula"
+  ],
+  "tyn_model":[
+    "potatoes",
+    "tray",
+    "oven",
+    "bowl",
+    "potato",
+    "foil",
+    "oil",
+    "soya sauce",
+    "salt",
+    "mustard",
+    "black pepper",
+    "sour cream",
+    "scissors",
+    "chives",
+    "spoon",
+    "fridge"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.3125,
+    "f1":0.3846153846,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.375,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.375,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3125,
+    "f1":0.3846153846
+  }
+}

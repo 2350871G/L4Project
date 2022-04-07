@@ -1,0 +1,141 @@
+{
+  "title":"How to Draw a Horse Head",
+  "url":"https://www.wikihow.com/Draw-a-Horse-Head",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing"
+  ],
+  "methods":[
+    {
+      "name":"A Horse Head",
+      "steps":[
+        {
+          "headline":"Sketch the shape of a drum on its side.",
+          "description":""
+        },
+        {
+          "headline":"Sketch additional shapes that make up the horse's head.",
+          "description":""
+        },
+        {
+          "headline":"Sketch the horse's head details using images of horses as reference.",
+          "description":""
+        },
+        {
+          "headline":"Sketch the mane and other details.",
+          "description":""
+        },
+        {
+          "headline":"Refine the sketch using a smaller tipped drawing tool.",
+          "description":""
+        },
+        {
+          "headline":"Draw the outline over the sketch.",
+          "description":""
+        },
+        {
+          "headline":"Remove the sketch marks and add color.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"A Cartoon Horse Head",
+      "steps":[
+        {
+          "headline":"Look at a horse, or a photo of one, in order to capture details and determine proportion correctly.",
+          "description":""
+        },
+        {
+          "headline":"Draw two circles, one larger and one smaller, down and to the side.",
+          "description":""
+        },
+        {
+          "headline":"Lightly, using those circles as a guide, make the head and then when you are at the end of the top circle, move your pencil down and make the neck.",
+          "description":""
+        },
+        {
+          "headline":"Draw an eye in the big circle, making sure it is in proportion with the head.",
+          "description":"Draw"
+        },
+        {
+          "headline":"Draw a nostril in the smaller circle, keeping in mind that it should be the same size as the eye (in more of an oval shape).",
+          "description":"At the bottom of the small circle, draw a line all the way to the circle's end."
+        },
+        {
+          "headline":"Erase your guide circles, leaving a little circle bump for the cheekbone of the horse.",
+          "description":""
+        },
+        {
+          "headline":"Draw an ear by curving up the line, making a point, then curving back down.",
+          "description":"Repeat for the other side."
+        },
+        {
+          "headline":"Draw the horse's forelock.",
+          "description":"Right in the center of the ears, move your pencil directly down to make its forelock. Next, go on the top neck, past the ears, and go down, making the lines as long as you want for the mane. Take care not to make it too even, in order to lend a realistic effect to the drawing."
+        }
+      ]
+    }
+  ],
+  "text":" A Horse Head Sketch the shape of a drum on its side.  Sketch additional shapes that make up the horse's head.  Sketch the horse's head details using images of horses as reference.  Sketch the mane and other details.  Refine the sketch using a smaller tipped drawing tool.  Draw the outline over the sketch.  Remove the sketch marks and add color.  A Cartoon Horse Head Look at a horse, or a photo of one, in order to capture details and determine proportion correctly.  Draw two circles, one larger and one smaller, down and to the side.  Lightly, using those circles as a guide, make the head and then when you are at the end of the top circle, move your pencil down and make the neck.  Draw an eye in the big circle, making sure it is in proportion with the head. Draw Draw a nostril in the smaller circle, keeping in mind that it should be the same size as the eye (in more of an oval shape). At the bottom of the small circle, draw a line all the way to the circle's end. Erase your guide circles, leaving a little circle bump for the cheekbone of the horse.  Draw an ear by curving up the line, making a point, then curving back down. Repeat for the other side. Draw the horse's forelock. Right in the center of the ears, move your pencil directly down to make its forelock. Next, go on the top neck, past the ears, and go down, making the lines as long as you want for the mane. Take care not to make it too even, in order to lend a realistic effect to the drawing.",
+  "sentences":[
+    " A Horse Head Sketch the shape of a drum on its side.",
+    "Sketch additional shapes that make up the horse's head.",
+    "Sketch the horse's head details using images of horses as reference.",
+    "Sketch the mane and other details.",
+    "Refine the sketch using a smaller tipped drawing tool.",
+    "Draw the outline over the sketch.",
+    "Remove the sketch marks and add color.",
+    "A Cartoon Horse Head Look at a horse, or a photo of one, in order to capture details and determine proportion correctly.",
+    "Draw two circles, one larger and one smaller, down and to the side.",
+    "Lightly, using those circles as a guide, make the head and then when you are at the end of the top circle, move your pencil down and make the neck.",
+    "Draw an eye in the big circle, making sure it is in proportion with the head.",
+    "Draw Draw a nostril in the smaller circle, keeping in mind that it should be the same size as the eye (in more of an oval shape).",
+    "At the bottom of the small circle, draw a line all the way to the circle's end.",
+    "Erase your guide circles, leaving a little circle bump for the cheekbone of the horse.",
+    "Draw an ear by curving up the line, making a point, then curving back down.",
+    "Repeat for the other side.",
+    "Draw the horse's forelock.",
+    "Right in the center of the ears, move your pencil directly down to make its forelock.",
+    "Next, go on the top neck, past the ears, and go down, making the lines as long as you want for the mane.",
+    "Take care not to make it too even, in order to lend a realistic effect to the drawing."
+  ],
+  "tyn_section":[
+    "Tortillon",
+    "Blank piece of paper",
+    "High quality no. 2 pencil",
+    "Acrylic Paint",
+    "Watercolor paint",
+    "Colored pencil",
+    "Eraser",
+    "Paintbrush",
+    "Pencil"
+  ],
+  "tyn_model":[
+    "pencil",
+    "horses",
+    "smaller tipped drawing tool",
+    "horse"
+  ],
+  "simple_metrics":{
+    "r":0.1111111111,
+    "p":0.25,
+    "f1":0.1538461538,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2222222222,
+    "p":0.25,
+    "f1":0.2352941176
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2222222222,
+    "p":0.25,
+    "f1":0.2352941176
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1111111111,
+    "p":0.25,
+    "f1":0.1538461538
+  }
+}

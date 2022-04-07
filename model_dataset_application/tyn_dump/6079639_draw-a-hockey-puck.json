@@ -1,0 +1,67 @@
+{
+  "title":"How to Draw a Hockey Puck",
+  "url":"https://www.wikihow.com/Draw-a-Hockey-Puck",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Objects"
+  ],
+  "steps":[
+    {
+      "headline":"Draw two circles, one above the other.",
+      "description":"Try your best to keep them the same size so that it does not look mismatched. If you want to draw perfect circles, try getting a drawing compass, which are usually found in geometry sets."
+    },
+    {
+      "headline":"Connect the sides of each of the circles together with a line.",
+      "description":"You may want to use a ruler to keep it even on each side."
+    },
+    {
+      "headline":"Colour to your liking (optional).",
+      "description":"Most hockey pucks are black, but you can design it with your favorite team's colors and logo."
+    }
+  ],
+  "text":" Draw two circles, one above the other. Try your best to keep them the same size so that it does not look mismatched. If you want to draw perfect circles, try getting a drawing compass, which are usually found in geometry sets. Connect the sides of each of the circles together with a line. You may want to use a ruler to keep it even on each side. Colour to your liking (optional). Most hockey pucks are black, but you can design it with your favorite team's colors and logo.",
+  "sentences":[
+    " Draw two circles, one above the other.",
+    "Try your best to keep them the same size so that it does not look mismatched.",
+    "If you want to draw perfect circles, try getting a drawing compass, which are usually found in geometry sets.",
+    "Connect the sides of each of the circles together with a line.",
+    "You may want to use a ruler to keep it even on each side.",
+    "Colour to your liking (optional).",
+    "Most hockey pucks are black, but you can design it with your favorite team's colors and logo."
+  ],
+  "tyn_section":[
+    "Quality paper",
+    "Pencil",
+    "Eraser (optional)",
+    "Coloring tools (optional)",
+    "Ruler (optional)",
+    "Drawing compass (optional)"
+  ],
+  "tyn_model":[
+    "drawing compass",
+    "ruler",
+    "hockey pucks"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.6666666667,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.6666666667,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.3333333333,
+    "f1":0.2222222222
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title":"How to Cook Onions Properly",
+  "url":"https://www.wikihow.com/Cook-Onions-Properly",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Onions"
+  ],
+  "steps":[
+    {
+      "headline":"Be prepared for a long cooking process.",
+      "description":"It takes 40 minutes to achieve a decent tasting onion. Quick cooking leaves the onion in its acrid-tasting state and does not bring out the sweetness hidden within the onion."
+    },
+    {
+      "headline":"Slice 500 grams of onion.",
+      "description":""
+    },
+    {
+      "headline":"Place in a heavy based frying pan with olive oil.",
+      "description":""
+    },
+    {
+      "headline":"Cook slowly on low heat for 40 minutes.",
+      "description":"Allow the onion to caramelize in its own natural sugars during this time."
+    },
+    {
+      "headline":"Try a shortcut if you lack the time to do this by microwaving.Slice as usual, place in a microwave proof dish and cover it.",
+      "description":"Place in the microwave and zap until soft. Do not add water. Add the microwaved onions to the pan for preparation as part of your chosen recipe, and they'll already be sweet."
+    }
+  ],
+  "text":" Be prepared for a long cooking process. It takes 40 minutes to achieve a decent tasting onion. Quick cooking leaves the onion in its acrid-tasting state and does not bring out the sweetness hidden within the onion. Slice 500 grams of onion.  Place in a heavy based frying pan with olive oil.  Cook slowly on low heat for 40 minutes. Allow the onion to caramelize in its own natural sugars during this time. Try a shortcut if you lack the time to do this by microwaving.Slice as usual, place in a microwave proof dish and cover it. Place in the microwave and zap until soft. Do not add water. Add the microwaved onions to the pan for preparation as part of your chosen recipe, and they'll already be sweet.",
+  "sentences":[
+    " Be prepared for a long cooking process.",
+    "It takes 40 minutes to achieve a decent tasting onion.",
+    "Quick cooking leaves the onion in its acrid-tasting state and does not bring out the sweetness hidden within the onion.",
+    "Slice 500 grams of onion.",
+    "Place in a heavy based frying pan with olive oil.",
+    "Cook slowly on low heat for 40 minutes.",
+    "Allow the onion to caramelize in its own natural sugars during this time.",
+    "Try a shortcut if you lack the time to do this by microwaving.Slice as usual, place in a microwave proof dish and cover it.",
+    "Place in the microwave and zap until soft.",
+    "Do not add water.",
+    "Add the microwaved onions to the pan for preparation as part of your chosen recipe, and they'll already be sweet."
+  ],
+  "tyn_section":[
+    "Frying pan, heavy-based",
+    "Wooden stirring spoon",
+    "Chopping board and sharp knife",
+    "Recipe requiring onions"
+  ],
+  "tyn_model":[
+    "onion",
+    "heavy based frying pan",
+    "olive oil",
+    "microwave proof dish",
+    "microwave",
+    "water",
+    "onions"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.1428571429,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title":"How to Cut Laminate Flooring",
+  "url":"https://www.wikihow.com/Cut-Laminate-Flooring",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Floors and Stairs",
+    "Floor Types",
+    "Laminate Flooring"
+  ],
+  "methods":[
+    {
+      "name":"Make Straight Cuts",
+      "steps":[
+        {
+          "headline":"Use a circular saw or a handsaw with at least 18 teeth per inch to avoid chipping it.",
+          "description":""
+        },
+        {
+          "headline":"Mark the line on the laminate flooring.",
+          "description":"Make a small mark on the edge of the laminate, so you know where to cut or use a chalk pencil to draw your measurement line across the face of the laminate. You can easily wipe the chalk off the surface after you are done cutting."
+        },
+        {
+          "headline":"Leave the laminate facing right-side-up and cut it with a circular saw or handsaw.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Cut Curved Shapes",
+      "steps":[
+        {
+          "headline":"Choose a jigsaw with a standard blade or one with a laminate flooring jigsaw blade with fine teeth.",
+          "description":"The fine teeth will allow you to cut the laminate flooring face up without chipping it."
+        },
+        {
+          "headline":"Make a paper pattern to help you make curved cuts and avoid wasting laminate flooring.",
+          "description":"Hold a piece of paper around the pillar or pipes and trace around the objects. Cut out the paper pattern, and then lay it back down to test for accuracy. This may take a few attempts to get the exact shape you want the laminate to be. Once you can successfully place the pattern around the obstacle, you're ready to draw the shape onto the laminate flooring."
+        },
+        {
+          "headline":"Cut out the curved shape.",
+          "description":"With a standard jigsaw blade, flip the laminate plank upside down. Place the pattern on the backside of the laminate, making sure to flip the pattern, so your cut laminate is positioned to come out correctly when the plank is flipped face up. Hold the jigsaw vertical, so the blade runs smoothly from one edge of the laminate to the other. If cutting the laminate face up, place painter's tape on the laminate along the pattern to keep it from chipping. Mark the cut line on top of the tape and cut with a jigsaw with a special blade."
+        }
+      ]
+    }
+  ],
+  "text":" Make Straight Cuts Use a circular saw or a handsaw with at least 18 teeth per inch to avoid chipping it.  Mark the line on the laminate flooring. Make a small mark on the edge of the laminate, so you know where to cut or use a chalk pencil to draw your measurement line across the face of the laminate. You can easily wipe the chalk off the surface after you are done cutting. Leave the laminate facing right-side-up and cut it with a circular saw or handsaw.  Cut Curved Shapes Choose a jigsaw with a standard blade or one with a laminate flooring jigsaw blade with fine teeth. The fine teeth will allow you to cut the laminate flooring face up without chipping it. Make a paper pattern to help you make curved cuts and avoid wasting laminate flooring. Hold a piece of paper around the pillar or pipes and trace around the objects. Cut out the paper pattern, and then lay it back down to test for accuracy. This may take a few attempts to get the exact shape you want the laminate to be. Once you can successfully place the pattern around the obstacle, you're ready to draw the shape onto the laminate flooring. Cut out the curved shape. With a standard jigsaw blade, flip the laminate plank upside down. Place the pattern on the backside of the laminate, making sure to flip the pattern, so your cut laminate is positioned to come out correctly when the plank is flipped face up. Hold the jigsaw vertical, so the blade runs smoothly from one edge of the laminate to the other. If cutting the laminate face up, place painter's tape on the laminate along the pattern to keep it from chipping. Mark the cut line on top of the tape and cut with a jigsaw with a special blade.",
+  "sentences":[
+    " Make Straight Cuts Use a circular saw or a handsaw with at least 18 teeth per inch to avoid chipping it.",
+    "Mark the line on the laminate flooring.",
+    "Make a small mark on the edge of the laminate, so you know where to cut or use a chalk pencil to draw your measurement line across the face of the laminate.",
+    "You can easily wipe the chalk off the surface after you are done cutting.",
+    "Leave the laminate facing right-side-up and cut it with a circular saw or handsaw.",
+    "Cut Curved Shapes Choose a jigsaw with a standard blade or one with a laminate flooring jigsaw blade with fine teeth.",
+    "The fine teeth will allow you to cut the laminate flooring face up without chipping it.",
+    "Make a paper pattern to help you make curved cuts and avoid wasting laminate flooring.",
+    "Hold a piece of paper around the pillar or pipes and trace around the objects.",
+    "Cut out the paper pattern, and then lay it back down to test for accuracy.",
+    "This may take a few attempts to get the exact shape you want the laminate to be.",
+    "Once you can successfully place the pattern around the obstacle, you're ready to draw the shape onto the laminate flooring.",
+    "Cut out the curved shape.",
+    "With a standard jigsaw blade, flip the laminate plank upside down.",
+    "Place the pattern on the backside of the laminate, making sure to flip the pattern, so your cut laminate is positioned to come out correctly when the plank is flipped face up.",
+    "Hold the jigsaw vertical, so the blade runs smoothly from one edge of the laminate to the other.",
+    "If cutting the laminate face up, place painter's tape on the laminate along the pattern to keep it from chipping.",
+    "Mark the cut line on top of the tape and cut with a jigsaw with a special blade."
+  ],
+  "tyn_section":[
+    "Circular saw or handsaw",
+    "Tape measure",
+    "Chalk or pencil",
+    "Jigsaw",
+    "Paper",
+    "Scissors",
+    "Painter's tape",
+    "Goggles",
+    "Ear plugs",
+    "Dust mask"
+  ],
+  "tyn_model":[
+    "jigsaw",
+    "paper",
+    "circular saw",
+    "laminate",
+    "chalk pencil",
+    "chalk",
+    "laminate flooring jigsaw",
+    "jigsaw blade",
+    "laminate plank",
+    "painter's tape",
+    "tape"
+  ],
+  "simple_metrics":{
+    "r":0.3,
+    "p":0.2727272727,
+    "f1":0.2857142857,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.6363636364,
+    "f1":0.6176470588
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.8181818182,
+    "f1":0.6923076923
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.3636363636,
+    "f1":0.380952381
+  }
+}

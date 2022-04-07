@@ -1,0 +1,94 @@
+{
+  "title":"How to Prepare a Pop Tart",
+  "url":"https://www.wikihow.com/Prepare-a-Pop-Tart",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Pop Tarts"
+  ],
+  "steps":[
+    {
+      "headline":"Go to your favorite supermarket.",
+      "description":"Ask an employee to direct you to the aisle containing Pop-Tarts."
+    },
+    {
+      "headline":"Choose your favorite.",
+      "description":"One with a little frosting, a lot of icing, or one plain. There are many flavors of Pop-Tarts."
+    },
+    {
+      "headline":"Open the Pop-Tart box and remove a Pop-Tart from one of the inner bags.",
+      "description":"Remember, A bag comes with two Pop-Tarts. Place it in your toaster."
+    },
+    {
+      "headline":"Toast on a low heat setting.",
+      "description":"Wait till it pops up."
+    },
+    {
+      "headline":"Remove the Pop-Tart carefully, and place on a plate.",
+      "description":""
+    },
+    {
+      "headline":"Allow it to cool for 35 seconds.",
+      "description":""
+    },
+    {
+      "headline":"Eat your cooled Pop-Tart and enjoy.",
+      "description":""
+    }
+  ],
+  "text":" Go to your favorite supermarket. Ask an employee to direct you to the aisle containing Pop-Tarts. Choose your favorite. One with a little frosting, a lot of icing, or one plain. There are many flavors of Pop-Tarts. Open the Pop-Tart box and remove a Pop-Tart from one of the inner bags. Remember, A bag comes with two Pop-Tarts. Place it in your toaster. Toast on a low heat setting. Wait till it pops up. Remove the Pop-Tart carefully, and place on a plate.  Allow it to cool for 35 seconds.  Eat your cooled Pop-Tart and enjoy. ",
+  "sentences":[
+    " Go to your favorite supermarket.",
+    "Ask an employee to direct you to the aisle containing Pop-Tarts.",
+    "Choose your favorite.",
+    "One with a little frosting, a lot of icing, or one plain.",
+    "There are many flavors of Pop-Tarts.",
+    "Open the Pop-Tart box and remove a Pop-Tart from one of the inner bags.",
+    "Remember, A bag comes with two Pop-Tarts.",
+    "Place it in your toaster.",
+    "Toast on a low heat setting.",
+    "Wait till it pops up.",
+    "Remove the Pop-Tart carefully, and place on a plate.",
+    "Allow it to cool for 35 seconds.",
+    "Eat your cooled Pop-Tart and enjoy."
+  ],
+  "tyn_section":[
+    "Using the Toaster",
+    "Toaster",
+    "Plate",
+    "Toasting in a Toaster Oven",
+    "Toaster oven",
+    "Heating in a Microwave",
+    "Microwave-safe plate",
+    "Microwave"
+  ],
+  "tyn_model":[
+    "pop-tarts",
+    "pop-tart",
+    "icing",
+    "pop-tart box",
+    "toaster",
+    "plate"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.3333333333,
+    "f1":0.2857142857,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.625,
+    "p":0.3333333333,
+    "f1":0.4347826087
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.3333333333,
+    "f1":0.2857142857
+  }
+}

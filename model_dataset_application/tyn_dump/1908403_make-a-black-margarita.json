@@ -1,0 +1,74 @@
+{
+  "title":"How to Make a Black Margarita",
+  "url":"https://www.wikihow.com/Make-a-Black-Margarita",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Cocktails",
+    "Margaritas"
+  ],
+  "steps":[
+    {
+      "headline":"Combine the tequila, blue cura\u00e7ao, raspberry liqueur and lime juice in a shaker filled with ice.",
+      "description":""
+    },
+    {
+      "headline":"Fill the rest of the shaker with half cranberry juice and half sour mix.",
+      "description":""
+    },
+    {
+      "headline":"Shake the mixture together for 15 seconds.",
+      "description":""
+    },
+    {
+      "headline":"Pour the drink into a serving glass and serve the drink garnished with a lime.",
+      "description":""
+    }
+  ],
+  "text":" Combine the tequila, blue cura\u00e7ao, raspberry liqueur and lime juice in a shaker filled with ice.  Fill the rest of the shaker with half cranberry juice and half sour mix.  Shake the mixture together for 15 seconds.  Pour the drink into a serving glass and serve the drink garnished with a lime. ",
+  "sentences":[
+    " Combine the tequila, blue cura\u00e7ao, raspberry liqueur and lime juice in a shaker filled with ice.",
+    "Fill the rest of the shaker with half cranberry juice and half sour mix.",
+    "Shake the mixture together for 15 seconds.",
+    "Pour the drink into a serving glass and serve the drink garnished with a lime."
+  ],
+  "tyn_section":[
+    "Shaker",
+    "Serving glass"
+  ],
+  "tyn_model":[
+    "shaker",
+    "tequila",
+    "blue cura\u00e7ao",
+    "raspberry liqueur",
+    "lime juice",
+    "ice",
+    "cranberry juice",
+    "sour mix",
+    "serving glass",
+    "lime"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.2,
+    "f1":0.3333333333
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title":"How to Sew Lock Stitch",
+  "url":"https://www.wikihow.com/Sew-Lock-Stitch",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Sewing",
+    "Sewing Skills",
+    "Basic Sewing Stitches"
+  ],
+  "steps":[
+    {
+      "headline":"Work from the base of the curtain to the top.",
+      "description":""
+    },
+    {
+      "headline":"Fold back the lining or interlining.",
+      "description":"Stitch through both the lining/interlining and the main fabric."
+    },
+    {
+      "headline":"Pick up only a couple of threads with each stitch.",
+      "description":""
+    },
+    {
+      "headline":"Make the next stitch about 2 inches/5cm along the lining/interlining.",
+      "description":"At all times keep the stitching slack."
+    },
+    {
+      "headline":"Continue in this manner all of the way from the base of the fabric to the top.",
+      "description":""
+    },
+    {
+      "headline":"Tie off and knot the end.",
+      "description":"Cut to remove the remaining thread length. Done."
+    }
+  ],
+  "text":" Work from the base of the curtain to the top.  Fold back the lining or interlining. Stitch through both the lining/interlining and the main fabric. Pick up only a couple of threads with each stitch.  Make the next stitch about 2 inches/5cm along the lining/interlining. At all times keep the stitching slack. Continue in this manner all of the way from the base of the fabric to the top.  Tie off and knot the end. Cut to remove the remaining thread length. Done.",
+  "sentences":[
+    " Work from the base of the curtain to the top.",
+    "Fold back the lining or interlining.",
+    "Stitch through both the lining/interlining and the main fabric.",
+    "Pick up only a couple of threads with each stitch.",
+    "Make the next stitch about 2 inches/5cm along the lining/interlining.",
+    "At all times keep the stitching slack.",
+    "Continue in this manner all of the way from the base of the fabric to the top.",
+    "Tie off and knot the end.",
+    "Cut to remove the remaining thread length.",
+    "Done."
+  ],
+  "tyn_section":[
+    "Thread",
+    "Needle",
+    "Scissors"
+  ],
+  "tyn_model":[
+    "fabric",
+    "thread"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4,
+    "avg_pos":0.5
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  }
+}

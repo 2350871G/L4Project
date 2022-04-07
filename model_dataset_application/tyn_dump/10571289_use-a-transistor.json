@@ -1,0 +1,237 @@
+{
+  "title":"How to Use a Transistor",
+  "url":"https://www.wikihow.com/Use-a-Transistor",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "parts":[
+    {
+      "name":"Inserting the Transistor and Resistors",
+      "steps":[
+        {
+          "headline":"Purchase a BJT transistor, a breadboard, resistors, and other supplies.",
+          "description":"Visit a local electronics store to pick up the items you\u2019ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470\u03a9 resistors, and purchase a small box (you\u2019ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery. There are many different types of transistors, and the Bipolar Junction Transistor (BJT) is one of the most popular styles. It\u2019s also fairly straightforward to use and is a good option for anyone new to working with transistors. A BJT transistor works by receiving a small electrical current and converting it into a much larger current."
+        },
+        {
+          "headline":"Identify the pins on your transistor.",
+          "description":"Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector. These 3 pins each serve a different function, so it\u2019s important to correctly identify them."
+        },
+        {
+          "headline":"Stick the transistor into the breadboard.",
+          "description":"With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes. This may take some delicate work since each of the breadboard holes is only about \u204432 inch (0.79 mm) across. A breadboard is a roughly 10 in \u00d7 6 in (25 cm \u00d7 15 cm) piece of plastic with electrical wiring running between the individual holes. It\u2019s commonly used in electrical experiments with transistors since electrical power will run between any metal elements connected to the breadboard."
+        },
+        {
+          "headline":"Insert the two 470\u03a9 resistors into breadboard holes near the transistor.",
+          "description":"Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they\u2019re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors\u2019 size, the holes should be about 6 apart from one another by both width and length. Insert the first resistor on the upper-right hand side of the transistor within 2-3 holes of those the transistor is in. Then, place the second resistor on the lower-left side of the transistor, also within 2-3 holes of the transistor's location. Resistors help slow down and re-direct the flow of electric current. They\u2019re used in simple circuits to prevent the wiring and LED bulb from overheating. Resistors look like a 2 in (5.1 cm) piece of wire with a 1 in (2.5 cm) plastic tube wrapped around the middle."
+        }
+      ]
+    },
+    {
+      "name":"Connecting the LED Bulb",
+      "steps":[
+        {
+          "headline":"Identify the leads on the LED bulb.",
+          "description":"A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which. When you\u2019re connecting the LED, always connect the anode to the circuit\u2019s positive side. If you mistakenly connect the anode to the circuit's negative side, the circuit won't work and the LED won't light up. LED bulbs burn brightly when powered with only a small amount of electric current."
+        },
+        {
+          "headline":"Insert the LED bulb and connect it to the transistor.",
+          "description":"The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor\u2019s collector pin. To connect the cathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 2-3 twists to ensure that electricity can flow between the wires."
+        },
+        {
+          "headline":"Connect 1 resistor to the LED.",
+          "description":"Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor\u2019s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor. Make the connection sturdy by bending the resistor wires 2-3 times around the wires you connect them to."
+        }
+      ]
+    },
+    {
+      "name":"Wiring the Transistor Circuit",
+      "steps":[
+        {
+          "headline":"Cut 4 sections of wire from a reel of hookup wire.",
+          "description":"You\u2019ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a 3 in (7.6 cm) section of wire. Then, cut 2 more segments, each about 6 in (15 cm) long. Finally, cut 1 short 2 in (5.1 cm) long segment of wire. If you don\u2019t have wire cutters, purchase a pair at a local hardware or electronic-supply store."
+        },
+        {
+          "headline":"Ground the emitter to the negative power rail.",
+          "description":"To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail. Identify the negative power edge of the breadboard by visually inspecting it. Both of the 2 long edges of the breadboard will have both a negative and positive rail. The negative rail will always be accompanied by a \u201c\u2013\u201d sign and will be blue or black."
+        },
+        {
+          "headline":"Insert both 6 in (15 cm) wire segments into the breadboard.",
+          "description":"Bend the last \u20442 inch (1.3 cm) of the 2 long wire segments so it\u2019s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard. Choose holes in the same row so that the 2 long wires are parallel to one another. Due to the wire segments length, the 2 ends of each segment will be inserted roughly 25 holes apart."
+        },
+        {
+          "headline":"Connect 1 of the long wires to the transistor.",
+          "description":"Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire\u2019s end 2-3 around the transistor\u2019s base (the central pin). If the wires are too short or too stiff to bend with your fingers, use a pair of needle-nose pliers to bend the wires."
+        },
+        {
+          "headline":"Attach the second long wire to the positive rail.",
+          "description":"Wrap 1 end of your short 2 in (5.1 cm) segment of wire 2-3 times around the end of the second long wire (that\u2019s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox. This will allow power from the battery to get to the LED, once you\u2019ve connected the battery."
+        },
+        {
+          "headline":"Hook the battery up to your circuit.",
+          "description":"Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail. The 9-volt adapter comprises a rubber head with 2 receivers to snap on the + and \u2013 ports of the battery. Notice that 2 wires emerge from the head: 1 positive (red) and 1 negative (blue)."
+        },
+        {
+          "headline":"Touch the 2 long wires to activate the circuit.",
+          "description":"These wires are referred to as the \u201ctouch wires.\u201d Use 1 finger and press down on the 2 touch wires. Make sure that you\u2019re touching both at once. Press them down against the breadboard, and watch as the LED lights up. Try experimenting with different types of touch: light, heavy, etc. Depending on how much pressure you put on the wires, you\u2019ll notice that the LED illuminates more or less brightly."
+        }
+      ]
+    }
+  ],
+  "text":" Inserting the Transistor and Resistors Purchase a BJT transistor, a breadboard, resistors, and other supplies. Visit a local electronics store to pick up the items you\u2019ll need to construct a simple circuit. Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb. Find the 470\u03a9 resistors, and purchase a small box (you\u2019ll only need 2 individual resistors). Also, pick up a reel of solid copper hookup wire. Finally, purchase a 9-volt battery. There are many different types of transistors, and the Bipolar Junction Transistor (BJT) is one of the most popular styles. It\u2019s also fairly straightforward to use and is a good option for anyone new to working with transistors. A BJT transistor works by receiving a small electrical current and converting it into a much larger current. Identify the pins on your transistor. Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end. Hold the transistor so that the front side (with writing on it) is facing you. With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector. These 3 pins each serve a different function, so it\u2019s important to correctly identify them. Stick the transistor into the breadboard. With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard. Choose 3 adjacent holes in any part of the breadboard. Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes. This may take some delicate work since each of the breadboard holes is only about \u204432 inch (0.79 mm) across. A breadboard is a roughly 10 in \u00d7 6 in (25 cm \u00d7 15 cm) piece of plastic with electrical wiring running between the individual holes. It\u2019s commonly used in electrical experiments with transistors since electrical power will run between any metal elements connected to the breadboard. Insert the two 470\u03a9 resistors into breadboard holes near the transistor. Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends. Bend these wires until they\u2019re at a 90-degree angle from the body of the resistor. Then, insert the wires into holes in the breadboard. Due to the resistors\u2019 size, the holes should be about 6 apart from one another by both width and length. Insert the first resistor on the upper-right hand side of the transistor within 2-3 holes of those the transistor is in. Then, place the second resistor on the lower-left side of the transistor, also within 2-3 holes of the transistor's location. Resistors help slow down and re-direct the flow of electric current. They\u2019re used in simple circuits to prevent the wiring and LED bulb from overheating. Resistors look like a 2 in (5.1 cm) piece of wire with a 1 in (2.5 cm) plastic tube wrapped around the middle. Connecting the LED Bulb Identify the leads on the LED bulb. A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments). One of the leads is the cathode and the other is the anode. Identify the cathode by finding the shortest lead. The anode, then, is the longer lead. Also inspect the surface of the bulb itself and see if it provides an indication as to which is which. When you\u2019re connecting the LED, always connect the anode to the circuit\u2019s positive side. If you mistakenly connect the anode to the circuit's negative side, the circuit won't work and the LED won't light up. LED bulbs burn brightly when powered with only a small amount of electric current. Insert the LED bulb and connect it to the transistor. The LED must be directly to the right of the transistor for the circuit to function. Stick the 2 leads in through 2 adjacent holes in the breadboard. Then, connect the cathode lead to the transistor\u2019s collector pin. To connect the cathode lead to the transistor pin, simply twist the 2 wires together under the breadboard. Make 2-3 twists to ensure that electricity can flow between the wires. Connect 1 resistor to the LED. Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard. Attach the first resistor\u2019s second wire to the anode of the LED. Connect the second resistor that you inserted to the base (central pin) of the transistor. Make the connection sturdy by bending the resistor wires 2-3 times around the wires you connect them to. Wiring the Transistor Circuit Cut 4 sections of wire from a reel of hookup wire. You\u2019ll need these wire segments to connect the parts of your circuit. Use a pair of wire cutters to snip a 3 in (7.6 cm) section of wire. Then, cut 2 more segments, each about 6 in (15 cm) long. Finally, cut 1 short 2 in (5.1 cm) long segment of wire. If you don\u2019t have wire cutters, purchase a pair at a local hardware or electronic-supply store. Ground the emitter to the negative power rail. To function, your circuit will need to be grounded. Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times. Then, stick the other end of the wire in a breadboard hole connected to the negative power rail. Identify the negative power edge of the breadboard by visually inspecting it. Both of the 2 long edges of the breadboard will have both a negative and positive rail. The negative rail will always be accompanied by a \u201c\u2013\u201d sign and will be blue or black. Insert both 6 in (15 cm) wire segments into the breadboard. Bend the last \u20442 inch (1.3 cm) of the 2 long wire segments so it\u2019s at a 90-degree angle to the rest of the wire. Insert 1 end of both wires in breadboard holes near the transistor. Insert the other end of both long wire segments into holes at the far end of the breadboard. Choose holes in the same row so that the 2 long wires are parallel to one another. Due to the wire segments length, the 2 ends of each segment will be inserted roughly 25 holes apart. Connect 1 of the long wires to the transistor. Find the long wire nearest the base of the transistor. Beneath the breadboard, wrap the wire\u2019s end 2-3 around the transistor\u2019s base (the central pin). If the wires are too short or too stiff to bend with your fingers, use a pair of needle-nose pliers to bend the wires. Attach the second long wire to the positive rail. Wrap 1 end of your short 2 in (5.1 cm) segment of wire 2-3 times around the end of the second long wire (that\u2019s not connected to the transistor). Do this on the end farthest away from the transistor. Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox. This will allow power from the battery to get to the LED, once you\u2019ve connected the battery. Hook the battery up to your circuit. Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself. Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor. Connect the positive (red) wire coming from the 9-volt battery to the positive power rail. The 9-volt adapter comprises a rubber head with 2 receivers to snap on the + and \u2013 ports of the battery. Notice that 2 wires emerge from the head: 1 positive (red) and 1 negative (blue). Touch the 2 long wires to activate the circuit. These wires are referred to as the \u201ctouch wires.\u201d Use 1 finger and press down on the 2 touch wires. Make sure that you\u2019re touching both at once. Press them down against the breadboard, and watch as the LED lights up. Try experimenting with different types of touch: light, heavy, etc. Depending on how much pressure you put on the wires, you\u2019ll notice that the LED illuminates more or less brightly.",
+  "sentences":[
+    " Inserting the Transistor and Resistors Purchase a BJT transistor, a breadboard, resistors, and other supplies.",
+    "Visit a local electronics store to pick up the items you\u2019ll need to construct a simple circuit.",
+    "Buy a solderless breadboard with 830 tie-points and 1 LED lightbulb.",
+    "Find the 470\u03a9 resistors, and purchase a small box (you\u2019ll only need 2 individual resistors).",
+    "Also, pick up a reel of solid copper hookup wire.",
+    "Finally, purchase a 9-volt battery.",
+    "There are many different types of transistors, and the Bipolar Junction Transistor (BJT) is one of the most popular styles.",
+    "It\u2019s also fairly straightforward to use and is a good option for anyone new to working with transistors.",
+    "A BJT transistor works by receiving a small electrical current and converting it into a much larger current.",
+    "Identify the pins on your transistor.",
+    "Your BJT transistor will have a plastic head with 3 small metal pins sticking out of 1 end.",
+    "Hold the transistor so that the front side (with writing on it) is facing you.",
+    "With the transistor in this position, the leftmost pin is the emitter, the central pin is the base, and the rightmost pin is the collector.",
+    "These 3 pins each serve a different function, so it\u2019s important to correctly identify them.",
+    "Stick the transistor into the breadboard.",
+    "With the front of the transistor still facing towards you, insert each of the 3 metal pins into a separate hole in the breadboard.",
+    "Choose 3 adjacent holes in any part of the breadboard.",
+    "Insert the emitter to the leftmost hole, the base to the central hole, and the collector into the rightmost of these 3 holes.",
+    "This may take some delicate work since each of the breadboard holes is only about \u204432 inch (0.79 mm) across.",
+    "A breadboard is a roughly 10 in \u00d7 6 in (25 cm \u00d7 15 cm) piece of plastic with electrical wiring running between the individual holes.",
+    "It\u2019s commonly used in electrical experiments with transistors since electrical power will run between any metal elements connected to the breadboard.",
+    "Insert the two 470\u03a9 resistors into breadboard holes near the transistor.",
+    "Each of the resistors comprises a thick, plastic-covered bar with a thin wire extending from both ends.",
+    "Bend these wires until they\u2019re at a 90-degree angle from the body of the resistor.",
+    "Then, insert the wires into holes in the breadboard.",
+    "Due to the resistors\u2019 size, the holes should be about 6 apart from one another by both width and length.",
+    "Insert the first resistor on the upper-right hand side of the transistor within 2-3 holes of those the transistor is in.",
+    "Then, place the second resistor on the lower-left side of the transistor, also within 2-3 holes of the transistor's location.",
+    "Resistors help slow down and re-direct the flow of electric current.",
+    "They\u2019re used in simple circuits to prevent the wiring and LED bulb from overheating.",
+    "Resistors look like a 2 in (5.1 cm) piece of wire with a 1 in (2.5 cm) plastic tube wrapped around the middle.",
+    "Connecting the LED Bulb Identify the leads on the LED bulb.",
+    "A standard LED bulb comprises the bulb itself and 2 leads (thin wire filaments).",
+    "One of the leads is the cathode and the other is the anode.",
+    "Identify the cathode by finding the shortest lead.",
+    "The anode, then, is the longer lead.",
+    "Also inspect the surface of the bulb itself and see if it provides an indication as to which is which.",
+    "When you\u2019re connecting the LED, always connect the anode to the circuit\u2019s positive side.",
+    "If you mistakenly connect the anode to the circuit's negative side, the circuit won't work and the LED won't light up.",
+    "LED bulbs burn brightly when powered with only a small amount of electric current.",
+    "Insert the LED bulb and connect it to the transistor.",
+    "The LED must be directly to the right of the transistor for the circuit to function.",
+    "Stick the 2 leads in through 2 adjacent holes in the breadboard.",
+    "Then, connect the cathode lead to the transistor\u2019s collector pin.",
+    "To connect the cathode lead to the transistor pin, simply twist the 2 wires together under the breadboard.",
+    "Make 2-3 twists to ensure that electricity can flow between the wires.",
+    "Connect 1 resistor to the LED.",
+    "Connect the first resistor that you inserted to the positive (red) power rail running alongside the nearest long edge of the breadboard.",
+    "Attach the first resistor\u2019s second wire to the anode of the LED.",
+    "Connect the second resistor that you inserted to the base (central pin) of the transistor.",
+    "Make the connection sturdy by bending the resistor wires 2-3 times around the wires you connect them to.",
+    "Wiring the Transistor Circuit Cut 4 sections of wire from a reel of hookup wire.",
+    "You\u2019ll need these wire segments to connect the parts of your circuit.",
+    "Use a pair of wire cutters to snip a 3 in (7.6 cm) section of wire.",
+    "Then, cut 2 more segments, each about 6 in (15 cm) long.",
+    "Finally, cut 1 short 2 in (5.1 cm) long segment of wire.",
+    "If you don\u2019t have wire cutters, purchase a pair at a local hardware or electronic-supply store.",
+    "Ground the emitter to the negative power rail.",
+    "To function, your circuit will need to be grounded.",
+    "Poke 1 end of the wire through a breadboard hole near your transistor and wrap it around the emitter wire 2-3 times.",
+    "Then, stick the other end of the wire in a breadboard hole connected to the negative power rail.",
+    "Identify the negative power edge of the breadboard by visually inspecting it.",
+    "Both of the 2 long edges of the breadboard will have both a negative and positive rail.",
+    "The negative rail will always be accompanied by a \u201c\u2013\u201d sign and will be blue or black.",
+    "Insert both 6 in (15 cm) wire segments into the breadboard.",
+    "Bend the last \u20442 inch (1.3 cm) of the 2 long wire segments so it\u2019s at a 90-degree angle to the rest of the wire.",
+    "Insert 1 end of both wires in breadboard holes near the transistor.",
+    "Insert the other end of both long wire segments into holes at the far end of the breadboard.",
+    "Choose holes in the same row so that the 2 long wires are parallel to one another.",
+    "Due to the wire segments length, the 2 ends of each segment will be inserted roughly 25 holes apart.",
+    "Connect 1 of the long wires to the transistor.",
+    "Find the long wire nearest the base of the transistor.",
+    "Beneath the breadboard, wrap the wire\u2019s end 2-3 around the transistor\u2019s base (the central pin).",
+    "If the wires are too short or too stiff to bend with your fingers, use a pair of needle-nose pliers to bend the wires.",
+    "Attach the second long wire to the positive rail.",
+    "Wrap 1 end of your short 2 in (5.1 cm) segment of wire 2-3 times around the end of the second long wire (that\u2019s not connected to the transistor).",
+    "Do this on the end farthest away from the transistor.",
+    "Then, bend the short wire, and insert its other end through a hole in the positive (red) rail on a long edge of the breadbox.",
+    "This will allow power from the battery to get to the LED, once you\u2019ve connected the battery.",
+    "Hook the battery up to your circuit.",
+    "Connect the 9-volt battery connector to the positive and negative outlet ports on the battery itself.",
+    "Hook the negative (blue) wire around the negative power rail at the end of the breadboard farthest from the transistor.",
+    "Connect the positive (red) wire coming from the 9-volt battery to the positive power rail.",
+    "The 9-volt adapter comprises a rubber head with 2 receivers to snap on the + and \u2013 ports of the battery.",
+    "Notice that 2 wires emerge from the head: 1 positive (red) and 1 negative (blue).",
+    "Touch the 2 long wires to activate the circuit.",
+    "These wires are referred to as the \u201ctouch wires.\u201d Use 1 finger and press down on the 2 touch wires.",
+    "Make sure that you\u2019re touching both at once.",
+    "Press them down against the breadboard, and watch as the LED lights up.",
+    "Try experimenting with different types of touch: light, heavy, etc.",
+    "Depending on how much pressure you put on the wires, you\u2019ll notice that the LED illuminates more or less brightly."
+  ],
+  "tyn_section":[
+    "1 Bipolar Junction Transmitter (BJT) transistor",
+    "9-volt battery",
+    "9-volt battery connector",
+    "LED lightbulb",
+    "830 tie-point breadboard",
+    "two 470\u03a9 resistors",
+    "1 reel of copper hookup wire",
+    "Wire cutters",
+    "Needle-nose pliers"
+  ],
+  "tyn_model":[
+    "breadboard",
+    "wire",
+    "transistor",
+    "led bulb",
+    "9-volt battery",
+    "transistors",
+    "collector",
+    "wire cutters",
+    "battery",
+    "resistors",
+    "bipolar junction transistor",
+    "\u00d7 6",
+    "\u00d7 15",
+    "plastic",
+    "\u2019 size",
+    "led bulbs",
+    "resistor",
+    "hookup wire",
+    "\u201c\u2013",
+    "\u201d sign",
+    "needle-nose pliers",
+    "9-volt battery connector",
+    "9-volt adapter",
+    "\u2013 ports",
+    "\u201ctouch",
+    "\u201d use"
+  ],
+  "simple_metrics":{
+    "r":0.4444444444,
+    "p":0.1538461538,
+    "f1":0.2285714286,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5555555556,
+    "p":0.2692307692,
+    "f1":0.3626943005
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4444444444,
+    "p":0.1538461538,
+    "f1":0.2285714286
+  }
+}

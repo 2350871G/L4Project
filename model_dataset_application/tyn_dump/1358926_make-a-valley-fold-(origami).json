@@ -1,0 +1,69 @@
+{
+  "title":"How to Make a Valley Fold (Origami)",
+  "url":"https://www.wikihow.com/Make-a-Valley-Fold-(Origami)",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Paper Craft",
+    "Origami",
+    "Origami Basics"
+  ],
+  "steps":[
+    {
+      "headline":"Place the origami paper on a flat surface.",
+      "description":"A table makes the ideal surface."
+    },
+    {
+      "headline":"Fold the lower edge of the paper upward.",
+      "description":"The point to which you fold can be anywhere for now."
+    },
+    {
+      "headline":"Using one hand, hold the fold in place.",
+      "description":"With the other hand, run a finger along the fold line and form a smooth crease. That's it, you've created a valley fold."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Place the origami paper on a flat surface. A table makes the ideal surface. Fold the lower edge of the paper upward. The point to which you fold can be anywhere for now. Using one hand, hold the fold in place. With the other hand, run a finger along the fold line and form a smooth crease. That's it, you've created a valley fold. Finished. ",
+  "sentences":[
+    " Place the origami paper on a flat surface.",
+    "A table makes the ideal surface.",
+    "Fold the lower edge of the paper upward.",
+    "The point to which you fold can be anywhere for now.",
+    "Using one hand, hold the fold in place.",
+    "With the other hand, run a finger along the fold line and form a smooth crease.",
+    "That's it, you've created a valley fold.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Origami paper",
+    "Flat surface for folding"
+  ],
+  "tyn_model":[
+    "origami paper",
+    "paper"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  }
+}

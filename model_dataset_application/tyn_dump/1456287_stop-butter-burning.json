@@ -1,0 +1,83 @@
+{
+  "title":"How to Stop Butter Burning",
+  "url":"https://www.wikihow.com/Stop-Butter-Burning",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Eggs and Dairy",
+    "Butter and Ghee"
+  ],
+  "steps":[
+    {
+      "headline":"Use a mixture of half butter and half cooking oil.",
+      "description":"Olive oil is a good choice. Heat moderately slowly before adding the ingredients. It is important to add the ingredients before the fat becomes hot enough to smoke."
+    },
+    {
+      "headline":"Keep the food moving.",
+      "description":"Use a wooden spoon to keep stirring; this will help prevent the butter from burning. Remove the pan from the heat as soon as you see it is starting to burn. This means you also need to get the food straight out of the pan, as it will continue to cook with the residual heat in the pan."
+    },
+    {
+      "headline":"Use a high quality cooking pan.",
+      "description":"The greater the thickness of the pan, the easier it is to heat butter without burning it, as there is more protection from the direct heat. However, good quality thick pans are expensive. Do not use a pan that isn't flat. If it's uneven, the butter will pool in one place and burn."
+    },
+    {
+      "headline":"Use clarified butter or ghee.",
+      "description":"The benefit of using this is that it lacks moisture or impurities. As such, it won't burn when used to saut\u00e9 or fry food."
+    }
+  ],
+  "text":" Use a mixture of half butter and half cooking oil. Olive oil is a good choice. Heat moderately slowly before adding the ingredients. It is important to add the ingredients before the fat becomes hot enough to smoke. Keep the food moving. Use a wooden spoon to keep stirring; this will help prevent the butter from burning. Remove the pan from the heat as soon as you see it is starting to burn. This means you also need to get the food straight out of the pan, as it will continue to cook with the residual heat in the pan. Use a high quality cooking pan. The greater the thickness of the pan, the easier it is to heat butter without burning it, as there is more protection from the direct heat. However, good quality thick pans are expensive. Do not use a pan that isn't flat. If it's uneven, the butter will pool in one place and burn. Use clarified butter or ghee. The benefit of using this is that it lacks moisture or impurities. As such, it won't burn when used to saut\u00e9 or fry food.",
+  "sentences":[
+    " Use a mixture of half butter and half cooking oil.",
+    "Olive oil is a good choice.",
+    "Heat moderately slowly before adding the ingredients.",
+    "It is important to add the ingredients before the fat becomes hot enough to smoke.",
+    "Keep the food moving.",
+    "Use a wooden spoon to keep stirring; this will help prevent the butter from burning.",
+    "Remove the pan from the heat as soon as you see it is starting to burn.",
+    "This means you also need to get the food straight out of the pan, as it will continue to cook with the residual heat in the pan.",
+    "Use a high quality cooking pan.",
+    "The greater the thickness of the pan, the easier it is to heat butter without burning it, as there is more protection from the direct heat.",
+    "However, good quality thick pans are expensive.",
+    "Do not use a pan that isn't flat.",
+    "If it's uneven, the butter will pool in one place and burn.",
+    "Use clarified butter or ghee.",
+    "The benefit of using this is that it lacks moisture or impurities.",
+    "As such, it won't burn when used to saut\u00e9 or fry food."
+  ],
+  "tyn_section":[
+    "Quality cooking pan",
+    "Oil and butter mixture"
+  ],
+  "tyn_model":[
+    "butter",
+    "pan",
+    "cooking oil",
+    "olive oil",
+    "wooden spoon",
+    "cooking pan",
+    "pans",
+    "clarified butter",
+    "ghee"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1111111111,
+    "f1":0.1818181818
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2222222222,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1111111111,
+    "f1":0.1818181818
+  }
+}

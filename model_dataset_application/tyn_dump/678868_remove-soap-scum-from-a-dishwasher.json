@@ -1,0 +1,95 @@
+{
+  "title":"How to Remove Soap Scum from a Dishwasher",
+  "url":"https://www.wikihow.com/Remove-Soap-Scum-from-a-Dishwasher",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Cleaning",
+    "House Cleaning"
+  ],
+  "steps":[
+    {
+      "headline":"Locate the drain trap.",
+      "description":"This is at the base of the dishwasher and it's not called a trap without reason! This trap should be cleaned regularly to remove the trapped particles of food, grime, and even clumps of dishwasher detergents (especially the cake or powdered varieties)."
+    },
+    {
+      "headline":"Give the dishwasher a manual scrub.",
+      "description":"Using a small scrubbing brush, clean off the soap scum residues. Dip the brush into white wine vinegar to help dissolve the scum. Don't forget to clean all of the sides, the racks, the cutlery holder, and the base and roof of the dishwasher. Also scrub the soap dispensers where a lot of residue will probably have accumulated. Stubborn soap can be removed using either citrus oil or eucalyptus oil on a damp cloth."
+    },
+    {
+      "headline":"Fill a large dishwasher proof bowl with white vinegar.",
+      "description":"Put it on the bottom level of the dishwasher and set the dishwasher for a short wash cycle."
+    },
+    {
+      "headline":"Wipe down all the surfaces after the wash.",
+      "description":""
+    },
+    {
+      "headline":"Test drive the clean.",
+      "description":"Your next load of dishes should come out sparkling with no residue."
+    },
+    {
+      "headline":"Repeat this cleaning process regularly in order to prevent soap scum build up.",
+      "description":"Once a month is ideal if you use the dishwasher every day; every three months if you use it less regularly."
+    }
+  ],
+  "text":" Locate the drain trap. This is at the base of the dishwasher and it's not called a trap without reason! This trap should be cleaned regularly to remove the trapped particles of food, grime, and even clumps of dishwasher detergents (especially the cake or powdered varieties). Give the dishwasher a manual scrub. Using a small scrubbing brush, clean off the soap scum residues. Dip the brush into white wine vinegar to help dissolve the scum. Don't forget to clean all of the sides, the racks, the cutlery holder, and the base and roof of the dishwasher. Also scrub the soap dispensers where a lot of residue will probably have accumulated. Stubborn soap can be removed using either citrus oil or eucalyptus oil on a damp cloth. Fill a large dishwasher proof bowl with white vinegar. Put it on the bottom level of the dishwasher and set the dishwasher for a short wash cycle. Wipe down all the surfaces after the wash.  Test drive the clean. Your next load of dishes should come out sparkling with no residue. Repeat this cleaning process regularly in order to prevent soap scum build up. Once a month is ideal if you use the dishwasher every day; every three months if you use it less regularly.",
+  "sentences":[
+    " Locate the drain trap.",
+    "This is at the base of the dishwasher and it's not called a trap without reason!",
+    "This trap should be cleaned regularly to remove the trapped particles of food, grime, and even clumps of dishwasher detergents (especially the cake or powdered varieties).",
+    "Give the dishwasher a manual scrub.",
+    "Using a small scrubbing brush, clean off the soap scum residues.",
+    "Dip the brush into white wine vinegar to help dissolve the scum.",
+    "Don't forget to clean all of the sides, the racks, the cutlery holder, and the base and roof of the dishwasher.",
+    "Also scrub the soap dispensers where a lot of residue will probably have accumulated.",
+    "Stubborn soap can be removed using either citrus oil or eucalyptus oil on a damp cloth.",
+    "Fill a large dishwasher proof bowl with white vinegar.",
+    "Put it on the bottom level of the dishwasher and set the dishwasher for a short wash cycle.",
+    "Wipe down all the surfaces after the wash.  Test drive the clean.",
+    "Your next load of dishes should come out sparkling with no residue.",
+    "Repeat this cleaning process regularly in order to prevent soap scum build up.",
+    "Once a month is ideal if you use the dishwasher every day; every three months if you use it less regularly."
+  ],
+  "tyn_section":[
+    "White vinegar (use the cheapest for cleaning purposes)",
+    "Scrubbing brush",
+    "Bowl",
+    "Citrus or eucalyptus oil"
+  ],
+  "tyn_model":[
+    "dishwasher",
+    "dishwasher detergents",
+    "dishwasher a",
+    "scrubbing brush",
+    "soap scum",
+    "white wine vinegar",
+    "cutlery holder",
+    "citrus oil",
+    "eucalyptus oil",
+    "dishwasher proof bowl",
+    "white vinegar",
+    "dishes"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.3333333333,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125
+  }
+}

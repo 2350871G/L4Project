@@ -1,0 +1,87 @@
+{
+  "title":"How to Make a Picture Skinnier",
+  "url":"https://www.wikihow.com/Make-a-Picture-Skinnier",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Editing"
+  ],
+  "methods":[
+    {
+      "name":"Make a Picture Skinnier Using an Image Editor",
+      "steps":[
+        {
+          "headline":"Select Image Size or Resize from the Image menu of your Image Editor.",
+          "description":"The actual tool may have a slightly different name depending on the program you are using, but it should be similar to those listed here and recognized for its purpose of allowing you to resize your image."
+        },
+        {
+          "headline":"Change the pixel size for width and height, if necessary.",
+          "description":"Similar to editing an image's size using HTML code, you will use the Image Resize Dialog Box to enter in selected values for your image height and width. Decrease the width. You can usually do this with pixels, percentage or inches (centimeters). By decreasing the width and leaving the height at default, you will make a picture skinnier. Conversely, you can allow the width to remain the same and increase the height."
+        }
+      ]
+    },
+    {
+      "name":"Make a Picture Skinnier Using a Word Processor",
+      "steps":[
+        {
+          "headline":"Select the image you wish to alter.",
+          "description":"In some word processing programs, it may be necessary to double click. The image is ready to resize when handles, which are small circles or squares, appear at the corners, along each side and in the middle of the picture."
+        },
+        {
+          "headline":"Click on any of the corner handles or those on the sides of the picture, and drag to the appropriate size.",
+          "description":"With your mouse, holding down the left button (or main button on a Mac), you can move these handles closer to or further away from the image center. This allows you to make a picture skinnier until it fits your specifications."
+        }
+      ]
+    }
+  ],
+  "text":" Make a Picture Skinnier Using an Image Editor Select Image Size or Resize from the Image menu of your Image Editor. The actual tool may have a slightly different name depending on the program you are using, but it should be similar to those listed here and recognized for its purpose of allowing you to resize your image. Change the pixel size for width and height, if necessary. Similar to editing an image's size using HTML code, you will use the Image Resize Dialog Box to enter in selected values for your image height and width. Decrease the width. You can usually do this with pixels, percentage or inches (centimeters). By decreasing the width and leaving the height at default, you will make a picture skinnier. Conversely, you can allow the width to remain the same and increase the height. Make a Picture Skinnier Using a Word Processor Select the image you wish to alter. In some word processing programs, it may be necessary to double click. The image is ready to resize when handles, which are small circles or squares, appear at the corners, along each side and in the middle of the picture. Click on any of the corner handles or those on the sides of the picture, and drag to the appropriate size. With your mouse, holding down the left button (or main button on a Mac), you can move these handles closer to or further away from the image center. This allows you to make a picture skinnier until it fits your specifications.",
+  "sentences":[
+    " Make a Picture Skinnier Using an Image Editor Select Image Size or Resize from the Image menu of your Image Editor.",
+    "The actual tool may have a slightly different name depending on the program you are using, but it should be similar to those listed here and recognized for its purpose of allowing you to resize your image.",
+    "Change the pixel size for width and height, if necessary.",
+    "Similar to editing an image's size using HTML code, you will use the Image Resize Dialog Box to enter in selected values for your image height and width.",
+    "Decrease the width.",
+    "You can usually do this with pixels, percentage or inches (centimeters).",
+    "By decreasing the width and leaving the height at default, you will make a picture skinnier.",
+    "Conversely, you can allow the width to remain the same and increase the height.",
+    "Make a Picture Skinnier Using a Word Processor Select the image you wish to alter.",
+    "In some word processing programs, it may be necessary to double click.",
+    "The image is ready to resize when handles, which are small circles or squares, appear at the corners, along each side and in the middle of the picture.",
+    "Click on any of the corner handles or those on the sides of the picture, and drag to the appropriate size.",
+    "With your mouse, holding down the left button (or main button on a Mac), you can move these handles closer to or further away from the image center.",
+    "This allows you to make a picture skinnier until it fits your specifications."
+  ],
+  "tyn_section":[
+    "Image editing software",
+    "Word processing software"
+  ],
+  "tyn_model":[
+    "image editor",
+    "image resize",
+    "word processor",
+    "word processing programs",
+    "mouse",
+    "mac"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

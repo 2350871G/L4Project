@@ -1,0 +1,90 @@
+{
+  "title":"How to Cook Sea Urchin",
+  "url":"https://www.wikihow.com/Cook-Sea-Urchin",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "World Cuisines",
+    "Asian Cuisine",
+    "Japanese Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Locate a fishmonger or store that sells live sea urchin.",
+      "description":"If you have a Japanese or Korean market, you might be able to find them there. Select fresh specimens that have stiff, rigid spines and a closed opening on the underside. Store them in the refrigerator underneath a damp towel until you are ready to cook them."
+    },
+    {
+      "headline":"Cut a round opening in the top of the sea urchin using small, pointed scissors.",
+      "description":"Scissors from a men's grooming kit work well, or you can use regular kitchen shears if you cannot find anything else. Wash the scissors with hot, soapy water before using them on any food product."
+    },
+    {
+      "headline":"Scoop out the \"tongues\" of the sea urchin with a small spoon.",
+      "description":"A grapefruit spoon works well. Rinse the pieces quickly under cold water, and place them in a bowl with the onion, sherry, lemon juice, cilantro and 1 T. olive oil. Allow to marinate for 20 to 30 minutes."
+    },
+    {
+      "headline":"Preheat the grill, and brush the bread with the rest of the olive oil.",
+      "description":"When the grill is heated to medium, toast the bread on both sides."
+    },
+    {
+      "headline":"Add the sea urchin to the top of the slices and serve.",
+      "description":""
+    }
+  ],
+  "text":" Locate a fishmonger or store that sells live sea urchin. If you have a Japanese or Korean market, you might be able to find them there. Select fresh specimens that have stiff, rigid spines and a closed opening on the underside. Store them in the refrigerator underneath a damp towel until you are ready to cook them. Cut a round opening in the top of the sea urchin using small, pointed scissors. Scissors from a men's grooming kit work well, or you can use regular kitchen shears if you cannot find anything else. Wash the scissors with hot, soapy water before using them on any food product. Scoop out the \"tongues\" of the sea urchin with a small spoon. A grapefruit spoon works well. Rinse the pieces quickly under cold water, and place them in a bowl with the onion, sherry, lemon juice, cilantro and 1 T. olive oil. Allow to marinate for 20 to 30 minutes. Preheat the grill, and brush the bread with the rest of the olive oil. When the grill is heated to medium, toast the bread on both sides. Add the sea urchin to the top of the slices and serve. ",
+  "sentences":[
+    " Locate a fishmonger or store that sells live sea urchin.",
+    "If you have a Japanese or Korean market, you might be able to find them there.",
+    "Select fresh specimens that have stiff, rigid spines and a closed opening on the underside.",
+    "Store them in the refrigerator underneath a damp towel until you are ready to cook them.",
+    "Cut a round opening in the top of the sea urchin using small, pointed scissors.",
+    "Scissors from a men's grooming kit work well, or you can use regular kitchen shears if you cannot find anything else.",
+    "Wash the scissors with hot, soapy water before using them on any food product.",
+    "Scoop out the \"tongues\" of the sea urchin with a small spoon.",
+    "A grapefruit spoon works well.",
+    "Rinse the pieces quickly under cold water, and place them in a bowl with the onion, sherry, lemon juice, cilantro and 1 T. olive oil.",
+    "Allow to marinate for 20 to 30 minutes.",
+    "Preheat the grill, and brush the bread with the rest of the olive oil.",
+    "When the grill is heated to medium, toast the bread on both sides.",
+    "Add the sea urchin to the top of the slices and serve."
+  ],
+  "tyn_section":[
+    "Small pointed scissors",
+    "Fresh sea urchins",
+    "Small spoon"
+  ],
+  "tyn_model":[
+    "sea urchin",
+    "scissors",
+    "olive oil",
+    "grill",
+    "kitchen shears",
+    "grapefruit spoon",
+    "water",
+    "bowl",
+    "onion",
+    "sherry",
+    "lemon juice",
+    "cilantro"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.1666666667,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title":"How to Make Banana Cream Cheese Frosting",
+  "url":"https://www.wikihow.com/Make-Banana-Cream-Cheese-Frosting",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking"
+  ],
+  "steps":[
+    {
+      "headline":"Measure and add the butter, sour cream, and cream cheese in a large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Beat everything together until smooth and light in color.",
+      "description":""
+    },
+    {
+      "headline":"Add the remaining ingredients to the bowl.",
+      "description":""
+    },
+    {
+      "headline":"Continue mixing.",
+      "description":"You want to achieve a fluffy and creamy mixture."
+    },
+    {
+      "headline":"Use immediately on a cooled cake.",
+      "description":"You can also use clear wrap on the bowl and chill in the refrigerator until ready to use."
+    }
+  ],
+  "text":" Measure and add the butter, sour cream, and cream cheese in a large bowl.  Beat everything together until smooth and light in color.  Add the remaining ingredients to the bowl.  Continue mixing. You want to achieve a fluffy and creamy mixture. Use immediately on a cooled cake. You can also use clear wrap on the bowl and chill in the refrigerator until ready to use.",
+  "sentences":[
+    " Measure and add the butter, sour cream, and cream cheese in a large bowl.",
+    "Beat everything together until smooth and light in color.",
+    "Add the remaining ingredients to the bowl.",
+    "Continue mixing.",
+    "You want to achieve a fluffy and creamy mixture.",
+    "Use immediately on a cooled cake.",
+    "You can also use clear wrap on the bowl and chill in the refrigerator until ready to use."
+  ],
+  "tyn_section":[
+    "Hand mixer or stand mixer",
+    "Large bowl"
+  ],
+  "tyn_model":[
+    "bowl",
+    "butter",
+    "sour cream",
+    "cream cheese",
+    "large bowl",
+    "clear wrap",
+    "refrigerator"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  }
+}

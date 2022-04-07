@@ -1,0 +1,103 @@
+{
+  "title":"How to Operate an Elevator in Fire Service Mode",
+  "url":"https://www.wikihow.com/Operate-an-Elevator-in-Fire-Service-Mode",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Disaster Preparedness"
+  ],
+  "steps":[
+    {
+      "headline":"Know that fire service mode can be activated automatically (whenever smoke is detected within the building) or manually (using a key switch located on the ground floor).",
+      "description":"When fire service is activated, the lifts in the building will recall to the ground floor unless if the alarm was triggered on the ground floor, where it will then return to an alternate floor. The elevator remains inoperable to the general public."
+    },
+    {
+      "headline":"Set the fireman's switch (located in each elevator in the United States/Canada and located in the hallway in Europe) to one of the following positions:",
+      "description":"On: Permits usage of the elevator in fire service mode. Hold: Holds the elevator at a specific floor. Off:  Recalls the lift down to the ground floor."
+    },
+    {
+      "headline":"You may now select a floor (or group of floors) to go to.",
+      "description":"Pressing the \"Call Cancel\" button will clear your selection(s)."
+    },
+    {
+      "headline":"The elevator will not leave the floor until the \"Door Close\" button is held down.",
+      "description":"You must hold this button until the doors are fully closed; otherwise, they will reopen."
+    },
+    {
+      "headline":"The elevator will travel to the desired floor.",
+      "description":"When it stops, the doors will remain closed. This is a safety feature. You must hold the \"Door Open\" button until the doors are fully open. If smoke or flames enter the elevator, release the button immediately. The doors will close."
+    },
+    {
+      "headline":"If you wish to leave the elevator, set the fire service key switch to \"Hold\" and remove the key.",
+      "description":"This prevents others from using the elevator. To continue using fire service mode, reinsert the key and turn it to \"On\"."
+    },
+    {
+      "headline":"To return to the recall floor, set the fire service key switch to \"Off\".",
+      "description":""
+    },
+    {
+      "headline":"The elevators will continue to remain inoperable.",
+      "description":"To return them to normal operation, turn the fire recall switch (located in the hallway) to \"Bypass\". It should be noted that each elevator manufacturer uses their own fire service key. That's why you often see a Knox-box for firefighters to obtain the proper key for a building's specific model elevator. For example, a Dover (Thyssen-Krupp) elevator uses a different key than an Otis."
+    }
+  ],
+  "text":" Know that fire service mode can be activated automatically (whenever smoke is detected within the building) or manually (using a key switch located on the ground floor). When fire service is activated, the lifts in the building will recall to the ground floor unless if the alarm was triggered on the ground floor, where it will then return to an alternate floor. The elevator remains inoperable to the general public. Set the fireman's switch (located in each elevator in the United States/Canada and located in the hallway in Europe) to one of the following positions: On: Permits usage of the elevator in fire service mode. Hold: Holds the elevator at a specific floor. Off:  Recalls the lift down to the ground floor. You may now select a floor (or group of floors) to go to. Pressing the \"Call Cancel\" button will clear your selection(s). The elevator will not leave the floor until the \"Door Close\" button is held down. You must hold this button until the doors are fully closed; otherwise, they will reopen. The elevator will travel to the desired floor. When it stops, the doors will remain closed. This is a safety feature. You must hold the \"Door Open\" button until the doors are fully open. If smoke or flames enter the elevator, release the button immediately. The doors will close. If you wish to leave the elevator, set the fire service key switch to \"Hold\" and remove the key. This prevents others from using the elevator. To continue using fire service mode, reinsert the key and turn it to \"On\". To return to the recall floor, set the fire service key switch to \"Off\".  The elevators will continue to remain inoperable. To return them to normal operation, turn the fire recall switch (located in the hallway) to \"Bypass\". It should be noted that each elevator manufacturer uses their own fire service key. That's why you often see a Knox-box for firefighters to obtain the proper key for a building's specific model elevator. For example, a Dover (Thyssen-Krupp) elevator uses a different key than an Otis.",
+  "sentences":[
+    " Know that fire service mode can be activated automatically (whenever smoke is detected within the building) or manually (using a key switch located on the ground floor).",
+    "When fire service is activated, the lifts in the building will recall to the ground floor unless if the alarm was triggered on the ground floor, where it will then return to an alternate floor.",
+    "The elevator remains inoperable to the general public.",
+    "Set the fireman's switch (located in each elevator in the United States/Canada and located in the hallway in Europe) to one of the following positions: On: Permits usage of the elevator in fire service mode.",
+    "Hold: Holds the elevator at a specific floor.",
+    "Off:  Recalls the lift down to the ground floor.",
+    "You may now select a floor (or group of floors) to go to.",
+    "Pressing the \"Call Cancel\" button will clear your selection(s).",
+    "The elevator will not leave the floor until the \"Door Close\" button is held down.",
+    "You must hold this button until the doors are fully closed; otherwise, they will reopen.",
+    "The elevator will travel to the desired floor.",
+    "When it stops, the doors will remain closed.",
+    "This is a safety feature.",
+    "You must hold the \"Door Open\" button until the doors are fully open.",
+    "If smoke or flames enter the elevator, release the button immediately.",
+    "The doors will close.",
+    "If you wish to leave the elevator, set the fire service key switch to \"Hold\" and remove the key.",
+    "This prevents others from using the elevator.",
+    "To continue using fire service mode, reinsert the key and turn it to \"On\".",
+    "To return to the recall floor, set the fire service key switch to \"Off\".",
+    "The elevators will continue to remain inoperable.",
+    "To return them to normal operation, turn the fire recall switch (located in the hallway) to \"Bypass\".",
+    "It should be noted that each elevator manufacturer uses their own fire service key.",
+    "That's why you often see a Knox-box for firefighters to obtain the proper key for a building's specific model elevator.",
+    "For example, a Dover (Thyssen-Krupp) elevator uses a different key than an Otis."
+  ],
+  "tyn_section":[
+    "An elevator with a fire service mode",
+    "A key that will work with that particular elevator"
+  ],
+  "tyn_model":[
+    "elevator",
+    "fire service key",
+    "lifts",
+    "lift",
+    "elevators",
+    "otis"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

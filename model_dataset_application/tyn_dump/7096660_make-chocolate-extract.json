@@ -1,0 +1,116 @@
+{
+  "title":"How to Make Chocolate Extract",
+  "url":"https://www.wikihow.com/Make-Chocolate-Extract",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy",
+    "Making Chocolate"
+  ],
+  "parts":[
+    {
+      "name":"Making the Infusion",
+      "steps":[
+        {
+          "headline":"Tip the cocoa powder into the clean glass jar or bottle.",
+          "description":"Use a funnel to assist, if needed."
+        },
+        {
+          "headline":"Pour the vodka over the cocoa powder.",
+          "description":""
+        },
+        {
+          "headline":"Place the lid on and shake to combine well.",
+          "description":"Or, you can stir before adding the lid, then add the lid and shake."
+        }
+      ]
+    },
+    {
+      "name":"Straining",
+      "steps":[
+        {
+          "headline":"Strain the extract.",
+          "description":"After you're satisfied that the chocolate extract is strong enough for your liking, strain it to make it pure."
+        },
+        {
+          "headline":"Slightly dampen a coffee filter.",
+          "description":"Place this over the opening of the jar or bottle."
+        },
+        {
+          "headline":"Pour the liquid through the filter and into another jar or bottle.",
+          "description":"This needs to happen gradually, as the filter will prevent fast pouring. Take it slowly and allow the liquid to drip through into the final storage container."
+        },
+        {
+          "headline":"Squeeze the filter gently.",
+          "description":"At the end of the liquid, to get the last bits of chocolate infused liquid out, squeeze the filter with care. It can then be disposed of."
+        },
+        {
+          "headline":"Place the lid on the strained liquid.",
+          "description":"This is your precious chocolate extract."
+        },
+        {
+          "headline":"Done.",
+          "description":"The extract is now ready for use in your baking and cooking. Shake before use."
+        }
+      ]
+    }
+  ],
+  "text":" Making the Infusion Tip the cocoa powder into the clean glass jar or bottle. Use a funnel to assist, if needed. Pour the vodka over the cocoa powder.  Place the lid on and shake to combine well. Or, you can stir before adding the lid, then add the lid and shake. Straining Strain the extract. After you're satisfied that the chocolate extract is strong enough for your liking, strain it to make it pure. Slightly dampen a coffee filter. Place this over the opening of the jar or bottle. Pour the liquid through the filter and into another jar or bottle. This needs to happen gradually, as the filter will prevent fast pouring. Take it slowly and allow the liquid to drip through into the final storage container. Squeeze the filter gently. At the end of the liquid, to get the last bits of chocolate infused liquid out, squeeze the filter with care. It can then be disposed of. Place the lid on the strained liquid. This is your precious chocolate extract. Done. The extract is now ready for use in your baking and cooking. Shake before use.",
+  "sentences":[
+    " Making the Infusion Tip the cocoa powder into the clean glass jar or bottle.",
+    "Use a funnel to assist, if needed.",
+    "Pour the vodka over the cocoa powder.",
+    "Place the lid on and shake to combine well.",
+    "Or, you can stir before adding the lid, then add the lid and shake.",
+    "Straining Strain the extract.",
+    "After you're satisfied that the chocolate extract is strong enough for your liking, strain it to make it pure.",
+    "Slightly dampen a coffee filter.",
+    "Place this over the opening of the jar or bottle.",
+    "Pour the liquid through the filter and into another jar or bottle.",
+    "This needs to happen gradually, as the filter will prevent fast pouring.",
+    "Take it slowly and allow the liquid to drip through into the final storage container.",
+    "Squeeze the filter gently.",
+    "At the end of the liquid, to get the last bits of chocolate infused liquid out, squeeze the filter with care.",
+    "It can then be disposed of.",
+    "Place the lid on the strained liquid.",
+    "This is your precious chocolate extract.",
+    "Done.",
+    "The extract is now ready for use in your baking and cooking.",
+    "Shake before use."
+  ],
+  "tyn_section":[
+    "Jar or bottle, fresh and cleaned, for infusion; another one for the final storage container; both must have lids",
+    "Funnel, optional but useful",
+    "Coffee filter paper"
+  ],
+  "tyn_model":[
+    "cocoa powder",
+    "chocolate",
+    "filter",
+    "funnel",
+    "vodka",
+    "coffee filter",
+    "chocolate extract"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2857142857,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1428571429,
+    "f1":0.2
+  }
+}

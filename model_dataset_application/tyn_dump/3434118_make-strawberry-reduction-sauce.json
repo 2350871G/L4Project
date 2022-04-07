@@ -1,0 +1,91 @@
+{
+  "title":"How to Make Strawberry Reduction Sauce",
+  "url":"https://www.wikihow.com/Make-Strawberry-Reduction-Sauce",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Sauces"
+  ],
+  "steps":[
+    {
+      "headline":"Wash the strawberries.",
+      "description":"Remember to remove the green top off the strawberry."
+    },
+    {
+      "headline":"Slice each strawberry in half lengthwise and put them into a pot.",
+      "description":""
+    },
+    {
+      "headline":"Add at least 2 tablespoons (29.6 ml) of white sugar.",
+      "description":""
+    },
+    {
+      "headline":"Turn the heat to medium and add 1 cup of water.",
+      "description":""
+    },
+    {
+      "headline":"Boil for 15 minutes on medium heat.",
+      "description":""
+    },
+    {
+      "headline":"After rising for 7-10 minutes, stir it and mash it with a spoon or a fork.",
+      "description":""
+    },
+    {
+      "headline":"(Optional) When 5 more minutes have passed, stir it again.",
+      "description":""
+    },
+    {
+      "headline":"Turn off the heat, put the sauce into a serving bowl.",
+      "description":"Refrigerate before serving."
+    }
+  ],
+  "text":" Wash the strawberries. Remember to remove the green top off the strawberry. Slice each strawberry in half lengthwise and put them into a pot.  Add at least 2 tablespoons (29.6 ml) of white sugar.  Turn the heat to medium and add 1 cup of water.  Boil for 15 minutes on medium heat.  After rising for 7-10 minutes, stir it and mash it with a spoon or a fork.  (Optional) When 5 more minutes have passed, stir it again.  Turn off the heat, put the sauce into a serving bowl. Refrigerate before serving.",
+  "sentences":[
+    " Wash the strawberries.",
+    "Remember to remove the green top off the strawberry.",
+    "Slice each strawberry in half lengthwise and put them into a pot.",
+    "Add at least 2 tablespoons (29.6 ml) of white sugar.",
+    "Turn the heat to medium and add 1 cup of water.",
+    "Boil for 15 minutes on medium heat.",
+    "After rising for 7-10 minutes, stir it and mash it with a spoon or a fork.",
+    "(Optional) When 5 more minutes have passed, stir it again.",
+    "Turn off the heat, put the sauce into a serving bowl.",
+    "Refrigerate before serving."
+  ],
+  "tyn_section":[
+    "A pot",
+    "Spoon/ fork"
+  ],
+  "tyn_model":[
+    "strawberries",
+    "pot",
+    "white sugar",
+    "water",
+    "spoon",
+    "fork",
+    "serving bowl"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2857142857,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2857142857,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

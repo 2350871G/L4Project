@@ -1,0 +1,69 @@
+{
+  "title":"How to Add Gluten to Flour",
+  "url":"https://www.wikihow.com/Add-Gluten-to-Flour",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking"
+  ],
+  "steps":[
+    {
+      "headline":"Add the vital wheat gluten on a per-recipe basis and not to the entire bag of flour.",
+      "description":"The standard gluten/flour ratio is 1 tbsp. (15 ml) for every 2 to 3 cups (473 ml to 711 ml) of flour."
+    },
+    {
+      "headline":"Mix in the vital wheat gluten before you add the other dry ingredients once you have determined how to add gluten to flour.",
+      "description":"Add your flour to a bowl, add the gluten and mix it together with a fork or pour it into a sifter and sift it into a fresh bowl."
+    },
+    {
+      "headline":"Combine your wet ingredients per the instructions in your bread recipe.",
+      "description":"Once you have mixed the gluten into the flour you can use it as you would any other flour."
+    }
+  ],
+  "text":" Add the vital wheat gluten on a per-recipe basis and not to the entire bag of flour. The standard gluten/flour ratio is 1 tbsp. (15 ml) for every 2 to 3 cups (473 ml to 711 ml) of flour. Mix in the vital wheat gluten before you add the other dry ingredients once you have determined how to add gluten to flour. Add your flour to a bowl, add the gluten and mix it together with a fork or pour it into a sifter and sift it into a fresh bowl. Combine your wet ingredients per the instructions in your bread recipe. Once you have mixed the gluten into the flour you can use it as you would any other flour.",
+  "sentences":[
+    " Add the vital wheat gluten on a per-recipe basis and not to the entire bag of flour.",
+    "The standard gluten/flour ratio is 1 tbsp.",
+    "(15 ml) for every 2 to 3 cups (473 ml to 711 ml) of flour.",
+    "Mix in the vital wheat gluten before you add the other dry ingredients once you have determined how to add gluten to flour.",
+    "Add your flour to a bowl, add the gluten and mix it together with a fork or pour it into a sifter and sift it into a fresh bowl.",
+    "Combine your wet ingredients per the instructions in your bread recipe.",
+    "Once you have mixed the gluten into the flour you can use it as you would any other flour."
+  ],
+  "tyn_section":[
+    "Vital wheat gluten",
+    "Measuring spoon or cup",
+    "Bowl",
+    "Fork or flour sifter"
+  ],
+  "tyn_model":[
+    "flour",
+    "bowl",
+    "wheat gluten",
+    "vital wheat gluten",
+    "gluten",
+    "fork",
+    "sifter"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636,
+    "avg_pos":0.4285714286
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.4285714286,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5714285714,
+    "f1":0.5333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.4285714286,
+    "f1":0.4615384615
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title":"How to Steam Press a Sweater or Other Knit Garment",
+  "url":"https://www.wikihow.com/Steam-Press-a-Sweater-or-Other-Knit-Garment",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Laundry",
+    "Ironing",
+    "Clothes Steaming"
+  ],
+  "steps":[
+    {
+      "headline":"Start your iron heating up.",
+      "description":""
+    },
+    {
+      "headline":"Dampen a towel, preferably one that is not terrycloth.",
+      "description":""
+    },
+    {
+      "headline":"Lay your garment on the ironing board with any wrinkles smoothed out by hand.",
+      "description":""
+    },
+    {
+      "headline":"Lay the damp towel over a section the garment.",
+      "description":""
+    },
+    {
+      "headline":"Put the heated iron on the damp towel, and allow it to rest on the towel for about one second.",
+      "description":"Keep the iron still, and do not slide it around the way you usually do when ironing."
+    },
+    {
+      "headline":"Keep repositioning the iron until you have pressed the entire area that you are working with.",
+      "description":""
+    },
+    {
+      "headline":"Put the iron down in a safe place, and move the garment so that you can do the next section.",
+      "description":""
+    },
+    {
+      "headline":"When you have finished pressing the garment, lay it flat until it has cooled off and completely dried.",
+      "description":"Do not use hangers. That will misshape the garment."
+    }
+  ],
+  "text":" Start your iron heating up.  Dampen a towel, preferably one that is not terrycloth.  Lay your garment on the ironing board with any wrinkles smoothed out by hand.  Lay the damp towel over a section the garment.  Put the heated iron on the damp towel, and allow it to rest on the towel for about one second. Keep the iron still, and do not slide it around the way you usually do when ironing. Keep repositioning the iron until you have pressed the entire area that you are working with.  Put the iron down in a safe place, and move the garment so that you can do the next section.  When you have finished pressing the garment, lay it flat until it has cooled off and completely dried. Do not use hangers. That will misshape the garment.",
+  "sentences":[
+    " Start your iron heating up.",
+    "Dampen a towel, preferably one that is not terrycloth.",
+    "Lay your garment on the ironing board with any wrinkles smoothed out by hand.",
+    "Lay the damp towel over a section the garment.",
+    "Put the heated iron on the damp towel, and allow it to rest on the towel for about one second.",
+    "Keep the iron still, and do not slide it around the way you usually do when ironing.",
+    "Keep repositioning the iron until you have pressed the entire area that you are working with.",
+    "Put the iron down in a safe place, and move the garment so that you can do the next section.",
+    "When you have finished pressing the garment, lay it flat until it has cooled off and completely dried.",
+    "Do not use hangers.",
+    "That will misshape the garment."
+  ],
+  "tyn_section":[
+    "Iron",
+    "Towel or other medium-sized cloth, preferably not terry",
+    "Ironing board",
+    "Water",
+    "Rumpled garment"
+  ],
+  "tyn_model":[
+    "iron",
+    "ironing board",
+    "hangers"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.6666666667,
+    "f1":0.5,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.6666666667,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.6666666667,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.6666666667,
+    "f1":0.5
+  }
+}

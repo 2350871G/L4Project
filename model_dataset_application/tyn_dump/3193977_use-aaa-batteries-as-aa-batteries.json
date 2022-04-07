@@ -1,0 +1,77 @@
+{
+  "title":"How to Use AAA Batteries As AA Batteries",
+  "url":"https://www.wikihow.com/Use-AAA-Batteries-As-AA-Batteries",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Get your device that needs AA batteries and get your AAA batteries.",
+      "description":""
+    },
+    {
+      "headline":"Grab some aluminum foil.",
+      "description":""
+    },
+    {
+      "headline":"Place the AAA batteries into your device's battery slot.",
+      "description":"You will obviously see some extra space in the slot, since the AAA batteries are smaller than AA batteries."
+    },
+    {
+      "headline":"Rip a piece of aluminum foil and curl it into a small ball.",
+      "description":"The size of the ball should be the same size of the extra space in your device's battery slot."
+    },
+    {
+      "headline":"Place the aluminum foil in the gap.",
+      "description":"The aluminum foil should be on the battery's negative terminal, not the positive."
+    },
+    {
+      "headline":"Finished.",
+      "description":"Your device will be able to work."
+    }
+  ],
+  "text":" Get your device that needs AA batteries and get your AAA batteries.  Grab some aluminum foil.  Place the AAA batteries into your device's battery slot. You will obviously see some extra space in the slot, since the AAA batteries are smaller than AA batteries. Rip a piece of aluminum foil and curl it into a small ball. The size of the ball should be the same size of the extra space in your device's battery slot. Place the aluminum foil in the gap. The aluminum foil should be on the battery's negative terminal, not the positive. Finished. Your device will be able to work.",
+  "sentences":[
+    " Get your device that needs AA batteries and get your AAA batteries.",
+    "Grab some aluminum foil.",
+    "Place the AAA batteries into your device's battery slot.",
+    "You will obviously see some extra space in the slot, since the AAA batteries are smaller than AA batteries.",
+    "Rip a piece of aluminum foil and curl it into a small ball.",
+    "The size of the ball should be the same size of the extra space in your device's battery slot.",
+    "Place the aluminum foil in the gap.",
+    "The aluminum foil should be on the battery's negative terminal, not the positive.",
+    "Finished.",
+    "Your device will be able to work."
+  ],
+  "tyn_section":[
+    "A device that needs AA batteries",
+    "AAA batteries",
+    "Aluminum foil"
+  ],
+  "tyn_model":[
+    "aluminum foil"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":1.0,
+    "f1":0.5,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":1.0,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":1.0,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":1.0,
+    "f1":0.5
+  }
+}

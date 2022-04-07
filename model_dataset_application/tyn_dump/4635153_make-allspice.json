@@ -1,0 +1,116 @@
+{
+  "title":"How to Make Allspice",
+  "url":"https://www.wikihow.com/Make-Allspice",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Herbs and Spices",
+    "Spice Mixes"
+  ],
+  "methods":[
+    {
+      "name":"Grinding Real Allspice",
+      "steps":[
+        {
+          "headline":"Find whole allspice berries at a bulk spice or tea store.",
+          "description":"The whole berries last much longer than powdered berries. You can also purchase the berries through an online spice retailer."
+        },
+        {
+          "headline":"Place one teaspoon of the berries into a clean coffee grinder.",
+          "description":"To maximize freshness, only grind as much as you are going to use at once."
+        },
+        {
+          "headline":"Cover the coffee grinder with a lid.",
+          "description":"Grind for 15 seconds. Look inside the coffee grinder to see if the allspice is powdery. If it isn\u2019t powdered yet, repeat the grinding for another 10 to 15 seconds."
+        },
+        {
+          "headline":"Unplug the coffee grinder.",
+          "description":"Scrape the ground allspice out of the coffee grinder and into a bowl with a small rubber spatula. Use immediately for a strong, sweet flavor."
+        }
+      ]
+    },
+    {
+      "name":"Making Allspice Substitute",
+      "steps":[
+        {
+          "headline":"Place a small bowl in the center of your workspace.",
+          "description":"It should have a fairly deep lip so that you can mix the spices without spilling them."
+        },
+        {
+          "headline":"Measure one-half teaspoon of ground cinnamon, one-fourth teaspoon of ground clove and one-fourth teaspoon of ground nutmeg into your bowl.",
+          "description":"This recipe is for one teaspoon of allspice substitute; however, you can increase your measurements if you need more."
+        },
+        {
+          "headline":"Mix with a small whisk for one minute.",
+          "description":"Use the mixture in your dish."
+        }
+      ]
+    }
+  ],
+  "text":" Grinding Real Allspice Find whole allspice berries at a bulk spice or tea store. The whole berries last much longer than powdered berries. You can also purchase the berries through an online spice retailer. Place one teaspoon of the berries into a clean coffee grinder. To maximize freshness, only grind as much as you are going to use at once. Cover the coffee grinder with a lid. Grind for 15 seconds. Look inside the coffee grinder to see if the allspice is powdery. If it isn\u2019t powdered yet, repeat the grinding for another 10 to 15 seconds. Unplug the coffee grinder. Scrape the ground allspice out of the coffee grinder and into a bowl with a small rubber spatula. Use immediately for a strong, sweet flavor. Making Allspice Substitute Place a small bowl in the center of your workspace. It should have a fairly deep lip so that you can mix the spices without spilling them. Measure one-half teaspoon of ground cinnamon, one-fourth teaspoon of ground clove and one-fourth teaspoon of ground nutmeg into your bowl. This recipe is for one teaspoon of allspice substitute; however, you can increase your measurements if you need more. Mix with a small whisk for one minute. Use the mixture in your dish.",
+  "sentences":[
+    " Grinding Real Allspice Find whole allspice berries at a bulk spice or tea store.",
+    "The whole berries last much longer than powdered berries.",
+    "You can also purchase the berries through an online spice retailer.",
+    "Place one teaspoon of the berries into a clean coffee grinder.",
+    "To maximize freshness, only grind as much as you are going to use at once.",
+    "Cover the coffee grinder with a lid.",
+    "Grind for 15 seconds.",
+    "Look inside the coffee grinder to see if the allspice is powdery.",
+    "If it isn\u2019t powdered yet, repeat the grinding for another 10 to 15 seconds.",
+    "Unplug the coffee grinder.",
+    "Scrape the ground allspice out of the coffee grinder and into a bowl with a small rubber spatula.",
+    "Use immediately for a strong, sweet flavor.",
+    "Making Allspice Substitute Place a small bowl in the center of your workspace.",
+    "It should have a fairly deep lip so that you can mix the spices without spilling them.",
+    "Measure one-half teaspoon of ground cinnamon, one-fourth teaspoon of ground clove and one-fourth teaspoon of ground nutmeg into your bowl.",
+    "This recipe is for one teaspoon of allspice substitute; however, you can increase your measurements if you need more.",
+    "Mix with a small whisk for one minute.",
+    "Use the mixture in your dish."
+  ],
+  "tyn_section":[
+    "Allspice (Jamaica pepper) berries",
+    "Coffee grinder",
+    "Bowl",
+    "Rubber spatula",
+    "Ground cinnamon",
+    "Ground nutmeg",
+    "Ground cloves",
+    "Whisk"
+  ],
+  "tyn_model":[
+    "coffee grinder",
+    "bowl",
+    "allspice",
+    "allspice berries",
+    "berries",
+    "spatula",
+    "spices",
+    "ground cinnamon",
+    "ground clove",
+    "ground nutmeg",
+    "allspice substitute",
+    "small whisk",
+    "dish"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.3076923077,
+    "f1":0.380952381,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.875,
+    "p":0.5384615385,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.6153846154,
+    "f1":0.7619047619
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3076923077,
+    "f1":0.380952381
+  }
+}

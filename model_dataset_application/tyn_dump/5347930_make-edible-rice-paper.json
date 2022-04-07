@@ -1,0 +1,119 @@
+{
+  "title":"How to Make Edible Rice Paper",
+  "url":"https://www.wikihow.com/Make-Edible-Rice-Paper",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation"
+  ],
+  "steps":[
+    {
+      "headline":"Mix the rice flour and tapioca flour together.",
+      "description":"Place the flour in a large bowl and mix the types of flour together until you've created an even mixture."
+    },
+    {
+      "headline":"Add the cornstarch and salt.",
+      "description":""
+    },
+    {
+      "headline":"Slowly mix in 1 tablespoon of oil and begin adding water to make a thin, pancake-like batter.",
+      "description":""
+    },
+    {
+      "headline":"Prepare your cutting board.",
+      "description":"Simply grease it and set it aside."
+    },
+    {
+      "headline":"Begin to heat your frying pan on medium to low heat.",
+      "description":"The level of heat depends on how quickly you will be flipping the paper. Make sure you use a non-stick frying pan with a tight lid."
+    },
+    {
+      "headline":"Add 1 tablespoon of oil to the pan.",
+      "description":""
+    },
+    {
+      "headline":"Fill your measuring cup with batter and pour it into the pan.",
+      "description":"Make sure your pan is slightly hot and begin gently but quickly pouring the batter into the pan. Pour in just enough batter to cover the bottom of the pan before it sets."
+    },
+    {
+      "headline":"Put the lid on the pan and let it steam for 30 seconds to 1 minute.",
+      "description":""
+    },
+    {
+      "headline":"Remove the lid and loosen the ends of the rice paper with your spatula.",
+      "description":""
+    },
+    {
+      "headline":"Carefully turn over the pan onto the cutting board.",
+      "description":"Gently tap the botton of the pan for the rice paper to fall on the board."
+    },
+    {
+      "headline":"Let the rice paper cool.",
+      "description":"When it has cooled off for a few minutes, you can use your rice paper for whatever dish you'd like to make, such as spring rolls."
+    }
+  ],
+  "text":" Mix the rice flour and tapioca flour together. Place the flour in a large bowl and mix the types of flour together until you've created an even mixture. Add the cornstarch and salt.  Slowly mix in 1 tablespoon of oil and begin adding water to make a thin, pancake-like batter.  Prepare your cutting board. Simply grease it and set it aside. Begin to heat your frying pan on medium to low heat. The level of heat depends on how quickly you will be flipping the paper. Make sure you use a non-stick frying pan with a tight lid. Add 1 tablespoon of oil to the pan.  Fill your measuring cup with batter and pour it into the pan. Make sure your pan is slightly hot and begin gently but quickly pouring the batter into the pan. Pour in just enough batter to cover the bottom of the pan before it sets. Put the lid on the pan and let it steam for 30 seconds to 1 minute.  Remove the lid and loosen the ends of the rice paper with your spatula.  Carefully turn over the pan onto the cutting board. Gently tap the botton of the pan for the rice paper to fall on the board. Let the rice paper cool. When it has cooled off for a few minutes, you can use your rice paper for whatever dish you'd like to make, such as spring rolls.",
+  "sentences":[
+    " Mix the rice flour and tapioca flour together.",
+    "Place the flour in a large bowl and mix the types of flour together until you've created an even mixture.",
+    "Add the cornstarch and salt.",
+    "Slowly mix in 1 tablespoon of oil and begin adding water to make a thin, pancake-like batter.",
+    "Prepare your cutting board.",
+    "Simply grease it and set it aside.",
+    "Begin to heat your frying pan on medium to low heat.",
+    "The level of heat depends on how quickly you will be flipping the paper.",
+    "Make sure you use a non-stick frying pan with a tight lid.",
+    "Add 1 tablespoon of oil to the pan.",
+    "Fill your measuring cup with batter and pour it into the pan.",
+    "Make sure your pan is slightly hot and begin gently but quickly pouring the batter into the pan.",
+    "Pour in just enough batter to cover the bottom of the pan before it sets.",
+    "Put the lid on the pan and let it steam for 30 seconds to 1 minute.",
+    "Remove the lid and loosen the ends of the rice paper with your spatula.",
+    "Carefully turn over the pan onto the cutting board.",
+    "Gently tap the botton of the pan for the rice paper to fall on the board.",
+    "Let the rice paper cool.",
+    "When it has cooled off for a few minutes, you can use your rice paper for whatever dish you'd like to make, such as spring rolls."
+  ],
+  "tyn_section":[
+    "Non-stick frying pan with tight lid",
+    "Cutting board (plastic)",
+    "Spatula (plastic)",
+    "Measuring cup"
+  ],
+  "tyn_model":[
+    "rice paper",
+    "flour",
+    "oil",
+    "cutting board",
+    "rice flour",
+    "tapioca flour",
+    "large bowl",
+    "cornstarch",
+    "salt",
+    "water",
+    "frying pan",
+    "non-stick frying pan",
+    "measuring cup",
+    "spatula"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.0714285714,
+    "f1":0.1111111111,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.2857142857,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.3571428571,
+    "f1":0.5263157895
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  }
+}

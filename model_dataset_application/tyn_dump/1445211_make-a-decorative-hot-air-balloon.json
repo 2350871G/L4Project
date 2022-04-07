@@ -1,0 +1,102 @@
+{
+  "title":"How to Make a Decorative Hot Air Balloon",
+  "url":"https://www.wikihow.com/Make-a-Decorative-Hot-Air-Balloon",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Decoration Projects",
+    "Making Mobiles"
+  ],
+  "steps":[
+    {
+      "headline":"First blow up a balloon until it is slightly smaller than you want your finished one to be; knot it.",
+      "description":""
+    },
+    {
+      "headline":"Now get some papier mache and cover your balloon with it; leave a small section at the bottom clear.",
+      "description":"Make sure there are no wrinkles in your papier mache."
+    },
+    {
+      "headline":"While you wait for the papier mache to dry, acquire (or weave) a basket the right size for your balloon and get some string.",
+      "description":""
+    },
+    {
+      "headline":"When the papier mache has dried pop the plastic balloon and remove its remnants.",
+      "description":"Then make four equally spaced holes around the bottom of your papier mache balloon."
+    },
+    {
+      "headline":"After that, thread a piece of string through each of the holes; secure them by either gluing or tying.",
+      "description":"Then secure the string around the rim of the basket(equally spaced) with either glue or by tying. Make sure the basket hangs level under the papier mache balloon."
+    },
+    {
+      "headline":"Now paint the outside of the papier mache shell however you want; leave it to dry.",
+      "description":"You may have to paint different sections at different times and apply more than one coat of paint."
+    },
+    {
+      "headline":"Finally, glue a hook to the top of your decorative hot air balloon.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" First blow up a balloon until it is slightly smaller than you want your finished one to be; knot it.  Now get some papier mache and cover your balloon with it; leave a small section at the bottom clear. Make sure there are no wrinkles in your papier mache. While you wait for the papier mache to dry, acquire (or weave) a basket the right size for your balloon and get some string.  When the papier mache has dried pop the plastic balloon and remove its remnants. Then make four equally spaced holes around the bottom of your papier mache balloon. After that, thread a piece of string through each of the holes; secure them by either gluing or tying. Then secure the string around the rim of the basket(equally spaced) with either glue or by tying. Make sure the basket hangs level under the papier mache balloon. Now paint the outside of the papier mache shell however you want; leave it to dry. You may have to paint different sections at different times and apply more than one coat of paint. Finally, glue a hook to the top of your decorative hot air balloon.  Finished. ",
+  "sentences":[
+    " First blow up a balloon until it is slightly smaller than you want your finished one to be; knot it.",
+    "Now get some papier mache and cover your balloon with it; leave a small section at the bottom clear.",
+    "Make sure there are no wrinkles in your papier mache.",
+    "While you wait for the papier mache to dry, acquire (or weave) a basket the right size for your balloon and get some string.",
+    "When the papier mache has dried pop the plastic balloon and remove its remnants.",
+    "Then make four equally spaced holes around the bottom of your papier mache balloon.",
+    "After that, thread a piece of string through each of the holes; secure them by either gluing or tying.",
+    "Then secure the string around the rim of the basket(equally spaced) with either glue or by tying.",
+    "Make sure the basket hangs level under the papier mache balloon.",
+    "Now paint the outside of the papier mache shell however you want; leave it to dry.",
+    "You may have to paint different sections at different times and apply more than one coat of paint.",
+    "Finally, glue a hook to the top of your decorative hot air balloon.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Glue",
+    "Papier mache - paper, water and PVA glue",
+    "A hook",
+    "String",
+    "A basket",
+    "Paint",
+    "A balloon"
+  ],
+  "tyn_model":[
+    "papier mache",
+    "string",
+    "balloon",
+    "basket",
+    "plastic balloon",
+    "glue",
+    "papier mache balloon",
+    "papier mache shell",
+    "paint",
+    "decorative hot air balloon"
+  ],
+  "simple_metrics":{
+    "r":0.4285714286,
+    "p":0.3,
+    "f1":0.3529411765,
+    "avg_pos":0.5
+  },
+  "jacc_metrics_0.5":{
+    "r":0.7142857143,
+    "p":0.5,
+    "f1":0.5882352941
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.7142857143,
+    "p":0.6,
+    "f1":0.652173913
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4285714286,
+    "p":0.3,
+    "f1":0.3529411765
+  }
+}

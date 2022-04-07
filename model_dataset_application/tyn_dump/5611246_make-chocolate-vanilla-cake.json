@@ -1,0 +1,143 @@
+{
+  "title":"How to Make Chocolate Vanilla Cake",
+  "url":"https://www.wikihow.com/Make-Chocolate-Vanilla-Cake",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cakes",
+    "Chocolate Cakes"
+  ],
+  "parts":[
+    {
+      "name":"The Vanilla Cake",
+      "steps":[
+        {
+          "headline":"Preheat oven to 350 degrees F (175 degrees C).",
+          "description":""
+        },
+        {
+          "headline":"Grease and flour a 9x9 inch pan or line a muffin pan with paper liners.",
+          "description":""
+        },
+        {
+          "headline":"In a medium bowl, cream together the sugar and butter.",
+          "description":"Beat in the eggs, one at a time, then stir in the vanilla. Combine flour and baking powder, add to the creamed mixture and mix well. Finally, stir in the milk until batter is smooth. Pour or spoon batter into the prepared pan."
+        },
+        {
+          "headline":"Bake for 30 to 40 minutes in the preheated oven.",
+          "description":"For cupcakes, bake 20 to 25 minutes. The cake is done when it springs back to the touch."
+        }
+      ]
+    },
+    {
+      "name":"Chocolate Frosting",
+      "steps":[
+        {
+          "headline":"In a medium bowl, beat powdered sugar and butter with a spoon or electric mixer on low speed until blended.",
+          "description":"Stir in vanilla and chocolate."
+        },
+        {
+          "headline":"Gradually beat in just enough milk to make frosting smooth and spreadable.",
+          "description":"If  the frosting is too thick, beat in more milk, a few drops at a time. If the frosting becomes too thin, beat in a small amount of powdered sugar. Frosts 13x9-inch cake generously, or fills and frosts an 8- or 9-inch two-layer cake."
+        }
+      ]
+    },
+    {
+      "name":"Combining and Decoration",
+      "steps":[
+        {
+          "headline":"Cut the cake in half to fill the chocolate frosting inside.",
+          "description":"This step is optional."
+        },
+        {
+          "headline":"Cover the whole cake with frosting.",
+          "description":"Use a spatula."
+        },
+        {
+          "headline":"You can make the borders of the cake the way you like.",
+          "description":"You can also make roses by moving the frosting bag in a spiral direction."
+        }
+      ]
+    }
+  ],
+  "text":" The Vanilla Cake Preheat oven to 350 degrees F (175 degrees C).  Grease and flour a 9x9 inch pan or line a muffin pan with paper liners.  In a medium bowl, cream together the sugar and butter. Beat in the eggs, one at a time, then stir in the vanilla. Combine flour and baking powder, add to the creamed mixture and mix well. Finally, stir in the milk until batter is smooth. Pour or spoon batter into the prepared pan. Bake for 30 to 40 minutes in the preheated oven. For cupcakes, bake 20 to 25 minutes. The cake is done when it springs back to the touch. Chocolate Frosting In a medium bowl, beat powdered sugar and butter with a spoon or electric mixer on low speed until blended. Stir in vanilla and chocolate. Gradually beat in just enough milk to make frosting smooth and spreadable. If  the frosting is too thick, beat in more milk, a few drops at a time. If the frosting becomes too thin, beat in a small amount of powdered sugar. Frosts 13x9-inch cake generously, or fills and frosts an 8- or 9-inch two-layer cake. Combining and Decoration Cut the cake in half to fill the chocolate frosting inside. This step is optional. Cover the whole cake with frosting. Use a spatula. You can make the borders of the cake the way you like. You can also make roses by moving the frosting bag in a spiral direction.",
+  "sentences":[
+    " The Vanilla Cake Preheat oven to 350 degrees F (175 degrees C).",
+    "Grease and flour a 9x9 inch pan or line a muffin pan with paper liners.",
+    "In a medium bowl, cream together the sugar and butter.",
+    "Beat in the eggs, one at a time, then stir in the vanilla.",
+    "Combine flour and baking powder, add to the creamed mixture and mix well.",
+    "Finally, stir in the milk until batter is smooth.",
+    "Pour or spoon batter into the prepared pan.",
+    "Bake for 30 to 40 minutes in the preheated oven.",
+    "For cupcakes, bake 20 to 25 minutes.",
+    "The cake is done when it springs back to the touch.",
+    "Chocolate Frosting In a medium bowl, beat powdered sugar and butter with a spoon or electric mixer on low speed until blended.",
+    "Stir in vanilla and chocolate.",
+    "Gradually beat in just enough milk to make frosting smooth and spreadable.",
+    "If  the frosting is too thick, beat in more milk, a few drops at a time.",
+    "If the frosting becomes too thin, beat in a small amount of powdered sugar.",
+    "Frosts 13x9-inch cake generously, or fills and frosts an 8- or 9-inch two-layer cake.",
+    "Combining and Decoration Cut the cake in half to fill the chocolate frosting inside.",
+    "This step is optional.",
+    "Cover the whole cake with frosting.",
+    "Use a spatula.",
+    "You can make the borders of the cake the way you like.",
+    "You can also make roses by moving the frosting bag in a spiral direction."
+  ],
+  "tyn_section":[
+    "Vanilla Cake",
+    "Cake pan or muffin pan and paper liners",
+    "Pastry brush",
+    "Mixing bowl",
+    "Oven",
+    "Spoon or electric mixer",
+    "Knife (optional)",
+    "Frosting spatula",
+    "Frosting bag (optional)",
+    "Cake stand"
+  ],
+  "tyn_model":[
+    "milk",
+    "flour",
+    "butter",
+    "vanilla",
+    "chocolate frosting",
+    "powdered sugar",
+    "vanilla cake",
+    "muffin pan",
+    "medium bowl",
+    "cream",
+    "sugar",
+    "eggs",
+    "baking powder",
+    "oven",
+    "spoon or electric mixer",
+    "chocolate",
+    "frosting",
+    "spatula",
+    "frosting bag"
+  ],
+  "simple_metrics":{
+    "r":0.3,
+    "p":0.1578947368,
+    "f1":0.2068965517,
+    "avg_pos":0.3157894737
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3684210526,
+    "f1":0.4242424242
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.7,
+    "p":0.4736842105,
+    "f1":0.5650224215
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.2105263158,
+    "f1":0.275862069
+  }
+}

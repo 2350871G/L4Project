@@ -1,0 +1,83 @@
+{
+  "title":"How to Kill Gnats Using a Ziplock Freezer Bag",
+  "url":"https://www.wikihow.com/Kill-Gnats-Using-a-Ziplock-Freezer-Bag",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Pest Control"
+  ],
+  "steps":[
+    {
+      "headline":"Get a Ziplock freezer bag that has a zipper on it.",
+      "description":""
+    },
+    {
+      "headline":"Put a bit of food or apple cider vinegar (apple cider vinegar works best) into the bottom of the freezer bag.",
+      "description":""
+    },
+    {
+      "headline":"Close the freezer bag, leaving just a small hole open for the gnats to enter.",
+      "description":""
+    },
+    {
+      "headline":"Place the bag near the highly concentrated area of gnats and/or place multiple bags around the room.",
+      "description":""
+    },
+    {
+      "headline":"Wait a couple hours or possibly longer without disturbing the gnats.",
+      "description":"The longer you wait, the more gnats will likely be in the bag(s)."
+    },
+    {
+      "headline":"Once gnats are in the bag, close the zipper lock so that they are trapped and cannot escape.",
+      "description":""
+    },
+    {
+      "headline":"Throw away the bag or manually squish the gnats.",
+      "description":""
+    }
+  ],
+  "text":" Get a Ziplock freezer bag that has a zipper on it.  Put a bit of food or apple cider vinegar (apple cider vinegar works best) into the bottom of the freezer bag.  Close the freezer bag, leaving just a small hole open for the gnats to enter.  Place the bag near the highly concentrated area of gnats and/or place multiple bags around the room.  Wait a couple hours or possibly longer without disturbing the gnats. The longer you wait, the more gnats will likely be in the bag(s). Once gnats are in the bag, close the zipper lock so that they are trapped and cannot escape.  Throw away the bag or manually squish the gnats. ",
+  "sentences":[
+    " Get a Ziplock freezer bag that has a zipper on it.",
+    "Put a bit of food or apple cider vinegar (apple cider vinegar works best) into the bottom of the freezer bag.",
+    "Close the freezer bag, leaving just a small hole open for the gnats to enter.",
+    "Place the bag near the highly concentrated area of gnats and/or place multiple bags around the room.",
+    "Wait a couple hours or possibly longer without disturbing the gnats.",
+    "The longer you wait, the more gnats will likely be in the bag(s).",
+    "Once gnats are in the bag, close the zipper lock so that they are trapped and cannot escape.",
+    "Throw away the bag or manually squish the gnats."
+  ],
+  "tyn_section":[
+    "Ziplock freezer bag",
+    "Apple cider vinegar, or a small to medium sized food item"
+  ],
+  "tyn_model":[
+    "apple cider vinegar",
+    "freezer bag",
+    "ziplock freezer bag",
+    "bags",
+    "bag",
+    "gnats"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25,
+    "avg_pos":0.3333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title":"How to Cool Bread",
+  "url":"https://www.wikihow.com/Cool-Bread",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Breads",
+    "Bread Making Tips"
+  ],
+  "steps":[
+    {
+      "headline":"Read the recipe.",
+      "description":"The recipe may make a certain cooling method apparent and this should be followed to ensure the outcome promised by the recipe. If not, follow the method outlined here."
+    },
+    {
+      "headline":"Remove the bread from the oven.",
+      "description":"Use oven mitts to protect your hands from both the hot pan and oven. When handling the hot bread, consider leaving the mitts on initially."
+    },
+    {
+      "headline":"Remove the bread from the loaf pan or baking pan as soon as you've removed it from the oven.",
+      "description":"This is important because bread left in the pan outside of the oven will become moist, soggy, and sponge-like very quickly as the moisture in the pan condenses onto the bread."
+    },
+    {
+      "headline":"Turn the bread out onto a wire cooling rack.",
+      "description":"Leave to cool, or you can take slices of the bread when warm for a \"hot bread\" treat."
+    },
+    {
+      "headline":"Ensure that any bread to be stored is absolutely cold before placing it into plastic or paper.",
+      "description":"This will ensure that it stays crisp around the crust."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Read the recipe. The recipe may make a certain cooling method apparent and this should be followed to ensure the outcome promised by the recipe. If not, follow the method outlined here. Remove the bread from the oven. Use oven mitts to protect your hands from both the hot pan and oven. When handling the hot bread, consider leaving the mitts on initially. Remove the bread from the loaf pan or baking pan as soon as you've removed it from the oven. This is important because bread left in the pan outside of the oven will become moist, soggy, and sponge-like very quickly as the moisture in the pan condenses onto the bread. Turn the bread out onto a wire cooling rack. Leave to cool, or you can take slices of the bread when warm for a \"hot bread\" treat. Ensure that any bread to be stored is absolutely cold before placing it into plastic or paper. This will ensure that it stays crisp around the crust. Finished. ",
+  "sentences":[
+    " Read the recipe.",
+    "The recipe may make a certain cooling method apparent and this should be followed to ensure the outcome promised by the recipe.",
+    "If not, follow the method outlined here.",
+    "Remove the bread from the oven.",
+    "Use oven mitts to protect your hands from both the hot pan and oven.",
+    "When handling the hot bread, consider leaving the mitts on initially.",
+    "Remove the bread from the loaf pan or baking pan as soon as you've removed it from the oven.",
+    "This is important because bread left in the pan outside of the oven will become moist, soggy, and sponge-like very quickly as the moisture in the pan condenses onto the bread.",
+    "Turn the bread out onto a wire cooling rack.",
+    "Leave to cool, or you can take slices of the bread when warm for a \"hot bread\" treat.",
+    "Ensure that any bread to be stored is absolutely cold before placing it into plastic or paper.",
+    "This will ensure that it stays crisp around the crust.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Wire cooling rack",
+    "Oven mitts for handling hot pan and bread",
+    "Paper or plastic for room temperature storage",
+    "Foil and sealable plastic bag for freezer storage"
+  ],
+  "tyn_model":[
+    "bread",
+    "oven",
+    "oven mitts",
+    "loaf pan",
+    "baking pan"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

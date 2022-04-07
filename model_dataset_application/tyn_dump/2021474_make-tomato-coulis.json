@@ -1,0 +1,72 @@
+{
+  "title":"How to Make Tomato Coulis",
+  "url":"https://www.wikihow.com/Make-Tomato-Coulis",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Sauces",
+    "Tomato Sauces"
+  ],
+  "steps":[
+    {
+      "headline":"Put all of the ingredients (except for the salt and pepper) into the food processor or blender.",
+      "description":""
+    },
+    {
+      "headline":"Process or blend the ingredients until smooth.",
+      "description":""
+    },
+    {
+      "headline":"Add salt and pepper to taste.",
+      "description":""
+    },
+    {
+      "headline":"Use.",
+      "description":"Either pour the tomato coulis into a serving dish for diners to partake from or serve individually on plates alongside or over the food. If you want hot coulis instead, place in a pan and heat gently to just before boiling. Then serve."
+    }
+  ],
+  "text":" Put all of the ingredients (except for the salt and pepper) into the food processor or blender.  Process or blend the ingredients until smooth.  Add salt and pepper to taste.  Use. Either pour the tomato coulis into a serving dish for diners to partake from or serve individually on plates alongside or over the food. If you want hot coulis instead, place in a pan and heat gently to just before boiling. Then serve.",
+  "sentences":[
+    " Put all of the ingredients (except for the salt and pepper) into the food processor or blender.",
+    "Process or blend the ingredients until smooth.",
+    "Add salt and pepper to taste.",
+    "Use.",
+    "Either pour the tomato coulis into a serving dish for diners to partake from or serve individually on plates alongside or over the food.",
+    "If you want hot coulis instead, place in a pan and heat gently to just before boiling.",
+    "Then serve."
+  ],
+  "tyn_section":[
+    "Cutting board and knife",
+    "Food processor or blender",
+    "Serving dish (optional)",
+    "Lid or wrap if chilling; pan if heating"
+  ],
+  "tyn_model":[
+    "salt",
+    "food processor",
+    "blender",
+    "pan"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.25,
+    "f1":0.25
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.25,
+    "f1":0.25
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

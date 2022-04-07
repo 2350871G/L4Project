@@ -1,0 +1,119 @@
+{
+  "title":"How to Make Homemade Butterscotch",
+  "url":"https://www.wikihow.com/Make-Homemade-Butterscotch",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy"
+  ],
+  "steps":[
+    {
+      "headline":"Take the sugar and put it into a pot.",
+      "description":""
+    },
+    {
+      "headline":"Pour in some water.",
+      "description":"About enough to cover the sugar"
+    },
+    {
+      "headline":"Turn the stove top onto high so the water starts to boil.",
+      "description":""
+    },
+    {
+      "headline":"Start stirring the sugar right away to keep it from sticking to the bottom and turning into toffee.",
+      "description":""
+    },
+    {
+      "headline":"Keep stirring and adding water until the sugar and water mixture turns into a Brown syrupy mixture.",
+      "description":"What you have now made is a simple syrup."
+    },
+    {
+      "headline":"Remove from heat.",
+      "description":""
+    },
+    {
+      "headline":"Add the butter and stir it into the syrup.",
+      "description":"Also add a shot of cream and a teaspoon of vanilla."
+    },
+    {
+      "headline":"Put back onto the stove but heat it until it's at the \"soft crack\" stage.",
+      "description":"The soft crack stage is about 270-290\u00b0F or 132-143\u00b0C. You should have a concentration of about 95% sugar. If you heat it too long then it will turn into toffee."
+    },
+    {
+      "headline":"Keep heating until it is thick but still fluid.",
+      "description":""
+    },
+    {
+      "headline":"Immediately pour it into a bowl or container.",
+      "description":"Make sure you keep stirring it otherwise it will thicken and become a toffee like substance."
+    },
+    {
+      "headline":"Let the butterscotch cool",
+      "description":""
+    },
+    {
+      "headline":"Enjoy the great taste of butterscotch.",
+      "description":""
+    }
+  ],
+  "text":" Take the sugar and put it into a pot.  Pour in some water. About enough to cover the sugar Turn the stove top onto high so the water starts to boil.  Start stirring the sugar right away to keep it from sticking to the bottom and turning into toffee.  Keep stirring and adding water until the sugar and water mixture turns into a Brown syrupy mixture. What you have now made is a simple syrup. Remove from heat.  Add the butter and stir it into the syrup. Also add a shot of cream and a teaspoon of vanilla. Put back onto the stove but heat it until it's at the \"soft crack\" stage. The soft crack stage is about 270-290\u00b0F or 132-143\u00b0C. You should have a concentration of about 95% sugar. If you heat it too long then it will turn into toffee. Keep heating until it is thick but still fluid.  Immediately pour it into a bowl or container. Make sure you keep stirring it otherwise it will thicken and become a toffee like substance. Let the butterscotch cool  Enjoy the great taste of butterscotch. ",
+  "sentences":[
+    " Take the sugar and put it into a pot.",
+    "Pour in some water.",
+    "About enough to cover the sugar Turn the stove top onto high so the water starts to boil.",
+    "Start stirring the sugar right away to keep it from sticking to the bottom and turning into toffee.",
+    "Keep stirring and adding water until the sugar and water mixture turns into a Brown syrupy mixture.",
+    "What you have now made is a simple syrup.",
+    "Remove from heat.",
+    "Add the butter and stir it into the syrup.",
+    "Also add a shot of cream and a teaspoon of vanilla.",
+    "Put back onto the stove but heat it until it's at the \"soft crack\" stage.",
+    "The soft crack stage is about 270-290\u00b0F or 132-143\u00b0C.",
+    "You should have a concentration of about 95% sugar.",
+    "If you heat it too long then it will turn into toffee.",
+    "Keep heating until it is thick but still fluid.",
+    "Immediately pour it into a bowl or container.",
+    "Make sure you keep stirring it otherwise it will thicken and become a toffee like substance.",
+    "Let the butterscotch cool  Enjoy the great taste of butterscotch."
+  ],
+  "tyn_section":[
+    "Container for storage.",
+    "Pot",
+    "Stirring utensil",
+    "Stove"
+  ],
+  "tyn_model":[
+    "sugar",
+    "water",
+    "butterscotch",
+    "pot",
+    "stove top",
+    "simple syrup",
+    "butter",
+    "cream",
+    "vanilla",
+    "stove",
+    "bowl"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.2727272727,
+    "f1":0.3529411765
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2727272727,
+    "f1":0.3529411765
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1818181818,
+    "f1":0.2666666667
+  }
+}

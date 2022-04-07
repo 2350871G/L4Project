@@ -1,0 +1,78 @@
+{
+  "title":"How to Make Banana Butter",
+  "url":"https://www.wikihow.com/Make-Banana-Butter",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Bananas"
+  ],
+  "steps":[
+    {
+      "headline":"Cream butter and sugar.",
+      "description":""
+    },
+    {
+      "headline":"Add well beaten eggs, lemon juice and well mashed bananas.",
+      "description":""
+    },
+    {
+      "headline":"Beat well in a mixing basin.",
+      "description":""
+    },
+    {
+      "headline":"Stand the basin in a saucepan of water on the stove, over low heat.",
+      "description":"Stir until mixture thickens."
+    },
+    {
+      "headline":"Use as required.",
+      "description":""
+    }
+  ],
+  "text":" Cream butter and sugar.  Add well beaten eggs, lemon juice and well mashed bananas.  Beat well in a mixing basin.  Stand the basin in a saucepan of water on the stove, over low heat. Stir until mixture thickens. Use as required. ",
+  "sentences":[
+    " Cream butter and sugar.",
+    "Add well beaten eggs, lemon juice and well mashed bananas.",
+    "Beat well in a mixing basin.",
+    "Stand the basin in a saucepan of water on the stove, over low heat.",
+    "Stir until mixture thickens.",
+    "Use as required."
+  ],
+  "tyn_section":[
+    "Mixing basin",
+    "Saucepan",
+    "Mixing spoon"
+  ],
+  "tyn_model":[
+    "butter",
+    "sugar",
+    "eggs",
+    "lemon juice",
+    "bananas",
+    "mixing basin",
+    "saucepan",
+    "water",
+    "stove"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.2222222222,
+    "f1":0.3333333333,
+    "avg_pos":0.5555555556
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.2222222222,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.2222222222,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.2222222222,
+    "f1":0.3333333333
+  }
+}

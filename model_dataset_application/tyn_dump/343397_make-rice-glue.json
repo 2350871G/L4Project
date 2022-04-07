@@ -1,0 +1,89 @@
+{
+  "title":"How to Make Rice Glue",
+  "url":"https://www.wikihow.com/Make-Rice-Glue",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Tools",
+    "Fastening Tools"
+  ],
+  "steps":[
+    {
+      "headline":"Combine all the ingredients in a saucepan.",
+      "description":"Bring to the boil."
+    },
+    {
+      "headline":"Lower the temperature and simmer for 45 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Check its consistency.",
+      "description":"It should look a bit like oatmeal (porridge)\u2013\u2013if it still looks rice-like, add more water and keep cooking."
+    },
+    {
+      "headline":"When it looks like oatmeal, remove it from the heat and let it cool thoroughly.",
+      "description":""
+    },
+    {
+      "headline":"Push the mixture through a sieve to remove the larger pieces.",
+      "description":"Alternatively, put in a blender (you might need to add a little bit more water). Pour into a suitable storage jar."
+    },
+    {
+      "headline":"Store in the refrigerator.",
+      "description":"Use as required; apply from the jar using a glue brush."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Combine all the ingredients in a saucepan. Bring to the boil. Lower the temperature and simmer for 45 minutes.  Check its consistency. It should look a bit like oatmeal (porridge)\u2013\u2013if it still looks rice-like, add more water and keep cooking. When it looks like oatmeal, remove it from the heat and let it cool thoroughly.  Push the mixture through a sieve to remove the larger pieces. Alternatively, put in a blender (you might need to add a little bit more water). Pour into a suitable storage jar. Store in the refrigerator. Use as required; apply from the jar using a glue brush. Finished. ",
+  "sentences":[
+    " Combine all the ingredients in a saucepan.",
+    "Bring to the boil.",
+    "Lower the temperature and simmer for 45 minutes.",
+    "Check its consistency.",
+    "It should look a bit like oatmeal (porridge)\u2013\u2013if it still looks rice-like, add more water and keep cooking.",
+    "When it looks like oatmeal, remove it from the heat and let it cool thoroughly.",
+    "Push the mixture through a sieve to remove the larger pieces.",
+    "Alternatively, put in a blender (you might need to add a little bit more water).",
+    "Pour into a suitable storage jar.",
+    "Store in the refrigerator.",
+    "Use as required; apply from the jar using a glue brush.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Saucepan",
+    "Wooden spoon",
+    "Sieve or blender",
+    "Storage jar"
+  ],
+  "tyn_model":[
+    "water",
+    "saucepan",
+    "sieve",
+    "blender",
+    "refrigerator",
+    "glue brush"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2,
+    "avg_pos":0.1666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  }
+}

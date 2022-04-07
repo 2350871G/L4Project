@@ -1,0 +1,111 @@
+{
+  "title":"How to Acid Wash a Swimming Pool",
+  "url":"https://www.wikihow.com/Acid-Wash-a-Swimming-Pool",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Swimming Pools"
+  ],
+  "steps":[
+    {
+      "headline":"Drain your pool completely.",
+      "description":"As you drain, make sure to clean up any debris as you go. If your pool has an autofill, you should make sure that you turn it off during the drain. Once your pool is completely empty, start the acid-wash process."
+    },
+    {
+      "headline":"Change into protective gear that includes clothing, goggles, mask, gloves and boots.",
+      "description":""
+    },
+    {
+      "headline":"Mix 1 gallon (3.8 liters) of acid with 1 gallon (3.8 liters) of water in a watering can.",
+      "description":"Acid must be added to the water and not the other way around."
+    },
+    {
+      "headline":"Wet down one of the walls with the hose.",
+      "description":"The hose should not have a nozzle and water should be running from the hose at all times."
+    },
+    {
+      "headline":"Pour the acid mixture on the wall from top to bottom in 10-foot (300 cm) sections at a time, leaving the acid on the plaster for about 30 seconds.",
+      "description":"During this time, you should be scrubbing the wall with a brush."
+    },
+    {
+      "headline":"Rinse the section you just acid-washed quickly and thoroughly.",
+      "description":"Before moving to the next section, make sure you rinse the wall well so the acid doesn't continue to eat the plaster."
+    },
+    {
+      "headline":"Neutralize the pool after the acid-wash is complete.",
+      "description":"The acid-washing process leaves a foamy puddle of residue on the bottom of the pool that must be removed before it damages the plaster. Apply soda ash to the acid puddle, scrubbing the mixture with a pool brush. You will need to use 2 lb. (.9 kg) of soda ash per 1 gallon (3.8 liters) of acid. Pump the mixture into a bowl using a submersible pump. Dispose of what you pumped, as the acid can kill frogs, fish and plants. Rinse out the bowl. Pour water over any remaining residue, rinsing carefully around the drain."
+    }
+  ],
+  "text":" Drain your pool completely. As you drain, make sure to clean up any debris as you go. If your pool has an autofill, you should make sure that you turn it off during the drain. Once your pool is completely empty, start the acid-wash process. Change into protective gear that includes clothing, goggles, mask, gloves and boots.  Mix 1 gallon (3.8 liters) of acid with 1 gallon (3.8 liters) of water in a watering can. Acid must be added to the water and not the other way around. Wet down one of the walls with the hose. The hose should not have a nozzle and water should be running from the hose at all times. Pour the acid mixture on the wall from top to bottom in 10-foot (300 cm) sections at a time, leaving the acid on the plaster for about 30 seconds. During this time, you should be scrubbing the wall with a brush. Rinse the section you just acid-washed quickly and thoroughly. Before moving to the next section, make sure you rinse the wall well so the acid doesn't continue to eat the plaster. Neutralize the pool after the acid-wash is complete. The acid-washing process leaves a foamy puddle of residue on the bottom of the pool that must be removed before it damages the plaster. Apply soda ash to the acid puddle, scrubbing the mixture with a pool brush. You will need to use 2 lb. (.9 kg) of soda ash per 1 gallon (3.8 liters) of acid. Pump the mixture into a bowl using a submersible pump. Dispose of what you pumped, as the acid can kill frogs, fish and plants. Rinse out the bowl. Pour water over any remaining residue, rinsing carefully around the drain.",
+  "sentences":[
+    " Drain your pool completely.",
+    "As you drain, make sure to clean up any debris as you go.",
+    "If your pool has an autofill, you should make sure that you turn it off during the drain.",
+    "Once your pool is completely empty, start the acid-wash process.",
+    "Change into protective gear that includes clothing, goggles, mask, gloves and boots.",
+    "Mix 1 gallon (3.8 liters) of acid with 1 gallon (3.8 liters) of water in a watering can.",
+    "Acid must be added to the water and not the other way around.",
+    "Wet down one of the walls with the hose.",
+    "The hose should not have a nozzle and water should be running from the hose at all times.",
+    "Pour the acid mixture on the wall from top to bottom in 10-foot (300 cm) sections at a time, leaving the acid on the plaster for about 30 seconds.",
+    "During this time, you should be scrubbing the wall with a brush.",
+    "Rinse the section you just acid-washed quickly and thoroughly.",
+    "Before moving to the next section, make sure you rinse the wall well so the acid doesn't continue to eat the plaster.",
+    "Neutralize the pool after the acid-wash is complete.",
+    "The acid-washing process leaves a foamy puddle of residue on the bottom of the pool that must be removed before it damages the plaster.",
+    "Apply soda ash to the acid puddle, scrubbing the mixture with a pool brush.",
+    "You will need to use 2 lb.",
+    "(.9 kg) of soda ash per 1 gallon (3.8 liters) of acid.",
+    "Pump the mixture into a bowl using a submersible pump.",
+    "Dispose of what you pumped, as the acid can kill frogs, fish and plants.",
+    "Rinse out the bowl.",
+    "Pour water over any remaining residue, rinsing carefully around the drain."
+  ],
+  "tyn_section":[
+    "Garden hose with no nozzle",
+    "Protective clothing",
+    "Gloves",
+    "Mask",
+    "Goggles",
+    "Old boots",
+    "Acid",
+    "Watering can",
+    "Pool brush",
+    "Soda ash",
+    "Submersible pump",
+    "Bowl"
+  ],
+  "tyn_model":[
+    "water",
+    "acid-",
+    "acid",
+    "hose",
+    "soda ash",
+    "bowl",
+    "pool",
+    "protective gear",
+    "brush",
+    "pool brush",
+    "submersible pump"
+  ],
+  "simple_metrics":{
+    "r":0.4166666667,
+    "p":0.4545454545,
+    "f1":0.4347826087,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4166666667,
+    "p":0.6363636364,
+    "f1":0.5035971223
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.7272727273,
+    "f1":0.5925925926
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4166666667,
+    "p":0.4545454545,
+    "f1":0.4347826087
+  }
+}

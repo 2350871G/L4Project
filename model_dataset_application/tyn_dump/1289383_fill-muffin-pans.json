@@ -1,0 +1,85 @@
+{
+  "title":"How to Fill Muffin Pans",
+  "url":"https://www.wikihow.com/Fill-Muffin-Pans",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Muffins"
+  ],
+  "steps":[
+    {
+      "headline":"Make the batter following the instructions in your recipe.",
+      "description":""
+    },
+    {
+      "headline":"Get two spoons of the same size.",
+      "description":"Teaspoons, dessert spoons, or soup spoons are all fine."
+    },
+    {
+      "headline":"Scoop up the batter using the first spoon.",
+      "description":""
+    },
+    {
+      "headline":"Use the back of the other spoon to push the batter off the first spoon and into the muffin pan.",
+      "description":""
+    },
+    {
+      "headline":"Be sure to not completely fill the holes.",
+      "description":"When the muffin rises, it will overflow and burn."
+    },
+    {
+      "headline":"Repeat until all holes are filled.",
+      "description":"The benefit of this method is that it aids maintaining a round shape."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Make the batter following the instructions in your recipe.  Get two spoons of the same size. Teaspoons, dessert spoons, or soup spoons are all fine. Scoop up the batter using the first spoon.  Use the back of the other spoon to push the batter off the first spoon and into the muffin pan.  Be sure to not completely fill the holes. When the muffin rises, it will overflow and burn. Repeat until all holes are filled. The benefit of this method is that it aids maintaining a round shape. Finished. ",
+  "sentences":[
+    " Make the batter following the instructions in your recipe.",
+    "Get two spoons of the same size.",
+    "Teaspoons, dessert spoons, or soup spoons are all fine.",
+    "Scoop up the batter using the first spoon.",
+    "Use the back of the other spoon to push the batter off the first spoon and into the muffin pan.",
+    "Be sure to not completely fill the holes.",
+    "When the muffin rises, it will overflow and burn.",
+    "Repeat until all holes are filled.",
+    "The benefit of this method is that it aids maintaining a round shape.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "2 spoons of the same size",
+    "Muffin pan",
+    "Batter"
+  ],
+  "tyn_model":[
+    "spoon",
+    "teaspoons",
+    "dessert spoons",
+    "muffin pan"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857
+  }
+}

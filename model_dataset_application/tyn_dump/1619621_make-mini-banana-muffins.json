@@ -1,0 +1,111 @@
+{
+  "title":"How to Make Mini Banana Muffins",
+  "url":"https://www.wikihow.com/Make-Mini-Banana-Muffins",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Muffins"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat the oven to 350\u00baF/180\u00baC.",
+      "description":""
+    },
+    {
+      "headline":"Combine the bananas, applesauce, sugar, and egg thoroughly in a large mixing bowl.",
+      "description":""
+    },
+    {
+      "headline":"Add and mix the rest of the ingredients into the mixture.",
+      "description":""
+    },
+    {
+      "headline":"Spray a mini muffin pan with no stick cooking spray.",
+      "description":""
+    },
+    {
+      "headline":"Pour the mixture into the mini muffin pan molds, approximately 2/3 full.",
+      "description":""
+    },
+    {
+      "headline":"Bake the muffins for 15 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Remove from the oven.",
+      "description":""
+    },
+    {
+      "headline":"Let the muffins sit for 10 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Remove the muffins from the pan and onto a cooling rack.",
+      "description":""
+    },
+    {
+      "headline":"Serve.",
+      "description":""
+    },
+    {
+      "headline":"Cover and refrigerate.",
+      "description":""
+    }
+  ],
+  "text":" Preheat the oven to 350\u00baF/180\u00baC.  Combine the bananas, applesauce, sugar, and egg thoroughly in a large mixing bowl.  Add and mix the rest of the ingredients into the mixture.  Spray a mini muffin pan with no stick cooking spray.  Pour the mixture into the mini muffin pan molds, approximately 2/3 full.  Bake the muffins for 15 minutes.  Remove from the oven.  Let the muffins sit for 10 minutes.  Remove the muffins from the pan and onto a cooling rack.  Serve.  Cover and refrigerate. ",
+  "sentences":[
+    " Preheat the oven to 350\u00baF/180\u00baC.",
+    "Combine the bananas, applesauce, sugar, and egg thoroughly in a large mixing bowl.",
+    "Add and mix the rest of the ingredients into the mixture.",
+    "Spray a mini muffin pan with no stick cooking spray.",
+    "Pour the mixture into the mini muffin pan molds, approximately 2/3 full.",
+    "Bake the muffins for 15 minutes.",
+    "Remove from the oven.",
+    "Let the muffins sit for 10 minutes.",
+    "Remove the muffins from the pan and onto a cooling rack.",
+    "Serve.",
+    "Cover and refrigerate."
+  ],
+  "tyn_section":[
+    "Large mixing bowl",
+    "Medium mixing bowl",
+    "2 mini muffin tins (24 mini muffins per tin)",
+    "Measuring cups and spoon",
+    "Knife",
+    "Spoon",
+    "Toothpick",
+    "Oven mitt",
+    "Air-tight container"
+  ],
+  "tyn_model":[
+    "oven",
+    "mini muffin pan",
+    "bananas",
+    "applesauce",
+    "sugar",
+    "large mixing bowl",
+    "no stick cooking spray"
+  ],
+  "simple_metrics":{
+    "r":0.1111111111,
+    "p":0.1428571429,
+    "f1":0.125,
+    "avg_pos":0.7142857143
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.2857142857,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2857142857,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1111111111,
+    "p":0.1428571429,
+    "f1":0.125
+  }
+}

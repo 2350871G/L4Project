@@ -1,0 +1,81 @@
+{
+  "title":"How to Make Queen Cakes or Fairy Cakes",
+  "url":"https://www.wikihow.com/Make-Queen-Cakes-or-Fairy-Cakes",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Cakes",
+    "Cupcakes"
+  ],
+  "steps":[
+    {
+      "headline":"Set the oven to 190 \u00b0C (374 \u00b0F).",
+      "description":"Put the bun cakes in the bun tin."
+    },
+    {
+      "headline":"Sift the flour into a bowl with the sugar.",
+      "description":"Add in the butter, eggs and pour in the vanilla."
+    },
+    {
+      "headline":"Beat it all together until you have a soft creamy mixture.",
+      "description":""
+    },
+    {
+      "headline":"Using 2 spoons, put the mixture into the bun cakes and put the tins in the oven.",
+      "description":""
+    },
+    {
+      "headline":"Bake for 20 - 25 minutes until it is a golden colour.",
+      "description":""
+    }
+  ],
+  "text":" Set the oven to 190 \u00b0C (374 \u00b0F). Put the bun cakes in the bun tin. Sift the flour into a bowl with the sugar. Add in the butter, eggs and pour in the vanilla. Beat it all together until you have a soft creamy mixture.  Using 2 spoons, put the mixture into the bun cakes and put the tins in the oven.  Bake for 20 - 25 minutes until it is a golden colour. ",
+  "sentences":[
+    " Set the oven to 190 \u00b0C (374 \u00b0F).",
+    "Put the bun cakes in the bun tin.",
+    "Sift the flour into a bowl with the sugar.",
+    "Add in the butter, eggs and pour in the vanilla.",
+    "Beat it all together until you have a soft creamy mixture.",
+    "Using 2 spoons, put the mixture into the bun cakes and put the tins in the oven.",
+    "Bake for 20 - 25 minutes until it is a golden colour."
+  ],
+  "tyn_section":[
+    "Bun tin (a cupcake pan, muffin tin, whatever you call it) Oven proof coffee mugs can also be used",
+    "Mixing bowl",
+    "Oven"
+  ],
+  "tyn_model":[
+    "oven",
+    "bun tin",
+    "flour",
+    "bowl",
+    "sugar",
+    "butter",
+    "eggs",
+    "vanilla",
+    "spoons",
+    "bun cakes"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1,
+    "f1":0.1538461538,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.2,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.2,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1,
+    "f1":0.1538461538
+  }
+}

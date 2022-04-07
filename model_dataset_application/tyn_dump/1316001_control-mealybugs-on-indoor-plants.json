@@ -1,0 +1,99 @@
+{
+  "title":"How to Control Mealybugs on Indoor Plants",
+  "url":"https://www.wikihow.com/Control-Mealybugs-on-Indoor-Plants",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Garden Pests and Weeds"
+  ],
+  "steps":[
+    {
+      "headline":"Check any new houseplants carefully for mealybug infestation before bringing anything home.",
+      "description":""
+    },
+    {
+      "headline":"Control mealybugs on indoor plants by avoiding over-fertilization of plants.",
+      "description":"Mealybugs thrive in a nitrogen-rich soil, so be careful that you only feed your plants when necessary."
+    },
+    {
+      "headline":"Remove mealybugs with a cloth or paper towel, making sure that you squish them instead of just displacing them.",
+      "description":"Immediately wash out rags. If you are using paper towels, place used towels in a plastic sack and discard. Remember to look for eggs sacks and remove those as well. The egg sacks will look like small cotton balls attached to the plant."
+    },
+    {
+      "headline":"Dab the mealybugs with a cotton ball swab soaked in rubbing alcohol to dry the insects out.",
+      "description":""
+    },
+    {
+      "headline":"Wash the plant with a gentle detergent and water to help control mealybugs.",
+      "description":""
+    },
+    {
+      "headline":"Spray the indoor plant with an oil spray or soap spray.",
+      "description":"These sprays will suffocate or dry out the mealybugs and kill them. However, it is very difficult to get the egg sacks and crawlies that have gone into places where the spray cannot reach. Spray a mealybug-specific pesticide onto the plant to get immediate results on mealybug control. Pesticide sprays, however, are only a short-term solution for mealybug control and should not be used as the only method of controlling the infestation."
+    },
+    {
+      "headline":"Discard the indoor plant if it is heavily infested with the mealybugs.",
+      "description":"Sometimes it may be virtually impossible to get a mealybug infestation under control, and the best course of action may be to replace the plant with one that is not infected."
+    }
+  ],
+  "text":" Check any new houseplants carefully for mealybug infestation before bringing anything home.  Control mealybugs on indoor plants by avoiding over-fertilization of plants. Mealybugs thrive in a nitrogen-rich soil, so be careful that you only feed your plants when necessary. Remove mealybugs with a cloth or paper towel, making sure that you squish them instead of just displacing them. Immediately wash out rags. If you are using paper towels, place used towels in a plastic sack and discard. Remember to look for eggs sacks and remove those as well. The egg sacks will look like small cotton balls attached to the plant. Dab the mealybugs with a cotton ball swab soaked in rubbing alcohol to dry the insects out.  Wash the plant with a gentle detergent and water to help control mealybugs.  Spray the indoor plant with an oil spray or soap spray. These sprays will suffocate or dry out the mealybugs and kill them. However, it is very difficult to get the egg sacks and crawlies that have gone into places where the spray cannot reach. Spray a mealybug-specific pesticide onto the plant to get immediate results on mealybug control. Pesticide sprays, however, are only a short-term solution for mealybug control and should not be used as the only method of controlling the infestation. Discard the indoor plant if it is heavily infested with the mealybugs. Sometimes it may be virtually impossible to get a mealybug infestation under control, and the best course of action may be to replace the plant with one that is not infected.",
+  "sentences":[
+    " Check any new houseplants carefully for mealybug infestation before bringing anything home.",
+    "Control mealybugs on indoor plants by avoiding over-fertilization of plants.",
+    "Mealybugs thrive in a nitrogen-rich soil, so be careful that you only feed your plants when necessary.",
+    "Remove mealybugs with a cloth or paper towel, making sure that you squish them instead of just displacing them.",
+    "Immediately wash out rags.",
+    "If you are using paper towels, place used towels in a plastic sack and discard.",
+    "Remember to look for eggs sacks and remove those as well.",
+    "The egg sacks will look like small cotton balls attached to the plant.",
+    "Dab the mealybugs with a cotton ball swab soaked in rubbing alcohol to dry the insects out.",
+    "Wash the plant with a gentle detergent and water to help control mealybugs.",
+    "Spray the indoor plant with an oil spray or soap spray.",
+    "These sprays will suffocate or dry out the mealybugs and kill them.",
+    "However, it is very difficult to get the egg sacks and crawlies that have gone into places where the spray cannot reach.",
+    "Spray a mealybug-specific pesticide onto the plant to get immediate results on mealybug control.",
+    "Pesticide sprays, however, are only a short-term solution for mealybug control and should not be used as the only method of controlling the infestation.",
+    "Discard the indoor plant if it is heavily infested with the mealybugs.",
+    "Sometimes it may be virtually impossible to get a mealybug infestation under control, and the best course of action may be to replace the plant with one that is not infected."
+  ],
+  "tyn_section":[
+    "Cloth or paper towels",
+    "Plastic bag (optional)",
+    "Cotton balls",
+    "Rubbing alcohol",
+    "Detergent",
+    "Water",
+    "Oil or soap spray",
+    "Mealybug-specific pesticide"
+  ],
+  "tyn_model":[
+    "cotton ball swab",
+    "rubbing alcohol",
+    "gentle detergent",
+    "water",
+    "oil spray or",
+    "pesticide",
+    "pesticide sprays"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.2857142857,
+    "f1":0.2666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.625,
+    "p":0.7142857143,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.625,
+    "p":0.8571428571,
+    "f1":0.7228915663
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.375,
+    "p":0.4285714286,
+    "f1":0.4
+  }
+}

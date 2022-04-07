@@ -1,0 +1,98 @@
+{
+  "title":"How to Make a Healthy Lunch",
+  "url":"https://www.wikihow.com/Make-a-Healthy-Lunch",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Meal Planning"
+  ],
+  "steps":[
+    {
+      "headline":"Toast the bread, if desired.",
+      "description":""
+    },
+    {
+      "headline":"Add the mayonnaise, lettuce and meat to the sandwich.",
+      "description":""
+    },
+    {
+      "headline":"Wash and slice the vegetables.",
+      "description":""
+    },
+    {
+      "headline":"Wash the fruit.",
+      "description":""
+    },
+    {
+      "headline":"Store the sandwich, vegetables and fruit in ziplock bags.",
+      "description":""
+    },
+    {
+      "headline":"Grab a bag of baked chips.",
+      "description":""
+    },
+    {
+      "headline":"Fill a drinking bottle with your liquid of choice.",
+      "description":""
+    },
+    {
+      "headline":"Place everything in a lunch box or insulated lunch bag.",
+      "description":""
+    },
+    {
+      "headline":"Remember to take your lunch to school or work.",
+      "description":""
+    }
+  ],
+  "text":" Toast the bread, if desired.  Add the mayonnaise, lettuce and meat to the sandwich.  Wash and slice the vegetables.  Wash the fruit.  Store the sandwich, vegetables and fruit in ziplock bags.  Grab a bag of baked chips.  Fill a drinking bottle with your liquid of choice.  Place everything in a lunch box or insulated lunch bag.  Remember to take your lunch to school or work. ",
+  "sentences":[
+    " Toast the bread, if desired.",
+    "Add the mayonnaise, lettuce and meat to the sandwich.",
+    "Wash and slice the vegetables.",
+    "Wash the fruit.",
+    "Store the sandwich, vegetables and fruit in ziplock bags.",
+    "Grab a bag of baked chips.",
+    "Fill a drinking bottle with your liquid of choice.",
+    "Place everything in a lunch box or insulated lunch bag.",
+    "Remember to take your lunch to school or work."
+  ],
+  "tyn_section":[
+    "Toaster (optional)",
+    "Knife",
+    "Cutting board",
+    "3 or 4 ziplock bags",
+    "Drinking bottle",
+    "Lunch box or insulated lunch bag"
+  ],
+  "tyn_model":[
+    "vegetables",
+    "fruit",
+    "bread",
+    "mayonnaise",
+    "lettuce",
+    "ziplock bags",
+    "baked chips",
+    "lunch box"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.25,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

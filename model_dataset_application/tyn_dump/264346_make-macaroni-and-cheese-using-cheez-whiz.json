@@ -1,0 +1,90 @@
+{
+  "title":"How to Make Macaroni and Cheese Using Cheez Whiz",
+  "url":"https://www.wikihow.com/Make-Macaroni-and-Cheese-Using-Cheez-Whiz",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles",
+    "Macaroni and Cheese"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the macaroni according to the package instructions.",
+      "description":""
+    },
+    {
+      "headline":"Drain well, make sure not a single macaroni noodle goes with the water.",
+      "description":""
+    },
+    {
+      "headline":"When it is still in the pot, add half a bottle of Cheez Whiz or more.",
+      "description":""
+    },
+    {
+      "headline":"Since the macaroni is hot, it will be easy to melt.",
+      "description":""
+    },
+    {
+      "headline":"Fold the cheese into the noodles on low heat.",
+      "description":""
+    },
+    {
+      "headline":"Taste it, first.",
+      "description":"Then add salt and pepper, if needed."
+    },
+    {
+      "headline":"Put in on a bowl and serve!",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Prepare the macaroni according to the package instructions.  Drain well, make sure not a single macaroni noodle goes with the water.  When it is still in the pot, add half a bottle of Cheez Whiz or more.  Since the macaroni is hot, it will be easy to melt.  Fold the cheese into the noodles on low heat.  Taste it, first. Then add salt and pepper, if needed. Put in on a bowl and serve!  Finished. ",
+  "sentences":[
+    " Prepare the macaroni according to the package instructions.",
+    "Drain well, make sure not a single macaroni noodle goes with the water.",
+    "When it is still in the pot, add half a bottle of Cheez Whiz or more.",
+    "Since the macaroni is hot, it will be easy to melt.",
+    "Fold the cheese into the noodles on low heat.",
+    "Taste it, first.",
+    "Then add salt and pepper, if needed.",
+    "Put in on a bowl and serve!",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Large pot",
+    "Spoon",
+    "Bowl"
+  ],
+  "tyn_model":[
+    "macaroni noodle",
+    "water",
+    "cheez whiz",
+    "salt",
+    "pepper",
+    "bowl"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222
+  }
+}

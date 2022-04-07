@@ -1,0 +1,98 @@
+{
+  "title":"How to Calibrate a Joystick",
+  "url":"https://www.wikihow.com/Calibrate-a-Joystick",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Video Game Console Maintenance and Repair"
+  ],
+  "steps":[
+    {
+      "headline":"Make sure your joystick is correctly plugged into the computer and turned on (if wireless).",
+      "description":""
+    },
+    {
+      "headline":"Open the Control Panel.",
+      "description":"Note: The navigation path to this control may differ depending on how your version of Windows is customized; however, the Control Panel can generally be found through the Start Menu or under My Computer."
+    },
+    {
+      "headline":"Double click the Game Controllers link, or equivalent.",
+      "description":""
+    },
+    {
+      "headline":"If your joystick appears in the Game Controllers section, highlight it by clicking on it once.",
+      "description":"If your joystick does not appear, check your connections, and make sure it is fully plugged in, or that your computer can handle all the USB memory."
+    },
+    {
+      "headline":"Hold down the \"Shift\" and \"Ctrl\" (control) keys, and click on \"Properties.\"",
+      "description":""
+    },
+    {
+      "headline":"Click on the \"Test\" tab, and then the \"Settings\" tab.",
+      "description":""
+    },
+    {
+      "headline":"From the new pop-up window, click the \"Calibrate\" button under the Settings tab, then click \"Next.\"",
+      "description":""
+    },
+    {
+      "headline":"Click the left thumb button on your joystick.",
+      "description":""
+    },
+    {
+      "headline":"Follow the directions of the Device Calibration Wizard that appears.",
+      "description":"For axis calibration, move your joystick in full circles, and make sure the '+' sign traces all four sides and corners of the square. On the next screen, click the left thumb button on the joystick again. This should bring you to the next screen. Move the throttle back and forth several times, then click \"Next.\" Now, for Z calibration, rotate your joystick several times, then click \"Next,\" then \"Finish\" and then \"OK.\""
+    }
+  ],
+  "text":" Make sure your joystick is correctly plugged into the computer and turned on (if wireless).  Open the Control Panel. Note: The navigation path to this control may differ depending on how your version of Windows is customized; however, the Control Panel can generally be found through the Start Menu or under My Computer. Double click the Game Controllers link, or equivalent.  If your joystick appears in the Game Controllers section, highlight it by clicking on it once. If your joystick does not appear, check your connections, and make sure it is fully plugged in, or that your computer can handle all the USB memory. Hold down the \"Shift\" and \"Ctrl\" (control) keys, and click on \"Properties.\"  Click on the \"Test\" tab, and then the \"Settings\" tab.  From the new pop-up window, click the \"Calibrate\" button under the Settings tab, then click \"Next.\"  Click the left thumb button on your joystick.  Follow the directions of the Device Calibration Wizard that appears. For axis calibration, move your joystick in full circles, and make sure the '+' sign traces all four sides and corners of the square. On the next screen, click the left thumb button on the joystick again. This should bring you to the next screen. Move the throttle back and forth several times, then click \"Next.\" Now, for Z calibration, rotate your joystick several times, then click \"Next,\" then \"Finish\" and then \"OK.\"",
+  "sentences":[
+    " Make sure your joystick is correctly plugged into the computer and turned on (if wireless).",
+    "Open the Control Panel.",
+    "Note: The navigation path to this control may differ depending on how your version of Windows is customized; however, the Control Panel can generally be found through the Start Menu or under My Computer.",
+    "Double click the Game Controllers link, or equivalent.",
+    "If your joystick appears in the Game Controllers section, highlight it by clicking on it once.",
+    "If your joystick does not appear, check your connections, and make sure it is fully plugged in, or that your computer can handle all the USB memory.",
+    "Hold down the \"Shift\" and \"Ctrl\" (control) keys, and click on \"Properties.\"",
+    "Click on the \"Test\" tab, and then the \"Settings\" tab.",
+    "From the new pop-up window, click the \"Calibrate\" button under the Settings tab, then click \"Next.\"",
+    "Click the left thumb button on your joystick.",
+    "Follow the directions of the Device Calibration Wizard that appears.",
+    "For axis calibration, move your joystick in full circles, and make sure the '+' sign traces all four sides and corners of the square.",
+    "On the next screen, click the left thumb button on the joystick again.",
+    "This should bring you to the next screen.",
+    "Move the throttle back and forth several times, then click \"Next.\"",
+    "Now, for Z calibration, rotate your joystick several times, then click \"Next,\" then \"Finish\" and then \"OK.\""
+  ],
+  "tyn_section":[
+    "A PC with Windows",
+    "A PC-compatible joystick, and available memory and USB port(s).",
+    "Manufacturer's drivers and software are recommended, but not always required for USB joysticks"
+  ],
+  "tyn_model":[
+    "joystick",
+    "computer",
+    "device calibration"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "title":"How to Remove a Blood Spot from a Cotton Pillow Case",
+  "url":"https://www.wikihow.com/Remove-a-Blood-Spot-from-a-Cotton-Pillow-Case",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Stain Removal",
+    "Bodily Fluid Stain Removal"
+  ],
+  "methods":[
+    {
+      "name":"Salt Method",
+      "steps":[
+        {
+          "headline":"Fill a sink or a bucket with cold water.",
+          "description":"Put the cotton Pillowcase inside to completely saturate it."
+        },
+        {
+          "headline":"Hold the areas of the Pillowcase near the blood spot with each hand, then rub against each other to help loosen the blood.",
+          "description":""
+        },
+        {
+          "headline":"Lay out the Pillowcase on a work area.",
+          "description":""
+        },
+        {
+          "headline":"Pour some table salt or meat tenderizer on the blood spot and allow to settle for about 20 minutes.",
+          "description":"This should normally remove much, if not all, of the blood from the fabric."
+        },
+        {
+          "headline":"Rinse the fabric under cold running water.",
+          "description":""
+        },
+        {
+          "headline":"Pour a small dollop of shampoo or dishwashing detergent over the spot.",
+          "description":""
+        },
+        {
+          "headline":"Repeat the rubbing of the soiled portion of the fabric against each other, as with step 2.",
+          "description":""
+        },
+        {
+          "headline":"Rinse the fabric under cold running water.",
+          "description":""
+        },
+        {
+          "headline":"When the blood spot is completely gone, launder the Pillowcase as usual.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Hydrogen Peroxide Method",
+      "steps":[
+        {
+          "headline":"Lay out the Pillowcase on a work area.",
+          "description":""
+        },
+        {
+          "headline":"Pour hydrogen peroxide directly on the blood spot.",
+          "description":"Usually, a solution with 3% strength would suffice."
+        },
+        {
+          "headline":"Let the hydrogen peroxide fizz or bubble for a few minutes, to allow the chemical to react to the blood spot and break it down.",
+          "description":""
+        },
+        {
+          "headline":"Blot with a damp sponge or cloth.",
+          "description":""
+        },
+        {
+          "headline":"Repeat steps 2 to 4 until the blood spot is removed.",
+          "description":""
+        },
+        {
+          "headline":"Launder the Pillowcase as usual, in cold water.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Salt Method Fill a sink or a bucket with cold water. Put the cotton Pillowcase inside to completely saturate it. Hold the areas of the Pillowcase near the blood spot with each hand, then rub against each other to help loosen the blood.  Lay out the Pillowcase on a work area.  Pour some table salt or meat tenderizer on the blood spot and allow to settle for about 20 minutes. This should normally remove much, if not all, of the blood from the fabric. Rinse the fabric under cold running water.  Pour a small dollop of shampoo or dishwashing detergent over the spot.  Repeat the rubbing of the soiled portion of the fabric against each other, as with step 2.  Rinse the fabric under cold running water.  When the blood spot is completely gone, launder the Pillowcase as usual.  Hydrogen Peroxide Method Lay out the Pillowcase on a work area.  Pour hydrogen peroxide directly on the blood spot. Usually, a solution with 3% strength would suffice. Let the hydrogen peroxide fizz or bubble for a few minutes, to allow the chemical to react to the blood spot and break it down.  Blot with a damp sponge or cloth.  Repeat steps 2 to 4 until the blood spot is removed.  Launder the Pillowcase as usual, in cold water. ",
+  "sentences":[
+    " Salt Method Fill a sink or a bucket with cold water.",
+    "Put the cotton Pillowcase inside to completely saturate it.",
+    "Hold the areas of the Pillowcase near the blood spot with each hand, then rub against each other to help loosen the blood.",
+    "Lay out the Pillowcase on a work area.",
+    "Pour some table salt or meat tenderizer on the blood spot and allow to settle for about 20 minutes.",
+    "This should normally remove much, if not all, of the blood from the fabric.",
+    "Rinse the fabric under cold running water.",
+    "Pour a small dollop of shampoo or dishwashing detergent over the spot.",
+    "Repeat the rubbing of the soiled portion of the fabric against each other, as with step 2.",
+    "Rinse the fabric under cold running water.",
+    "When the blood spot is completely gone, launder the Pillowcase as usual.",
+    "Hydrogen Peroxide Method Lay out the Pillowcase on a work area.",
+    "Pour hydrogen peroxide directly on the blood spot.",
+    "Usually, a solution with 3% strength would suffice.",
+    "Let the hydrogen peroxide fizz or bubble for a few minutes, to allow the chemical to react to the blood spot and break it down.",
+    "Blot with a damp sponge or cloth.",
+    "Repeat steps 2 to 4 until the blood spot is removed.",
+    "Launder the Pillowcase as usual, in cold water."
+  ],
+  "tyn_section":[
+    "Bucket",
+    "Cold water",
+    "Table salt or meat tenderizer",
+    "Hydrogen peroxide",
+    "Dishwashing detergent or shampoo",
+    "Sponge or clean cloth"
+  ],
+  "tyn_model":[
+    "water",
+    "hydrogen peroxide",
+    "bucket",
+    "cold water",
+    "table salt",
+    "shampoo",
+    "dishwashing detergent",
+    "sponge"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.375,
+    "f1":0.4285714286,
+    "avg_pos":0.25
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.625,
+    "f1":0.6451612903
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8333333333,
+    "p":0.75,
+    "f1":0.7894736842
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.375,
+    "f1":0.4285714286
+  }
+}

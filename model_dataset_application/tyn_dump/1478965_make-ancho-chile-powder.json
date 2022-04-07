@@ -1,0 +1,110 @@
+{
+  "title":"How to Make Ancho Chile Powder",
+  "url":"https://www.wikihow.com/Make-Ancho-Chile-Powder",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Herbs and Spices",
+    "Spice Mixes"
+  ],
+  "steps":[
+    {
+      "headline":"Buy ancho chiles.",
+      "description":"Ancho chiles are available at most large grocery stores and in specialty markets."
+    },
+    {
+      "headline":"Dry ancho chiles.",
+      "description":"If you prefer or cannot find ancho chiles in your area, you can make your own ancho chiles from fresh poblano peppers. Choose fresh poblano peppers that are unblemished and a dark green color with long enough stems to tie. Tie the stems of the peppers on a piece of twine. The peppers can be close together and you can make the strand any length you choose. Hang the pepper strand in a dry area with good air circulation. Wait several weeks until the peppers have become smooth, dry and dark red."
+    },
+    {
+      "headline":"Remove the stems from the peppers with a sharp knife",
+      "description":""
+    },
+    {
+      "headline":"Remove the membrane that holds the seeds.",
+      "description":"Do not remove the seeds themselves. They should be part of the powder."
+    },
+    {
+      "headline":"Cut the peppers into 1/2-inch (1.25-cm) pieces.",
+      "description":""
+    },
+    {
+      "headline":"Toast the ancho chile pieces over low heat in a dry heavy-bottomed skillet.",
+      "description":"While ancho chiles are dried, they are not completely dehydrated. This step will keep your peppers from turning into chile paste when you grind them."
+    },
+    {
+      "headline":"Grind the pepper pieces into a spice grinder or small food processor.",
+      "description":"Put the peppers into the spice grinder or food processor in batches. Don't try to grind too much at once. Grind the peppers until they make a powder. The fineness of the powder depends on your preference, but most ancho chile powder is fairly fine."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Buy ancho chiles. Ancho chiles are available at most large grocery stores and in specialty markets. Dry ancho chiles. If you prefer or cannot find ancho chiles in your area, you can make your own ancho chiles from fresh poblano peppers. Choose fresh poblano peppers that are unblemished and a dark green color with long enough stems to tie. Tie the stems of the peppers on a piece of twine. The peppers can be close together and you can make the strand any length you choose. Hang the pepper strand in a dry area with good air circulation. Wait several weeks until the peppers have become smooth, dry and dark red. Remove the stems from the peppers with a sharp knife  Remove the membrane that holds the seeds. Do not remove the seeds themselves. They should be part of the powder. Cut the peppers into 1/2-inch (1.25-cm) pieces.  Toast the ancho chile pieces over low heat in a dry heavy-bottomed skillet. While ancho chiles are dried, they are not completely dehydrated. This step will keep your peppers from turning into chile paste when you grind them. Grind the pepper pieces into a spice grinder or small food processor. Put the peppers into the spice grinder or food processor in batches. Don't try to grind too much at once. Grind the peppers until they make a powder. The fineness of the powder depends on your preference, but most ancho chile powder is fairly fine. Finished. ",
+  "sentences":[
+    " Buy ancho chiles.",
+    "Ancho chiles are available at most large grocery stores and in specialty markets.",
+    "Dry ancho chiles.",
+    "If you prefer or cannot find ancho chiles in your area, you can make your own ancho chiles from fresh poblano peppers.",
+    "Choose fresh poblano peppers that are unblemished and a dark green color with long enough stems to tie.",
+    "Tie the stems of the peppers on a piece of twine.",
+    "The peppers can be close together and you can make the strand any length you choose.",
+    "Hang the pepper strand in a dry area with good air circulation.",
+    "Wait several weeks until the peppers have become smooth, dry and dark red.",
+    "Remove the stems from the peppers with a sharp knife  Remove the membrane that holds the seeds.",
+    "Do not remove the seeds themselves.",
+    "They should be part of the powder.",
+    "Cut the peppers into 1/2-inch (1.25-cm) pieces.",
+    "Toast the ancho chile pieces over low heat in a dry heavy-bottomed skillet.",
+    "While ancho chiles are dried, they are not completely dehydrated.",
+    "This step will keep your peppers from turning into chile paste when you grind them.",
+    "Grind the pepper pieces into a spice grinder or small food processor.",
+    "Put the peppers into the spice grinder or food processor in batches.",
+    "Don't try to grind too much at once.",
+    "Grind the peppers until they make a powder.",
+    "The fineness of the powder depends on your preference, but most ancho chile powder is fairly fine.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Ancho chiles",
+    "Twine (optional)",
+    "Sharp knife",
+    "Heavy-bottomed skillet",
+    "Spice grinder or small food processor"
+  ],
+  "tyn_model":[
+    "peppers",
+    "ancho chiles",
+    "poblano peppers",
+    "pepper",
+    "twine",
+    "sharp knife",
+    "ancho chile",
+    "heavy-bottomed skillet",
+    "small food processor",
+    "spice grinder",
+    "food processor",
+    "ancho chile powder"
+  ],
+  "simple_metrics":{
+    "r":0.6,
+    "p":0.25,
+    "f1":0.3529411765,
+    "avg_pos":0.0833333333
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.4166666667,
+    "f1":0.5882352941
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.6666666667,
+    "f1":0.8
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6,
+    "p":0.25,
+    "f1":0.3529411765
+  }
+}

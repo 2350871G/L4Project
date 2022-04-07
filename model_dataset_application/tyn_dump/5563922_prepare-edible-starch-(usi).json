@@ -1,0 +1,74 @@
+{
+  "title":"How to Prepare Edible Starch (Usi)",
+  "url":"https://www.wikihow.com/Prepare-Edible-Starch-(Usi)",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Cutting Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Place the starch in a non stick frying pan.",
+      "description":"Add water to it and melt the starch within by kneading it with your hands until it disintegrates and forms part of the liquid."
+    },
+    {
+      "headline":"Add the palm oil to the pan.",
+      "description":"Mix nicely with a wooden spatula, making sure there are no hardened residues underneath. It must be able to flow freely."
+    },
+    {
+      "headline":"Set the pan over a medium heat.",
+      "description":"Cook and stir continuously in one direction. Soon you will see the starch coagulating. Holding the handle, you can tilt and bend the pan as you want while stirring with the spatula."
+    },
+    {
+      "headline":"Continue mixing the starch.",
+      "description":"Flip it over every two minutes until the starch is properly cooked."
+    }
+  ],
+  "text":" Place the starch in a non stick frying pan. Add water to it and melt the starch within by kneading it with your hands until it disintegrates and forms part of the liquid. Add the palm oil to the pan. Mix nicely with a wooden spatula, making sure there are no hardened residues underneath. It must be able to flow freely. Set the pan over a medium heat. Cook and stir continuously in one direction. Soon you will see the starch coagulating. Holding the handle, you can tilt and bend the pan as you want while stirring with the spatula. Continue mixing the starch. Flip it over every two minutes until the starch is properly cooked.",
+  "sentences":[
+    " Place the starch in a non stick frying pan.",
+    "Add water to it and melt the starch within by kneading it with your hands until it disintegrates and forms part of the liquid.",
+    "Add the palm oil to the pan.",
+    "Mix nicely with a wooden spatula, making sure there are no hardened residues underneath.",
+    "It must be able to flow freely.",
+    "Set the pan over a medium heat.",
+    "Cook and stir continuously in one direction.",
+    "Soon you will see the starch coagulating.",
+    "Holding the handle, you can tilt and bend the pan as you want while stirring with the spatula.",
+    "Continue mixing the starch.",
+    "Flip it over every two minutes until the starch is properly cooked."
+  ],
+  "tyn_section":[
+    "Spatula",
+    "Frying pan",
+    "Serving plate"
+  ],
+  "tyn_model":[
+    "non stick frying pan",
+    "water",
+    "palm oil",
+    "wooden spatula",
+    "spatula"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25,
+    "avg_pos":0.8
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.6,
+    "f1":0.6315789474
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.6,
+    "f1":0.6315789474
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  }
+}

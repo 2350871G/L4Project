@@ -1,0 +1,128 @@
+{
+  "title":"How to Unbrick a PSP",
+  "url":"https://www.wikihow.com/Unbrick-a-PSP",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PSP"
+  ],
+  "steps":[
+    {
+      "headline":"Take out your regular battery and regular memory stick.",
+      "description":""
+    },
+    {
+      "headline":"Insert your \"magic\" memory stick.",
+      "description":""
+    },
+    {
+      "headline":"Insert your Pandora Battery.",
+      "description":"Your PSP should turn itself on. Depending on what's on the magic memory stick, you will see a menu."
+    },
+    {
+      "headline":"Click \"install X.XX M33\" or \"install original X.XX\".",
+      "description":"it doesn't matter which option you pick."
+    },
+    {
+      "headline":"Your PSP screen will say \"Flashing file ...\" about a hundred times.",
+      "description":"The magic memory stick is putting files on your PSP to make it work properly."
+    },
+    {
+      "headline":"Just wait a minute or two.",
+      "description":""
+    },
+    {
+      "headline":"You will see the text, \"Install complete.",
+      "description":"Press X to shutdown the PSP\". Simply press X. Your PSP will turn off."
+    },
+    {
+      "headline":"Insert your regular battery and regular memory stick",
+      "description":""
+    },
+    {
+      "headline":"If you installed X.XX M33, hold the R trigger and turn on your PSP.",
+      "description":"If you installed original X.XX, stop here, your PSP is unbricked."
+    },
+    {
+      "headline":"You will see a menu.",
+      "description":"This is called the Recovery Menu. Select \"Advanced ->\" and press X."
+    },
+    {
+      "headline":"Select \"Format flash1 and reset settings\".",
+      "description":"Your PSP will restart. You will see a blue screen with several languages. In each language, the message is \"Setting Information is corrupted. Press O to restore default settings\"."
+    },
+    {
+      "headline":"Press O.",
+      "description":""
+    },
+    {
+      "headline":"Your PSP should start up like brand new.",
+      "description":"Congratulations, your PSP is unbricked."
+    }
+  ],
+  "text":" Take out your regular battery and regular memory stick.  Insert your \"magic\" memory stick.  Insert your Pandora Battery. Your PSP should turn itself on. Depending on what's on the magic memory stick, you will see a menu. Click \"install X.XX M33\" or \"install original X.XX\". it doesn't matter which option you pick. Your PSP screen will say \"Flashing file ...\" about a hundred times. The magic memory stick is putting files on your PSP to make it work properly. Just wait a minute or two.  You will see the text, \"Install complete. Press X to shutdown the PSP\". Simply press X. Your PSP will turn off. Insert your regular battery and regular memory stick  If you installed X.XX M33, hold the R trigger and turn on your PSP. If you installed original X.XX, stop here, your PSP is unbricked. You will see a menu. This is called the Recovery Menu. Select \"Advanced ->\" and press X. Select \"Format flash1 and reset settings\". Your PSP will restart. You will see a blue screen with several languages. In each language, the message is \"Setting Information is corrupted. Press O to restore default settings\". Press O.  Your PSP should start up like brand new. Congratulations, your PSP is unbricked.",
+  "sentences":[
+    " Take out your regular battery and regular memory stick.",
+    "Insert your \"magic\" memory stick.",
+    "Insert your Pandora Battery.",
+    "Your PSP should turn itself on.",
+    "Depending on what's on the magic memory stick, you will see a menu.",
+    "Click \"install X.XX M33\" or \"install original X.XX\".",
+    "it doesn't matter which option you pick.",
+    "Your PSP screen will say \"Flashing file ...\" about a hundred times.",
+    "The magic memory stick is putting files on your PSP to make it work properly.",
+    "Just wait a minute or two.",
+    "You will see the text, \"Install complete.",
+    "Press X to shutdown the PSP\".",
+    "Simply press X.",
+    "Your PSP will turn off.",
+    "Insert your regular battery and regular memory stick  If you installed X.XX M33, hold the R trigger and turn on your PSP.",
+    "If you installed original X.XX, stop here, your PSP is unbricked.",
+    "You will see a menu.",
+    "This is called the Recovery Menu.",
+    "Select \"Advanced ->\" and press X.",
+    "Select \"Format flash1 and reset settings\".",
+    "Your PSP will restart.",
+    "You will see a blue screen with several languages.",
+    "In each language, the message is \"Setting Information is corrupted.",
+    "Press O to restore default settings\".",
+    "Press O.",
+    "Your PSP should start up like brand new.",
+    "Congratulations, your PSP is unbricked."
+  ],
+  "tyn_section":[
+    "Pandora Battery",
+    "Formatted memory stick with \"magic\" files"
+  ],
+  "tyn_model":[
+    "psp",
+    "magic memory stick",
+    "regular battery",
+    "regular memory stick",
+    "pandora battery",
+    "memory stick"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25,
+    "avg_pos":0.6666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1666666667,
+    "f1":0.25
+  }
+}

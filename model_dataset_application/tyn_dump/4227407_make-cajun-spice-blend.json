@@ -1,0 +1,101 @@
+{
+  "title":"How to Make Cajun Spice Blend",
+  "url":"https://www.wikihow.com/Make-Cajun-Spice-Blend",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Herbs and Spices"
+  ],
+  "methods":[
+    {
+      "name":"Cajun spice blend 1",
+      "steps":[
+        {
+          "headline":"Add the whole spices to a mortar and pestle.",
+          "description":"Grind the spices coarsely."
+        },
+        {
+          "headline":"Add the cayenne, paprika and celery salt.",
+          "description":"Mix well."
+        },
+        {
+          "headline":"Transfer to an airtight container for storage.",
+          "description":"Use according to the recipe's requirements."
+        }
+      ]
+    },
+    {
+      "name":"Cajun spice blend 2",
+      "steps":[
+        {
+          "headline":"Add the paprika, parsley, garlic, oregano, thyme and cayenne pepper to a mixing bowl.",
+          "description":"Add salt to taste."
+        },
+        {
+          "headline":"Mix well.",
+          "description":""
+        },
+        {
+          "headline":"Transfer to a serving dish or use as required.",
+          "description":"If storing, keep in airtight container."
+        }
+      ]
+    }
+  ],
+  "text":" Cajun spice blend 1 Add the whole spices to a mortar and pestle. Grind the spices coarsely. Add the cayenne, paprika and celery salt. Mix well. Transfer to an airtight container for storage. Use according to the recipe's requirements. Cajun spice blend 2 Add the paprika, parsley, garlic, oregano, thyme and cayenne pepper to a mixing bowl. Add salt to taste. Mix well.  Transfer to a serving dish or use as required. If storing, keep in airtight container.",
+  "sentences":[
+    " Cajun spice blend 1 Add the whole spices to a mortar and pestle.",
+    "Grind the spices coarsely.",
+    "Add the cayenne, paprika and celery salt.",
+    "Mix well.",
+    "Transfer to an airtight container for storage.",
+    "Use according to the recipe's requirements.",
+    "Cajun spice blend 2 Add the paprika, parsley, garlic, oregano, thyme and cayenne pepper to a mixing bowl.",
+    "Add salt to taste.",
+    "Mix well.",
+    "Transfer to a serving dish or use as required.",
+    "If storing, keep in airtight container."
+  ],
+  "tyn_section":[
+    "Mixing bowl",
+    "Mixing implement (for example, a wooden spoon)",
+    "Airtight container if storing"
+  ],
+  "tyn_model":[
+    "cajun spice blend",
+    "paprika",
+    "mortar and pestle",
+    "spices",
+    "cayenne",
+    "celery salt",
+    "airtight container",
+    "parsley",
+    "garlic",
+    "oregano",
+    "thyme",
+    "cayenne pepper",
+    "mixing bowl",
+    "salt",
+    "serving dish"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.0666666667,
+    "f1":0.1111111111,
+    "avg_pos":0.8
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.1333333333,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.1333333333,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.0666666667,
+    "f1":0.1111111111
+  }
+}

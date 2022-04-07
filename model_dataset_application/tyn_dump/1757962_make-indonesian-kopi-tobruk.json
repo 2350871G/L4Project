@@ -1,0 +1,85 @@
+{
+  "title":"How to Make Indonesian Kopi Tobruk",
+  "url":"https://www.wikihow.com/Make-Indonesian-Kopi-Tobruk",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "World Cuisines",
+    "Asian Cuisine",
+    "Indonesian Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Spoon a heaping tablespoon of the kopi tobruk into a coffee mug or a beer mug.",
+      "description":"Beer mugs are common in Indonesia but they serve as tea mugs. Teas are often over-watered and flavorless so they need to drink a lot of it, but that\u2019s another story. Add sugar to the kopi tobruk if you wish."
+    },
+    {
+      "headline":"Boil potable water but pull it off the fire immediately upon reaching boiling point.",
+      "description":"Do not allow it to go into a roiling boil as this will cause the water, as subsequently your coffee, to taste flat. Pour enough water to fill your mug to about a centimeter from the brim."
+    },
+    {
+      "headline":"Stir so the coffee grounds and the water mix well.",
+      "description":""
+    },
+    {
+      "headline":"Leave alone for about 3-5 minutes.",
+      "description":"This will give the coffee grounds time to settle to the bottom."
+    },
+    {
+      "headline":"Enjoy your coffee, but take care not to disturb the coffee \u201cmud\u201d at the bottom of your mug as you drink.",
+      "description":"Discard the dregs afterwards, but not into the sink as this will eventually clog your sink's P-trap."
+    }
+  ],
+  "text":" Spoon a heaping tablespoon of the kopi tobruk into a coffee mug or a beer mug. Beer mugs are common in Indonesia but they serve as tea mugs. Teas are often over-watered and flavorless so they need to drink a lot of it, but that\u2019s another story. Add sugar to the kopi tobruk if you wish. Boil potable water but pull it off the fire immediately upon reaching boiling point. Do not allow it to go into a roiling boil as this will cause the water, as subsequently your coffee, to taste flat. Pour enough water to fill your mug to about a centimeter from the brim. Stir so the coffee grounds and the water mix well.  Leave alone for about 3-5 minutes. This will give the coffee grounds time to settle to the bottom. Enjoy your coffee, but take care not to disturb the coffee \u201cmud\u201d at the bottom of your mug as you drink. Discard the dregs afterwards, but not into the sink as this will eventually clog your sink's P-trap.",
+  "sentences":[
+    " Spoon a heaping tablespoon of the kopi tobruk into a coffee mug or a beer mug.",
+    "Beer mugs are common in Indonesia but they serve as tea mugs.",
+    "Teas are often over-watered and flavorless so they need to drink a lot of it, but that\u2019s another story.",
+    "Add sugar to the kopi tobruk if you wish.",
+    "Boil potable water but pull it off the fire immediately upon reaching boiling point.",
+    "Do not allow it to go into a roiling boil as this will cause the water, as subsequently your coffee, to taste flat.",
+    "Pour enough water to fill your mug to about a centimeter from the brim.",
+    "Stir so the coffee grounds and the water mix well.",
+    "Leave alone for about 3-5 minutes.",
+    "This will give the coffee grounds time to settle to the bottom.",
+    "Enjoy your coffee, but take care not to disturb the coffee \u201cmud\u201d at the bottom of your mug as you drink.",
+    "Discard the dregs afterwards, but not into the sink as this will eventually clog your sink's P-trap."
+  ],
+  "tyn_section":[
+    "Coffee mug",
+    "Teaspoon",
+    "Kettle or similar boiling apparatus"
+  ],
+  "tyn_model":[
+    "water",
+    "coffee mug",
+    "beer mug",
+    "beer mugs",
+    "sugar",
+    "potable water",
+    "\u201cmud",
+    "\u201d at",
+    "sink"
+  ],
+  "simple_metrics":{
+    "r":0.3333333333,
+    "p":0.1111111111,
+    "f1":0.1666666667,
+    "avg_pos":0.1111111111
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1111111111,
+    "f1":0.1666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2222222222,
+    "f1":0.2666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1111111111,
+    "f1":0.1666666667
+  }
+}

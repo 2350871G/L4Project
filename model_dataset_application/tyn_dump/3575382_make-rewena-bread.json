@@ -1,0 +1,142 @@
+{
+  "title":"How to Make Rewena Bread",
+  "url":"https://www.wikihow.com/Make-Rewena-Bread",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Breads",
+    "Bread Making Tips"
+  ],
+  "parts":[
+    {
+      "name":"Preparing the Potatoes",
+      "steps":[
+        {
+          "headline":"Cook the potatoes by boiling or steaming.",
+          "description":""
+        },
+        {
+          "headline":"Mash the potatoes.",
+          "description":"Mash with very little liquid (use a bit of the cooking water if needed). The mash should be on the dry side, not sloppy. Do not add milk, oil or flavorings to the mash."
+        },
+        {
+          "headline":"Set aside to cool.",
+          "description":""
+        },
+        {
+          "headline":"Preheat the oven to 180\u00baC/350\u00baF.",
+          "description":"Grease or line the loaf tins/pans."
+        }
+      ]
+    },
+    {
+      "name":"Making the Bread",
+      "steps":[
+        {
+          "headline":"Mix the yeast, warm water and 3 tablespoons of sugar in a mixing bowl.",
+          "description":"Set aside in a warm place to rise."
+        },
+        {
+          "headline":"Mix the flour and remaining handfuls of sugar together.",
+          "description":"Add the yeast mixture and the potato mash. Stir through."
+        },
+        {
+          "headline":"Turn the bread dough onto a floured work surface or board.",
+          "description":"Knead the dough until it feels springy."
+        },
+        {
+          "headline":"Break the dough in half.",
+          "description":"Place into the greased loaf tins/pans."
+        }
+      ]
+    },
+    {
+      "name":"Baking the Bread",
+      "steps":[
+        {
+          "headline":"Make 2 cuts across the top of each loaf of bread.",
+          "description":""
+        },
+        {
+          "headline":"Place the loaves into the oven to bake.",
+          "description":"Bake for half an hour or until the top of the bread turns golden brown."
+        },
+        {
+          "headline":"Remove from the oven.",
+          "description":"Cool on wire cooling racks. The bread can be served hot or cooled."
+        }
+      ]
+    }
+  ],
+  "text":" Preparing the Potatoes Cook the potatoes by boiling or steaming.  Mash the potatoes. Mash with very little liquid (use a bit of the cooking water if needed). The mash should be on the dry side, not sloppy. Do not add milk, oil or flavorings to the mash. Set aside to cool.  Preheat the oven to 180\u00baC/350\u00baF. Grease or line the loaf tins/pans. Making the Bread Mix the yeast, warm water and 3 tablespoons of sugar in a mixing bowl. Set aside in a warm place to rise. Mix the flour and remaining handfuls of sugar together. Add the yeast mixture and the potato mash. Stir through. Turn the bread dough onto a floured work surface or board. Knead the dough until it feels springy. Break the dough in half. Place into the greased loaf tins/pans. Baking the Bread Make 2 cuts across the top of each loaf of bread.  Place the loaves into the oven to bake. Bake for half an hour or until the top of the bread turns golden brown. Remove from the oven. Cool on wire cooling racks. The bread can be served hot or cooled.",
+  "sentences":[
+    " Preparing the Potatoes Cook the potatoes by boiling or steaming.",
+    "Mash the potatoes.",
+    "Mash with very little liquid (use a bit of the cooking water if needed).",
+    "The mash should be on the dry side, not sloppy.",
+    "Do not add milk, oil or flavorings to the mash.",
+    "Set aside to cool.",
+    "Preheat the oven to 180\u00baC/350\u00baF.",
+    "Grease or line the loaf tins/pans.",
+    "Making the Bread Mix the yeast, warm water and 3 tablespoons of sugar in a mixing bowl.",
+    "Set aside in a warm place to rise.",
+    "Mix the flour and remaining handfuls of sugar together.",
+    "Add the yeast mixture and the potato mash.",
+    "Stir through.",
+    "Turn the bread dough onto a floured work surface or board.",
+    "Knead the dough until it feels springy.",
+    "Break the dough in half.",
+    "Place into the greased loaf tins/pans.",
+    "Baking the Bread Make 2 cuts across the top of each loaf of bread.",
+    "Place the loaves into the oven to bake.",
+    "Bake for half an hour or until the top of the bread turns golden brown.",
+    "Remove from the oven.",
+    "Cool on wire cooling racks.",
+    "The bread can be served hot or cooled."
+  ],
+  "tyn_section":[
+    "Saucepan for cooking potatoes",
+    "Potato masher",
+    "Strainer or colander for draining potatoes",
+    "2 mixing bowls, one small and one large",
+    "Floured work surface or bread board",
+    "2 loaf tins/pans, greased or lined (parchment/baking paper)",
+    "Oven mitts",
+    "Wire cooling racks"
+  ],
+  "tyn_model":[
+    "oven",
+    "potatoes",
+    "yeast",
+    "sugar",
+    "cooking water",
+    "milk",
+    "water",
+    "mixing bowl",
+    "flour",
+    "potato mash",
+    "loaf tins"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.125,
+    "p":0.0909090909,
+    "f1":0.1052631579
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.1818181818,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

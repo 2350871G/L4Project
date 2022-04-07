@@ -1,0 +1,136 @@
+{
+  "title":"How to Make Papaya Quick Bread",
+  "url":"https://www.wikihow.com/Make-Papaya-Quick-Bread",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Breads",
+    "Fruit Breads"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat oven to 325\u00baF.",
+      "description":""
+    },
+    {
+      "headline":"Grease and flour 2 metal loaf pans or 24-36 small muffin pans lightly.",
+      "description":""
+    },
+    {
+      "headline":"Wash, peel, and shred carrots.",
+      "description":""
+    },
+    {
+      "headline":"Wash and cut papaya in half; scoop out seeds and membrane; peel and mash or puree papaya fruit.",
+      "description":""
+    },
+    {
+      "headline":"Combine eggs, oil, and sugar in the mixing bowl of an electric mixer.",
+      "description":"Mixing on low speed just until combined."
+    },
+    {
+      "headline":"Add carrots, (applesauce, if using), mashed papaya, nuts and/or dried fruits.",
+      "description":"Stir until well combined."
+    },
+    {
+      "headline":"Mix together thoroughly salt, flour, baking soda, spices (of your choice) in a separate bowl.",
+      "description":""
+    },
+    {
+      "headline":"Add to the egg mixture, stirring gently by hand.",
+      "description":""
+    },
+    {
+      "headline":"Spoon batter into prepared loaf pans (or muffin pans).",
+      "description":""
+    },
+    {
+      "headline":"Bake at 325\u00baF for 50-60 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Test for doneness: A wooden tester inserted into the center of bread should come out clean.",
+      "description":""
+    },
+    {
+      "headline":"Remove bread from oven and let rest in pan for about 10 minutes before removing from pan or slicing.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Preheat oven to 325\u00baF.  Grease and flour 2 metal loaf pans or 24-36 small muffin pans lightly.  Wash, peel, and shred carrots.  Wash and cut papaya in half; scoop out seeds and membrane; peel and mash or puree papaya fruit.  Combine eggs, oil, and sugar in the mixing bowl of an electric mixer. Mixing on low speed just until combined. Add carrots, (applesauce, if using), mashed papaya, nuts and/or dried fruits. Stir until well combined. Mix together thoroughly salt, flour, baking soda, spices (of your choice) in a separate bowl.  Add to the egg mixture, stirring gently by hand.  Spoon batter into prepared loaf pans (or muffin pans).  Bake at 325\u00baF for 50-60 minutes.  Test for doneness: A wooden tester inserted into the center of bread should come out clean.  Remove bread from oven and let rest in pan for about 10 minutes before removing from pan or slicing.  Finished. ",
+  "sentences":[
+    " Preheat oven to 325\u00baF.",
+    "Grease and flour 2 metal loaf pans or 24-36 small muffin pans lightly.",
+    "Wash, peel, and shred carrots.",
+    "Wash and cut papaya in half; scoop out seeds and membrane; peel and mash or puree papaya fruit.",
+    "Combine eggs, oil, and sugar in the mixing bowl of an electric mixer.",
+    "Mixing on low speed just until combined.",
+    "Add carrots, (applesauce, if using), mashed papaya, nuts and/or dried fruits.",
+    "Stir until well combined.",
+    "Mix together thoroughly salt, flour, baking soda, spices (of your choice) in a separate bowl.",
+    "Add to the egg mixture, stirring gently by hand.",
+    "Spoon batter into prepared loaf pans (or muffin pans).",
+    "Bake at 325\u00baF for 50-60 minutes.",
+    "Test for doneness: A wooden tester inserted into the center of bread should come out clean.",
+    "Remove bread from oven and let rest in pan for about 10 minutes before removing from pan or slicing.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "2 loaf pans",
+    "Electric stand or hand mixer",
+    "Food processor or grater",
+    "Rubber spatula",
+    "Large bowl",
+    "Oven",
+    "Serving plate",
+    "Slicing knife"
+  ],
+  "tyn_model":[
+    "oven",
+    "carrots",
+    "papaya",
+    "papaya fruit",
+    "eggs",
+    "oil",
+    "sugar",
+    "mixing bowl",
+    "electric mixer",
+    "applesauce",
+    "nuts",
+    "salt",
+    "flour",
+    "baking soda",
+    "spices",
+    "bowl",
+    "loaf pans",
+    "muffin pans",
+    "wooden tester",
+    "bread"
+  ],
+  "simple_metrics":{
+    "r":0.125,
+    "p":0.05,
+    "f1":0.0714285714,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.375,
+    "p":0.15,
+    "f1":0.2142857143
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1,
+    "f1":0.1428571429
+  }
+}

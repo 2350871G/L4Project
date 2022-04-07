@@ -1,0 +1,126 @@
+{
+  "title":"How to Make Tuna Lasagne",
+  "url":"https://www.wikihow.com/Make-Tuna-Lasagne",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles",
+    "Lasagna"
+  ],
+  "steps":[
+    {
+      "headline":"Cook the onion and garlic.",
+      "description":"Pour the oil into the frying pan and heat over a moderate temperature. When the oil is fairly hot add the onion and garlic and cook until the onion softens."
+    },
+    {
+      "headline":"Add more ingredients for the sauce.",
+      "description":"Add the chopped tomato, tomato paste, sugar, oregano, basil and lemon juice. Season well with salt and pepper, mix together and simmer uncovered for 10 minutes."
+    },
+    {
+      "headline":"Stir in the tuna and remove the pan from the heat.",
+      "description":""
+    },
+    {
+      "headline":"Pre-heat the oven to 350 degrees F, 180 degrees C, or on gas mark 4.",
+      "description":""
+    },
+    {
+      "headline":"Make the bechamel sauce.",
+      "description":"Melt butter in the saucepan, then add the flour and stir in well. While stirring, slowly pour in the milk. Season with salt and pepper. Let the sauce thicken by gradually bringing it to the boil whilst continually stirring. Finally add the parmesan cheese, stir in and remove sauce from the heat."
+    },
+    {
+      "headline":"Layer the lasagne and sauces in the casserole dish.",
+      "description":"To build the lasagne, firstly spoon some tuna sauce over the bottom of the casserole dish. Next, add a layer of lasagne and spread some bechamel sauce on top. Finally add a layer of mozzarella. Repeat this process until you've added all the ingredients. The last layer should be the b\u00e9chamel sauce which will become crisp in the oven."
+    },
+    {
+      "headline":"Bake the lasagne.",
+      "description":"Place the dish in the middle of the oven and bake for 35 minutes or until the bechamel sauce has turned golden-brown."
+    },
+    {
+      "headline":"Serve.",
+      "description":"When golden and bubbling, remove the lasagne from the oven and serve while piping hot with a fresh, green salad and crusty bread."
+    }
+  ],
+  "text":" Cook the onion and garlic. Pour the oil into the frying pan and heat over a moderate temperature. When the oil is fairly hot add the onion and garlic and cook until the onion softens. Add more ingredients for the sauce. Add the chopped tomato, tomato paste, sugar, oregano, basil and lemon juice. Season well with salt and pepper, mix together and simmer uncovered for 10 minutes. Stir in the tuna and remove the pan from the heat.  Pre-heat the oven to 350 degrees F, 180 degrees C, or on gas mark 4.  Make the bechamel sauce. Melt butter in the saucepan, then add the flour and stir in well. While stirring, slowly pour in the milk. Season with salt and pepper. Let the sauce thicken by gradually bringing it to the boil whilst continually stirring. Finally add the parmesan cheese, stir in and remove sauce from the heat. Layer the lasagne and sauces in the casserole dish. To build the lasagne, firstly spoon some tuna sauce over the bottom of the casserole dish. Next, add a layer of lasagne and spread some bechamel sauce on top. Finally add a layer of mozzarella. Repeat this process until you've added all the ingredients. The last layer should be the b\u00e9chamel sauce which will become crisp in the oven. Bake the lasagne. Place the dish in the middle of the oven and bake for 35 minutes or until the bechamel sauce has turned golden-brown. Serve. When golden and bubbling, remove the lasagne from the oven and serve while piping hot with a fresh, green salad and crusty bread.",
+  "sentences":[
+    " Cook the onion and garlic.",
+    "Pour the oil into the frying pan and heat over a moderate temperature.",
+    "When the oil is fairly hot add the onion and garlic and cook until the onion softens.",
+    "Add more ingredients for the sauce.",
+    "Add the chopped tomato, tomato paste, sugar, oregano, basil and lemon juice.",
+    "Season well with salt and pepper, mix together and simmer uncovered for 10 minutes.",
+    "Stir in the tuna and remove the pan from the heat.",
+    "Pre-heat the oven to 350 degrees F, 180 degrees C, or on gas mark 4.",
+    "Make the bechamel sauce.",
+    "Melt butter in the saucepan, then add the flour and stir in well.",
+    "While stirring, slowly pour in the milk.",
+    "Season with salt and pepper.",
+    "Let the sauce thicken by gradually bringing it to the boil whilst continually stirring.",
+    "Finally add the parmesan cheese, stir in and remove sauce from the heat.",
+    "Layer the lasagne and sauces in the casserole dish.",
+    "To build the lasagne, firstly spoon some tuna sauce over the bottom of the casserole dish.",
+    "Next, add a layer of lasagne and spread some bechamel sauce on top.",
+    "Finally add a layer of mozzarella.",
+    "Repeat this process until you've added all the ingredients.",
+    "The last layer should be the b\u00e9chamel sauce which will become crisp in the oven.",
+    "Bake the lasagne.",
+    "Place the dish in the middle of the oven and bake for 35 minutes or until the bechamel sauce has turned golden-brown.",
+    "Serve.",
+    "When golden and bubbling, remove the lasagne from the oven and serve while piping hot with a fresh, green salad and crusty bread."
+  ],
+  "tyn_section":[
+    "Frying pan",
+    "Spoon",
+    "Wooden spoon",
+    "Medium sized saucepan",
+    "Casserole dish"
+  ],
+  "tyn_model":[
+    "lasagne",
+    "bechamel sauce",
+    "oven",
+    "onion",
+    "garlic",
+    "oil",
+    "salt and pepper",
+    "frying pan",
+    "tomato",
+    "tomato paste",
+    "sugar",
+    "oregano",
+    "basil",
+    "lemon juice",
+    "tuna",
+    "butter",
+    "saucepan",
+    "flour",
+    "milk",
+    "parmesan cheese",
+    "casserole dish",
+    "tuna sauce",
+    "mozzarella",
+    "b\u00e9chamel sauce",
+    "green salad"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.08,
+    "f1":0.1333333333,
+    "avg_pos":0.28
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.08,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.12,
+    "f1":0.2
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.08,
+    "f1":0.1333333333
+  }
+}

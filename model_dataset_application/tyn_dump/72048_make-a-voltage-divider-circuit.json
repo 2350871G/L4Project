@@ -1,0 +1,98 @@
+{
+  "title":"How to Make a Voltage Divider Circuit",
+  "url":"https://www.wikihow.com/Make-a-Voltage-Divider-Circuit",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Connect one lead of the 20-ohm resistor to the exposed part of the red lead of the 9V battery snap-on connector using an alligator clamp.",
+      "description":""
+    },
+    {
+      "headline":"Repeat Step 1 to connect the black lead of the snap-on connector to one lead of the 10-ohm resistor.",
+      "description":""
+    },
+    {
+      "headline":"Twist together the free end of each resistor.",
+      "description":"This will be the easiest way to make sure that there is a solid connection between the resistors."
+    },
+    {
+      "headline":"Clamp the last alligator clamp over the twisted leads of the resistors to ensure they stay in place.",
+      "description":""
+    },
+    {
+      "headline":"Connect the snap-on connector to the 9V battery so that the red wire is connected to the positive (+) terminal and the black wire is connected to the negative (-) terminal.",
+      "description":""
+    },
+    {
+      "headline":"Hold the negative (black) lead of the voltmeter against the alligator clamp touching the negative (black) lead of the snap-on connector.",
+      "description":""
+    },
+    {
+      "headline":"Hold the positive (red) lead of the voltmeter against the alligator clamp holding the twisted resistor leads in place.",
+      "description":""
+    },
+    {
+      "headline":"Turn on the voltmeter.",
+      "description":"The screen should read 3V."
+    },
+    {
+      "headline":"Use the connection where the twisted resistor leads are located as the positive voltage terminal for your circuit.",
+      "description":"The negative terminal of the battery will still be your negative source for the circuit. You now have a voltage divider for your 9V battery."
+    }
+  ],
+  "text":" Connect one lead of the 20-ohm resistor to the exposed part of the red lead of the 9V battery snap-on connector using an alligator clamp.  Repeat Step 1 to connect the black lead of the snap-on connector to one lead of the 10-ohm resistor.  Twist together the free end of each resistor. This will be the easiest way to make sure that there is a solid connection between the resistors. Clamp the last alligator clamp over the twisted leads of the resistors to ensure they stay in place.  Connect the snap-on connector to the 9V battery so that the red wire is connected to the positive (+) terminal and the black wire is connected to the negative (-) terminal.  Hold the negative (black) lead of the voltmeter against the alligator clamp touching the negative (black) lead of the snap-on connector.  Hold the positive (red) lead of the voltmeter against the alligator clamp holding the twisted resistor leads in place.  Turn on the voltmeter. The screen should read 3V. Use the connection where the twisted resistor leads are located as the positive voltage terminal for your circuit. The negative terminal of the battery will still be your negative source for the circuit. You now have a voltage divider for your 9V battery.",
+  "sentences":[
+    " Connect one lead of the 20-ohm resistor to the exposed part of the red lead of the 9V battery snap-on connector using an alligator clamp.",
+    "Repeat Step 1 to connect the black lead of the snap-on connector to one lead of the 10-ohm resistor.",
+    "Twist together the free end of each resistor.",
+    "This will be the easiest way to make sure that there is a solid connection between the resistors.",
+    "Clamp the last alligator clamp over the twisted leads of the resistors to ensure they stay in place.",
+    "Connect the snap-on connector to the 9V battery so that the red wire is connected to the positive (+) terminal and the black wire is connected to the negative (-) terminal.",
+    "Hold the negative (black) lead of the voltmeter against the alligator clamp touching the negative (black) lead of the snap-on connector.",
+    "Hold the positive (red) lead of the voltmeter against the alligator clamp holding the twisted resistor leads in place.",
+    "Turn on the voltmeter.",
+    "The screen should read 3V.",
+    "Use the connection where the twisted resistor leads are located as the positive voltage terminal for your circuit.",
+    "The negative terminal of the battery will still be your negative source for the circuit.",
+    "You now have a voltage divider for your 9V battery."
+  ],
+  "tyn_section":[
+    "Standard 9V battery",
+    "1-9V battery snap-on connector",
+    "1-10ohm resistor, 2 watts or higher dissipation capability",
+    "1-20ohm resistor, 3 watts or higher dissipation capability",
+    "3 alligator clamps",
+    "1 digital voltmeter"
+  ],
+  "tyn_model":[
+    "alligator clamp",
+    "voltmeter",
+    "snap-on connector",
+    "resistor"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.25,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.5,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

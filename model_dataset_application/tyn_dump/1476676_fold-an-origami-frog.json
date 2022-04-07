@@ -1,0 +1,96 @@
+{
+  "title":"How to Fold an Origami Frog",
+  "url":"https://www.wikihow.com/Fold-an-Origami-Frog",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Put the paper down flat in front of you.",
+      "description":"Fold it into a triangle by bringing one corner to meet the opposite corner."
+    },
+    {
+      "headline":"Fold it in half again to make a triangle half that size.",
+      "description":"Then unfold this part."
+    },
+    {
+      "headline":"Fold the bottom two corners in to meet at the center of the bottom edge.",
+      "description":""
+    },
+    {
+      "headline":"Turn the paper over.",
+      "description":""
+    },
+    {
+      "headline":"Fold the edges to meet in the middle.",
+      "description":"Let the corners come out from behind."
+    },
+    {
+      "headline":"Next, fold up the bottom edge.",
+      "description":""
+    },
+    {
+      "headline":"Fold over 2 more times like an accordion.",
+      "description":"This will make the frog jump."
+    },
+    {
+      "headline":"Fold the corners again.",
+      "description":""
+    },
+    {
+      "headline":"You can draw on the eyes.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Put the paper down flat in front of you. Fold it into a triangle by bringing one corner to meet the opposite corner. Fold it in half again to make a triangle half that size. Then unfold this part. Fold the bottom two corners in to meet at the center of the bottom edge.  Turn the paper over.  Fold the edges to meet in the middle. Let the corners come out from behind. Next, fold up the bottom edge.  Fold over 2 more times like an accordion. This will make the frog jump. Fold the corners again.  You can draw on the eyes.  Finished. ",
+  "sentences":[
+    " Put the paper down flat in front of you.",
+    "Fold it into a triangle by bringing one corner to meet the opposite corner.",
+    "Fold it in half again to make a triangle half that size.",
+    "Then unfold this part.",
+    "Fold the bottom two corners in to meet at the center of the bottom edge.",
+    "Turn the paper over.",
+    "Fold the edges to meet in the middle.",
+    "Let the corners come out from behind.",
+    "Next, fold up the bottom edge.",
+    "Fold over 2 more times like an accordion.",
+    "This will make the frog jump.",
+    "Fold the corners again.",
+    "You can draw on the eyes.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Origami paper",
+    "Pen, pencil, crayons, or markers"
+  ],
+  "tyn_model":[
+    "paper",
+    "accordion"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

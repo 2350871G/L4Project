@@ -1,0 +1,106 @@
+{
+  "title":"How to Make Hawaiian Pork Chops",
+  "url":"https://www.wikihow.com/Make-Hawaiian-Pork-Chops",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Meat",
+    "Pork",
+    "Pork Chops"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat the oven to 350\u00baF/180\u00baC.",
+      "description":""
+    },
+    {
+      "headline":"Combine the cinnamon, salt, and nutmeg in a small bowl.",
+      "description":""
+    },
+    {
+      "headline":"Combine the ketchup, brown sugar, vinegar, and soy sauce in a large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Season the pork chops on both sides with the nutmeg mixture.",
+      "description":""
+    },
+    {
+      "headline":"Heat a large skillet on medium-high heat with the butter.",
+      "description":""
+    },
+    {
+      "headline":"Brown the pork chops for about a minute or two.",
+      "description":"They will finish cooking in the oven, so you don't need to thoroughly cook them on the stove."
+    },
+    {
+      "headline":"Lay them in a large casserole dish.",
+      "description":"Add the brown sugar mixture and pineapples on top of the pork chops."
+    },
+    {
+      "headline":"Bake the pork chops for 45 minutes.",
+      "description":"Finish the dish with a garnish of cherries."
+    }
+  ],
+  "text":" Preheat the oven to 350\u00baF/180\u00baC.  Combine the cinnamon, salt, and nutmeg in a small bowl.  Combine the ketchup, brown sugar, vinegar, and soy sauce in a large bowl.  Season the pork chops on both sides with the nutmeg mixture.  Heat a large skillet on medium-high heat with the butter.  Brown the pork chops for about a minute or two. They will finish cooking in the oven, so you don't need to thoroughly cook them on the stove. Lay them in a large casserole dish. Add the brown sugar mixture and pineapples on top of the pork chops. Bake the pork chops for 45 minutes. Finish the dish with a garnish of cherries.",
+  "sentences":[
+    " Preheat the oven to 350\u00baF/180\u00baC.",
+    "Combine the cinnamon, salt, and nutmeg in a small bowl.",
+    "Combine the ketchup, brown sugar, vinegar, and soy sauce in a large bowl.",
+    "Season the pork chops on both sides with the nutmeg mixture.",
+    "Heat a large skillet on medium-high heat with the butter.",
+    "Brown the pork chops for about a minute or two.",
+    "They will finish cooking in the oven, so you don't need to thoroughly cook them on the stove.",
+    "Lay them in a large casserole dish.",
+    "Add the brown sugar mixture and pineapples on top of the pork chops.",
+    "Bake the pork chops for 45 minutes.",
+    "Finish the dish with a garnish of cherries."
+  ],
+  "tyn_section":[
+    "Small bowl",
+    "Large bowl",
+    "Large ",
+    "skillet",
+    "Cutting board",
+    "Large casserole dish"
+  ],
+  "tyn_model":[
+    "oven",
+    "brown sugar",
+    "cinnamon",
+    "salt",
+    "small bowl",
+    "ketchup",
+    "vinegar",
+    "soy sauce",
+    "large bowl",
+    "nutmeg",
+    "large skillet",
+    "butter",
+    "stove",
+    "large casserole dish",
+    "pineapples",
+    "cherries"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1875,
+    "f1":0.2727272727,
+    "avg_pos":0.25
+  },
+  "jacc_metrics_0.5":{
+    "r":0.8333333333,
+    "p":0.25,
+    "f1":0.3846153846
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8333333333,
+    "p":0.25,
+    "f1":0.3846153846
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1875,
+    "f1":0.2727272727
+  }
+}

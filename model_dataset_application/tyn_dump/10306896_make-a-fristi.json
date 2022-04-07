@@ -1,0 +1,93 @@
+{
+  "title":"How to Make a Fristi",
+  "url":"https://www.wikihow.com/Make-a-Fristi",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Smoothies Shakes and Milk"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the strawberries.",
+      "description":"If the strawberries are fresh, remove the leaves and core from the strawberries, then put the strawberries in the blender. Blend them until they are smooth."
+    },
+    {
+      "headline":"Add the coconut milk and lemon juice to the blender.",
+      "description":"Blend again."
+    },
+    {
+      "headline":"Add a teaspoon of syrup, sugar, or agave nectar to the blender.",
+      "description":"Blend it some more."
+    },
+    {
+      "headline":"Judge the thickness of the drink.",
+      "description":"If it appears to be too thick, add some water and blend."
+    },
+    {
+      "headline":"Have a taste.",
+      "description":"If it is not sweet enough for your liking, feel free to add another teaspoon of your chosen sweetener and taste test once more."
+    },
+    {
+      "headline":"Divide the mixture among four glasses.",
+      "description":"Add ice if necessary. Partially split a strawberry and add it to the rim of the glass as a garnish."
+    }
+  ],
+  "text":" Prepare the strawberries. If the strawberries are fresh, remove the leaves and core from the strawberries, then put the strawberries in the blender. Blend them until they are smooth. Add the coconut milk and lemon juice to the blender. Blend again. Add a teaspoon of syrup, sugar, or agave nectar to the blender. Blend it some more. Judge the thickness of the drink. If it appears to be too thick, add some water and blend. Have a taste. If it is not sweet enough for your liking, feel free to add another teaspoon of your chosen sweetener and taste test once more. Divide the mixture among four glasses. Add ice if necessary. Partially split a strawberry and add it to the rim of the glass as a garnish.",
+  "sentences":[
+    " Prepare the strawberries.",
+    "If the strawberries are fresh, remove the leaves and core from the strawberries, then put the strawberries in the blender.",
+    "Blend them until they are smooth.",
+    "Add the coconut milk and lemon juice to the blender.",
+    "Blend again.",
+    "Add a teaspoon of syrup, sugar, or agave nectar to the blender.",
+    "Blend it some more.",
+    "Judge the thickness of the drink.",
+    "If it appears to be too thick, add some water and blend.",
+    "Have a taste.",
+    "If it is not sweet enough for your liking, feel free to add another teaspoon of your chosen sweetener and taste test once more.",
+    "Divide the mixture among four glasses.",
+    "Add ice if necessary.",
+    "Partially split a strawberry and add it to the rim of the glass as a garnish."
+  ],
+  "tyn_section":[
+    "Blender",
+    "Teaspoon",
+    "Glasses",
+    "Popsicle molds (optional)"
+  ],
+  "tyn_model":[
+    "strawberries",
+    "blender",
+    "coconut milk",
+    "lemon juice",
+    "syrup",
+    "sugar",
+    "agave nectar",
+    "water",
+    "sweetener",
+    "ice",
+    "strawberry",
+    "glass"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125,
+    "avg_pos":0.0833333333
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.0833333333,
+    "f1":0.125
+  }
+}

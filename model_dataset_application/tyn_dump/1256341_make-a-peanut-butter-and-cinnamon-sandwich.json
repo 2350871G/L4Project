@@ -1,0 +1,105 @@
+{
+  "title":"How to Make a Peanut Butter and Cinnamon Sandwich",
+  "url":"https://www.wikihow.com/Make-a-Peanut-Butter-and-Cinnamon-Sandwich",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Sandwiches and Quick Meals",
+    "Peanut Butter Sandwiches"
+  ],
+  "steps":[
+    {
+      "headline":"Mix the ingredients except the bread in a bowl.",
+      "description":"In a small bowl mix the peanut butter, honey, and cinnamon with a spoon. Stir until the ingredients are well-combined."
+    },
+    {
+      "headline":"Spread the peanut butter mixture on the bread.",
+      "description":"Using a butter knife, spread the peanut butter mixture over all the slices of bread. Close each sandwich with another piece of bread until you are left with four sandwiches."
+    },
+    {
+      "headline":"Preheat the stovetop.",
+      "description":"Place the stovetop to medium heat and lay a skillet or frying pan on the heat. Melt the butter until it lightly browns and bubbles slightly."
+    },
+    {
+      "headline":"Grill the sandwiches.",
+      "description":"Depending on the size of the skillet or frying pan, you may have to cook the sandwiches one at a time or all together. Fry the sandwiches for about five minutes on both sides. Ensure the sandwich is lightly browned and the edges are crisped."
+    },
+    {
+      "headline":"Have the sandwiches cool.",
+      "description":"Using a spatula, remove the sandwiches from the heat. Lay them on a serving plate that's covered with a napkin."
+    },
+    {
+      "headline":"Serve and enjoy!",
+      "description":"Drizzle honey or maple syrup over the sandwiches. Sprinkle extra cinnamon if desired. Enjoy!"
+    }
+  ],
+  "text":" Mix the ingredients except the bread in a bowl. In a small bowl mix the peanut butter, honey, and cinnamon with a spoon. Stir until the ingredients are well-combined. Spread the peanut butter mixture on the bread. Using a butter knife, spread the peanut butter mixture over all the slices of bread. Close each sandwich with another piece of bread until you are left with four sandwiches. Preheat the stovetop. Place the stovetop to medium heat and lay a skillet or frying pan on the heat. Melt the butter until it lightly browns and bubbles slightly. Grill the sandwiches. Depending on the size of the skillet or frying pan, you may have to cook the sandwiches one at a time or all together. Fry the sandwiches for about five minutes on both sides. Ensure the sandwich is lightly browned and the edges are crisped. Have the sandwiches cool. Using a spatula, remove the sandwiches from the heat. Lay them on a serving plate that's covered with a napkin. Serve and enjoy! Drizzle honey or maple syrup over the sandwiches. Sprinkle extra cinnamon if desired. Enjoy!",
+  "sentences":[
+    " Mix the ingredients except the bread in a bowl.",
+    "In a small bowl mix the peanut butter, honey, and cinnamon with a spoon.",
+    "Stir until the ingredients are well-combined.",
+    "Spread the peanut butter mixture on the bread.",
+    "Using a butter knife, spread the peanut butter mixture over all the slices of bread.",
+    "Close each sandwich with another piece of bread until you are left with four sandwiches.",
+    "Preheat the stovetop.",
+    "Place the stovetop to medium heat and lay a skillet or frying pan on the heat.",
+    "Melt the butter until it lightly browns and bubbles slightly.",
+    "Grill the sandwiches.",
+    "Depending on the size of the skillet or frying pan, you may have to cook the sandwiches one at a time or all together.",
+    "Fry the sandwiches for about five minutes on both sides.",
+    "Ensure the sandwich is lightly browned and the edges are crisped.",
+    "Have the sandwiches cool.",
+    "Using a spatula, remove the sandwiches from the heat.",
+    "Lay them on a serving plate that's covered with a napkin.",
+    "Serve and enjoy!",
+    "Drizzle honey or maple syrup over the sandwiches.",
+    "Sprinkle extra cinnamon if desired.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Frying pan or skillet",
+    "Butter knife",
+    "Small bowl",
+    "Spoon",
+    "Spatula",
+    "Napkin",
+    "Serving plate"
+  ],
+  "tyn_model":[
+    "peanut butter",
+    "honey",
+    "cinnamon",
+    "stovetop",
+    "skillet",
+    "frying pan",
+    "bowl",
+    "spoon",
+    "butter knife",
+    "butter",
+    "spatula",
+    "serving plate",
+    "napkin",
+    "maple syrup"
+  ],
+  "simple_metrics":{
+    "r":0.7142857143,
+    "p":0.3571428571,
+    "f1":0.4761904762,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.5714285714,
+    "f1":0.7272727273
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.6428571429,
+    "f1":0.7826086957
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.7142857143,
+    "p":0.3571428571,
+    "f1":0.4761904762
+  }
+}

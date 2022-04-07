@@ -1,0 +1,78 @@
+{
+  "title":"How to Make an AMF Cocktail",
+  "url":"https://www.wikihow.com/Make-an-AMF-Cocktail",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Mixed Drink Shooters and Shots"
+  ],
+  "steps":[
+    {
+      "headline":"Fill a chilled glass about halfway with ice cubes.",
+      "description":""
+    },
+    {
+      "headline":"Measure and add the vodka, rum, tequila, gin, blue cura\u00e7ao, and sweet and sour mix.",
+      "description":""
+    },
+    {
+      "headline":"Use a bar spoon to mix the ingredients gently.",
+      "description":""
+    },
+    {
+      "headline":"Top with the lemon lime soda and enjoy.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Fill a chilled glass about halfway with ice cubes.  Measure and add the vodka, rum, tequila, gin, blue cura\u00e7ao, and sweet and sour mix.  Use a bar spoon to mix the ingredients gently.  Top with the lemon lime soda and enjoy.  Finished. ",
+  "sentences":[
+    " Fill a chilled glass about halfway with ice cubes.",
+    "Measure and add the vodka, rum, tequila, gin, blue cura\u00e7ao, and sweet and sour mix.",
+    "Use a bar spoon to mix the ingredients gently.",
+    "Top with the lemon lime soda and enjoy.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Highball glass, or several shot glasses if splitting the drink up",
+    "Bar spoon"
+  ],
+  "tyn_model":[
+    "chilled glass",
+    "ice cubes",
+    "vodka",
+    "rum",
+    "tequila",
+    "gin",
+    "blue cura\u00e7ao",
+    "sweet and sour mix",
+    "bar spoon",
+    "lemon lime soda"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1,
+    "f1":0.1666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1,
+    "f1":0.1666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1,
+    "f1":0.1666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1,
+    "f1":0.1666666667
+  }
+}

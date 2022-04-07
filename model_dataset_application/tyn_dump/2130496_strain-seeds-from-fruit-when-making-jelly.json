@@ -1,0 +1,100 @@
+{
+  "title":"How to Strain Seeds from Fruit when Making Jelly",
+  "url":"https://www.wikihow.com/Strain-Seeds-from-Fruit-when-Making-Jelly",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Jams and Jellies"
+  ],
+  "steps":[
+    {
+      "headline":"Find a good recipe for fruit jelly and follow its directions for cooking and softening the fruit.",
+      "description":""
+    },
+    {
+      "headline":"Wet a large jelly bag or several jelly bags (depending on how much you\u2019re making) by soaking them for a few minutes in warm water.",
+      "description":"If you do not have a jelly bag, wet several squares of cheesecloth big enough to line a colander or strainer."
+    },
+    {
+      "headline":"Suspend the damp jelly bag over a container large enough to collect all the strained juice.",
+      "description":"You could also suspend the lined colander or strainer over a container."
+    },
+    {
+      "headline":"Pour the warm, softened fruit into the jelly bag or lined colander until it\u2019s about 3/4 full.",
+      "description":""
+    },
+    {
+      "headline":"Allow the juice from the fruit to drip into your container.",
+      "description":"This can take 1 hour or several hours."
+    },
+    {
+      "headline":"Discard the fruit puree in the jelly bag or colander after the juice stops dripping.",
+      "description":"If you are making grape jelly, place the juice in the refrigerator for 8 hours or overnight. Grape juice makes crystals that need to settle out of the juice. In the morning, strain the grape juice again through a clean, damp jelly bag or clean damp cheesecloth-lined colander. This will only take a few minutes."
+    },
+    {
+      "headline":"Add the sugar and/or pectin called for in your recipe and continue cooking and processing your jelly as directed.",
+      "description":""
+    }
+  ],
+  "text":" Find a good recipe for fruit jelly and follow its directions for cooking and softening the fruit.  Wet a large jelly bag or several jelly bags (depending on how much you\u2019re making) by soaking them for a few minutes in warm water. If you do not have a jelly bag, wet several squares of cheesecloth big enough to line a colander or strainer. Suspend the damp jelly bag over a container large enough to collect all the strained juice. You could also suspend the lined colander or strainer over a container. Pour the warm, softened fruit into the jelly bag or lined colander until it\u2019s about 3/4 full.  Allow the juice from the fruit to drip into your container. This can take 1 hour or several hours. Discard the fruit puree in the jelly bag or colander after the juice stops dripping. If you are making grape jelly, place the juice in the refrigerator for 8 hours or overnight. Grape juice makes crystals that need to settle out of the juice. In the morning, strain the grape juice again through a clean, damp jelly bag or clean damp cheesecloth-lined colander. This will only take a few minutes. Add the sugar and/or pectin called for in your recipe and continue cooking and processing your jelly as directed. ",
+  "sentences":[
+    " Find a good recipe for fruit jelly and follow its directions for cooking and softening the fruit.",
+    "Wet a large jelly bag or several jelly bags (depending on how much you\u2019re making) by soaking them for a few minutes in warm water.",
+    "If you do not have a jelly bag, wet several squares of cheesecloth big enough to line a colander or strainer.",
+    "Suspend the damp jelly bag over a container large enough to collect all the strained juice.",
+    "You could also suspend the lined colander or strainer over a container.",
+    "Pour the warm, softened fruit into the jelly bag or lined colander until it\u2019s about 3/4 full.",
+    "Allow the juice from the fruit to drip into your container.",
+    "This can take 1 hour or several hours.",
+    "Discard the fruit puree in the jelly bag or colander after the juice stops dripping.",
+    "If you are making grape jelly, place the juice in the refrigerator for 8 hours or overnight.",
+    "Grape juice makes crystals that need to settle out of the juice.",
+    "In the morning, strain the grape juice again through a clean, damp jelly bag or clean damp cheesecloth-lined colander.",
+    "This will only take a few minutes.",
+    "Add the sugar and/or pectin called for in your recipe and continue cooking and processing your jelly as directed."
+  ],
+  "tyn_section":[
+    "Jelly bag or cheesecloth",
+    "Jelly bag holder or something to suspend the bag from.",
+    "Colander or strainer if not using jelly bag",
+    "Container or containers to collect juice"
+  ],
+  "tyn_model":[
+    "jelly bag",
+    "colander",
+    "strainer",
+    "container",
+    "grape juice",
+    "fruit jelly",
+    "jelly bags",
+    "water",
+    "cheesecloth",
+    "fruit puree",
+    "grape jelly",
+    "refrigerator",
+    "sugar",
+    "jelly"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.0714285714,
+    "f1":0.1111111111
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.0714285714,
+    "f1":0.1111111111
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title":"How to Wash a Cabbage Patch Doll's Hair",
+  "url":"https://www.wikihow.com/Wash-a-Cabbage-Patch-Doll%27s-Hair",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Toys",
+    "Dolls and Doll Houses",
+    "Caring for Doll Hair"
+  ],
+  "steps":[
+    {
+      "headline":"Remove the clothes from around the doll's head area.",
+      "description":"It might be easier to completely undress the doll."
+    },
+    {
+      "headline":"Pour some warm water into a large bowl.",
+      "description":"Add some liquid hand soap or rub in normal hand washing soap until the water froths up. The soap must be gentle."
+    },
+    {
+      "headline":"Wash the doll's hair.",
+      "description":"Tip the doll upside down and hold its hair into the washing bowl. Avoid dunking any of the head - just let the hair dangle in. Swish the hair using a circular motion."
+    },
+    {
+      "headline":"Squeeze the doll's hair in one hand.",
+      "description":"Do this scrunching gently and repeatedly to remove build-up of grime."
+    },
+    {
+      "headline":"Remove the doll's hair from the water.",
+      "description":"Lay the doll's head on a pre-folded towel to wait for rinsing."
+    },
+    {
+      "headline":"Fill the bowl again with more warm water.",
+      "description":"Scrunch gently to remove the soap from the hair."
+    },
+    {
+      "headline":"Remove the doll again and place back on the folded towel.",
+      "description":"Gently squeeze the hair and let the water run into the towel. When you have finished squeezing out the water, proceed to the next step."
+    },
+    {
+      "headline":"Let the doll's hair air dry.",
+      "description":"Leaving the doll on the dry end of the towel (or use a new towel), spread out the doll's hair away from the rest of the doll. Leave it to dry. Overnight is good."
+    },
+    {
+      "headline":"Finger brush and style.",
+      "description":"Once dry, you can try to restore some style to the hair, as wished."
+    }
+  ],
+  "text":" Remove the clothes from around the doll's head area. It might be easier to completely undress the doll. Pour some warm water into a large bowl. Add some liquid hand soap or rub in normal hand washing soap until the water froths up. The soap must be gentle. Wash the doll's hair. Tip the doll upside down and hold its hair into the washing bowl. Avoid dunking any of the head - just let the hair dangle in. Swish the hair using a circular motion. Squeeze the doll's hair in one hand. Do this scrunching gently and repeatedly to remove build-up of grime. Remove the doll's hair from the water. Lay the doll's head on a pre-folded towel to wait for rinsing. Fill the bowl again with more warm water. Scrunch gently to remove the soap from the hair. Remove the doll again and place back on the folded towel. Gently squeeze the hair and let the water run into the towel. When you have finished squeezing out the water, proceed to the next step. Let the doll's hair air dry. Leaving the doll on the dry end of the towel (or use a new towel), spread out the doll's hair away from the rest of the doll. Leave it to dry. Overnight is good. Finger brush and style. Once dry, you can try to restore some style to the hair, as wished.",
+  "sentences":[
+    " Remove the clothes from around the doll's head area.",
+    "It might be easier to completely undress the doll.",
+    "Pour some warm water into a large bowl.",
+    "Add some liquid hand soap or rub in normal hand washing soap until the water froths up.",
+    "The soap must be gentle.",
+    "Wash the doll's hair.",
+    "Tip the doll upside down and hold its hair into the washing bowl.",
+    "Avoid dunking any of the head - just let the hair dangle in.",
+    "Swish the hair using a circular motion.",
+    "Squeeze the doll's hair in one hand.",
+    "Do this scrunching gently and repeatedly to remove build-up of grime.",
+    "Remove the doll's hair from the water.",
+    "Lay the doll's head on a pre-folded towel to wait for rinsing.",
+    "Fill the bowl again with more warm water.",
+    "Scrunch gently to remove the soap from the hair.",
+    "Remove the doll again and place back on the folded towel.",
+    "Gently squeeze the hair and let the water run into the towel.",
+    "When you have finished squeezing out the water, proceed to the next step.",
+    "Let the doll's hair air dry.",
+    "Leaving the doll on the dry end of the towel (or use a new towel), spread out the doll's hair away from the rest of the doll.",
+    "Leave it to dry.",
+    "Overnight is good.",
+    "Finger brush and style.",
+    "Once dry, you can try to restore some style to the hair, as wished."
+  ],
+  "tyn_section":[
+    "Cabbage patch doll",
+    "Water",
+    "Bowl, large",
+    "Towel",
+    "Gentle hand soap/liquid hand soap"
+  ],
+  "tyn_model":[
+    "water",
+    "towel",
+    "liquid hand soap",
+    "hand washing soap",
+    "washing bowl",
+    "bowl",
+    "soap"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.2857142857,
+    "f1":0.3333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.2857142857,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.5714285714,
+    "f1":0.5853658537
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.2857142857,
+    "f1":0.3333333333
+  }
+}

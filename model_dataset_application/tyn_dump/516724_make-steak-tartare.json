@@ -1,0 +1,111 @@
+{
+  "title":"How to Make Steak Tartare",
+  "url":"https://www.wikihow.com/Make-Steak-Tartare",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Meat",
+    "Beef and Lamb",
+    "Steak Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the meat.",
+      "description":"Place it into a suitably sized bowl."
+    },
+    {
+      "headline":"Add the salt, pepper, and olive oil into the bowl.",
+      "description":""
+    },
+    {
+      "headline":"Use your hands to mix everything together well.",
+      "description":""
+    },
+    {
+      "headline":"Take about a quarter pound (200 grams) of the seasoned meat and create a ball with it.",
+      "description":"Use both of your hands to shape the ball."
+    },
+    {
+      "headline":"Place it on a serving plate.",
+      "description":"Press it down lightly with your palm to flatten it."
+    },
+    {
+      "headline":"Repeat the process with three other servings, until you have a pressed ball of minced steak on each plate.",
+      "description":""
+    },
+    {
+      "headline":"Add the egg yolks.",
+      "description":"This step is optional, but if you want yolks included, here is how to add them:\nUse the back of a tablespoon to press down on the meat. Make a small indent in the center of the meat. Break the eggs one at a time and place an egg yolk in the indent. Repeat for all the meat."
+    },
+    {
+      "headline":"Add the garnishes.",
+      "description":"Add some mayonnaise, capers, and onions to each plate. Spread some chopped parsley on the dish."
+    },
+    {
+      "headline":"Serve.",
+      "description":"Serve immediately after making."
+    }
+  ],
+  "text":" Prepare the meat. Place it into a suitably sized bowl. Add the salt, pepper, and olive oil into the bowl.  Use your hands to mix everything together well.  Take about a quarter pound (200 grams) of the seasoned meat and create a ball with it. Use both of your hands to shape the ball. Place it on a serving plate. Press it down lightly with your palm to flatten it. Repeat the process with three other servings, until you have a pressed ball of minced steak on each plate.  Add the egg yolks. This step is optional, but if you want yolks included, here is how to add them:\nUse the back of a tablespoon to press down on the meat. Make a small indent in the center of the meat. Break the eggs one at a time and place an egg yolk in the indent. Repeat for all the meat. Add the garnishes. Add some mayonnaise, capers, and onions to each plate. Spread some chopped parsley on the dish. Serve. Serve immediately after making.",
+  "sentences":[
+    " Prepare the meat.",
+    "Place it into a suitably sized bowl.",
+    "Add the salt, pepper, and olive oil into the bowl.",
+    "Use your hands to mix everything together well.",
+    "Take about a quarter pound (200 grams) of the seasoned meat and create a ball with it.",
+    "Use both of your hands to shape the ball.",
+    "Place it on a serving plate.",
+    "Press it down lightly with your palm to flatten it.",
+    "Repeat the process with three other servings, until you have a pressed ball of minced steak on each plate.",
+    "Add the egg yolks.",
+    "This step is optional, but if you want yolks included, here is how to add them:\nUse the back of a tablespoon to press down on the meat.",
+    "Make a small indent in the center of the meat.",
+    "Break the eggs one at a time and place an egg yolk in the indent.",
+    "Repeat for all the meat.",
+    "Add the garnishes.",
+    "Add some mayonnaise, capers, and onions to each plate.",
+    "Spread some chopped parsley on the dish.",
+    "Serve.",
+    "Serve immediately after making."
+  ],
+  "tyn_section":[
+    "4 serving plates",
+    "Spoon",
+    "Medium bowl"
+  ],
+  "tyn_model":[
+    "bowl",
+    "salt",
+    "pepper",
+    "olive oil",
+    "plate",
+    "tablespoon",
+    "eggs",
+    "egg",
+    "mayonnaise",
+    "capers",
+    "onions",
+    "parsley"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.0833333333,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.0833333333,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

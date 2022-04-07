@@ -1,0 +1,75 @@
+{
+  "title":"How to Know when Scones Are Baked",
+  "url":"https://www.wikihow.com/Know-when-Scones-Are-Baked",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Scones"
+  ],
+  "steps":[
+    {
+      "headline":"Compare the time with the time suggested by the recipe.",
+      "description":"Has adequate time passed yet? If not, and you think they might be ready, check to reassure yourself."
+    },
+    {
+      "headline":"Look at the tops of the scones.",
+      "description":"They should have browned slightly."
+    },
+    {
+      "headline":"Tap the scones.",
+      "description":"If they're baked, they will sound hollow. Use the top of your fingers for this."
+    },
+    {
+      "headline":"Insert a skewer or toothpick into the scone.",
+      "description":"If it comes out clean, the scone is ready. If it comes out with dough on it, the scones need a little more cooking time."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Compare the time with the time suggested by the recipe. Has adequate time passed yet? If not, and you think they might be ready, check to reassure yourself. Look at the tops of the scones. They should have browned slightly. Tap the scones. If they're baked, they will sound hollow. Use the top of your fingers for this. Insert a skewer or toothpick into the scone. If it comes out clean, the scone is ready. If it comes out with dough on it, the scones need a little more cooking time. Finished. ",
+  "sentences":[
+    " Compare the time with the time suggested by the recipe.",
+    "Has adequate time passed yet?",
+    "If not, and you think they might be ready, check to reassure yourself.",
+    "Look at the tops of the scones.",
+    "They should have browned slightly.",
+    "Tap the scones.",
+    "If they're baked, they will sound hollow.",
+    "Use the top of your fingers for this.",
+    "Insert a skewer or toothpick into the scone.",
+    "If it comes out clean, the scone is ready.",
+    "If it comes out with dough on it, the scones need a little more cooking time.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Skewer or toothpick"
+  ],
+  "tyn_model":[
+    "skewer",
+    "toothpick"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":1.0,
+    "f1":1.0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

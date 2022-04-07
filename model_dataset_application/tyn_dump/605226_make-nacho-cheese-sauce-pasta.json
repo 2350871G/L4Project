@@ -1,0 +1,96 @@
+{
+  "title":"How to Make Nacho Cheese Sauce Pasta",
+  "url":"https://www.wikihow.com/Make-Nacho-Cheese-Sauce-Pasta",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles"
+  ],
+  "steps":[
+    {
+      "headline":"Bring salted water to a boil.",
+      "description":""
+    },
+    {
+      "headline":"Add elbow macaroni and cook until just tender.",
+      "description":"Drain."
+    },
+    {
+      "headline":"Preheat oven to 350 \u00b0F (177 \u00b0C).",
+      "description":""
+    },
+    {
+      "headline":"Add remaining ingredients to a large mixing bowl and mix well.",
+      "description":""
+    },
+    {
+      "headline":"Stir in macaroni.",
+      "description":""
+    },
+    {
+      "headline":"Spray a large casserole dish with nonstick cooking spray.",
+      "description":""
+    },
+    {
+      "headline":"Pour pasta mixture into prepared casserole dish.",
+      "description":""
+    },
+    {
+      "headline":"Bake 45 to 50 minutes until golden.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Bring salted water to a boil.  Add elbow macaroni and cook until just tender. Drain. Preheat oven to 350 \u00b0F (177 \u00b0C).  Add remaining ingredients to a large mixing bowl and mix well.  Stir in macaroni.  Spray a large casserole dish with nonstick cooking spray.  Pour pasta mixture into prepared casserole dish.  Bake 45 to 50 minutes until golden.  Finished. ",
+  "sentences":[
+    " Bring salted water to a boil.",
+    "Add elbow macaroni and cook until just tender.",
+    "Drain.",
+    "Preheat oven to 350 \u00b0F (177 \u00b0C).",
+    "Add remaining ingredients to a large mixing bowl and mix well.",
+    "Stir in macaroni.",
+    "Spray a large casserole dish with nonstick cooking spray.",
+    "Pour pasta mixture into prepared casserole dish.",
+    "Bake 45 to 50 minutes until golden.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Cooking spoon",
+    "Mixing bowl",
+    "Casserole dish",
+    "Oven mitts"
+  ],
+  "tyn_model":[
+    "salted water",
+    "oven",
+    "large mixing bowl",
+    "large casserole dish",
+    "nonstick cooking spray",
+    "pasta",
+    "casserole dish"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1428571429,
+    "f1":0.1818181818,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.5714285714,
+    "f1":0.6486486486
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.5714285714,
+    "f1":0.6486486486
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.4285714286,
+    "f1":0.4615384615
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title":"How to Make a Thousand Island Salad",
+  "url":"https://www.wikihow.com/Make-a-Thousand-Island-Salad",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Salads",
+    "Traditional Salads"
+  ],
+  "steps":[
+    {
+      "headline":"Before you start the cooking, you are going to want to wash your hands.",
+      "description":""
+    },
+    {
+      "headline":"Get out a bowl, knife, and a fork.",
+      "description":""
+    },
+    {
+      "headline":"Wash and dry your vegetables thoroughly.",
+      "description":""
+    },
+    {
+      "headline":"Wash and cut all the fruit and vegetables.",
+      "description":""
+    },
+    {
+      "headline":"Put the lettuce, tomatoes and any other designated foods in to the bowl.",
+      "description":""
+    },
+    {
+      "headline":"Add Thousand Island dressing, Mix the salad together.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":"Once it is ready you may serve it."
+    }
+  ],
+  "text":" Before you start the cooking, you are going to want to wash your hands.  Get out a bowl, knife, and a fork.  Wash and dry your vegetables thoroughly.  Wash and cut all the fruit and vegetables.  Put the lettuce, tomatoes and any other designated foods in to the bowl.  Add Thousand Island dressing, Mix the salad together.  Finished. Once it is ready you may serve it.",
+  "sentences":[
+    " Before you start the cooking, you are going to want to wash your hands.",
+    "Get out a bowl, knife, and a fork.",
+    "Wash and dry your vegetables thoroughly.",
+    "Wash and cut all the fruit and vegetables.",
+    "Put the lettuce, tomatoes and any other designated foods in to the bowl.",
+    "Add Thousand Island dressing, Mix the salad together.",
+    "Finished.",
+    "Once it is ready you may serve it."
+  ],
+  "tyn_section":[
+    "Knife",
+    "Fork",
+    "Bowl"
+  ],
+  "tyn_model":[
+    "bowl",
+    "knife",
+    "fork",
+    "lettuce",
+    "tomatoes",
+    "thousand island dressing"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667,
+    "avg_pos":0.1666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.5,
+    "f1":0.6666666667
+  }
+}

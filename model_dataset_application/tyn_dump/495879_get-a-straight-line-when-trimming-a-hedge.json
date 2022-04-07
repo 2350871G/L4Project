@@ -1,0 +1,74 @@
+{
+  "title":"How to Get a Straight Line when Trimming a Hedge",
+  "url":"https://www.wikihow.com/Get-a-Straight-Line-when-Trimming-a-Hedge",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Yard and Outdoors",
+    "Fences and Gates"
+  ],
+  "steps":[
+    {
+      "headline":"Cut string the length of your hedge and some extra.",
+      "description":"The extra should be enough to wrap around and tie onto the stakes."
+    },
+    {
+      "headline":"Set a stake at each end of the hedge that you are trimming.",
+      "description":"Hammer into the ground lightly. You can put in stakes and string lines lengthwise and width wise as needed."
+    },
+    {
+      "headline":"Tie the string onto each stake.",
+      "description":"Match the level of the string with the height at which you want to trim the hedge. The string line will act as a guide to get a uniform height and width."
+    },
+    {
+      "headline":"Trim the hedge down to the lowest point, following the string lines.",
+      "description":"The final look will be very professional."
+    }
+  ],
+  "text":" Cut string the length of your hedge and some extra. The extra should be enough to wrap around and tie onto the stakes. Set a stake at each end of the hedge that you are trimming. Hammer into the ground lightly. You can put in stakes and string lines lengthwise and width wise as needed. Tie the string onto each stake. Match the level of the string with the height at which you want to trim the hedge. The string line will act as a guide to get a uniform height and width. Trim the hedge down to the lowest point, following the string lines. The final look will be very professional.",
+  "sentences":[
+    " Cut string the length of your hedge and some extra.",
+    "The extra should be enough to wrap around and tie onto the stakes.",
+    "Set a stake at each end of the hedge that you are trimming.",
+    "Hammer into the ground lightly.",
+    "You can put in stakes and string lines lengthwise and width wise as needed.",
+    "Tie the string onto each stake.",
+    "Match the level of the string with the height at which you want to trim the hedge.",
+    "The string line will act as a guide to get a uniform height and width.",
+    "Trim the hedge down to the lowest point, following the string lines.",
+    "The final look will be very professional."
+  ],
+  "tyn_section":[
+    "String",
+    "Stakes",
+    "Hammer",
+    "Scissors",
+    "Hedge trimming tools",
+    "Container to take hedge clippings to compost or disposal"
+  ],
+  "tyn_model":[
+    "stakes",
+    "hammer",
+    "string"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667,
+    "avg_pos":0.6666666667
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":1.0,
+    "f1":0.6666666667
+  }
+}

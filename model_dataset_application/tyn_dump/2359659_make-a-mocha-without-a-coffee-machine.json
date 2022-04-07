@@ -1,0 +1,73 @@
+{
+  "title":"How to Make a Mocha without a Coffee Machine",
+  "url":"https://www.wikihow.com/Make-a-Mocha-without-a-Coffee-Machine",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Coffee",
+    "Flavored Coffee",
+    "Chocolate Flavored Coffee"
+  ],
+  "steps":[
+    {
+      "headline":"Make a small amount of coffee with only hot water.",
+      "description":"Get a small cup and fill about \u20443 centimeter (0.3 in) of the cup with  coffee and hot water, no milk."
+    },
+    {
+      "headline":"Next, put some milk in a jug ready to add to the coffee.",
+      "description":"Put 2 spoonful's of hot chocolate powder and stir it in the jug. Put it in the microwave for 2 minutes."
+    },
+    {
+      "headline":"Add the hot chocolate from the jug to the coffee in the cup.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Make a small amount of coffee with only hot water. Get a small cup and fill about \u20443 centimeter (0.3 in) of the cup with  coffee and hot water, no milk. Next, put some milk in a jug ready to add to the coffee. Put 2 spoonful's of hot chocolate powder and stir it in the jug. Put it in the microwave for 2 minutes. Add the hot chocolate from the jug to the coffee in the cup.  Finished. ",
+  "sentences":[
+    " Make a small amount of coffee with only hot water.",
+    "Get a small cup and fill about \u20443 centimeter (0.3 in) of the cup with  coffee and hot water, no milk.",
+    "Next, put some milk in a jug ready to add to the coffee.",
+    "Put 2 spoonful's of hot chocolate powder and stir it in the jug.",
+    "Put it in the microwave for 2 minutes.",
+    "Add the hot chocolate from the jug to the coffee in the cup.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Microwave",
+    "Cup",
+    "Jug"
+  ],
+  "tyn_model":[
+    "hot water",
+    "coffee",
+    "milk",
+    "jug",
+    "hot chocolate",
+    "microwave"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444,
+    "avg_pos":0.8333333333
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.3333333333,
+    "f1":0.4444444444
+  }
+}

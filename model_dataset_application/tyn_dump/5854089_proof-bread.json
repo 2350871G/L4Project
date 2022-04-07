@@ -1,0 +1,108 @@
+{
+  "title":"How to Proof Bread",
+  "url":"https://www.wikihow.com/Proof-Bread",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Breads",
+    "Bread Making Tips"
+  ],
+  "steps":[
+    {
+      "headline":"Read the recipe.",
+      "description":"Look at a picture of what the bread should look like through the bread making stages."
+    },
+    {
+      "headline":"Prepare the bread dough following the instructions based on the type of bread being made.",
+      "description":""
+    },
+    {
+      "headline":"Shape the dough according to directions.",
+      "description":""
+    },
+    {
+      "headline":"Oil the dough.",
+      "description":""
+    },
+    {
+      "headline":"Boil enough water to fit into a baking pan.",
+      "description":""
+    },
+    {
+      "headline":"Pour the boiling water into the baking pan and place on the bottom rack of the oven.",
+      "description":""
+    },
+    {
+      "headline":"Place the oiled dough in the oven on a baking sheet, or use bakeware.",
+      "description":""
+    },
+    {
+      "headline":"Close the oven door.",
+      "description":""
+    },
+    {
+      "headline":"Clean up.",
+      "description":"This includes putting ingredients away and washing; utensils, counter, pastry board, and dirty dishes"
+    },
+    {
+      "headline":"Allow the dough to rise until roughly double the original size.",
+      "description":"Remove the dough from the oven."
+    },
+    {
+      "headline":"The dough is proofed and ready to be baked!",
+      "description":""
+    }
+  ],
+  "text":" Read the recipe. Look at a picture of what the bread should look like through the bread making stages. Prepare the bread dough following the instructions based on the type of bread being made.  Shape the dough according to directions.  Oil the dough.  Boil enough water to fit into a baking pan.  Pour the boiling water into the baking pan and place on the bottom rack of the oven.  Place the oiled dough in the oven on a baking sheet, or use bakeware.  Close the oven door.  Clean up. This includes putting ingredients away and washing; utensils, counter, pastry board, and dirty dishes Allow the dough to rise until roughly double the original size. Remove the dough from the oven. The dough is proofed and ready to be baked! ",
+  "sentences":[
+    " Read the recipe.",
+    "Look at a picture of what the bread should look like through the bread making stages.",
+    "Prepare the bread dough following the instructions based on the type of bread being made.",
+    "Shape the dough according to directions.",
+    "Oil the dough.",
+    "Boil enough water to fit into a baking pan.",
+    "Pour the boiling water into the baking pan and place on the bottom rack of the oven.",
+    "Place the oiled dough in the oven on a baking sheet, or use bakeware.",
+    "Close the oven door.",
+    "Clean up.",
+    "This includes putting ingredients away and washing; utensils, counter, pastry board, and dirty dishes Allow the dough to rise until roughly double the original size.",
+    "Remove the dough from the oven.",
+    "The dough is proofed and ready to be baked!"
+  ],
+  "tyn_section":[
+    "Bakeware",
+    "Pastry brush",
+    "Oven",
+    "Timer"
+  ],
+  "tyn_model":[
+    "oven",
+    "water",
+    "baking pan",
+    "oil",
+    "baking sheet",
+    "pastry board"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2
+  }
+}

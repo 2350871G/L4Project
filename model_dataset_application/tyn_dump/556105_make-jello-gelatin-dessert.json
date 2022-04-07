@@ -1,0 +1,89 @@
+{
+  "title":"How to Make Jello Gelatin Dessert",
+  "url":"https://www.wikihow.com/Make-Jello-Gelatin-Dessert",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets",
+    "Gelatin Desserts"
+  ],
+  "steps":[
+    {
+      "headline":"Obtain a large bowl, a measuring cup, ice, water, and have an on-hand refrigerator accessible before beginning the Jell-O cooking process.",
+      "description":""
+    },
+    {
+      "headline":"Pour the gelatin packet into the large bowl.",
+      "description":""
+    },
+    {
+      "headline":"Stir 1 cup boiling water into the bowl filled with the gelatin mixture.",
+      "description":""
+    },
+    {
+      "headline":"Mix the water in the bowl until the gelatin is completely dissolved.",
+      "description":"This usually takes about 2 minutes."
+    },
+    {
+      "headline":"Blend in with the dissolved gelatin 1 cup of cold water.",
+      "description":""
+    },
+    {
+      "headline":"Refrigerate the Jell-O mixture until firm.",
+      "description":"This may take approximately 4 hours."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Obtain a large bowl, a measuring cup, ice, water, and have an on-hand refrigerator accessible before beginning the Jell-O cooking process.  Pour the gelatin packet into the large bowl.  Stir 1 cup boiling water into the bowl filled with the gelatin mixture.  Mix the water in the bowl until the gelatin is completely dissolved. This usually takes about 2 minutes. Blend in with the dissolved gelatin 1 cup of cold water.  Refrigerate the Jell-O mixture until firm. This may take approximately 4 hours. Finished. ",
+  "sentences":[
+    " Obtain a large bowl, a measuring cup, ice, water, and have an on-hand refrigerator accessible before beginning the Jell-O cooking process.",
+    "Pour the gelatin packet into the large bowl.",
+    "Stir 1 cup boiling water into the bowl filled with the gelatin mixture.",
+    "Mix the water in the bowl until the gelatin is completely dissolved.",
+    "This usually takes about 2 minutes.",
+    "Blend in with the dissolved gelatin 1 cup of cold water.",
+    "Refrigerate the Jell-O mixture until firm.",
+    "This may take approximately 4 hours.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "A large bowl",
+    "A measuring cup",
+    "Ice",
+    "Water",
+    "An accessible, on-hand refrigerator"
+  ],
+  "tyn_model":[
+    "water",
+    "large bowl",
+    "bowl",
+    "ice",
+    "jell-o",
+    "cold water",
+    "jell-"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.2857142857,
+    "f1":0.3333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.5714285714,
+    "f1":0.5853658537
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6,
+    "p":0.7142857143,
+    "f1":0.652173913
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6,
+    "p":0.4285714286,
+    "f1":0.5
+  }
+}

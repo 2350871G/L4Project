@@ -1,0 +1,106 @@
+{
+  "title":"How to Make Clothing Stain Remover with Peroxide",
+  "url":"https://www.wikihow.com/Make-Clothing-Stain-Remover-with-Peroxide",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Laundry",
+    "Laundry Cleaning Products"
+  ],
+  "methods":[
+    {
+      "name":"For Fresh Stains",
+      "steps":[
+        {
+          "headline":"Combine 1 part hydrogen peroxide with 1 part washing soda (or baking soda) and 2 parts water in a spray bottle.",
+          "description":"This will create a potent but more gentle stain remover."
+        },
+        {
+          "headline":"Shake gently to combine before use.",
+          "description":""
+        },
+        {
+          "headline":"Spray and set.",
+          "description":"Rub with either a clean cloth or scrub brush depending upon the fabric and stain."
+        },
+        {
+          "headline":"Rinse and repeat if necessary.",
+          "description":"You may want to give this solution an extra rinse to ensure the baking soda is completely removed from the fabric."
+        }
+      ]
+    },
+    {
+      "name":"For Stubborn Stains",
+      "steps":[
+        {
+          "headline":"Combine 1 part washing soda with 3 parts hydrogen peroxide in a spray bottle.",
+          "description":""
+        },
+        {
+          "headline":"Gently shake bottle until well combined.",
+          "description":"Don\u2019t overdo it as it could foam and explode."
+        },
+        {
+          "headline":"Spray directly on stain and allow solution to set for several minutes.",
+          "description":"Use a small scrub brush to fully integrate the solution into the stain."
+        },
+        {
+          "headline":"Rinse and repeat if necessary.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" For Fresh Stains Combine 1 part hydrogen peroxide with 1 part washing soda (or baking soda) and 2 parts water in a spray bottle. This will create a potent but more gentle stain remover. Shake gently to combine before use.  Spray and set. Rub with either a clean cloth or scrub brush depending upon the fabric and stain. Rinse and repeat if necessary. You may want to give this solution an extra rinse to ensure the baking soda is completely removed from the fabric. For Stubborn Stains Combine 1 part washing soda with 3 parts hydrogen peroxide in a spray bottle.  Gently shake bottle until well combined. Don\u2019t overdo it as it could foam and explode. Spray directly on stain and allow solution to set for several minutes. Use a small scrub brush to fully integrate the solution into the stain. Rinse and repeat if necessary. ",
+  "sentences":[
+    " For Fresh Stains Combine 1 part hydrogen peroxide with 1 part washing soda (or baking soda) and 2 parts water in a spray bottle.",
+    "This will create a potent but more gentle stain remover.",
+    "Shake gently to combine before use.",
+    "Spray and set.",
+    "Rub with either a clean cloth or scrub brush depending upon the fabric and stain.",
+    "Rinse and repeat if necessary.",
+    "You may want to give this solution an extra rinse to ensure the baking soda is completely removed from the fabric.",
+    "For Stubborn Stains Combine 1 part washing soda with 3 parts hydrogen peroxide in a spray bottle.",
+    "Gently shake bottle until well combined.",
+    "Don\u2019t overdo it as it could foam and explode.",
+    "Spray directly on stain and allow solution to set for several minutes.",
+    "Use a small scrub brush to fully integrate the solution into the stain.",
+    "Rinse and repeat if necessary."
+  ],
+  "tyn_section":[
+    "spray bottle",
+    "bucket",
+    "small scrub brush",
+    "a few white, cotton cloths"
+  ],
+  "tyn_model":[
+    "hydrogen peroxide",
+    "washing soda",
+    "baking soda",
+    "spray bottle",
+    "scrub brush",
+    "water",
+    "clean cloth"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1428571429,
+    "f1":0.1818181818,
+    "avg_pos":0.4285714286
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636
+  }
+}

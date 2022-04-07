@@ -1,0 +1,70 @@
+{
+  "title":"How to Store a Christmas Cake",
+  "url":"https://www.wikihow.com/Store-a-Christmas-Cake",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking"
+  ],
+  "steps":[
+    {
+      "headline":"Wrap your cake in cheesecloth / muslin that has been marinated in brandy, rum, wine or fruit juice.",
+      "description":""
+    },
+    {
+      "headline":"Wrap it in aluminium foil.",
+      "description":""
+    },
+    {
+      "headline":"Place the wrapped cake into an airtight container.",
+      "description":"If you do not have an airtight container, you can substitute plastic wrap if necessary."
+    },
+    {
+      "headline":"Keep the cake in a dry and cool place.",
+      "description":""
+    }
+  ],
+  "text":" Wrap your cake in cheesecloth / muslin that has been marinated in brandy, rum, wine or fruit juice.  Wrap it in aluminium foil.  Place the wrapped cake into an airtight container. If you do not have an airtight container, you can substitute plastic wrap if necessary. Keep the cake in a dry and cool place. ",
+  "sentences":[
+    " Wrap your cake in cheesecloth / muslin that has been marinated in brandy, rum, wine or fruit juice.",
+    "Wrap it in aluminium foil.",
+    "Place the wrapped cake into an airtight container.",
+    "If you do not have an airtight container, you can substitute plastic wrap if necessary.",
+    "Keep the cake in a dry and cool place."
+  ],
+  "tyn_section":[
+    "Cheesecloth/muslin or greaseproof paper",
+    "Brandy or rum or wine or juice",
+    "Aluminium (aluminum) foil",
+    "Airtight container"
+  ],
+  "tyn_model":[
+    "airtight container",
+    "cheesecloth / muslin",
+    "rum",
+    "fruit juice",
+    "aluminium foil",
+    "plastic wrap"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  }
+}

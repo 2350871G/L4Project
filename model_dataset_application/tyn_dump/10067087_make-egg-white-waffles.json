@@ -1,0 +1,131 @@
+{
+  "title":"How to Make Egg White Waffles",
+  "url":"https://www.wikihow.com/Make-Egg-White-Waffles",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast",
+    "Waffles"
+  ],
+  "steps":[
+    {
+      "headline":"Pour egg whites into a large bowl.",
+      "description":"The egg whites can come from regular eggs by removing yolks, or you can use boxed egg whites instead (9 tablespoons= 3 egg whites)."
+    },
+    {
+      "headline":"Whip the egg whites in a bowl.",
+      "description":"Use a whisk, hand mixer or large spoon until egg whites appear fluffy."
+    },
+    {
+      "headline":"Stir in the additional ingredients.",
+      "description":"Add 2 tablespoons almond milk, 1/2 teaspoon of baking powder, 2 tablespoons of flour."
+    },
+    {
+      "headline":"Add in your protein.",
+      "description":"You can use any brand or flavor of your choosing. One scoop is recommended."
+    },
+    {
+      "headline":"Repeat the whipping process using all your ingredients and protein powder",
+      "description":""
+    },
+    {
+      "headline":"Turn on the waffle iron.",
+      "description":"Set the iron to the highest temperature."
+    },
+    {
+      "headline":"Spray the waffle iron with cooking spray.",
+      "description":"You can use any other type of oil: vegetable, olive, etc. If you do not have oil, you can use butter."
+    },
+    {
+      "headline":"Pour the batter slowly onto the greased waffle iron.",
+      "description":""
+    },
+    {
+      "headline":"Cook thoroughly for 1 to 2 minutes.",
+      "description":"You want the waffles to appear golden brown or even crispy on the edges."
+    },
+    {
+      "headline":"Use a spatula to remove the waffle from the iron.",
+      "description":"Avoid using your hands or metal due to heat from the iron."
+    },
+    {
+      "headline":"Add topping and sides to your waffles, if desired.",
+      "description":"Add some fruit (strawberries, blueberries, bananas, etc) for extra taste. Apply sugar-free syrup."
+    },
+    {
+      "headline":"Serve and enjoy!",
+      "description":""
+    }
+  ],
+  "text":" Pour egg whites into a large bowl. The egg whites can come from regular eggs by removing yolks, or you can use boxed egg whites instead (9 tablespoons= 3 egg whites). Whip the egg whites in a bowl. Use a whisk, hand mixer or large spoon until egg whites appear fluffy. Stir in the additional ingredients. Add 2 tablespoons almond milk, 1/2 teaspoon of baking powder, 2 tablespoons of flour. Add in your protein. You can use any brand or flavor of your choosing. One scoop is recommended. Repeat the whipping process using all your ingredients and protein powder  Turn on the waffle iron. Set the iron to the highest temperature. Spray the waffle iron with cooking spray. You can use any other type of oil: vegetable, olive, etc. If you do not have oil, you can use butter. Pour the batter slowly onto the greased waffle iron.  Cook thoroughly for 1 to 2 minutes. You want the waffles to appear golden brown or even crispy on the edges. Use a spatula to remove the waffle from the iron. Avoid using your hands or metal due to heat from the iron. Add topping and sides to your waffles, if desired. Add some fruit (strawberries, blueberries, bananas, etc) for extra taste. Apply sugar-free syrup. Serve and enjoy! ",
+  "sentences":[
+    " Pour egg whites into a large bowl.",
+    "The egg whites can come from regular eggs by removing yolks, or you can use boxed egg whites instead (9 tablespoons= 3 egg whites).",
+    "Whip the egg whites in a bowl.",
+    "Use a whisk, hand mixer or large spoon until egg whites appear fluffy.",
+    "Stir in the additional ingredients.",
+    "Add 2 tablespoons almond milk, 1/2 teaspoon of baking powder, 2 tablespoons of flour.",
+    "Add in your protein.",
+    "You can use any brand or flavor of your choosing.",
+    "One scoop is recommended.",
+    "Repeat the whipping process using all your ingredients and protein powder  Turn on the waffle iron.",
+    "Set the iron to the highest temperature.",
+    "Spray the waffle iron with cooking spray.",
+    "You can use any other type of oil: vegetable, olive, etc.",
+    "If you do not have oil, you can use butter.",
+    "Pour the batter slowly onto the greased waffle iron.",
+    "Cook thoroughly for 1 to 2 minutes.",
+    "You want the waffles to appear golden brown or even crispy on the edges.",
+    "Use a spatula to remove the waffle from the iron.",
+    "Avoid using your hands or metal due to heat from the iron.",
+    "Add topping and sides to your waffles, if desired.",
+    "Add some fruit (strawberries, blueberries, bananas, etc) for extra taste.",
+    "Apply sugar-free syrup.",
+    "Serve and enjoy!"
+  ],
+  "tyn_section":[
+    "Waffle iron",
+    "Large bowl",
+    "Spatula",
+    "Whisk, large spoon, or hand mixer"
+  ],
+  "tyn_model":[
+    "waffle iron",
+    "iron",
+    "large bowl",
+    "egg whites",
+    "bowl",
+    "whisk",
+    "hand mixer",
+    "large spoon",
+    "almond milk",
+    "baking powder",
+    "flour",
+    "protein powder",
+    "cooking spray",
+    "butter",
+    "spatula",
+    "bananas",
+    "sugar-free syrup"
+  ],
+  "simple_metrics":{
+    "r":0.75,
+    "p":0.1764705882,
+    "f1":0.2857142857,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.2941176471,
+    "f1":0.4225352113
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.4117647059,
+    "f1":0.5833333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.1764705882,
+    "f1":0.2857142857
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title":"How to Make Lemon Peel Tea",
+  "url":"https://www.wikihow.com/Make-Lemon-Peel-Tea",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Tea",
+    "Fruit Tea",
+    "Lemon Tea"
+  ],
+  "steps":[
+    {
+      "headline":"Bring the water to a boil.",
+      "description":""
+    },
+    {
+      "headline":"Rub the sugar over the lemon rind still on the lemon.",
+      "description":""
+    },
+    {
+      "headline":"Pare the rind from the lemon.",
+      "description":"Peel thinly."
+    },
+    {
+      "headline":"Put both the peel and the sugar into a heatproof jug.",
+      "description":""
+    },
+    {
+      "headline":"Pour the boiling water over the peel and sugar.",
+      "description":""
+    },
+    {
+      "headline":"Leave to cool.",
+      "description":"Once cool, decant the liquid. Add one tablespoon of fresh lemon juice and stir through."
+    },
+    {
+      "headline":"Serve.",
+      "description":"Garnish with a mint leaf for a finishing touch."
+    }
+  ],
+  "text":" Bring the water to a boil.  Rub the sugar over the lemon rind still on the lemon.  Pare the rind from the lemon. Peel thinly. Put both the peel and the sugar into a heatproof jug.  Pour the boiling water over the peel and sugar.  Leave to cool. Once cool, decant the liquid. Add one tablespoon of fresh lemon juice and stir through. Serve. Garnish with a mint leaf for a finishing touch.",
+  "sentences":[
+    " Bring the water to a boil.",
+    "Rub the sugar over the lemon rind still on the lemon.",
+    "Pare the rind from the lemon.",
+    "Peel thinly.",
+    "Put both the peel and the sugar into a heatproof jug.",
+    "Pour the boiling water over the peel and sugar.",
+    "Leave to cool.",
+    "Once cool, decant the liquid.",
+    "Add one tablespoon of fresh lemon juice and stir through.",
+    "Serve.",
+    "Garnish with a mint leaf for a finishing touch."
+  ],
+  "tyn_section":[
+    "Peeler",
+    "Saucepan or kettle for boiling water",
+    "Heatproof jug",
+    "Stirring spoon or implement"
+  ],
+  "tyn_model":[
+    "sugar",
+    "water",
+    "heatproof jug",
+    "lemon juice",
+    "mint leaf"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.2,
+    "f1":0.2222222222
+  }
+}

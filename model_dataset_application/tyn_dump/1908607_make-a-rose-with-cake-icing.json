@@ -1,0 +1,107 @@
+{
+  "title":"How to Make a Rose With Cake Icing",
+  "url":"https://www.wikihow.com/Make-a-Rose-With-Cake-Icing",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy"
+  ],
+  "methods":[
+    {
+      "name":"Piping the Rose",
+      "steps":[
+        {
+          "headline":"Prepare the rose nail.",
+          "description":"Pipe a small amount of icing onto the top of the rose nail, and then press a small square of wax paper onto the icing, using the icing to hold the paper and nail together."
+        },
+        {
+          "headline":"Make the rose's center.",
+          "description":"Place the tip of the pastry bag with the rose tip onto the rose nail, with the wide end touching the wax paper. Spin the nail in a full circle to make a cone shape. You will need to synchronize your hand movements so that you're moving as fast as the icing is coming out."
+        },
+        {
+          "headline":"Make the first layer of petals around the cone.",
+          "description":"Make each petal a little bit higher than the center, and make each third the circumference of the rose center, so that you can have three petals total."
+        },
+        {
+          "headline":"Make the second layer of petals.",
+          "description":"This layer will have five petals total. Keep on making the petals higher than the others so that they arc upwards and outwards. Also, try to overlap the petals to make them look natural."
+        },
+        {
+          "headline":"Make the final layer of petals.",
+          "description":"This one should consist of about seven evenly spaced petals. If you want a larger rose, you can continue to add layers."
+        }
+      ]
+    },
+    {
+      "name":"Using the Icing Rose",
+      "steps":[
+        {
+          "headline":"Carefully slide the rose and the wax paper off the nail.",
+          "description":"Then, put it on a baking sheet or other flat surface. Give it 24 hours to harden."
+        },
+        {
+          "headline":"Finished.",
+          "description":"It can now be added to a cake or other baked good as decoration."
+        }
+      ]
+    }
+  ],
+  "text":" Piping the Rose Prepare the rose nail. Pipe a small amount of icing onto the top of the rose nail, and then press a small square of wax paper onto the icing, using the icing to hold the paper and nail together. Make the rose's center. Place the tip of the pastry bag with the rose tip onto the rose nail, with the wide end touching the wax paper. Spin the nail in a full circle to make a cone shape. You will need to synchronize your hand movements so that you're moving as fast as the icing is coming out. Make the first layer of petals around the cone. Make each petal a little bit higher than the center, and make each third the circumference of the rose center, so that you can have three petals total. Make the second layer of petals. This layer will have five petals total. Keep on making the petals higher than the others so that they arc upwards and outwards. Also, try to overlap the petals to make them look natural. Make the final layer of petals. This one should consist of about seven evenly spaced petals. If you want a larger rose, you can continue to add layers. Using the Icing Rose Carefully slide the rose and the wax paper off the nail. Then, put it on a baking sheet or other flat surface. Give it 24 hours to harden. Finished. It can now be added to a cake or other baked good as decoration.",
+  "sentences":[
+    " Piping the Rose Prepare the rose nail.",
+    "Pipe a small amount of icing onto the top of the rose nail, and then press a small square of wax paper onto the icing, using the icing to hold the paper and nail together.",
+    "Make the rose's center.",
+    "Place the tip of the pastry bag with the rose tip onto the rose nail, with the wide end touching the wax paper.",
+    "Spin the nail in a full circle to make a cone shape.",
+    "You will need to synchronize your hand movements so that you're moving as fast as the icing is coming out.",
+    "Make the first layer of petals around the cone.",
+    "Make each petal a little bit higher than the center, and make each third the circumference of the rose center, so that you can have three petals total.",
+    "Make the second layer of petals.",
+    "This layer will have five petals total.",
+    "Keep on making the petals higher than the others so that they arc upwards and outwards.",
+    "Also, try to overlap the petals to make them look natural.",
+    "Make the final layer of petals.",
+    "This one should consist of about seven evenly spaced petals.",
+    "If you want a larger rose, you can continue to add layers.",
+    "Using the Icing Rose Carefully slide the rose and the wax paper off the nail.",
+    "Then, put it on a baking sheet or other flat surface.",
+    "Give it 24 hours to harden.",
+    "Finished.",
+    "It can now be added to a cake or other baked good as decoration."
+  ],
+  "tyn_section":[
+    "Pastry bag and coupler",
+    "Batch of frosting (preferably royal icing)",
+    "Large rose tip",
+    "Rose nail",
+    "Small squares of wax paper"
+  ],
+  "tyn_model":[
+    "wax paper",
+    "icing",
+    "pastry bag",
+    "baking sheet",
+    "baked good"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.2,
+    "f1":0.2
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.4,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

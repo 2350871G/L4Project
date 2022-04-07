@@ -1,0 +1,100 @@
+{
+  "title":"How to Play the Paper Game War",
+  "url":"https://www.wikihow.com/Play-the-Paper-Game-War",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games"
+  ],
+  "steps":[
+    {
+      "headline":"Take a piece of regular notebook paper and fold it in half hamburger style.",
+      "description":""
+    },
+    {
+      "headline":"Unfold it and draw a line over the crease.",
+      "description":""
+    },
+    {
+      "headline":"Each player draw a fort on their side of the paper (a half box on the edge of the paper with a flag).",
+      "description":""
+    },
+    {
+      "headline":"Each player draw five soldiers on their side (stick figures are only allowed if both players use them).",
+      "description":""
+    },
+    {
+      "headline":"The object of the game is to take out the opponent by \"shooting\" his players and fort.",
+      "description":""
+    },
+    {
+      "headline":"During your turn, draw a straight line no longer then 3 inches (7.6 cm) on your side of the field that you think will touch your opponent's soldiers or fort when the paper is folded over.",
+      "description":""
+    },
+    {
+      "headline":"Once you have your bullet drawn, fold the paper over.",
+      "description":"If it touches an opponent's soldier (head or body; NOT legs or arms), that soldier is destroyed. If it hits the opponent's fort draw an X or a dot to show that you hit it. After 5 hits the fort is destroyed."
+    },
+    {
+      "headline":"The opponent then takes his turn.",
+      "description":""
+    },
+    {
+      "headline":"A person wins when all of the other player's soldiers and fort is destroyed.",
+      "description":""
+    },
+    {
+      "headline":"Learn the rules:",
+      "description":"You must make your fort on the EDGE of your side of the paper. You cannot fold the paper over before you shoot to check your shot. Hits in the limbs don't count. Hits on the flag or flagpole count."
+    }
+  ],
+  "text":" Take a piece of regular notebook paper and fold it in half hamburger style.  Unfold it and draw a line over the crease.  Each player draw a fort on their side of the paper (a half box on the edge of the paper with a flag).  Each player draw five soldiers on their side (stick figures are only allowed if both players use them).  The object of the game is to take out the opponent by \"shooting\" his players and fort.  During your turn, draw a straight line no longer then 3 inches (7.6 cm) on your side of the field that you think will touch your opponent's soldiers or fort when the paper is folded over.  Once you have your bullet drawn, fold the paper over. If it touches an opponent's soldier (head or body; NOT legs or arms), that soldier is destroyed. If it hits the opponent's fort draw an X or a dot to show that you hit it. After 5 hits the fort is destroyed. The opponent then takes his turn.  A person wins when all of the other player's soldiers and fort is destroyed.  Learn the rules: You must make your fort on the EDGE of your side of the paper. You cannot fold the paper over before you shoot to check your shot. Hits in the limbs don't count. Hits on the flag or flagpole count.",
+  "sentences":[
+    " Take a piece of regular notebook paper and fold it in half hamburger style.",
+    "Unfold it and draw a line over the crease.",
+    "Each player draw a fort on their side of the paper (a half box on the edge of the paper with a flag).",
+    "Each player draw five soldiers on their side (stick figures are only allowed if both players use them).",
+    "The object of the game is to take out the opponent by \"shooting\" his players and fort.",
+    "During your turn, draw a straight line no longer then 3 inches (7.6 cm) on your side of the field that you think will touch your opponent's soldiers or fort when the paper is folded over.",
+    "Once you have your bullet drawn, fold the paper over.",
+    "If it touches an opponent's soldier (head or body; NOT legs or arms), that soldier is destroyed.",
+    "If it hits the opponent's fort draw an X or a dot to show that you hit it.",
+    "After 5 hits the fort is destroyed.",
+    "The opponent then takes his turn.",
+    "A person wins when all of the other player's soldiers and fort is destroyed.",
+    "Learn the rules: You must make your fort on the EDGE of your side of the paper.",
+    "You cannot fold the paper over before you shoot to check your shot.",
+    "Hits in the limbs don't count.",
+    "Hits on the flag or flagpole count."
+  ],
+  "tyn_section":[
+    "Notebook Paper",
+    "One pen per player (optional: different colors)",
+    "Someone to play with",
+    "ruler"
+  ],
+  "tyn_model":[
+    "paper",
+    "regular notebook paper"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.25,
+    "p":1.0,
+    "f1":0.4
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.25,
+    "p":1.0,
+    "f1":0.4
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.25,
+    "p":0.5,
+    "f1":0.3333333333
+  }
+}

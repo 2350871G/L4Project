@@ -1,0 +1,91 @@
+{
+  "title":"How to Make Pomegranate Juice",
+  "url":"https://www.wikihow.com/Make-Pomegranate-Juice",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Juice"
+  ],
+  "steps":[
+    {
+      "headline":"Cut open your pomegranate, then submerge it in a large bowl filled with water.",
+      "description":""
+    },
+    {
+      "headline":"Put your pomegranate into the bowl, then remove the seeds underwater.",
+      "description":"The seeds will sink to the bottom, while the yellow or white membrane will float."
+    },
+    {
+      "headline":"Discard the peel and membranes.",
+      "description":""
+    },
+    {
+      "headline":"Strain water out of the seeds and then put into your blender.",
+      "description":"Run your blender a few times so that the seeds are broken up."
+    },
+    {
+      "headline":"Place a mesh strainer over your bowl and pour the seed mixture through the strainer.",
+      "description":"Then use something to press the pulp against the strainer to extract as much juice as possible."
+    },
+    {
+      "headline":"You now have to add 1/3 cup sugar per 1 1/2 cups pomegranate juice.",
+      "description":"This will help make the drink sweeter."
+    },
+    {
+      "headline":"Add water and enjoy!",
+      "description":""
+    }
+  ],
+  "text":" Cut open your pomegranate, then submerge it in a large bowl filled with water.  Put your pomegranate into the bowl, then remove the seeds underwater. The seeds will sink to the bottom, while the yellow or white membrane will float. Discard the peel and membranes.  Strain water out of the seeds and then put into your blender. Run your blender a few times so that the seeds are broken up. Place a mesh strainer over your bowl and pour the seed mixture through the strainer. Then use something to press the pulp against the strainer to extract as much juice as possible. You now have to add 1/3 cup sugar per 1 1/2 cups pomegranate juice. This will help make the drink sweeter. Add water and enjoy! ",
+  "sentences":[
+    " Cut open your pomegranate, then submerge it in a large bowl filled with water.",
+    "Put your pomegranate into the bowl, then remove the seeds underwater.",
+    "The seeds will sink to the bottom, while the yellow or white membrane will float.",
+    "Discard the peel and membranes.",
+    "Strain water out of the seeds and then put into your blender.",
+    "Run your blender a few times so that the seeds are broken up.",
+    "Place a mesh strainer over your bowl and pour the seed mixture through the strainer.",
+    "Then use something to press the pulp against the strainer to extract as much juice as possible.",
+    "You now have to add 1/3 cup sugar per 1 1/2 cups pomegranate juice.",
+    "This will help make the drink sweeter.",
+    "Add water and enjoy!"
+  ],
+  "tyn_section":[
+    "Knife",
+    "Bowl",
+    "Strainer",
+    "Blender",
+    "Glass",
+    "Spoon"
+  ],
+  "tyn_model":[
+    "water",
+    "strainer",
+    "pomegranate",
+    "bowl",
+    "blender",
+    "large bowl",
+    "sugar"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.4285714286,
+    "f1":0.4615384615,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.5714285714,
+    "f1":0.5333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5714285714,
+    "f1":0.5333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.4285714286,
+    "f1":0.4615384615
+  }
+}

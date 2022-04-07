@@ -1,0 +1,109 @@
+{
+  "title":"How to Test the Pectin Content of Fruit",
+  "url":"https://www.wikihow.com/Test-the-Pectin-Content-of-Fruit",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Jams Preserves and Condiments",
+    "Jams and Jellies"
+  ],
+  "steps":[
+    {
+      "headline":"Simmer the chosen fruit in a little water.",
+      "description":"Simmer until it turns soft."
+    },
+    {
+      "headline":"Place one teaspoon of the juice into a small jar.",
+      "description":"Leave it to stand until it turns cold."
+    },
+    {
+      "headline":"Add 3 tablespoons of denatured alcohol or methylated spirits to the jar.",
+      "description":"Gently shake it and put down. Leave to stand for one minute."
+    },
+    {
+      "headline":"Check the result.",
+      "description":"Look for the size of the jellied lump that will form in the jar. A large, firm clump will tell you that the fruit contains a high level of pectin. Two or three smaller, softer lumps indicate a medium level of pectin. Lots of little, soft lumps tell you that the fruit is low in pectin."
+    },
+    {
+      "headline":"Know the pectin content of various fruits.",
+      "description":"It is helpful to know which fruits tend to have high, medium, and low levels of pectin. This following list should help you to determine the pectin content of your fruit harvest:\n\nHigh level of pectin: Cooking apples, lemons, blackcurrants, quinces, and green gooseberries. Medium level of pectin: Plums, cooking cherries, passionfruit, rhubarb, boysenberries, blueberries, ripe gooseberries, and raspberries. Low level of pectin: Strawberries, peaches, blackberries, figs, guavas, melons, loquats, eating cherries, apricots, tomatoes, and tamarillos."
+    }
+  ],
+  "text":" Simmer the chosen fruit in a little water. Simmer until it turns soft. Place one teaspoon of the juice into a small jar. Leave it to stand until it turns cold. Add 3 tablespoons of denatured alcohol or methylated spirits to the jar. Gently shake it and put down. Leave to stand for one minute. Check the result. Look for the size of the jellied lump that will form in the jar. A large, firm clump will tell you that the fruit contains a high level of pectin. Two or three smaller, softer lumps indicate a medium level of pectin. Lots of little, soft lumps tell you that the fruit is low in pectin. Know the pectin content of various fruits. It is helpful to know which fruits tend to have high, medium, and low levels of pectin. This following list should help you to determine the pectin content of your fruit harvest:\n\nHigh level of pectin: Cooking apples, lemons, blackcurrants, quinces, and green gooseberries. Medium level of pectin: Plums, cooking cherries, passionfruit, rhubarb, boysenberries, blueberries, ripe gooseberries, and raspberries. Low level of pectin: Strawberries, peaches, blackberries, figs, guavas, melons, loquats, eating cherries, apricots, tomatoes, and tamarillos.",
+  "sentences":[
+    " Simmer the chosen fruit in a little water.",
+    "Simmer until it turns soft.",
+    "Place one teaspoon of the juice into a small jar.",
+    "Leave it to stand until it turns cold.",
+    "Add 3 tablespoons of denatured alcohol or methylated spirits to the jar.",
+    "Gently shake it and put down.",
+    "Leave to stand for one minute.",
+    "Check the result.",
+    "Look for the size of the jellied lump that will form in the jar.",
+    "A large, firm clump will tell you that the fruit contains a high level of pectin.",
+    "Two or three smaller, softer lumps indicate a medium level of pectin.",
+    "Lots of little, soft lumps tell you that the fruit is low in pectin.",
+    "Know the pectin content of various fruits.",
+    "It is helpful to know which fruits tend to have high, medium, and low levels of pectin.",
+    "This following list should help you to determine the pectin content of your fruit harvest:\n\nHigh level of pectin: Cooking apples, lemons, blackcurrants, quinces, and green gooseberries.",
+    "Medium level of pectin: Plums, cooking cherries, passionfruit, rhubarb, boysenberries, blueberries, ripe gooseberries, and raspberries.",
+    "Low level of pectin: Strawberries, peaches, blackberries, figs, guavas, melons, loquats, eating cherries, apricots, tomatoes, and tamarillos."
+  ],
+  "tyn_section":[
+    "Fruit",
+    "Saucepan",
+    "Water",
+    "Small jar",
+    "Denatured alcohol or methylated spirits"
+  ],
+  "tyn_model":[
+    "pectin",
+    "water",
+    "denatured alcohol",
+    "methylated spirits",
+    "apples",
+    "lemons",
+    "blackcurrants",
+    "quinces",
+    "green gooseberries",
+    "plums",
+    "cooking cherries",
+    "passionfruit",
+    "rhubarb",
+    "blueberries",
+    "gooseberries",
+    "raspberries",
+    "strawberries",
+    "peaches",
+    "blackberries",
+    "figs",
+    "guavas",
+    "melons",
+    "loquats",
+    "cherries",
+    "apricots",
+    "tomatoes",
+    "tamarillos"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.037037037,
+    "f1":0.0625,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.037037037,
+    "f1":0.0625
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.1111111111,
+    "f1":0.1739130435
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.037037037,
+    "f1":0.0625
+  }
+}

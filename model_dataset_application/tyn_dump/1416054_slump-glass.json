@@ -1,0 +1,88 @@
+{
+  "title":"How to Slump Glass",
+  "url":"https://www.wikihow.com/Slump-Glass",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Glass and Stained Glass Projects"
+  ],
+  "steps":[
+    {
+      "headline":"Place fused glass on top of a mold that has received a coat of kiln-wash, and place it in the kiln.",
+      "description":"Make sure the glass piece you choose is not so big that it will flow out of the mold and pour over the sides, making it almost impossible to remove the glass from the mold."
+    },
+    {
+      "headline":"Fire the kiln to a temperature between 1200 to 1300\u00b0F (648.9 to 704.4\u00b0C), keeping an eye on the glass through the peephole.",
+      "description":"The glass will begin softening and turn glossy when the temperature nears 1000\u00b0F (537.7\u00b0C) and start slumping as it nears 1200\u00b0F (648.9\u00b0C)."
+    },
+    {
+      "headline":"Make notes of temperature and slumping time.",
+      "description":""
+    },
+    {
+      "headline":"Allow the glass to soak, which means rest, until it begins to flatten and shape itself to the mold.",
+      "description":""
+    },
+    {
+      "headline":"Cool down the kiln to 1100\u00b0F (593.3\u00b0C) by either opening the lid or turning it off.",
+      "description":"Opening the lid allows faster cooling as the heat can escape from the kiln."
+    },
+    {
+      "headline":"Cool down the kiln to 1000\u00b0F (537.8\u00b0C) and maintain that temperature for 20 minutes.",
+      "description":"After 20 minutes, continue lowering the temperature to 600\u00b0F (315.6\u00b0C.) This will anneal the glass which helps relieve any built-up stress."
+    },
+    {
+      "headline":"Turn the kiln off completely, and allow the piece to cool naturally.",
+      "description":"This can take 24 hours or more, but it is important that the glass be cooled to room temperature before you begin the final polishing to obtain your finished piece."
+    }
+  ],
+  "text":" Place fused glass on top of a mold that has received a coat of kiln-wash, and place it in the kiln. Make sure the glass piece you choose is not so big that it will flow out of the mold and pour over the sides, making it almost impossible to remove the glass from the mold. Fire the kiln to a temperature between 1200 to 1300\u00b0F (648.9 to 704.4\u00b0C), keeping an eye on the glass through the peephole. The glass will begin softening and turn glossy when the temperature nears 1000\u00b0F (537.7\u00b0C) and start slumping as it nears 1200\u00b0F (648.9\u00b0C). Make notes of temperature and slumping time.  Allow the glass to soak, which means rest, until it begins to flatten and shape itself to the mold.  Cool down the kiln to 1100\u00b0F (593.3\u00b0C) by either opening the lid or turning it off. Opening the lid allows faster cooling as the heat can escape from the kiln. Cool down the kiln to 1000\u00b0F (537.8\u00b0C) and maintain that temperature for 20 minutes. After 20 minutes, continue lowering the temperature to 600\u00b0F (315.6\u00b0C.) This will anneal the glass which helps relieve any built-up stress. Turn the kiln off completely, and allow the piece to cool naturally. This can take 24 hours or more, but it is important that the glass be cooled to room temperature before you begin the final polishing to obtain your finished piece.",
+  "sentences":[
+    " Place fused glass on top of a mold that has received a coat of kiln-wash, and place it in the kiln.",
+    "Make sure the glass piece you choose is not so big that it will flow out of the mold and pour over the sides, making it almost impossible to remove the glass from the mold.",
+    "Fire the kiln to a temperature between 1200 to 1300\u00b0F (648.9 to 704.4\u00b0C), keeping an eye on the glass through the peephole.",
+    "The glass will begin softening and turn glossy when the temperature nears 1000\u00b0F (537.7\u00b0C) and start slumping as it nears 1200\u00b0F (648.9\u00b0C).",
+    "Make notes of temperature and slumping time.",
+    "Allow the glass to soak, which means rest, until it begins to flatten and shape itself to the mold.",
+    "Cool down the kiln to 1100\u00b0F (593.3\u00b0C) by either opening the lid or turning it off.",
+    "Opening the lid allows faster cooling as the heat can escape from the kiln.",
+    "Cool down the kiln to 1000\u00b0F (537.8\u00b0C) and maintain that temperature for 20 minutes.",
+    "After 20 minutes, continue lowering the temperature to 600\u00b0F (315.6\u00b0C.)",
+    "This will anneal the glass which helps relieve any built-up stress.",
+    "Turn the kiln off completely, and allow the piece to cool naturally.",
+    "This can take 24 hours or more, but it is important that the glass be cooled to room temperature before you begin the final polishing to obtain your finished piece."
+  ],
+  "tyn_section":[
+    "Kiln",
+    "Eye protection",
+    "Ceramic mold",
+    "Glass pieces of your choice",
+    "Heat proof gloves"
+  ],
+  "tyn_model":[
+    "kiln",
+    "glass",
+    "fused glass"
+  ],
+  "simple_metrics":{
+    "r":0.2,
+    "p":0.3333333333,
+    "f1":0.25,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2,
+    "p":0.3333333333,
+    "f1":0.25
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2,
+    "p":0.3333333333,
+    "f1":0.25
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.2,
+    "p":0.3333333333,
+    "f1":0.25
+  }
+}

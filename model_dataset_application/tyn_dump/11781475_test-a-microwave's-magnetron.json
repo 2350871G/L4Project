@@ -1,0 +1,213 @@
+{
+  "title":"How to Test a Microwave's Magnetron",
+  "url":"https://www.wikihow.com/Test-a-Microwave%27s-Magnetron",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Appliances"
+  ],
+  "methods":[
+    {
+      "name":"Checking the Heating Power",
+      "steps":[
+        {
+          "headline":"Fill a glass measuring cup with 2  c (470 ml) of water.",
+          "description":"Use a measuring cup made of glass or Pyrex since it will be the safest to use. Add room-temperature water to the cup until it\u2019s level with the 2 cups (470 ml) mark on the side. Avoid using cold water since it could make the test results inaccurate. You may also use a microwave-safe plastic container if you don\u2019t have a glass measuring cup."
+        },
+        {
+          "headline":"Measure and record the water\u2019s temperature.",
+          "description":"Dip the end of a food thermometer in the cup of water and stir it around. Continue stirring until the reading stops at a consistent temperature. Write down the starting measurement so you don\u2019t forget it. If you don\u2019t stir the water, you could get an inaccurate reading."
+        },
+        {
+          "headline":"Put the measuring cup in your microwave on high for 1 minute.",
+          "description":"Set the cup of water in the middle of the microwave\u2019s rack so it gets heated evenly. Allow your microwave to run through its entire cycle before opening the door. Check the microwave\u2019s manual if you don\u2019t know how to change the settings."
+        },
+        {
+          "headline":"Check if the water\u2019s temperature raised by 35\u201365\u00b0F (19\u201336\u00b0C).",
+          "description":"Stir the thermometer in the water until you get a consistent reading. Record your measurement and compare it to the first one. If the water temperature rose by 35\u201365\u00b0F (19\u201336\u00b0C), then your magnetron works great! If the temperature doesn\u2019t increase by at least 35\u00b0F (19\u00b0C), then the magnetron may be faulty and you will have to replace it.Warning: The glass and water will be extremely hot when it\u2019s finished in the microwave. Use caution when you grab the glass and be careful not to spill."
+        }
+      ]
+    },
+    {
+      "name":"Testing the Magnetron with a Multimeter",
+      "steps":[
+        {
+          "headline":"Unplug your microwave.",
+          "description":"Never take apart or work on your microwave while it\u2019s still plugged in since you could get shocked or electrocuted. Locate the plug for your microwave and disconnect it from power completely. If you have a microwave mounted over your stove, look inside of a cabinet above it for the outlet."
+        },
+        {
+          "headline":"Unscrew the casing from each side of the microwave to remove it.",
+          "description":"Look for the screws on the top, back, bottom, and sides of your microwave. Use a screwdriver with an insulated handle to turn the screws counterclockwise until they\u2019re loose. Once you remove all of the screws, carefully lift the casing off of the microwave and set it aside. You do not need to remove the door or the button panel to access the magnetron. Organize the screws in small dishes for each side so you don\u2019t lose them. Don\u2019t touch any wires inside the microwave since they could possibly still have a charge. If you want, wear rubber gloves for an additional layer of protection."
+        },
+        {
+          "headline":"Place an insulated screwdriver against the capacitor\u2019s terminals to discharge it.",
+          "description":"Locate a small metal box near the back of your microwave that has a black cylinder sticking out from the side, which is the capacitor. Find the metal prongs that stick out from the end of the capacitor and have wires connected to them. Hold onto your screwdriver\u2019s insulated handle and make sure you aren\u2019t touching any metal. Slide the screwdriver next to the capacitor and press the metal part against the terminals. You may hear a click or snapping sound once you discharge it. Sometimes, the metal box with the capacitor has the image of a lightning bolt on it to mark that it\u2019s dangerous. Avoid using an uninsulated tool to discharge the capacitor since you could seriously injure yourself. If you have trouble finding the capacitor, check the microwave\u2019s manual or contact a professional repair person to help you."
+        },
+        {
+          "headline":"Disconnect the wires and plugs from the magnetron.",
+          "description":"Look for the magnetron, which looks like 2 large metal boxes stacked on top of each other near the back of the machine. Find where the wires or plugs connect to the sides of the magnetron and carefully pull them out by hand. If they have locking tabs, pinch the tabs so you can pull the wires out without damaging them. Your microwave may have multiple magnetrons, so be sure to unwire all of them. Since you discharged the capacitor, the wires and components won\u2019t have any voltage.Tip: Take pictures of the wires before you start unplugging them so you remember how to reinstall the magnetron properly."
+        },
+        {
+          "headline":"Loosen the screws holding the magnetron down.",
+          "description":"Locate the mounting screws holding the base of the magnetron inside of the microwave. Use your screwdriver to turn the screws counterclockwise until you\u2019re able to pull them out by hand. Carefully grab the magnetron and guide it straight out from the microwave. There may be other supports or baffles around the magnetron. Unscrew and remove them as well if they prevent you from pulling out the magnetron."
+        },
+        {
+          "headline":"Set your multimeter to the lowest ohms setting.",
+          "description":"Look at the multimeter\u2019s dial and locate the section labeled with the omega symbol (\u03a9), which is used for measuring ohms and resistance. Turn the dial to the smallest resistance listing so you get the most accurate reading from the magnetron. You can buy a multimeter from your local hardware store."
+        },
+        {
+          "headline":"Hold the multimeter leads against the prongs on the magnetron.",
+          "description":"Find the 2 metal prongs sticking out from the side of the magnetron. Take one of the leads from your multimeter and hold it against the side of the prong. Then put the second lead on the other prong, making sure the multimeter leads don\u2019t touch one another. It doesn\u2019t matter which prong you choose since the measurement will be the same.Variation: If you don\u2019t want to hold the leads the whole time, opt to use alligator clips and clamp them onto the prongs instead."
+        },
+        {
+          "headline":"Check for a reading below 1 ohm to determine if the filament is good.",
+          "description":"Look at the multimeter\u2019s screen and take note of the reading. If the resistance stays below 1 ohm, then the electric filament inside the magnetron functions properly. If you get a higher reading or if the screen reads \u201cOL\u201d, then the magnetron is faulty and should be replaced. Your magnetron still may not work properly even if it has a good filament, so keep testing it."
+        },
+        {
+          "headline":"Turn the multimeter to the highest ohms setting.",
+          "description":"Rotate the dial on your multimeter to the highest option for testing resistance. It\u2019s okay to leave the leads against the magnetron\u2019s prongs while you change settings."
+        },
+        {
+          "headline":"Place one of the leads against the magnetron\u2019s metal casing.",
+          "description":"Leave one of the leads against a prong on the magnetron. Take the other lead and place it anywhere on the metal box surrounding the prongs. Make sure you press the lead firmly against the box, or else you won\u2019t get an accurate reading. Make sure the leads don\u2019t slip or come loose while you\u2019re taking your measurement."
+        },
+        {
+          "headline":"Look for an open line reading to see if the magnetron works properly.",
+          "description":"Read the screen on the multimeter to find your reading. If it says \u201cOL\u201d or \u201cOpen Line\u201d, then the magnetron works properly! If you register any other reading, then replace the magnetron. If the magnetron reads any resistance, the electrical current won\u2019t be able to move through it as easily. You can buy magnetrons online or from appliance stores for around $35\u2013100 USD."
+        }
+      ]
+    }
+  ],
+  "text":" Checking the Heating Power Fill a glass measuring cup with 2  c (470 ml) of water. Use a measuring cup made of glass or Pyrex since it will be the safest to use. Add room-temperature water to the cup until it\u2019s level with the 2 cups (470 ml) mark on the side. Avoid using cold water since it could make the test results inaccurate. You may also use a microwave-safe plastic container if you don\u2019t have a glass measuring cup. Measure and record the water\u2019s temperature. Dip the end of a food thermometer in the cup of water and stir it around. Continue stirring until the reading stops at a consistent temperature. Write down the starting measurement so you don\u2019t forget it. If you don\u2019t stir the water, you could get an inaccurate reading. Put the measuring cup in your microwave on high for 1 minute. Set the cup of water in the middle of the microwave\u2019s rack so it gets heated evenly. Allow your microwave to run through its entire cycle before opening the door. Check the microwave\u2019s manual if you don\u2019t know how to change the settings. Check if the water\u2019s temperature raised by 35\u201365\u00b0F (19\u201336\u00b0C). Stir the thermometer in the water until you get a consistent reading. Record your measurement and compare it to the first one. If the water temperature rose by 35\u201365\u00b0F (19\u201336\u00b0C), then your magnetron works great! If the temperature doesn\u2019t increase by at least 35\u00b0F (19\u00b0C), then the magnetron may be faulty and you will have to replace it.Warning: The glass and water will be extremely hot when it\u2019s finished in the microwave. Use caution when you grab the glass and be careful not to spill. Testing the Magnetron with a Multimeter Unplug your microwave. Never take apart or work on your microwave while it\u2019s still plugged in since you could get shocked or electrocuted. Locate the plug for your microwave and disconnect it from power completely. If you have a microwave mounted over your stove, look inside of a cabinet above it for the outlet. Unscrew the casing from each side of the microwave to remove it. Look for the screws on the top, back, bottom, and sides of your microwave. Use a screwdriver with an insulated handle to turn the screws counterclockwise until they\u2019re loose. Once you remove all of the screws, carefully lift the casing off of the microwave and set it aside. You do not need to remove the door or the button panel to access the magnetron. Organize the screws in small dishes for each side so you don\u2019t lose them. Don\u2019t touch any wires inside the microwave since they could possibly still have a charge. If you want, wear rubber gloves for an additional layer of protection. Place an insulated screwdriver against the capacitor\u2019s terminals to discharge it. Locate a small metal box near the back of your microwave that has a black cylinder sticking out from the side, which is the capacitor. Find the metal prongs that stick out from the end of the capacitor and have wires connected to them. Hold onto your screwdriver\u2019s insulated handle and make sure you aren\u2019t touching any metal. Slide the screwdriver next to the capacitor and press the metal part against the terminals. You may hear a click or snapping sound once you discharge it. Sometimes, the metal box with the capacitor has the image of a lightning bolt on it to mark that it\u2019s dangerous. Avoid using an uninsulated tool to discharge the capacitor since you could seriously injure yourself. If you have trouble finding the capacitor, check the microwave\u2019s manual or contact a professional repair person to help you. Disconnect the wires and plugs from the magnetron. Look for the magnetron, which looks like 2 large metal boxes stacked on top of each other near the back of the machine. Find where the wires or plugs connect to the sides of the magnetron and carefully pull them out by hand. If they have locking tabs, pinch the tabs so you can pull the wires out without damaging them. Your microwave may have multiple magnetrons, so be sure to unwire all of them. Since you discharged the capacitor, the wires and components won\u2019t have any voltage.Tip: Take pictures of the wires before you start unplugging them so you remember how to reinstall the magnetron properly. Loosen the screws holding the magnetron down. Locate the mounting screws holding the base of the magnetron inside of the microwave. Use your screwdriver to turn the screws counterclockwise until you\u2019re able to pull them out by hand. Carefully grab the magnetron and guide it straight out from the microwave. There may be other supports or baffles around the magnetron. Unscrew and remove them as well if they prevent you from pulling out the magnetron. Set your multimeter to the lowest ohms setting. Look at the multimeter\u2019s dial and locate the section labeled with the omega symbol (\u03a9), which is used for measuring ohms and resistance. Turn the dial to the smallest resistance listing so you get the most accurate reading from the magnetron. You can buy a multimeter from your local hardware store. Hold the multimeter leads against the prongs on the magnetron. Find the 2 metal prongs sticking out from the side of the magnetron. Take one of the leads from your multimeter and hold it against the side of the prong. Then put the second lead on the other prong, making sure the multimeter leads don\u2019t touch one another. It doesn\u2019t matter which prong you choose since the measurement will be the same.Variation: If you don\u2019t want to hold the leads the whole time, opt to use alligator clips and clamp them onto the prongs instead. Check for a reading below 1 ohm to determine if the filament is good. Look at the multimeter\u2019s screen and take note of the reading. If the resistance stays below 1 ohm, then the electric filament inside the magnetron functions properly. If you get a higher reading or if the screen reads \u201cOL\u201d, then the magnetron is faulty and should be replaced. Your magnetron still may not work properly even if it has a good filament, so keep testing it. Turn the multimeter to the highest ohms setting. Rotate the dial on your multimeter to the highest option for testing resistance. It\u2019s okay to leave the leads against the magnetron\u2019s prongs while you change settings. Place one of the leads against the magnetron\u2019s metal casing. Leave one of the leads against a prong on the magnetron. Take the other lead and place it anywhere on the metal box surrounding the prongs. Make sure you press the lead firmly against the box, or else you won\u2019t get an accurate reading. Make sure the leads don\u2019t slip or come loose while you\u2019re taking your measurement. Look for an open line reading to see if the magnetron works properly. Read the screen on the multimeter to find your reading. If it says \u201cOL\u201d or \u201cOpen Line\u201d, then the magnetron works properly! If you register any other reading, then replace the magnetron. If the magnetron reads any resistance, the electrical current won\u2019t be able to move through it as easily. You can buy magnetrons online or from appliance stores for around $35\u2013100 USD.",
+  "sentences":[
+    " Checking the Heating Power Fill a glass measuring cup with 2  c (470 ml) of water.",
+    "Use a measuring cup made of glass or Pyrex since it will be the safest to use.",
+    "Add room-temperature water to the cup until it\u2019s level with the 2 cups (470 ml) mark on the side.",
+    "Avoid using cold water since it could make the test results inaccurate.",
+    "You may also use a microwave-safe plastic container if you don\u2019t have a glass measuring cup.",
+    "Measure and record the water\u2019s temperature.",
+    "Dip the end of a food thermometer in the cup of water and stir it around.",
+    "Continue stirring until the reading stops at a consistent temperature.",
+    "Write down the starting measurement so you don\u2019t forget it.",
+    "If you don\u2019t stir the water, you could get an inaccurate reading.",
+    "Put the measuring cup in your microwave on high for 1 minute.",
+    "Set the cup of water in the middle of the microwave\u2019s rack so it gets heated evenly.",
+    "Allow your microwave to run through its entire cycle before opening the door.",
+    "Check the microwave\u2019s manual if you don\u2019t know how to change the settings.",
+    "Check if the water\u2019s temperature raised by 35\u201365\u00b0F (19\u201336\u00b0C).",
+    "Stir the thermometer in the water until you get a consistent reading.",
+    "Record your measurement and compare it to the first one.",
+    "If the water temperature rose by 35\u201365\u00b0F (19\u201336\u00b0C), then your magnetron works great!",
+    "If the temperature doesn\u2019t increase by at least 35\u00b0F (19\u00b0C), then the magnetron may be faulty and you will have to replace it.Warning: The glass and water will be extremely hot when it\u2019s finished in the microwave.",
+    "Use caution when you grab the glass and be careful not to spill.",
+    "Testing the Magnetron with a Multimeter Unplug your microwave.",
+    "Never take apart or work on your microwave while it\u2019s still plugged in since you could get shocked or electrocuted.",
+    "Locate the plug for your microwave and disconnect it from power completely.",
+    "If you have a microwave mounted over your stove, look inside of a cabinet above it for the outlet.",
+    "Unscrew the casing from each side of the microwave to remove it.",
+    "Look for the screws on the top, back, bottom, and sides of your microwave.",
+    "Use a screwdriver with an insulated handle to turn the screws counterclockwise until they\u2019re loose.",
+    "Once you remove all of the screws, carefully lift the casing off of the microwave and set it aside.",
+    "You do not need to remove the door or the button panel to access the magnetron.",
+    "Organize the screws in small dishes for each side so you don\u2019t lose them.",
+    "Don\u2019t touch any wires inside the microwave since they could possibly still have a charge.",
+    "If you want, wear rubber gloves for an additional layer of protection.",
+    "Place an insulated screwdriver against the capacitor\u2019s terminals to discharge it.",
+    "Locate a small metal box near the back of your microwave that has a black cylinder sticking out from the side, which is the capacitor.",
+    "Find the metal prongs that stick out from the end of the capacitor and have wires connected to them.",
+    "Hold onto your screwdriver\u2019s insulated handle and make sure you aren\u2019t touching any metal.",
+    "Slide the screwdriver next to the capacitor and press the metal part against the terminals.",
+    "You may hear a click or snapping sound once you discharge it.",
+    "Sometimes, the metal box with the capacitor has the image of a lightning bolt on it to mark that it\u2019s dangerous.",
+    "Avoid using an uninsulated tool to discharge the capacitor since you could seriously injure yourself.",
+    "If you have trouble finding the capacitor, check the microwave\u2019s manual or contact a professional repair person to help you.",
+    "Disconnect the wires and plugs from the magnetron.",
+    "Look for the magnetron, which looks like 2 large metal boxes stacked on top of each other near the back of the machine.",
+    "Find where the wires or plugs connect to the sides of the magnetron and carefully pull them out by hand.",
+    "If they have locking tabs, pinch the tabs so you can pull the wires out without damaging them.",
+    "Your microwave may have multiple magnetrons, so be sure to unwire all of them.",
+    "Since you discharged the capacitor, the wires and components won\u2019t have any voltage.Tip: Take pictures of the wires before you start unplugging them so you remember how to reinstall the magnetron properly.",
+    "Loosen the screws holding the magnetron down.",
+    "Locate the mounting screws holding the base of the magnetron inside of the microwave.",
+    "Use your screwdriver to turn the screws counterclockwise until you\u2019re able to pull them out by hand.",
+    "Carefully grab the magnetron and guide it straight out from the microwave.",
+    "There may be other supports or baffles around the magnetron.",
+    "Unscrew and remove them as well if they prevent you from pulling out the magnetron.",
+    "Set your multimeter to the lowest ohms setting.",
+    "Look at the multimeter\u2019s dial and locate the section labeled with the omega symbol (\u03a9), which is used for measuring ohms and resistance.",
+    "Turn the dial to the smallest resistance listing so you get the most accurate reading from the magnetron.",
+    "You can buy a multimeter from your local hardware store.",
+    "Hold the multimeter leads against the prongs on the magnetron.",
+    "Find the 2 metal prongs sticking out from the side of the magnetron.",
+    "Take one of the leads from your multimeter and hold it against the side of the prong.",
+    "Then put the second lead on the other prong, making sure the multimeter leads don\u2019t touch one another.",
+    "It doesn\u2019t matter which prong you choose since the measurement will be the same.Variation: If you don\u2019t want to hold the leads the whole time, opt to use alligator clips and clamp them onto the prongs instead.",
+    "Check for a reading below 1 ohm to determine if the filament is good.",
+    "Look at the multimeter\u2019s screen and take note of the reading.",
+    "If the resistance stays below 1 ohm, then the electric filament inside the magnetron functions properly.",
+    "If you get a higher reading or if the screen reads \u201cOL\u201d, then the magnetron is faulty and should be replaced.",
+    "Your magnetron still may not work properly even if it has a good filament, so keep testing it.",
+    "Turn the multimeter to the highest ohms setting.",
+    "Rotate the dial on your multimeter to the highest option for testing resistance.",
+    "It\u2019s okay to leave the leads against the magnetron\u2019s prongs while you change settings.",
+    "Place one of the leads against the magnetron\u2019s metal casing.",
+    "Leave one of the leads against a prong on the magnetron.",
+    "Take the other lead and place it anywhere on the metal box surrounding the prongs.",
+    "Make sure you press the lead firmly against the box, or else you won\u2019t get an accurate reading.",
+    "Make sure the leads don\u2019t slip or come loose while you\u2019re taking your measurement.",
+    "Look for an open line reading to see if the magnetron works properly.",
+    "Read the screen on the multimeter to find your reading.",
+    "If it says \u201cOL\u201d or \u201cOpen Line\u201d, then the magnetron works properly!",
+    "If you register any other reading, then replace the magnetron.",
+    "If the magnetron reads any resistance, the electrical current won\u2019t be able to move through it as easily.",
+    "You can buy magnetrons online or from appliance stores for around $35\u2013100 USD."
+  ],
+  "tyn_section":[
+    "Glass measuring cup",
+    "Food thermometer",
+    "Oven mitt",
+    "Insulated screwdriver",
+    "Multimeter"
+  ],
+  "tyn_model":[
+    "microwave",
+    "water",
+    "multimeter",
+    "magnetron",
+    "screwdriver",
+    "\u201col",
+    "\u201d,",
+    "food thermometer",
+    "measuring cup",
+    "thermometer",
+    "glass",
+    "rubber gloves",
+    "insulated screwdriver",
+    "\u03c9)",
+    "alligator clips",
+    "electric filament",
+    "\u201d or",
+    "\u201copen",
+    "magnetrons"
+  ],
+  "simple_metrics":{
+    "r":0.6,
+    "p":0.1578947368,
+    "f1":0.25,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.8,
+    "p":0.3157894737,
+    "f1":0.4528301887
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8,
+    "p":0.3684210526,
+    "f1":0.5045045045
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.8,
+    "p":0.2105263158,
+    "f1":0.3333333333
+  }
+}

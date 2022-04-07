@@ -1,0 +1,83 @@
+{
+  "title":"How to Clean Up Spilled Egg",
+  "url":"https://www.wikihow.com/Clean-Up-Spilled-Egg",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Housekeeping",
+    "Cleaning",
+    "House Cleaning"
+  ],
+  "steps":[
+    {
+      "headline":"Cover the spilled egg with salt.",
+      "description":"Use enough salt to cover the entire area of the spilled egg (about a handful of salt). The salt provides a surface for the gooey egg to stick to, and makes gathering the egg a lot easier. Any kind of salt works just fine, so you can use iodized table salt, or kosher salt. Animals could be attracted to the raw egg on the floor, so if you have any pets, you probably want to keep them away from the spill."
+    },
+    {
+      "headline":"Leave the egg to absorb the salt.",
+      "description":"Let the salt sit for about 10-15 minutes. This ensures that the salt will congeal the majority of the gooey egg, making it easier to collect. A piece of bread can also absorb the spilled egg if you don\u2019t happen to have any salt around."
+    },
+    {
+      "headline":"Scoop up the raw egg and throw it out.",
+      "description":"Use a paper towel or a spatula to place the salt-covered egg on a newspaper. A newspaper is a good alternative for clean-up rather than using a dustpan, because a newspaper can be thrown out along with the egg."
+    },
+    {
+      "headline":"Sanitize the area of the spill.",
+      "description":"Use a disinfectant to clean any surface or area that made contact with the raw egg."
+    }
+  ],
+  "text":" Cover the spilled egg with salt. Use enough salt to cover the entire area of the spilled egg (about a handful of salt). The salt provides a surface for the gooey egg to stick to, and makes gathering the egg a lot easier. Any kind of salt works just fine, so you can use iodized table salt, or kosher salt. Animals could be attracted to the raw egg on the floor, so if you have any pets, you probably want to keep them away from the spill. Leave the egg to absorb the salt. Let the salt sit for about 10-15 minutes. This ensures that the salt will congeal the majority of the gooey egg, making it easier to collect. A piece of bread can also absorb the spilled egg if you don\u2019t happen to have any salt around. Scoop up the raw egg and throw it out. Use a paper towel or a spatula to place the salt-covered egg on a newspaper. A newspaper is a good alternative for clean-up rather than using a dustpan, because a newspaper can be thrown out along with the egg. Sanitize the area of the spill. Use a disinfectant to clean any surface or area that made contact with the raw egg.",
+  "sentences":[
+    " Cover the spilled egg with salt.",
+    "Use enough salt to cover the entire area of the spilled egg (about a handful of salt).",
+    "The salt provides a surface for the gooey egg to stick to, and makes gathering the egg a lot easier.",
+    "Any kind of salt works just fine, so you can use iodized table salt, or kosher salt.",
+    "Animals could be attracted to the raw egg on the floor, so if you have any pets, you probably want to keep them away from the spill.",
+    "Leave the egg to absorb the salt.",
+    "Let the salt sit for about 10-15 minutes.",
+    "This ensures that the salt will congeal the majority of the gooey egg, making it easier to collect.",
+    "A piece of bread can also absorb the spilled egg if you don\u2019t happen to have any salt around.",
+    "Scoop up the raw egg and throw it out.",
+    "Use a paper towel or a spatula to place the salt-covered egg on a newspaper.",
+    "A newspaper is a good alternative for clean-up rather than using a dustpan, because a newspaper can be thrown out along with the egg.",
+    "Sanitize the area of the spill.",
+    "Use a disinfectant to clean any surface or area that made contact with the raw egg."
+  ],
+  "tyn_section":[
+    "Table salt/kosher salt",
+    "Paper towel",
+    "Plastic spatula (optional)",
+    "Newspaper",
+    "Trash can"
+  ],
+  "tyn_model":[
+    "salt",
+    "newspaper",
+    "table salt",
+    "kosher salt",
+    "bread",
+    "paper towel",
+    "spatula",
+    "dustpan"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.25,
+    "f1":0.3076923077,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6,
+    "p":0.375,
+    "f1":0.4615384615
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8,
+    "p":0.625,
+    "f1":0.701754386
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6,
+    "p":0.375,
+    "f1":0.4615384615
+  }
+}

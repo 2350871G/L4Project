@@ -1,0 +1,82 @@
+{
+  "title":"How to Make White Onion Puree",
+  "url":"https://www.wikihow.com/Make-White-Onion-Puree",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Fruits and Vegetables",
+    "Onions"
+  ],
+  "steps":[
+    {
+      "headline":"Peel the onions and wash them in warm water.",
+      "description":""
+    },
+    {
+      "headline":"Use a big enough pot to boil the onions.",
+      "description":"Boil them until they look and feel soft enough for a puree."
+    },
+    {
+      "headline":"Drain the onions of the excess water.",
+      "description":"Do not discard the water in which the onions boiled because you will need it for the puree."
+    },
+    {
+      "headline":"Place the onions in the blender adding some of the liquid in which the onions boiled.",
+      "description":"Based on your texture preference add more or less liquid."
+    },
+    {
+      "headline":"After the onions are well blended, pour the puree into a pot.",
+      "description":"Bring the puree to a boil and add some salt and pepper. You can also add different spices you enjoy in your favorite dishes."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Peel the onions and wash them in warm water.  Use a big enough pot to boil the onions. Boil them until they look and feel soft enough for a puree. Drain the onions of the excess water. Do not discard the water in which the onions boiled because you will need it for the puree. Place the onions in the blender adding some of the liquid in which the onions boiled. Based on your texture preference add more or less liquid. After the onions are well blended, pour the puree into a pot. Bring the puree to a boil and add some salt and pepper. You can also add different spices you enjoy in your favorite dishes. Finished. ",
+  "sentences":[
+    " Peel the onions and wash them in warm water.",
+    "Use a big enough pot to boil the onions.",
+    "Boil them until they look and feel soft enough for a puree.",
+    "Drain the onions of the excess water.",
+    "Do not discard the water in which the onions boiled because you will need it for the puree.",
+    "Place the onions in the blender adding some of the liquid in which the onions boiled.",
+    "Based on your texture preference add more or less liquid.",
+    "After the onions are well blended, pour the puree into a pot.",
+    "Bring the puree to a boil and add some salt and pepper.",
+    "You can also add different spices you enjoy in your favorite dishes.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Blender",
+    "Pot for boiling onions"
+  ],
+  "tyn_model":[
+    "onions",
+    "water",
+    "blender",
+    "pot",
+    "salt and pepper"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857,
+    "avg_pos":0.4
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.2,
+    "f1":0.2857142857
+  }
+}

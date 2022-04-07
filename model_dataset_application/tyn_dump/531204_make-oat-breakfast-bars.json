@@ -1,0 +1,107 @@
+{
+  "title":"How to Make Oat Breakfast Bars",
+  "url":"https://www.wikihow.com/Make-Oat-Breakfast-Bars",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast"
+  ],
+  "steps":[
+    {
+      "headline":"Preheat the oven to 140\u00baC.",
+      "description":""
+    },
+    {
+      "headline":"Line the baking tray with paper.",
+      "description":""
+    },
+    {
+      "headline":"Mix the oats, coconut, seeds, and dried fruit in a bowl.",
+      "description":"Combine thoroughly."
+    },
+    {
+      "headline":"Warm the syrup in a small saucepan.",
+      "description":"Stir in the butter of choice."
+    },
+    {
+      "headline":"Pour the warmed mixture into the oat mixture and stir through thoroughly.",
+      "description":""
+    },
+    {
+      "headline":"Place the mixture into the baking tray and press down onto the tray and spread across to the edges.",
+      "description":""
+    },
+    {
+      "headline":"Place in the oven and bake for 35\u201340 minutes, until lightly golden.",
+      "description":""
+    },
+    {
+      "headline":"Remove from the heat and place the tray on a cooling rack for 20 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Slide the slice out while still a little warm and cut into slices/bars.",
+      "description":"These will harden upon cooling."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Preheat the oven to 140\u00baC.  Line the baking tray with paper.  Mix the oats, coconut, seeds, and dried fruit in a bowl. Combine thoroughly. Warm the syrup in a small saucepan. Stir in the butter of choice. Pour the warmed mixture into the oat mixture and stir through thoroughly.  Place the mixture into the baking tray and press down onto the tray and spread across to the edges.  Place in the oven and bake for 35\u201340 minutes, until lightly golden.  Remove from the heat and place the tray on a cooling rack for 20 minutes.  Slide the slice out while still a little warm and cut into slices/bars. These will harden upon cooling. Finished. ",
+  "sentences":[
+    " Preheat the oven to 140\u00baC.",
+    "Line the baking tray with paper.",
+    "Mix the oats, coconut, seeds, and dried fruit in a bowl.",
+    "Combine thoroughly.",
+    "Warm the syrup in a small saucepan.",
+    "Stir in the butter of choice.",
+    "Pour the warmed mixture into the oat mixture and stir through thoroughly.",
+    "Place the mixture into the baking tray and press down onto the tray and spread across to the edges.",
+    "Place in the oven and bake for 35\u201340 minutes, until lightly golden.",
+    "Remove from the heat and place the tray on a cooling rack for 20 minutes.",
+    "Slide the slice out while still a little warm and cut into slices/bars.",
+    "These will harden upon cooling.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Baking tray, 24 centimeter (9.4\u00a0in) x 30 centimeter (11.8\u00a0in)",
+    "Baking paper",
+    "Mixing bowl",
+    "Mixing implement",
+    "Wire cooling rack",
+    "Slide to help move the slice out of the tray"
+  ],
+  "tyn_model":[
+    "oven",
+    "baking tray",
+    "tray",
+    "oats",
+    "coconut",
+    "dried fruit",
+    "bowl",
+    "small saucepan",
+    "butter",
+    "oat"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.1,
+    "f1":0.125
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

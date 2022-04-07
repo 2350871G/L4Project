@@ -1,0 +1,99 @@
+{
+  "title":"How to Get an Old NES Game to Work Again",
+  "url":"https://www.wikihow.com/Get-an-Old-NES-Game-to-Work-Again",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Entertainment System"
+  ],
+  "steps":[
+    {
+      "headline":"Make sure that the A/V (red and yellow) cables are plugged in correctly, the power outlet you're using is active, and the game works.",
+      "description":""
+    },
+    {
+      "headline":"Test a game and make sure that the picture is clear on your TV and the game is visible.",
+      "description":"This confirms that your NES is fine."
+    },
+    {
+      "headline":"Put the corrupt game into the NES and push \"Power\".",
+      "description":"You may see a flash, but no color. This is good, as it means there may be life still in your game."
+    },
+    {
+      "headline":"Push down on the game to eject it while the console is on, put it back in and push power twice, then push reset many times, then the power button many times.",
+      "description":""
+    },
+    {
+      "headline":"Un-plug the NES and plug it back in with the NES power off.",
+      "description":"Then use a Q-tip and clean the contact points on the game cart (Do not blow into the system or game cart, this causes corrosion among with the fact it dose not do anything)."
+    },
+    {
+      "headline":"Repeat the steps until you see some mush of pixels appear or just sound.",
+      "description":"This shocks the game's internal circuit and \"awakens\" it."
+    },
+    {
+      "headline":"Put the working game in.",
+      "description":"If nothing happens after several tries, make sure everything is still okay."
+    },
+    {
+      "headline":"Alternate between the two games once you see pixel mush or you hear sounds.",
+      "description":"This makes the NES system read any game, despite of its status."
+    },
+    {
+      "headline":"Repeat steps until the game clears up: reset, power, clean cart, plug in, and power.",
+      "description":""
+    }
+  ],
+  "text":" Make sure that the A/V (red and yellow) cables are plugged in correctly, the power outlet you're using is active, and the game works.  Test a game and make sure that the picture is clear on your TV and the game is visible. This confirms that your NES is fine. Put the corrupt game into the NES and push \"Power\". You may see a flash, but no color. This is good, as it means there may be life still in your game. Push down on the game to eject it while the console is on, put it back in and push power twice, then push reset many times, then the power button many times.  Un-plug the NES and plug it back in with the NES power off. Then use a Q-tip and clean the contact points on the game cart (Do not blow into the system or game cart, this causes corrosion among with the fact it dose not do anything). Repeat the steps until you see some mush of pixels appear or just sound. This shocks the game's internal circuit and \"awakens\" it. Put the working game in. If nothing happens after several tries, make sure everything is still okay. Alternate between the two games once you see pixel mush or you hear sounds. This makes the NES system read any game, despite of its status. Repeat steps until the game clears up: reset, power, clean cart, plug in, and power. ",
+  "sentences":[
+    " Make sure that the A/V (red and yellow) cables are plugged in correctly, the power outlet you're using is active, and the game works.",
+    "Test a game and make sure that the picture is clear on your TV and the game is visible.",
+    "This confirms that your NES is fine.",
+    "Put the corrupt game into the NES and push \"Power\".",
+    "You may see a flash, but no color.",
+    "This is good, as it means there may be life still in your game.",
+    "Push down on the game to eject it while the console is on, put it back in and push power twice, then push reset many times, then the power button many times.",
+    "Un-plug the NES and plug it back in with the NES power off.",
+    "Then use a Q-tip and clean the contact points on the game cart (Do not blow into the system or game cart, this causes corrosion among with the fact it dose not do anything).",
+    "Repeat the steps until you see some mush of pixels appear or just sound.",
+    "This shocks the game's internal circuit and \"awakens\" it.",
+    "Put the working game in.",
+    "If nothing happens after several tries, make sure everything is still okay.",
+    "Alternate between the two games once you see pixel mush or you hear sounds.",
+    "This makes the NES system read any game, despite of its status.",
+    "Repeat steps until the game clears up: reset, power, clean cart, plug in, and power."
+  ],
+  "tyn_section":[
+    "Working NES",
+    "Working Game (optional but might help)",
+    "Dead Game"
+  ],
+  "tyn_model":[
+    "nes",
+    "game cart",
+    "console"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.6666666667,
+    "f1":0.6666666667
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "title":"How to Play Five Stones",
+  "url":"https://www.wikihow.com/Play-Five-Stones",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games"
+  ],
+  "steps":[
+    {
+      "headline":"Know the goal.",
+      "description":"To get through all the moves without dropping any stones. If you drop the stones or end up with no stones in your hand after your throw is complete, your turn is over."
+    },
+    {
+      "headline":"Throw all the stones.",
+      "description":"Throw all five stones into the air with one hand and catch as many as you can on the back of the same hand. Then throw up all the stones that are on back of your hand and try to catch them again in the palm of the same hand. If you end up with no stones in your hand and all of them on the ground, your turn is over. If you managed to catch at least one stone, you can continue playing."
+    },
+    {
+      "headline":"Throw one stone, and pick up one.",
+      "description":"Keep one of the stones in your hand and scatter all the others on the ground. Throw the stone in your hand in the air and quickly pick up one of the stones from the ground. Catch the stone in the air before it falls to the ground. Do this for each of the stones on the ground until you have the full handful."
+    },
+    {
+      "headline":"Throw one stone, and pick up two.",
+      "description":"Repeat the process, but this time pick up two stones before catching the tossed stone. On the second throw, pick up the two remaining stones."
+    },
+    {
+      "headline":"Throw one stone, and pick up three.",
+      "description":"Repeat it again, picking up three stones and then one stone."
+    },
+    {
+      "headline":"Throw one stone, and pick up four.",
+      "description":"Finally, pick up all four stones before catching the tossed stone."
+    }
+  ],
+  "text":" Know the goal. To get through all the moves without dropping any stones. If you drop the stones or end up with no stones in your hand after your throw is complete, your turn is over. Throw all the stones. Throw all five stones into the air with one hand and catch as many as you can on the back of the same hand. Then throw up all the stones that are on back of your hand and try to catch them again in the palm of the same hand. If you end up with no stones in your hand and all of them on the ground, your turn is over. If you managed to catch at least one stone, you can continue playing. Throw one stone, and pick up one. Keep one of the stones in your hand and scatter all the others on the ground. Throw the stone in your hand in the air and quickly pick up one of the stones from the ground. Catch the stone in the air before it falls to the ground. Do this for each of the stones on the ground until you have the full handful. Throw one stone, and pick up two. Repeat the process, but this time pick up two stones before catching the tossed stone. On the second throw, pick up the two remaining stones. Throw one stone, and pick up three. Repeat it again, picking up three stones and then one stone. Throw one stone, and pick up four. Finally, pick up all four stones before catching the tossed stone.",
+  "sentences":[
+    " Know the goal.",
+    "To get through all the moves without dropping any stones.",
+    "If you drop the stones or end up with no stones in your hand after your throw is complete, your turn is over.",
+    "Throw all the stones.",
+    "Throw all five stones into the air with one hand and catch as many as you can on the back of the same hand.",
+    "Then throw up all the stones that are on back of your hand and try to catch them again in the palm of the same hand.",
+    "If you end up with no stones in your hand and all of them on the ground, your turn is over.",
+    "If you managed to catch at least one stone, you can continue playing.",
+    "Throw one stone, and pick up one.",
+    "Keep one of the stones in your hand and scatter all the others on the ground.",
+    "Throw the stone in your hand in the air and quickly pick up one of the stones from the ground.",
+    "Catch the stone in the air before it falls to the ground.",
+    "Do this for each of the stones on the ground until you have the full handful.",
+    "Throw one stone, and pick up two.",
+    "Repeat the process, but this time pick up two stones before catching the tossed stone.",
+    "On the second throw, pick up the two remaining stones.",
+    "Throw one stone, and pick up three.",
+    "Repeat it again, picking up three stones and then one stone.",
+    "Throw one stone, and pick up four.",
+    "Finally, pick up all four stones before catching the tossed stone."
+  ],
+  "tyn_section":[
+    "5 stones or small objects"
+  ],
+  "tyn_model":[
+    "stones",
+    "stone"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

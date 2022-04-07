@@ -1,0 +1,226 @@
+{
+  "title":"How to Test a Refrigerator PTC Relay",
+  "url":"https://www.wikihow.com/Test-a-Refrigerator-PTC-Relay",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Home Repairs"
+  ],
+  "methods":[
+    {
+      "name":"Accessing the Relay",
+      "steps":[
+        {
+          "headline":"Unplug your fridge.",
+          "description":"Pull your refrigerator away from the wall carefully so you can access the power cable. If you can\u2019t move the fridge on your own, ask someone to help you pull it out. Once you can get behind your fridge, unplug it from the outlet so it doesn\u2019t have any power running through it. Your food will stay safe in your fridge for up to 4 hours and in your freezer for 24-48 hours while it\u2019s disconnected from power. Avoid opening the doors to prevent it from heating up faster. If you expect your repairs to take longer than 4 hours, move your food to a different fridge or into an insulated cooler. If your fridge hasn\u2019t been working and you don\u2019t know how long it\u2019s been, throw away perishable foods since they may be at an unsafe temperature."
+        },
+        {
+          "headline":"Remove the lower back panel from your fridge to access the relay.",
+          "description":"Look for the small access panel on the back of your fridge near the bottom. Use a screwdriver to take off the screws holding the panel in place and set them in a bowl so you don\u2019t lose them. Set the back panel aside while you\u2019re working so it\u2019s out of the way. You do not have to remove the entire back of your fridge."
+        },
+        {
+          "headline":"Take the plastic cover off of the relay if it has one.",
+          "description":"Look for the compressor inside your fridge, which will be a large black cylinder on either side of the machine. Locate the area on the side of the compressor that has a black plastic box on the side with wires coming out from it. Grab the top of the plastic cover and carefully pull it off of the compressor to expose the relay inside. Sometimes, you may need to use a screwdriver to pry tabs open on the plastic cover to remove it from place. Your fridge may not have a plastic cover over the relay."
+        },
+        {
+          "headline":"Disconnect the wires from the relay.",
+          "description":"The PTC relay will look like a small black box attached to the side of your compressor with 2-3 wires running to it. Grip the ends of the wires with a pair of needle-nose pliers and carefully pull them off the prongs of the relay. Disconnect each wire from place so you\u2019re able to remove the relay. There may be a wire that\u2019s attached to a screw on the relay. If so, loosen the screw with a screwdriver before pulling the wire out of place.Tip: Take a picture of the relay before you detach the wires so you remember how to put them back on later."
+        },
+        {
+          "headline":"Remove the relay by pulling it off of the prongs.",
+          "description":"Grab the relay on the side you just took the wires off of and carefully pull it out from the prongs on the compressor. The relay should easily slide off of the prongs and disconnect from the compressor so you can test it. If you aren\u2019t able to pull the relay easily, place a screwdriver between it and the compressor and push it off of the prongs. Be careful not to pull the relay so it bends or breaks the prongs on the compressor."
+        }
+      ]
+    },
+    {
+      "name":"Checking the Relay with a Multimeter",
+      "steps":[
+        {
+          "headline":"Look for burnt marks around the ports on the relay to see if it\u2019s shorted.",
+          "description":"Inspect the relay to see if it has any charred markings around the ports where it plugged into the compressor. If you see any burnt parts on the relay, then it most likely shorted and needs to be replaced. If the relay is still intact, then continue testing it as normal. You may also be able to smell char on the relay if it\u2019s burnt or shorted."
+        },
+        {
+          "headline":"Set up your multimeter to read resistance.",
+          "description":"Set your multimeter to read resistance in ohms (\u03a9) so you can easily test the PTC relay. Plug the end of the red probe into the positive (+) terminal and the black probe into the negative (-) terminal on the bottom of the multimeter so you can use them. You can buy a multimeter from a hardware store or online."
+        },
+        {
+          "headline":"Put the probes in the M and S slots on the relay to check for open resistance.",
+          "description":"Locate the ports on the side of your PTC relay that have the letters M and S above them, which are usually the ports that connect to the compressor. Put one of the probes into each slot on the relay at the same time and check the reading on your multimeter. It does not matter which probe you put into which port. The reading should read \u201cOL,\u201d which stands for \u201copen line,\u201d meaning there is an infinite level of resistance between the 2 ports. If the reading doesn\u2019t say \u201cOL\u201d, it will most read 0-1 ohms, which just means the relay is upside-down."
+        },
+        {
+          "headline":"Flip the relay upside-down to see if the resistance changes to 0-1 ohms.",
+          "description":"Keep the probes inside of the same ports while you turn the relay over to the opposite side. Check the multimeter to see if the reading changes from \u201cOL.\u201d If the meter has a reading between 0-1 \u03a9, then the relay is still working. If the reading doesn\u2019t change or it\u2019s above 1 \u03a9, then it may be time to get a replacement. The PTC relay has a small metal piece inside that moves when there\u2019s an electrical current running through it. When the metal piece comes into contact with the ports, it closes the line and creates 0 \u03a9 of resistance. If the relay has correct readings, then you should check the compressor next to see if it\u2019s causing the problem.Tip: Use a toothbrush to clean any dust from around the ports if the reading didn\u2019t change, and then take another reading. It\u2019s possible that the PTC relay got dirty and it\u2019s affecting the resistance measurement."
+        },
+        {
+          "headline":"Order a replacement relay if the resistance doesn't read OL or 0-1 ohms.",
+          "description":"If your reading was over 1 \u03a9, then the relay may not be working properly and you\u2019ll have to replace it. Look for the model number listed on the side of the relay and buy an exact match for your refrigerator. Once you get the new relay, plug it into the prongs on the compressor. Reattach the wires onto the matching ports of the relay so it can turn on your compressor again. Plug the refrigerator back in to make sure the new relay works before screwing on the back panel. You can buy replacement PTC relays from appliance specialty stores or online. They usually cost anywhere between $20-80 USD. If you can\u2019t find the model number on the PTC relay, then search for the refrigerator model you have so you can buy a piece that fits inside. Try testing the compressor before getting a new PTC relay to make sure it\u2019s not the cause of the problem."
+        }
+      ]
+    },
+    {
+      "name":"Testing the Compressor",
+      "steps":[
+        {
+          "headline":"Put the probes of a multimeter on the left and right prongs of the compressor.",
+          "description":"Locate the 3 prongs that the PTC relay plugs into on the side of your compressor. Put one probe on the prong that\u2019s furthest to the left and the other probe on the prong on the right to take a resistance reading. Write down the measurement so you don\u2019t forget it. The prongs will be shaped like a triangle that\u2019s right-side up or upside-down. Use the prongs that are horizontally across from one another for the first measurement. The resistance between the 2 prongs will vary depending on the fridge model and compressor."
+        },
+        {
+          "headline":"Measure the resistance between the leftmost and the third prong.",
+          "description":"Continue holding one of the probes against the leftmost prong on the compressor. Move the other probe to the third pin, which will either be on the top or bottom depending on how the prongs are laid out. Write down the resistance measurement you take between the 2 prongs. If the prongs are configured in an upside-down triangle, then the third prong will be on the bottom. If they form a right-side up triangle, then the third prong will be on the top. Hold the probes on the prongs for at least 5-10 seconds or until the resistance settles on a single reading."
+        },
+        {
+          "headline":"Find the measurement from the rightmost and third prongs.",
+          "description":"Keep the probe on the third prong and move the other probe so it\u2019s on the rightmost one. Keep the probes on the multimeter for at least 5 seconds so you can get an accurate reading. Check the multimeter to find the resistance measurement and write it down so you don\u2019t forget it."
+        },
+        {
+          "headline":"Add the lowest 2 readings to see if they\u2019re within 0.5 \u03a9 of the largest reading.",
+          "description":"Take the smallest 2 resistance readings from the compressor and add them together to find the total. Compare the sum of the 2 readings to the highest resistance measurement you took to see how close they are. If the sum of the 2 readings is within 0.5 \u03a9 of the highest reading you took, then the compressor is okay. If the readings are higher or lower than the threshold, then you need to call someone to repair or replace the compressor for you. Compressors can be expensive to fix, so you may want to buy a new refrigerator instead. If the compressor still works, then there may be a problem with the internal fan. Contact a repair person to take a look at your fridge to further diagnose the problem."
+        }
+      ]
+    }
+  ],
+  "text":" Accessing the Relay Unplug your fridge. Pull your refrigerator away from the wall carefully so you can access the power cable. If you can\u2019t move the fridge on your own, ask someone to help you pull it out. Once you can get behind your fridge, unplug it from the outlet so it doesn\u2019t have any power running through it. Your food will stay safe in your fridge for up to 4 hours and in your freezer for 24-48 hours while it\u2019s disconnected from power. Avoid opening the doors to prevent it from heating up faster. If you expect your repairs to take longer than 4 hours, move your food to a different fridge or into an insulated cooler. If your fridge hasn\u2019t been working and you don\u2019t know how long it\u2019s been, throw away perishable foods since they may be at an unsafe temperature. Remove the lower back panel from your fridge to access the relay. Look for the small access panel on the back of your fridge near the bottom. Use a screwdriver to take off the screws holding the panel in place and set them in a bowl so you don\u2019t lose them. Set the back panel aside while you\u2019re working so it\u2019s out of the way. You do not have to remove the entire back of your fridge. Take the plastic cover off of the relay if it has one. Look for the compressor inside your fridge, which will be a large black cylinder on either side of the machine. Locate the area on the side of the compressor that has a black plastic box on the side with wires coming out from it. Grab the top of the plastic cover and carefully pull it off of the compressor to expose the relay inside. Sometimes, you may need to use a screwdriver to pry tabs open on the plastic cover to remove it from place. Your fridge may not have a plastic cover over the relay. Disconnect the wires from the relay. The PTC relay will look like a small black box attached to the side of your compressor with 2-3 wires running to it. Grip the ends of the wires with a pair of needle-nose pliers and carefully pull them off the prongs of the relay. Disconnect each wire from place so you\u2019re able to remove the relay. There may be a wire that\u2019s attached to a screw on the relay. If so, loosen the screw with a screwdriver before pulling the wire out of place.Tip: Take a picture of the relay before you detach the wires so you remember how to put them back on later. Remove the relay by pulling it off of the prongs. Grab the relay on the side you just took the wires off of and carefully pull it out from the prongs on the compressor. The relay should easily slide off of the prongs and disconnect from the compressor so you can test it. If you aren\u2019t able to pull the relay easily, place a screwdriver between it and the compressor and push it off of the prongs. Be careful not to pull the relay so it bends or breaks the prongs on the compressor. Checking the Relay with a Multimeter Look for burnt marks around the ports on the relay to see if it\u2019s shorted. Inspect the relay to see if it has any charred markings around the ports where it plugged into the compressor. If you see any burnt parts on the relay, then it most likely shorted and needs to be replaced. If the relay is still intact, then continue testing it as normal. You may also be able to smell char on the relay if it\u2019s burnt or shorted. Set up your multimeter to read resistance. Set your multimeter to read resistance in ohms (\u03a9) so you can easily test the PTC relay. Plug the end of the red probe into the positive (+) terminal and the black probe into the negative (-) terminal on the bottom of the multimeter so you can use them. You can buy a multimeter from a hardware store or online. Put the probes in the M and S slots on the relay to check for open resistance. Locate the ports on the side of your PTC relay that have the letters M and S above them, which are usually the ports that connect to the compressor. Put one of the probes into each slot on the relay at the same time and check the reading on your multimeter. It does not matter which probe you put into which port. The reading should read \u201cOL,\u201d which stands for \u201copen line,\u201d meaning there is an infinite level of resistance between the 2 ports. If the reading doesn\u2019t say \u201cOL\u201d, it will most read 0-1 ohms, which just means the relay is upside-down. Flip the relay upside-down to see if the resistance changes to 0-1 ohms. Keep the probes inside of the same ports while you turn the relay over to the opposite side. Check the multimeter to see if the reading changes from \u201cOL.\u201d If the meter has a reading between 0-1 \u03a9, then the relay is still working. If the reading doesn\u2019t change or it\u2019s above 1 \u03a9, then it may be time to get a replacement. The PTC relay has a small metal piece inside that moves when there\u2019s an electrical current running through it. When the metal piece comes into contact with the ports, it closes the line and creates 0 \u03a9 of resistance. If the relay has correct readings, then you should check the compressor next to see if it\u2019s causing the problem.Tip: Use a toothbrush to clean any dust from around the ports if the reading didn\u2019t change, and then take another reading. It\u2019s possible that the PTC relay got dirty and it\u2019s affecting the resistance measurement. Order a replacement relay if the resistance doesn't read OL or 0-1 ohms. If your reading was over 1 \u03a9, then the relay may not be working properly and you\u2019ll have to replace it. Look for the model number listed on the side of the relay and buy an exact match for your refrigerator. Once you get the new relay, plug it into the prongs on the compressor. Reattach the wires onto the matching ports of the relay so it can turn on your compressor again. Plug the refrigerator back in to make sure the new relay works before screwing on the back panel. You can buy replacement PTC relays from appliance specialty stores or online. They usually cost anywhere between $20-80 USD. If you can\u2019t find the model number on the PTC relay, then search for the refrigerator model you have so you can buy a piece that fits inside. Try testing the compressor before getting a new PTC relay to make sure it\u2019s not the cause of the problem. Testing the Compressor Put the probes of a multimeter on the left and right prongs of the compressor. Locate the 3 prongs that the PTC relay plugs into on the side of your compressor. Put one probe on the prong that\u2019s furthest to the left and the other probe on the prong on the right to take a resistance reading. Write down the measurement so you don\u2019t forget it. The prongs will be shaped like a triangle that\u2019s right-side up or upside-down. Use the prongs that are horizontally across from one another for the first measurement. The resistance between the 2 prongs will vary depending on the fridge model and compressor. Measure the resistance between the leftmost and the third prong. Continue holding one of the probes against the leftmost prong on the compressor. Move the other probe to the third pin, which will either be on the top or bottom depending on how the prongs are laid out. Write down the resistance measurement you take between the 2 prongs. If the prongs are configured in an upside-down triangle, then the third prong will be on the bottom. If they form a right-side up triangle, then the third prong will be on the top. Hold the probes on the prongs for at least 5-10 seconds or until the resistance settles on a single reading. Find the measurement from the rightmost and third prongs. Keep the probe on the third prong and move the other probe so it\u2019s on the rightmost one. Keep the probes on the multimeter for at least 5 seconds so you can get an accurate reading. Check the multimeter to find the resistance measurement and write it down so you don\u2019t forget it. Add the lowest 2 readings to see if they\u2019re within 0.5 \u03a9 of the largest reading. Take the smallest 2 resistance readings from the compressor and add them together to find the total. Compare the sum of the 2 readings to the highest resistance measurement you took to see how close they are. If the sum of the 2 readings is within 0.5 \u03a9 of the highest reading you took, then the compressor is okay. If the readings are higher or lower than the threshold, then you need to call someone to repair or replace the compressor for you. Compressors can be expensive to fix, so you may want to buy a new refrigerator instead. If the compressor still works, then there may be a problem with the internal fan. Contact a repair person to take a look at your fridge to further diagnose the problem.",
+  "sentences":[
+    " Accessing the Relay Unplug your fridge.",
+    "Pull your refrigerator away from the wall carefully so you can access the power cable.",
+    "If you can\u2019t move the fridge on your own, ask someone to help you pull it out.",
+    "Once you can get behind your fridge, unplug it from the outlet so it doesn\u2019t have any power running through it.",
+    "Your food will stay safe in your fridge for up to 4 hours and in your freezer for 24-48 hours while it\u2019s disconnected from power.",
+    "Avoid opening the doors to prevent it from heating up faster.",
+    "If you expect your repairs to take longer than 4 hours, move your food to a different fridge or into an insulated cooler.",
+    "If your fridge hasn\u2019t been working and you don\u2019t know how long it\u2019s been, throw away perishable foods since they may be at an unsafe temperature.",
+    "Remove the lower back panel from your fridge to access the relay.",
+    "Look for the small access panel on the back of your fridge near the bottom.",
+    "Use a screwdriver to take off the screws holding the panel in place and set them in a bowl so you don\u2019t lose them.",
+    "Set the back panel aside while you\u2019re working so it\u2019s out of the way.",
+    "You do not have to remove the entire back of your fridge.",
+    "Take the plastic cover off of the relay if it has one.",
+    "Look for the compressor inside your fridge, which will be a large black cylinder on either side of the machine.",
+    "Locate the area on the side of the compressor that has a black plastic box on the side with wires coming out from it.",
+    "Grab the top of the plastic cover and carefully pull it off of the compressor to expose the relay inside.",
+    "Sometimes, you may need to use a screwdriver to pry tabs open on the plastic cover to remove it from place.",
+    "Your fridge may not have a plastic cover over the relay.",
+    "Disconnect the wires from the relay.",
+    "The PTC relay will look like a small black box attached to the side of your compressor with 2-3 wires running to it.",
+    "Grip the ends of the wires with a pair of needle-nose pliers and carefully pull them off the prongs of the relay.",
+    "Disconnect each wire from place so you\u2019re able to remove the relay.",
+    "There may be a wire that\u2019s attached to a screw on the relay.",
+    "If so, loosen the screw with a screwdriver before pulling the wire out of place.Tip: Take a picture of the relay before you detach the wires so you remember how to put them back on later.",
+    "Remove the relay by pulling it off of the prongs.",
+    "Grab the relay on the side you just took the wires off of and carefully pull it out from the prongs on the compressor.",
+    "The relay should easily slide off of the prongs and disconnect from the compressor so you can test it.",
+    "If you aren\u2019t able to pull the relay easily, place a screwdriver between it and the compressor and push it off of the prongs.",
+    "Be careful not to pull the relay so it bends or breaks the prongs on the compressor.",
+    "Checking the Relay with a Multimeter Look for burnt marks around the ports on the relay to see if it\u2019s shorted.",
+    "Inspect the relay to see if it has any charred markings around the ports where it plugged into the compressor.",
+    "If you see any burnt parts on the relay, then it most likely shorted and needs to be replaced.",
+    "If the relay is still intact, then continue testing it as normal.",
+    "You may also be able to smell char on the relay if it\u2019s burnt or shorted.",
+    "Set up your multimeter to read resistance.",
+    "Set your multimeter to read resistance in ohms (\u03a9) so you can easily test the PTC relay.",
+    "Plug the end of the red probe into the positive (+) terminal and the black probe into the negative (-) terminal on the bottom of the multimeter so you can use them.",
+    "You can buy a multimeter from a hardware store or online.",
+    "Put the probes in the M and S slots on the relay to check for open resistance.",
+    "Locate the ports on the side of your PTC relay that have the letters M and S above them, which are usually the ports that connect to the compressor.",
+    "Put one of the probes into each slot on the relay at the same time and check the reading on your multimeter.",
+    "It does not matter which probe you put into which port.",
+    "The reading should read \u201cOL,\u201d which stands for \u201copen line,\u201d meaning there is an infinite level of resistance between the 2 ports.",
+    "If the reading doesn\u2019t say \u201cOL\u201d, it will most read 0-1 ohms, which just means the relay is upside-down.",
+    "Flip the relay upside-down to see if the resistance changes to 0-1 ohms.",
+    "Keep the probes inside of the same ports while you turn the relay over to the opposite side.",
+    "Check the multimeter to see if the reading changes from \u201cOL.\u201d If the meter has a reading between 0-1 \u03a9, then the relay is still working.",
+    "If the reading doesn\u2019t change or it\u2019s above 1 \u03a9, then it may be time to get a replacement.",
+    "The PTC relay has a small metal piece inside that moves when there\u2019s an electrical current running through it.",
+    "When the metal piece comes into contact with the ports, it closes the line and creates 0 \u03a9 of resistance.",
+    "If the relay has correct readings, then you should check the compressor next to see if it\u2019s causing the problem.Tip: Use a toothbrush to clean any dust from around the ports if the reading didn\u2019t change, and then take another reading.",
+    "It\u2019s possible that the PTC relay got dirty and it\u2019s affecting the resistance measurement.",
+    "Order a replacement relay if the resistance doesn't read OL or 0-1 ohms.",
+    "If your reading was over 1 \u03a9, then the relay may not be working properly and you\u2019ll have to replace it.",
+    "Look for the model number listed on the side of the relay and buy an exact match for your refrigerator.",
+    "Once you get the new relay, plug it into the prongs on the compressor.",
+    "Reattach the wires onto the matching ports of the relay so it can turn on your compressor again.",
+    "Plug the refrigerator back in to make sure the new relay works before screwing on the back panel.",
+    "You can buy replacement PTC relays from appliance specialty stores or online.",
+    "They usually cost anywhere between $20-80 USD.",
+    "If you can\u2019t find the model number on the PTC relay, then search for the refrigerator model you have so you can buy a piece that fits inside.",
+    "Try testing the compressor before getting a new PTC relay to make sure it\u2019s not the cause of the problem.",
+    "Testing the Compressor Put the probes of a multimeter on the left and right prongs of the compressor.",
+    "Locate the 3 prongs that the PTC relay plugs into on the side of your compressor.",
+    "Put one probe on the prong that\u2019s furthest to the left and the other probe on the prong on the right to take a resistance reading.",
+    "Write down the measurement so you don\u2019t forget it.",
+    "The prongs will be shaped like a triangle that\u2019s right-side up or upside-down.",
+    "Use the prongs that are horizontally across from one another for the first measurement.",
+    "The resistance between the 2 prongs will vary depending on the fridge model and compressor.",
+    "Measure the resistance between the leftmost and the third prong.",
+    "Continue holding one of the probes against the leftmost prong on the compressor.",
+    "Move the other probe to the third pin, which will either be on the top or bottom depending on how the prongs are laid out.",
+    "Write down the resistance measurement you take between the 2 prongs.",
+    "If the prongs are configured in an upside-down triangle, then the third prong will be on the bottom.",
+    "If they form a right-side up triangle, then the third prong will be on the top.",
+    "Hold the probes on the prongs for at least 5-10 seconds or until the resistance settles on a single reading.",
+    "Find the measurement from the rightmost and third prongs.",
+    "Keep the probe on the third prong and move the other probe so it\u2019s on the rightmost one.",
+    "Keep the probes on the multimeter for at least 5 seconds so you can get an accurate reading.",
+    "Check the multimeter to find the resistance measurement and write it down so you don\u2019t forget it.",
+    "Add the lowest 2 readings to see if they\u2019re within 0.5 \u03a9 of the largest reading.",
+    "Take the smallest 2 resistance readings from the compressor and add them together to find the total.",
+    "Compare the sum of the 2 readings to the highest resistance measurement you took to see how close they are.",
+    "If the sum of the 2 readings is within 0.5 \u03a9 of the highest reading you took, then the compressor is okay.",
+    "If the readings are higher or lower than the threshold, then you need to call someone to repair or replace the compressor for you.",
+    "Compressors can be expensive to fix, so you may want to buy a new refrigerator instead.",
+    "If the compressor still works, then there may be a problem with the internal fan.",
+    "Contact a repair person to take a look at your fridge to further diagnose the problem."
+  ],
+  "tyn_section":[
+    "Screwdriver",
+    "Needle-nose pliers",
+    "Multimeter"
+  ],
+  "tyn_model":[
+    "compressor",
+    "fridge",
+    "multimeter",
+    "relay",
+    "probes",
+    "refrigerator",
+    "screwdriver",
+    "probe",
+    "ptc relay",
+    "\u201col",
+    "\u03c9,",
+    "\u03c9 of",
+    "freezer",
+    "bowl",
+    "needle-nose pliers",
+    "\u03c9)",
+    "\u201d which",
+    "\u201copen",
+    "\u201d meaning",
+    "\u201d,",
+    "\u201d if",
+    "meter",
+    "toothbrush",
+    "compressors"
+  ],
+  "simple_metrics":{
+    "r":1.0,
+    "p":0.125,
+    "f1":0.2222222222,
+    "avg_pos":0.25
+  },
+  "jacc_metrics_0.5":{
+    "r":1.0,
+    "p":0.125,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.125,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":1.0,
+    "p":0.125,
+    "f1":0.2222222222
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "title":"How to Make \"Georgia Ice Cream\"",
+  "url":"https://www.wikihow.com/Make-%22Georgia-Ice-Cream%22",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Breakfast"
+  ],
+  "steps":[
+    {
+      "headline":"Get a pot with a lid that is large enough to hold the water plus room for the grits.",
+      "description":"The grits doesn't take up much space. The amount of water determines how runny your grits will be. For \"Georgia Ice Cream\", we want it to be a bit soupy, the consistency of soft ice cream."
+    },
+    {
+      "headline":"Add the water to the pot and put it on the stove.",
+      "description":"Turn the heat all the way up to get the water boiling as fast as you can."
+    },
+    {
+      "headline":"Add a little salt to the water.",
+      "description":"Use your judgment. The salt causes the water to boil at a higher temperature, as well as stratifying your personal taste."
+    },
+    {
+      "headline":"Add sugar or sweetener to suit your taste.",
+      "description":"If serving to several people with different sweetener preference, stir in the sweetener when served."
+    },
+    {
+      "headline":"Add butter to your heart's content.",
+      "description":"The butter gives it a creamy flavor. Adding it to the water at this time will permit it to inundate the grits and keep it from getting lumpy."
+    },
+    {
+      "headline":"Cover the pot.",
+      "description":""
+    },
+    {
+      "headline":"As soon as the water comes to a full boil, add the grits and stir like crazy.",
+      "description":"The grits try to pop out of the pot. Use a long handled spoon."
+    },
+    {
+      "headline":"Reduce the heat to a low setting.",
+      "description":"For a gas stove, wait about 30 seconds and put it on medium to low."
+    },
+    {
+      "headline":"Let the grits boil for about a minute while stirring then cover and let simmer.",
+      "description":""
+    },
+    {
+      "headline":"Continue to stir occasionally.The grits should remain on the heat until they are tender.",
+      "description":"This depends on the type of grits (Quick, 5-Minute, or the real thing)."
+    },
+    {
+      "headline":"Serve in a bowl with more butter on top.",
+      "description":""
+    }
+  ],
+  "text":" Get a pot with a lid that is large enough to hold the water plus room for the grits. The grits doesn't take up much space. The amount of water determines how runny your grits will be. For \"Georgia Ice Cream\", we want it to be a bit soupy, the consistency of soft ice cream. Add the water to the pot and put it on the stove. Turn the heat all the way up to get the water boiling as fast as you can. Add a little salt to the water. Use your judgment. The salt causes the water to boil at a higher temperature, as well as stratifying your personal taste. Add sugar or sweetener to suit your taste. If serving to several people with different sweetener preference, stir in the sweetener when served. Add butter to your heart's content. The butter gives it a creamy flavor. Adding it to the water at this time will permit it to inundate the grits and keep it from getting lumpy. Cover the pot.  As soon as the water comes to a full boil, add the grits and stir like crazy. The grits try to pop out of the pot. Use a long handled spoon. Reduce the heat to a low setting. For a gas stove, wait about 30 seconds and put it on medium to low. Let the grits boil for about a minute while stirring then cover and let simmer.  Continue to stir occasionally.The grits should remain on the heat until they are tender. This depends on the type of grits (Quick, 5-Minute, or the real thing). Serve in a bowl with more butter on top. ",
+  "sentences":[
+    " Get a pot with a lid that is large enough to hold the water plus room for the grits.",
+    "The grits doesn't take up much space.",
+    "The amount of water determines how runny your grits will be.",
+    "For \"Georgia Ice Cream\", we want it to be a bit soupy, the consistency of soft ice cream.",
+    "Add the water to the pot and put it on the stove.",
+    "Turn the heat all the way up to get the water boiling as fast as you can.",
+    "Add a little salt to the water.",
+    "Use your judgment.",
+    "The salt causes the water to boil at a higher temperature, as well as stratifying your personal taste.",
+    "Add sugar or sweetener to suit your taste.",
+    "If serving to several people with different sweetener preference, stir in the sweetener when served.",
+    "Add butter to your heart's content.",
+    "The butter gives it a creamy flavor.",
+    "Adding it to the water at this time will permit it to inundate the grits and keep it from getting lumpy.",
+    "Cover the pot.",
+    "As soon as the water comes to a full boil, add the grits and stir like crazy.",
+    "The grits try to pop out of the pot.",
+    "Use a long handled spoon.",
+    "Reduce the heat to a low setting.",
+    "For a gas stove, wait about 30 seconds and put it on medium to low.",
+    "Let the grits boil for about a minute while stirring then cover and let simmer.",
+    "Continue to stir occasionally.The grits should remain on the heat until they are tender.",
+    "This depends on the type of grits (Quick, 5-Minute, or the real thing).",
+    "Serve in a bowl with more butter on top."
+  ],
+  "tyn_section":[
+    "Cooking pot",
+    "Long handled spoon"
+  ],
+  "tyn_model":[
+    "water",
+    "pot",
+    "butter",
+    "salt",
+    "sweetener",
+    "ice cream",
+    "stove",
+    "sugar",
+    "spoon",
+    "gas stove",
+    "bowl"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.0909090909,
+    "f1":0.1538461538
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.1818181818,
+    "f1":0.3076923077
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

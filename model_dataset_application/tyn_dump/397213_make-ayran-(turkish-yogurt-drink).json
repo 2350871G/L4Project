@@ -1,0 +1,78 @@
+{
+  "title":"How to Make Ayran (Turkish Yogurt Drink)",
+  "url":"https://www.wikihow.com/Make-Ayran-(Turkish-Yogurt-Drink)",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Smoothies Shakes and Milk"
+  ],
+  "steps":[
+    {
+      "headline":"Add yogurt and water to a blender.",
+      "description":""
+    },
+    {
+      "headline":"Add ice cubes and salt.",
+      "description":""
+    },
+    {
+      "headline":"Add the Garlic bulbs.",
+      "description":""
+    },
+    {
+      "headline":"Add a bit of fresh mint, optional.",
+      "description":""
+    },
+    {
+      "headline":"Blend until well mixed.",
+      "description":""
+    },
+    {
+      "headline":"Serve.",
+      "description":""
+    }
+  ],
+  "text":" Add yogurt and water to a blender.  Add ice cubes and salt.  Add the Garlic bulbs.  Add a bit of fresh mint, optional.  Blend until well mixed.  Serve. ",
+  "sentences":[
+    " Add yogurt and water to a blender.",
+    "Add ice cubes and salt.",
+    "Add the Garlic bulbs.",
+    "Add a bit of fresh mint, optional.",
+    "Blend until well mixed.",
+    "Serve."
+  ],
+  "tyn_section":[
+    "Measuring cups",
+    "Blender"
+  ],
+  "tyn_model":[
+    "yogurt",
+    "water",
+    "blender",
+    "ice cubes",
+    "salt",
+    "garlic",
+    "fresh mint"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1428571429,
+    "f1":0.2222222222
+  }
+}

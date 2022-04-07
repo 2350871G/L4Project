@@ -1,0 +1,69 @@
+{
+  "title":"How to Store Feta Cheese",
+  "url":"https://www.wikihow.com/Store-Feta-Cheese",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Selection and Storage"
+  ],
+  "steps":[
+    {
+      "headline":"Put the feta cheese into a sealed container.",
+      "description":"Pour in any accompanying liquid (brine) and top up with more brine if needed. Place the lid on firmly."
+    },
+    {
+      "headline":"Place in the refrigerator for cool storage.",
+      "description":""
+    },
+    {
+      "headline":"Consume within 3\u20134 days of purchase.",
+      "description":"Feta cheese is supposed to be eaten fresh, within a few days of purchase."
+    },
+    {
+      "headline":"Cover with olive oil for longer lasting cheese.",
+      "description":"This can also be flavoured with fresh herbs, spices, peppercorns, etc."
+    }
+  ],
+  "text":" Put the feta cheese into a sealed container. Pour in any accompanying liquid (brine) and top up with more brine if needed. Place the lid on firmly. Place in the refrigerator for cool storage.  Consume within 3\u20134 days of purchase. Feta cheese is supposed to be eaten fresh, within a few days of purchase. Cover with olive oil for longer lasting cheese. This can also be flavoured with fresh herbs, spices, peppercorns, etc.",
+  "sentences":[
+    " Put the feta cheese into a sealed container.",
+    "Pour in any accompanying liquid (brine) and top up with more brine if needed.",
+    "Place the lid on firmly.",
+    "Place in the refrigerator for cool storage.",
+    "Consume within 3\u20134 days of purchase.",
+    "Feta cheese is supposed to be eaten fresh, within a few days of purchase.",
+    "Cover with olive oil for longer lasting cheese.",
+    "This can also be flavoured with fresh herbs, spices, peppercorns, etc."
+  ],
+  "tyn_section":[
+    "Sealed container",
+    "Brine",
+    "Olive oil (optional), plus flavourings"
+  ],
+  "tyn_model":[
+    "feta cheese",
+    "refrigerator",
+    "olive oil"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.3333333333,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

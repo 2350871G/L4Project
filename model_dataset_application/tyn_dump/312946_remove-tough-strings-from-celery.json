@@ -1,0 +1,62 @@
+{
+  "title":"How to Remove Tough Strings from Celery",
+  "url":"https://www.wikihow.com/Remove-Tough-Strings-from-Celery",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Food Cutting Techniques"
+  ],
+  "steps":[
+    {
+      "headline":"Make a small cut at the base of the stalk.",
+      "description":"This cut should be about 3cm/1.1\" in length."
+    },
+    {
+      "headline":"Use a sharp knife to pull the strings down towards the cut.",
+      "description":"When the strings reach the cut, the will lift automatically."
+    },
+    {
+      "headline":"Try an alternative method.",
+      "description":"If preferred, you can use a vegetable peeler and lightly peel off the strings."
+    }
+  ],
+  "text":" Make a small cut at the base of the stalk. This cut should be about 3cm/1.1\" in length. Use a sharp knife to pull the strings down towards the cut. When the strings reach the cut, the will lift automatically. Try an alternative method. If preferred, you can use a vegetable peeler and lightly peel off the strings.",
+  "sentences":[
+    " Make a small cut at the base of the stalk.",
+    "This cut should be about 3cm/1.1\" in length.",
+    "Use a sharp knife to pull the strings down towards the cut.",
+    "When the strings reach the cut, the will lift automatically.",
+    "Try an alternative method.",
+    "If preferred, you can use a vegetable peeler and lightly peel off the strings."
+  ],
+  "tyn_section":[
+    "Knife",
+    "Cutting board",
+    "Vegetable peeler (alternative method)"
+  ],
+  "tyn_model":[
+    "sharp knife",
+    "vegetable peeler"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":1.0,
+    "f1":0.8
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":1.0,
+    "f1":0.8
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

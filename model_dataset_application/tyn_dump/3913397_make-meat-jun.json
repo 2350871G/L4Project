@@ -1,0 +1,115 @@
+{
+  "title":"How to Make Meat Jun",
+  "url":"https://www.wikihow.com/Make-Meat-Jun",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "World Cuisines",
+    "Asian Cuisine",
+    "Korean Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the different bowls.",
+      "description":"Make the marinade. In a large bowl, combine the soy sauce, garlic, sugar, and water. Add a good cup of flour or two to a large plate. Beat the eggs in a large bowl and set aside."
+    },
+    {
+      "headline":"Add the meat to the marinade.",
+      "description":"Fold the meat lightly into the ingredients to give a thorough soaking."
+    },
+    {
+      "headline":"Transfer the meat to the flour.",
+      "description":"Cover the meat thoroughly with the flour and lightly shake the excess off."
+    },
+    {
+      "headline":"Dip the meat into the egg bowl.",
+      "description":""
+    },
+    {
+      "headline":"Pan fry the meat.",
+      "description":"Add a few tablespoons of canola oil to a large frying pan and place it over medium heat. Allow the meat and eggs to cook for a few minutes on both sides."
+    },
+    {
+      "headline":"Drain the meat jun.",
+      "description":"Transfer the meat onto paper towels to remove any excess fat and grease."
+    },
+    {
+      "headline":"Make the dipping sauce.",
+      "description":"Combine the dipping sauce ingredients into a small bowl."
+    },
+    {
+      "headline":"Serve the meat jun.",
+      "description":"Slice it into \u20442 inch (1.3 cm) strips and serve with the sauce. Meat jun is commonly served with a side bowl of white steamed rice."
+    }
+  ],
+  "text":" Prepare the different bowls. Make the marinade. In a large bowl, combine the soy sauce, garlic, sugar, and water. Add a good cup of flour or two to a large plate. Beat the eggs in a large bowl and set aside. Add the meat to the marinade. Fold the meat lightly into the ingredients to give a thorough soaking. Transfer the meat to the flour. Cover the meat thoroughly with the flour and lightly shake the excess off. Dip the meat into the egg bowl.  Pan fry the meat. Add a few tablespoons of canola oil to a large frying pan and place it over medium heat. Allow the meat and eggs to cook for a few minutes on both sides. Drain the meat jun. Transfer the meat onto paper towels to remove any excess fat and grease. Make the dipping sauce. Combine the dipping sauce ingredients into a small bowl. Serve the meat jun. Slice it into \u20442 inch (1.3 cm) strips and serve with the sauce. Meat jun is commonly served with a side bowl of white steamed rice.",
+  "sentences":[
+    " Prepare the different bowls.",
+    "Make the marinade.",
+    "In a large bowl, combine the soy sauce, garlic, sugar, and water.",
+    "Add a good cup of flour or two to a large plate.",
+    "Beat the eggs in a large bowl and set aside.",
+    "Add the meat to the marinade.",
+    "Fold the meat lightly into the ingredients to give a thorough soaking.",
+    "Transfer the meat to the flour.",
+    "Cover the meat thoroughly with the flour and lightly shake the excess off.",
+    "Dip the meat into the egg bowl.",
+    "Pan fry the meat.",
+    "Add a few tablespoons of canola oil to a large frying pan and place it over medium heat.",
+    "Allow the meat and eggs to cook for a few minutes on both sides.",
+    "Drain the meat jun.",
+    "Transfer the meat onto paper towels to remove any excess fat and grease.",
+    "Make the dipping sauce.",
+    "Combine the dipping sauce ingredients into a small bowl.",
+    "Serve the meat jun.",
+    "Slice it into \u20442 inch (1.3 cm) strips and serve with the sauce.",
+    "Meat jun is commonly served with a side bowl of white steamed rice."
+  ],
+  "tyn_section":[
+    "2 large bowls",
+    "Large plate",
+    "Frying pan",
+    "Tongs",
+    "Paper towels",
+    "Knife",
+    "Cutting board"
+  ],
+  "tyn_model":[
+    "flour",
+    "meat jun",
+    "large bowl",
+    "eggs",
+    "soy sauce",
+    "garlic",
+    "sugar",
+    "water",
+    "large plate",
+    "egg bowl",
+    "canola oil",
+    "large frying pan",
+    "paper towels",
+    "small bowl",
+    "white steamed rice"
+  ],
+  "simple_metrics":{
+    "r":0.2857142857,
+    "p":0.1333333333,
+    "f1":0.1818181818,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4285714286,
+    "p":0.2,
+    "f1":0.2727272727
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4285714286,
+    "p":0.2666666667,
+    "f1":0.3287671233
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4285714286,
+    "p":0.2,
+    "f1":0.2727272727
+  }
+}

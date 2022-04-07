@@ -1,0 +1,102 @@
+{
+  "title":"How to Remove Melted Crayon Stains from Laundry",
+  "url":"https://www.wikihow.com/Remove-Melted-Crayon-Stains-from-Laundry",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Craft for Kids"
+  ],
+  "steps":[
+    {
+      "headline":"Find and remove anything that's left of the melted crayon, the paper wrapper or any small chunks of crayon.",
+      "description":"If a big chunk of crayon is stuck on, take a warm paper towel and dab it on the big chunk and pull it off."
+    },
+    {
+      "headline":"Spread the stained clothes out on the floor or a table.",
+      "description":""
+    },
+    {
+      "headline":"Spray the stained spots with stain remover and let sit for 20 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Put the clothes in a sink with a cap full of liquid laundry detergent and 2 tablespoons (29.6 ml) of dish-washing detergent.",
+      "description":"Mix the detergents in the water before adding the clothes. Make sure the clothes are fully covered with water and let them sit for a good hour."
+    },
+    {
+      "headline":"Rewash the crayon stained clothes in the machine using one cup of color safe bleach in warm water.",
+      "description":""
+    },
+    {
+      "headline":"Wash on regular cycle.",
+      "description":""
+    },
+    {
+      "headline":"Rinse in cold water",
+      "description":""
+    },
+    {
+      "headline":"Repeat the wash again but this time use only 1/4 cup of color safe bleach.",
+      "description":""
+    },
+    {
+      "headline":"Check for remaining stains before drying.",
+      "description":""
+    },
+    {
+      "headline":"Repeat all steps until no stains remain.",
+      "description":""
+    }
+  ],
+  "text":" Find and remove anything that's left of the melted crayon, the paper wrapper or any small chunks of crayon. If a big chunk of crayon is stuck on, take a warm paper towel and dab it on the big chunk and pull it off. Spread the stained clothes out on the floor or a table.  Spray the stained spots with stain remover and let sit for 20 minutes.  Put the clothes in a sink with a cap full of liquid laundry detergent and 2 tablespoons (29.6 ml) of dish-washing detergent. Mix the detergents in the water before adding the clothes. Make sure the clothes are fully covered with water and let them sit for a good hour. Rewash the crayon stained clothes in the machine using one cup of color safe bleach in warm water.  Wash on regular cycle.  Rinse in cold water  Repeat the wash again but this time use only 1/4 cup of color safe bleach.  Check for remaining stains before drying.  Repeat all steps until no stains remain. ",
+  "sentences":[
+    " Find and remove anything that's left of the melted crayon, the paper wrapper or any small chunks of crayon.",
+    "If a big chunk of crayon is stuck on, take a warm paper towel and dab it on the big chunk and pull it off.",
+    "Spread the stained clothes out on the floor or a table.",
+    "Spray the stained spots with stain remover and let sit for 20 minutes.",
+    "Put the clothes in a sink with a cap full of liquid laundry detergent and 2 tablespoons (29.6 ml) of dish-washing detergent.",
+    "Mix the detergents in the water before adding the clothes.",
+    "Make sure the clothes are fully covered with water and let them sit for a good hour.",
+    "Rewash the crayon stained clothes in the machine using one cup of color safe bleach in warm water.",
+    "Wash on regular cycle.",
+    "Rinse in cold water  Repeat the wash again but this time use only 1/4 cup of color safe bleach.",
+    "Check for remaining stains before drying.",
+    "Repeat all steps until no stains remain."
+  ],
+  "tyn_section":[
+    "Stain Remover",
+    "Liquid Detergent",
+    "Color Safe Bleach",
+    "Dishwashing Detergent"
+  ],
+  "tyn_model":[
+    "water",
+    "crayon",
+    "color safe bleach",
+    "paper towel",
+    "stain remover",
+    "liquid laundry detergent",
+    "dish-washing detergent"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.2857142857,
+    "f1":0.3636363636,
+    "avg_pos":0.5714285714
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.4285714286,
+    "f1":0.5454545455
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":1.0,
+    "p":0.5714285714,
+    "f1":0.7272727273
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.75,
+    "p":0.4285714286,
+    "f1":0.5454545455
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title":"How to Make Fried Rice with Soy Sauce",
+  "url":"https://www.wikihow.com/Make-Fried-Rice-with-Soy-Sauce",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "World Cuisines",
+    "Asian Cuisine",
+    "Philippine Dishes"
+  ],
+  "steps":[
+    {
+      "headline":"Heat the oil in a pan.",
+      "description":"Just turn on the heat at medium, or right heat just not to burn the rice."
+    },
+    {
+      "headline":"Saut\u00e9e the garlic.",
+      "description":"Saut\u00e9 until it looks golden brown little cubes."
+    },
+    {
+      "headline":"Put on the rice.",
+      "description":"Mix and mix until the garlic is evenly spread onto the rice."
+    },
+    {
+      "headline":"Add the soy sauce.",
+      "description":"Mix until the rice has the color of the soy sauce and has a pleasant smell."
+    },
+    {
+      "headline":"Get a small bowl.",
+      "description":"Put the rice in it, and put pressure on the top of the rice to make it flat. Make sure the rice is leveled with the bowl tip."
+    },
+    {
+      "headline":"Get a plate.",
+      "description":"Rotate the bowl upside-down and wait until the rice falls out and make the shape out of it."
+    },
+    {
+      "headline":"Get your favorite Filipino dish (optional).",
+      "description":""
+    },
+    {
+      "headline":"Serve and eat hot.",
+      "description":""
+    }
+  ],
+  "text":" Heat the oil in a pan. Just turn on the heat at medium, or right heat just not to burn the rice. Saut\u00e9e the garlic. Saut\u00e9 until it looks golden brown little cubes. Put on the rice. Mix and mix until the garlic is evenly spread onto the rice. Add the soy sauce. Mix until the rice has the color of the soy sauce and has a pleasant smell. Get a small bowl. Put the rice in it, and put pressure on the top of the rice to make it flat. Make sure the rice is leveled with the bowl tip. Get a plate. Rotate the bowl upside-down and wait until the rice falls out and make the shape out of it. Get your favorite Filipino dish (optional).  Serve and eat hot. ",
+  "sentences":[
+    " Heat the oil in a pan.",
+    "Just turn on the heat at medium, or right heat just not to burn the rice.",
+    "Saut\u00e9e the garlic.",
+    "Saut\u00e9 until it looks golden brown little cubes.",
+    "Put on the rice.",
+    "Mix and mix until the garlic is evenly spread onto the rice.",
+    "Add the soy sauce.",
+    "Mix until the rice has the color of the soy sauce and has a pleasant smell.",
+    "Get a small bowl.",
+    "Put the rice in it, and put pressure on the top of the rice to make it flat.",
+    "Make sure the rice is leveled with the bowl tip.",
+    "Get a plate.",
+    "Rotate the bowl upside-down and wait until the rice falls out and make the shape out of it.",
+    "Get your favorite Filipino dish (optional).",
+    "Serve and eat hot."
+  ],
+  "tyn_section":[
+    "Frying pan",
+    "Large spoon",
+    "Small bowl",
+    "Plate"
+  ],
+  "tyn_model":[
+    "rice",
+    "garlic",
+    "soy sauce",
+    "bowl",
+    "oil",
+    "pan",
+    "small bowl",
+    "plate"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  }
+}

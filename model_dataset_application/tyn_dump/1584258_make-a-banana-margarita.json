@@ -1,0 +1,91 @@
+{
+  "title":"How to Make a Banana Margarita",
+  "url":"https://www.wikihow.com/Make-a-Banana-Margarita",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Cocktails",
+    "Margaritas"
+  ],
+  "steps":[
+    {
+      "headline":"Assemble the ingredients.",
+      "description":""
+    },
+    {
+      "headline":"Prepare the margarita glass.",
+      "description":"Wet the rim of the glass with lemon juice and lightly dip it into caster sugar."
+    },
+    {
+      "headline":"Measure and add all ingredients to a blender.",
+      "description":""
+    },
+    {
+      "headline":"Add crushed ice.",
+      "description":""
+    },
+    {
+      "headline":"Blend until the mixture is smooth.",
+      "description":""
+    },
+    {
+      "headline":"Pour the mixture into the glass.",
+      "description":""
+    },
+    {
+      "headline":"Garnish the drink with a lemon juice-dipped banana slice.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Assemble the ingredients.  Prepare the margarita glass. Wet the rim of the glass with lemon juice and lightly dip it into caster sugar. Measure and add all ingredients to a blender.  Add crushed ice.  Blend until the mixture is smooth.  Pour the mixture into the glass.  Garnish the drink with a lemon juice-dipped banana slice.  Finished. ",
+  "sentences":[
+    " Assemble the ingredients.",
+    "Prepare the margarita glass.",
+    "Wet the rim of the glass with lemon juice and lightly dip it into caster sugar.",
+    "Measure and add all ingredients to a blender.",
+    "Add crushed ice.",
+    "Blend until the mixture is smooth.",
+    "Pour the mixture into the glass.",
+    "Garnish the drink with a lemon juice-dipped banana slice.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Margarita glass",
+    "Blender",
+    "Saucer, for sugar"
+  ],
+  "tyn_model":[
+    "lemon juice",
+    "margarita glass",
+    "caster sugar",
+    "blender",
+    "crushed ice"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5,
+    "avg_pos":0.2
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  }
+}

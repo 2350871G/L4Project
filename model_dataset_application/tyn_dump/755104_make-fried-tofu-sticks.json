@@ -1,0 +1,114 @@
+{
+  "title":"How to Make Fried Tofu Sticks",
+  "url":"https://www.wikihow.com/Make-Fried-Tofu-Sticks",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Vegetarian",
+    "Tofu and Tempeh"
+  ],
+  "steps":[
+    {
+      "headline":"Cut the tofu into finger-size strips.",
+      "description":"Think of extra-thick French fries, and you'll have the right idea of the size needed. Place on folded paper towels and cover with more paper towels. This step will wick away a lot of the moisture. If you like, you might even apply some weight like a plate. Taking away some moisture will give it a chewier texture and eliminate splatter when you fry them. (Don't discard the paper towels. Let them air dry and you can reuse them to wipe up spills.)"
+    },
+    {
+      "headline":"Mix the soya sauce and chili sauce together.",
+      "description":"Marinate the tofu in sauce for 30 plus minutes, depending on how flavorful you want it. If you removed some of the moisture, it will absorb the marinade quicker."
+    },
+    {
+      "headline":"Mix together the breadcrumbs and cornstarch.",
+      "description":"Add salt and pepper to taste."
+    },
+    {
+      "headline":"Roll the tofu strips in the mixture.",
+      "description":""
+    },
+    {
+      "headline":"Fill a deep frying pan or wok with oil.",
+      "description":"Fry the tofu strips until golden brown. Remove when cooked. If they seem greasy, place on kitchen towel to soak up any extra grease."
+    },
+    {
+      "headline":"Make the dipping sauce.",
+      "description":"Simply mix all of the ingredients together and it's ready to go."
+    },
+    {
+      "headline":"Serve the slightly cooled tofu sticks immediately.",
+      "description":"Dip tofu sticks into the dip and enjoy!"
+    },
+    {
+      "headline":"Finished!",
+      "description":""
+    }
+  ],
+  "text":" Cut the tofu into finger-size strips. Think of extra-thick French fries, and you'll have the right idea of the size needed. Place on folded paper towels and cover with more paper towels. This step will wick away a lot of the moisture. If you like, you might even apply some weight like a plate. Taking away some moisture will give it a chewier texture and eliminate splatter when you fry them. (Don't discard the paper towels. Let them air dry and you can reuse them to wipe up spills.) Mix the soya sauce and chili sauce together. Marinate the tofu in sauce for 30 plus minutes, depending on how flavorful you want it. If you removed some of the moisture, it will absorb the marinade quicker. Mix together the breadcrumbs and cornstarch. Add salt and pepper to taste. Roll the tofu strips in the mixture.  Fill a deep frying pan or wok with oil. Fry the tofu strips until golden brown. Remove when cooked. If they seem greasy, place on kitchen towel to soak up any extra grease. Make the dipping sauce. Simply mix all of the ingredients together and it's ready to go. Serve the slightly cooled tofu sticks immediately. Dip tofu sticks into the dip and enjoy! Finished! ",
+  "sentences":[
+    " Cut the tofu into finger-size strips.",
+    "Think of extra-thick French fries, and you'll have the right idea of the size needed.",
+    "Place on folded paper towels and cover with more paper towels.",
+    "This step will wick away a lot of the moisture.",
+    "If you like, you might even apply some weight like a plate.",
+    "Taking away some moisture will give it a chewier texture and eliminate splatter when you fry them.",
+    "(Don't discard the paper towels.",
+    "Let them air dry and you can reuse them to wipe up spills.)",
+    "Mix the soya sauce and chili sauce together.",
+    "Marinate the tofu in sauce for 30 plus minutes, depending on how flavorful you want it.",
+    "If you removed some of the moisture, it will absorb the marinade quicker.",
+    "Mix together the breadcrumbs and cornstarch.",
+    "Add salt and pepper to taste.",
+    "Roll the tofu strips in the mixture.",
+    "Fill a deep frying pan or wok with oil.",
+    "Fry the tofu strips until golden brown.",
+    "Remove when cooked.",
+    "If they seem greasy, place on kitchen towel to soak up any extra grease.",
+    "Make the dipping sauce.",
+    "Simply mix all of the ingredients together and it's ready to go.",
+    "Serve the slightly cooled tofu sticks immediately.",
+    "Dip tofu sticks into the dip and enjoy!",
+    "Finished!"
+  ],
+  "tyn_section":[
+    "Cutting board and knife",
+    "Bowls",
+    "Frying pan or wok",
+    "Utensil such as tongs for handling hot tofu sticks",
+    "Kitchen towel",
+    "Dipping sauce bowl"
+  ],
+  "tyn_model":[
+    "tofu",
+    "paper towels",
+    "plate",
+    "soya sauce",
+    "chili sauce",
+    "cornstarch",
+    "salt",
+    "pepper",
+    "deep frying pan",
+    "wok",
+    "oil",
+    "kitchen towel",
+    "dipping sauce"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0769230769,
+    "f1":0.1052631579,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.3333333333,
+    "p":0.1538461538,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.2307692308,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.1538461538,
+    "f1":0.2105263158
+  }
+}

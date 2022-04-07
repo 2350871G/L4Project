@@ -1,0 +1,81 @@
+{
+  "title":"How to Make a Bologna Sandwich",
+  "url":"https://www.wikihow.com/Make-a-Bologna-Sandwich",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Sandwiches and Quick Meals",
+    "Meat and Poultry Sandwiches"
+  ],
+  "steps":[
+    {
+      "headline":"Get the individual items you'll be needing to make this sandwich.",
+      "description":""
+    },
+    {
+      "headline":"Find a place to make your sandwich, such as a table or counter.",
+      "description":""
+    },
+    {
+      "headline":"Put one slice of bread on a plate or cutting board.",
+      "description":""
+    },
+    {
+      "headline":"Do the same thing with the second slice of bread.",
+      "description":""
+    },
+    {
+      "headline":"Place a slice of bologna on one piece of bread.",
+      "description":""
+    },
+    {
+      "headline":"Cut yourself a few slices of cheese, and place on one of the slices of bread.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Get the individual items you'll be needing to make this sandwich.  Find a place to make your sandwich, such as a table or counter.  Put one slice of bread on a plate or cutting board.  Do the same thing with the second slice of bread.  Place a slice of bologna on one piece of bread.  Cut yourself a few slices of cheese, and place on one of the slices of bread.  Finished. ",
+  "sentences":[
+    " Get the individual items you'll be needing to make this sandwich.",
+    "Find a place to make your sandwich, such as a table or counter.",
+    "Put one slice of bread on a plate or cutting board.",
+    "Do the same thing with the second slice of bread.",
+    "Place a slice of bologna on one piece of bread.",
+    "Cut yourself a few slices of cheese, and place on one of the slices of bread.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Cutting board",
+    "Knife"
+  ],
+  "tyn_model":[
+    "plate",
+    "cutting board",
+    "bologna",
+    "cheese"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333,
+    "avg_pos":0.25
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.25,
+    "f1":0.3333333333
+  }
+}

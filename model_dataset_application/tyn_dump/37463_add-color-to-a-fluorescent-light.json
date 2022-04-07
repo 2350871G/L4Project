@@ -1,0 +1,90 @@
+{
+  "title":"How to Add Color to a Fluorescent Light",
+  "url":"https://www.wikihow.com/Add-Color-to-a-Fluorescent-Light",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Lighting",
+    "Fluorescent Lights"
+  ],
+  "steps":[
+    {
+      "headline":"Gather the Things You'll Need.",
+      "description":""
+    },
+    {
+      "headline":"Put the book covering (roll of colored plastic sheeting) on a plain surface.",
+      "description":"Roll about 2 feet (0.6 m) out flat and make sure there are no wrinkles in the covering."
+    },
+    {
+      "headline":"Wrap the fluorescent bulb in the covering.",
+      "description":"Roll it tightly around the fluorescent bulb - there should not be any space between the lamp and the covering."
+    },
+    {
+      "headline":"Cut the covering off the roll, and also any excess along the length of the fluorescent tube.",
+      "description":"Use transparent tape to seal the covering seam."
+    },
+    {
+      "headline":"Cut the edges of the covering with the scissors.",
+      "description":"Be careful that you do not cut the contacts (the pair of prongs at each end of the tube). The contacts have to stay accessible."
+    },
+    {
+      "headline":"Reinstall the covered bulb in the lamp holder.",
+      "description":"Turn on the light and enjoy!"
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Gather the Things You'll Need.  Put the book covering (roll of colored plastic sheeting) on a plain surface. Roll about 2 feet (0.6 m) out flat and make sure there are no wrinkles in the covering. Wrap the fluorescent bulb in the covering. Roll it tightly around the fluorescent bulb - there should not be any space between the lamp and the covering. Cut the covering off the roll, and also any excess along the length of the fluorescent tube. Use transparent tape to seal the covering seam. Cut the edges of the covering with the scissors. Be careful that you do not cut the contacts (the pair of prongs at each end of the tube). The contacts have to stay accessible. Reinstall the covered bulb in the lamp holder. Turn on the light and enjoy! Finished. ",
+  "sentences":[
+    " Gather the Things You'll Need.",
+    "Put the book covering (roll of colored plastic sheeting) on a plain surface.",
+    "Roll about 2 feet (0.6 m) out flat and make sure there are no wrinkles in the covering.",
+    "Wrap the fluorescent bulb in the covering.",
+    "Roll it tightly around the fluorescent bulb - there should not be any space between the lamp and the covering.",
+    "Cut the covering off the roll, and also any excess along the length of the fluorescent tube.",
+    "Use transparent tape to seal the covering seam.",
+    "Cut the edges of the covering with the scissors.",
+    "Be careful that you do not cut the contacts (the pair of prongs at each end of the tube).",
+    "The contacts have to stay accessible.",
+    "Reinstall the covered bulb in the lamp holder.",
+    "Turn on the light and enjoy!",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Fluorescent lamp",
+    "Colored non adhesive book covering / Colored plastic sheeting / Theatrical Gel",
+    "Transparent adhesive tape",
+    "Scissors"
+  ],
+  "tyn_model":[
+    "book covering",
+    "colored plastic sheeting",
+    "fluorescent bulb",
+    "lamp",
+    "transparent tape",
+    "scissors"
+  ],
+  "simple_metrics":{
+    "r":0.25,
+    "p":0.1666666667,
+    "f1":0.2,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.75,
+    "p":0.5,
+    "f1":0.6
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.6666666667,
+    "f1":0.7058823529
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  }
+}

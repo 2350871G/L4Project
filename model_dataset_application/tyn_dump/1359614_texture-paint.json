@@ -1,0 +1,150 @@
+{
+  "title":"How to Texture Paint",
+  "url":"https://www.wikihow.com/Texture-Paint",
+  "category_hierarchy":[
+    "Home and Garden",
+    "DIY"
+  ],
+  "methods":[
+    {
+      "name":"Using Silica Sand",
+      "steps":[
+        {
+          "headline":"Fill a paint roller tray with flat latex paint.",
+          "description":""
+        },
+        {
+          "headline":"Pour 4 to 6 ounces (113.3 to 170 g) of silica sand into the paint.",
+          "description":""
+        },
+        {
+          "headline":"Stir the paint with a wooden paint stick.",
+          "description":""
+        },
+        {
+          "headline":"Add more silica sand for a coarser texture.",
+          "description":""
+        },
+        {
+          "headline":"Repeat the process of stirring before each application because the sand will settle on the bottom.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Ragging Technique",
+      "steps":[
+        {
+          "headline":"Apply your base coat to the wall.",
+          "description":""
+        },
+        {
+          "headline":"Paint over the base coat (once it dries) with a glaze.",
+          "description":""
+        },
+        {
+          "headline":"Ball up a cotton cloth or rag and press it onto the wet glaze.",
+          "description":"Press harder to remove more of the glaze."
+        },
+        {
+          "headline":"Continue along the wall in a random pattern.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Combing Method",
+      "steps":[
+        {
+          "headline":"Apply your base coat to the wall and then a glaze.",
+          "description":""
+        },
+        {
+          "headline":"Choose a comb with the desired tooth size and, starting at the top, comb through the glaze.",
+          "description":"This technique creates a wood grain appearance."
+        }
+      ]
+    },
+    {
+      "name":"Sponging the Wall",
+      "steps":[
+        {
+          "headline":"Cut up a household sponge into an interesting shape or purchase a sponge with an interesting texture at a craft or paint store.",
+          "description":""
+        },
+        {
+          "headline":"Apply the base paint as you normally would.",
+          "description":"(An additional coating of glaze is optional.)"
+        },
+        {
+          "headline":"Start in one corner of the wall and press the sponge into the paint.",
+          "description":"You can twist the sponge or just barely pat the paint depending on your desired effect."
+        }
+      ]
+    }
+  ],
+  "text":" Using Silica Sand Fill a paint roller tray with flat latex paint.  Pour 4 to 6 ounces (113.3 to 170 g) of silica sand into the paint.  Stir the paint with a wooden paint stick.  Add more silica sand for a coarser texture.  Repeat the process of stirring before each application because the sand will settle on the bottom.  Ragging Technique Apply your base coat to the wall.  Paint over the base coat (once it dries) with a glaze.  Ball up a cotton cloth or rag and press it onto the wet glaze. Press harder to remove more of the glaze. Continue along the wall in a random pattern.  Combing Method Apply your base coat to the wall and then a glaze.  Choose a comb with the desired tooth size and, starting at the top, comb through the glaze. This technique creates a wood grain appearance. Sponging the Wall Cut up a household sponge into an interesting shape or purchase a sponge with an interesting texture at a craft or paint store.  Apply the base paint as you normally would. (An additional coating of glaze is optional.) Start in one corner of the wall and press the sponge into the paint. You can twist the sponge or just barely pat the paint depending on your desired effect.",
+  "sentences":[
+    " Using Silica Sand Fill a paint roller tray with flat latex paint.",
+    "Pour 4 to 6 ounces (113.3 to 170 g) of silica sand into the paint.",
+    "Stir the paint with a wooden paint stick.",
+    "Add more silica sand for a coarser texture.",
+    "Repeat the process of stirring before each application because the sand will settle on the bottom.",
+    "Ragging Technique Apply your base coat to the wall.",
+    "Paint over the base coat (once it dries) with a glaze.",
+    "Ball up a cotton cloth or rag and press it onto the wet glaze.",
+    "Press harder to remove more of the glaze.",
+    "Continue along the wall in a random pattern.",
+    "Combing Method Apply your base coat to the wall and then a glaze.",
+    "Choose a comb with the desired tooth size and, starting at the top, comb through the glaze.",
+    "This technique creates a wood grain appearance.",
+    "Sponging the Wall Cut up a household sponge into an interesting shape or purchase a sponge with an interesting texture at a craft or paint store.",
+    "Apply the base paint as you normally would.",
+    "(An additional coating of glaze is optional.)",
+    "Start in one corner of the wall and press the sponge into the paint.",
+    "You can twist the sponge or just barely pat the paint depending on your desired effect."
+  ],
+  "tyn_section":[
+    "Base latex paint",
+    "Paint roller",
+    "Wooden paint stirrer",
+    "Glaze",
+    "Paint tray",
+    "Silica sand",
+    "Rag",
+    "Sponge",
+    "Comb",
+    "Spray paint"
+  ],
+  "tyn_model":[
+    "paint",
+    "sponge",
+    "silica sand",
+    "paint roller",
+    "flat latex paint",
+    "wooden paint stick",
+    "cotton cloth",
+    "comb"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.5,
+    "f1":0.4444444444,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.8,
+    "p":0.875,
+    "f1":0.8358208955
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.8,
+    "p":0.875,
+    "f1":0.8358208955
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.5,
+    "f1":0.4444444444
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title":"How to Make Natural Vegetable Soap",
+  "url":"https://www.wikihow.com/Make-Natural-Vegetable-Soap",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Slowly add the lye 1 tablespoon at a time to the cold water while stirring continuously.",
+      "description":"(Lye is caustic and should not come into contact with your skin, avoid inhaling fumes and wear rubber gloves.) After you have stirred thoroughly, allow the mixture to sit until the temperature drops to between 95\u00baF and 98\u00baF."
+    },
+    {
+      "headline":"As the lye cools, place the oils and shortening together in a pot and heat it to 125\u00baF-130\u00baF.",
+      "description":""
+    },
+    {
+      "headline":"Remove the pan from the heat and place a thermometer in the liquid and let the mixture cool, watching the temperature.",
+      "description":"When the two solutions are the same temperature, 96\u00baF, stir the oil mixture for about 30 seconds, and then add the lye mixture slowly but evenly in a steady stream. Do not stop stirring. When the consistency is like very thick gravy, the soap is ready for additives."
+    },
+    {
+      "headline":"Continue stirring while making additions, then pour the soap into the mold of choice.",
+      "description":"The simplest mold is a wax coated cardboard milk container."
+    },
+    {
+      "headline":"To make bars, pour the solution into a rectangular flat pan large enough to make the soap 1/2\u201d to 2\u201d thick.",
+      "description":""
+    },
+    {
+      "headline":"When the soap has had 24 hours or more to cure, use a hot knife to cut it into squares and remove it from the pan.",
+      "description":""
+    },
+    {
+      "headline":"After molding and shaping the soap, let it sit for 2-3 days in a dry place to cure.",
+      "description":"Use a wire cooling rack to sit the soaps on. Once cured, it does better if wrapped."
+    }
+  ],
+  "text":" Slowly add the lye 1 tablespoon at a time to the cold water while stirring continuously. (Lye is caustic and should not come into contact with your skin, avoid inhaling fumes and wear rubber gloves.) After you have stirred thoroughly, allow the mixture to sit until the temperature drops to between 95\u00baF and 98\u00baF. As the lye cools, place the oils and shortening together in a pot and heat it to 125\u00baF-130\u00baF.  Remove the pan from the heat and place a thermometer in the liquid and let the mixture cool, watching the temperature. When the two solutions are the same temperature, 96\u00baF, stir the oil mixture for about 30 seconds, and then add the lye mixture slowly but evenly in a steady stream. Do not stop stirring. When the consistency is like very thick gravy, the soap is ready for additives. Continue stirring while making additions, then pour the soap into the mold of choice. The simplest mold is a wax coated cardboard milk container. To make bars, pour the solution into a rectangular flat pan large enough to make the soap 1/2\u201d to 2\u201d thick.  When the soap has had 24 hours or more to cure, use a hot knife to cut it into squares and remove it from the pan.  After molding and shaping the soap, let it sit for 2-3 days in a dry place to cure. Use a wire cooling rack to sit the soaps on. Once cured, it does better if wrapped.",
+  "sentences":[
+    " Slowly add the lye 1 tablespoon at a time to the cold water while stirring continuously.",
+    "(Lye is caustic and should not come into contact with your skin, avoid inhaling fumes and wear rubber gloves.)",
+    "After you have stirred thoroughly, allow the mixture to sit until the temperature drops to between 95\u00baF and 98\u00baF.",
+    "As the lye cools, place the oils and shortening together in a pot and heat it to 125\u00baF-130\u00baF.",
+    "Remove the pan from the heat and place a thermometer in the liquid and let the mixture cool, watching the temperature.",
+    "When the two solutions are the same temperature, 96\u00baF, stir the oil mixture for about 30 seconds, and then add the lye mixture slowly but evenly in a steady stream.",
+    "Do not stop stirring.",
+    "When the consistency is like very thick gravy, the soap is ready for additives.",
+    "Continue stirring while making additions, then pour the soap into the mold of choice.",
+    "The simplest mold is a wax coated cardboard milk container.",
+    "To make bars, pour the solution into a rectangular flat pan large enough to make the soap 1/2\u201d to 2\u201d thick.",
+    "When the soap has had 24 hours or more to cure, use a hot knife to cut it into squares and remove it from the pan.",
+    "After molding and shaping the soap, let it sit for 2-3 days in a dry place to cure.",
+    "Use a wire cooling rack to sit the soaps on.",
+    "Once cured, it does better if wrapped."
+  ],
+  "tyn_section":[
+    "Saucepan",
+    "Wooden spoon",
+    "Rubber gloves",
+    "Soap mold",
+    "Hot knife",
+    "Wire cooling rack",
+    "Wrapping"
+  ],
+  "tyn_model":[
+    "lye",
+    "soap",
+    "cold water",
+    "oils",
+    "shortening",
+    "pot",
+    "pan",
+    "thermometer",
+    "oil",
+    "\u201d to",
+    "\u201d thick",
+    "hot knife"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.0833333333,
+    "f1":0.1052631579,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2857142857,
+    "p":0.1666666667,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2857142857,
+    "p":0.1666666667,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.0833333333,
+    "f1":0.1052631579
+  }
+}

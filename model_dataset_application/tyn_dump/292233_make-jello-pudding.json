@@ -1,0 +1,111 @@
+{
+  "title":"How to Make Jello Pudding",
+  "url":"https://www.wikihow.com/Make-Jello-Pudding",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets",
+    "Puddings"
+  ],
+  "steps":[
+    {
+      "headline":"Buy Jell-O pudding mix.",
+      "description":"Some good flavors are vanilla, chocolate, and banana cream."
+    },
+    {
+      "headline":"Pour 2 cups milk in a medium saucepan.",
+      "description":"Stir in the Jell-O pudding mix."
+    },
+    {
+      "headline":"Heat the mixture to a full boil over medium heat, stirring constantly.",
+      "description":"Remove the pan from the stove."
+    },
+    {
+      "headline":"Pour the pudding into a bowl and place in the fridge for 5 minutes.",
+      "description":"The pudding may seem thin, but will thicken as it cools."
+    },
+    {
+      "headline":"Once the 5 minutes are up, take a spoon and gingerly stick it into the pudding.",
+      "description":"If it hasn't set, leave the pudding in the fridge a while longer."
+    },
+    {
+      "headline":"Once your pudding has set, remove it from the fridge and stir it.",
+      "description":"Mix in any additional ingredients (banana slices, strawberries, etc. )."
+    },
+    {
+      "headline":"Spoon the pudding into individual serving dishes.",
+      "description":""
+    },
+    {
+      "headline":"Add any toppers such as whipped cream, sprinkles, coconut, etc.",
+      "description":""
+    },
+    {
+      "headline":"Serve and enjoy your pudding!",
+      "description":""
+    }
+  ],
+  "text":" Buy Jell-O pudding mix. Some good flavors are vanilla, chocolate, and banana cream. Pour 2 cups milk in a medium saucepan. Stir in the Jell-O pudding mix. Heat the mixture to a full boil over medium heat, stirring constantly. Remove the pan from the stove. Pour the pudding into a bowl and place in the fridge for 5 minutes. The pudding may seem thin, but will thicken as it cools. Once the 5 minutes are up, take a spoon and gingerly stick it into the pudding. If it hasn't set, leave the pudding in the fridge a while longer. Once your pudding has set, remove it from the fridge and stir it. Mix in any additional ingredients (banana slices, strawberries, etc. ). Spoon the pudding into individual serving dishes.  Add any toppers such as whipped cream, sprinkles, coconut, etc.  Serve and enjoy your pudding! ",
+  "sentences":[
+    " Buy Jell-O pudding mix.",
+    "Some good flavors are vanilla, chocolate, and banana cream.",
+    "Pour 2 cups milk in a medium saucepan.",
+    "Stir in the Jell-O pudding mix.",
+    "Heat the mixture to a full boil over medium heat, stirring constantly.",
+    "Remove the pan from the stove.",
+    "Pour the pudding into a bowl and place in the fridge for 5 minutes.",
+    "The pudding may seem thin, but will thicken as it cools.",
+    "Once the 5 minutes are up, take a spoon and gingerly stick it into the pudding.",
+    "If it hasn't set, leave the pudding in the fridge a while longer.",
+    "Once your pudding has set, remove it from the fridge and stir it.",
+    "Mix in any additional ingredients (banana slices, strawberries, etc.",
+    ").",
+    "Spoon the pudding into individual serving dishes.",
+    "Add any toppers such as whipped cream, sprinkles, coconut, etc.",
+    "Serve and enjoy your pudding!"
+  ],
+  "tyn_section":[
+    "A large bowl",
+    "A medium saucepan",
+    "Whisk",
+    "Individual serving dishes"
+  ],
+  "tyn_model":[
+    "pudding",
+    "jell-o pudding mix",
+    "banana cream",
+    "milk",
+    "medium saucepan",
+    "jell-o pudding",
+    "stove",
+    "bowl",
+    "fridge",
+    "spoon",
+    "banana slices",
+    "strawberries",
+    "serving dishes",
+    "whipped cream",
+    "coconut"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.1333333333,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":0.2,
+    "f1":0.3157894737
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.1333333333,
+    "f1":0.2105263158
+  }
+}

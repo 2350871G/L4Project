@@ -1,0 +1,126 @@
+{
+  "title":"How to Make Marzipan",
+  "url":"https://www.wikihow.com/Make-Marzipan",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Chocolate and Candy"
+  ],
+  "methods":[
+    {
+      "name":"Uncooked",
+      "steps":[
+        {
+          "headline":"Sift the powdered sugar into a bowl on top of the ground almonds.",
+          "description":""
+        },
+        {
+          "headline":"Add remaining ingredients.",
+          "description":"Mix to make a stiff paste. You can use a little water mixed with brandy instead of the egg whites if you do not want to eat raw eggs."
+        },
+        {
+          "headline":"Knead until smooth.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Cooked",
+      "steps":[
+        {
+          "headline":"Cook sugar and water on low heat.",
+          "description":"Constantly stir until the sugar has dissolved."
+        },
+        {
+          "headline":"Add cream of tartar and bring the mixture to boil.",
+          "description":"The sugar should reach about 240\u02daF (116\u02daC). This is called the soft ball stage."
+        },
+        {
+          "headline":"Remove the mixture from heat.",
+          "description":"Mix until it turns cloudy. Add ground almonds and vanilla extract."
+        },
+        {
+          "headline":"Lightly whisk the egg white.",
+          "description":"Add it to the pan and put the mixture back on low heat. Stir for a couple of minutes."
+        },
+        {
+          "headline":"Dust the confectioners' sugar on a marble (or similar) surface.",
+          "description":"Pour the mixture over it. Work the two with a palate knife. Tip: If the mixture is too sticky, add a little more confectioners' sugar."
+        },
+        {
+          "headline":"Cover mixture with plastic wrap and cool.",
+          "description":"Knead it until smooth once it has cooled down."
+        }
+      ]
+    }
+  ],
+  "text":" Uncooked Sift the powdered sugar into a bowl on top of the ground almonds.  Add remaining ingredients. Mix to make a stiff paste. You can use a little water mixed with brandy instead of the egg whites if you do not want to eat raw eggs. Knead until smooth.  Cooked Cook sugar and water on low heat. Constantly stir until the sugar has dissolved. Add cream of tartar and bring the mixture to boil. The sugar should reach about 240\u02daF (116\u02daC). This is called the soft ball stage. Remove the mixture from heat. Mix until it turns cloudy. Add ground almonds and vanilla extract. Lightly whisk the egg white. Add it to the pan and put the mixture back on low heat. Stir for a couple of minutes. Dust the confectioners' sugar on a marble (or similar) surface. Pour the mixture over it. Work the two with a palate knife. Tip: If the mixture is too sticky, add a little more confectioners' sugar. Cover mixture with plastic wrap and cool. Knead it until smooth once it has cooled down.",
+  "sentences":[
+    " Uncooked Sift the powdered sugar into a bowl on top of the ground almonds.",
+    "Add remaining ingredients.",
+    "Mix to make a stiff paste.",
+    "You can use a little water mixed with brandy instead of the egg whites if you do not want to eat raw eggs.",
+    "Knead until smooth.",
+    "Cooked Cook sugar and water on low heat.",
+    "Constantly stir until the sugar has dissolved.",
+    "Add cream of tartar and bring the mixture to boil.",
+    "The sugar should reach about 240\u02daF (116\u02daC).",
+    "This is called the soft ball stage.",
+    "Remove the mixture from heat.",
+    "Mix until it turns cloudy.",
+    "Add ground almonds and vanilla extract.",
+    "Lightly whisk the egg white.",
+    "Add it to the pan and put the mixture back on low heat.",
+    "Stir for a couple of minutes.",
+    "Dust the confectioners' sugar on a marble (or similar) surface.",
+    "Pour the mixture over it.",
+    "Work the two with a palate knife.",
+    "Tip: If the mixture is too sticky, add a little more confectioners' sugar.",
+    "Cover mixture with plastic wrap and cool.",
+    "Knead it until smooth once it has cooled down."
+  ],
+  "tyn_section":[
+    "large heavy saucepan",
+    "spatula or palate knife",
+    "flat surface to knead the marzipan (e.g. marble slab, baking sheet)",
+    "plastic wrap (for storage)",
+    "cooking thermometer"
+  ],
+  "tyn_model":[
+    "sugar",
+    "water",
+    "confectioners' sugar",
+    "powdered sugar",
+    "bowl",
+    "almonds",
+    "brandy",
+    "eggs",
+    "cream",
+    "of tartar",
+    "ground almonds",
+    "vanilla extract",
+    "palate knife",
+    "plastic wrap"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.1428571429,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.1428571429,
+    "f1":0.2105263158
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0
+  }
+}

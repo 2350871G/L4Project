@@ -1,0 +1,92 @@
+{
+  "title":"How to Cut a Equilateral Triangle from a Square of Paper",
+  "url":"https://www.wikihow.com/Cut-a-Equilateral-Triangle-from-a-Square-of-Paper",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Paper Craft",
+    "Origami",
+    "Origami Shapes"
+  ],
+  "steps":[
+    {
+      "headline":"Take your square of paper.",
+      "description":""
+    },
+    {
+      "headline":"Fold it in half vertically to determine the mid-line.",
+      "description":"Unfold."
+    },
+    {
+      "headline":"Measure the bottom side of the square.",
+      "description":"In this case, it is 146 mm."
+    },
+    {
+      "headline":"Memorize this measurement.",
+      "description":"Take your ruler and lay the point of the measurement on the bottom corner of the square. Angle the ruler so that the \"0\" point falls on the mid-line."
+    },
+    {
+      "headline":"Draw a line with the ruler and pencil.",
+      "description":""
+    },
+    {
+      "headline":"Repeat the previous two steps for the other side of the triangle.",
+      "description":""
+    },
+    {
+      "headline":"Cut out on your pencil lines.",
+      "description":""
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Take your square of paper.  Fold it in half vertically to determine the mid-line. Unfold. Measure the bottom side of the square. In this case, it is 146 mm. Memorize this measurement. Take your ruler and lay the point of the measurement on the bottom corner of the square. Angle the ruler so that the \"0\" point falls on the mid-line. Draw a line with the ruler and pencil.  Repeat the previous two steps for the other side of the triangle.  Cut out on your pencil lines.  Finished. ",
+  "sentences":[
+    " Take your square of paper.",
+    "Fold it in half vertically to determine the mid-line.",
+    "Unfold.",
+    "Measure the bottom side of the square.",
+    "In this case, it is 146 mm.",
+    "Memorize this measurement.",
+    "Take your ruler and lay the point of the measurement on the bottom corner of the square.",
+    "Angle the ruler so that the \"0\" point falls on the mid-line.",
+    "Draw a line with the ruler and pencil.",
+    "Repeat the previous two steps for the other side of the triangle.",
+    "Cut out on your pencil lines.",
+    "Finished."
+  ],
+  "tyn_section":[
+    "Scissors",
+    "Square of paper",
+    "Pencil",
+    "Ruler"
+  ],
+  "tyn_model":[
+    "ruler",
+    "pencil",
+    "paper"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.6666666667,
+    "f1":0.5714285714,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.6666666667,
+    "f1":0.5714285714
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.75,
+    "p":1.0,
+    "f1":0.8571428571
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.6666666667,
+    "f1":0.5714285714
+  }
+}

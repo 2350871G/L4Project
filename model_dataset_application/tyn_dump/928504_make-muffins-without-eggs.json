@@ -1,0 +1,141 @@
+{
+  "title":"How to Make Muffins Without Eggs",
+  "url":"https://www.wikihow.com/Make-Muffins-Without-Eggs",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Baking",
+    "Muffins"
+  ],
+  "steps":[
+    {
+      "headline":"Place the bowl on a counter or table.",
+      "description":""
+    },
+    {
+      "headline":"Pour the flour into it.",
+      "description":""
+    },
+    {
+      "headline":"Add the baking powder, sugar, chocolate powder (optional), and salt.",
+      "description":""
+    },
+    {
+      "headline":"Mix well with a fork or whisk",
+      "description":""
+    },
+    {
+      "headline":"Add the butter to the dry ingredients; mix well with a metal fork or your hands until creamed.",
+      "description":"Optional: Add the raisins, seeds, chocolate chips etc."
+    },
+    {
+      "headline":"Set the muffins dye stand into the pressure cooker with 4 cups (950 ml) of water on the base of cooker.",
+      "description":""
+    },
+    {
+      "headline":"Smear a little butter on the base and walls of muffin cups.",
+      "description":""
+    },
+    {
+      "headline":"Pour the batter into the cups of muffins pan.",
+      "description":"One-half cup is the right amount per cup."
+    },
+    {
+      "headline":"Preheat the cooker for 5 minutes.",
+      "description":""
+    },
+    {
+      "headline":"Place the batter-filled muffin pan in cooker, and close as directed in cooker's instruction manual.",
+      "description":""
+    },
+    {
+      "headline":"Steam for 25-30 minutes.",
+      "description":""
+    },
+    {
+      "headline":"When the time is up, smell the steam coming from the cooker and switch it off.",
+      "description":""
+    },
+    {
+      "headline":"Allow steam to subside.",
+      "description":""
+    },
+    {
+      "headline":"Open the lid of cooker and check by sticking  a toothpick into a muffin to make sure the inside is cooked.",
+      "description":"If the toothpick comes out clean, they're done; if not, cook for another 10 more minutes."
+    },
+    {
+      "headline":"Remove from cooker, transfer muffins to serving dish and enjoy.",
+      "description":""
+    }
+  ],
+  "text":" Place the bowl on a counter or table.  Pour the flour into it.  Add the baking powder, sugar, chocolate powder (optional), and salt.  Mix well with a fork or whisk  Add the butter to the dry ingredients; mix well with a metal fork or your hands until creamed. Optional: Add the raisins, seeds, chocolate chips etc. Set the muffins dye stand into the pressure cooker with 4 cups (950 ml) of water on the base of cooker.  Smear a little butter on the base and walls of muffin cups.  Pour the batter into the cups of muffins pan. One-half cup is the right amount per cup. Preheat the cooker for 5 minutes.  Place the batter-filled muffin pan in cooker, and close as directed in cooker's instruction manual.  Steam for 25-30 minutes.  When the time is up, smell the steam coming from the cooker and switch it off.  Allow steam to subside.  Open the lid of cooker and check by sticking  a toothpick into a muffin to make sure the inside is cooked. If the toothpick comes out clean, they're done; if not, cook for another 10 more minutes. Remove from cooker, transfer muffins to serving dish and enjoy. ",
+  "sentences":[
+    " Place the bowl on a counter or table.",
+    "Pour the flour into it.",
+    "Add the baking powder, sugar, chocolate powder (optional), and salt.",
+    "Mix well with a fork or whisk  Add the butter to the dry ingredients; mix well with a metal fork or your hands until creamed.",
+    "Optional: Add the raisins, seeds, chocolate chips etc.",
+    "Set the muffins dye stand into the pressure cooker with 4 cups (950 ml) of water on the base of cooker.",
+    "Smear a little butter on the base and walls of muffin cups.",
+    "Pour the batter into the cups of muffins pan.",
+    "One-half cup is the right amount per cup.",
+    "Preheat the cooker for 5 minutes.",
+    "Place the batter-filled muffin pan in cooker, and close as directed in cooker's instruction manual.",
+    "Steam for 25-30 minutes.",
+    "When the time is up, smell the steam coming from the cooker and switch it off.",
+    "Allow steam to subside.",
+    "Open the lid of cooker and check by sticking  a toothpick into a muffin to make sure the inside is cooked.",
+    "If the toothpick comes out clean, they're done; if not, cook for another 10 more minutes.",
+    "Remove from cooker, transfer muffins to serving dish and enjoy."
+  ],
+  "tyn_section":[
+    "2 large bowls",
+    "Pressure cooker",
+    "2 spoons",
+    "Muffin or cupcake pan with stand (like idly stand)",
+    "Whisk",
+    "Cupcake or muffin cups"
+  ],
+  "tyn_model":[
+    "cooker",
+    "butter",
+    "bowl",
+    "flour",
+    "baking powder",
+    "sugar",
+    "chocolate powder",
+    "salt",
+    "fork or whisk",
+    "metal fork",
+    "chocolate chips",
+    "pressure cooker",
+    "water",
+    "muffins pan",
+    "muffin pan",
+    "muffin",
+    "muffins",
+    "serving dish"
+  ],
+  "simple_metrics":{
+    "r":0.1666666667,
+    "p":0.0555555556,
+    "f1":0.0833333333,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.1666666667,
+    "p":0.1111111111,
+    "f1":0.1333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.3333333333,
+    "p":0.1666666667,
+    "f1":0.2222222222
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1666666667,
+    "p":0.0555555556,
+    "f1":0.0833333333
+  }
+}

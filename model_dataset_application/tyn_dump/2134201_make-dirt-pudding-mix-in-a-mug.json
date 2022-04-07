@@ -1,0 +1,72 @@
+{
+  "title":"How to Make Dirt Pudding Mix in a Mug",
+  "url":"https://www.wikihow.com/Make-Dirt-Pudding-Mix-in-a-Mug",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Desserts and Sweets",
+    "Puddings"
+  ],
+  "steps":[
+    {
+      "headline":"Combine the ingredients in a small plastic zipped bag.",
+      "description":""
+    },
+    {
+      "headline":"Line the inside of a coffee mug with tissue paper.",
+      "description":""
+    },
+    {
+      "headline":"Add the plastic bag with a small whisk in the mug.",
+      "description":""
+    },
+    {
+      "headline":"Attach a decorative tag to the mug.",
+      "description":"Write down the following directions on the tag:\nThoroughly mix the mug contents with 1/2 cup cold milk. Chill in the refrigerator and allow the pudding to set for at least 10 minutes."
+    }
+  ],
+  "text":" Combine the ingredients in a small plastic zipped bag.  Line the inside of a coffee mug with tissue paper.  Add the plastic bag with a small whisk in the mug.  Attach a decorative tag to the mug. Write down the following directions on the tag:\nThoroughly mix the mug contents with 1/2 cup cold milk. Chill in the refrigerator and allow the pudding to set for at least 10 minutes.",
+  "sentences":[
+    " Combine the ingredients in a small plastic zipped bag.",
+    "Line the inside of a coffee mug with tissue paper.",
+    "Add the plastic bag with a small whisk in the mug.",
+    "Attach a decorative tag to the mug.",
+    "Write down the following directions on the tag:\nThoroughly mix the mug contents with 1/2 cup cold milk.",
+    "Chill in the refrigerator and allow the pudding to set for at least 10 minutes."
+  ],
+  "tyn_section":[
+    "Decorative tag/label",
+    "Small whisk",
+    "Coffee mug",
+    "Small plastic zipped bag"
+  ],
+  "tyn_model":[
+    "small plastic zipped bag",
+    "coffee mug",
+    "tissue paper",
+    "plastic bag",
+    "cold milk",
+    "refrigerator"
+  ],
+  "simple_metrics":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.5,
+    "p":0.5,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.5,
+    "p":0.3333333333,
+    "f1":0.4
+  }
+}

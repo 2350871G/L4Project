@@ -1,0 +1,89 @@
+{
+  "title":"How to Make a Bailey's and Amaretto",
+  "url":"https://www.wikihow.com/Make-a-Bailey%27s-and-Amaretto",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Drinks",
+    "Alcoholic Drinks",
+    "Spirits and Liqueurs",
+    "Cocktails"
+  ],
+  "steps":[
+    {
+      "headline":"Get ingredients.",
+      "description":""
+    },
+    {
+      "headline":"Fill a shaker with ice.",
+      "description":""
+    },
+    {
+      "headline":"Pour Bailey's Irish Cream to a measuring cup.",
+      "description":""
+    },
+    {
+      "headline":"Add to the shaker.",
+      "description":""
+    },
+    {
+      "headline":"Pour Amaretto to a measuring cup.",
+      "description":""
+    },
+    {
+      "headline":"Add Amaretto to the shaker.",
+      "description":""
+    },
+    {
+      "headline":"Shake well.",
+      "description":""
+    },
+    {
+      "headline":"Strain and pour into a chilled cocktail glass.",
+      "description":""
+    }
+  ],
+  "text":" Get ingredients.  Fill a shaker with ice.  Pour Bailey's Irish Cream to a measuring cup.  Add to the shaker.  Pour Amaretto to a measuring cup.  Add Amaretto to the shaker.  Shake well.  Strain and pour into a chilled cocktail glass. ",
+  "sentences":[
+    " Get ingredients.",
+    "Fill a shaker with ice.",
+    "Pour Bailey's Irish Cream to a measuring cup.",
+    "Add to the shaker.",
+    "Pour Amaretto to a measuring cup.",
+    "Add Amaretto to the shaker.",
+    "Shake well.",
+    "Strain and pour into a chilled cocktail glass."
+  ],
+  "tyn_section":[
+    "Cocktail shaker",
+    "Cocktail glass",
+    "Strainer"
+  ],
+  "tyn_model":[
+    "shaker",
+    "ice",
+    "bailey's irish cream",
+    "measuring cup",
+    "chilled cocktail glass"
+  ],
+  "simple_metrics":{
+    "r":0.0,
+    "p":0.0,
+    "f1":0,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.4,
+    "f1":0.5
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.3333333333,
+    "p":0.2,
+    "f1":0.25
+  }
+}

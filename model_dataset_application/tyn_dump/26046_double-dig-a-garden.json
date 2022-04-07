@@ -1,0 +1,93 @@
+{
+  "title":"How to Double Dig a Garden",
+  "url":"https://www.wikihow.com/Double-Dig-a-Garden",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Gardening",
+    "Garden Projects"
+  ],
+  "steps":[
+    {
+      "headline":"Call first.",
+      "description":"Your county may have a digging hotline that will tell you where it is okay to dig, and whether or not you require authorizations."
+    },
+    {
+      "headline":"Remove sod (if any, or cut out and flip over into the bottom of the trenches you create.",
+      "description":""
+    },
+    {
+      "headline":"Begin at one end of the bed and dig a spade-head depth (approx.",
+      "description":"12\" deep or 30cm) trench across the bed's width, placing the excavated dirt in a wheelbarrow."
+    },
+    {
+      "headline":"Work a garden fork into the floor of the trench, and loosen the soil by tilling this layer too.",
+      "description":"Continue until the soil at the bottom of the trench is loosened."
+    },
+    {
+      "headline":"Dig a second, similar-size trench directly next to the first.",
+      "description":"Place the excavated soil into the first trench you dug. Loosen the soil at the bottom of this second trench with the garden fork as well."
+    },
+    {
+      "headline":"Dig a third trench next to the second trench.",
+      "description":"Backfill the second one, loosen the bottom of the third trench, and continue this process until you have tilled the whole bed."
+    },
+    {
+      "headline":"Fill the LAST trench with the soil excavated from the first.",
+      "description":"(The soil in the wheelbarrow)"
+    }
+  ],
+  "text":" Call first. Your county may have a digging hotline that will tell you where it is okay to dig, and whether or not you require authorizations. Remove sod (if any, or cut out and flip over into the bottom of the trenches you create.  Begin at one end of the bed and dig a spade-head depth (approx. 12\" deep or 30cm) trench across the bed's width, placing the excavated dirt in a wheelbarrow. Work a garden fork into the floor of the trench, and loosen the soil by tilling this layer too. Continue until the soil at the bottom of the trench is loosened. Dig a second, similar-size trench directly next to the first. Place the excavated soil into the first trench you dug. Loosen the soil at the bottom of this second trench with the garden fork as well. Dig a third trench next to the second trench. Backfill the second one, loosen the bottom of the third trench, and continue this process until you have tilled the whole bed. Fill the LAST trench with the soil excavated from the first. (The soil in the wheelbarrow)",
+  "sentences":[
+    " Call first.",
+    "Your county may have a digging hotline that will tell you where it is okay to dig, and whether or not you require authorizations.",
+    "Remove sod (if any, or cut out and flip over into the bottom of the trenches you create.",
+    "Begin at one end of the bed and dig a spade-head depth (approx.",
+    "12\" deep or 30cm) trench across the bed's width, placing the excavated dirt in a wheelbarrow.",
+    "Work a garden fork into the floor of the trench, and loosen the soil by tilling this layer too.",
+    "Continue until the soil at the bottom of the trench is loosened.",
+    "Dig a second, similar-size trench directly next to the first.",
+    "Place the excavated soil into the first trench you dug.",
+    "Loosen the soil at the bottom of this second trench with the garden fork as well.",
+    "Dig a third trench next to the second trench.",
+    "Backfill the second one, loosen the bottom of the third trench, and continue this process until you have tilled the whole bed.",
+    "Fill the LAST trench with the soil excavated from the first.",
+    "(The soil in the wheelbarrow)"
+  ],
+  "tyn_section":[
+    "Shovel",
+    "A strong back!",
+    "Garden Fork",
+    "Steel rake     (optional)",
+    "Wheelbarrow    (optional)",
+    "Compost        (optional)",
+    "Sand           (optional)"
+  ],
+  "tyn_model":[
+    "soil",
+    "garden fork",
+    "sod",
+    "dirt",
+    "wheelbarrow"
+  ],
+  "simple_metrics":{
+    "r":0.1428571429,
+    "p":0.2,
+    "f1":0.1666666667,
+    "avg_pos":0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.2857142857,
+    "p":0.4,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.2857142857,
+    "p":0.4,
+    "f1":0.3333333333
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.1428571429,
+    "p":0.2,
+    "f1":0.1666666667
+  }
+}

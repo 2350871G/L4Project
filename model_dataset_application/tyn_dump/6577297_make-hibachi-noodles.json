@@ -1,0 +1,107 @@
+{
+  "title":"How to Make Hibachi Noodles",
+  "url":"https://www.wikihow.com/Make-Hibachi-Noodles",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Recipes",
+    "Pasta and Noodles"
+  ],
+  "steps":[
+    {
+      "headline":"In a large pot of salted water, boil the dry pasta until cooked al dente.",
+      "description":""
+    },
+    {
+      "headline":"Drain the pasta using a colander and shake to remove any excess water.",
+      "description":""
+    },
+    {
+      "headline":"In a wok on medium high heat, melt the butter until fully melted.",
+      "description":""
+    },
+    {
+      "headline":"Stir in the garlic and saute until the mixture is fragrant.",
+      "description":""
+    },
+    {
+      "headline":"Pour in the soy sauce, teriyaki sauce, and sugar.",
+      "description":"Mix with a wooden spoon until well-combined."
+    },
+    {
+      "headline":"Season the noodles with salt and pepper.",
+      "description":""
+    },
+    {
+      "headline":"Remove the noodles from the heat.",
+      "description":""
+    },
+    {
+      "headline":"Toss and stir in the sesame oil.",
+      "description":""
+    },
+    {
+      "headline":"Serve.",
+      "description":"Place the Hibachi noodles in serving bowls. Sprinkle a few sesame seeds into each bowl while the noodles are hot. Enjoy!"
+    }
+  ],
+  "text":" In a large pot of salted water, boil the dry pasta until cooked al dente.  Drain the pasta using a colander and shake to remove any excess water.  In a wok on medium high heat, melt the butter until fully melted.  Stir in the garlic and saute until the mixture is fragrant.  Pour in the soy sauce, teriyaki sauce, and sugar. Mix with a wooden spoon until well-combined. Season the noodles with salt and pepper.  Remove the noodles from the heat.  Toss and stir in the sesame oil.  Serve. Place the Hibachi noodles in serving bowls. Sprinkle a few sesame seeds into each bowl while the noodles are hot. Enjoy!",
+  "sentences":[
+    " In a large pot of salted water, boil the dry pasta until cooked al dente.",
+    "Drain the pasta using a colander and shake to remove any excess water.",
+    "In a wok on medium high heat, melt the butter until fully melted.",
+    "Stir in the garlic and saute until the mixture is fragrant.",
+    "Pour in the soy sauce, teriyaki sauce, and sugar.",
+    "Mix with a wooden spoon until well-combined.",
+    "Season the noodles with salt and pepper.",
+    "Remove the noodles from the heat.",
+    "Toss and stir in the sesame oil.",
+    "Serve.",
+    "Place the Hibachi noodles in serving bowls.",
+    "Sprinkle a few sesame seeds into each bowl while the noodles are hot.",
+    "Enjoy!"
+  ],
+  "tyn_section":[
+    "Large pot",
+    "Wok",
+    "Colander",
+    "Wooden spoon",
+    "Tongs",
+    "Serving bowl"
+  ],
+  "tyn_model":[
+    "large pot",
+    "salted water",
+    "colander",
+    "wok",
+    "butter",
+    "garlic",
+    "soy sauce",
+    "teriyaki sauce",
+    "sugar",
+    "wooden spoon",
+    "salt and pepper",
+    "sesame oil",
+    "sesame seeds"
+  ],
+  "simple_metrics":{
+    "r":0.6666666667,
+    "p":0.3076923077,
+    "f1":0.4210526316,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.6666666667,
+    "p":0.3076923077,
+    "f1":0.4210526316
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.6666666667,
+    "p":0.3076923077,
+    "f1":0.4210526316
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.6666666667,
+    "p":0.3076923077,
+    "f1":0.4210526316
+  }
+}

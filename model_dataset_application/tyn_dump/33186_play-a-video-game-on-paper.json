@@ -1,0 +1,148 @@
+{
+  "title":"How to Play a Video Game on Paper",
+  "url":"https://www.wikihow.com/Play-a-Video-Game-on-Paper",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Backyard Games"
+  ],
+  "methods":[
+    {
+      "name":"Creating Your Own Characters",
+      "steps":[
+        {
+          "headline":"Get a blank piece of paper.",
+          "description":"It is recommended that you use graph paper, but any paper will do."
+        },
+        {
+          "headline":"Draw some sort of monster on it, but don't fill up the page.",
+          "description":"It is highly recommended to use a pencil so you can erase when he gets hurt. If you have a pen, that is fine."
+        },
+        {
+          "headline":"Give the monster a name and a health bar.",
+          "description":""
+        },
+        {
+          "headline":"Draw one or two smaller characters.",
+          "description":"You can make them up yourself."
+        },
+        {
+          "headline":"Give your character(s) a name and some health bars.",
+          "description":"Write a 100 above each health bar."
+        },
+        {
+          "headline":"Draw a magic bar or a power bar or whatever you feel like.",
+          "description":""
+        },
+        {
+          "headline":"Think up some attacks for your characters, and a few for the boss too.",
+          "description":"They should do varying amounts of damage.The strong ones use magic."
+        },
+        {
+          "headline":"Have one of your characters attack.",
+          "description":"Subtract the attack value from the enemy"
+        },
+        {
+          "headline":"Have the characters take turns attacking.",
+          "description":"You can play with your characters on the same team, or you can have all three go at it."
+        },
+        {
+          "headline":"Once the boss is down to zero health, you have advanced to Level 2.",
+          "description":"Reward yourself by unlocking something like Power Armor or Fire Arrow or a new character. One idea is that every level you unlock a Fusion ability, which lets you merge two characters into one."
+        },
+        {
+          "headline":"Once you're on level 2, keep going.",
+          "description":"There's really no limit in levels--just your imagination."
+        }
+      ]
+    },
+    {
+      "name":"Using Pok\u00e9mon Characters",
+      "steps":[
+        {
+          "headline":"Find or make up a Pok\u00e9mon character.",
+          "description":"Draw its 3 evolution stages on a different page."
+        },
+        {
+          "headline":"Do the same for the opponent.",
+          "description":""
+        },
+        {
+          "headline":"Write up 4 moves, type, Health Points and status.",
+          "description":""
+        },
+        {
+          "headline":"Use a health bar until one loses.",
+          "description":"Continue the game with levels and evolution as explained in Method 1."
+        }
+      ]
+    }
+  ],
+  "text":" Creating Your Own Characters Get a blank piece of paper. It is recommended that you use graph paper, but any paper will do. Draw some sort of monster on it, but don't fill up the page. It is highly recommended to use a pencil so you can erase when he gets hurt. If you have a pen, that is fine. Give the monster a name and a health bar.  Draw one or two smaller characters. You can make them up yourself. Give your character(s) a name and some health bars. Write a 100 above each health bar. Draw a magic bar or a power bar or whatever you feel like.  Think up some attacks for your characters, and a few for the boss too. They should do varying amounts of damage.The strong ones use magic. Have one of your characters attack. Subtract the attack value from the enemy Have the characters take turns attacking. You can play with your characters on the same team, or you can have all three go at it. Once the boss is down to zero health, you have advanced to Level 2. Reward yourself by unlocking something like Power Armor or Fire Arrow or a new character. One idea is that every level you unlock a Fusion ability, which lets you merge two characters into one. Once you're on level 2, keep going. There's really no limit in levels--just your imagination. Using Pok\u00e9mon Characters Find or make up a Pok\u00e9mon character. Draw its 3 evolution stages on a different page. Do the same for the opponent.  Write up 4 moves, type, Health Points and status.  Use a health bar until one loses. Continue the game with levels and evolution as explained in Method 1.",
+  "sentences":[
+    " Creating Your Own Characters Get a blank piece of paper.",
+    "It is recommended that you use graph paper, but any paper will do.",
+    "Draw some sort of monster on it, but don't fill up the page.",
+    "It is highly recommended to use a pencil so you can erase when he gets hurt.",
+    "If you have a pen, that is fine.",
+    "Give the monster a name and a health bar.",
+    "Draw one or two smaller characters.",
+    "You can make them up yourself.",
+    "Give your character(s) a name and some health bars.",
+    "Write a 100 above each health bar.",
+    "Draw a magic bar or a power bar or whatever you feel like.",
+    "Think up some attacks for your characters, and a few for the boss too.",
+    "They should do varying amounts of damage.The strong ones use magic.",
+    "Have one of your characters attack.",
+    "Subtract the attack value from the enemy Have the characters take turns attacking.",
+    "You can play with your characters on the same team, or you can have all three go at it.",
+    "Once the boss is down to zero health, you have advanced to Level 2.",
+    "Reward yourself by unlocking something like Power Armor or Fire Arrow or a new character.",
+    "One idea is that every level you unlock a Fusion ability, which lets you merge two characters into one.",
+    "Once you're on level 2, keep going.",
+    "There's really no limit in levels--just your imagination.",
+    "Using Pok\u00e9mon Characters Find or make up a Pok\u00e9mon character.",
+    "Draw its 3 evolution stages on a different page.",
+    "Do the same for the opponent.",
+    "Write up 4 moves, type, Health Points and status.",
+    "Use a health bar until one loses.",
+    "Continue the game with levels and evolution as explained in Method 1."
+  ],
+  "tyn_section":[
+    "Paper",
+    "Pencil",
+    "Eraser",
+    "A Friend for 2 Player Co-op (optional)",
+    "Lots of Imagination - It makes paper-gameplay more exciting"
+  ],
+  "tyn_model":[
+    "paper",
+    "graph paper",
+    "pencil",
+    "pen",
+    "fire arrow",
+    "pok\u00e9mon characters",
+    "pok\u00e9mon"
+  ],
+  "simple_metrics":{
+    "r":0.4,
+    "p":0.2857142857,
+    "f1":0.3333333333,
+    "avg_pos":0.0
+  },
+  "jacc_metrics_0.5":{
+    "r":0.4,
+    "p":0.4285714286,
+    "f1":0.4137931034
+  },
+  "jacc_metrics_0.3333333333333333":{
+    "r":0.4,
+    "p":0.4285714286,
+    "f1":0.4137931034
+  },
+  "jacc_metrics_0.6666666666666666":{
+    "r":0.4,
+    "p":0.2857142857,
+    "f1":0.3333333333
+  }
+}
