@@ -1,0 +1,76 @@
+{
+  "title":"How to Figure Your Odds of Holding a Winning Lottery Ticket",
+  "url":"https://www.wikihow.com/Figure-Your-Odds-of-Holding-a-Winning-Lottery-Ticket",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Games of Chance",
+    "Lotteries and Scratchcard Games"
+  ],
+  "methods":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"Gather the following information:",
+          "description":"T = How many lottery tickets will be sold W = How many tickets sold will be winners P = How many tickets you are planning to buy"
+        },
+        {
+          "headline":"Write down your first fraction: (T-W)/T.",
+          "description":"For the moment, don't simplify the fraction by reducing it to lowest terms. For example, suppose the lottery will sell 23,000,000 tickets, there will be 1,000 winning tickets, and you are planning to buy 6 tickets. Then  T = 23000000, W = 1000, and P = 6. The first fraction will be (23000000-1000)/23000000 = 22999000/23000000."
+        },
+        {
+          "headline":"Simplify the fraction (punch 22999000 divided by 23000000 into a calculator to get a decimal, in this case 0.99995652173913043478260869565217) and jump to the Subtract step if you only bought one ticket.",
+          "description":"If you bought more than one ticket, skip this step."
+        },
+        {
+          "headline":"Write more fractions by reducing the previous numerators and denominators by one, until the total number of fractions is equal to P, the number of tickets you are planning to buy.",
+          "description":"If you bought 6 tickets in the above example, these are the fractions you should come up with:\n22999000/23000000\nThis is your first fraction, from an earlier step. 22998999/22999999\nThis is the result of subtracting one from each of the numbers in your first fraction; the following fractions continue this pattern. 22998998/22999998\n22998997/22999997\n22998996/22999996\n22998995/22999995"
+        },
+        {
+          "headline":"Multiply all of the fractions together.",
+          "description":"There are two ways to do this. You can multiply all of the numerators, then multiply all the denominators, and then divide the numerator product by the denominator product. Or, if you have a calculator that can generate long decimals (such as the standard calculator in your computer), simplify all of the fractions (numerator divided by denominator to generate a decimal) and then multiply all of the decimals together. The resulting number is the probability of having NO winners among the tickets you purchased. The 5 fractions in this example generate these decimals, respectively:\n0.99995652173913043478260869565217\n0.99995652173724007553217719705118\n0.99995652173534971611736661890145\n0.99995652173345935653817693976221\n0.99995652173156899679460813819272\n0.99995652172967863688666019275222\n\nSince you have 5 fractions, you must multiply the resulting decimals together, which in this case results in 0.99973915876017716698091198324496"
+        },
+        {
+          "headline":"Subtract the result from 1 to get the probability of having AT LEAST ONE winner among the tickets you purchased.",
+          "description":"1 - 0.99973915876017716698091198324496 = 0.000260841239822833019088016756\nFor ease of calculation, let's cut it down to .0002608412"
+        },
+        {
+          "headline":"Invert the fraction.",
+          "description":"Press the \"1/x\" or \"x\" button on your calculator to invert the fraction you calculated in the previous step. 1 / .0002608412 ~= 3834, meaning that you have about a 1 in 3834 chance of holding at least one winning ticket. If your calculator doesn't have this function, skip this step and move on to the next."
+        },
+        {
+          "headline":"Convert the decimal into a fraction.",
+          "description":"Count the number of characters after the decimal point, as that will be the number of zeros following 1 in your denominator; to get the numerator, take the decimal point and any preceding zeros away. .0002608412 has 10 characters after the decimal point, so your denominator is 10,000,000,000 (1 followed by 10 zeros)\nWithout the decimal and the preceding zeros, .0002608412 = 2608412\nYour fraction is 2,608,412/10,000,000,000"
+        },
+        {
+          "headline":"Calculate your chances.",
+          "description":"Divide the denominator by the numerator. In this case, 10,000,000,000 divided by 2,608,412 equals 3,834 (when rounded). This corresponds to about 1 chance in 3,834 of holding at least one winning ticket."
+        }
+      ]
+    },
+    {
+      "name":"Simplified Method",
+      "steps":[
+        {
+          "headline":"Use this equation: Chance of Win = [1 - (1 - W/T)^P] * 100, which for P = 1 would reduce to: Chance of Win = W/T * 100.",
+          "description":"The resulting number is your percentage of winning. Using the numbers from the example above, this equation tells us that we have a 0.026084% (less than three one-hundredths of a percent) chance of winning."
+        },
+        {
+          "headline":"Convert to a fraction as above.",
+          "description":"Before multiplying by 100 to obtain the percentage, you will have calculated ~0.00026084. Create a fraction as from this as in the last steps of the first method above, so that you have 26084/100,000,000 (8 zeros after the one in this case because there are only 8 digits after the decimal point). Divide the denominator by the numerator, and your answer, when rounded, is 3,834--the same number you would have arrived at by use of the longer method."
+        }
+      ]
+    }
+  ],
+  "text":" Steps Gather the following information: T = How many lottery tickets will be sold W = How many tickets sold will be winners P = How many tickets you are planning to buy Write down your first fraction: (T-W)/T. For the moment, don't simplify the fraction by reducing it to lowest terms. For example, suppose the lottery will sell 23,000,000 tickets, there will be 1,000 winning tickets, and you are planning to buy 6 tickets. Then  T = 23000000, W = 1000, and P = 6. The first fraction will be (23000000-1000)/23000000 = 22999000/23000000. Simplify the fraction (punch 22999000 divided by 23000000 into a calculator to get a decimal, in this case 0.99995652173913043478260869565217) and jump to the Subtract step if you only bought one ticket. If you bought more than one ticket, skip this step. Write more fractions by reducing the previous numerators and denominators by one, until the total number of fractions is equal to P, the number of tickets you are planning to buy. If you bought 6 tickets in the above example, these are the fractions you should come up with:\n22999000/23000000\nThis is your first fraction, from an earlier step. 22998999/22999999\nThis is the result of subtracting one from each of the numbers in your first fraction; the following fractions continue this pattern. 22998998/22999998\n22998997/22999997\n22998996/22999996\n22998995/22999995 Multiply all of the fractions together. There are two ways to do this. You can multiply all of the numerators, then multiply all the denominators, and then divide the numerator product by the denominator product. Or, if you have a calculator that can generate long decimals (such as the standard calculator in your computer), simplify all of the fractions (numerator divided by denominator to generate a decimal) and then multiply all of the decimals together. The resulting number is the probability of having NO winners among the tickets you purchased. The 5 fractions in this example generate these decimals, respectively:\n0.99995652173913043478260869565217\n0.99995652173724007553217719705118\n0.99995652173534971611736661890145\n0.99995652173345935653817693976221\n0.99995652173156899679460813819272\n0.99995652172967863688666019275222\n\nSince you have 5 fractions, you must multiply the resulting decimals together, which in this case results in 0.99973915876017716698091198324496 Subtract the result from 1 to get the probability of having AT LEAST ONE winner among the tickets you purchased. 1 - 0.99973915876017716698091198324496 = 0.000260841239822833019088016756\nFor ease of calculation, let's cut it down to .0002608412 Invert the fraction. Press the \"1/x\" or \"x\" button on your calculator to invert the fraction you calculated in the previous step. 1 / .0002608412 ~= 3834, meaning that you have about a 1 in 3834 chance of holding at least one winning ticket. If your calculator doesn't have this function, skip this step and move on to the next. Convert the decimal into a fraction. Count the number of characters after the decimal point, as that will be the number of zeros following 1 in your denominator; to get the numerator, take the decimal point and any preceding zeros away. .0002608412 has 10 characters after the decimal point, so your denominator is 10,000,000,000 (1 followed by 10 zeros)\nWithout the decimal and the preceding zeros, .0002608412 = 2608412\nYour fraction is 2,608,412/10,000,000,000 Calculate your chances. Divide the denominator by the numerator. In this case, 10,000,000,000 divided by 2,608,412 equals 3,834 (when rounded). This corresponds to about 1 chance in 3,834 of holding at least one winning ticket. Simplified Method Use this equation: Chance of Win = [1 - (1 - W/T)^P] * 100, which for P = 1 would reduce to: Chance of Win = W/T * 100. The resulting number is your percentage of winning. Using the numbers from the example above, this equation tells us that we have a 0.026084% (less than three one-hundredths of a percent) chance of winning. Convert to a fraction as above. Before multiplying by 100 to obtain the percentage, you will have calculated ~0.00026084. Create a fraction as from this as in the last steps of the first method above, so that you have 26084/100,000,000 (8 zeros after the one in this case because there are only 8 digits after the decimal point). Divide the denominator by the numerator, and your answer, when rounded, is 3,834--the same number you would have arrived at by use of the longer method.",
+  "tyn_model":[
+    "calculator",
+    "lottery tickets",
+    "lottery",
+    "tickets"
+  ],
+  "tyn_section":[
+
+  ]
+}

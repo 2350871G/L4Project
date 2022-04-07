@@ -1,0 +1,39 @@
+{
+  "title":"How to Draw a Graph",
+  "url":"https://www.wikihow.com/Draw-a-Graph",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Shapes"
+  ],
+  "steps":[
+    {
+      "headline":"Draw the x axis.",
+      "description":"Make a horizontal line on the paper. You may draw arrows on the ends of the line to indicate it is a number line that continues past your data sample. Put the label \"X\" to the right of the line to indicate the x axis. Mark the center of the line with a vertical tick mark and label it 0. This is the origin of the graph. Make equally spaced tick marks on the rest of the x axis. For this example you should label the tick marks from 1 to 10 on the right side of the 0."
+    },
+    {
+      "headline":"Draw the y axis.",
+      "description":"Make a vertical line that passes through the origin of the x axis. Put the label \"Y\" above the line. Make equally spaced tick marks on the y axis. For this example you should label the tick marks from 2 to 20 above the 0."
+    },
+    {
+      "headline":"Calculate the values of y for several values of x.",
+      "description":"We will be drawing a graph using the function f(x) = 2x. This means that y = 2x. For every possible value on the x axis there will be a corresponding value on the y axis. To calculate the value of y, plug a number into x. If x= 3 then f(x) = 6. Only positive values will be used in this example. Set x = 0, 2, 4, 6, and 8. The corresponding y values are 0, 4, 8, 12, and 16. The result is a set of ordered pairs represented with the x, or abscissa, first and the y, or ordinate, second. For our example we will have five ordered pairs: (0,0), (2,4), (4,8), (6,12), and (8,16)."
+    },
+    {
+      "headline":"Mark the ordered pairs on the graph.",
+      "description":"Count over on the x axis then count up on the y axis. The value of y is marked on the graph above the x value."
+    },
+    {
+      "headline":"You have created a graph of the function f(x) = 2x.",
+      "description":""
+    }
+  ],
+  "text":" Draw the x axis. Make a horizontal line on the paper. You may draw arrows on the ends of the line to indicate it is a number line that continues past your data sample. Put the label \"X\" to the right of the line to indicate the x axis. Mark the center of the line with a vertical tick mark and label it 0. This is the origin of the graph. Make equally spaced tick marks on the rest of the x axis. For this example you should label the tick marks from 1 to 10 on the right side of the 0. Draw the y axis. Make a vertical line that passes through the origin of the x axis. Put the label \"Y\" above the line. Make equally spaced tick marks on the y axis. For this example you should label the tick marks from 2 to 20 above the 0. Calculate the values of y for several values of x. We will be drawing a graph using the function f(x) = 2x. This means that y = 2x. For every possible value on the x axis there will be a corresponding value on the y axis. To calculate the value of y, plug a number into x. If x= 3 then f(x) = 6. Only positive values will be used in this example. Set x = 0, 2, 4, 6, and 8. The corresponding y values are 0, 4, 8, 12, and 16. The result is a set of ordered pairs represented with the x, or abscissa, first and the y, or ordinate, second. For our example we will have five ordered pairs: (0,0), (2,4), (4,8), (6,12), and (8,16). Mark the ordered pairs on the graph. Count over on the x axis then count up on the y axis. The value of y is marked on the graph above the x value. You have created a graph of the function f(x) = 2x. ",
+  "tyn_model":[
+    "paper",
+    "graph"
+  ],
+  "tyn_section":[
+
+  ]
+}

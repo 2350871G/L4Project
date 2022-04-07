@@ -1,0 +1,109 @@
+{
+  "title":"How to Play Game Boy Games on a Calculator",
+  "url":"https://www.wikihow.com/Play-Game-Boy-Games-on-a-Calculator",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Game Boy"
+  ],
+  "parts":[
+    {
+      "name":"Getting the Right Tools",
+      "steps":[
+        {
+          "headline":"Own a TI-84 Plus CE, TI-84 Plus CE-T, or TI-83 Premium CE Calculator.",
+          "description":"In order to download the emulator, it needs to be on one of these calculators:\nTI-84 Plus CE (Preferred)\nTI-84 Plus CE-T\nTI-83 Premium CE"
+        },
+        {
+          "headline":"Download TI Connect CE on your computer.",
+          "description":"This is the official Texas Instruments downloader tool for the CE type calculators. You will need this to download the emulator. You can download it here: https://education.ti.com/en/products/computer-software/ti-connect-ce-sw"
+        }
+      ]
+    },
+    {
+      "name":"Downloading the Emulator onto Your Computer",
+      "steps":[
+        {
+          "headline":"Download TI-Boy CE onto your computer.",
+          "description":"This is the emulator that you will use to play Game Boy games. You can download it here: https://github.com/calc84maniac/tiboyce/releases\n\nMake sure that you download the latest version for the best experience!"
+        },
+        {
+          "headline":"Open the downloaded .zip file.",
+          "description":"The .zip file should contain the files TIBOYCE.8xp, TIBoySkn.8xv, and TIBoyDat.8xv. If it doesn't have these files, then download the .zip file again."
+        }
+      ]
+    },
+    {
+      "name":"Downloading the Emulator onto Your Calculator",
+      "steps":[
+        {
+          "headline":"Hook up your calculator's charging cable to your computer and to your calculator.",
+          "description":""
+        },
+        {
+          "headline":"Open TI Connect CE and go to the icon of the files.",
+          "description":"Make sure your calculator is turned on."
+        },
+        {
+          "headline":"Click on the export icon and send the files TIBOYCE.8xp, TIBoySkn.8xv, and TIBoyDat.8xv to your calculator.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Downloading Game Boy Games onto Your Calculator",
+      "steps":[
+        {
+          "headline":"Download your desired Game Boy game onto your computer.",
+          "description":"You will need to download a ROM of your game. You can search for \"Game Boy ROMs\" on Google and find one."
+        },
+        {
+          "headline":"Convert the ROM into a .8vx file.",
+          "description":"The ROM needs to be converted to work with the TI-Boy CE. You can use this converter: https://calc84maniac.github.io/tiboyce/converter/"
+        },
+        {
+          "headline":"Download the .8vx file to your calculator.",
+          "description":"This can be accomplished using the same method you used to download the emulator. This file will come in a bundle so you may get a warning prompt before downloading. You can ignore this."
+        }
+      ]
+    },
+    {
+      "name":"Play your Game Boy Game",
+      "steps":[
+        {
+          "headline":"Press the \"prgm\" button and go to \"*TIBOYCE\".",
+          "description":"Press enter twice."
+        },
+        {
+          "headline":"Go to your desired game and press enter.",
+          "description":""
+        },
+        {
+          "headline":"Learn the controls.",
+          "description":"The default controls are as follows:\nRight: Right Arrow\nLeft: Left Arrow\nUp: Up Arrow\nDown: Down Arrow\nA: \"2nd\" Button\nB: \"alpha\" Button\nStart: \"mode\" Button\nSelect: \"X,T,0,n\" Button\nEmulator Menu: \"Clear\" Button\nTurbo Mode: \"zoom\" Button\nSave Game: \"sto->\" Button\nLoad Game: \"ln\" Button\nSave Slot Select: \"log\" Button\nThese controls can be changed at any time."
+        },
+        {
+          "headline":"Have fun!",
+          "description":"You can now play Game Boy games on your calculator!"
+        }
+      ]
+    }
+  ],
+  "text":" Getting the Right Tools Own a TI-84 Plus CE, TI-84 Plus CE-T, or TI-83 Premium CE Calculator. In order to download the emulator, it needs to be on one of these calculators:\nTI-84 Plus CE (Preferred)\nTI-84 Plus CE-T\nTI-83 Premium CE Download TI Connect CE on your computer. This is the official Texas Instruments downloader tool for the CE type calculators. You will need this to download the emulator. You can download it here: https://education.ti.com/en/products/computer-software/ti-connect-ce-sw Downloading the Emulator onto Your Computer Download TI-Boy CE onto your computer. This is the emulator that you will use to play Game Boy games. You can download it here: https://github.com/calc84maniac/tiboyce/releases\n\nMake sure that you download the latest version for the best experience! Open the downloaded .zip file. The .zip file should contain the files TIBOYCE.8xp, TIBoySkn.8xv, and TIBoyDat.8xv. If it doesn't have these files, then download the .zip file again. Downloading the Emulator onto Your Calculator Hook up your calculator's charging cable to your computer and to your calculator.  Open TI Connect CE and go to the icon of the files. Make sure your calculator is turned on. Click on the export icon and send the files TIBOYCE.8xp, TIBoySkn.8xv, and TIBoyDat.8xv to your calculator.  Downloading Game Boy Games onto Your Calculator Download your desired Game Boy game onto your computer. You will need to download a ROM of your game. You can search for \"Game Boy ROMs\" on Google and find one. Convert the ROM into a .8vx file. The ROM needs to be converted to work with the TI-Boy CE. You can use this converter: https://calc84maniac.github.io/tiboyce/converter/ Download the .8vx file to your calculator. This can be accomplished using the same method you used to download the emulator. This file will come in a bundle so you may get a warning prompt before downloading. You can ignore this. Play your Game Boy Game Press the \"prgm\" button and go to \"*TIBOYCE\". Press enter twice. Go to your desired game and press enter.  Learn the controls. The default controls are as follows:\nRight: Right Arrow\nLeft: Left Arrow\nUp: Up Arrow\nDown: Down Arrow\nA: \"2nd\" Button\nB: \"alpha\" Button\nStart: \"mode\" Button\nSelect: \"X,T,0,n\" Button\nEmulator Menu: \"Clear\" Button\nTurbo Mode: \"zoom\" Button\nSave Game: \"sto->\" Button\nLoad Game: \"ln\" Button\nSave Slot Select: \"log\" Button\nThese controls can be changed at any time. Have fun! You can now play Game Boy games on your calculator!",
+  "tyn_model":[
+    "calculator",
+    "emulator",
+    "game boy games",
+    "ti-boy ce",
+    "texas instruments downloader",
+    "ti connect ce",
+    "game boy game",
+    "game boy roms",
+    "game boy"
+  ],
+  "tyn_section":[
+
+  ]
+}

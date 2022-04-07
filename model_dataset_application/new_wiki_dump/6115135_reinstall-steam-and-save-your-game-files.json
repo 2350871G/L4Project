@@ -1,0 +1,40 @@
+{
+  "title":"How to Reinstall Steam and Save Your Game Files",
+  "url":"https://www.wikihow.com/Reinstall-Steam-and-Save-Your-Game-Files",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "steps":[
+    {
+      "headline":"Find your Steam folder.",
+      "description":"It is located in your \"Program files\" folder. Scroll down until you see a folder called \"Steam\". Once you've found it, open it."
+    },
+    {
+      "headline":"Save your game files, if desired.",
+      "description":"Once in the Steam main folder, scroll down until you see a folder labeled \"SteamApps\". Open it, then copy the folder labeled \"common\". Paste it somewhere safe in your hard drive (A place you'll remember). This method may make the reinstalling useless. Be sure that your problem isn't due to an individual game file, as you'll copy the bad file along if it's located in the folder you've copied."
+    },
+    {
+      "headline":"Reinstall Steam itself.",
+      "description":"First, delete your whole Steam folder (Right click, delete). Open your favourite Web browser, and go to Steam's website. On the upper-right corner of the screen, you'll see a button labeled \"Install Steam\". Click on it. Click the green \"Install Steam Now\" button, and accept the download. It'll download the setup file for Steam. Once done, just launch the setup and follow the instructions."
+    },
+    {
+      "headline":"Get your game files back in your new Steam folder, if you saved them.",
+      "description":"Remember where you've pasted your game files (That \"common\" folder)? Copy that and paste it in the newly created \"SteamApps\" folder. Windows Explorer may ask if you want to overwrite some files. Just click yes, and you should be set!"
+    },
+    {
+      "headline":"Log into Steam.",
+      "description":"Log back into Steam, and check if everything is working properly."
+    }
+  ],
+  "text":" Find your Steam folder. It is located in your \"Program files\" folder. Scroll down until you see a folder called \"Steam\". Once you've found it, open it. Save your game files, if desired. Once in the Steam main folder, scroll down until you see a folder labeled \"SteamApps\". Open it, then copy the folder labeled \"common\". Paste it somewhere safe in your hard drive (A place you'll remember). This method may make the reinstalling useless. Be sure that your problem isn't due to an individual game file, as you'll copy the bad file along if it's located in the folder you've copied. Reinstall Steam itself. First, delete your whole Steam folder (Right click, delete). Open your favourite Web browser, and go to Steam's website. On the upper-right corner of the screen, you'll see a button labeled \"Install Steam\". Click on it. Click the green \"Install Steam Now\" button, and accept the download. It'll download the setup file for Steam. Once done, just launch the setup and follow the instructions. Get your game files back in your new Steam folder, if you saved them. Remember where you've pasted your game files (That \"common\" folder)? Copy that and paste it in the newly created \"SteamApps\" folder. Windows Explorer may ask if you want to overwrite some files. Just click yes, and you should be set! Log into Steam. Log back into Steam, and check if everything is working properly.",
+  "tyn_model":[
+    "steam",
+    "windows explorer"
+  ],
+  "tyn_section":[
+
+  ]
+}

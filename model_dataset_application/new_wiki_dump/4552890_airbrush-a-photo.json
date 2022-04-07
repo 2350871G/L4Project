@@ -1,0 +1,164 @@
+{
+  "title":"How to Airbrush a Photo",
+  "url":"https://www.wikihow.com/Airbrush-a-Photo",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Editing"
+  ],
+  "parts":[
+    {
+      "name":"Isolating an Area and Duplicating into Layers",
+      "steps":[
+        {
+          "headline":"Launch your Adobe Photoshop software.",
+          "description":"Locate the application your computer and double click to open."
+        },
+        {
+          "headline":"Select a photo you want to edit.",
+          "description":"Go to the \"File\" menu and click \"Open.\" Find and select the photo you want to edit. It\u2019s best to select a photo with high resolution since you\u2019re dealing with fine details. A 10-megapixel image should suffice."
+        },
+        {
+          "headline":"Use the Lasso tool.",
+          "description":"Select a portion of the photo with skin."
+        },
+        {
+          "headline":"Duplicate that area by pressing Ctrl + J twice.",
+          "description":"You will now have two layers."
+        },
+        {
+          "headline":"Rename the top layer \u201cHigh Pass.\u201d Also rename the middle layer \u201cLow Pass.\u201d",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Working on the Low Pass Layer",
+      "steps":[
+        {
+          "headline":"Hide the High Pass layer.",
+          "description":"Do this by selecting the \"High Pass\" layer and clicking on the eye icon to the left of the layer."
+        },
+        {
+          "headline":"Select the \"Low Pass\" layer.",
+          "description":"Select \"Filter\" then \"Blur\" from the menu."
+        },
+        {
+          "headline":"Set the radius and threshold.",
+          "description":"First, choose \"Surface Blur.\" Then adjust in a way that the image becomes blurry but still recognizable."
+        },
+        {
+          "headline":"Adjust the threshold to where the edges become sharp.",
+          "description":"When you\u2019re done, adjust the radius so the skin becomes smooth."
+        }
+      ]
+    },
+    {
+      "name":"Working on the High Pass Layer",
+      "steps":[
+        {
+          "headline":"Select the \"High Pass\" layer.",
+          "description":"Click on the eye icon in the left to reveal this layer."
+        },
+        {
+          "headline":"Change the layer blending mode to Linear Light.",
+          "description":"Do this by clicking the drop-down menu above your layer list and choosing the option."
+        },
+        {
+          "headline":"Add a layer mask.",
+          "description":"For a natural look, you will need to reduce the visibility of bumps on the darker skin-toned sides of the skin. To simulate this effect, add a layer mask by going to Layer >  Layer Mask > Reveal All."
+        },
+        {
+          "headline":"Use the \"Apply Image\" tool.",
+          "description":"Apply a copy of the image on the mask."
+        },
+        {
+          "headline":"Click the thumbnail of the High Pass layer.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Applying Filters",
+      "steps":[
+        {
+          "headline":"Zoom in to 100% somewhere close to the skin.",
+          "description":"Select \"High Pass\" filter. You can find this option by expanding the \"Filter\" menu then \"Other.\""
+        },
+        {
+          "headline":"Adjust the Radius until the skin looks natural.",
+          "description":"It\u2019s best to adjust in tiny increments."
+        },
+        {
+          "headline":"Click the thumbnail on the layer mask.",
+          "description":"This is located in the layers palette."
+        },
+        {
+          "headline":"Adjusts the contrast and brightness.",
+          "description":"Head to Image > Adjustments > Brightness/Contrast. Increase the contrast and adjust the brightness to the bumps on the skin. The bumps are less visible on darker areas and more visible in bright areas."
+        }
+      ]
+    },
+    {
+      "name":"Creating a Layer Mask for Areas Not on the Skin",
+      "steps":[
+        {
+          "headline":"Select the top two layers.",
+          "description":"Press Ctrl + G."
+        },
+        {
+          "headline":"Hide the layers.",
+          "description":"Go to Layers > Layer Mask > Hide All."
+        },
+        {
+          "headline":"Add a new layer.",
+          "description":"Add it above the \"High Pass\" layer."
+        },
+        {
+          "headline":"Fill this with the color red.",
+          "description":"Change the opacity of the layer to 50%."
+        },
+        {
+          "headline":"Select the \"Group Layer Mask.\"",
+          "description":"Do this by clicking the black thumbnail in the layers palette."
+        },
+        {
+          "headline":"Use the the brush tool and paint over the skin.",
+          "description":"This will make the smooth skin effect visible over areas you paint."
+        },
+        {
+          "headline":"Select a large-diameter brush.",
+          "description":"Just right-click anywhere on the canvas and select a large-diameter brush with 50 hardness."
+        },
+        {
+          "headline":"Start painting the skin.",
+          "description":"Fill the tiny spots with a smaller brush. Precision isn\u2019t too required here, as small flaws aren\u2019t noticeable"
+        },
+        {
+          "headline":"Delete the red fill layer when you finish.",
+          "description":"Done!"
+        }
+      ]
+    }
+  ],
+  "text":" Isolating an Area and Duplicating into Layers Launch your Adobe Photoshop software. Locate the application your computer and double click to open. Select a photo you want to edit. Go to the \"File\" menu and click \"Open.\" Find and select the photo you want to edit. It\u2019s best to select a photo with high resolution since you\u2019re dealing with fine details. A 10-megapixel image should suffice. Use the Lasso tool. Select a portion of the photo with skin. Duplicate that area by pressing Ctrl + J twice. You will now have two layers. Rename the top layer \u201cHigh Pass.\u201d Also rename the middle layer \u201cLow Pass.\u201d  Working on the Low Pass Layer Hide the High Pass layer. Do this by selecting the \"High Pass\" layer and clicking on the eye icon to the left of the layer. Select the \"Low Pass\" layer. Select \"Filter\" then \"Blur\" from the menu. Set the radius and threshold. First, choose \"Surface Blur.\" Then adjust in a way that the image becomes blurry but still recognizable. Adjust the threshold to where the edges become sharp. When you\u2019re done, adjust the radius so the skin becomes smooth. Working on the High Pass Layer Select the \"High Pass\" layer. Click on the eye icon in the left to reveal this layer. Change the layer blending mode to Linear Light. Do this by clicking the drop-down menu above your layer list and choosing the option. Add a layer mask. For a natural look, you will need to reduce the visibility of bumps on the darker skin-toned sides of the skin. To simulate this effect, add a layer mask by going to Layer >  Layer Mask > Reveal All. Use the \"Apply Image\" tool. Apply a copy of the image on the mask. Click the thumbnail of the High Pass layer.  Applying Filters Zoom in to 100% somewhere close to the skin. Select \"High Pass\" filter. You can find this option by expanding the \"Filter\" menu then \"Other.\" Adjust the Radius until the skin looks natural. It\u2019s best to adjust in tiny increments. Click the thumbnail on the layer mask. This is located in the layers palette. Adjusts the contrast and brightness. Head to Image > Adjustments > Brightness/Contrast. Increase the contrast and adjust the brightness to the bumps on the skin. The bumps are less visible on darker areas and more visible in bright areas. Creating a Layer Mask for Areas Not on the Skin Select the top two layers. Press Ctrl + G. Hide the layers. Go to Layers > Layer Mask > Hide All. Add a new layer. Add it above the \"High Pass\" layer. Fill this with the color red. Change the opacity of the layer to 50%. Select the \"Group Layer Mask.\" Do this by clicking the black thumbnail in the layers palette. Use the the brush tool and paint over the skin. This will make the smooth skin effect visible over areas you paint. Select a large-diameter brush. Just right-click anywhere on the canvas and select a large-diameter brush with 50 hardness. Start painting the skin. Fill the tiny spots with a smaller brush. Precision isn\u2019t too required here, as small flaws aren\u2019t noticeable Delete the red fill layer when you finish. Done!",
+  "tyn_model":[
+    "layer mask",
+    "paint",
+    "adobe photoshop",
+    "lasso",
+    "skin",
+    "\u201chigh",
+    "\u201d also",
+    "\u201clow",
+    "\u201d  ",
+    "filters",
+    "brush tool",
+    "brush",
+    "canvas",
+    "large-diameter brush"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "title":"How to Test a Circuit",
+  "url":"https://www.wikihow.com/Test-a-Circuit",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "methods":[
+    {
+      "name":"Using a Continuity Tester on Circuits",
+      "steps":[
+        {
+          "headline":"Disconnect the power from the circuit you want to test.",
+          "description":"Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you\u2019re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery. If you\u2019re testing for continuity in home electrical wiring, turn off the appropriate breaker at your main electrical service panel. Next, test a non-contact voltage tester on a circuit you know is working (such as any meter you use daily). Then, use the non-contact voltage tester to make sure the power is off at the circuit you\u2019ll be testing. Separate the circuit you want to test from other potentially hot wires to ensure you don't get a false positive. Then, simply place the tip of the voltage tester near the wiring of the circuit you\u2019ll be testing. If the voltage tester lights up and \u201cchirps,\u201d the power is still on."
+        },
+        {
+          "headline":"Make sure your continuity tester works.",
+          "description":"A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder. To test that it\u2019s working, simply touch the clip to the probe. If the lamp comes on, it\u2019s working. If it doesn\u2019t, check the battery. Continuity testers are cheap and easy to use, but you can also find instructions online for making your own with a few simple parts."
+        },
+        {
+          "headline":"Touch the probe and attach the clip to opposite ends of the circuit.",
+          "description":"For the basic \u201c2 wires running from a 9v battery to a light\u201d circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn\u2019t matter which wires you clip or touch. If you\u2019re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends\u2014but only after you\u2019ve confirmed with a voltage tester that the power is off. Attach the tester\u2019s clip to a wire at one box, then start touching the probe to wires in the other box."
+        },
+        {
+          "headline":"Watch for the lamp to illuminate on your tester.",
+          "description":"If the lamp lights up, you have a completed circuit. If it doesn\u2019t\u2014and you\u2019ve already made sure the tester\u2019s battery is working\u2014then you don\u2019t have a completed circuit."
+        }
+      ]
+    },
+    {
+      "name":"Testing Continuity with a Multimeter",
+      "steps":[
+        {
+          "headline":"Remove all current from the circuit you\u2019re testing.",
+          "description":"Either disconnect your simple circuit from its battery or shut off your home circuit\u2019s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester. Non-contact voltage testers look like thick pens and can be found at any hardware store. They light up and make a chirping sound whenever the probe end is placed in close proximity to an electrical current. When using a non-contact circuit tester, make sure to separate the wires you want to test from all nearby wires. If the wires are too close, a hot wire's magnetic field can affect the reading and show a false positive."
+        },
+        {
+          "headline":"Turn your multimeter\u2019s dial to continuity mode.",
+          "description":"Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave. Typically, the symbol will look something like this\u2014   )))))  \u2014except that the curved lines will go from smaller to larger from left to right. Read the manual that came with your meter before using it to ensure you know how to use it correctly."
+        },
+        {
+          "headline":"Place the test leads into their appropriate jacks.",
+          "description":"Multimeters come with two wire leads\u2014a black one and a red one\u2014with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity. Plug the black test lead into the \u201cCOM\u201d (or similar, for \u201ccommon\u201d) jack. This is always where the black lead goes, no matter the test you\u2019re conducting. Plug the red test lead into the jack labeled \u201cV\u03a9,\u201d \u201cV\u03a9mA,\u201d or similar. This jack is used for low current testing, which is appropriate for circuit continuity testing. Consult your multimeter\u2019s manual if you\u2019re not sure which jack to use."
+        },
+        {
+          "headline":"Touch the probe ends together to test the multimeter.",
+          "description":"The multimeter tests for continuity by sending out a small current, so you\u2019ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well. If your multimeter doesn\u2019t beep, and the digital display (if it has one) shows \u201cOL\u201d (for \u201copen loop\u201d) or the number 1, then it is not working properly. Check its battery and consult your user\u2019s manual."
+        },
+        {
+          "headline":"Touch the probe ends to opposite ends of the circuit you\u2019re testing.",
+          "description":"If you wanted to test a single strand of wire, you\u2019d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you\u2019d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it. Remember that, in most cases, a beeping sound and possibly a displayed \u201c0\u201d indicate continuity, and no beeping and possibly a \u201c1\u201d or \u201cOL\u201d indicate discontinuity."
+        }
+      ]
+    },
+    {
+      "name":"Checking for Grounding with a Circuit Tester",
+      "steps":[
+        {
+          "headline":"Rely on a circuit tester when checking older home wiring.",
+          "description":"You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring\u2014especially in older homes\u2014is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it. If you don't have knowledge or experience working with electricity, this task is best left to a certified electrician. You can buy circuit testers at any hardware store, and they look a bit like a continuity tester\u2014a small cylinder with a light at one end (neon in this case) and two attached wires with probes (instead of one). Circuit testers are not-self powered, though, meaning that, unlike a continuity tester or multimeter, the circuit you\u2019re testing needs to be supplied with power."
+        },
+        {
+          "headline":"Turn off the power supply, and confirm it\u2019s off.",
+          "description":"If you\u2019re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn\u2019t light up or chirp, the power is off. Another way to confirm the power is off is to plug a device (that you know is working properly) into the outlet."
+        },
+        {
+          "headline":"Expose the wiring and turn the power back on.",
+          "description":"With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel. Live, exposed wires create a hazard for electrocution (if someone touches the wires) or fire (if the wires touch each other or a nearby object). Before turning the power on, make sure the exposed wire tips are completely separated and not touching anything; tell everyone in the area/home that there are live wires in that specific location; and put up a sign (e.g. \"Live Wires! Don't Touch!\") right near the outlet."
+        },
+        {
+          "headline":"Touch a hot wire and a neutral wire with the test probes.",
+          "description":"Touch the black probe to the exposed hot (or live) wire\u2014it\u2019s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire\u2014which will be white. This completes the circuit, and the neon lamp should light up. You\u2019re testing the tester by completing this circuit. If the neon lamp doesn\u2019t light up, either your tester is bad or the power isn\u2019t actually back on to your outlet."
+        },
+        {
+          "headline":"Touch a hot wire and the ground wire to check for grounding.",
+          "description":"As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded. If the neon lamp doesn\u2019t light up, the ground wire in this outlet box is not properly connected to the home grounding system. Call an electrician if you are not well-versed in making home electrical repairs. After a successful test, turn the power off at the breaker box; test the exposed wires with the voltage tester to be sure the power is off; reconnect the wires as before and close up the outlet box; and turn the power back on at the breaker box."
+        }
+      ]
+    }
+  ],
+  "text":" Using a Continuity Tester on Circuits Disconnect the power from the circuit you want to test. Continuity testers work by sending a small current through the circuit, so the circuit needs to be disconnected from its power supply. If you\u2019re testing a simple school project circuit (two wires running between a 9v battery and a light, for instance), just disconnect the wires from the battery. If you\u2019re testing for continuity in home electrical wiring, turn off the appropriate breaker at your main electrical service panel. Next, test a non-contact voltage tester on a circuit you know is working (such as any meter you use daily). Then, use the non-contact voltage tester to make sure the power is off at the circuit you\u2019ll be testing. Separate the circuit you want to test from other potentially hot wires to ensure you don't get a false positive. Then, simply place the tip of the voltage tester near the wiring of the circuit you\u2019ll be testing. If the voltage tester lights up and \u201cchirps,\u201d the power is still on. Make sure your continuity tester works. A basic continuity tester, which you can buy at any hardware store, consists of a small cylinder with a lamp at one end and a probe at the other. A battery goes inside the cylinder to power the tester, and a flexible wire with a clip extends out from the cylinder. To test that it\u2019s working, simply touch the clip to the probe. If the lamp comes on, it\u2019s working. If it doesn\u2019t, check the battery. Continuity testers are cheap and easy to use, but you can also find instructions online for making your own with a few simple parts. Touch the probe and attach the clip to opposite ends of the circuit. For the basic \u201c2 wires running from a 9v battery to a light\u201d circuit setup, attach the clip to one of the wires you disconnected from the battery, and touch the probe to the other detached wire. It doesn\u2019t matter which wires you clip or touch. If you\u2019re trying to figure out which wire connects to which between a wall switch and nearby wall outlet at home, take the cover plates off and unbundle or detach the wire ends\u2014but only after you\u2019ve confirmed with a voltage tester that the power is off. Attach the tester\u2019s clip to a wire at one box, then start touching the probe to wires in the other box. Watch for the lamp to illuminate on your tester. If the lamp lights up, you have a completed circuit. If it doesn\u2019t\u2014and you\u2019ve already made sure the tester\u2019s battery is working\u2014then you don\u2019t have a completed circuit. Testing Continuity with a Multimeter Remove all current from the circuit you\u2019re testing. Either disconnect your simple circuit from its battery or shut off your home circuit\u2019s power supply at the breaker box. For home wiring in particular, always ensure that the power is actually off by using a non-contact voltage tester. Non-contact voltage testers look like thick pens and can be found at any hardware store. They light up and make a chirping sound whenever the probe end is placed in close proximity to an electrical current. When using a non-contact circuit tester, make sure to separate the wires you want to test from all nearby wires. If the wires are too close, a hot wire's magnetic field can affect the reading and show a false positive. Turn your multimeter\u2019s dial to continuity mode. Multimeters vary by make and model, but nearly all of them have a dial on the receiver with an array of settings. If your multimeter has a continuity setting, it will usually be denoted by an image of a series of curved lines that look like a sound wave. Typically, the symbol will look something like this\u2014   )))))  \u2014except that the curved lines will go from smaller to larger from left to right. Read the manual that came with your meter before using it to ensure you know how to use it correctly. Place the test leads into their appropriate jacks. Multimeters come with two wire leads\u2014a black one and a red one\u2014with plugs at one end and probes at the other. Many multimeters have at least 3 jacks in which you can plug in the leads, however, so you need to insert them properly in order to test for continuity. Plug the black test lead into the \u201cCOM\u201d (or similar, for \u201ccommon\u201d) jack. This is always where the black lead goes, no matter the test you\u2019re conducting. Plug the red test lead into the jack labeled \u201cV\u03a9,\u201d \u201cV\u03a9mA,\u201d or similar. This jack is used for low current testing, which is appropriate for circuit continuity testing. Consult your multimeter\u2019s manual if you\u2019re not sure which jack to use. Touch the probe ends together to test the multimeter. The multimeter tests for continuity by sending out a small current, so you\u2019ll make a complete circuit by touching the red and black probe ends together. In most models, the multimeter will beep to indicate continuity, and may also (if it has a digital display) provide a visual indicator (such as the number 0) as well. If your multimeter doesn\u2019t beep, and the digital display (if it has one) shows \u201cOL\u201d (for \u201copen loop\u201d) or the number 1, then it is not working properly. Check its battery and consult your user\u2019s manual. Touch the probe ends to opposite ends of the circuit you\u2019re testing. If you wanted to test a single strand of wire, you\u2019d touch the probe ends to each end of the wire. If you wanted to check a small light bulb with two attached wire leads, you\u2019d touch a probe to each of the leads. The multimeter works in this case by completing the circuit and introducing a small current into it. Remember that, in most cases, a beeping sound and possibly a displayed \u201c0\u201d indicate continuity, and no beeping and possibly a \u201c1\u201d or \u201cOL\u201d indicate discontinuity. Checking for Grounding with a Circuit Tester Rely on a circuit tester when checking older home wiring. You can use a circuit tester to confirm any type of completed circuit, but its best use is perhaps to make sure that home electrical wiring\u2014especially in older homes\u2014is properly grounded. You might, for instance, find a green-coated or bare copper ground wire in an outlet box, but the only way to really be sure that it is actually grounded is to test it. If you don't have knowledge or experience working with electricity, this task is best left to a certified electrician. You can buy circuit testers at any hardware store, and they look a bit like a continuity tester\u2014a small cylinder with a light at one end (neon in this case) and two attached wires with probes (instead of one). Circuit testers are not-self powered, though, meaning that, unlike a continuity tester or multimeter, the circuit you\u2019re testing needs to be supplied with power. Turn off the power supply, and confirm it\u2019s off. If you\u2019re checking the wiring in a wall outlet, turn off the power to that outlet at the main breaker panel. Then, place a non-contact voltage tester into the narrow slot (where you plug in) in the outlet face. If the tester doesn\u2019t light up or chirp, the power is off. Another way to confirm the power is off is to plug a device (that you know is working properly) into the outlet. Expose the wiring and turn the power back on. With the power confirmed off, take off the face cover and unbundle and separate the wires inside the outlet box. Make sure the exposed ends are not touching. Then, turn the power back on to the outlet at the breaker panel. Live, exposed wires create a hazard for electrocution (if someone touches the wires) or fire (if the wires touch each other or a nearby object). Before turning the power on, make sure the exposed wire tips are completely separated and not touching anything; tell everyone in the area/home that there are live wires in that specific location; and put up a sign (e.g. \"Live Wires! Don't Touch!\") right near the outlet. Touch a hot wire and a neutral wire with the test probes. Touch the black probe to the exposed hot (or live) wire\u2014it\u2019s usually black, but could be any color other than white or green. Touch the red probe to a neutral exposed wire\u2014which will be white. This completes the circuit, and the neon lamp should light up. You\u2019re testing the tester by completing this circuit. If the neon lamp doesn\u2019t light up, either your tester is bad or the power isn\u2019t actually back on to your outlet. Touch a hot wire and the ground wire to check for grounding. As before, touch the black probe to the exposed end of the black (or not white or green) hot wire. Then touch the red probe to the ground wire, which should either be coated in green or be unsheathed copper. If the tester lights up, you know that the outlet is properly grounded. If the neon lamp doesn\u2019t light up, the ground wire in this outlet box is not properly connected to the home grounding system. Call an electrician if you are not well-versed in making home electrical repairs. After a successful test, turn the power off at the breaker box; test the exposed wires with the voltage tester to be sure the power is off; reconnect the wires as before and close up the outlet box; and turn the power back on at the breaker box.",
+  "tyn_model":[
+    "multimeter",
+    "probe",
+    "voltage tester",
+    "continuity tester",
+    "lamp",
+    "multimeters",
+    "circuit tester",
+    "continuity testers",
+    "non-contact voltage tester",
+    "tester",
+    "\u2014a",
+    "probes",
+    "\u201d (",
+    "\u201d)",
+    "\u201d or",
+    "\u201col",
+    "\u201d indicate",
+    "circuit testers",
+    "neon lamp",
+    "outlet box",
+    "\u201cchirps",
+    "\u201d the",
+    "battery",
+    "flexible wire",
+    "\u201c2",
+    "\u201d circuit",
+    "clip",
+    "\u2014but",
+    "\u2014and",
+    "\u2014then",
+    "non-contact voltage testers",
+    "non-contact circuit tester",
+    "\u2014   ",
+    "\u2014except",
+    "meter",
+    "\u2014with",
+    "plugs",
+    "\u201ccom",
+    "\u201ccommon",
+    "\u201cv\u03c9",
+    "\u201d \u201c",
+    "\u201copen",
+    "\u201c0",
+    "\u201c1",
+    "\u2014especially",
+    "\u2014is",
+    "electricity",
+    "\u2014it",
+    "\u2014which",
+    "electrician"
+  ],
+  "tyn_section":[
+
+  ]
+}

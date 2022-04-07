@@ -1,0 +1,54 @@
+{
+  "title":"How to Run Old or DOS Games in Windows XP",
+  "url":"https://www.wikihow.com/Run-Old-or-DOS-Games-in-Windows-XP",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "steps":[
+    {
+      "headline":"Search for and install any officially-released updates for the game.",
+      "description":"The game may simply not run because of errors in the game under any operating system, instead of XP specifically."
+    },
+    {
+      "headline":"Try compatibility modes.",
+      "description":"Identify the .EXE or .BAT used to run the game. Right-click this program and select Properties, the Compatibility Tab, then check the box to enable Compatibility Mode. From there, select the version of Windows the game was tailored for and run the game, or, if you simply don't know, just try every compatibility mode."
+    },
+    {
+      "headline":"Try DOSBox.",
+      "description":"Now that we've eliminated the preferred simply solutions, you can attempt running DOSBox, the opensource (free) DOS emulator known for solving many DOS game problems. The latest version of DOSBox is available from its homepage, listed at the bottom of this page. Yet, not even a DOS emulator is without its flaws, proceed on if DOSBox fails to please."
+    },
+    {
+      "headline":"Consider the factor of graphics card drivers.",
+      "description":"Many problems can be caused or solved by rolling back or even updating the version of graphics card drivers. Be prepared to rollback if needed by saving the driver's installation."
+    },
+    {
+      "headline":"Search for specific fixes or unofficial patches for your game.",
+      "description":"An old game with a heavy enough fanbase will often cover many problems or even create patches for running the game on modern-day systems."
+    },
+    {
+      "headline":"Use your search engine of choice to research any specific error message your game is spitting out at you.",
+      "description":"If you're lucky, someone else will have the same problem... solved."
+    },
+    {
+      "headline":"Consider drastic measures.",
+      "description":"These include, but are not limited to VirtualPC, (a Microsoft-made free emulator designed to emulate several operating systems) actually running it on the old OS-- however you decide to do that, possibly getting your own low-end computer just for that purpose, getting new hardware, or others."
+    },
+    {
+      "headline":"Lay your game to rest... for now, if nothing else seems to work, hopefully someone will discover the gem that is your game and fix your problem, some day.",
+      "description":""
+    }
+  ],
+  "text":" Search for and install any officially-released updates for the game. The game may simply not run because of errors in the game under any operating system, instead of XP specifically. Try compatibility modes. Identify the .EXE or .BAT used to run the game. Right-click this program and select Properties, the Compatibility Tab, then check the box to enable Compatibility Mode. From there, select the version of Windows the game was tailored for and run the game, or, if you simply don't know, just try every compatibility mode. Try DOSBox. Now that we've eliminated the preferred simply solutions, you can attempt running DOSBox, the opensource (free) DOS emulator known for solving many DOS game problems. The latest version of DOSBox is available from its homepage, listed at the bottom of this page. Yet, not even a DOS emulator is without its flaws, proceed on if DOSBox fails to please. Consider the factor of graphics card drivers. Many problems can be caused or solved by rolling back or even updating the version of graphics card drivers. Be prepared to rollback if needed by saving the driver's installation. Search for specific fixes or unofficial patches for your game. An old game with a heavy enough fanbase will often cover many problems or even create patches for running the game on modern-day systems. Use your search engine of choice to research any specific error message your game is spitting out at you. If you're lucky, someone else will have the same problem... solved. Consider drastic measures. These include, but are not limited to VirtualPC, (a Microsoft-made free emulator designed to emulate several operating systems) actually running it on the old OS-- however you decide to do that, possibly getting your own low-end computer just for that purpose, getting new hardware, or others. Lay your game to rest... for now, if nothing else seems to work, hopefully someone will discover the gem that is your game and fix your problem, some day. ",
+  "tyn_model":[
+    "dosbox",
+    "dos emulator",
+    "graphics card drivers",
+    "graphics card"
+  ],
+  "tyn_section":[
+
+  ]
+}

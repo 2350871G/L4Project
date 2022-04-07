@@ -1,0 +1,45 @@
+{
+  "title":"How to Check a Resistor",
+  "url":"https://www.wikihow.com/Check-a-Resistor",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"In order to test a resistor, it is important to first disconnect one lead from the circuit .. it won't matter which one.",
+      "description":""
+    },
+    {
+      "headline":"Next, obtain an electrical meter capable of measuring resistance.",
+      "description":"This is typically called an ohm-meter, and is almost always a function of a standard multi-meter."
+    },
+    {
+      "headline":"You will next need to determine the rated value of the resistor.",
+      "description":"With the colored band variety, you will need to look up each colored band and determine its meaning. The first two bands will be single digit numbers, followed by the third band which is a multiplier. The fourth band will be an accuracy rating for the device. For example: band1=1 band2=0 band3 = x100 band4 = 5%; would mean 1000ohms +- 5%. The ceramic and wire varieties will often be labeled in ink with a value. The carbon/metal variable resistors will not usually have a stated value labeled, but you can look for a smooth transition as adjustment is made to the wiper position."
+    },
+    {
+      "headline":"Set your meter to an appropriate range(nearest value higher than the expected measurement), and connect the leads(polarity will not matter).",
+      "description":""
+    },
+    {
+      "headline":"Compare your reading with the value determined above.",
+      "description":"It should be near the given value and within the tolerance range."
+    },
+    {
+      "headline":"If it is, its likely good - otherwise not.",
+      "description":""
+    }
+  ],
+  "text":" In order to test a resistor, it is important to first disconnect one lead from the circuit .. it won't matter which one.  Next, obtain an electrical meter capable of measuring resistance. This is typically called an ohm-meter, and is almost always a function of a standard multi-meter. You will next need to determine the rated value of the resistor. With the colored band variety, you will need to look up each colored band and determine its meaning. The first two bands will be single digit numbers, followed by the third band which is a multiplier. The fourth band will be an accuracy rating for the device. For example: band1=1 band2=0 band3 = x100 band4 = 5%; would mean 1000ohms +- 5%. The ceramic and wire varieties will often be labeled in ink with a value. The carbon/metal variable resistors will not usually have a stated value labeled, but you can look for a smooth transition as adjustment is made to the wiper position. Set your meter to an appropriate range(nearest value higher than the expected measurement), and connect the leads(polarity will not matter).  Compare your reading with the value determined above. It should be near the given value and within the tolerance range. If it is, its likely good - otherwise not. ",
+  "tyn_model":[
+    "electrical meter",
+    "ink",
+    "carbon/metal variable resistors",
+    "meter"
+  ],
+  "tyn_section":[
+
+  ]
+}

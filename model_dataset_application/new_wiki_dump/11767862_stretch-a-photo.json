@@ -1,0 +1,145 @@
+{
+  "title":"How to Stretch a Photo",
+  "url":"https://www.wikihow.com/Stretch-a-Photo",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography"
+  ],
+  "methods":[
+    {
+      "name":"Using Paint in Windows",
+      "steps":[
+        {
+          "headline":"Open the photo in Paint.",
+          "description":"If you find the file in your file explorer, then right-click it and choose Open with > Paint."
+        },
+        {
+          "headline":"Click Resize.",
+          "description":"You'll see this above the photo editing space in the \"Image\" grouping. A \"Resize and Skew\" window will pop-up."
+        },
+        {
+          "headline":"Click to select if you want to resize your photo using percentages or pixels.",
+          "description":"You'll see the numbers change next to their dimensions (horizontal and vertical) to reflect what you've selected. For example, if you're more familiar with percentages, then use percentages, so you can quickly resize a photo from 100% to 25%. An image that's 700px horizontal will switch to 100% horizontal depending on which measurement you choose to use. If you want to maintain your photo's look, click to check the box next to \"Maintain aspect ratio.\" If you change the number for the horizontal or vertical size, the other dimension will automatically update to maintain the current aspect ratio of the photo. For example, if you choose to maintain the aspect ratio and update an original photo with the dimensions 100px x 100px to 75px, then the other field will update to 75px to maintain the original aspect ratio."
+        },
+        {
+          "headline":"Change the numbers for the horizontal and vertical values.",
+          "description":"If you have the box checked next to \"Maintain aspect ratio,\" both numbers (pixels and percent) will change accordingly when you edit a number. If you resize the photo without maintaining the aspect ratio, the 100px x 100px ratio will be lost when you update the horizontal range to 75px. You'll instead have 75px x 100px, so the image will appear distorted."
+        },
+        {
+          "headline":"Click OK. You'll see this button at the bottom of the pop-up window.",
+          "description":"When the window closes, your changes will take effect. Press Ctrl+Z to undo the resize if you don't like it."
+        },
+        {
+          "headline":"Press Ctrl+S when you're done resizing the photo.",
+          "description":"This keyboard shortcut will save your edits, and then you can close the program."
+        }
+      ]
+    },
+    {
+      "name":"Using Preview in Mac",
+      "steps":[
+        {
+          "headline":"Open the photo in Preview.",
+          "description":"If you navigate to the file in Finder, right-click it and choose Open with > Preview."
+        },
+        {
+          "headline":"Click the Tools menu.",
+          "description":"You'll see this in the horizontal menu that runs across the top of your screen."
+        },
+        {
+          "headline":"Click Adjust Size.",
+          "description":"You'll see this in the second grouping of options on the menu."
+        },
+        {
+          "headline":"Select the units you want to use (pixels or percent).",
+          "description":"Click the drop-down box next to the text fields for \"Width\" and \"Height\" to choose. An image that's 700px horizontal will switch to 100% horizontal depending on which measurement you choose to use. Click to check the boxes next to \"Scale Proportionally\" and \"Resample Image\" to save your photo's aspect ratio and automatically apply the changes. For example, if you choose to scale proportionally and update an original photo with the dimensions 100px x 100px to 75px, then the other field will update to 75px to maintain the original aspect ratio."
+        },
+        {
+          "headline":"Change the numbers next to width and height to change the size of your photo.",
+          "description":"If you have the box checked next to \"Scale Proportionally,\" the numbers will change to reflect any of your edits in the other dimension. For example, if you change the percentage in the height field from 100 to 50, the percentage in the width field will also change from 100 to 50 to maintain the original aspect ratio. If you resize the photo without maintaining the aspect ratio, the 100px x 100px ratio will be lost when you update the horizontal range to 75px. You'll instead have 75px x 100px, so the image will appear distorted."
+        },
+        {
+          "headline":"Click OK. You'll see this blue button in the bottom right corner of the window and the image should update automatically to reflect your changes.",
+          "description":"Press \u2318 Cmd+Z to undo the change."
+        },
+        {
+          "headline":"Press \u2318 Cmd+S to save your work.",
+          "description":"This will save your photo with the new size and you can close the program."
+        }
+      ]
+    },
+    {
+      "name":"Using Photoshop",
+      "steps":[
+        {
+          "headline":"Open your photo in Photoshop.",
+          "description":"You can either click File > Open when you have Photoshop open, or you can right-click your photo file in your file explorer and click Open with > Photoshop. Photoshop is a paid software that you can use if you have the program installed. If you don't, you can easily use Microsoft Paint or Preview for Mac."
+        },
+        {
+          "headline":"Select the photo from the layers panel.",
+          "description":"If you have only your photo in the Photoshop project, it is most likely the \"background\" layer. A single click on the layer will select it."
+        },
+        {
+          "headline":"Press Ctrl+T (Windows) or \u2318 Cmd+T (Mac).",
+          "description":"This activates the Transform tool, so you'll be able to freely change the size of the photo. If you want to maintain the ratio, you can press \u21e7 Shift as you drag the photo size."
+        },
+        {
+          "headline":"Drag and drop the highlighted borders of the photo.",
+          "description":"Once you've activated the Transform tool, the boundaries of the photo should darken so you can pick them out easier. You can drag and drop them to change the photo's size."
+        },
+        {
+          "headline":"Press \u21b5 Enter (Windows) or \u23ce Return (Mac).",
+          "description":"You'll finalize the transformation when you press this key."
+        }
+      ]
+    },
+    {
+      "name":"Using a Free Mobile App",
+      "steps":[
+        {
+          "headline":"Install an app that can resize pictures.",
+          "description":"Android and iOS phones and tablets do not have the ability to resize images in default applications, but there are many apps available that can do that for you. You can find many of these apps for free in the Google Play Store and App Store. Some of the most popular image resizing apps include Photoshop Express, Image Size - Photo Resizer, and Photo Compress & Resize."
+        },
+        {
+          "headline":"Open the resizing app and give it access to your photos.",
+          "description":"When you launch the app for the first time, you may be prompted to give it access to your stored photos. This is necessary so that the app can load photos stored on your device."
+        },
+        {
+          "headline":"Open the photo you want to resize.",
+          "description":"The process to open your photo to resize will vary depending on the app, but generally, you can tap the \"Select photo\" button on the app's main menu to open your local photos. If you're using an app similar to Photoshop Express, you can tap to select your image from the main page."
+        },
+        {
+          "headline":"Tap the resize tool.",
+          "description":"The process to select this will vary depending on the app you are using, but there should be a \"Resize\" tool next to a \"Crop\" tool. It might look like {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/0e\\/Android7croprotate.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/0e\\/Android7croprotate.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":760,\"bigHeight\":760,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}."
+        },
+        {
+          "headline":"Select the size you want to make the image.",
+          "description":"You'll most likely see the original size of your photo in both pixels and file size and, depending on the app, you may be able to select from preset image sizes (like Instagram's ratio 4:5), or enter custom sizes. When entering a custom size, you can just enter one value and the other value will scale accordingly if you have selected to maintain the original ratio. If you're using Photoshop Express, you'll see that there are pre-sized selections, like a Facebook Ad, a Facebook Profile Cover, and a Twitter post. You can tap any of those to see your image resized automatically. Pick \"Custom\" at the end of the menu to enter your own dimensions."
+        },
+        {
+          "headline":"Save your resized image.",
+          "description":"After resizing the image, tap the \"Save\" or \"Export\" button to prompt the app to save a copy of your photo. Depending on what app you're using, you can follow the on-screen prompts to export a copy of the edited image to your camera roll."
+        }
+      ]
+    }
+  ],
+  "text":" Using Paint in Windows Open the photo in Paint. If you find the file in your file explorer, then right-click it and choose Open with > Paint. Click Resize. You'll see this above the photo editing space in the \"Image\" grouping. A \"Resize and Skew\" window will pop-up. Click to select if you want to resize your photo using percentages or pixels. You'll see the numbers change next to their dimensions (horizontal and vertical) to reflect what you've selected. For example, if you're more familiar with percentages, then use percentages, so you can quickly resize a photo from 100% to 25%. An image that's 700px horizontal will switch to 100% horizontal depending on which measurement you choose to use. If you want to maintain your photo's look, click to check the box next to \"Maintain aspect ratio.\" If you change the number for the horizontal or vertical size, the other dimension will automatically update to maintain the current aspect ratio of the photo. For example, if you choose to maintain the aspect ratio and update an original photo with the dimensions 100px x 100px to 75px, then the other field will update to 75px to maintain the original aspect ratio. Change the numbers for the horizontal and vertical values. If you have the box checked next to \"Maintain aspect ratio,\" both numbers (pixels and percent) will change accordingly when you edit a number. If you resize the photo without maintaining the aspect ratio, the 100px x 100px ratio will be lost when you update the horizontal range to 75px. You'll instead have 75px x 100px, so the image will appear distorted. Click OK. You'll see this button at the bottom of the pop-up window. When the window closes, your changes will take effect. Press Ctrl+Z to undo the resize if you don't like it. Press Ctrl+S when you're done resizing the photo. This keyboard shortcut will save your edits, and then you can close the program. Using Preview in Mac Open the photo in Preview. If you navigate to the file in Finder, right-click it and choose Open with > Preview. Click the Tools menu. You'll see this in the horizontal menu that runs across the top of your screen. Click Adjust Size. You'll see this in the second grouping of options on the menu. Select the units you want to use (pixels or percent). Click the drop-down box next to the text fields for \"Width\" and \"Height\" to choose. An image that's 700px horizontal will switch to 100% horizontal depending on which measurement you choose to use. Click to check the boxes next to \"Scale Proportionally\" and \"Resample Image\" to save your photo's aspect ratio and automatically apply the changes. For example, if you choose to scale proportionally and update an original photo with the dimensions 100px x 100px to 75px, then the other field will update to 75px to maintain the original aspect ratio. Change the numbers next to width and height to change the size of your photo. If you have the box checked next to \"Scale Proportionally,\" the numbers will change to reflect any of your edits in the other dimension. For example, if you change the percentage in the height field from 100 to 50, the percentage in the width field will also change from 100 to 50 to maintain the original aspect ratio. If you resize the photo without maintaining the aspect ratio, the 100px x 100px ratio will be lost when you update the horizontal range to 75px. You'll instead have 75px x 100px, so the image will appear distorted. Click OK. You'll see this blue button in the bottom right corner of the window and the image should update automatically to reflect your changes. Press \u2318 Cmd+Z to undo the change. Press \u2318 Cmd+S to save your work. This will save your photo with the new size and you can close the program. Using Photoshop Open your photo in Photoshop. You can either click File > Open when you have Photoshop open, or you can right-click your photo file in your file explorer and click Open with > Photoshop. Photoshop is a paid software that you can use if you have the program installed. If you don't, you can easily use Microsoft Paint or Preview for Mac. Select the photo from the layers panel. If you have only your photo in the Photoshop project, it is most likely the \"background\" layer. A single click on the layer will select it. Press Ctrl+T (Windows) or \u2318 Cmd+T (Mac). This activates the Transform tool, so you'll be able to freely change the size of the photo. If you want to maintain the ratio, you can press \u21e7 Shift as you drag the photo size. Drag and drop the highlighted borders of the photo. Once you've activated the Transform tool, the boundaries of the photo should darken so you can pick them out easier. You can drag and drop them to change the photo's size. Press \u21b5 Enter (Windows) or \u23ce Return (Mac). You'll finalize the transformation when you press this key. Using a Free Mobile App Install an app that can resize pictures. Android and iOS phones and tablets do not have the ability to resize images in default applications, but there are many apps available that can do that for you. You can find many of these apps for free in the Google Play Store and App Store. Some of the most popular image resizing apps include Photoshop Express, Image Size - Photo Resizer, and Photo Compress & Resize. Open the resizing app and give it access to your photos. When you launch the app for the first time, you may be prompted to give it access to your stored photos. This is necessary so that the app can load photos stored on your device. Open the photo you want to resize. The process to open your photo to resize will vary depending on the app, but generally, you can tap the \"Select photo\" button on the app's main menu to open your local photos. If you're using an app similar to Photoshop Express, you can tap to select your image from the main page. Tap the resize tool. The process to select this will vary depending on the app you are using, but there should be a \"Resize\" tool next to a \"Crop\" tool. It might look like {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/0e\\/Android7croprotate.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/0e\\/Android7croprotate.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":760,\"bigHeight\":760,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. Select the size you want to make the image. You'll most likely see the original size of your photo in both pixels and file size and, depending on the app, you may be able to select from preset image sizes (like Instagram's ratio 4:5), or enter custom sizes. When entering a custom size, you can just enter one value and the other value will scale accordingly if you have selected to maintain the original ratio. If you're using Photoshop Express, you'll see that there are pre-sized selections, like a Facebook Ad, a Facebook Profile Cover, and a Twitter post. You can tap any of those to see your image resized automatically. Pick \"Custom\" at the end of the menu to enter your own dimensions. Save your resized image. After resizing the image, tap the \"Save\" or \"Export\" button to prompt the app to save a copy of your photo. Depending on what app you're using, you can follow the on-screen prompts to export a copy of the edited image to your camera roll.",
+  "tyn_model":[
+    "photoshop",
+    "paint",
+    "photo editing space",
+    "\u2318 cmd+z",
+    "\u2318 cmd+s",
+    "microsoft paint",
+    "\u2318 cmd+t",
+    "\u21e7 shift",
+    "\u21b5 enter",
+    "\u23ce return",
+    "image resizing",
+    "image size - photo resizer",
+    "photo compress &"
+  ],
+  "tyn_section":[
+
+  ]
+}

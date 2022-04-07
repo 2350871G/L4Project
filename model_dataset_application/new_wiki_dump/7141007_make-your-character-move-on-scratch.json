@@ -1,0 +1,49 @@
+{
+  "title":"How to Make Your Character Move on Scratch",
+  "url":"https://www.wikihow.com/Make-Your-Character-Move-on-Scratch",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Styles",
+    "Digital Drawing"
+  ],
+  "steps":[
+    {
+      "headline":"Go to the scratch website at https://scratch.mit.edu/.",
+      "description":""
+    },
+    {
+      "headline":"Make a new document.",
+      "description":"Click on the Create icon at the top of the screen."
+    },
+    {
+      "headline":"Place 4 when space is pressed blocks onto the workspace.",
+      "description":""
+    },
+    {
+      "headline":"Change where it say space by clicking on the text.",
+      "description":"On the first one, change it to up arrow, on the next one change it to down, change the next one to left and the final one to right."
+    },
+    {
+      "headline":"Underneath the move up block, add a point in direction 0 motion block, and a move 10 steps block.",
+      "description":"Now the sprite can move up."
+    },
+    {
+      "headline":"Repeat this step on each block, but change the direction where the sprite is looking.",
+      "description":"Down = 180\nLeft = -90\nRight = 90."
+    },
+    {
+      "headline":"Shift the sprite.",
+      "description":"Now the sprite can move wherever you want!"
+    }
+  ],
+  "text":" Go to the scratch website at https://scratch.mit.edu/.  Make a new document. Click on the Create icon at the top of the screen. Place 4 when space is pressed blocks onto the workspace.  Change where it say space by clicking on the text. On the first one, change it to up arrow, on the next one change it to down, change the next one to left and the final one to right. Underneath the move up block, add a point in direction 0 motion block, and a move 10 steps block. Now the sprite can move up. Repeat this step on each block, but change the direction where the sprite is looking. Down = 180\nLeft = -90\nRight = 90. Shift the sprite. Now the sprite can move wherever you want!",
+  "tyn_model":[
+    "scratch website",
+    "document",
+    "sprite"
+  ],
+  "tyn_section":[
+
+  ]
+}

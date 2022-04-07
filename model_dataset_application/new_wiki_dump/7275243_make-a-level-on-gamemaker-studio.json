@@ -1,0 +1,121 @@
+{
+  "title":"How to Make a Level on GameMaker Studio",
+  "url":"https://www.wikihow.com/Make-a-Level-on-GameMaker-Studio",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "parts":[
+    {
+      "name":"Installing GameMaker",
+      "steps":[
+        {
+          "headline":"Go to the YoYo GameMaker Studio site.",
+          "description":""
+        },
+        {
+          "headline":"Click on the giant green button that says Download FREE Now.",
+          "description":""
+        },
+        {
+          "headline":"Install the program.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Creating a Sprite for Both the Player and Wall",
+      "steps":[
+        {
+          "headline":"Open GameMaker.",
+          "description":"You will be brought to a menu."
+        },
+        {
+          "headline":"In the tabs, go to New.",
+          "description":"The Project Directory is where your game and its assets will be saved. Give your project an appropriate name then click Create. You'll be directed to branching paths on the left side."
+        },
+        {
+          "headline":"Go to Sprites.",
+          "description":"Right-click it. Click Create Sprite. GameMaker will direct you to a box for this individual asset known as the sprite. Sprites serve as the objects on the level. Name the sprite something appropriate, such as Player. Click on Edit Sprite."
+        },
+        {
+          "headline":"Set your height and width.",
+          "description":"These represent the length of the pixels of both the vertical and horizontal size of the Sprite. For tutorial purposes, the recommended size is the default 32 x 32 Pixels. Click Okay."
+        },
+        {
+          "headline":"Work on the details.",
+          "description":"The new palette that opened up allows zooming in for more precise detail. Click the box to open the editing tools. For tutorial purposes, the sprite will be represented as a filled in box. Create a sprite of whatever you wish. Click on the green arrow. You have successfully created your sprite. Now repeat the process. Create a sprite and fill it up with a color. This sprite will act as the wall of your level."
+        }
+      ]
+    },
+    {
+      "name":"Creating an Object and Attaching a Sprite to it",
+      "steps":[
+        {
+          "headline":"Go to the branching trees.",
+          "description":"Go to the folder labeled Objects. Right-click Objects. Click Create Object."
+        },
+        {
+          "headline":"Wait for a window to appear.",
+          "description":"Note the Events Window and the Actions Window. This entails what the Object will do. For now, name the Object something appropriate."
+        },
+        {
+          "headline":"Right-click the section that says Sprite.",
+          "description":"Any existing sprites will show up in the menu. Left click it. Find the sprite you created in the previous part. Select it. This attaches the Sprite to the Object. Press Okay."
+        },
+        {
+          "headline":"Repeat this process and attach the wall sprite to an object appropriately labeled, such as Obj_wall.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Creating a Room or \"Level\"",
+      "steps":[
+        {
+          "headline":"Go once again to the branching files on the left.",
+          "description":"Find the folder called Rooms. RIght-click and press Create Room."
+        },
+        {
+          "headline":"Wait for a window with a grid to open up.",
+          "description":"Focus first on naming it something appropriate."
+        },
+        {
+          "headline":"For width, set it to 640.",
+          "description":"For height, set it 360. These numbers are for the basic 16:9 ratios. They are not the resolutions you have to pick but they are universal across most modern widescreen monitors."
+        },
+        {
+          "headline":"Go to the tab named Objects.",
+          "description":""
+        },
+        {
+          "headline":"Click inside the empty box and it allows you to have options between the objects you created.",
+          "description":"Click on the wall object."
+        },
+        {
+          "headline":"Drag the wall object and drag it to the grid.",
+          "description":"As the wall object serves as what will stop the player from moving, you will establish a wall around the edges of the grid. Feel free to vary with design."
+        },
+        {
+          "headline":"Put the player object into the grid.",
+          "description":""
+        },
+        {
+          "headline":"Congratulations!",
+          "description":"You have created a game level. Proceed onto basic coding."
+        }
+      ]
+    }
+  ],
+  "text":" Installing GameMaker Go to the YoYo GameMaker Studio site.  Click on the giant green button that says Download FREE Now.  Install the program.  Creating a Sprite for Both the Player and Wall Open GameMaker. You will be brought to a menu. In the tabs, go to New. The Project Directory is where your game and its assets will be saved. Give your project an appropriate name then click Create. You'll be directed to branching paths on the left side. Go to Sprites. Right-click it. Click Create Sprite. GameMaker will direct you to a box for this individual asset known as the sprite. Sprites serve as the objects on the level. Name the sprite something appropriate, such as Player. Click on Edit Sprite. Set your height and width. These represent the length of the pixels of both the vertical and horizontal size of the Sprite. For tutorial purposes, the recommended size is the default 32 x 32 Pixels. Click Okay. Work on the details. The new palette that opened up allows zooming in for more precise detail. Click the box to open the editing tools. For tutorial purposes, the sprite will be represented as a filled in box. Create a sprite of whatever you wish. Click on the green arrow. You have successfully created your sprite. Now repeat the process. Create a sprite and fill it up with a color. This sprite will act as the wall of your level. Creating an Object and Attaching a Sprite to it Go to the branching trees. Go to the folder labeled Objects. Right-click Objects. Click Create Object. Wait for a window to appear. Note the Events Window and the Actions Window. This entails what the Object will do. For now, name the Object something appropriate. Right-click the section that says Sprite. Any existing sprites will show up in the menu. Left click it. Find the sprite you created in the previous part. Select it. This attaches the Sprite to the Object. Press Okay. Repeat this process and attach the wall sprite to an object appropriately labeled, such as Obj_wall.  Creating a Room or \"Level\" Go once again to the branching files on the left. Find the folder called Rooms. RIght-click and press Create Room. Wait for a window with a grid to open up. Focus first on naming it something appropriate. For width, set it to 640. For height, set it 360. These numbers are for the basic 16:9 ratios. They are not the resolutions you have to pick but they are universal across most modern widescreen monitors. Go to the tab named Objects.  Click inside the empty box and it allows you to have options between the objects you created. Click on the wall object. Drag the wall object and drag it to the grid. As the wall object serves as what will stop the player from moving, you will establish a wall around the edges of the grid. Feel free to vary with design. Put the player object into the grid.  Congratulations! You have created a game level. Proceed onto basic coding.",
+  "tyn_model":[
+    "sprite",
+    "gamemaker",
+    "gamemaker studio",
+    "widescreen monitors"
+  ],
+  "tyn_section":[
+
+  ]
+}

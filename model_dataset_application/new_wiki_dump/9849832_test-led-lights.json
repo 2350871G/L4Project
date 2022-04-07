@@ -1,0 +1,79 @@
+{
+  "title":"How to Test LED Lights",
+  "url":"https://www.wikihow.com/Test-LED-Lights",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Lighting",
+    "LED Lighting"
+  ],
+  "methods":[
+    {
+      "name":"Using a Multimeter",
+      "steps":[
+        {
+          "headline":"Purchase a digital multimeter that can take diode readings.",
+          "description":"Basic multimeters measure just amps, volts, and ohms. To test LED lights you will need a multimeter with a diode setting. Check online or at  your local hardware store for mid-to-high-range multimeters, which are more likely to have this feature than inexpensive models. A decent mid-range multimeter will likely cost between $50-100 USD. Opt for a digital multimeter over an analog model, which will be harder to read and less reliable."
+        },
+        {
+          "headline":"Hook up the red and black test leads.",
+          "description":"The red and black test leads should be connected to the outlets on the front of the multimeter. The red lead is the positive charge. The black lead is the negative and should be plugged into the input labelled \"COM.\""
+        },
+        {
+          "headline":"Turn the multimeter dial to the diode setting.",
+          "description":"Turn the dial on the front of your multimeter  clockwise to move it away from the \"off\" position. Keep turning it until you land on the diode setting. If it is not labelled explicitly, the diode setting may be represented by the diode circuit symbol. The diode symbol visually represents both its terminals, the cathode and the anode."
+        },
+        {
+          "headline":"Connect the black probe to the cathode and the red probe to the anode.",
+          "description":"Touch the black probe to the cathode end of the LED, which is usually the shorter prong. Next, touch the red probe to the anode, which should be the longer prong. Be sure to connect the black probe before the red probe, as the reverse might not give you an accurate reading. Make sure that the cathode and anode are not touching each other during this test, which may prevent the current from passing through the LED light and hinder your results. The black and red probes should also not be touching each other during the test. Making the connections should cause the LED to light up."
+        },
+        {
+          "headline":"Check the value on the multimeter's digital display.",
+          "description":"When the probes are touching the cathode and anode, an undamaged Led light should display a voltage of approximately 1600 mV. If no reading appears on your screen during the test, start again to make sure the connections were made properly. If you have performed the test properly, this may be a sign that the LED light is not working."
+        },
+        {
+          "headline":"Evaluate the brightness of the LED.",
+          "description":"When you make the proper connections to test your LED, it should light up. After noting the reading on the digital screen, look at the LED itself. If it has a normal reading but looks dim, it is likely a low-quality LED. If it shines brightly, it is probably a high-efficiency LED light."
+        }
+      ]
+    },
+    {
+      "name":"Testing with a Coin Cell Battery",
+      "steps":[
+        {
+          "headline":"Use a coin cell battery to test your LED without burning it out.",
+          "description":"Coin cell batteries are the safest option because they do not put out enough of a current to cause damage. Testing with any other type of battery may burn out your LED lights. Buy these batteries at pharmacies, department stores, hardware stores, or online. Use either CR2032 or CR2025 coin cell batteries."
+        },
+        {
+          "headline":"Purchase a corresponding coin cell battery holder with leads.",
+          "description":"Buy one that is made to hold the type of coin cell battery (e.g., a CR2025) you'll be testing with. You can find these online or at some hardware or electronics stores. Make sure that the holder has red and black leads to test LED lights. Coin cell battery holders are usually used to add battery power to small projects like LED jewelry or clothing."
+        },
+        {
+          "headline":"Connect the black lead to the cathode and the red lead to the anode.",
+          "description":"To test your LED, touch the tip of the black probe to the cathode, or shorter end of the LED. Touch the tip of the red probe to the anode, which should be the longer end. Be sure that the two probes do not touch each other during this test, and that the cathode and anode do not touch each other. Some battery holders with leads will come with a small connector on the end, holding the tips of the two leads. If your battery holder has a lead connector, test your LED by inserting the anode and cathode into the small openings that line up with the red and black leads."
+        },
+        {
+          "headline":"Wait for the LED to light up.",
+          "description":"If the LED is functional and the lead connections have been made properly, your LED should light up when you test it. If it does not, separate and reconnect the leads and cathode/anode to try again. If your LED does not light up, it may be burnt out or defective. If your LED doesn't light up, try testing other LED lights right after it. If they light up, you can be sure that the first LED doesn't work."
+        }
+      ]
+    }
+  ],
+  "text":" Using a Multimeter Purchase a digital multimeter that can take diode readings. Basic multimeters measure just amps, volts, and ohms. To test LED lights you will need a multimeter with a diode setting. Check online or at  your local hardware store for mid-to-high-range multimeters, which are more likely to have this feature than inexpensive models. A decent mid-range multimeter will likely cost between $50-100 USD. Opt for a digital multimeter over an analog model, which will be harder to read and less reliable. Hook up the red and black test leads. The red and black test leads should be connected to the outlets on the front of the multimeter. The red lead is the positive charge. The black lead is the negative and should be plugged into the input labelled \"COM.\" Turn the multimeter dial to the diode setting. Turn the dial on the front of your multimeter  clockwise to move it away from the \"off\" position. Keep turning it until you land on the diode setting. If it is not labelled explicitly, the diode setting may be represented by the diode circuit symbol. The diode symbol visually represents both its terminals, the cathode and the anode. Connect the black probe to the cathode and the red probe to the anode. Touch the black probe to the cathode end of the LED, which is usually the shorter prong. Next, touch the red probe to the anode, which should be the longer prong. Be sure to connect the black probe before the red probe, as the reverse might not give you an accurate reading. Make sure that the cathode and anode are not touching each other during this test, which may prevent the current from passing through the LED light and hinder your results. The black and red probes should also not be touching each other during the test. Making the connections should cause the LED to light up. Check the value on the multimeter's digital display. When the probes are touching the cathode and anode, an undamaged Led light should display a voltage of approximately 1600 mV. If no reading appears on your screen during the test, start again to make sure the connections were made properly. If you have performed the test properly, this may be a sign that the LED light is not working. Evaluate the brightness of the LED. When you make the proper connections to test your LED, it should light up. After noting the reading on the digital screen, look at the LED itself. If it has a normal reading but looks dim, it is likely a low-quality LED. If it shines brightly, it is probably a high-efficiency LED light. Testing with a Coin Cell Battery Use a coin cell battery to test your LED without burning it out. Coin cell batteries are the safest option because they do not put out enough of a current to cause damage. Testing with any other type of battery may burn out your LED lights. Buy these batteries at pharmacies, department stores, hardware stores, or online. Use either CR2032 or CR2025 coin cell batteries. Purchase a corresponding coin cell battery holder with leads. Buy one that is made to hold the type of coin cell battery (e.g., a CR2025) you'll be testing with. You can find these online or at some hardware or electronics stores. Make sure that the holder has red and black leads to test LED lights. Coin cell battery holders are usually used to add battery power to small projects like LED jewelry or clothing. Connect the black lead to the cathode and the red lead to the anode. To test your LED, touch the tip of the black probe to the cathode, or shorter end of the LED. Touch the tip of the red probe to the anode, which should be the longer end. Be sure that the two probes do not touch each other during this test, and that the cathode and anode do not touch each other. Some battery holders with leads will come with a small connector on the end, holding the tips of the two leads. If your battery holder has a lead connector, test your LED by inserting the anode and cathode into the small openings that line up with the red and black leads. Wait for the LED to light up. If the LED is functional and the lead connections have been made properly, your LED should light up when you test it. If it does not, separate and reconnect the leads and cathode/anode to try again. If your LED does not light up, it may be burnt out or defective. If your LED doesn't light up, try testing other LED lights right after it. If they light up, you can be sure that the first LED doesn't work.",
+  "tyn_model":[
+    "multimeter",
+    "multimeters",
+    "multimeter dial",
+    "diode circuit symbol",
+    "led",
+    "led light",
+    "coin cell battery",
+    "coin cell batteries",
+    "coin cell battery holder",
+    "coin cell battery holders",
+    "leads",
+    "led lights"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title":"How to Tell Which Way Round a Diode Should Be",
+  "url":"https://www.wikihow.com/Tell-Which-Way-Round-a-Diode-Should-Be",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Examining the Markings",
+      "steps":[
+        {
+          "headline":"Understand how a diode functions.",
+          "description":"A diode is composed of an N-type semiconductor joined with a P-type semiconductor. The N-type semiconductor is the negative end of the diode and is called the \"cathode\". The P-type semiconductor is the positive end of the diode, and is called the \"anode\". If the positive side of a voltage source is connected to the positive end of the diode (the anode), and the negative side is connected to the negative end of the diode (the cathode), the diode will conduct current. If the diode is reversed, the current is blocked (up to a limit)."
+        },
+        {
+          "headline":"Learn what the diode schematic symbol means.",
+          "description":"Diodes are indicated on schematics by a symbol (\u2014\u25b7|\u2014) that shows how the diode should be installed. An arrow points at a vertical bar, which has a line continuing out of it. The arrow indicates the positive side of the diode, while the vertical bar indicates the negative side. You can think of it as the positive side flowing into the negative side, with the arrow indicating the direction of the flow."
+        },
+        {
+          "headline":"Look for the large band.",
+          "description":"If the diode doesn't have the schematic symbol printed on it, look for the ring, band, or line printed on the diode. Most diodes will have a large colored band printed near the negative side (cathode) of the diode. The band will go all the way around the diode."
+        },
+        {
+          "headline":"Identify the positive end of an LED.",
+          "description":"An LED is a light-emitting diode, and you can usually tell which side is positive by examining the legs. The longer leg is the positive, anode pin. If the pins have been trimmed, examine the outer casing of the LED. The pin nearest to the flat edge is the negative, cathode pin."
+        }
+      ]
+    },
+    {
+      "name":"Using a Multimeter",
+      "steps":[
+        {
+          "headline":"Turn the multimeter to the \"Diode\" setting.",
+          "description":"This is usually indicated by the diode schematic symbol (\u2014\u25b7|\u2014). This mode will allow the multimeter to send some current through the diode, making it easier to test. You can still test the diode without the Diode setting. Set the meter to the resistance (\u03a9) function."
+        },
+        {
+          "headline":"Connect the multimeter to the diode.",
+          "description":"Connect the positive lead to the one end of the diode, and the negative end to the other. You should see a reading on the meter's display. If your meter has a Diode mode, you will see voltage displayed on the meter if the meter is connected positive-to-positive and negative-to-negative. If its the wrong way, nothing will be displayed. If you meter does not have a Diode mode, you will see very low resistance if the meter is connected positive-to-positive and negative-to-negative. If it's the wrong way, you will see very high resistance, sometimes express as \"OL\"."
+        },
+        {
+          "headline":"Test an LED.",
+          "description":"An LED is a light-emitting diode. Turn the multimeter to the Diode setting. Place the positive lead on one of the pins, and the negative lead on the other. If the LED lights up, the positive lead is touching the positive pin (the anode), and the negative lead is touching the negative pin (the cathode). If it doesn't light up, the leads are touching the opposite pins."
+        }
+      ]
+    }
+  ],
+  "text":" Examining the Markings Understand how a diode functions. A diode is composed of an N-type semiconductor joined with a P-type semiconductor. The N-type semiconductor is the negative end of the diode and is called the \"cathode\". The P-type semiconductor is the positive end of the diode, and is called the \"anode\". If the positive side of a voltage source is connected to the positive end of the diode (the anode), and the negative side is connected to the negative end of the diode (the cathode), the diode will conduct current. If the diode is reversed, the current is blocked (up to a limit). Learn what the diode schematic symbol means. Diodes are indicated on schematics by a symbol (\u2014\u25b7|\u2014) that shows how the diode should be installed. An arrow points at a vertical bar, which has a line continuing out of it. The arrow indicates the positive side of the diode, while the vertical bar indicates the negative side. You can think of it as the positive side flowing into the negative side, with the arrow indicating the direction of the flow. Look for the large band. If the diode doesn't have the schematic symbol printed on it, look for the ring, band, or line printed on the diode. Most diodes will have a large colored band printed near the negative side (cathode) of the diode. The band will go all the way around the diode. Identify the positive end of an LED. An LED is a light-emitting diode, and you can usually tell which side is positive by examining the legs. The longer leg is the positive, anode pin. If the pins have been trimmed, examine the outer casing of the LED. The pin nearest to the flat edge is the negative, cathode pin. Using a Multimeter Turn the multimeter to the \"Diode\" setting. This is usually indicated by the diode schematic symbol (\u2014\u25b7|\u2014). This mode will allow the multimeter to send some current through the diode, making it easier to test. You can still test the diode without the Diode setting. Set the meter to the resistance (\u03a9) function. Connect the multimeter to the diode. Connect the positive lead to the one end of the diode, and the negative end to the other. You should see a reading on the meter's display. If your meter has a Diode mode, you will see voltage displayed on the meter if the meter is connected positive-to-positive and negative-to-negative. If its the wrong way, nothing will be displayed. If you meter does not have a Diode mode, you will see very low resistance if the meter is connected positive-to-positive and negative-to-negative. If it's the wrong way, you will see very high resistance, sometimes express as \"OL\". Test an LED. An LED is a light-emitting diode. Turn the multimeter to the Diode setting. Place the positive lead on one of the pins, and the negative lead on the other. If the LED lights up, the positive lead is touching the positive pin (the anode), and the negative lead is touching the negative pin (the cathode). If it doesn't light up, the leads are touching the opposite pins.",
+  "tyn_model":[
+    "multimeter",
+    "diode",
+    "diodes",
+    "\u2014\u25b7|",
+    "\u2014)",
+    "led",
+    "light-emitting diode",
+    "\u03c9)",
+    "meter"
+  ],
+  "tyn_section":[
+
+  ]
+}

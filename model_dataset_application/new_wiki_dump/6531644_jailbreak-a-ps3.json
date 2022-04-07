@@ -1,0 +1,214 @@
+{
+  "title":"How to Jailbreak a PS3",
+  "url":"https://www.wikihow.com/Jailbreak-a-PS3",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation 3"
+  ],
+  "parts":[
+    {
+      "name":"Preparing to Jailbreak",
+      "steps":[
+        {
+          "headline":"Download the jailbreak file.",
+          "description":"Go to the jailbreak file hosting site on a computer, click the red Download button, and click Allow if your browser asks to store files on your computer. Once the transfer finishes, the jailbreak ZIP folder will download onto your computer. The jailbreak file can take a while to download, so you should start the download process before moving on to other preparations."
+        },
+        {
+          "headline":"Format a USB flash drive to FAT32.",
+          "description":"Do so by choosing \"FAT32\" in the \"Format\" drop-down menu during the formatting process. This will ensure that the flash drive can be used to update your PS3 later, though formatting your flash drive will also delete any files currently on it. The flash drive must be at least 8 gigabytes in size. Leave your flash drive plugged into your computer after formatting it."
+        },
+        {
+          "headline":"Determine your PS3's model number.",
+          "description":"Look on the back or the bottom of the PS3 for a serial code which begins with \"CECH\" and has several numbers (or a letter and some numbers) after it."
+        },
+        {
+          "headline":"Compare your PS3's model number to supported models.",
+          "description":"Models of PS3 which can be jailbroken include the following:\n\nFat \u2014 All PS3 Fat models are supported. Slim \u2014 If the first two numbers after \"CECH\" are \"20\", \"21\", or \"25\", and if your PS3 is below version 3.56, your console is supported. Super Slim \u2014 No versions of the Super Slim model of PS3 can be jailbroken."
+        },
+        {
+          "headline":"Figure out whether your PS3 is NAND or NOR.",
+          "description":"Depending on your PS3's model number, you can determine the type of PS3 you have, which will determine the type of custom firmware (CFW) you use later:\n\nFat \u2014 If the first letter after \"CECH\" is \"A\", \"B\", \"C\", \"E\", or \"G\", the console is NAND; for all other letters, the console is NOR. Slim \u2014 All supported Slim models are NOR."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Firmware Check Drive",
+      "steps":[
+        {
+          "headline":"Extract the jailbreak ZIP folder.",
+          "description":"This process will vary depending on your computer's operating system:\n\nWindows \u2014 Open the ZIP folder, click the Extract tab, click Extract all, and click Extract at the bottom of the window that appears. The extracted folder will open when the extraction finishes. Mac \u2014 Just double-click the ZIP folder to extract it. The extracted folder will open when the extraction finishes."
+        },
+        {
+          "headline":"Open the Step 1 folder.",
+          "description":"Double-click the PS3 Jailbreak Kit folder, then double-click the Step 1 - Minimum Version Checker folder."
+        },
+        {
+          "headline":"Copy the PS3 folder.",
+          "description":"Click the PS3 folder, then press Ctrl+C (Windows) or \u2318 Command+C (Mac) to copy it."
+        },
+        {
+          "headline":"Paste the PS3 folder onto your flash drive.",
+          "description":"Open your flash drive by clicking its name in the lower-left side of the File Explorer (Windows) or Finder (Mac) window, click a blank space, and press Ctrl+V (Windows) or \u2318 Command+V (Mac). Once the folder finishes pasting, you can proceed."
+        },
+        {
+          "headline":"Eject the flash drive.",
+          "description":"Now that the flash drive is set up for your PS3, you can use it to check your PS3's firmware."
+        }
+      ]
+    },
+    {
+      "name":"Determining Your PS3's Compatibility",
+      "steps":[
+        {
+          "headline":"Plug your flash drive into your PS3's right-most USB slot.",
+          "description":"This is important, as using any other slot may cause the process to malfunction."
+        },
+        {
+          "headline":"Go to the firmware number's location.",
+          "description":"Select Settings on the main menu, select System Update, select Update via Storage Media, and select OK when prompted."
+        },
+        {
+          "headline":"Review the firmware number.",
+          "description":"The number to the right of the \"Update data of version\" text must be listed as \"3.56\" or lower. If you see a number above 3.56 listed, you cannot jailbreak your PS3, and attempting to do so will cause irreparable damage to your console."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Installation Drive",
+      "steps":[
+        {
+          "headline":"Plug the flash drive back into your computer.",
+          "description":"Now that you know that your PS3 is compatible with a jailbreak, you can create the installation drive. Again, if your PS3's firmware number is higher than 3.56, you cannot jailbreak it as attempting to do so will brick your PS3."
+        },
+        {
+          "headline":"Remove the PS3 folder from the flash drive.",
+          "description":"Simply delete the PS3 folder to do so."
+        },
+        {
+          "headline":"Open the Step 2 folder.",
+          "description":"In the extracted PS3 Jailbreak Kit folder, double-click the Step 2 - 4.82 Rebug & Jailbreak Files folder to open it."
+        },
+        {
+          "headline":"Copy the Step 2 folder's contents to the flash drive.",
+          "description":"Click and drag across both the \"flsh.hex\" and the \"PS3\" folder here, press Ctrl+C (Windows) or \u2318 Command+C (Mac), and then open your flash drive and press Ctrl+V (Windows) or \u2318 Command+V (Mac)."
+        },
+        {
+          "headline":"Eject your flash drive again.",
+          "description":"You'll now proceed with plugging the flash drive back into the PS3 for the last time, making sure to keep it there until the jailbreak is complete."
+        }
+      ]
+    },
+    {
+      "name":"Installing the Firmware",
+      "steps":[
+        {
+          "headline":"Plug the flash drive back into the PS3's right-most slot.",
+          "description":"The flash drive will have to stay here until after you've completed the jailbreak process."
+        },
+        {
+          "headline":"Open the PS3's web browser.",
+          "description":"Select the www icon on the PS3's home screen."
+        },
+        {
+          "headline":"Set the \"Blank Page\" option as your home page.",
+          "description":"To do so:\nPress Triangle\n\nSelect Tools\n\nSelect Home Page\n\nSelect Use Blank Page\n\nSelect OK"
+        },
+        {
+          "headline":"Delete temporary files.",
+          "description":"This is important, as failing to do so may result in an error when attempting to download the custom firmware (CFW). For each of the temporary file types, do the following:\n\nCookies \u2014 Press Triangle, select Tools, select Delete Cookies, and select Yes when prompted. Search History \u2014 Press Triangle, select Tools, select Delete Search History, and select Yes when prompted. Cache \u2014 Press Triangle, select Tools, select Delete Cache, and select Yes when prompted. Authentication Information \u2014 Press Triangle, select Tools, select Delete Authentication Information, and select Yes when prompted."
+        },
+        {
+          "headline":"Open the address bar.",
+          "description":"Press the Select button on your PS3's controller to do so."
+        },
+        {
+          "headline":"Enter an address.",
+          "description":"Type any one of the following three addresses into the address bar, then press Start. Keep in mind that you may have to try each of these websites several times before one of them works:\nhttp://ps3.editzz.net/\nhttp://redthetrainer.com/ps3/norNandWriter\nhttp://ps3hack.duckdns.org/\nBe persistent while trying these websites, as they rarely work the first time you open them in your PS3's browser."
+        },
+        {
+          "headline":"Select your console type.",
+          "description":"You'll choose either the NAND or the NOR option depending on the PS3 type you determined your console to be back in the first part. If you're using the http://ps3.editzz.net/ site, you must first select the Choose Console tab at the top of the screen."
+        },
+        {
+          "headline":"Add the download page to your bookmarks, then close the browser.",
+          "description":"Press the Select button, then select Add to Bookmarks in the resulting menu. You can then close the browser by pressing Circle and selecting Yes when prompted."
+        },
+        {
+          "headline":"Re-open the download page.",
+          "description":"Open your web browser, press the Select button, select the URL that you saved, and select OK when prompted."
+        },
+        {
+          "headline":"Select the Write to Flash Memory option.",
+          "description":"You'll find this option at the bottom of the page. Doing so will prompt the custom firmware (CFW) to begin downloading."
+        },
+        {
+          "headline":"Wait for the installation to complete.",
+          "description":"Once you see a green \"SUCCESS...\" heading appear at the bottom of the screen, your CFW has been installed.If you don't see the green \"SUCCESS...\" button appear at the bottom of the screen, select the Write to Flash Memory option again. If you see \"SUCCESS...\" appear but your PlayStation 3 is frozen, wait for 10 minutes. If your PS3 doesn't unfreeze, shut it down, then turn it back on and try to install the NOR or NAND CFW again."
+        },
+        {
+          "headline":"Allow your PS3 to turn off.",
+          "description":"Once you successfully install the CFW, your PS3 will beep and turn itself off after a few seconds (or, in some cases, minutes)."
+        }
+      ]
+    },
+    {
+      "name":"Jailbreaking Your PS3",
+      "steps":[
+        {
+          "headline":"Turn back on the PS3.",
+          "description":"Once the PS3 has been off for a minute or more, use a synchronized controller to turn it back on. If prompted to allow your PS3 to restore \"corrupted\" files, select OK when prompted and allow your console to back up its files."
+        },
+        {
+          "headline":"Select Settings.",
+          "description":"You'll find this briefcase-shaped icon at the top of the screen, though you may have to scroll left to select it."
+        },
+        {
+          "headline":"Select System Update.",
+          "description":"Doing so opens the PS3 Update menu."
+        },
+        {
+          "headline":"Select Update via Storage Media.",
+          "description":"This will prompt the PS3 to scan for attached USB drives."
+        },
+        {
+          "headline":"Select OK when prompted.",
+          "description":"Doing so starts the update process with your jailbreak USB drive selected as the location from which you'll install the update."
+        },
+        {
+          "headline":"Wait for the firmware to finish installing.",
+          "description":"This can take up to an hour, so be patient. Once the jailbreak is complete, you should wind up back on your PS3's main page, from which point you can begin experimenting with your jailbroken PS3. If the PS3 freezes or refuses to install the jailbreak, repeat this whole part at least two more times. If that doesn't work, try downloading the CFW from one of the websites listed in the \"Installing the Firmware\" section."
+        }
+      ]
+    }
+  ],
+  "text":" Preparing to Jailbreak Download the jailbreak file. Go to the jailbreak file hosting site on a computer, click the red Download button, and click Allow if your browser asks to store files on your computer. Once the transfer finishes, the jailbreak ZIP folder will download onto your computer. The jailbreak file can take a while to download, so you should start the download process before moving on to other preparations. Format a USB flash drive to FAT32. Do so by choosing \"FAT32\" in the \"Format\" drop-down menu during the formatting process. This will ensure that the flash drive can be used to update your PS3 later, though formatting your flash drive will also delete any files currently on it. The flash drive must be at least 8 gigabytes in size. Leave your flash drive plugged into your computer after formatting it. Determine your PS3's model number. Look on the back or the bottom of the PS3 for a serial code which begins with \"CECH\" and has several numbers (or a letter and some numbers) after it. Compare your PS3's model number to supported models. Models of PS3 which can be jailbroken include the following:\n\nFat \u2014 All PS3 Fat models are supported. Slim \u2014 If the first two numbers after \"CECH\" are \"20\", \"21\", or \"25\", and if your PS3 is below version 3.56, your console is supported. Super Slim \u2014 No versions of the Super Slim model of PS3 can be jailbroken. Figure out whether your PS3 is NAND or NOR. Depending on your PS3's model number, you can determine the type of PS3 you have, which will determine the type of custom firmware (CFW) you use later:\n\nFat \u2014 If the first letter after \"CECH\" is \"A\", \"B\", \"C\", \"E\", or \"G\", the console is NAND; for all other letters, the console is NOR. Slim \u2014 All supported Slim models are NOR. Creating the Firmware Check Drive Extract the jailbreak ZIP folder. This process will vary depending on your computer's operating system:\n\nWindows \u2014 Open the ZIP folder, click the Extract tab, click Extract all, and click Extract at the bottom of the window that appears. The extracted folder will open when the extraction finishes. Mac \u2014 Just double-click the ZIP folder to extract it. The extracted folder will open when the extraction finishes. Open the Step 1 folder. Double-click the PS3 Jailbreak Kit folder, then double-click the Step 1 - Minimum Version Checker folder. Copy the PS3 folder. Click the PS3 folder, then press Ctrl+C (Windows) or \u2318 Command+C (Mac) to copy it. Paste the PS3 folder onto your flash drive. Open your flash drive by clicking its name in the lower-left side of the File Explorer (Windows) or Finder (Mac) window, click a blank space, and press Ctrl+V (Windows) or \u2318 Command+V (Mac). Once the folder finishes pasting, you can proceed. Eject the flash drive. Now that the flash drive is set up for your PS3, you can use it to check your PS3's firmware. Determining Your PS3's Compatibility Plug your flash drive into your PS3's right-most USB slot. This is important, as using any other slot may cause the process to malfunction. Go to the firmware number's location. Select Settings on the main menu, select System Update, select Update via Storage Media, and select OK when prompted. Review the firmware number. The number to the right of the \"Update data of version\" text must be listed as \"3.56\" or lower. If you see a number above 3.56 listed, you cannot jailbreak your PS3, and attempting to do so will cause irreparable damage to your console. Creating the Installation Drive Plug the flash drive back into your computer. Now that you know that your PS3 is compatible with a jailbreak, you can create the installation drive. Again, if your PS3's firmware number is higher than 3.56, you cannot jailbreak it as attempting to do so will brick your PS3. Remove the PS3 folder from the flash drive. Simply delete the PS3 folder to do so. Open the Step 2 folder. In the extracted PS3 Jailbreak Kit folder, double-click the Step 2 - 4.82 Rebug & Jailbreak Files folder to open it. Copy the Step 2 folder's contents to the flash drive. Click and drag across both the \"flsh.hex\" and the \"PS3\" folder here, press Ctrl+C (Windows) or \u2318 Command+C (Mac), and then open your flash drive and press Ctrl+V (Windows) or \u2318 Command+V (Mac). Eject your flash drive again. You'll now proceed with plugging the flash drive back into the PS3 for the last time, making sure to keep it there until the jailbreak is complete. Installing the Firmware Plug the flash drive back into the PS3's right-most slot. The flash drive will have to stay here until after you've completed the jailbreak process. Open the PS3's web browser. Select the www icon on the PS3's home screen. Set the \"Blank Page\" option as your home page. To do so:\nPress Triangle\n\nSelect Tools\n\nSelect Home Page\n\nSelect Use Blank Page\n\nSelect OK Delete temporary files. This is important, as failing to do so may result in an error when attempting to download the custom firmware (CFW). For each of the temporary file types, do the following:\n\nCookies \u2014 Press Triangle, select Tools, select Delete Cookies, and select Yes when prompted. Search History \u2014 Press Triangle, select Tools, select Delete Search History, and select Yes when prompted. Cache \u2014 Press Triangle, select Tools, select Delete Cache, and select Yes when prompted. Authentication Information \u2014 Press Triangle, select Tools, select Delete Authentication Information, and select Yes when prompted. Open the address bar. Press the Select button on your PS3's controller to do so. Enter an address. Type any one of the following three addresses into the address bar, then press Start. Keep in mind that you may have to try each of these websites several times before one of them works:\nhttp://ps3.editzz.net/\nhttp://redthetrainer.com/ps3/norNandWriter\nhttp://ps3hack.duckdns.org/\nBe persistent while trying these websites, as they rarely work the first time you open them in your PS3's browser. Select your console type. You'll choose either the NAND or the NOR option depending on the PS3 type you determined your console to be back in the first part. If you're using the http://ps3.editzz.net/ site, you must first select the Choose Console tab at the top of the screen. Add the download page to your bookmarks, then close the browser. Press the Select button, then select Add to Bookmarks in the resulting menu. You can then close the browser by pressing Circle and selecting Yes when prompted. Re-open the download page. Open your web browser, press the Select button, select the URL that you saved, and select OK when prompted. Select the Write to Flash Memory option. You'll find this option at the bottom of the page. Doing so will prompt the custom firmware (CFW) to begin downloading. Wait for the installation to complete. Once you see a green \"SUCCESS...\" heading appear at the bottom of the screen, your CFW has been installed.If you don't see the green \"SUCCESS...\" button appear at the bottom of the screen, select the Write to Flash Memory option again. If you see \"SUCCESS...\" appear but your PlayStation 3 is frozen, wait for 10 minutes. If your PS3 doesn't unfreeze, shut it down, then turn it back on and try to install the NOR or NAND CFW again. Allow your PS3 to turn off. Once you successfully install the CFW, your PS3 will beep and turn itself off after a few seconds (or, in some cases, minutes). Jailbreaking Your PS3 Turn back on the PS3. Once the PS3 has been off for a minute or more, use a synchronized controller to turn it back on. If prompted to allow your PS3 to restore \"corrupted\" files, select OK when prompted and allow your console to back up its files. Select Settings. You'll find this briefcase-shaped icon at the top of the screen, though you may have to scroll left to select it. Select System Update. Doing so opens the PS3 Update menu. Select Update via Storage Media. This will prompt the PS3 to scan for attached USB drives. Select OK when prompted. Doing so starts the update process with your jailbreak USB drive selected as the location from which you'll install the update. Wait for the firmware to finish installing. This can take up to an hour, so be patient. Once the jailbreak is complete, you should wind up back on your PS3's main page, from which point you can begin experimenting with your jailbroken PS3. If the PS3 freezes or refuses to install the jailbreak, repeat this whole part at least two more times. If that doesn't work, try downloading the CFW from one of the websites listed in the \"Installing the Firmware\" section.",
+  "tyn_model":[
+    "ps3",
+    "flash drive",
+    "\u2014 press",
+    "\u2014 all",
+    "\u2014 if",
+    "\u2318 command+c",
+    "\u2318 command+v",
+    "usb flash drive",
+    "ps3 fat",
+    "console",
+    "\u2014 no",
+    "\u2014 open",
+    "\u2014 just",
+    "file explorer (",
+    "usb",
+    "ps3 jailbreak kit folder",
+    "tools",
+    "ps3's",
+    "web browser",
+    "playstation 3",
+    "ps3 update"
+  ],
+  "tyn_section":[
+
+  ]
+}

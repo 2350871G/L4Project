@@ -1,0 +1,320 @@
+{
+  "title":"How to Download Undertale on Android",
+  "url":"https://www.wikihow.com/Download-Undertale-on-Android",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "parts":[
+    {
+      "name":"Allowing App Installs from Other Sources",
+      "steps":[
+        {
+          "headline":"Open your Android\u2019s Settings {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/6\\/68\\/Android7settings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/6\\/68\\/Android7settings.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":760,\"bigHeight\":760,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}.",
+          "description":"You\u2019ll usually find it in the app drawer. The names of each menu item vary by manufacturer."
+        },
+        {
+          "headline":"Tap Security.",
+          "description":"This may be called Lock Screen & Security on some Androids."
+        },
+        {
+          "headline":"Scroll down to \u2033Unknown Sources.\u2033 If the switch is gray, continue to the next step.",
+          "description":"If it\u2019s green or blue, your Android is already set up to install apps from unknown sources."
+        },
+        {
+          "headline":"Slide the \u2033Unknown Sources\u2033 switch to {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/28\\/Android7switchon.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/28\\/Android7switchon.png\",\"smallWidth\":460,\"smallHeight\":394,\"bigWidth\":760,\"bigHeight\":651.4285714285714,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}.",
+          "description":"A warning will appear. Take a moment to read the warning before you continue."
+        },
+        {
+          "headline":"Tap OK to close the warning.",
+          "description":"Now it's time to create the package you'll use to install the app on your Android."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Package",
+      "steps":[
+        {
+          "headline":"Navigate to https://mrpowergamerbr.com/files/UndertaleWrapper.apk on your computer.",
+          "description":"This prompts you to download a file."
+        },
+        {
+          "headline":"Click Save or Download.",
+          "description":"You may have to choose a folder to which the file will be saved. If you\u2019re not prompted to do so, files usually download to a folder called Downloads."
+        },
+        {
+          "headline":"Press \u229e Win+E to open the file explorer.",
+          "description":""
+        },
+        {
+          "headline":"Double-click the Downloads folder.",
+          "description":"If you downloaded the file to a different folder, open that folder."
+        },
+        {
+          "headline":"Right-click UndertaleWrapper.apk and select Open with.",
+          "description":"Additional options will appear."
+        },
+        {
+          "headline":"Select 7-Zip or your preferred zip app.",
+          "description":"This displays the files and folders inside the file you downloaded. If you are unable to open the file, change the file\u2019s extension from \u2033.apk\u2033 to \u2033.zip\u2033 and then try again."
+        },
+        {
+          "headline":"Double-click the assets folder.",
+          "description":"You should see two files inside now. You\u2019ll be moving additional files into this folder shortly."
+        },
+        {
+          "headline":"Navigate to the folder in which you installed Undertale.",
+          "description":"You can do this in the open file explorer window. The location of the installation may vary, but you\u2019ll usually find it in C:\\Program Files (x86). If you installed Undertale with Steam, you\u2019ll usually find it at C:\\Program Files (x86)\\Steam\\steamapps\\common\\Undertale."
+        },
+        {
+          "headline":"Save a copy of data.win to another folder.",
+          "description":"It\u2019s the largest file in the folder. If you want to save it to the Documents folder, start by right-clicking data.win and selecting Copy. Then, open the Documents folder, right-click the main panel, and select Paste."
+        },
+        {
+          "headline":"Rename the copied file to game.droid.",
+          "description":"To do this, right-click the file on your desktop (or wherever you moved it), select Rename, type the new name, and then press \u21b5 Enter."
+        },
+        {
+          "headline":"Drag game.droid to the open folder in 7-Zip.",
+          "description":"This copies the file to the package, which prepares the app for your Android. If prompted to overwrite or add a file to the compressed archive, click Yes."
+        }
+      ]
+    },
+    {
+      "name":"Adding the Music to the Package",
+      "steps":[
+        {
+          "headline":"Create a new folder called \u2033undertalemusic.\u2033 Here\u2019s how:",
+          "description":"Open the Documents folder in the file explorer. Right-click the white area in the main panel and select New Folder. Type undertalemusic and press \u21b5 Enter."
+        },
+        {
+          "headline":"Save a copy of UndertaleWrapper.apk to the undertalemusic folder.",
+          "description":"This is the file you were editing in 7-Zip earlier."
+        },
+        {
+          "headline":"Open a web browser and navigate to https://mrpowergamerbr.com/files/aapt.exe.",
+          "description":"This prompts you to download a file called \u2033aapt.exe.\u2033"
+        },
+        {
+          "headline":"Click Save or Download.",
+          "description":"If prompted to select a folder, choose undertalemusic (the folder you just created). Otherwise, it\u2019ll usually save to Downloads."
+        },
+        {
+          "headline":"Copy aapt.exe to the undertalemusic folder.",
+          "description":"The folder now contains two files: aapt.exe and UndertaleWrapper.apk."
+        },
+        {
+          "headline":"Create a new folder called \u2033assets\u2033 inside \u2033undertalemusic.\u2033 To do this:",
+          "description":"Right-click a blank area inside the Undertale music folder. Select New folder. Type assets and press \u21b5 Enter."
+        },
+        {
+          "headline":"Double-click the assets folder.",
+          "description":"This opens the new blank folder."
+        },
+        {
+          "headline":"Press \u229e Win+E to open separate file explorer window.",
+          "description":""
+        },
+        {
+          "headline":"Navigate back to the Undertale folder on your PC.",
+          "description":"It\u2019s the folder you found under C:\\Program Files (x86) earlier."
+        },
+        {
+          "headline":"Select all files that end in \u2033.ogg.\u2033 These are Undertale\u2019s music files.",
+          "description":"To select them, click and drag the mouse until the highlighting box surrounds all of the files. When you lift your finger, the file names will be highlighted."
+        },
+        {
+          "headline":"While the files are still highlighted, press Control and click credits.txt.",
+          "description":"This file is now selected as well."
+        },
+        {
+          "headline":"Right-click the highlighted area and select Copy.",
+          "description":""
+        },
+        {
+          "headline":"Paste the copied items to the assets folder.",
+          "description":"To do this:\nGo back to the window with the \u2033assets\u2033 folder. Right-click a blank area. Click Paste."
+        },
+        {
+          "headline":"Go back to the main undertalemusic folder.",
+          "description":"You can do this by clicking the folder\u2019s name in the left sidebar."
+        },
+        {
+          "headline":"Copy the path to the folder.",
+          "description":"To do this, highlight the address in the bar at the top of the screen (the one that contains the full path to the folder), then press Ctrl+C to copy it."
+        },
+        {
+          "headline":"Open the command prompt.",
+          "description":"To do this:\nClick the Windows search icon (usually a circle or magnifying glass at the bottom-left corner of the screen). Type cmd. Right-click Command prompt. Click Run as Administrator. If prompted, give the app permission to run."
+        },
+        {
+          "headline":"Type cd at the prompt and press the space bar.",
+          "description":""
+        },
+        {
+          "headline":"Right-click the command prompt and select Paste.",
+          "description":"The copied path now appears next to \u2033cd.\u2033"
+        },
+        {
+          "headline":"Press \u21b5 Enter.",
+          "description":""
+        },
+        {
+          "headline":"Copy this command.",
+          "description":"Use your mouse to highlight this entire command, then press Ctrl+C to copy it. aapt add -f -v UndertaleWrapper.apk assets/credits.txt assets/mus_a2.ogg assets/mus_alphysfix.ogg assets/mus_amalgam.ogg assets/mus_ambientwater.ogg assets/mus_anothermedium.ogg assets/mus_bad.ogg assets/mus_barrier.ogg assets/mus_battle1.ogg assets/mus_battle2.ogg assets/mus_bergentruckung.ogg assets/mus_bgflameA.ogg assets/mus_birdnoise.ogg assets/mus_birdsong.ogg assets/mus_boss1.ogg assets/mus_cast_1.ogg assets/mus_cast_2.ogg assets/mus_cast_3.ogg assets/mus_cast_4.ogg assets/mus_cast_5.ogg assets/mus_cast_6.ogg assets/mus_cast_7.ogg assets/mus_chokedup.ogg assets/mus_churchbell.ogg assets/mus_computer.ogg assets/mus_confession.ogg assets/mus_coolbeat.ogg assets/mus_core.ogg assets/mus_coretransition.ogg assets/mus_core_ambience.ogg assets/mus_creepy_ambience.ogg assets/mus_crickets.ogg assets/mus_cymbal.ogg assets/mus_dance_of_dog.ogg assets/mus_date.ogg assets/mus_date_fight.ogg assets/mus_date_tense.ogg assets/mus_deeploop2.ogg assets/mus_disturbing.ogg assets/mus_dogappear.ogg assets/mus_dogmeander.ogg assets/mus_dogroom.ogg assets/mus_dogsong.ogg assets/mus_dontgiveup.ogg assets/mus_doorclose.ogg assets/mus_dooropen.ogg assets/mus_drone.ogg assets/mus_dummybattle.ogg assets/mus_dununnn.ogg assets/mus_elevator.ogg assets/mus_elevator_last.ogg assets/mus_endarea_parta.ogg assets/mus_endarea_partb.ogg assets/mus_endingexcerpt1.ogg assets/mus_endingexcerpt2.ogg assets/mus_express_myself.ogg assets/mus_fallendown2.ogg assets/mus_fearsting.ogg assets/mus_flowey.ogg assets/mus_f_6s_1.ogg assets/mus_f_6s_2.ogg assets/mus_f_6s_3.ogg assets/mus_f_6s_4.ogg assets/mus_f_6s_5.ogg assets/mus_f_6s_6.ogg assets/mus_f_alarm.ogg assets/mus_f_destroyed.ogg assets/mus_f_destroyed2.ogg assets/mus_f_destroyed3.ogg assets/mus_f_finale_1.ogg assets/mus_f_finale_1_l.ogg assets/mus_f_finale_2.ogg assets/mus_f_finale_3.ogg assets/mus_f_intro.ogg assets/mus_f_newlaugh.ogg assets/mus_f_newlaugh_low.ogg assets/mus_f_part1.ogg assets/mus_f_part2.ogg assets/mus_f_part3.ogg assets/mus_f_saved.ogg assets/mus_f_wind1.ogg assets/mus_f_wind2.ogg assets/mus_gameover.ogg assets/mus_ghostbattle.ogg assets/mus_harpnoise.ogg assets/mus_hereweare.ogg assets/mus_hotel.ogg assets/mus_hotel_battle.ogg assets/mus_house1.ogg assets/mus_house2.ogg assets/mus_intronoise.ogg assets/mus_kingdescription.ogg assets/mus_lab.ogg assets/mus_leave.ogg assets/mus_menu0.ogg assets/mus_menu1.ogg assets/mus_menu2.ogg assets/mus_menu3.ogg assets/mus_menu4.ogg assets/mus_menu5.ogg assets/mus_menu6.ogg assets/mus_mettafly.ogg assets/mus_mettatonbattle.ogg assets/mus_mettaton_ex.ogg assets/mus_mettaton_neo.ogg assets/mus_mettaton_pretransform.ogg assets/mus_mettmusical1.ogg assets/mus_mettmusical2.ogg assets/mus_mettmusical3.ogg assets/mus_mettmusical4.ogg assets/mus_mettsad.ogg assets/mus_mett_applause.ogg assets/mus_mett_cheer.ogg assets/mus_mode.ogg assets/mus_mtgameshow.ogg assets/mus_muscle.ogg assets/mus_musicbox.ogg assets/mus_myemeow.ogg assets/mus_mysteriousroom2.ogg assets/mus_mystery.ogg assets/mus_napstachords.ogg assets/mus_napstahouse.ogg assets/mus_news.ogg assets/mus_news_battle.ogg assets/mus_ohyes.ogg assets/mus_oogloop.ogg assets/mus_operatile.ogg assets/mus_options_fall.ogg assets/mus_options_summer.ogg assets/mus_options_winter.ogg assets/mus_papyrus.ogg assets/mus_papyrusboss.ogg assets/mus_piano.ogg assets/mus_prebattle1.ogg assets/mus_predummy.ogg assets/mus_race.ogg assets/mus_rain.ogg assets/mus_rain_deep.ogg assets/mus_repeat_1.ogg assets/mus_repeat_2.ogg assets/mus_reunited.ogg assets/mus_rimshot.ogg assets/mus_ruins.ogg assets/mus_ruinspiano.ogg assets/mus_sansdate.ogg assets/mus_sfx_a_grab.ogg assets/mus_sfx_chainsaw.ogg assets/mus_sfx_hypergoner_charge.ogg assets/mus_sfx_hypergoner_laugh.ogg assets/mus_sfx_rainbowbeam_hold.ogg assets/mus_shop.ogg assets/mus_sigh_of_dog.ogg assets/mus_silence.ogg assets/mus_smallshock.ogg assets/mus_smile.ogg assets/mus_snoresymphony.ogg assets/mus_snowwalk.ogg assets/mus_snowy.ogg assets/mus_spider.ogg assets/mus_spoopy.ogg assets/mus_spoopy_holiday.ogg assets/mus_spoopy_wave.ogg assets/mus_star.ogg assets/mus_sticksnap.ogg assets/mus_story.ogg assets/mus_story_stuck.ogg assets/mus_st_happytown.ogg assets/mus_st_him.ogg assets/mus_st_meatfactory.ogg assets/mus_st_troubledingle.ogg assets/mus_temshop.ogg assets/mus_temvillage.ogg assets/mus_tension.ogg assets/mus_tone2.ogg assets/mus_tone3.ogg assets/mus_toomuch.ogg assets/mus_toriel.ogg assets/mus_town.ogg assets/mus_tv.ogg assets/mus_undyneboss.ogg assets/mus_undynefast.ogg assets/mus_undynepiano.ogg assets/mus_undynescary.ogg assets/mus_undynetheme.ogg assets/mus_undynetruetheme.ogg assets/mus_vsasgore.ogg assets/mus_waterfall.ogg assets/mus_waterquiet.ogg assets/mus_wawa.ogg assets/mus_whoopee.ogg assets/mus_wind.ogg assets/mus_woofenstein.ogg assets/mus_woofenstein_loop.ogg assets/mus_wrongnumbersong.ogg assets/mus_wrongworld.ogg assets/mus_xpart.ogg assets/mus_xpart_2.ogg assets/mus_xpart_a.ogg assets/mus_xpart_b.ogg assets/mus_xpart_back.ogg assets/mus_x_undyne.ogg assets/mus_x_undyne_pre.ogg assets/mus_yourbestfriend_3.ogg assets/mus_zzz_c.ogg assets/mus_zzz_c2.ogg assets/mus_zz_megalovania.ogg assets/mus_z_ending.ogg assets/snd_ballchime.ogg assets/snd_bombfall.ogg assets/snd_bombsplosion.ogg assets/snd_buzzing.ogg assets/snd_curtgunshot.ogg assets/snd_fall2.ogg assets/snd_flameloop.ogg assets/snd_heavydamage.ogg assets/snd_mushroomdance.ogg assets/mus_dogshrine_1.ogg assets/mus_dogshrine_2.ogg."
+        },
+        {
+          "headline":"Paste the copied command to the command prompt and press \u21b5 Enter.",
+          "description":"The music files will now copy to the package (apk) file."
+        }
+      ]
+    },
+    {
+      "name":"Moving the Package to the Android",
+      "steps":[
+        {
+          "headline":"Install ZipSigner from the Play Store.",
+          "description":"This is a free app that you can use to digitally sign the package you created. This is necessary for installing Undertale. ZipSigner is the app with a brown package icon that says \u2033CERT\u2033 inside."
+        },
+        {
+          "headline":"Connect your Android to your PC with a USB cable.",
+          "description":"You can use the cable that came with your Android or one that\u2019s compatible.If your Android\u2019s screen is locked, unlock it once you\u2019ve connected it to the computer. If prompted to choose a method for connecting, select MTP or File Transfer."
+        },
+        {
+          "headline":"Double-click your Android to display its files.",
+          "description":"If a window containing your devices didn\u2019t appear automatically, you can click your Android in the left column of the file explorer."
+        },
+        {
+          "headline":"Navigate to your Android\u2019s Download folder.",
+          "description":"The location varies by Android, and it may be located on your SD card. If there\u2019s no Download folder, you can create one just as you\u2019ve been doing on your computer."
+        },
+        {
+          "headline":"Copy UndertaleWrapper.apk from the \u2033undertalemusic\u2033 folder to your Android\u2019s Download folder.",
+          "description":"The process is the same as it was when copying files to other folders on your computer:\nRight-click the file and select Copy. Right-click a blank space in the Download folder and select Paste."
+        },
+        {
+          "headline":"Open ZipSigner on your Android.",
+          "description":"This is the app you installed earlier. You should find it in the app drawer."
+        },
+        {
+          "headline":"Click CHOOSE IN/OUT.",
+          "description":"A list of folders on your Android will appear."
+        },
+        {
+          "headline":"Open the Download folder.",
+          "description":""
+        },
+        {
+          "headline":"Select UndertaleWrapper.apk.",
+          "description":""
+        },
+        {
+          "headline":"Click SIGN THE FILE.",
+          "description":"This begins the process of signing the file. Be patient, as it may take a while. Once the app returns to the main screen, you\u2019ll know the process is complete.Keep your Android connected to the computer for now."
+        }
+      ]
+    },
+    {
+      "name":"Setting up the Game",
+      "steps":[
+        {
+          "headline":"Open your Android\u2019s file manager.",
+          "description":"It\u2019s usually called something like My Files, File Manager, or Files, and you\u2019ll find it in the app drawer."
+        },
+        {
+          "headline":"Open the Download folder.",
+          "description":""
+        },
+        {
+          "headline":"Tap UndertaleWrapper-signed.apk.",
+          "description":"This opens the installer file."
+        },
+        {
+          "headline":"Tap INSTALL.",
+          "description":"It\u2019s at the bottom-right corner of the screen. This installs Undertale on your Android."
+        },
+        {
+          "headline":"Tap OPEN when the installation is complete.",
+          "description":"The game is now installed, however, you\u2019ll still need to set up the game controls."
+        },
+        {
+          "headline":"Install GameKeyboard + from the Play Store.",
+          "description":"This is a paid ($2.99) that works well with Undertale on your Android. Look for the app with the white game controller that says \u2033GK\u2033 on it."
+        },
+        {
+          "headline":"Open GameKeyboard +.",
+          "description":"It\u2019s the new game controller icon in the app drawer."
+        },
+        {
+          "headline":"Follow the on-screen instructions to set up the soft keyboard.",
+          "description":"Once you\u2019re finished, you\u2019ll be ready to import the Undertale-specific profile."
+        },
+        {
+          "headline":"Go back to your computer\u2019s web browser and navigate to https://mrpowergamerbr.com/files/com.locnet.gamekeyboard2.gkp.",
+          "description":""
+        },
+        {
+          "headline":"Follow the on-screen instructions to save the file to your computer.",
+          "description":"Once the download is complete, you\u2019ll need to copy this file over to your Android just as you did earlier with the package."
+        },
+        {
+          "headline":"Open the Downloads folder.",
+          "description":"If you saved the file to a different location, open that folder."
+        },
+        {
+          "headline":"Copy com.locnet.gamekeyboard2.gpk to your Android\u2019s Download folder.",
+          "description":"Copy the file by selecting it and pressing Ctrl+C. Then, open the Download folder on your Android, right-click a blank area, and click Paste."
+        },
+        {
+          "headline":"Import the profile into Game Controller +.",
+          "description":"To do this:Return to Game Controller +. Tap the settings button. Tap Import Profile. Open the Download folder and select com.locnet.gamekeyboard2.gpk. Follow the on-screen instructions to complete the import."
+        },
+        {
+          "headline":"Tap the back button until you\u2019ve returned to the Game Controller settings.",
+          "description":"Now you must map the \u2033C\u2033 key."
+        },
+        {
+          "headline":"Tap Macro Editor.",
+          "description":""
+        },
+        {
+          "headline":"Tap Macro 1.",
+          "description":"An input box will appear."
+        },
+        {
+          "headline":"Type or paste Macro 1 into the blank.",
+          "description":""
+        },
+        {
+          "headline":"Follow the on-screen instructions to save your changes.",
+          "description":""
+        },
+        {
+          "headline":"Open Undertale and start playing.",
+          "description":"You\u2019ll find it in the app drawer. You can now play Undertale on your phone or tablet."
+        }
+      ]
+    }
+  ],
+  "text":" Allowing App Installs from Other Sources Open your Android\u2019s Settings {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/6\\/68\\/Android7settings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/6\\/68\\/Android7settings.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":760,\"bigHeight\":760,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. You\u2019ll usually find it in the app drawer. The names of each menu item vary by manufacturer. Tap Security. This may be called Lock Screen & Security on some Androids. Scroll down to \u2033Unknown Sources.\u2033 If the switch is gray, continue to the next step. If it\u2019s green or blue, your Android is already set up to install apps from unknown sources. Slide the \u2033Unknown Sources\u2033 switch to {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/28\\/Android7switchon.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/28\\/Android7switchon.png\",\"smallWidth\":460,\"smallHeight\":394,\"bigWidth\":760,\"bigHeight\":651.4285714285714,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. A warning will appear. Take a moment to read the warning before you continue. Tap OK to close the warning. Now it's time to create the package you'll use to install the app on your Android. Creating the Package Navigate to https://mrpowergamerbr.com/files/UndertaleWrapper.apk on your computer. This prompts you to download a file. Click Save or Download. You may have to choose a folder to which the file will be saved. If you\u2019re not prompted to do so, files usually download to a folder called Downloads. Press \u229e Win+E to open the file explorer.  Double-click the Downloads folder. If you downloaded the file to a different folder, open that folder. Right-click UndertaleWrapper.apk and select Open with. Additional options will appear. Select 7-Zip or your preferred zip app. This displays the files and folders inside the file you downloaded. If you are unable to open the file, change the file\u2019s extension from \u2033.apk\u2033 to \u2033.zip\u2033 and then try again. Double-click the assets folder. You should see two files inside now. You\u2019ll be moving additional files into this folder shortly. Navigate to the folder in which you installed Undertale. You can do this in the open file explorer window. The location of the installation may vary, but you\u2019ll usually find it in C:\\Program Files (x86). If you installed Undertale with Steam, you\u2019ll usually find it at C:\\Program Files (x86)\\Steam\\steamapps\\common\\Undertale. Save a copy of data.win to another folder. It\u2019s the largest file in the folder. If you want to save it to the Documents folder, start by right-clicking data.win and selecting Copy. Then, open the Documents folder, right-click the main panel, and select Paste. Rename the copied file to game.droid. To do this, right-click the file on your desktop (or wherever you moved it), select Rename, type the new name, and then press \u21b5 Enter. Drag game.droid to the open folder in 7-Zip. This copies the file to the package, which prepares the app for your Android. If prompted to overwrite or add a file to the compressed archive, click Yes. Adding the Music to the Package Create a new folder called \u2033undertalemusic.\u2033 Here\u2019s how: Open the Documents folder in the file explorer. Right-click the white area in the main panel and select New Folder. Type undertalemusic and press \u21b5 Enter. Save a copy of UndertaleWrapper.apk to the undertalemusic folder. This is the file you were editing in 7-Zip earlier. Open a web browser and navigate to https://mrpowergamerbr.com/files/aapt.exe. This prompts you to download a file called \u2033aapt.exe.\u2033 Click Save or Download. If prompted to select a folder, choose undertalemusic (the folder you just created). Otherwise, it\u2019ll usually save to Downloads. Copy aapt.exe to the undertalemusic folder. The folder now contains two files: aapt.exe and UndertaleWrapper.apk. Create a new folder called \u2033assets\u2033 inside \u2033undertalemusic.\u2033 To do this: Right-click a blank area inside the Undertale music folder. Select New folder. Type assets and press \u21b5 Enter. Double-click the assets folder. This opens the new blank folder. Press \u229e Win+E to open separate file explorer window.  Navigate back to the Undertale folder on your PC. It\u2019s the folder you found under C:\\Program Files (x86) earlier. Select all files that end in \u2033.ogg.\u2033 These are Undertale\u2019s music files. To select them, click and drag the mouse until the highlighting box surrounds all of the files. When you lift your finger, the file names will be highlighted. While the files are still highlighted, press Control and click credits.txt. This file is now selected as well. Right-click the highlighted area and select Copy.  Paste the copied items to the assets folder. To do this:\nGo back to the window with the \u2033assets\u2033 folder. Right-click a blank area. Click Paste. Go back to the main undertalemusic folder. You can do this by clicking the folder\u2019s name in the left sidebar. Copy the path to the folder. To do this, highlight the address in the bar at the top of the screen (the one that contains the full path to the folder), then press Ctrl+C to copy it. Open the command prompt. To do this:\nClick the Windows search icon (usually a circle or magnifying glass at the bottom-left corner of the screen). Type cmd. Right-click Command prompt. Click Run as Administrator. If prompted, give the app permission to run. Type cd at the prompt and press the space bar.  Right-click the command prompt and select Paste. The copied path now appears next to \u2033cd.\u2033 Press \u21b5 Enter.  Copy this command. Use your mouse to highlight this entire command, then press Ctrl+C to copy it. aapt add -f -v UndertaleWrapper.apk assets/credits.txt assets/mus_a2.ogg assets/mus_alphysfix.ogg assets/mus_amalgam.ogg assets/mus_ambientwater.ogg assets/mus_anothermedium.ogg assets/mus_bad.ogg assets/mus_barrier.ogg assets/mus_battle1.ogg assets/mus_battle2.ogg assets/mus_bergentruckung.ogg assets/mus_bgflameA.ogg assets/mus_birdnoise.ogg assets/mus_birdsong.ogg assets/mus_boss1.ogg assets/mus_cast_1.ogg assets/mus_cast_2.ogg assets/mus_cast_3.ogg assets/mus_cast_4.ogg assets/mus_cast_5.ogg assets/mus_cast_6.ogg assets/mus_cast_7.ogg assets/mus_chokedup.ogg assets/mus_churchbell.ogg assets/mus_computer.ogg assets/mus_confession.ogg assets/mus_coolbeat.ogg assets/mus_core.ogg assets/mus_coretransition.ogg assets/mus_core_ambience.ogg assets/mus_creepy_ambience.ogg assets/mus_crickets.ogg assets/mus_cymbal.ogg assets/mus_dance_of_dog.ogg assets/mus_date.ogg assets/mus_date_fight.ogg assets/mus_date_tense.ogg assets/mus_deeploop2.ogg assets/mus_disturbing.ogg assets/mus_dogappear.ogg assets/mus_dogmeander.ogg assets/mus_dogroom.ogg assets/mus_dogsong.ogg assets/mus_dontgiveup.ogg assets/mus_doorclose.ogg assets/mus_dooropen.ogg assets/mus_drone.ogg assets/mus_dummybattle.ogg assets/mus_dununnn.ogg assets/mus_elevator.ogg assets/mus_elevator_last.ogg assets/mus_endarea_parta.ogg assets/mus_endarea_partb.ogg assets/mus_endingexcerpt1.ogg assets/mus_endingexcerpt2.ogg assets/mus_express_myself.ogg assets/mus_fallendown2.ogg assets/mus_fearsting.ogg assets/mus_flowey.ogg assets/mus_f_6s_1.ogg assets/mus_f_6s_2.ogg assets/mus_f_6s_3.ogg assets/mus_f_6s_4.ogg assets/mus_f_6s_5.ogg assets/mus_f_6s_6.ogg assets/mus_f_alarm.ogg assets/mus_f_destroyed.ogg assets/mus_f_destroyed2.ogg assets/mus_f_destroyed3.ogg assets/mus_f_finale_1.ogg assets/mus_f_finale_1_l.ogg assets/mus_f_finale_2.ogg assets/mus_f_finale_3.ogg assets/mus_f_intro.ogg assets/mus_f_newlaugh.ogg assets/mus_f_newlaugh_low.ogg assets/mus_f_part1.ogg assets/mus_f_part2.ogg assets/mus_f_part3.ogg assets/mus_f_saved.ogg assets/mus_f_wind1.ogg assets/mus_f_wind2.ogg assets/mus_gameover.ogg assets/mus_ghostbattle.ogg assets/mus_harpnoise.ogg assets/mus_hereweare.ogg assets/mus_hotel.ogg assets/mus_hotel_battle.ogg assets/mus_house1.ogg assets/mus_house2.ogg assets/mus_intronoise.ogg assets/mus_kingdescription.ogg assets/mus_lab.ogg assets/mus_leave.ogg assets/mus_menu0.ogg assets/mus_menu1.ogg assets/mus_menu2.ogg assets/mus_menu3.ogg assets/mus_menu4.ogg assets/mus_menu5.ogg assets/mus_menu6.ogg assets/mus_mettafly.ogg assets/mus_mettatonbattle.ogg assets/mus_mettaton_ex.ogg assets/mus_mettaton_neo.ogg assets/mus_mettaton_pretransform.ogg assets/mus_mettmusical1.ogg assets/mus_mettmusical2.ogg assets/mus_mettmusical3.ogg assets/mus_mettmusical4.ogg assets/mus_mettsad.ogg assets/mus_mett_applause.ogg assets/mus_mett_cheer.ogg assets/mus_mode.ogg assets/mus_mtgameshow.ogg assets/mus_muscle.ogg assets/mus_musicbox.ogg assets/mus_myemeow.ogg assets/mus_mysteriousroom2.ogg assets/mus_mystery.ogg assets/mus_napstachords.ogg assets/mus_napstahouse.ogg assets/mus_news.ogg assets/mus_news_battle.ogg assets/mus_ohyes.ogg assets/mus_oogloop.ogg assets/mus_operatile.ogg assets/mus_options_fall.ogg assets/mus_options_summer.ogg assets/mus_options_winter.ogg assets/mus_papyrus.ogg assets/mus_papyrusboss.ogg assets/mus_piano.ogg assets/mus_prebattle1.ogg assets/mus_predummy.ogg assets/mus_race.ogg assets/mus_rain.ogg assets/mus_rain_deep.ogg assets/mus_repeat_1.ogg assets/mus_repeat_2.ogg assets/mus_reunited.ogg assets/mus_rimshot.ogg assets/mus_ruins.ogg assets/mus_ruinspiano.ogg assets/mus_sansdate.ogg assets/mus_sfx_a_grab.ogg assets/mus_sfx_chainsaw.ogg assets/mus_sfx_hypergoner_charge.ogg assets/mus_sfx_hypergoner_laugh.ogg assets/mus_sfx_rainbowbeam_hold.ogg assets/mus_shop.ogg assets/mus_sigh_of_dog.ogg assets/mus_silence.ogg assets/mus_smallshock.ogg assets/mus_smile.ogg assets/mus_snoresymphony.ogg assets/mus_snowwalk.ogg assets/mus_snowy.ogg assets/mus_spider.ogg assets/mus_spoopy.ogg assets/mus_spoopy_holiday.ogg assets/mus_spoopy_wave.ogg assets/mus_star.ogg assets/mus_sticksnap.ogg assets/mus_story.ogg assets/mus_story_stuck.ogg assets/mus_st_happytown.ogg assets/mus_st_him.ogg assets/mus_st_meatfactory.ogg assets/mus_st_troubledingle.ogg assets/mus_temshop.ogg assets/mus_temvillage.ogg assets/mus_tension.ogg assets/mus_tone2.ogg assets/mus_tone3.ogg assets/mus_toomuch.ogg assets/mus_toriel.ogg assets/mus_town.ogg assets/mus_tv.ogg assets/mus_undyneboss.ogg assets/mus_undynefast.ogg assets/mus_undynepiano.ogg assets/mus_undynescary.ogg assets/mus_undynetheme.ogg assets/mus_undynetruetheme.ogg assets/mus_vsasgore.ogg assets/mus_waterfall.ogg assets/mus_waterquiet.ogg assets/mus_wawa.ogg assets/mus_whoopee.ogg assets/mus_wind.ogg assets/mus_woofenstein.ogg assets/mus_woofenstein_loop.ogg assets/mus_wrongnumbersong.ogg assets/mus_wrongworld.ogg assets/mus_xpart.ogg assets/mus_xpart_2.ogg assets/mus_xpart_a.ogg assets/mus_xpart_b.ogg assets/mus_xpart_back.ogg assets/mus_x_undyne.ogg assets/mus_x_undyne_pre.ogg assets/mus_yourbestfriend_3.ogg assets/mus_zzz_c.ogg assets/mus_zzz_c2.ogg assets/mus_zz_megalovania.ogg assets/mus_z_ending.ogg assets/snd_ballchime.ogg assets/snd_bombfall.ogg assets/snd_bombsplosion.ogg assets/snd_buzzing.ogg assets/snd_curtgunshot.ogg assets/snd_fall2.ogg assets/snd_flameloop.ogg assets/snd_heavydamage.ogg assets/snd_mushroomdance.ogg assets/mus_dogshrine_1.ogg assets/mus_dogshrine_2.ogg. Paste the copied command to the command prompt and press \u21b5 Enter. The music files will now copy to the package (apk) file. Moving the Package to the Android Install ZipSigner from the Play Store. This is a free app that you can use to digitally sign the package you created. This is necessary for installing Undertale. ZipSigner is the app with a brown package icon that says \u2033CERT\u2033 inside. Connect your Android to your PC with a USB cable. You can use the cable that came with your Android or one that\u2019s compatible.If your Android\u2019s screen is locked, unlock it once you\u2019ve connected it to the computer. If prompted to choose a method for connecting, select MTP or File Transfer. Double-click your Android to display its files. If a window containing your devices didn\u2019t appear automatically, you can click your Android in the left column of the file explorer. Navigate to your Android\u2019s Download folder. The location varies by Android, and it may be located on your SD card. If there\u2019s no Download folder, you can create one just as you\u2019ve been doing on your computer. Copy UndertaleWrapper.apk from the \u2033undertalemusic\u2033 folder to your Android\u2019s Download folder. The process is the same as it was when copying files to other folders on your computer:\nRight-click the file and select Copy. Right-click a blank space in the Download folder and select Paste. Open ZipSigner on your Android. This is the app you installed earlier. You should find it in the app drawer. Click CHOOSE IN/OUT. A list of folders on your Android will appear. Open the Download folder.  Select UndertaleWrapper.apk.  Click SIGN THE FILE. This begins the process of signing the file. Be patient, as it may take a while. Once the app returns to the main screen, you\u2019ll know the process is complete.Keep your Android connected to the computer for now. Setting up the Game Open your Android\u2019s file manager. It\u2019s usually called something like My Files, File Manager, or Files, and you\u2019ll find it in the app drawer. Open the Download folder.  Tap UndertaleWrapper-signed.apk. This opens the installer file. Tap INSTALL. It\u2019s at the bottom-right corner of the screen. This installs Undertale on your Android. Tap OPEN when the installation is complete. The game is now installed, however, you\u2019ll still need to set up the game controls. Install GameKeyboard + from the Play Store. This is a paid ($2.99) that works well with Undertale on your Android. Look for the app with the white game controller that says \u2033GK\u2033 on it. Open GameKeyboard +. It\u2019s the new game controller icon in the app drawer. Follow the on-screen instructions to set up the soft keyboard. Once you\u2019re finished, you\u2019ll be ready to import the Undertale-specific profile. Go back to your computer\u2019s web browser and navigate to https://mrpowergamerbr.com/files/com.locnet.gamekeyboard2.gkp.  Follow the on-screen instructions to save the file to your computer. Once the download is complete, you\u2019ll need to copy this file over to your Android just as you did earlier with the package. Open the Downloads folder. If you saved the file to a different location, open that folder. Copy com.locnet.gamekeyboard2.gpk to your Android\u2019s Download folder. Copy the file by selecting it and pressing Ctrl+C. Then, open the Download folder on your Android, right-click a blank area, and click Paste. Import the profile into Game Controller +. To do this:Return to Game Controller +. Tap the settings button. Tap Import Profile. Open the Download folder and select com.locnet.gamekeyboard2.gpk. Follow the on-screen instructions to complete the import. Tap the back button until you\u2019ve returned to the Game Controller settings. Now you must map the \u2033C\u2033 key. Tap Macro Editor.  Tap Macro 1. An input box will appear. Type or paste Macro 1 into the blank.  Follow the on-screen instructions to save your changes.  Open Undertale and start playing. You\u2019ll find it in the app drawer. You can now play Undertale on your phone or tablet.",
+  "tyn_model":[
+    "\u21b5 enter",
+    "game controller",
+    "undertale",
+    "7-zip",
+    "\u229e win+e",
+    "file manager",
+    "parser",
+    "zip app",
+    "mouse",
+    "magnifying glass",
+    "usb cable",
+    "android",
+    "files"
+  ],
+  "tyn_section":[
+
+  ]
+}

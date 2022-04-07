@@ -1,0 +1,59 @@
+{
+  "title":"How to DTX Mod Combat Arms With Photoshop CS5",
+  "url":"https://www.wikihow.com/DTX-Mod-Combat-Arms-With-Photoshop-CS5",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC First Person Shooter",
+    "Combat Arms"
+  ],
+  "steps":[
+    {
+      "headline":"Download all the tools necessary.",
+      "description":"You will find them at 'Things You'll Need'."
+    },
+    {
+      "headline":"Drag the 8bi DTX format into the Photoshop Plugins folder.",
+      "description":""
+    },
+    {
+      "headline":"Use REZextract to extract the rez file you want.",
+      "description":"This will appear in you game folder."
+    },
+    {
+      "headline":"Open DTXconvert and change it from Nexon type to Lithtech type.",
+      "description":"Photoshop CS5 can't read the Nexon format. Make sure you have opened the texture folder, which is formatted like GUNS_T_PV_AR.rez with the T_PV. Also all the UI_HUD_(item here).rez are textures too. Make sure you click the right button (shown to the right here)."
+    },
+    {
+      "headline":"Now simply drag the DTX you want into photoshop.",
+      "description":"Now edit it as you want to."
+    },
+    {
+      "headline":"Once you finished editing, change it back into a Nexon format.",
+      "description":""
+    },
+    {
+      "headline":"Once you've reconverted it, inject it with REZinject.",
+      "description":"Choose the .rez to inject it into and then add the file(s) you want to inject in. Click inject."
+    },
+    {
+      "headline":"Now that it's injected, go to your game folder.",
+      "description":"In the game folder will be a new .reznew file. First delete the original .rez (e.g. Delete GUNS_T_PV_AR.rez, and then change GUNS_T_PV_AR.reznew into the new GUNS_T_PV_AR.rez"
+    },
+    {
+      "headline":"Now run the game and enjoy your first ever DTX mod!",
+      "description":""
+    }
+  ],
+  "text":" Download all the tools necessary. You will find them at 'Things You'll Need'. Drag the 8bi DTX format into the Photoshop Plugins folder.  Use REZextract to extract the rez file you want. This will appear in you game folder. Open DTXconvert and change it from Nexon type to Lithtech type. Photoshop CS5 can't read the Nexon format. Make sure you have opened the texture folder, which is formatted like GUNS_T_PV_AR.rez with the T_PV. Also all the UI_HUD_(item here).rez are textures too. Make sure you click the right button (shown to the right here). Now simply drag the DTX you want into photoshop. Now edit it as you want to. Once you finished editing, change it back into a Nexon format.  Once you've reconverted it, inject it with REZinject. Choose the .rez to inject it into and then add the file(s) you want to inject in. Click inject. Now that it's injected, go to your game folder. In the game folder will be a new .reznew file. First delete the original .rez (e.g. Delete GUNS_T_PV_AR.rez, and then change GUNS_T_PV_AR.reznew into the new GUNS_T_PV_AR.rez Now run the game and enjoy your first ever DTX mod! ",
+  "tyn_model":[
+    "photoshop plugins",
+    "photoshop.",
+    "dtx mod"
+  ],
+  "tyn_section":[
+
+  ]
+}

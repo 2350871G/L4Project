@@ -1,0 +1,149 @@
+{
+  "title":"How to Install Steam on Linux",
+  "url":"https://www.wikihow.com/Install-Steam-on-Linux",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "methods":[
+    {
+      "name":"Installing from the Ubuntu Software App",
+      "steps":[
+        {
+          "headline":"Open the Ubuntu Dash on your computer.",
+          "description":"Click the icon on the top-left corner of your screen to open the Dash."
+        },
+        {
+          "headline":"Find and click the Ubuntu Software app.",
+          "description":"This app looks like an orange bag icon with a white \"A\" on it. You can type the app name in Dash to quickly find it."
+        },
+        {
+          "headline":"Click the search bar at the top.",
+          "description":"You can search all the available software here."
+        },
+        {
+          "headline":"Search Steam in the software app.",
+          "description":"Type the app name, and press \u21b5 Enter or \u23ce Return on your keyboard. The official Steam app will show up at the top of the results."
+        },
+        {
+          "headline":"Click the Install button next to Steam.",
+          "description":"This will install the latest release of the official Steam app on your Ubuntu Linux computer."
+        }
+      ]
+    },
+    {
+      "name":"Installing from Ubuntu Repositories",
+      "steps":[
+        {
+          "headline":"Open a Terminal window.",
+          "description":"To do this, click the icon on the top-left, type \"Terminal,\" and hit \u21b5 Enter or \u23ce Return. You could also press the Ctrl+Alt+T keyboard shortcut."
+        },
+        {
+          "headline":"Type sudo add-apt-repository multiverse.",
+          "description":"This command will add the required repository for installation. Press \u21b5 Enter or \u23ce Return to run the command. If you're prompted, enter your password to proceed."
+        },
+        {
+          "headline":"Type and run sudo apt update.",
+          "description":"This will update the repository with the latest version. Press \u21b5 Enter or \u23ce Return to run the command."
+        },
+        {
+          "headline":"Type and run sudo apt install steam.",
+          "description":"This will install Steam from the default Ubuntu repositories. You can launch the Steam app on your computer after your installation is finished."
+        }
+      ]
+    },
+    {
+      "name":"Installing via DEB Package",
+      "steps":[
+        {
+          "headline":"Open a terminal window.",
+          "description":"To do this, click the icon on the top-left, type \"terminal,\" and hit \u21b5 Enter or \u23ce Return. You could also press the Ctrl+Alt+T keyboard shortcut."
+        },
+        {
+          "headline":"Type sudo dpkg --add-architecture i386.",
+          "description":""
+        },
+        {
+          "headline":"Press \u21b5 Enter or \u23ce Return.",
+          "description":"This will run your command."
+        },
+        {
+          "headline":"Type sudo apt update.",
+          "description":"This will complete all your latest updates for installation. Press \u21b5 Enter or \u23ce Return to run the command."
+        },
+        {
+          "headline":"Type and run sudo apt install wget gdebi-core libgl1-mesa-dri:i386 libgl1-mesa-glx:i386.",
+          "description":""
+        },
+        {
+          "headline":"Type and run cd /tmp && wget http://media.steampowered.com/client/installer/steam.deb.",
+          "description":"This will download the Steam DEB package to your computer."
+        },
+        {
+          "headline":"Type and run sudo gdebi steam.deb.",
+          "description":"This will install the Steam app from the official DEB package. You can launch Steam on your computer as soon as the install is finished."
+        }
+      ]
+    },
+    {
+      "name":"Installing on Fedora\\/RedHat\\/CentOS or Other",
+      "steps":[
+        {
+          "headline":"Open a terminal window.",
+          "description":"There is no Steam app in the official Fedora repositories, but you can install it via a third-party repository in the command prompt."
+        },
+        {
+          "headline":"Type $ su -c 'dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm'.",
+          "description":"This command will install the RPM Fusion repository. You can install Steam via this repo. RPM Fusion is a reliable third-party repository for Fedora/RedHat and clone Linux versions. You can find more information at https://rpmfusion.org."
+        },
+        {
+          "headline":"Press \u21b5 Enter or \u23ce Return.",
+          "description":"This will run your command, and install the repo. If you're prompted, answer \"Y\" or \"Yes\" to install and configure the new repository."
+        },
+        {
+          "headline":"Type and run $ su -c 'dnf -y update'.",
+          "description":"This will refresh your system's repository list."
+        },
+        {
+          "headline":"Type and run $ su -c 'dnf -y install steam'.",
+          "description":"This will install the Steam app from the RPM Fusion repository. You can launch Steam on your computer when your installation is finished."
+        }
+      ]
+    },
+    {
+      "name":"Installing on the Windows (WINE) Version",
+      "steps":[
+        {
+          "headline":"Open your computer's Terminal window.",
+          "description":"You can use the command prompt to install Steam's Windows version repackaged by Snap, and made available to Linux via Wine."
+        },
+        {
+          "headline":"Type and run sudo apt install snapd.",
+          "description":"This will install the required Snap setup on your computer. Press \u21b5 Enter or \u23ce Return to run the command."
+        },
+        {
+          "headline":"Type and run sudo snap install steamforwindows --edge.",
+          "description":"This will download and install Steam's repackaged Windows version on your computer. You can launch Steam on your computer when your install is finished."
+        }
+      ]
+    }
+  ],
+  "text":" Installing from the Ubuntu Software App Open the Ubuntu Dash on your computer. Click the icon on the top-left corner of your screen to open the Dash. Find and click the Ubuntu Software app. This app looks like an orange bag icon with a white \"A\" on it. You can type the app name in Dash to quickly find it. Click the search bar at the top. You can search all the available software here. Search Steam in the software app. Type the app name, and press \u21b5 Enter or \u23ce Return on your keyboard. The official Steam app will show up at the top of the results. Click the Install button next to Steam. This will install the latest release of the official Steam app on your Ubuntu Linux computer. Installing from Ubuntu Repositories Open a Terminal window. To do this, click the icon on the top-left, type \"Terminal,\" and hit \u21b5 Enter or \u23ce Return. You could also press the Ctrl+Alt+T keyboard shortcut. Type sudo add-apt-repository multiverse. This command will add the required repository for installation. Press \u21b5 Enter or \u23ce Return to run the command. If you're prompted, enter your password to proceed. Type and run sudo apt update. This will update the repository with the latest version. Press \u21b5 Enter or \u23ce Return to run the command. Type and run sudo apt install steam. This will install Steam from the default Ubuntu repositories. You can launch the Steam app on your computer after your installation is finished. Installing via DEB Package Open a terminal window. To do this, click the icon on the top-left, type \"terminal,\" and hit \u21b5 Enter or \u23ce Return. You could also press the Ctrl+Alt+T keyboard shortcut. Type sudo dpkg --add-architecture i386.  Press \u21b5 Enter or \u23ce Return. This will run your command. Type sudo apt update. This will complete all your latest updates for installation. Press \u21b5 Enter or \u23ce Return to run the command. Type and run sudo apt install wget gdebi-core libgl1-mesa-dri:i386 libgl1-mesa-glx:i386.  Type and run cd /tmp && wget http://media.steampowered.com/client/installer/steam.deb. This will download the Steam DEB package to your computer. Type and run sudo gdebi steam.deb. This will install the Steam app from the official DEB package. You can launch Steam on your computer as soon as the install is finished. Installing on Fedora\\/RedHat\\/CentOS or Other Open a terminal window. There is no Steam app in the official Fedora repositories, but you can install it via a third-party repository in the command prompt. Type $ su -c 'dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm'. This command will install the RPM Fusion repository. You can install Steam via this repo. RPM Fusion is a reliable third-party repository for Fedora/RedHat and clone Linux versions. You can find more information at https://rpmfusion.org. Press \u21b5 Enter or \u23ce Return. This will run your command, and install the repo. If you're prompted, answer \"Y\" or \"Yes\" to install and configure the new repository. Type and run $ su -c 'dnf -y update'. This will refresh your system's repository list. Type and run $ su -c 'dnf -y install steam'. This will install the Steam app from the RPM Fusion repository. You can launch Steam on your computer when your installation is finished. Installing on the Windows (WINE) Version Open your computer's Terminal window. You can use the command prompt to install Steam's Windows version repackaged by Snap, and made available to Linux via Wine. Type and run sudo apt install snapd. This will install the required Snap setup on your computer. Press \u21b5 Enter or \u23ce Return to run the command. Type and run sudo snap install steamforwindows --edge. This will download and install Steam's repackaged Windows version on your computer. You can launch Steam on your computer when your install is finished.",
+  "tyn_model":[
+    "steam",
+    "\u21b5 enter",
+    "\u23ce return",
+    "ubuntu software app",
+    "terminal",
+    "apt update.",
+    "rpm fusion",
+    "ubuntu dash",
+    "apt-repository multiverse",
+    "wine"
+  ],
+  "tyn_section":[
+
+  ]
+}

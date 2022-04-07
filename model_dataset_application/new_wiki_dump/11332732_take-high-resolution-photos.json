@@ -1,0 +1,107 @@
+{
+  "title":"How to Take High Resolution Photos",
+  "url":"https://www.wikihow.com/Take-High-Resolution-Photos",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography"
+  ],
+  "methods":[
+    {
+      "name":"Changing the Settings on Your Camera",
+      "steps":[
+        {
+          "headline":"Look for the setting called \"Quality\" in your camera's menu.",
+          "description":"Most cameras will have a tab in the menu labeled \"Quality,\" which is where your resolution settings are. Keep in mind that some cameras won't list the resolution in megapixels. Rather, it will show a series of icons indicating different qualities/sizes. For instance, the icons may list \"L,\" \"M,\" \"S1,\" \"S2,\" and \"S3,\" meaning \"large,\" \"medium,\" \"small 1,\" \"small 2, \" and \"small 3.\" However, it may also list megapixels and/or pixels by height and width. Lower-end cameras may not have this option. With these types of point-and-shoot cameras, you usually get a fairly high-resolution image, though. Higher-end cameras are likely to take photos with more resolution than lower-end cameras. However, higher-end cameras may not have lower resolution settings at all. You can't change the resolution on photos in iPhone's native camera app. On an Android phone, you may be able to change the resolution in the camera app's settings. Non-native apps will allow you to do more."
+        },
+        {
+          "headline":"Select the largest photo setting.",
+          "description":"In this case, larger means more megapixels, which in turn means higher resolution. Pick the \"large\" icon and click okay to select it. If your camera lists quality in pixels or megapixels, always aim for the largest number. \"Raw\" is the best option if your camera has it. Otherwise, choose the jpeg setting."
+        },
+        {
+          "headline":"Opt for the curved icon over the stair-step icon.",
+          "description":"Next to the letters or pixels designating the quality, the camera may have an icon indicating the compression level. The curved icon generally means better quality compression, giving you a better photo overall. For instance, you may have an \"L\" with a curved icon and an \"L\" with a stair-step icon."
+        }
+      ]
+    },
+    {
+      "name":"Photographing High-Resolution Images to Overlap",
+      "steps":[
+        {
+          "headline":"Set the camera's exposure and focus manually if you have a DSLR.",
+          "description":"If you let the camera auto-focus and set the exposure automatically, it will change between shots. That will lead to problems when you try to stitch the images together later. Line up one shot to set the focus and exposure, then keep it the same through all your shots. However, use auto-ISO if you can, as it will adjust for you. Otherwise, pick a low ISO speed. For shutter speed, use one that's 1/(2xthe length of your lens). For 135 millimeter lens, you'd want 1/270. This is more difficult to do on a phone. However, if you use continuous burst mode, the camera will likely keep the same focus and exposure throughout the shots."
+        },
+        {
+          "headline":"Use a longer lens to take a series of smaller shots.",
+          "description":"A longer lens, as opposed to a wide lens, limits the scope of the shot. That means you get more resolution for your image, as you're focusing on a smaller area. Aim for a lens that's 135 millimeters or longer. Similarly, turn your camera or phone so you're taking pictures in portrait mode. Width-wise, you're taking in less of the subject at a time, so it leads to higher resolution when you stitch the pictures together. You can take a picture of pretty much anything using this setting, as long as it's fairly still. Since you're taking multiple shots, you can focus on a small area or take a wide landscape shot."
+        },
+        {
+          "headline":"Set a focus point in the picture to create a clearer photo when using a phone.",
+          "description":"In an iPhone, set the focus point is as easy as tapping on the spot you want to focus on. The iPhone will create a yellow square around the spot. It's usually the same on Android phones, so just tap the point you want the camera to adjust to."
+        },
+        {
+          "headline":"Pick a photo app for your phone that's designed to take clear photos.",
+          "description":"High resolution won't help you if your photo ends up blurry. While most phones have stabilizers, choosing a third-party photo app that's designed to take clear photos can make a huge difference. For instance, try Cortex Camera, Camera+ 2, or ProCamera."
+        },
+        {
+          "headline":"Take photos of still subjects.",
+          "description":"If the subject is moving at all, it will come across as a blur when you stitch the photos together. That includes things like plants moving in the breeze, cars driving by, and people walking. If you do catch some photos with people walking or cars moving, just leave those out of your group when you stitch the photos together."
+        },
+        {
+          "headline":"Use the \"continuous burst\" mode if your camera has it.",
+          "description":"Usually, you can just hold the shutter button down to get multiple shots in a quick burst. Just holding the camera in your hand will be enough to get small shifts in perspective that will lead to a high resolution in the end product. If you don't have continuous burst, just take photos that overlap at least 50% as you move your camera over the subject."
+        },
+        {
+          "headline":"Aim for 4-30 photos, depending on how high you want the resolution to be.",
+          "description":"Just stitching together 4 photos can increase the quality dramatically. However, for the best quality, aim for 20-30 photos of the same area that you can stack together, which will give you a lot more megapixels."
+        }
+      ]
+    },
+    {
+      "name":"Stitching Photos Together with Photoshop",
+      "steps":[
+        {
+          "headline":"Import the photos into Photoshop.",
+          "description":"Click \"File,\" \"Script,\" and then \"Load Files into Stack.\" Select the photos you want to layer together by browsing to the appropriate folder. Unclick the box marked \"Attempt to Automatically Align Source Images,\" as that will keep this process from working properly."
+        },
+        {
+          "headline":"Resize all the photos to 200% height and width.",
+          "description":"Click on \"Image\" and then \"Image Size.\" Type \"200\" in both the height and width boxes. Click the box next to \"Resample,\" and then select \"Nearest Neighbor.\" Leave the resolution where it is."
+        },
+        {
+          "headline":"Use the layers palette to align the layers.",
+          "description":"Select all the photos by hitting \"Shift\" and clicking on each one or hitting \"CTRL + A.\" Then, click \"Edit\" and \"Auto-Align Layers.\" Select \"Auto\" under the projection setting, making sure \"Geometric Distortion\" and \"Vignette Removal\" are not checked. Hit \"OK\" to complete the process. If any photos look out of place in the layers, you can just delete them for a smoother photo."
+        },
+        {
+          "headline":"Average the layers individually with the opacity setting.",
+          "description":"Start with the bottom layer, setting it to 100%. As you move up through the layers, use this simple equation to determine the opacity: 1/the layer number. So, the first layer is 1/1 (100%), the next layer is 1/2 (50%), the next layer is 1/3 (33%), etc. Just round up to the nearest number. It doesn't matter if you end up with duplicate opacity percentages near the top, which will have much lower opacity percentages."
+        },
+        {
+          "headline":"Sharpen the final image.",
+          "description":"Go to \"Filter,\" then \"Sharpen.\" Select \"Smart Sharpen.\" Set the amount to 300% and the Radius to 2px. Opt to reduce noise by 0%, then click \"OK\" to let the program sharpen the photo."
+        },
+        {
+          "headline":"Crop the photo to remove uneven edges.",
+          "description":"Select the crop tool and set it so it's almost to the edge on all sides. Hit the \"OK\" button to crop it, cleaning up any jagged areas on the sides of your photo. Don't forget to save your final image!"
+        }
+      ]
+    }
+  ],
+  "text":" Changing the Settings on Your Camera Look for the setting called \"Quality\" in your camera's menu. Most cameras will have a tab in the menu labeled \"Quality,\" which is where your resolution settings are. Keep in mind that some cameras won't list the resolution in megapixels. Rather, it will show a series of icons indicating different qualities/sizes. For instance, the icons may list \"L,\" \"M,\" \"S1,\" \"S2,\" and \"S3,\" meaning \"large,\" \"medium,\" \"small 1,\" \"small 2, \" and \"small 3.\" However, it may also list megapixels and/or pixels by height and width. Lower-end cameras may not have this option. With these types of point-and-shoot cameras, you usually get a fairly high-resolution image, though. Higher-end cameras are likely to take photos with more resolution than lower-end cameras. However, higher-end cameras may not have lower resolution settings at all. You can't change the resolution on photos in iPhone's native camera app. On an Android phone, you may be able to change the resolution in the camera app's settings. Non-native apps will allow you to do more. Select the largest photo setting. In this case, larger means more megapixels, which in turn means higher resolution. Pick the \"large\" icon and click okay to select it. If your camera lists quality in pixels or megapixels, always aim for the largest number. \"Raw\" is the best option if your camera has it. Otherwise, choose the jpeg setting. Opt for the curved icon over the stair-step icon. Next to the letters or pixels designating the quality, the camera may have an icon indicating the compression level. The curved icon generally means better quality compression, giving you a better photo overall. For instance, you may have an \"L\" with a curved icon and an \"L\" with a stair-step icon. Photographing High-Resolution Images to Overlap Set the camera's exposure and focus manually if you have a DSLR. If you let the camera auto-focus and set the exposure automatically, it will change between shots. That will lead to problems when you try to stitch the images together later. Line up one shot to set the focus and exposure, then keep it the same through all your shots. However, use auto-ISO if you can, as it will adjust for you. Otherwise, pick a low ISO speed. For shutter speed, use one that's 1/(2xthe length of your lens). For 135 millimeter lens, you'd want 1/270. This is more difficult to do on a phone. However, if you use continuous burst mode, the camera will likely keep the same focus and exposure throughout the shots. Use a longer lens to take a series of smaller shots. A longer lens, as opposed to a wide lens, limits the scope of the shot. That means you get more resolution for your image, as you're focusing on a smaller area. Aim for a lens that's 135 millimeters or longer. Similarly, turn your camera or phone so you're taking pictures in portrait mode. Width-wise, you're taking in less of the subject at a time, so it leads to higher resolution when you stitch the pictures together. You can take a picture of pretty much anything using this setting, as long as it's fairly still. Since you're taking multiple shots, you can focus on a small area or take a wide landscape shot. Set a focus point in the picture to create a clearer photo when using a phone. In an iPhone, set the focus point is as easy as tapping on the spot you want to focus on. The iPhone will create a yellow square around the spot. It's usually the same on Android phones, so just tap the point you want the camera to adjust to. Pick a photo app for your phone that's designed to take clear photos. High resolution won't help you if your photo ends up blurry. While most phones have stabilizers, choosing a third-party photo app that's designed to take clear photos can make a huge difference. For instance, try Cortex Camera, Camera+ 2, or ProCamera. Take photos of still subjects. If the subject is moving at all, it will come across as a blur when you stitch the photos together. That includes things like plants moving in the breeze, cars driving by, and people walking. If you do catch some photos with people walking or cars moving, just leave those out of your group when you stitch the photos together. Use the \"continuous burst\" mode if your camera has it. Usually, you can just hold the shutter button down to get multiple shots in a quick burst. Just holding the camera in your hand will be enough to get small shifts in perspective that will lead to a high resolution in the end product. If you don't have continuous burst, just take photos that overlap at least 50% as you move your camera over the subject. Aim for 4-30 photos, depending on how high you want the resolution to be. Just stitching together 4 photos can increase the quality dramatically. However, for the best quality, aim for 20-30 photos of the same area that you can stack together, which will give you a lot more megapixels. Stitching Photos Together with Photoshop Import the photos into Photoshop. Click \"File,\" \"Script,\" and then \"Load Files into Stack.\" Select the photos you want to layer together by browsing to the appropriate folder. Unclick the box marked \"Attempt to Automatically Align Source Images,\" as that will keep this process from working properly. Resize all the photos to 200% height and width. Click on \"Image\" and then \"Image Size.\" Type \"200\" in both the height and width boxes. Click the box next to \"Resample,\" and then select \"Nearest Neighbor.\" Leave the resolution where it is. Use the layers palette to align the layers. Select all the photos by hitting \"Shift\" and clicking on each one or hitting \"CTRL + A.\" Then, click \"Edit\" and \"Auto-Align Layers.\" Select \"Auto\" under the projection setting, making sure \"Geometric Distortion\" and \"Vignette Removal\" are not checked. Hit \"OK\" to complete the process. If any photos look out of place in the layers, you can just delete them for a smoother photo. Average the layers individually with the opacity setting. Start with the bottom layer, setting it to 100%. As you move up through the layers, use this simple equation to determine the opacity: 1/the layer number. So, the first layer is 1/1 (100%), the next layer is 1/2 (50%), the next layer is 1/3 (33%), etc. Just round up to the nearest number. It doesn't matter if you end up with duplicate opacity percentages near the top, which will have much lower opacity percentages. Sharpen the final image. Go to \"Filter,\" then \"Sharpen.\" Select \"Smart Sharpen.\" Set the amount to 300% and the Radius to 2px. Opt to reduce noise by 0%, then click \"OK\" to let the program sharpen the photo. Crop the photo to remove uneven edges. Select the crop tool and set it so it's almost to the edge on all sides. Hit the \"OK\" button to crop it, cleaning up any jagged areas on the sides of your photo. Don't forget to save your final image!",
+  "tyn_model":[
+    "camera",
+    "phone",
+    "iphone",
+    "photo app",
+    "photoshop",
+    "sharpen",
+    "cameras",
+    "point-and-shoot cameras",
+    "dslr",
+    "layers palette",
+    "photos",
+    "crop tool"
+  ],
+  "tyn_section":[
+
+  ]
+}

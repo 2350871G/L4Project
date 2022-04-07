@@ -1,0 +1,76 @@
+{
+  "title":"How to Create and Analyze Circuits in Multisim",
+  "url":"https://www.wikihow.com/Create-and-Analyze-Circuits-in-Multisim",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Open up Multisim.",
+      "description":""
+    },
+    {
+      "headline":"Locate the Place option and select Component.",
+      "description":"You can also right click and select place component."
+    },
+    {
+      "headline":"Locate the Group pull down menu.",
+      "description":"This pull down menu contains the groups for every electrical component available in Multisim."
+    },
+    {
+      "headline":"Select Sources from the Group pull down menu.",
+      "description":"Every basic circuit needs a source that supplies either a voltage or current. For this example a DC current source will be used."
+    },
+    {
+      "headline":"Locate and select the DC current source.",
+      "description":"Click OK after the DC current source is selected."
+    },
+    {
+      "headline":"Left click anywhere on the dotted grid to place the DC current source.",
+      "description":""
+    },
+    {
+      "headline":"Select basic from the Group pull down menu.",
+      "description":"You will be returned to the Select a Component box automatically after placing the source."
+    },
+    {
+      "headline":"Locate and select Resistor listed under the Family submenu.",
+      "description":"Next, locate and select the desired resistor under the Component submenu and click OK.  For this example a 1.0k resistor will be used."
+    },
+    {
+      "headline":"Left click anywhere on the dotted grid to place the resistor.",
+      "description":"The more organized the better, just for the fact that it will look better in the end."
+    },
+    {
+      "headline":"Left click an end of the DC current source and then left click an end of the resistor.",
+      "description":"A red wire will automatically generate, drag, and connect. Continue to do this until a complete, closed circuit is created."
+    },
+    {
+      "headline":"Locate and select Multimeter from the ribbon situated on the right hand side of the screen and left click to place it on the grid.",
+      "description":"A multimeter is a very convenient tool because it can measure voltage, amperage, resistance, and decibels."
+    },
+    {
+      "headline":"Connect the Multimeter to the circuit in parallel using wires and double click the Multimeter to display the measurement window.",
+      "description":"The measurement window will default to voltage. We will be measuring the voltage across the resistor so the multimeter needs to be in parallel with the resistor. For measuring amperage the multimeter would need to be in series with the circuit. For more information, read about parallel and series circuits here."
+    },
+    {
+      "headline":"Locate and select the green Play button to simulate the circuit and obtain the required voltage value.",
+      "description":"The circuit will continue to simulate until it is stopped."
+    },
+    {
+      "headline":"Save the file by selecting File Save As and your masterpiece will be saved to show off to your friends and family.",
+      "description":""
+    }
+  ],
+  "text":" Open up Multisim.  Locate the Place option and select Component. You can also right click and select place component. Locate the Group pull down menu. This pull down menu contains the groups for every electrical component available in Multisim. Select Sources from the Group pull down menu. Every basic circuit needs a source that supplies either a voltage or current. For this example a DC current source will be used. Locate and select the DC current source. Click OK after the DC current source is selected. Left click anywhere on the dotted grid to place the DC current source.  Select basic from the Group pull down menu. You will be returned to the Select a Component box automatically after placing the source. Locate and select Resistor listed under the Family submenu. Next, locate and select the desired resistor under the Component submenu and click OK.  For this example a 1.0k resistor will be used. Left click anywhere on the dotted grid to place the resistor. The more organized the better, just for the fact that it will look better in the end. Left click an end of the DC current source and then left click an end of the resistor. A red wire will automatically generate, drag, and connect. Continue to do this until a complete, closed circuit is created. Locate and select Multimeter from the ribbon situated on the right hand side of the screen and left click to place it on the grid. A multimeter is a very convenient tool because it can measure voltage, amperage, resistance, and decibels. Connect the Multimeter to the circuit in parallel using wires and double click the Multimeter to display the measurement window. The measurement window will default to voltage. We will be measuring the voltage across the resistor so the multimeter needs to be in parallel with the resistor. For measuring amperage the multimeter would need to be in series with the circuit. For more information, read about parallel and series circuits here. Locate and select the green Play button to simulate the circuit and obtain the required voltage value. The circuit will continue to simulate until it is stopped. Save the file by selecting File Save As and your masterpiece will be saved to show off to your friends and family. ",
+  "tyn_model":[
+    "multimeter",
+    "resistor",
+    "wires"
+  ],
+  "tyn_section":[
+
+  ]
+}

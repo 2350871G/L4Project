@@ -1,0 +1,194 @@
+{
+  "title":"How to Record Video Gameplay With No Capture Card",
+  "url":"https://www.wikihow.com/Record-Video-Gameplay-With-No-Capture-Card",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "methods":[
+    {
+      "name":"PlayStation 4",
+      "steps":[
+        {
+          "headline":"Start playing your game.",
+          "description":"The PlayStation 4 is constantly recording, and will always save up to the last 15 minutes of gameplay for you. The PlayStation 4 will not record any system menus or videos."
+        },
+        {
+          "headline":"Press the Share button when you want to save what just happened.",
+          "description":"Did something amazing just happen in your game? Did you just beat a tough level or boss? Press the Share button to open the Share menu so that you can save the recording of what you just played."
+        },
+        {
+          "headline":"Press Square to save your clip.",
+          "description":"The footage that was recorded, up to the last fifteen minutes, will be saved to your PS4's hard drive."
+        },
+        {
+          "headline":"Double-tap the Share button to start a new recording.",
+          "description":"If you're playing a game and want to start a fresh recording, you can do so by double-tapping the Share button. Be aware that this will delete anything that was already recording but not yet saved. Tap Share again when you want to finish recording. Recording will stop automatically after 15 minutes."
+        },
+        {
+          "headline":"Open the Capture Gallery to find your saved videos.",
+          "description":"All of your saved videos and screenshots can be found in the Capture Gallery app. You'll find this app on your main PS4 menu, or in the Library if you haven't used it recently."
+        },
+        {
+          "headline":"Find the video you want.",
+          "description":"The Capture Gallery will organize your videos according to game title. Navigate to the game that you recorded the video in and then select \"Videos\" to find your saved videos."
+        },
+        {
+          "headline":"Play or edit the video.",
+          "description":"You can watch the video in the Capture Gallery or open it in ShareFactory to make edits. Select the video to start playing it."
+        },
+        {
+          "headline":"Upload the video (optional).",
+          "description":"You can upload the video to Facebook or YouTube from the Share menu. You'll be prompted to log in with your Facebook or YouTube account. Before uploading, you can trim the video clips with a basic editor. Make sure to give it a catchy title and a good description."
+        },
+        {
+          "headline":"Insert a USB flash drive to copy videos.",
+          "description":"If you want to move your video clips to your computer, you'll need a USB flash drive. Plug the thumb drive into the USB port on the front of the PS4."
+        },
+        {
+          "headline":"Press Options in the Capture Gallery to copy videos.",
+          "description":"To copy videos to the USB drive, press the Options button on the controller and select \"Copy to USB Storage\". Select each of the videos that you want to copy to the USB drive. Select \"Copy\" after you have finished selecting videos and they will be copied to the USB drive that you plugged in. The transfer process may take a few minutes to complete. The videos will be in MP4 format in a folder called \"PS4\" on the USB drive."
+        }
+      ]
+    },
+    {
+      "name":"Xbox One",
+      "steps":[
+        {
+          "headline":"Start playing the game you want to record.",
+          "description":"The Xbox One is always recording the last five minutes of your gameplay. You can quickly save thirty second clips, or save the entire five minute video."
+        },
+        {
+          "headline":"Double-tap the Xbox button and press X to save the last 30 seconds.",
+          "description":"This is great for a quick moment that you want to share with friends or save for later viewing. If you use the Kinect, you can say \"Xbox, record that\" to perform the same function."
+        },
+        {
+          "headline":"Open the Game DVR to record longer clips.",
+          "description":"The Xbox is constantly recording the last five minutes of your gameplay, which you can access through the Game DVR app. Double-tap the Xbox button, select \"Snap an app\", and then choose \"Game DVR\". If you use the Kinect, you can say \"Xbox, snap Game DVR\" to quickly open the Game DVR app."
+        },
+        {
+          "headline":"Select \"End clip now\" to save your captured footage.",
+          "description":"You can choose to select a range of times from the last 30 seconds to the last 5 minutes."
+        },
+        {
+          "headline":"Select \"Start clip now\" to begin a new recording.",
+          "description":"Your previous recording will be ended and your new recording will begin. You can stop recording whenever you'd like or the clip will end automatically after five minutes."
+        },
+        {
+          "headline":"Permanently save your clips.",
+          "description":"When you finish recording a clip, it is not actually permanently saved. If you keep recording clips, it will eventually be deleted unless you manually save it. Open the Game DVR and select \"Show my clips\". Highlight the video clip that you want to permanently save. Press the Menu button and select \"Save\". This will save the video to your Xbox's hard drive."
+        },
+        {
+          "headline":"Upload your videos.",
+          "description":"Your Xbox One allows you to upload your videos to Xbox Live or share them with your Xbox friends. You can also upload to your OneDrive storage, which will allow you to share it with anyone or download it to your computer. You can use the Upload Studio app to manage your video uploads."
+        }
+      ]
+    },
+    {
+      "name":"PC Games",
+      "steps":[
+        {
+          "headline":"Install a screen capture program.",
+          "description":"There are a variety of different screen capture solutions available, and different ones will suit different needs. Research all of the available options to see which one will give you the best performance. Some of the most popular options include:\nFRAPS - This is one of the oldest video capture programs designed specifically for gaming. It has a low impact on your system performance and gives you several options for customizing your recording. Nvidia ShadowPlay - This is a screen capture feature for Nvidia graphics cards. If you have a supported card, you can use the Nvidia Experience program to launch it. Because ShadowPlay is built-in to Nvidia cards, there is very little performance impact when using it. ApowerRec - This is an ultimate screen recorder for Windows, Mac, Android and iOS. It supports to record webcam and customize your recording. Open Broadcast Software (OBS) - This is a free software program designed for broadcasting live gaming, but it can also record gameplay as well. This guide will assume you are using OBS, as it is the free option."
+        },
+        {
+          "headline":"Configure your recording settings.",
+          "description":"Most screen capture programs allow you to configure your quality settings before you start recording. The higher the quality, the larger the final file will be. In OBS, click the \"Settings\" button. Click the \"Encoding\" tab. Enter 1000 into the Max Bitrate field. Check the \"Use CBR\" box and set the Quality Balance to 10. Check the \"Use Custom Buffer Size\" box and set the Buffer Size field to 0. Click the \"Broadcast Settings\" tab and select \"File Output Only\". This will just record the video to your computer."
+        },
+        {
+          "headline":"Set your recording hotkey.",
+          "description":"having a recording hotkey will make it easy to start and stop recording. In OBS, right-click the \"Sources\" box and select \"Add\" \u2192 \"Game capture\". Select the \"Use Hotkey\" option and then choose the key you want to use. Make sure it's not a key that you will be using in-game."
+        },
+        {
+          "headline":"Start playing the game.",
+          "description":"Once your recording software is configured and running, you can start playing your game. Get to the point that you want to start recording."
+        },
+        {
+          "headline":"Press your hotkey to record your footage.",
+          "description":"Your game will begin recording to your computer. Depending on your quality settings, you may or may not notice a decrease in the game's performance once you start recording. High quality recordings wil start to take up a lot of space on the computer."
+        },
+        {
+          "headline":"Press the hotkey again when you are finished.",
+          "description":"When you are done recording, press the hotkey again. The recording will stop and the file will be written on your hard drive. By default, the videos will appear in the \"OBS\" folder in your \"Videos\" folder."
+        }
+      ]
+    },
+    {
+      "name":"Using a Video Camera or Smartphone",
+      "steps":[
+        {
+          "headline":"Know when to use this method.",
+          "description":"If you are trying to record gameplay from an older console without a capture card, your best bet may be using a video camera or your smartphone's camera app. You won't get perfect quality, but you'll still be able to record what you're playing. If you're using a smartphone, you'll have trouble picking up the sound from your TV. If you can, consider purchasing a capture device instead. These are external devices that you simply plug into your computer, making them much easier to install than a capture card. You will be able to record at the best picture and sound quality if you use a capture device. If you're playing a much older system, such as an NES or Sega Genesis, you may want to record with a VCR. This will lead to a better quality recording, and with the right equipment you can transfer it to a computer."
+        },
+        {
+          "headline":"Frame the TV completely in the camera.",
+          "description":"The key to a good recording is to ensure that the entire frame is filled with the TV image. Try to position the camera in such as way that it is looking directly at the TV, and that the frame is filled by the TV image. Move the camera a little closer so that the edges of the TV are just barely cut off. This will ensure that the entire frame is full. Make sure that you aren't pointed at an angle, or you'll likely pick up some glare."
+        },
+        {
+          "headline":"Avoid using the zoom.",
+          "description":"If your video camera or smartphone uses digital zoom, avoid using it for filming your gameplay. Digital zoom will result in a blurry final video, and you need as much clarity as possible when filming this way."
+        },
+        {
+          "headline":"Connect the audio to the camera (if possible).",
+          "description":"If you're using a camcorder, you may be able to route the game audio through the camcorder's input. You'll need a converter for the console's audio cable so that it can plug into the input or line-in option on the camcorder. This isn't possible on most smartphones. Another possibility with a camcorder is setting up a microphone next to your TV speaker to pick up the game audio more clearly."
+        },
+        {
+          "headline":"Dim the lights.",
+          "description":"Make sure that no lights are shining directly onto the TV screen. You don't want to make the room completely dark, or the TV image will glow too much. As long as lights aren't pointing directly at the TV screen or camera, you should be good."
+        },
+        {
+          "headline":"Use a tripod or other stabilizer.",
+          "description":"The worst thing you can do for clarity is to try to hold the camera while the game plays. Your camera needs to be absolutely steady, or it will be very hard to see the gameplay. Use a tripod if possible. If you don't have a tripod, set the camera or phone on a level surface and stabilize it with books or other heavy objects."
+        },
+        {
+          "headline":"Sit to the side while playing.",
+          "description":"When the screen is dark, you may appear in the TV reflection if you are sitting directly in front. Sit off to the side while recording so that you don't get caught in the reflection."
+        },
+        {
+          "headline":"Transfer the finished video to your computer for editing and uploading.",
+          "description":"Once you're finished recording, transfer the video to your computer so that you can edit anything out that you don't want in the video. This is usually useful to cut out the setup process or to remove boring parts. Since the sound recording probably wasn't very good, you may want to replace the sound completely with a soundtrack. After you're finished making your edits, you can upload the video to YouTube or keep it on your computer"
+        }
+      ]
+    }
+  ],
+  "text":" PlayStation 4 Start playing your game. The PlayStation 4 is constantly recording, and will always save up to the last 15 minutes of gameplay for you. The PlayStation 4 will not record any system menus or videos. Press the Share button when you want to save what just happened. Did something amazing just happen in your game? Did you just beat a tough level or boss? Press the Share button to open the Share menu so that you can save the recording of what you just played. Press Square to save your clip. The footage that was recorded, up to the last fifteen minutes, will be saved to your PS4's hard drive. Double-tap the Share button to start a new recording. If you're playing a game and want to start a fresh recording, you can do so by double-tapping the Share button. Be aware that this will delete anything that was already recording but not yet saved. Tap Share again when you want to finish recording. Recording will stop automatically after 15 minutes. Open the Capture Gallery to find your saved videos. All of your saved videos and screenshots can be found in the Capture Gallery app. You'll find this app on your main PS4 menu, or in the Library if you haven't used it recently. Find the video you want. The Capture Gallery will organize your videos according to game title. Navigate to the game that you recorded the video in and then select \"Videos\" to find your saved videos. Play or edit the video. You can watch the video in the Capture Gallery or open it in ShareFactory to make edits. Select the video to start playing it. Upload the video (optional). You can upload the video to Facebook or YouTube from the Share menu. You'll be prompted to log in with your Facebook or YouTube account. Before uploading, you can trim the video clips with a basic editor. Make sure to give it a catchy title and a good description. Insert a USB flash drive to copy videos. If you want to move your video clips to your computer, you'll need a USB flash drive. Plug the thumb drive into the USB port on the front of the PS4. Press Options in the Capture Gallery to copy videos. To copy videos to the USB drive, press the Options button on the controller and select \"Copy to USB Storage\". Select each of the videos that you want to copy to the USB drive. Select \"Copy\" after you have finished selecting videos and they will be copied to the USB drive that you plugged in. The transfer process may take a few minutes to complete. The videos will be in MP4 format in a folder called \"PS4\" on the USB drive. Xbox One Start playing the game you want to record. The Xbox One is always recording the last five minutes of your gameplay. You can quickly save thirty second clips, or save the entire five minute video. Double-tap the Xbox button and press X to save the last 30 seconds. This is great for a quick moment that you want to share with friends or save for later viewing. If you use the Kinect, you can say \"Xbox, record that\" to perform the same function. Open the Game DVR to record longer clips. The Xbox is constantly recording the last five minutes of your gameplay, which you can access through the Game DVR app. Double-tap the Xbox button, select \"Snap an app\", and then choose \"Game DVR\". If you use the Kinect, you can say \"Xbox, snap Game DVR\" to quickly open the Game DVR app. Select \"End clip now\" to save your captured footage. You can choose to select a range of times from the last 30 seconds to the last 5 minutes. Select \"Start clip now\" to begin a new recording. Your previous recording will be ended and your new recording will begin. You can stop recording whenever you'd like or the clip will end automatically after five minutes. Permanently save your clips. When you finish recording a clip, it is not actually permanently saved. If you keep recording clips, it will eventually be deleted unless you manually save it. Open the Game DVR and select \"Show my clips\". Highlight the video clip that you want to permanently save. Press the Menu button and select \"Save\". This will save the video to your Xbox's hard drive. Upload your videos. Your Xbox One allows you to upload your videos to Xbox Live or share them with your Xbox friends. You can also upload to your OneDrive storage, which will allow you to share it with anyone or download it to your computer. You can use the Upload Studio app to manage your video uploads. PC Games Install a screen capture program. There are a variety of different screen capture solutions available, and different ones will suit different needs. Research all of the available options to see which one will give you the best performance. Some of the most popular options include:\nFRAPS - This is one of the oldest video capture programs designed specifically for gaming. It has a low impact on your system performance and gives you several options for customizing your recording. Nvidia ShadowPlay - This is a screen capture feature for Nvidia graphics cards. If you have a supported card, you can use the Nvidia Experience program to launch it. Because ShadowPlay is built-in to Nvidia cards, there is very little performance impact when using it. ApowerRec - This is an ultimate screen recorder for Windows, Mac, Android and iOS. It supports to record webcam and customize your recording. Open Broadcast Software (OBS) - This is a free software program designed for broadcasting live gaming, but it can also record gameplay as well. This guide will assume you are using OBS, as it is the free option. Configure your recording settings. Most screen capture programs allow you to configure your quality settings before you start recording. The higher the quality, the larger the final file will be. In OBS, click the \"Settings\" button. Click the \"Encoding\" tab. Enter 1000 into the Max Bitrate field. Check the \"Use CBR\" box and set the Quality Balance to 10. Check the \"Use Custom Buffer Size\" box and set the Buffer Size field to 0. Click the \"Broadcast Settings\" tab and select \"File Output Only\". This will just record the video to your computer. Set your recording hotkey. having a recording hotkey will make it easy to start and stop recording. In OBS, right-click the \"Sources\" box and select \"Add\" \u2192 \"Game capture\". Select the \"Use Hotkey\" option and then choose the key you want to use. Make sure it's not a key that you will be using in-game. Start playing the game. Once your recording software is configured and running, you can start playing your game. Get to the point that you want to start recording. Press your hotkey to record your footage. Your game will begin recording to your computer. Depending on your quality settings, you may or may not notice a decrease in the game's performance once you start recording. High quality recordings wil start to take up a lot of space on the computer. Press the hotkey again when you are finished. When you are done recording, press the hotkey again. The recording will stop and the file will be written on your hard drive. By default, the videos will appear in the \"OBS\" folder in your \"Videos\" folder. Using a Video Camera or Smartphone Know when to use this method. If you are trying to record gameplay from an older console without a capture card, your best bet may be using a video camera or your smartphone's camera app. You won't get perfect quality, but you'll still be able to record what you're playing. If you're using a smartphone, you'll have trouble picking up the sound from your TV. If you can, consider purchasing a capture device instead. These are external devices that you simply plug into your computer, making them much easier to install than a capture card. You will be able to record at the best picture and sound quality if you use a capture device. If you're playing a much older system, such as an NES or Sega Genesis, you may want to record with a VCR. This will lead to a better quality recording, and with the right equipment you can transfer it to a computer. Frame the TV completely in the camera. The key to a good recording is to ensure that the entire frame is filled with the TV image. Try to position the camera in such as way that it is looking directly at the TV, and that the frame is filled by the TV image. Move the camera a little closer so that the edges of the TV are just barely cut off. This will ensure that the entire frame is full. Make sure that you aren't pointed at an angle, or you'll likely pick up some glare. Avoid using the zoom. If your video camera or smartphone uses digital zoom, avoid using it for filming your gameplay. Digital zoom will result in a blurry final video, and you need as much clarity as possible when filming this way. Connect the audio to the camera (if possible). If you're using a camcorder, you may be able to route the game audio through the camcorder's input. You'll need a converter for the console's audio cable so that it can plug into the input or line-in option on the camcorder. This isn't possible on most smartphones. Another possibility with a camcorder is setting up a microphone next to your TV speaker to pick up the game audio more clearly. Dim the lights. Make sure that no lights are shining directly onto the TV screen. You don't want to make the room completely dark, or the TV image will glow too much. As long as lights aren't pointing directly at the TV screen or camera, you should be good. Use a tripod or other stabilizer. The worst thing you can do for clarity is to try to hold the camera while the game plays. Your camera needs to be absolutely steady, or it will be very hard to see the gameplay. Use a tripod if possible. If you don't have a tripod, set the camera or phone on a level surface and stabilize it with books or other heavy objects. Sit to the side while playing. When the screen is dark, you may appear in the TV reflection if you are sitting directly in front. Sit off to the side while recording so that you don't get caught in the reflection. Transfer the finished video to your computer for editing and uploading. Once you're finished recording, transfer the video to your computer so that you can edit anything out that you don't want in the video. This is usually useful to cut out the setup process or to remove boring parts. Since the sound recording probably wasn't very good, you may want to replace the sound completely with a soundtrack. After you're finished making your edits, you can upload the video to YouTube or keep it on your computer",
+  "tyn_model":[
+    "usb drive",
+    "xbox",
+    "playstation 4",
+    "capture gallery",
+    "screen capture",
+    "hotkey",
+    "video camera",
+    "tv",
+    "camera",
+    "tripod",
+    "usb flash drive",
+    "xbox one",
+    "kinect",
+    "game dvr app",
+    "capture device",
+    "camcorder",
+    "ps4 menu",
+    "thumb drive",
+    "ps4",
+    "usb storage",
+    "game dvr to",
+    "game dvr and",
+    "upload studio",
+    "video capture",
+    "\u2192 \"",
+    "recording software",
+    "capture card",
+    "vcr",
+    "audio",
+    "microphone",
+    "phone",
+    "computer",
+    "soundtrack"
+  ],
+  "tyn_section":[
+
+  ]
+}

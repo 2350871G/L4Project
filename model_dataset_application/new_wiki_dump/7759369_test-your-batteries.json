@@ -1,0 +1,124 @@
+{
+  "title":"How to Test Your Batteries",
+  "url":"https://www.wikihow.com/Test-Your-Batteries",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Doing the Drop Test with Alkaline Batteries",
+      "steps":[
+        {
+          "headline":"Hold the battery vertically 2\u20133 in (5.1\u20137.6 cm) above a hard, flat surface.",
+          "description":"As alkaline batteries go bad, zinc oxide builds up inside, making the battery bouncier. This simple drop test helps you determine new batteries from old ones. Start by taking the battery and holding it above a hard, flat surface like a metal table or marble countertop. Hold the battery vertically so the flat end faces down.For AA, AAA, C, and D batteries, hold the battery so the positive side faces up. For a 9v battery, hold it so both nodes face up and the flat end faces down. A wooden surface is not the best choice for this test. Wood absorbs more energy and items don\u2019t bounce as well."
+        },
+        {
+          "headline":"Replace the battery if it bounces when you drop it.",
+          "description":"Look at how the battery behaves when it hits the surface. A fresh battery will plop down without bouncing. It may roll over onto its side, but won\u2019t bounce back up. An older battery will bounce up several times before falling over. Use the battery\u2019s behavior to tell if this is a fresh or old battery.Remember that if the battery bounces, this doesn\u2019t mean it\u2019s dead. It just means it\u2019s older and is starting to lose its charge. This is a handy test if your batteries are all mixed up and you can\u2019t tell which ones are fresher."
+        },
+        {
+          "headline":"Compare the bounce to a battery you know is dead if you need help.",
+          "description":"Using a dead battery can give you a better frame of reference for the battery you're testing. Take a battery that doesn\u2019t work when you place it in a device. Then drop the two batteries next to each other and compare their bounces.Since the battery is dead, it will bounce higher than a fresh one. Compare the two bounces to determine the specific condition of the battery you're testing."
+        }
+      ]
+    },
+    {
+      "name":"Using a Voltmeter on Lithium and Alkaline Batteries",
+      "steps":[
+        {
+          "headline":"Locate the positive and negative terminals on your battery.",
+          "description":"For an exact measurement of a battery\u2019s charge, use a voltmeter. Start by finding the positive and negative terminals on the battery you\u2019re measuring. These are marked on the battery.This method works for alkaline and rechargeable lithium batteries. On AA, AAA, C, and D batteries, the negative terminal is the flat side and the positive side has a protrusion. On a 9v, the smaller, rounded terminal is positive and the larger, hexagon terminal is negative. Lithium batteries come in many shapes, so look for the markings on the battery to determine its positive and negative terminals. You can also use a multimeter for this test, but make sure you set it to measure in volts rather than amps or ohms."
+        },
+        {
+          "headline":"Set the voltmeter level to the DC setting.",
+          "description":"Voltmeters and multimeters measure alternating current and direct current. All batteries use direct current, or DC. Turn the knob on the front of your voltmeter to DC before taking a reading.Some voltmeters require you to pick a max level for the current you\u2019re testing. On most, the lowest setting is 20 volts. This is enough for all common batteries, so set the meter to 20 volts if it requires you to pick a level."
+        },
+        {
+          "headline":"Touch the positive and negative leads to the positive and negative battery terminals.",
+          "description":"On a voltmeter, the red lead is the positive one. Hold the positive lead to the positive battery terminal and the negative lead to the negative terminal.If you mix up the leads, it won\u2019t damage the battery. But the reading will be in a negative value rather than a positive one. Common household batteries won\u2019t shock you during this test, so don\u2019t worry."
+        },
+        {
+          "headline":"Hold the leads to the battery to get the volt reading.",
+          "description":"The meter will produce a reading within a few seconds. Use this reading to tell if the battery is fresh or not.Fully-charged AA, AAA, C, and D batteries have a charge of 1.5 volts. A 9v has 9 volts. If the charge is more than 1 volt below where it should be, then replace the battery. A normal charge for lithium ion batteries is 3.7 volts, but this could vary. Check with the manufacturer for the full charge. A 3.7-volt lithium battery usually stops working at 3.4 volts, so recharge or replace your battery if it s approaching this level."
+        },
+        {
+          "headline":"Perform a load test with alkaline batteries for the most accurate result.",
+          "description":"A load test measures the battery's power when it's in use. Higher-end multimeters have 2 load settings, 1.5V and 9V. For a AA, AAA, C, or D battery, set the voltage dial to 1.5V. Set the voltage to 9V for a 9v battery. Hold the black probe to the negative end of the battery and the red probe to the positive end to test the battery's milliamps.A fresh 1.5V battery will read 4 milliamps, and a fresh 9V measures 25. Readings below this indicate a dead battery. At 1.2-1.3V is typically when most 1.5V batteries start to become weak. This particular test won't work on a lithium ion battery because multimeters don't have load test settings for their voltages."
+        },
+        {
+          "headline":"Place the battery in a battery tester for a simple reading.",
+          "description":"These devices are easier to use than a multimeter, though they don't do as much as a multimeter. These testers have a slide that moves back and forth to adjust to different battery sizes. Open the slide and insert a AA, AAA, C, or D battery into the slot with the positive side touching the slide. Then check the display for the volt reading. To test a 9v, some meters have a separate port to touch the battery against for a reading. Check your meter to see if it has this feature. Some meters can also test lithium ion batteries if they\u2019re shaped like standard alkaline batteries, but not if they\u2019re irregularly shaped."
+        }
+      ]
+    },
+    {
+      "name":"Checking a Car Battery",
+      "steps":[
+        {
+          "headline":"Look for signs your battery is dead when you start the car.",
+          "description":"You don't need a tester to see your battery is dead most of the time. When you turn the key or press the start button, you won't get any cranking at all from your engine. Your headlights also won't come on, or if they do, they will be very weak. If your battery is almost dead, the car may crank some but won't actually start. While that's not always the battery, typically it is."
+        },
+        {
+          "headline":"Turn the car off and pop the hood so you can access the battery.",
+          "description":"Turning the car off before testing the battery is safer and will make the process easier for you. If you're not sure where your battery is, check your owner's manual. Lift the hood and look for a black rectangular box marked with positive (red) and negative (black) terminals. Your battery may be covered with a plastic hood. If it is, refer to your owner's manual. You'll likely need to unscrew a few screws to take it off."
+        },
+        {
+          "headline":"Use a multimeter or voltmeter to check your battery.",
+          "description":"Put either device on DC voltage if it's digital. Place the end of the black probe on the negative terminal and the end of the red probe on the positive terminal. Watch the readout on the multimeter. You should be looking at volts on your reader. If your battery is reading at or above 12.45 volts, your battery is still in good shape, and any problems you may be having are likely caused by something else. If your battery is reading below that, it won't consistently start your car, and you'll likely need to get a new one. A car battery tester will do the same job. All you need to do is place the black clip on the negative terminal and the red clip on the positive terminal."
+        },
+        {
+          "headline":"Check your battery at an auto parts store if you don't have a multimeter.",
+          "description":"Most auto parts stores will come outside and test your battery for you to see if it's dead. They have a vested interest in doing this because they want you to buy a battery from them! Most auto parts stores will even put in a new battery for you if you don't know how to do it. If your battery is dead, you can jump it or charge it to get to the store."
+        }
+      ]
+    },
+    {
+      "name":"Diagnosing a Phone Battery",
+      "steps":[
+        {
+          "headline":"Check an iPhone battery with the Apple Support App.",
+          "description":"Download this app if you don't already have it on your phone. Begin chatting with one of the technicians, who will walk you through how to run a diagnostic on your battery. The diagnostic report is sent to the technician, and they'll be able to tell you how healthy your battery is. Typically, you'll need to go into Settings, then Privacy, and finally Analytics. Check if \"Share iPhone Analytics\" is checked. If not, press on it to enable the tech to view your analytics reports."
+        },
+        {
+          "headline":"Use a third-party app to test an Android battery.",
+          "description":"Download an app meant to test the health of your battery, such as AccuBattery. Open the app and follow the instructions on the screen to set it up. Then use your phone as you normally would for at least a day. After a day, open the app to view information on the health of your battery. You'll get more accurate information after using the app for weeks or even months. You can also use third-party apps, such as Coconut Battery, to test an iPhone, but you'll need to plug it into a Mac to do it."
+        },
+        {
+          "headline":"Visit a cell phone store to have your battery tested or replaced.",
+          "description":"Cell phone retailers can perform a comprehensive test on your phone battery and check its performance. For iPhone, an Apple Store is your best option, as it will have everything you need to have your battery checked. Visit a store that sells smartphones and batteries to have your Android battery analyzed. These stores can also replace your battery if it's gone bad. They may need to wait for the part to arrive if it isn't in stock."
+        }
+      ]
+    }
+  ],
+  "text":" Doing the Drop Test with Alkaline Batteries Hold the battery vertically 2\u20133 in (5.1\u20137.6 cm) above a hard, flat surface. As alkaline batteries go bad, zinc oxide builds up inside, making the battery bouncier. This simple drop test helps you determine new batteries from old ones. Start by taking the battery and holding it above a hard, flat surface like a metal table or marble countertop. Hold the battery vertically so the flat end faces down.For AA, AAA, C, and D batteries, hold the battery so the positive side faces up. For a 9v battery, hold it so both nodes face up and the flat end faces down. A wooden surface is not the best choice for this test. Wood absorbs more energy and items don\u2019t bounce as well. Replace the battery if it bounces when you drop it. Look at how the battery behaves when it hits the surface. A fresh battery will plop down without bouncing. It may roll over onto its side, but won\u2019t bounce back up. An older battery will bounce up several times before falling over. Use the battery\u2019s behavior to tell if this is a fresh or old battery.Remember that if the battery bounces, this doesn\u2019t mean it\u2019s dead. It just means it\u2019s older and is starting to lose its charge. This is a handy test if your batteries are all mixed up and you can\u2019t tell which ones are fresher. Compare the bounce to a battery you know is dead if you need help. Using a dead battery can give you a better frame of reference for the battery you're testing. Take a battery that doesn\u2019t work when you place it in a device. Then drop the two batteries next to each other and compare their bounces.Since the battery is dead, it will bounce higher than a fresh one. Compare the two bounces to determine the specific condition of the battery you're testing. Using a Voltmeter on Lithium and Alkaline Batteries Locate the positive and negative terminals on your battery. For an exact measurement of a battery\u2019s charge, use a voltmeter. Start by finding the positive and negative terminals on the battery you\u2019re measuring. These are marked on the battery.This method works for alkaline and rechargeable lithium batteries. On AA, AAA, C, and D batteries, the negative terminal is the flat side and the positive side has a protrusion. On a 9v, the smaller, rounded terminal is positive and the larger, hexagon terminal is negative. Lithium batteries come in many shapes, so look for the markings on the battery to determine its positive and negative terminals. You can also use a multimeter for this test, but make sure you set it to measure in volts rather than amps or ohms. Set the voltmeter level to the DC setting. Voltmeters and multimeters measure alternating current and direct current. All batteries use direct current, or DC. Turn the knob on the front of your voltmeter to DC before taking a reading.Some voltmeters require you to pick a max level for the current you\u2019re testing. On most, the lowest setting is 20 volts. This is enough for all common batteries, so set the meter to 20 volts if it requires you to pick a level. Touch the positive and negative leads to the positive and negative battery terminals. On a voltmeter, the red lead is the positive one. Hold the positive lead to the positive battery terminal and the negative lead to the negative terminal.If you mix up the leads, it won\u2019t damage the battery. But the reading will be in a negative value rather than a positive one. Common household batteries won\u2019t shock you during this test, so don\u2019t worry. Hold the leads to the battery to get the volt reading. The meter will produce a reading within a few seconds. Use this reading to tell if the battery is fresh or not.Fully-charged AA, AAA, C, and D batteries have a charge of 1.5 volts. A 9v has 9 volts. If the charge is more than 1 volt below where it should be, then replace the battery. A normal charge for lithium ion batteries is 3.7 volts, but this could vary. Check with the manufacturer for the full charge. A 3.7-volt lithium battery usually stops working at 3.4 volts, so recharge or replace your battery if it s approaching this level. Perform a load test with alkaline batteries for the most accurate result. A load test measures the battery's power when it's in use. Higher-end multimeters have 2 load settings, 1.5V and 9V. For a AA, AAA, C, or D battery, set the voltage dial to 1.5V. Set the voltage to 9V for a 9v battery. Hold the black probe to the negative end of the battery and the red probe to the positive end to test the battery's milliamps.A fresh 1.5V battery will read 4 milliamps, and a fresh 9V measures 25. Readings below this indicate a dead battery. At 1.2-1.3V is typically when most 1.5V batteries start to become weak. This particular test won't work on a lithium ion battery because multimeters don't have load test settings for their voltages. Place the battery in a battery tester for a simple reading. These devices are easier to use than a multimeter, though they don't do as much as a multimeter. These testers have a slide that moves back and forth to adjust to different battery sizes. Open the slide and insert a AA, AAA, C, or D battery into the slot with the positive side touching the slide. Then check the display for the volt reading. To test a 9v, some meters have a separate port to touch the battery against for a reading. Check your meter to see if it has this feature. Some meters can also test lithium ion batteries if they\u2019re shaped like standard alkaline batteries, but not if they\u2019re irregularly shaped. Checking a Car Battery Look for signs your battery is dead when you start the car. You don't need a tester to see your battery is dead most of the time. When you turn the key or press the start button, you won't get any cranking at all from your engine. Your headlights also won't come on, or if they do, they will be very weak. If your battery is almost dead, the car may crank some but won't actually start. While that's not always the battery, typically it is. Turn the car off and pop the hood so you can access the battery. Turning the car off before testing the battery is safer and will make the process easier for you. If you're not sure where your battery is, check your owner's manual. Lift the hood and look for a black rectangular box marked with positive (red) and negative (black) terminals. Your battery may be covered with a plastic hood. If it is, refer to your owner's manual. You'll likely need to unscrew a few screws to take it off. Use a multimeter or voltmeter to check your battery. Put either device on DC voltage if it's digital. Place the end of the black probe on the negative terminal and the end of the red probe on the positive terminal. Watch the readout on the multimeter. You should be looking at volts on your reader. If your battery is reading at or above 12.45 volts, your battery is still in good shape, and any problems you may be having are likely caused by something else. If your battery is reading below that, it won't consistently start your car, and you'll likely need to get a new one. A car battery tester will do the same job. All you need to do is place the black clip on the negative terminal and the red clip on the positive terminal. Check your battery at an auto parts store if you don't have a multimeter. Most auto parts stores will come outside and test your battery for you to see if it's dead. They have a vested interest in doing this because they want you to buy a battery from them! Most auto parts stores will even put in a new battery for you if you don't know how to do it. If your battery is dead, you can jump it or charge it to get to the store. Diagnosing a Phone Battery Check an iPhone battery with the Apple Support App. Download this app if you don't already have it on your phone. Begin chatting with one of the technicians, who will walk you through how to run a diagnostic on your battery. The diagnostic report is sent to the technician, and they'll be able to tell you how healthy your battery is. Typically, you'll need to go into Settings, then Privacy, and finally Analytics. Check if \"Share iPhone Analytics\" is checked. If not, press on it to enable the tech to view your analytics reports. Use a third-party app to test an Android battery. Download an app meant to test the health of your battery, such as AccuBattery. Open the app and follow the instructions on the screen to set it up. Then use your phone as you normally would for at least a day. After a day, open the app to view information on the health of your battery. You'll get more accurate information after using the app for weeks or even months. You can also use third-party apps, such as Coconut Battery, to test an iPhone, but you'll need to plug it into a Mac to do it. Visit a cell phone store to have your battery tested or replaced. Cell phone retailers can perform a comprehensive test on your phone battery and check its performance. For iPhone, an Apple Store is your best option, as it will have everything you need to have your battery checked. Visit a store that sells smartphones and batteries to have your Android battery analyzed. These stores can also replace your battery if it's gone bad. They may need to wait for the part to arrive if it isn't in stock.",
+  "tyn_model":[
+    "battery",
+    "voltmeter",
+    "multimeter",
+    "batteries",
+    "lithium batteries",
+    "meter",
+    "lithium ion batteries",
+    "meters",
+    "auto parts stores",
+    "cell phone",
+    "alkaline batteries",
+    "multimeters",
+    "alternating current and direct current",
+    "lithium battery",
+    "lithium ion battery",
+    "battery tester",
+    "reader",
+    "car battery tester",
+    "auto parts store",
+    "apple support app.",
+    "phone",
+    "iphone",
+    "smartphones"
+  ],
+  "tyn_section":[
+
+  ]
+}

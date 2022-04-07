@@ -1,0 +1,329 @@
+{
+  "title":"How to Create Pong in Unity 2017",
+  "url":"https://www.wikihow.com/Create-Pong-in-Unity-2017",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "parts":[
+    {
+      "name":"Creating the Project",
+      "steps":[
+        {
+          "headline":"Start a new project by clicking \"New\" on the Unity Projects tab.",
+          "description":""
+        },
+        {
+          "headline":"Name the project, and ensure the box \"2D\" is checked.",
+          "description":"Then click the \"Create Project\" button in the bottom right corner."
+        }
+      ]
+    },
+    {
+      "name":"Exploring the Unity Editor",
+      "steps":[
+        {
+          "headline":"Review the left side.",
+          "description":"This is the current scene you're looking at as well as what game objects are in the scene. Currently the scene is named \"Untitled\" and the only object in it is the \"Main Camera\". This area is also referred to as the \"Hierarchy\"."
+        },
+        {
+          "headline":"Click on the Camera in the Hierarchy to select it.",
+          "description":"This will highlight it in blue. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/b\\/ba\\/Camera-Selected.png\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/ba\\/Camera-Selected.png\\/380px-Camera-Selected.png\",\"smallWidth\":460,\"smallHeight\":150,\"bigWidth\":\"380\",\"bigHeight\":\"124\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Find the inspector.",
+          "description":"The right side of the screen is the inspector, and this shows you the properties of game objects you're selecting. The \"main camera\" is currently selected, hence the fact that it's highlighted in blue in the hierarchy on the left, so the inspector shows the properties of the main camera."
+        },
+        {
+          "headline":"Review the asset folder and console, at the bottom.",
+          "description":"This is where all of the assets in the game (cameras, scenes, scripts, etc.) are stored. This is also where you can import files to use in unity. Click on the \"Project\" tab to ensure the asset folder is open if it isn't already. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f4\\/Click-on-project-tab.png\\/460px-Click-on-project-tab.png\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f4\\/Click-on-project-tab.png\\/728px-Click-on-project-tab.png\",\"smallWidth\":460,\"smallHeight\":118,\"bigWidth\":\"728\",\"bigHeight\":\"187\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Find the scene view at the center of the screen.",
+          "description":"This shows you what is currently in the scene, and you can toggle between the scene view and the game view using the buttons the arrows are pointing to. Right above the scene view there are the buttons that allow you to play the scene and pause the scene to see what it would look like for a normal player. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e4\\/Play-button-full.png\\/460px-Play-button-full.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e4\\/Play-button-full.png\\/728px-Play-button-full.png\",\"smallWidth\":460,\"smallHeight\":234,\"bigWidth\":\"728\",\"bigHeight\":\"370\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Find the manipulator buttons.",
+          "description":"Finally, in the upper left corner you can see different options that allow you to manipulate the scene, and objects in it in different ways."
+        }
+      ]
+    },
+    {
+      "name":"Creating Player 1",
+      "steps":[
+        {
+          "headline":"Create Player 1.",
+          "description":"To start, download the sprite by clicking here."
+        },
+        {
+          "headline":"Import the sprite into the asset folder.",
+          "description":"Find where the image has been saved on your computer, and drag it from that folder into the asset folder inside of the Unity Editor."
+        },
+        {
+          "headline":"Right click inside of the hierarchy and go to 2D Object, and create a Sprite.",
+          "description":"Ensure the created sprite isn't a child of the Main Camera. If there's a drop down arrow next to the camera you've accidentally make the sprite a child of the main camera. Try to ensure that nothing in the hierarchy is like this. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/c3\\/Dont-make-a-child.png\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c3\\/Dont-make-a-child.png\\/262px-Dont-make-a-child.png\",\"smallWidth\":460,\"smallHeight\":590,\"bigWidth\":\"262\",\"bigHeight\":\"336\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} \nIf it is a child simply grab the Sprite and drag it down a bit inside of the hierarchy. This will unchild it. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a8\\/Unchild-the-object.png\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/a8\\/Unchild-the-object.png\\/379px-Unchild-the-object.png\",\"smallWidth\":460,\"smallHeight\":326,\"bigWidth\":\"379\",\"bigHeight\":\"269\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Click on the object we've just created you can see information about it on the right side.",
+          "description":"This area is called the inspector, and this is where you can modify some things about the object. Firstly rename it to \"Player 1\"."
+        },
+        {
+          "headline":"Set the position of the object to (0, 0, 0).",
+          "description":"Sometimes objects will start with transform values that may place them off screen, so be sure to check that when creating new objects. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/6\\/62\\/Reset-transform.png\",\"bigUrl\":\"\\/images\\/thumb\\/6\\/62\\/Reset-transform.png\\/395px-Reset-transform.png\",\"smallWidth\":460,\"smallHeight\":368,\"bigWidth\":\"395\",\"bigHeight\":\"316\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Apply the sprite to the Sprite Renderer of on Player 1.",
+          "description":"Click on player 1 in the scene, and drag the sprite from the asset folder to the \"sprite\" box on the Sprite Render component in the inspector."
+        },
+        {
+          "headline":"Add a Box Collider 2D to the Paddle.",
+          "description":"Click \"Add Component\" and search for \"Box Collider 2D\", Make sure this is the 2D version , and not simply the Box Collider."
+        },
+        {
+          "headline":"Add a Rigidbody 2D using the same process.",
+          "description":"Click \"Add Component\" and search for \"Rigidbody 2D\". Now in the inspector we're going to change some properties of the Rigidbody. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/cf\\/Rigidbody.png\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/cf\\/Rigidbody.png\\/371px-Rigidbody.png\",\"smallWidth\":460,\"smallHeight\":458,\"bigWidth\":\"371\",\"bigHeight\":\"369\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Change the \"Gravity Scale\" to 0.",
+          "description":"This ensures the paddle won't be affected by gravity."
+        },
+        {
+          "headline":"Click the \"Constraints\" drop down menu, and then check \"Freeze Position\" for the x value, and \"Freeze Rotation\" for the z value.",
+          "description":"This ensures the Paddle will only move in the Y axis, or simply will only move up and down."
+        }
+      ]
+    },
+    {
+      "name":"Writing the Paddle Code",
+      "steps":[
+        {
+          "headline":"Create the script that controls the Paddles behavior.",
+          "description":"Right click in the Asset menu at the bottom, and go to Create > C# Script. Name the script \"Paddle\" so it's easy to keep track of it."
+        },
+        {
+          "headline":"Double click on the newly created script to open it.",
+          "description":"Inside of the C# Script you should have a blank project."
+        },
+        {
+          "headline":"Type code above the Start() function that declares the up and down arrows, and how to move the player.",
+          "description":"public KeyCode up;\npublic KeyCode down;\nRigidbody2D rigidBody;\n\n \nThe up and down are keys that you will set later to move the paddle up and down. Rigidbody2D is what you modify to allow the player to move. When you type new code a yellow bar will appear on the side. This shows what code was recently added to the script, and will go away once you save the script. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4d\\/Yellow-bar.png\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4d\\/Yellow-bar.png\\/455px-Yellow-bar.png\",\"smallWidth\":460,\"smallHeight\":196,\"bigWidth\":\"455\",\"bigHeight\":\"194\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Tell the Rigidbody variable to find the \"Rigidbody\" that was attached to the paddle earlier.",
+          "description":"Type rigidBody = GetComponent<Rigidbody2D>(); inside of the start function."
+        },
+        {
+          "headline":"Type the following into the update function.",
+          "description":"if(Input.GetKey(up))\n{\n    rigidBody.velocity = new Vector2(0f, 7f);\n}\nelse if(Input.GetKey(down))\n{\n    rigidBody.velocity = new Vector2(0f, -7f);\n}\nelse\n{\n    rigidBody.velocity = new Vector2(0f, 0f);\n}\n\n\nThis will tell the paddle how it's supposed to move when you press up or down. Basically, if the player presses the \"up\" button they will move up 7 units per second, if they press \"down\" they will move down 7 units per second, and if they press nothing they wont move."
+        },
+        {
+          "headline":"Press Ctrl+S to save the script,.",
+          "description":"Head back into the Unity Editor by either tabbing back, or closing Visual Studio."
+        }
+      ]
+    },
+    {
+      "name":"Creating Player 2",
+      "steps":[
+        {
+          "headline":"Select the Player 1 Game Object in the scene by clicking on it inside of the hierarchy.",
+          "description":""
+        },
+        {
+          "headline":"Apply the Player script to the Player 1 Game Object.",
+          "description":"Click \"Add component\" on Player 1, and search for the name of the player script. In this case the name is \"Paddle\". You could also click and drag the script from the asset menu to the Inspector on the right."
+        },
+        {
+          "headline":"Select the Player 1 paddle.",
+          "description":"Under the \"Paddle\" component in the inspector, there should be a drop down menu to select up or down. Choose the keys you wish to make the player move up or down. For this example the \"W\" and \"S\" keys are used. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/91\\/Setkeys.png\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/91\\/Setkeys.png\\/387px-Setkeys.png\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":\"387\",\"bigHeight\":\"218\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Move the player more towards the left side of the screen.",
+          "description":"Click on Player 1 in the scene, and change the X value in the position to -8. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/71\\/ChangeTransform.png\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/71\\/ChangeTransform.png\\/368px-ChangeTransform.png\",\"smallWidth\":460,\"smallHeight\":223,\"bigWidth\":\"368\",\"bigHeight\":\"178\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Create Player 2 by making the current player into what is called a Prefab.",
+          "description":"To do this you're going to select it in the scene, and drag it down to the asset panel. This will create the prefab."
+        },
+        {
+          "headline":"Drag that prefab back into the scene.",
+          "description":"Now you've made a clone of Player 1, except this clone can take on different values if you want it to."
+        },
+        {
+          "headline":"Rename the new object to \"Player 2\".",
+          "description":"Change its x value to a positive 8, and set the keys to move this object in the same way you did previously, this time using the up and down arrows. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/75\\/Player-2-arrows.png\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/75\\/Player-2-arrows.png\\/373px-Player-2-arrows.png\",\"smallWidth\":460,\"smallHeight\":97,\"bigWidth\":\"373\",\"bigHeight\":\"79\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Press the play button at the top.",
+          "description":"You can see the game run, and you have two different objects that can move with different keys."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Play Area",
+      "steps":[
+        {
+          "headline":"Right click on the scene.",
+          "description":"Click on \"Create Empty\" now add a Box Collider 2D to the object."
+        },
+        {
+          "headline":"Move the object so it's more towards the top of the screen.",
+          "description":"Select the move tool in the upper left."
+        },
+        {
+          "headline":"Click on the green arrow on the game object.",
+          "description":"Drag it towards the top to create the upper wall."
+        },
+        {
+          "headline":"Click \"Edit Collider\" to change the boundaries so they cover all the area from the left and right paddle.",
+          "description":"{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/53\\/Edit-collider.png\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/53\\/Edit-collider.png\\/321px-Edit-collider.png\",\"smallWidth\":460,\"smallHeight\":79,\"bigWidth\":\"321\",\"bigHeight\":\"55\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n When you click off of the Wall in the hierarchy, the outline for the green wall will disappear, but don't worry, it's still there; it just doesn't display it unless it's selected."
+        },
+        {
+          "headline":"Right click on the top wall in the hierarchy, and click duplicate.",
+          "description":"Then drag it down so underneath the paddles, so that it serves as the bottom wall."
+        },
+        {
+          "headline":"Check the result.",
+          "description":"This is how it should look."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Ball",
+      "steps":[
+        {
+          "headline":"Create the ball that you'll hit back and forth.",
+          "description":"Download the sprite for the ball here."
+        },
+        {
+          "headline":"Import the downloaded sprite into the Unity Editor.",
+          "description":""
+        },
+        {
+          "headline":"Right click in the hierarchy, and create a sprite.",
+          "description":"Rename this sprite to \"Ball\"."
+        },
+        {
+          "headline":"Apply the imported sprite to the game object.",
+          "description":""
+        },
+        {
+          "headline":"Add a Circle Collider 2D, and a Rigidbody 2D.",
+          "description":"Remember to turn the gravity scale to 0, and angular drag to 0, and finally set the rotation in the z axis to be locked."
+        },
+        {
+          "headline":"Create a physics material for the ball.",
+          "description":"This is what will allow it to bounce off the walls. Right click in the asset folder, and go to \"Create Physics Material 2D\""
+        },
+        {
+          "headline":"Name the material something like \"Bounce.\"",
+          "description":"Set the friction to 0 and the bounciness to 1. This will ensure it never loses velocity. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/19\\/Modifybounce.png\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/19\\/Modifybounce.png\\/390px-Modifybounce.png\",\"smallWidth\":460,\"smallHeight\":184,\"bigWidth\":\"390\",\"bigHeight\":\"156\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Apply the material to the Rigid body of the ball game object.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Creating the Ball Code",
+      "steps":[
+        {
+          "headline":"Right click in the asset folder, and go to Create > C# Script.",
+          "description":"Name the script \"Ball\". Now double click on that script to open it."
+        },
+        {
+          "headline":"Type  Rigidbody2D rigidBody;  above the start function, and  rigidBody = GetComponent<Rigidbody2D>();  inside the Start() function.",
+          "description":"This gives us access to the balls Rigidbody, which will allow us to apply force to it."
+        },
+        {
+          "headline":"Create a function that will set the ball'ss velocity.",
+          "description":"Type the following underneath the \"Start()\" and \"Update()\" functions. public void Direction() \n{ \n\n}"
+        },
+        {
+          "headline":"Type the following inside of the newly created Direction() function: ",
+          "description":" int direction; direction = Random.Range(0, 2); if(direction == 0) {     rigidBody.velocity = new Vector2(5f, -3f); } else {     rigidBody.velocity = new Vector2(-5f, 3f); }   This is what the function Random.Range will do for you, by generating a random number either 0 or 1. Then it will give the ball a velocity of either (5, -3) or (-5, 3) depending."
+        },
+        {
+          "headline":"Add Direction() to the balls \"Start()\" function.",
+          "description":"This will cause it to trigger when the game starts. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/eb\\/Ball-start2-outline.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/eb\\/Ball-start2-outline.png\\/397px-Ball-start2-outline.png\",\"smallWidth\":460,\"smallHeight\":143,\"bigWidth\":\"397\",\"bigHeight\":\"123\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Press Ctrl+S to save the script.",
+          "description":"Head back to the Unity Editor."
+        },
+        {
+          "headline":"Apply the Ball script to the Ball game object.",
+          "description":"Select the ball in the hierarchy, and then drag the Ball script from the assets folder onto the Ball in the inspector."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Goals",
+      "steps":[
+        {
+          "headline":"Right click, Create > Empty, and apply a Box Collider 2D to the object you just created.",
+          "description":"Set them up a bit behind the paddles, and ensure that they cover from the top wall to the bottom wall on both sides"
+        },
+        {
+          "headline":"Check the \"Is Trigger\" box under \"Box Collider 2D\".",
+          "description":"This allows us to have something happen when an object enters that trigger. In this case it will reset the ball to the center. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f4\\/Istrigger.png\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f4\\/Istrigger.png\\/385px-Istrigger.png\",\"smallWidth\":460,\"smallHeight\":124,\"bigWidth\":\"385\",\"bigHeight\":\"104\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}"
+        }
+      ]
+    },
+    {
+      "name":"Creating the Goal Code",
+      "steps":[
+        {
+          "headline":"Right click in the asset folder, and click Create > C# Script.",
+          "description":"Rename the script to \"Goal\" Double click on the newly created script to open it. ."
+        },
+        {
+          "headline":"Type the following under the Start() function: ",
+          "description":" void OnTriggerEnter2D(Collider2D collider) {     collider.GetComponent<Ball>().Direction();     collider.transform.position = new Vector2(0f, 0f); }   \"collider.transform.position = new Vector2(0f, 0f);\" is how the ball gets set back to the initial position. The collider in this case being the ball. \"collider.GetComponent<Ball>().Direction();\" gets the Direction function on the ball when it passes through, and makes sure it runs again. So essentially the ball returns to the center and once again chooses a random direction."
+        },
+        {
+          "headline":"Press Ctrl+Sto save the script.",
+          "description":"Then head back to the Unity Editor."
+        },
+        {
+          "headline":"Attach the script to both goals by using \"Add component\" in the inspector.",
+          "description":""
+        },
+        {
+          "headline":"Press Play and witness the finished project.",
+          "description":""
+        },
+        {
+          "headline":"Go to File > Save project so that you can keep your project forever.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Creating the Project Start a new project by clicking \"New\" on the Unity Projects tab.  Name the project, and ensure the box \"2D\" is checked. Then click the \"Create Project\" button in the bottom right corner. Exploring the Unity Editor Review the left side. This is the current scene you're looking at as well as what game objects are in the scene. Currently the scene is named \"Untitled\" and the only object in it is the \"Main Camera\". This area is also referred to as the \"Hierarchy\". Click on the Camera in the Hierarchy to select it. This will highlight it in blue. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/b\\/ba\\/Camera-Selected.png\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/ba\\/Camera-Selected.png\\/380px-Camera-Selected.png\",\"smallWidth\":460,\"smallHeight\":150,\"bigWidth\":\"380\",\"bigHeight\":\"124\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Find the inspector. The right side of the screen is the inspector, and this shows you the properties of game objects you're selecting. The \"main camera\" is currently selected, hence the fact that it's highlighted in blue in the hierarchy on the left, so the inspector shows the properties of the main camera. Review the asset folder and console, at the bottom. This is where all of the assets in the game (cameras, scenes, scripts, etc.) are stored. This is also where you can import files to use in unity. Click on the \"Project\" tab to ensure the asset folder is open if it isn't already. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/f\\/f4\\/Click-on-project-tab.png\\/460px-Click-on-project-tab.png\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f4\\/Click-on-project-tab.png\\/728px-Click-on-project-tab.png\",\"smallWidth\":460,\"smallHeight\":118,\"bigWidth\":\"728\",\"bigHeight\":\"187\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Find the scene view at the center of the screen. This shows you what is currently in the scene, and you can toggle between the scene view and the game view using the buttons the arrows are pointing to. Right above the scene view there are the buttons that allow you to play the scene and pause the scene to see what it would look like for a normal player. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e4\\/Play-button-full.png\\/460px-Play-button-full.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e4\\/Play-button-full.png\\/728px-Play-button-full.png\",\"smallWidth\":460,\"smallHeight\":234,\"bigWidth\":\"728\",\"bigHeight\":\"370\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Find the manipulator buttons. Finally, in the upper left corner you can see different options that allow you to manipulate the scene, and objects in it in different ways. Creating Player 1 Create Player 1. To start, download the sprite by clicking here. Import the sprite into the asset folder. Find where the image has been saved on your computer, and drag it from that folder into the asset folder inside of the Unity Editor. Right click inside of the hierarchy and go to 2D Object, and create a Sprite. Ensure the created sprite isn't a child of the Main Camera. If there's a drop down arrow next to the camera you've accidentally make the sprite a child of the main camera. Try to ensure that nothing in the hierarchy is like this. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/c3\\/Dont-make-a-child.png\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/c3\\/Dont-make-a-child.png\\/262px-Dont-make-a-child.png\",\"smallWidth\":460,\"smallHeight\":590,\"bigWidth\":\"262\",\"bigHeight\":\"336\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} \nIf it is a child simply grab the Sprite and drag it down a bit inside of the hierarchy. This will unchild it. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a8\\/Unchild-the-object.png\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/a8\\/Unchild-the-object.png\\/379px-Unchild-the-object.png\",\"smallWidth\":460,\"smallHeight\":326,\"bigWidth\":\"379\",\"bigHeight\":\"269\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Click on the object we've just created you can see information about it on the right side. This area is called the inspector, and this is where you can modify some things about the object. Firstly rename it to \"Player 1\". Set the position of the object to (0, 0, 0). Sometimes objects will start with transform values that may place them off screen, so be sure to check that when creating new objects. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/6\\/62\\/Reset-transform.png\",\"bigUrl\":\"\\/images\\/thumb\\/6\\/62\\/Reset-transform.png\\/395px-Reset-transform.png\",\"smallWidth\":460,\"smallHeight\":368,\"bigWidth\":\"395\",\"bigHeight\":\"316\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Apply the sprite to the Sprite Renderer of on Player 1. Click on player 1 in the scene, and drag the sprite from the asset folder to the \"sprite\" box on the Sprite Render component in the inspector. Add a Box Collider 2D to the Paddle. Click \"Add Component\" and search for \"Box Collider 2D\", Make sure this is the 2D version , and not simply the Box Collider. Add a Rigidbody 2D using the same process. Click \"Add Component\" and search for \"Rigidbody 2D\". Now in the inspector we're going to change some properties of the Rigidbody. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/c\\/cf\\/Rigidbody.png\",\"bigUrl\":\"\\/images\\/thumb\\/c\\/cf\\/Rigidbody.png\\/371px-Rigidbody.png\",\"smallWidth\":460,\"smallHeight\":458,\"bigWidth\":\"371\",\"bigHeight\":\"369\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Change the \"Gravity Scale\" to 0. This ensures the paddle won't be affected by gravity. Click the \"Constraints\" drop down menu, and then check \"Freeze Position\" for the x value, and \"Freeze Rotation\" for the z value. This ensures the Paddle will only move in the Y axis, or simply will only move up and down. Writing the Paddle Code Create the script that controls the Paddles behavior. Right click in the Asset menu at the bottom, and go to Create > C# Script. Name the script \"Paddle\" so it's easy to keep track of it. Double click on the newly created script to open it. Inside of the C# Script you should have a blank project. Type code above the Start() function that declares the up and down arrows, and how to move the player. public KeyCode up;\npublic KeyCode down;\nRigidbody2D rigidBody;\n\n \nThe up and down are keys that you will set later to move the paddle up and down. Rigidbody2D is what you modify to allow the player to move. When you type new code a yellow bar will appear on the side. This shows what code was recently added to the script, and will go away once you save the script. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/4\\/4d\\/Yellow-bar.png\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/4d\\/Yellow-bar.png\\/455px-Yellow-bar.png\",\"smallWidth\":460,\"smallHeight\":196,\"bigWidth\":\"455\",\"bigHeight\":\"194\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Tell the Rigidbody variable to find the \"Rigidbody\" that was attached to the paddle earlier. Type rigidBody = GetComponent<Rigidbody2D>(); inside of the start function. Type the following into the update function. if(Input.GetKey(up))\n{\n    rigidBody.velocity = new Vector2(0f, 7f);\n}\nelse if(Input.GetKey(down))\n{\n    rigidBody.velocity = new Vector2(0f, -7f);\n}\nelse\n{\n    rigidBody.velocity = new Vector2(0f, 0f);\n}\n\n\nThis will tell the paddle how it's supposed to move when you press up or down. Basically, if the player presses the \"up\" button they will move up 7 units per second, if they press \"down\" they will move down 7 units per second, and if they press nothing they wont move. Press Ctrl+S to save the script,. Head back into the Unity Editor by either tabbing back, or closing Visual Studio. Creating Player 2 Select the Player 1 Game Object in the scene by clicking on it inside of the hierarchy.  Apply the Player script to the Player 1 Game Object. Click \"Add component\" on Player 1, and search for the name of the player script. In this case the name is \"Paddle\". You could also click and drag the script from the asset menu to the Inspector on the right. Select the Player 1 paddle. Under the \"Paddle\" component in the inspector, there should be a drop down menu to select up or down. Choose the keys you wish to make the player move up or down. For this example the \"W\" and \"S\" keys are used. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/91\\/Setkeys.png\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/91\\/Setkeys.png\\/387px-Setkeys.png\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":\"387\",\"bigHeight\":\"218\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Move the player more towards the left side of the screen. Click on Player 1 in the scene, and change the X value in the position to -8. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/71\\/ChangeTransform.png\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/71\\/ChangeTransform.png\\/368px-ChangeTransform.png\",\"smallWidth\":460,\"smallHeight\":223,\"bigWidth\":\"368\",\"bigHeight\":\"178\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Create Player 2 by making the current player into what is called a Prefab. To do this you're going to select it in the scene, and drag it down to the asset panel. This will create the prefab. Drag that prefab back into the scene. Now you've made a clone of Player 1, except this clone can take on different values if you want it to. Rename the new object to \"Player 2\". Change its x value to a positive 8, and set the keys to move this object in the same way you did previously, this time using the up and down arrows. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/7\\/75\\/Player-2-arrows.png\",\"bigUrl\":\"\\/images\\/thumb\\/7\\/75\\/Player-2-arrows.png\\/373px-Player-2-arrows.png\",\"smallWidth\":460,\"smallHeight\":97,\"bigWidth\":\"373\",\"bigHeight\":\"79\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Press the play button at the top. You can see the game run, and you have two different objects that can move with different keys. Creating the Play Area Right click on the scene. Click on \"Create Empty\" now add a Box Collider 2D to the object. Move the object so it's more towards the top of the screen. Select the move tool in the upper left. Click on the green arrow on the game object. Drag it towards the top to create the upper wall. Click \"Edit Collider\" to change the boundaries so they cover all the area from the left and right paddle. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/53\\/Edit-collider.png\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/53\\/Edit-collider.png\\/321px-Edit-collider.png\",\"smallWidth\":460,\"smallHeight\":79,\"bigWidth\":\"321\",\"bigHeight\":\"55\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"}\n When you click off of the Wall in the hierarchy, the outline for the green wall will disappear, but don't worry, it's still there; it just doesn't display it unless it's selected. Right click on the top wall in the hierarchy, and click duplicate. Then drag it down so underneath the paddles, so that it serves as the bottom wall. Check the result. This is how it should look. Creating the Ball Create the ball that you'll hit back and forth. Download the sprite for the ball here. Import the downloaded sprite into the Unity Editor.  Right click in the hierarchy, and create a sprite. Rename this sprite to \"Ball\". Apply the imported sprite to the game object.  Add a Circle Collider 2D, and a Rigidbody 2D. Remember to turn the gravity scale to 0, and angular drag to 0, and finally set the rotation in the z axis to be locked. Create a physics material for the ball. This is what will allow it to bounce off the walls. Right click in the asset folder, and go to \"Create Physics Material 2D\" Name the material something like \"Bounce.\" Set the friction to 0 and the bounciness to 1. This will ensure it never loses velocity. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/19\\/Modifybounce.png\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/19\\/Modifybounce.png\\/390px-Modifybounce.png\",\"smallWidth\":460,\"smallHeight\":184,\"bigWidth\":\"390\",\"bigHeight\":\"156\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Apply the material to the Rigid body of the ball game object.  Creating the Ball Code Right click in the asset folder, and go to Create > C# Script. Name the script \"Ball\". Now double click on that script to open it. Type  Rigidbody2D rigidBody;  above the start function, and  rigidBody = GetComponent<Rigidbody2D>();  inside the Start() function. This gives us access to the balls Rigidbody, which will allow us to apply force to it. Create a function that will set the ball'ss velocity. Type the following underneath the \"Start()\" and \"Update()\" functions. public void Direction() \n{ \n\n} Type the following inside of the newly created Direction() function:   int direction; direction = Random.Range(0, 2); if(direction == 0) {     rigidBody.velocity = new Vector2(5f, -3f); } else {     rigidBody.velocity = new Vector2(-5f, 3f); }   This is what the function Random.Range will do for you, by generating a random number either 0 or 1. Then it will give the ball a velocity of either (5, -3) or (-5, 3) depending. Add Direction() to the balls \"Start()\" function. This will cause it to trigger when the game starts. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/e\\/eb\\/Ball-start2-outline.png\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/eb\\/Ball-start2-outline.png\\/397px-Ball-start2-outline.png\",\"smallWidth\":460,\"smallHeight\":143,\"bigWidth\":\"397\",\"bigHeight\":\"123\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Press Ctrl+S to save the script. Head back to the Unity Editor. Apply the Ball script to the Ball game object. Select the ball in the hierarchy, and then drag the Ball script from the assets folder onto the Ball in the inspector. Creating the Goals Right click, Create > Empty, and apply a Box Collider 2D to the object you just created. Set them up a bit behind the paddles, and ensure that they cover from the top wall to the bottom wall on both sides Check the \"Is Trigger\" box under \"Box Collider 2D\". This allows us to have something happen when an object enters that trigger. In this case it will reset the ball to the center. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/f\\/f4\\/Istrigger.png\",\"bigUrl\":\"\\/images\\/thumb\\/f\\/f4\\/Istrigger.png\\/385px-Istrigger.png\",\"smallWidth\":460,\"smallHeight\":124,\"bigWidth\":\"385\",\"bigHeight\":\"104\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>Image by: Uploader<br>\\nLicense: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by\\/3.0\\/\\\">Creative Commons<\\/a>\\n<\\/p><\\/div>\"} Creating the Goal Code Right click in the asset folder, and click Create > C# Script. Rename the script to \"Goal\" Double click on the newly created script to open it. . Type the following under the Start() function:   void OnTriggerEnter2D(Collider2D collider) {     collider.GetComponent<Ball>().Direction();     collider.transform.position = new Vector2(0f, 0f); }   \"collider.transform.position = new Vector2(0f, 0f);\" is how the ball gets set back to the initial position. The collider in this case being the ball. \"collider.GetComponent<Ball>().Direction();\" gets the Direction function on the ball when it passes through, and makes sure it runs again. So essentially the ball returns to the center and once again chooses a random direction. Press Ctrl+Sto save the script. Then head back to the Unity Editor. Attach the script to both goals by using \"Add component\" in the inspector.  Press Play and witness the finished project.  Go to File > Save project so that you can keep your project forever. ",
+  "tyn_model":[
+    "unity editor",
+    "paddle",
+    "parser",
+    "box collider",
+    "inspector",
+    "c#",
+    "sprite",
+    "physics material",
+    "material",
+    "random.",
+    "unity projects",
+    "console",
+    "sprite renderer",
+    "sprite render",
+    "c# script",
+    "visual studio",
+    "ball",
+    "collider"
+  ],
+  "tyn_section":[
+
+  ]
+}

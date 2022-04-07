@@ -1,0 +1,168 @@
+{
+  "title":"How to Fix FIFA 15 Crashes",
+  "url":"https://www.wikihow.com/Fix-FIFA-15-Crashes",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Video Game Console Maintenance and Repair"
+  ],
+  "parts":[
+    {
+      "name":"Modifying Game Settings",
+      "steps":[
+        {
+          "headline":"Double click the User Name icon on your Desktop.",
+          "description":"For example: Vikas."
+        },
+        {
+          "headline":"Open the following directory:",
+          "description":"...\\Documents\\FIFA 15"
+        },
+        {
+          "headline":"Right click the file named FIFASetup.ini, select Open With.",
+          "description":"From the list of available programs, select Notepad."
+        },
+        {
+          "headline":"Set the following parameters:",
+          "description":"AUDIO_MIX_MODE=0 CONTROLLER_DEFAULT=0 DISABLE_WINDAERO=0 FULLSCREEN=1 MSAA_LEVEL= 2 RenderingQuality= 3 ResolutionHeight= 1200 ResolutionWidth= 1920 VOICECHAT=0"
+        },
+        {
+          "headline":"Click the File menu, select Save option.",
+          "description":"Exit the Notepad document."
+        }
+      ]
+    },
+    {
+      "name":"Excluding Game Files from the DEP",
+      "steps":[
+        {
+          "headline":"Right click the Computer icon on your Desktop.",
+          "description":""
+        },
+        {
+          "headline":"Select Properties from the context menu.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Advanced system settings\" on the left-hand side panel.",
+          "description":"A System Properties dialog will appear. Click the Advanced tab."
+        },
+        {
+          "headline":"Click Settings button under Performance frame.",
+          "description":""
+        },
+        {
+          "headline":"Click Data Execution Prevention tab.",
+          "description":""
+        },
+        {
+          "headline":"Select the second option labelled \"Turn on DEP for all programs and services except those I select\".",
+          "description":""
+        },
+        {
+          "headline":"Click the Add button.",
+          "description":""
+        },
+        {
+          "headline":"Browse the following location and add all the Executable Files (.exe):",
+          "description":"C:\\Program Files(x86)\\Origin Games\\FIFA 15 C:\\Program Files\\Origin Games\\FIFA 15"
+        },
+        {
+          "headline":"Click OK | OK.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Updating your Display Driver",
+      "steps":[
+        {
+          "headline":"Open the Device Manager tool.",
+          "description":"If you're using Windows 8.1/ 8, press Windows Key + X. Select Device Manager. If you're using Windows 7/ Vista, click the Start button. Type \"Device Manager\" in the Search Box. Press ENTER key."
+        },
+        {
+          "headline":"Expand the top root entry, i.e.",
+          "description":"your computer name displayed in the left panel."
+        },
+        {
+          "headline":"Expand \"Display Adapters' category.",
+          "description":""
+        },
+        {
+          "headline":"Right click your display adapter (For example: Intel HD Graphics 3000), and select \"Update driver software\".",
+          "description":"The device driver update wizard will open. Follow the on-screen instructions."
+        }
+      ]
+    },
+    {
+      "name":"Changing your Screen Resolution",
+      "steps":[
+        {
+          "headline":"Right click on the Desktop.",
+          "description":""
+        },
+        {
+          "headline":"Select Personalize.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Display\" link under \"See Also\" column at the bottom left corner of the screen.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Adjust resolution\" link.",
+          "description":""
+        },
+        {
+          "headline":"Set compatible screen resolution.",
+          "description":"For more details, please read the ReadMe.txt file located at the top root directory of the game installation media."
+        },
+        {
+          "headline":"Click Apply, and then OK.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Using the Compatibility Mode",
+      "steps":[
+        {
+          "headline":"Right click the FIFA 15 game shortcut on your Desktop.",
+          "description":""
+        },
+        {
+          "headline":"Select Properties from the context menu.",
+          "description":""
+        },
+        {
+          "headline":"Click the Compatibility tab in the Shortcut Properties dialog.",
+          "description":""
+        },
+        {
+          "headline":"Check-up the box named \"Run this program in compatibility mode for\"",
+          "description":""
+        },
+        {
+          "headline":"Select an earlier version of Windows.",
+          "description":"For example: If you're using Windows 8.1, select Windows XP (Service Pack 3)."
+        },
+        {
+          "headline":"Click Apply, and then OK.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Modifying Game Settings Double click the User Name icon on your Desktop. For example: Vikas. Open the following directory: ...\\Documents\\FIFA 15 Right click the file named FIFASetup.ini, select Open With. From the list of available programs, select Notepad. Set the following parameters: AUDIO_MIX_MODE=0 CONTROLLER_DEFAULT=0 DISABLE_WINDAERO=0 FULLSCREEN=1 MSAA_LEVEL= 2 RenderingQuality= 3 ResolutionHeight= 1200 ResolutionWidth= 1920 VOICECHAT=0 Click the File menu, select Save option. Exit the Notepad document. Excluding Game Files from the DEP Right click the Computer icon on your Desktop.  Select Properties from the context menu.  Click \"Advanced system settings\" on the left-hand side panel. A System Properties dialog will appear. Click the Advanced tab. Click Settings button under Performance frame.  Click Data Execution Prevention tab.  Select the second option labelled \"Turn on DEP for all programs and services except those I select\".  Click the Add button.  Browse the following location and add all the Executable Files (.exe): C:\\Program Files(x86)\\Origin Games\\FIFA 15 C:\\Program Files\\Origin Games\\FIFA 15 Click OK | OK.  Updating your Display Driver Open the Device Manager tool. If you're using Windows 8.1/ 8, press Windows Key + X. Select Device Manager. If you're using Windows 7/ Vista, click the Start button. Type \"Device Manager\" in the Search Box. Press ENTER key. Expand the top root entry, i.e. your computer name displayed in the left panel. Expand \"Display Adapters' category.  Right click your display adapter (For example: Intel HD Graphics 3000), and select \"Update driver software\". The device driver update wizard will open. Follow the on-screen instructions. Changing your Screen Resolution Right click on the Desktop.  Select Personalize.  Click \"Display\" link under \"See Also\" column at the bottom left corner of the screen.  Click \"Adjust resolution\" link.  Set compatible screen resolution. For more details, please read the ReadMe.txt file located at the top root directory of the game installation media. Click Apply, and then OK.  Using the Compatibility Mode Right click the FIFA 15 game shortcut on your Desktop.  Select Properties from the context menu.  Click the Compatibility tab in the Shortcut Properties dialog.  Check-up the box named \"Run this program in compatibility mode for\"  Select an earlier version of Windows. For example: If you're using Windows 8.1, select Windows XP (Service Pack 3). Click Apply, and then OK. ",
+  "tyn_model":[
+    "notepad",
+    "device manager",
+    "display driver",
+    "hd graphics 3000",
+    "device driver"
+  ],
+  "tyn_section":[
+
+  ]
+}

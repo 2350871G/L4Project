@@ -1,0 +1,69 @@
+{
+  "title":"How to Measure Capacitance",
+  "url":"https://www.wikihow.com/Measure-Capacitance",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Disconnecting the Power and Capacitator",
+      "steps":[
+        {
+          "headline":"Choose a tool that will measure capacitance.",
+          "description":"Even cheap digital multimeters often have a capacitance setting \"\u2013|(\u2013.\" These are good enough for basic troubleshooting, but are not typically accurate enough to rely on precise measurements. They do give accurate results for most film capacitors, since these behave more like the ideal capacitors your multimeter's calculations assume. If accuracy and precision are important, consider an LCR meter. These tools can cost several thousand US dollars, but have several reliable ways to test capacitance. This guide focuses on multimeters. LCR meters should come with a detailed instruction manual specific to your device. ESR meters (equivalent series resistance meters) can conduct tests on capacitors while they are in a circuit, but do not measure capacitance directly."
+        },
+        {
+          "headline":"Shut off the power to the circuit.",
+          "description":"Confirm that the power is off by setting your meter to test for voltage. Place the leads on opposite sides of the circuit's power source. If the power was successfully shut off, the voltage should read zero."
+        },
+        {
+          "headline":"Discharge the capacitor carefully.",
+          "description":"A capacitor can hold charge for several minutes after the power is disconnected, or even longer in rare cases. Connect a resistor across the capacitor terminals so the charge can drain safely. Make sure the resistor is up to the task:\nFor small capacitors, use (at least) a 2,000\u03a9 resistor rated for 5 watts. Large capacitors found in appliance power supplies, camera flash circuits, and large motors can hold a dangerous or lethal amount of charge. Experienced supervision is recommended. Use a 20,000\u03a9, 5 watt resistor attached via 12 gauge wire rated for 600 volts."
+        },
+        {
+          "headline":"Disconnect the capacitor.",
+          "description":"Testing while the capacitor is part of a circuit can give very inaccurate results, and potentially damage other components. Remove the capacitor carefully, desoldering the connection if necessary."
+        }
+      ]
+    },
+    {
+      "name":"Taking the Measurement",
+      "steps":[
+        {
+          "headline":"Set the multimeter to measure capacitance.",
+          "description":"Most digital multimeters use a symbol similar to \u2013|(\u2013 to signify capacitance. Move the dial to that symbol. If several symbols share that spot on the dial, you may need to press a button to cycle between them until the capacitance symbol appears on the screen. If your tool has several capacitor settings, choose the range that fits your best guess for the capacitor's correct value. (You can read the capacitor's label to get a rough idea). If there is only one capacitor setting, your multimeter can automatically detect the range."
+        },
+        {
+          "headline":"Activate REL mode if present.",
+          "description":"If your multimeter has a REL button, press it while the test leads are separated. This will zero out the capacitance of the test leads themselves, to avoid interfering with the measurement. This is only necessary if measuring small capacitors. On some models, this mode disables auto-ranging."
+        },
+        {
+          "headline":"Connect the leads to the capacitor's terminals.",
+          "description":"Note that electrolytic capacitors (most commonly shaped like cans) are polarized, so identify the positive and negative terminals before you connect the multimeter's leads. This may not matter much for your test, but you'll certainly need to know this before using the capacitor in a circuit. Look for any of the following:\nA + or - next to a terminal. If one pin is longer than the other, the long pin is the positive terminal. A colored stripe next to a terminal is an unreliable marker, since different types of capacitor use different standards."
+        },
+        {
+          "headline":"Wait for the result.",
+          "description":"The multimeter will send out a current to charge the capacitor, measure the voltage, then use the voltage to calculate the capacitance. This process can take several seconds, and the buttons and display screen may be slow to respond until it's finished. An \"OL\" or \"overload\" reading means the capacitance is too high for the multimeter to measure. Set the multimeter to a higher range if possible. This result can also mean the capacitor has shorted. An auto-ranging multimeter will test the lowest range first, then increase if it hits an overload. You may see \"OL\" appear on the screen multiple times before you see the final result."
+        }
+      ]
+    }
+  ],
+  "text":" Disconnecting the Power and Capacitator Choose a tool that will measure capacitance. Even cheap digital multimeters often have a capacitance setting \"\u2013|(\u2013.\" These are good enough for basic troubleshooting, but are not typically accurate enough to rely on precise measurements. They do give accurate results for most film capacitors, since these behave more like the ideal capacitors your multimeter's calculations assume. If accuracy and precision are important, consider an LCR meter. These tools can cost several thousand US dollars, but have several reliable ways to test capacitance. This guide focuses on multimeters. LCR meters should come with a detailed instruction manual specific to your device. ESR meters (equivalent series resistance meters) can conduct tests on capacitors while they are in a circuit, but do not measure capacitance directly. Shut off the power to the circuit. Confirm that the power is off by setting your meter to test for voltage. Place the leads on opposite sides of the circuit's power source. If the power was successfully shut off, the voltage should read zero. Discharge the capacitor carefully. A capacitor can hold charge for several minutes after the power is disconnected, or even longer in rare cases. Connect a resistor across the capacitor terminals so the charge can drain safely. Make sure the resistor is up to the task:\nFor small capacitors, use (at least) a 2,000\u03a9 resistor rated for 5 watts. Large capacitors found in appliance power supplies, camera flash circuits, and large motors can hold a dangerous or lethal amount of charge. Experienced supervision is recommended. Use a 20,000\u03a9, 5 watt resistor attached via 12 gauge wire rated for 600 volts. Disconnect the capacitor. Testing while the capacitor is part of a circuit can give very inaccurate results, and potentially damage other components. Remove the capacitor carefully, desoldering the connection if necessary. Taking the Measurement Set the multimeter to measure capacitance. Most digital multimeters use a symbol similar to \u2013|(\u2013 to signify capacitance. Move the dial to that symbol. If several symbols share that spot on the dial, you may need to press a button to cycle between them until the capacitance symbol appears on the screen. If your tool has several capacitor settings, choose the range that fits your best guess for the capacitor's correct value. (You can read the capacitor's label to get a rough idea). If there is only one capacitor setting, your multimeter can automatically detect the range. Activate REL mode if present. If your multimeter has a REL button, press it while the test leads are separated. This will zero out the capacitance of the test leads themselves, to avoid interfering with the measurement. This is only necessary if measuring small capacitors. On some models, this mode disables auto-ranging. Connect the leads to the capacitor's terminals. Note that electrolytic capacitors (most commonly shaped like cans) are polarized, so identify the positive and negative terminals before you connect the multimeter's leads. This may not matter much for your test, but you'll certainly need to know this before using the capacitor in a circuit. Look for any of the following:\nA + or - next to a terminal. If one pin is longer than the other, the long pin is the positive terminal. A colored stripe next to a terminal is an unreliable marker, since different types of capacitor use different standards. Wait for the result. The multimeter will send out a current to charge the capacitor, measure the voltage, then use the voltage to calculate the capacitance. This process can take several seconds, and the buttons and display screen may be slow to respond until it's finished. An \"OL\" or \"overload\" reading means the capacitance is too high for the multimeter to measure. Set the multimeter to a higher range if possible. This result can also mean the capacitor has shorted. An auto-ranging multimeter will test the lowest range first, then increase if it hits an overload. You may see \"OL\" appear on the screen multiple times before you see the final result.",
+  "tyn_model":[
+    "multimeter",
+    "capacitor",
+    "resistor",
+    "\u2013|(\u2013.",
+    "meter",
+    "12 gauge wire",
+    "multimeters",
+    "\u2013|",
+    "\u2013 to",
+    "electrolytic capacitors"
+  ],
+  "tyn_section":[
+
+  ]
+}

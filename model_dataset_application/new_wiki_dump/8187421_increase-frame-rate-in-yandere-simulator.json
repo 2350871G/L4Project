@@ -1,0 +1,55 @@
+{
+  "title":"How to Increase Frame Rate in Yandere Simulator",
+  "url":"https://www.wikihow.com/Increase-Frame-Rate-in-Yandere-Simulator",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "steps":[
+    {
+      "headline":"Enter your settings.",
+      "description":"First, open your phone (not camera phone) within the game by pressing Enter. Click the settings option, which will look similar to a gear piece."
+    },
+    {
+      "headline":"Change the particle count.",
+      "description":"The particle count is the first option, where you can select High, Low, or None. High is the worst frame rate, low is in the middle, and none is the quickest. Particle count does not refer to the features of the character; those are called polygons."
+    },
+    {
+      "headline":"Disable the outline.",
+      "description":"The outline is the second option. Simply turn it on or off. If they are on, it uses twice the polygons, meaning you get a worse frame rate."
+    },
+    {
+      "headline":"Change anti-aliasing.",
+      "description":"Anti-aliasing refers to the jaggies, or staircase effect, on pixels. The more those are decreased, the better the frame rate. This is the third option. Post-aliasing is the fourth option, basically the same as anti-aliasing. Turn it off for a better frame rate."
+    },
+    {
+      "headline":"Disable bloom.",
+      "description":"Bloom is the fifth option. It is basically the lighting of the game; if you disable it, it will not delete all light, so it's worth trying if you want to maximize your frame rate."
+    },
+    {
+      "headline":"Change low-detailed students.",
+      "description":"It is the sixth option. This makes the students' whole body (except the hair) change color based on their gender. The fewer the meters selected, the better frame rate. This removes most details students have, so the game has to load fewer polygons."
+    },
+    {
+      "headline":"Change draw distance.",
+      "description":"This is the seventh option. You can change the draw distance drastically, going as low as 10 meters. The maximum is 350 meters. The fewer the meters, the better the frame rate. Draw distance is basically how far you can see ahead of you. This might look quite ugly, so enable fog to make it look more appealing to the eye."
+    },
+    {
+      "headline":"Disable shadows.",
+      "description":"Shadows add extra polygons; similar to the outline, these involve double the polygons."
+    }
+  ],
+  "text":" Enter your settings. First, open your phone (not camera phone) within the game by pressing Enter. Click the settings option, which will look similar to a gear piece. Change the particle count. The particle count is the first option, where you can select High, Low, or None. High is the worst frame rate, low is in the middle, and none is the quickest. Particle count does not refer to the features of the character; those are called polygons. Disable the outline. The outline is the second option. Simply turn it on or off. If they are on, it uses twice the polygons, meaning you get a worse frame rate. Change anti-aliasing. Anti-aliasing refers to the jaggies, or staircase effect, on pixels. The more those are decreased, the better the frame rate. This is the third option. Post-aliasing is the fourth option, basically the same as anti-aliasing. Turn it off for a better frame rate. Disable bloom. Bloom is the fifth option. It is basically the lighting of the game; if you disable it, it will not delete all light, so it's worth trying if you want to maximize your frame rate. Change low-detailed students. It is the sixth option. This makes the students' whole body (except the hair) change color based on their gender. The fewer the meters selected, the better frame rate. This removes most details students have, so the game has to load fewer polygons. Change draw distance. This is the seventh option. You can change the draw distance drastically, going as low as 10 meters. The maximum is 350 meters. The fewer the meters, the better the frame rate. Draw distance is basically how far you can see ahead of you. This might look quite ugly, so enable fog to make it look more appealing to the eye. Disable shadows. Shadows add extra polygons; similar to the outline, these involve double the polygons.",
+  "tyn_model":[
+    "anti-aliasing",
+    "bloom",
+    "shadows",
+    "aliasing",
+    "fog"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title":"How to Get Better FPS on Unturned",
+  "url":"https://www.wikihow.com/Get-Better-FPS-on-Unturned",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC First Person Shooter"
+  ],
+  "methods":[
+    {
+      "name":"Changing Unturned's Settings",
+      "steps":[
+        {
+          "headline":"Access Unturned's settings.",
+          "description":"These can be accessed from the Menu -> Configuration, or if you are in-game, press Esc. These settings will help you control your game and its appearance."
+        },
+        {
+          "headline":"Select Options.",
+          "description":"From here, there is an abundance of settings, including Volume, Field of View, and whether zombies splatter blood upon dying. All the other options don't affect gameplay; they just change how certain things look. Enable Show FPS/Ping: This will allow you to see and measure your FPS (frames per second) and ping it in-game. You can determine which settings boost FPS for your personal computer here if this guide doesn't help. Play Music/Death Music: This doesn't affect the game at all, it just adds music when you load Unturned and when you die. It's fine to keep this on. Arena Timer Warning: This is a good one to keep on, since it helps you ingame and doesn't affect your gameplay at all. Show Blood Splatters: This one might give you a few more frames if you disable it, also if you don't want to see blood and want to keep the settings like this for younger kids, this is a good one to disable. Censor Text Profanity: This is another good setting to that is based on personal preference. If you don't like seeing swear words in chat, enable it. It doesn't affect system performance at all. Show Inbound Text Chat: This one allows you to see that messages other players are sending. It doesn't affect performance, keep it on\n\nEnable Inbound Voice Chat/Enable Outbound Voice Chat: This determines whether you can hear other player's voice chat and whether they can hear yours. Doesn't take any performance away, this one is personal preference. Show Hints: This is good for new players, and doesn't take away much performance\n\nPlay Day/Night Ambience: Makes sounds happen, doesn't affect gameplay much. Disabling this will get you a few more frames. Streamer Mode: This option was created because streamers were constantly being killed by their viewers, since the viewers could see exactly where they are on the map and what server they were playing. This option disables the server name and player names when you look at server information. Doesn't affect system performance. Featured Workshop: Enables Showing Workshop, doesn't really matter either way. Matchmaking show all maps: Does what it's called. Personal Preference. Matchmaking Min Players/Matchmaking Max Ping: These settings just help you find a server that won't be empty and you will have a good connection to. Field Of View: This shows how much of your surrounding area you can see. Lowering it will make you seem like you are leaning forward or squinting. This will increase performance a good amount if lowered, but it is not recommended to go below 80% or you will be snuck up on constantly. Volume: How loud the game sounds are. Inbound Voice Gain: How well you can hear yourself."
+        },
+        {
+          "headline":"Click Display.",
+          "description":"This is the resolution Unturned will display at, along with the options to have Unturned be in Fullscreen or have Vsync on. Turning on fullscreen will always make your game fullscreen, no matter the resolution. Otherwise, as you set the resolution smaller, you will get a smaller window. The lowest resolution Unturned can currently go is 640 x 480. Decreasing the resolution will vastly increase your performance, at the cost of windows such as your health bar and item info becoming bigger compared to your FOV. Pick whichever lowest option you feel comfortable with."
+        },
+        {
+          "headline":"Select Graphics.",
+          "description":"These are the options of how the environment around you looks in-game. The options Chromatic Aberration, Film Grain and Grass Displacement have very little impact on performance, It doesn't matter whether these are enabled or disabled. Ragdolls and Debris also have low impact, but the game looks weird once you disable these. It appears the zombie disappears as soon as you kill it, and chopping a bench will also make it disappear. Enabling these will leave you never saying \"What the...\" during games. Clouds don't do much except make your game look more realistic, disabling this will get you a lot more performance. All the other settings: Bloom, Terrain Transition, Height Fog, Scope Focus Foliage, Blast Marks, Rain Puddles, Snow Glitter, Tri-planer Mapping, and Skybox reflection all can be disabled. This will increase your game's performance a ton."
+        },
+        {
+          "headline":"The other graphics settings are more personal preference, but will still increase your FPS a lot.Here are the recommended settings for performance:",
+          "description":"Anti-Aliasing: Low Anisotropic Filtering: Disabled Effect Duration: Low Grass density: Off Sun Shafts Quality: Off Lighting Quality: Off Ambient Occlusion Quality: Off Screen Space Reflection Quality: Off Planar Reflection Quality: Low Water Quality: Low Scope Quality: Off Outline Quality: Low Animation Quality: Medium (there is no low for this setting) Terrain Quality: Low Wind Quality: Off Tree Quality: Old Trees Render Mode: Deferred"
+        }
+      ]
+    },
+    {
+      "name":"Giving Unturned More Resources",
+      "steps":[
+        {
+          "headline":"Access Task Manager.",
+          "description":"This is found in the Windows menu, under Windows System."
+        },
+        {
+          "headline":"Locate Unturned.exe.",
+          "description":"This should be your Unturned window running. Right click it and go to Details."
+        },
+        {
+          "headline":"Right click Unturned.exe and hover your mouse over \"Set Priority\".",
+          "description":"Change Unturned's priority to \"above normal\" or \"high\". This will allow system resources to go to Unturned first in front of other programs, such as a window browser or other games."
+        }
+      ]
+    }
+  ],
+  "text":" Changing Unturned's Settings Access Unturned's settings. These can be accessed from the Menu -> Configuration, or if you are in-game, press Esc. These settings will help you control your game and its appearance. Select Options. From here, there is an abundance of settings, including Volume, Field of View, and whether zombies splatter blood upon dying. All the other options don't affect gameplay; they just change how certain things look. Enable Show FPS/Ping: This will allow you to see and measure your FPS (frames per second) and ping it in-game. You can determine which settings boost FPS for your personal computer here if this guide doesn't help. Play Music/Death Music: This doesn't affect the game at all, it just adds music when you load Unturned and when you die. It's fine to keep this on. Arena Timer Warning: This is a good one to keep on, since it helps you ingame and doesn't affect your gameplay at all. Show Blood Splatters: This one might give you a few more frames if you disable it, also if you don't want to see blood and want to keep the settings like this for younger kids, this is a good one to disable. Censor Text Profanity: This is another good setting to that is based on personal preference. If you don't like seeing swear words in chat, enable it. It doesn't affect system performance at all. Show Inbound Text Chat: This one allows you to see that messages other players are sending. It doesn't affect performance, keep it on\n\nEnable Inbound Voice Chat/Enable Outbound Voice Chat: This determines whether you can hear other player's voice chat and whether they can hear yours. Doesn't take any performance away, this one is personal preference. Show Hints: This is good for new players, and doesn't take away much performance\n\nPlay Day/Night Ambience: Makes sounds happen, doesn't affect gameplay much. Disabling this will get you a few more frames. Streamer Mode: This option was created because streamers were constantly being killed by their viewers, since the viewers could see exactly where they are on the map and what server they were playing. This option disables the server name and player names when you look at server information. Doesn't affect system performance. Featured Workshop: Enables Showing Workshop, doesn't really matter either way. Matchmaking show all maps: Does what it's called. Personal Preference. Matchmaking Min Players/Matchmaking Max Ping: These settings just help you find a server that won't be empty and you will have a good connection to. Field Of View: This shows how much of your surrounding area you can see. Lowering it will make you seem like you are leaning forward or squinting. This will increase performance a good amount if lowered, but it is not recommended to go below 80% or you will be snuck up on constantly. Volume: How loud the game sounds are. Inbound Voice Gain: How well you can hear yourself. Click Display. This is the resolution Unturned will display at, along with the options to have Unturned be in Fullscreen or have Vsync on. Turning on fullscreen will always make your game fullscreen, no matter the resolution. Otherwise, as you set the resolution smaller, you will get a smaller window. The lowest resolution Unturned can currently go is 640 x 480. Decreasing the resolution will vastly increase your performance, at the cost of windows such as your health bar and item info becoming bigger compared to your FOV. Pick whichever lowest option you feel comfortable with. Select Graphics. These are the options of how the environment around you looks in-game. The options Chromatic Aberration, Film Grain and Grass Displacement have very little impact on performance, It doesn't matter whether these are enabled or disabled. Ragdolls and Debris also have low impact, but the game looks weird once you disable these. It appears the zombie disappears as soon as you kill it, and chopping a bench will also make it disappear. Enabling these will leave you never saying \"What the...\" during games. Clouds don't do much except make your game look more realistic, disabling this will get you a lot more performance. All the other settings: Bloom, Terrain Transition, Height Fog, Scope Focus Foliage, Blast Marks, Rain Puddles, Snow Glitter, Tri-planer Mapping, and Skybox reflection all can be disabled. This will increase your game's performance a ton. The other graphics settings are more personal preference, but will still increase your FPS a lot.Here are the recommended settings for performance: Anti-Aliasing: Low Anisotropic Filtering: Disabled Effect Duration: Low Grass density: Off Sun Shafts Quality: Off Lighting Quality: Off Ambient Occlusion Quality: Off Screen Space Reflection Quality: Off Planar Reflection Quality: Low Water Quality: Low Scope Quality: Off Outline Quality: Low Animation Quality: Medium (there is no low for this setting) Terrain Quality: Low Wind Quality: Off Tree Quality: Old Trees Render Mode: Deferred Giving Unturned More Resources Access Task Manager. This is found in the Windows menu, under Windows System. Locate Unturned.exe. This should be your Unturned window running. Right click it and go to Details. Right click Unturned.exe and hover your mouse over \"Set Priority\". Change Unturned's priority to \"above normal\" or \"high\". This will allow system resources to go to Unturned first in front of other programs, such as a window browser or other games.",
+  "tyn_model":[
+    "graphics",
+    "bench",
+    "clouds",
+    "window browser"
+  ],
+  "tyn_section":[
+
+  ]
+}

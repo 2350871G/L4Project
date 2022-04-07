@@ -1,0 +1,131 @@
+{
+  "title":"How to Download PC Games on Mac Computers",
+  "url":"https://www.wikihow.com/Download-PC-Games-on-Mac-Computers",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "parts":[
+    {
+      "name":"Preparing the Windows Partition",
+      "steps":[
+        {
+          "headline":"Verify that your Mac has an Intel processor.",
+          "description":"Most Macs released in 2006 and later have Intel chips; however, you can verify this information by looking for an Intel sticker or logo on your computer, or consulting with your computer manual."
+        },
+        {
+          "headline":"Verify that your computer has a built-in keyboard and mouse, or trackpad.",
+          "description":"A keyboard and mouse that are connected to your computer via the USB ports are also compatible."
+        },
+        {
+          "headline":"Ensure that your Mac is currently running an OS version of X 10.5 or later.",
+          "description":"If your Mac's OS is not current, you must upgrade your OS to the latest version. Go to your Apple menu, then select \"Software Update\" to check for any available software updates you can run to update your machine."
+        },
+        {
+          "headline":"Verify that your Mac has sufficient memory to install Windows.",
+          "description":"You will need 16 gigabytes (GB) of available memory to install 32-bit Windows 7, and 20 GB of memory to install the 64-bit version of Windows 7. Open \"Utilities\" on your Mac, then open the Activity Monitor to verify the amount of your Mac's available memory."
+        },
+        {
+          "headline":"Obtain an installation disc for the Windows OS you want installed on your Mac.",
+          "description":"Your Mac and the Boot Camp software will not provide you with a Windows installation disc. Buy a Microsoft Windows installation disc from Microsoft directly by visiting the \"Microsoft\" website listed in the Sources section of this article, or call Microsoft directly at 1-877-274-5045."
+        },
+        {
+          "headline":"Back up all important data on your Mac.",
+          "description":"When installing Windows on a partition of your Mac, that particular hard disk, or partition, will be re-formatted and all your data will be erased. Use a flash drive or external hard drive to back up important data on your Mac."
+        }
+      ]
+    },
+    {
+      "name":"Creating the Windows Partition",
+      "steps":[
+        {
+          "headline":"Open the Utilities folder on your Mac, then launch \"Boot Camp Assistant.\"",
+          "description":""
+        },
+        {
+          "headline":"Choose the option for adding a Windows partition, then select \"Continue.\"",
+          "description":""
+        },
+        {
+          "headline":"Answer the questions as indicated by the screen prompts.",
+          "description":"You may be asked to indicate additional preferences regarding your plan for installing Windows, such as whether you are using a flash drive or installation disc."
+        },
+        {
+          "headline":"Choose a size for your Windows partition.",
+          "description":"For example, if you want to allot 25 GB of your Mac's memory to the Windows OS, indicate \"25 GB\" at the prompt."
+        },
+        {
+          "headline":"Insert the Windows installation disc into the optical drive on your computer.",
+          "description":"If you are using a flash drive instead, insert the flash drive into an available USB slot."
+        },
+        {
+          "headline":"Click on \"Install\" to finish creating your Windows partition.",
+          "description":"When the installation process completes, your computer will reboot and open to the Windows Installer menu."
+        }
+      ]
+    },
+    {
+      "name":"Installing the Windows OS on your Mac",
+      "steps":[
+        {
+          "headline":"Follow the prompts provided by Windows Installer.",
+          "description":"In most cases, you will be asked to indicate personal preferences such as your language and Windows user name."
+        },
+        {
+          "headline":"Highlight the partition labeled \"BOOTCAMP\" when asked where you want Windows installed.",
+          "description":""
+        },
+        {
+          "headline":"Click on \"Drive options (advanced)\" on the bottom right.",
+          "description":""
+        },
+        {
+          "headline":"Select the option labeled \"Format,\" then select \"OK.\"",
+          "description":""
+        },
+        {
+          "headline":"Click the \"Next\" button in the bottom right corner of the window.",
+          "description":"Your Mac will proceed to install the Windows OS on your new Windows partition."
+        },
+        {
+          "headline":"Follow the onscreen prompts to complete the Windows installation and configuration process.",
+          "description":"Your Mac will then reboot, and restart in Windows."
+        }
+      ]
+    },
+    {
+      "name":"Downloading PC Games to your Mac",
+      "steps":[
+        {
+          "headline":"Log in to the Windows OS on your Mac.",
+          "description":"If your computer defaults to booting up in the Mac OS, hold down the \"Option\" key upon startup, then select \"Windows\" from the options provided."
+        },
+        {
+          "headline":"Use your Windows Internet browser to navigate to the website from which you want to download PC games.",
+          "description":""
+        },
+        {
+          "headline":"Download the PC games to your Mac.",
+          "description":"After the PC games have been downloaded, you can play them from your Mac while logged into the Windows OS."
+        }
+      ]
+    }
+  ],
+  "text":" Preparing the Windows Partition Verify that your Mac has an Intel processor. Most Macs released in 2006 and later have Intel chips; however, you can verify this information by looking for an Intel sticker or logo on your computer, or consulting with your computer manual. Verify that your computer has a built-in keyboard and mouse, or trackpad. A keyboard and mouse that are connected to your computer via the USB ports are also compatible. Ensure that your Mac is currently running an OS version of X 10.5 or later. If your Mac's OS is not current, you must upgrade your OS to the latest version. Go to your Apple menu, then select \"Software Update\" to check for any available software updates you can run to update your machine. Verify that your Mac has sufficient memory to install Windows. You will need 16 gigabytes (GB) of available memory to install 32-bit Windows 7, and 20 GB of memory to install the 64-bit version of Windows 7. Open \"Utilities\" on your Mac, then open the Activity Monitor to verify the amount of your Mac's available memory. Obtain an installation disc for the Windows OS you want installed on your Mac. Your Mac and the Boot Camp software will not provide you with a Windows installation disc. Buy a Microsoft Windows installation disc from Microsoft directly by visiting the \"Microsoft\" website listed in the Sources section of this article, or call Microsoft directly at 1-877-274-5045. Back up all important data on your Mac. When installing Windows on a partition of your Mac, that particular hard disk, or partition, will be re-formatted and all your data will be erased. Use a flash drive or external hard drive to back up important data on your Mac. Creating the Windows Partition Open the Utilities folder on your Mac, then launch \"Boot Camp Assistant.\"  Choose the option for adding a Windows partition, then select \"Continue.\"  Answer the questions as indicated by the screen prompts. You may be asked to indicate additional preferences regarding your plan for installing Windows, such as whether you are using a flash drive or installation disc. Choose a size for your Windows partition. For example, if you want to allot 25 GB of your Mac's memory to the Windows OS, indicate \"25 GB\" at the prompt. Insert the Windows installation disc into the optical drive on your computer. If you are using a flash drive instead, insert the flash drive into an available USB slot. Click on \"Install\" to finish creating your Windows partition. When the installation process completes, your computer will reboot and open to the Windows Installer menu. Installing the Windows OS on your Mac Follow the prompts provided by Windows Installer. In most cases, you will be asked to indicate personal preferences such as your language and Windows user name. Highlight the partition labeled \"BOOTCAMP\" when asked where you want Windows installed.  Click on \"Drive options (advanced)\" on the bottom right.  Select the option labeled \"Format,\" then select \"OK.\"  Click the \"Next\" button in the bottom right corner of the window. Your Mac will proceed to install the Windows OS on your new Windows partition. Follow the onscreen prompts to complete the Windows installation and configuration process. Your Mac will then reboot, and restart in Windows. Downloading PC Games to your Mac Log in to the Windows OS on your Mac. If your computer defaults to booting up in the Mac OS, hold down the \"Option\" key upon startup, then select \"Windows\" from the options provided. Use your Windows Internet browser to navigate to the website from which you want to download PC games.  Download the PC games to your Mac. After the PC games have been downloaded, you can play them from your Mac while logged into the Windows OS.",
+  "tyn_model":[
+    "mac",
+    "flash drive",
+    "computer manual",
+    "windows",
+    "boot camp",
+    "boot camp assistant",
+    "optical drive",
+    "windows installer menu",
+    "windows installer"
+  ],
+  "tyn_section":[
+
+  ]
+}

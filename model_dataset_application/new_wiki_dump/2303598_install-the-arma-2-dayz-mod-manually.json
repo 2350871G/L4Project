@@ -1,0 +1,61 @@
+{
+  "title":"How to Install the Arma 2 Dayz Mod Manually",
+  "url":"https://www.wikihow.com/Install-the-Arma-2-Dayz-Mod-Manually",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Simulation"
+  ],
+  "steps":[
+    {
+      "headline":"If you have not already done so, you will need to purchase ArmA 2 Combined Operations from the Steam Store.",
+      "description":""
+    },
+    {
+      "headline":"Run ArmA 2 and ArmA 2:Operation Arrowhead at least once from within Steam (you do not need to play the game just wait until the menu appears and then exit).",
+      "description":""
+    },
+    {
+      "headline":"Download the latest DayZ version.",
+      "description":""
+    },
+    {
+      "headline":"Download the latest ArmA 2 beta patch from http://www.arma2.com/beta-patch.php.",
+      "description":""
+    },
+    {
+      "headline":"Extract the contents of the DayZ zip folder to C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2 operation arrowhead\\@DayZ\\addons (or applicable path for your computer).",
+      "description":"If the folder already exists or contains files delete it first."
+    },
+    {
+      "headline":"Extract the beta zip folder and run the executable to install the beta.",
+      "description":""
+    },
+    {
+      "headline":"Download ArmA 2 Game Launcher from http://www.armaholic.com/page.php?id=8241.",
+      "description":"Use FTP Link #2 and NOT #1."
+    },
+    {
+      "headline":"Launch the ArmA 2 Game Launcher and enter the following configuration options:",
+      "description":"\"Launch Options\" Tab Check \"Run Beta\". Check \"No Splash Screen\". Change \"Default World\" to \"Chernarus\". Set Arma II Exe Location: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2\\arma2.exe\nSet Arma II - OA Executal Location: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2 operation arrowhead\\ArmA2OA.exe\nSet Arma II - OA Beta location: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2 operation arrowhead\\Expansion\\beta\\arma2oa.exe\nDO NOT set the \"Arma II Beta\" location. The \"Addons\" Tab\nExpand \"Addons / Mods\" and \"Group 1\" on the right. Drag \"@dayz\" from the left to under \"Group 1\". Check on all three boxes \"Addons / Mods\", \"Group 1\", and \"@DayZ\". In the bottom right set \"Game Version\" to \"Arma II - CO\"."
+    },
+    {
+      "headline":"Click \"Start Game\".",
+      "description":""
+    },
+    {
+      "headline":"Use the Launcher to launch the game from now on.",
+      "description":""
+    }
+  ],
+  "text":" If you have not already done so, you will need to purchase ArmA 2 Combined Operations from the Steam Store.  Run ArmA 2 and ArmA 2:Operation Arrowhead at least once from within Steam (you do not need to play the game just wait until the menu appears and then exit).  Download the latest DayZ version.  Download the latest ArmA 2 beta patch from http://www.arma2.com/beta-patch.php.  Extract the contents of the DayZ zip folder to C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2 operation arrowhead\\@DayZ\\addons (or applicable path for your computer). If the folder already exists or contains files delete it first. Extract the beta zip folder and run the executable to install the beta.  Download ArmA 2 Game Launcher from http://www.armaholic.com/page.php?id=8241. Use FTP Link #2 and NOT #1. Launch the ArmA 2 Game Launcher and enter the following configuration options: \"Launch Options\" Tab Check \"Run Beta\". Check \"No Splash Screen\". Change \"Default World\" to \"Chernarus\". Set Arma II Exe Location: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2\\arma2.exe\nSet Arma II - OA Executal Location: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2 operation arrowhead\\ArmA2OA.exe\nSet Arma II - OA Beta location: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\arma 2 operation arrowhead\\Expansion\\beta\\arma2oa.exe\nDO NOT set the \"Arma II Beta\" location. The \"Addons\" Tab\nExpand \"Addons / Mods\" and \"Group 1\" on the right. Drag \"@dayz\" from the left to under \"Group 1\". Check on all three boxes \"Addons / Mods\", \"Group 1\", and \"@DayZ\". In the bottom right set \"Game Version\" to \"Arma II - CO\". Click \"Start Game\".  Use the Launcher to launch the game from now on. ",
+  "tyn_model":[
+    "game launcher",
+    "launcher"
+  ],
+  "tyn_section":[
+
+  ]
+}

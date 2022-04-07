@@ -1,0 +1,85 @@
+{
+  "title":"How to Align and Stack Multiple Moon Pictures with Ninox and Registax",
+  "url":"https://www.wikihow.com/Align-and-Stack-Multiple-Moon-Pictures-with-Ninox-and-Registax",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "methods":[
+    {
+      "name":"Use Ninox for preliminary images cropping",
+      "steps":[
+        {
+          "headline":"Create the working directories to store the intermediate image files",
+          "description":"Create the root working directory ('C:\\lune' for example) Create the source folder ('C:\\lune\\photos_brutes' for example) and copy all your raw images in the bitmap file format (.bmp). Create the destination folder ('C:\\lune\\photos_recadrees' for example) that will be used to store the images processed by Ninox."
+        },
+        {
+          "headline":"\"Install Ninox by Antony Wesley\"",
+          "description":"Download Ninox , http://www.acquerra.com.au/astro/software/ninox/  Extract Ninox : (in the folder 'C:\\lune' for example) by right-clicking the .zip archive previously downloaded."
+        },
+        {
+          "headline":"Crop your images with Ninox",
+          "description":"Open the Command line prompt window through 'Start -> All Programs -> Accessories -> Command Prompt' Change the current directory by typing 'cd C:\\lune\\photos_brutes' and validate with the 'Enter' key Start Ninox by typing : 'C:\\lune\\ninox-2.82\\ninox.exe -width=900 -height=1000 -cutx=900 -cuty=800 -qestimator -qrenumber -outdir=C:\\lune\\photos_recadrees' and validate with the 'Enter' key. You can adjust the cropping settings width, height, cutx et cuty to fit your images size and resolution. More details on Ninox's website (see this tutorial's 'Sources and References' section)."
+        },
+        {
+          "headline":"Select the best images: in the folder 'C:\\lune\\photos_recadrees', delete the pictures most affected by motion blur, atmospheric perturbations, ...",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Use Registax to align and stack the pre-processed images",
+      "steps":[
+        {
+          "headline":"Download and install Registax 6 from the following page: http://www.astronomie.be/registax/download.html.",
+          "description":""
+        },
+        {
+          "headline":"Open Registax (you can use the shortcut created on your desktop during the installation process)",
+          "description":""
+        },
+        {
+          "headline":"Import the selected cropped images (in 'C:\\lune\\photos_recadrees'), either by drag and drop into Registrar's window or by using the 'Select' menu.",
+          "description":""
+        },
+        {
+          "headline":"Create the Alignpoints by clicking the 'Set Alignpoints' button.",
+          "description":"Depending on your image resolution, Registax will automatically create alignpoints (red circles on the current image preview) that will later be used to register each frame with the rest of the images set."
+        },
+        {
+          "headline":"Click on the 'Align' button in order to start the alignment process.",
+          "description":""
+        },
+        {
+          "headline":"Click on 'Limit' in order to set the quality threshold for the image stacking process.",
+          "description":"You can see, in the 'Limit Setup' frame, that  the 'Lowest Quality (%)' parameter is automatically updated by Registax."
+        },
+        {
+          "headline":"Click on 'Stack' to perform the stacking task with the default parameters.",
+          "description":""
+        },
+        {
+          "headline":"Use Registax's wavelet filter by clicking the Wavelet tab.",
+          "description":"Move the horizontal scroll bar for each layer in order to get the picture you like most. For the moon, my filter settings were the following:\nLayer 1: 15,0\nLayer 2: 12,0\nLayer 3: 7,0\nLayer 4: 6,0\nLayer 5: 5,0\nLayer 6: 2,0"
+        },
+        {
+          "headline":"Then, click 'Do All' in order to make the Wavelet filter apply on the whole image (the preview just applies to the image center).",
+          "description":"You'll find more information on the wavelet filter in Registax here: http://www.astronomie.be/registax/previewv6-3.html"
+        },
+        {
+          "headline":"Don't forget to save the final image by clicking 'Save Image' once you are happy with the result.",
+          "description":"Click on this section's figure to compare an original single image and the final image registered and wavelet filtered with Registax 6. Pretty nice improvement, isn't it ?"
+        }
+      ]
+    }
+  ],
+  "text":" Use Ninox for preliminary images cropping Create the working directories to store the intermediate image files Create the root working directory ('C:\\lune' for example) Create the source folder ('C:\\lune\\photos_brutes' for example) and copy all your raw images in the bitmap file format (.bmp). Create the destination folder ('C:\\lune\\photos_recadrees' for example) that will be used to store the images processed by Ninox. \"Install Ninox by Antony Wesley\" Download Ninox , http://www.acquerra.com.au/astro/software/ninox/  Extract Ninox : (in the folder 'C:\\lune' for example) by right-clicking the .zip archive previously downloaded. Crop your images with Ninox Open the Command line prompt window through 'Start -> All Programs -> Accessories -> Command Prompt' Change the current directory by typing 'cd C:\\lune\\photos_brutes' and validate with the 'Enter' key Start Ninox by typing : 'C:\\lune\\ninox-2.82\\ninox.exe -width=900 -height=1000 -cutx=900 -cuty=800 -qestimator -qrenumber -outdir=C:\\lune\\photos_recadrees' and validate with the 'Enter' key. You can adjust the cropping settings width, height, cutx et cuty to fit your images size and resolution. More details on Ninox's website (see this tutorial's 'Sources and References' section). Select the best images: in the folder 'C:\\lune\\photos_recadrees', delete the pictures most affected by motion blur, atmospheric perturbations, ...  Use Registax to align and stack the pre-processed images Download and install Registax 6 from the following page: http://www.astronomie.be/registax/download.html.  Open Registax (you can use the shortcut created on your desktop during the installation process)  Import the selected cropped images (in 'C:\\lune\\photos_recadrees'), either by drag and drop into Registrar's window or by using the 'Select' menu.  Create the Alignpoints by clicking the 'Set Alignpoints' button. Depending on your image resolution, Registax will automatically create alignpoints (red circles on the current image preview) that will later be used to register each frame with the rest of the images set. Click on the 'Align' button in order to start the alignment process.  Click on 'Limit' in order to set the quality threshold for the image stacking process. You can see, in the 'Limit Setup' frame, that  the 'Lowest Quality (%)' parameter is automatically updated by Registax. Click on 'Stack' to perform the stacking task with the default parameters.  Use Registax's wavelet filter by clicking the Wavelet tab. Move the horizontal scroll bar for each layer in order to get the picture you like most. For the moon, my filter settings were the following:\nLayer 1: 15,0\nLayer 2: 12,0\nLayer 3: 7,0\nLayer 4: 6,0\nLayer 5: 5,0\nLayer 6: 2,0 Then, click 'Do All' in order to make the Wavelet filter apply on the whole image (the preview just applies to the image center). You'll find more information on the wavelet filter in Registax here: http://www.astronomie.be/registax/previewv6-3.html Don't forget to save the final image by clicking 'Save Image' once you are happy with the result. Click on this section's figure to compare an original single image and the final image registered and wavelet filtered with Registax 6. Pretty nice improvement, isn't it ?",
+  "tyn_model":[
+    "registax",
+    "ninox",
+    "wavelet filter",
+    "registax's"
+  ],
+  "tyn_section":[
+
+  ]
+}

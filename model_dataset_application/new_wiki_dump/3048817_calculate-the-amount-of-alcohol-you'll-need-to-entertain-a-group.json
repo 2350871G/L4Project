@@ -1,0 +1,66 @@
+{
+  "title":"How to Calculate the Amount of Alcohol You'll Need to Entertain a Group",
+  "url":"https://www.wikihow.com/Calculate-the-Amount-of-Alcohol-You%27ll-Need-to-Entertain-a-Group",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Parties",
+    "Party Planning"
+  ],
+  "methods":[
+    {
+      "name":"Calculate the cost of ethanol in dollars per fluid ounce",
+      "steps":[
+        {
+          "headline":"If given Proof, Cost, Total Volume, calculate d using the following formula: a((b/2)/100)/c = d",
+          "description":"Where a = total volume of beverage in fl oz, b = proof of beverage, c = cost of beverage, d = amount of ethanol in ounces you get per dollar spent"
+        },
+        {
+          "headline":"If given Percentage, Cost, Total Volume, calculate d using the following formula: a((e)/100)/c = d",
+          "description":"Where a = total volume of beverage in fl oz, e = alcohol percentage of beverage, c = cost of beverage, d = amount of ethanol in ounces you get per dollar spent"
+        }
+      ]
+    },
+    {
+      "name":"Calculate quantity of ethanol required",
+      "steps":[
+        {
+          "headline":"Note that these assume that the time you start ingesting and the time you finish ingesting is between 3 and 6 hours.",
+          "description":""
+        },
+        {
+          "headline":"If you want to get buzzed, calculate g using the following formula: 0.025*f = g",
+          "description":"Where f = total weight in pounds of people involved, g = total amount of ethanol required"
+        },
+        {
+          "headline":"If you want to get drunk, calculate g using the following formula: 0.035*f = g",
+          "description":"Where f = total weight in pounds of people involved, g = total amount of ethanol required"
+        },
+        {
+          "headline":"If you want to get hammered, calculate g using the following formula: 0.045*f = g",
+          "description":"Where f = total weight in pounds of people involved, g = total amount of ethanol required"
+        }
+      ]
+    },
+    {
+      "name":"Example 1",
+      "steps":[
+        {
+          "headline":"Calculate the total quantity of ethanol you're going to need.",
+          "description":"0.035*975 = 34.125 oz\nThis means you're going to need 34.125 oz of ethanol."
+        },
+        {
+          "headline":"Divide this by the amount money you have to spend.",
+          "description":"34.125/35 = 0.975 oz/$\nThis means you have to find a beverage that provides 0.975 ounces of ethanol per dollar."
+        }
+      ]
+    }
+  ],
+  "text":" Calculate the cost of ethanol in dollars per fluid ounce If given Proof, Cost, Total Volume, calculate d using the following formula: a((b/2)/100)/c = d Where a = total volume of beverage in fl oz, b = proof of beverage, c = cost of beverage, d = amount of ethanol in ounces you get per dollar spent If given Percentage, Cost, Total Volume, calculate d using the following formula: a((e)/100)/c = d Where a = total volume of beverage in fl oz, e = alcohol percentage of beverage, c = cost of beverage, d = amount of ethanol in ounces you get per dollar spent Calculate quantity of ethanol required Note that these assume that the time you start ingesting and the time you finish ingesting is between 3 and 6 hours.  If you want to get buzzed, calculate g using the following formula: 0.025*f = g Where f = total weight in pounds of people involved, g = total amount of ethanol required If you want to get drunk, calculate g using the following formula: 0.035*f = g Where f = total weight in pounds of people involved, g = total amount of ethanol required If you want to get hammered, calculate g using the following formula: 0.045*f = g Where f = total weight in pounds of people involved, g = total amount of ethanol required Example 1 Calculate the total quantity of ethanol you're going to need. 0.035*975 = 34.125 oz\nThis means you're going to need 34.125 oz of ethanol. Divide this by the amount money you have to spend. 34.125/35 = 0.975 oz/$\nThis means you have to find a beverage that provides 0.975 ounces of ethanol per dollar.",
+  "tyn_model":[
+    "ethanol",
+    "beverage"
+  ],
+  "tyn_section":[
+
+  ]
+}

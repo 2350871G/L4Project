@@ -1,0 +1,93 @@
+{
+  "title":"How to Read a Binary Clock",
+  "url":"https://www.wikihow.com/Read-a-Binary-Clock",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Decorating",
+    "Home Decor"
+  ],
+  "methods":[
+    {
+      "name":"Using Binary Coded Decimal Mode",
+      "steps":[
+        {
+          "headline":"Familiarize yourself with the functions of a binary clock.",
+          "description":"Of the 6 columns on a binary clock, the 2 left-hand columns show the hours, the middle 2 columns show the minutes, and the 2 right-hand columns show the seconds. Of the 4 rows on a binary clock, the bottom row on a binary clock represents the number 1, the next row represents the number 2, the following row represents the number 4, and the top row represents the number 8. Remember that columns are vertical and rows are horizontal. You can number the columns 1-6, from left to right, to help you keep track of which is which. Of each set of columns, the one on the left represents the 10s place while the one on the right represents the 1s place. The numbers for each row are derived from the power of 2. The first row represents 2 (1), the second represents 2 (2), the third is 2 (4), and the top row represents 2 (8)."
+        },
+        {
+          "headline":"Read the hour by decoding the first 2 columns.",
+          "description":"Match the lights that are on with the number represented by that row, then put the numbers from the 2 columns together. For instance, if the light in the bottom row of the first column is lit and the second column is blank, the hour would be 10 because the first row represents 1 and no lights represent 0."
+        },
+        {
+          "headline":"Find the minutes using the same process for the middle 2 columns.",
+          "description":"Match the lights that are on with the numbers for each row. For instance, if the bottom 2 lights in the first column (the tens place) are lit and the bottom 3 lights in the second column (the ones place) are lit, the minutes correspond to 37."
+        },
+        {
+          "headline":"Decode the seconds in the last 2 columns with the same strategy.",
+          "description":"This can sometimes be tricky on an active clock because the seconds are ever changing. For instance, if the third light in the first column (the tens column) and the fourth and first light in the second column (the ones column) are lit, the clock is displaying 49 seconds."
+        },
+        {
+          "headline":"Combine the numbers to read the time.",
+          "description":"Put colons between the hours, minutes, and seconds. For instance, using the previous examples, the time would be 10:37:49."
+        },
+        {
+          "headline":"Convert the time from military to traditional.",
+          "description":"A binary clock provides military, or 24-hour, time. If the hour number is higher than 12, subtract 12 from it to find the time after noon. For instance, you may get a result that reads 18:30:07. Subtract 12 from 18 to find the hours in traditional time. The time would be 6:30:07 p.m."
+        }
+      ]
+    },
+    {
+      "name":"Reading a Watch in True Binary Mode",
+      "steps":[
+        {
+          "headline":"Find the hour on the top row and the minutes on the bottom row.",
+          "description":"There are 4 lights on the top row, which display the hour. There are 6 lights on the bottom row, which display the minutes. Most binary watches do not indicate the time in seconds."
+        },
+        {
+          "headline":"Memorize which number each light corresponds to.",
+          "description":"The lights on the top row, from left to right, correspond to 8, 4, 2, and 1. The lights on the bottom row, from left to right, correspond to 32, 16, 8, 4, 2, and 1. These numbers are derived from the power of 2. The top row, from left to right, represents 2 (8), 2 (4), 2 (2), and 2 (1). The bottom row, from left to right, represents 2 (32), 2 (16), 2 (8), 2 (4), 2 (2), and 2 (1)."
+        },
+        {
+          "headline":"Add the lit numbers together in each row to find the hours and minutes.",
+          "description":"If there is more than 1 light on in a row, add the corresponding numbers together to find the time. For instance, if the 2 left-most lights are on in the top row, you would add 8+4, which equals 12. If the 3 right-most lights are on in the bottom row, you would add 4+2+1, which equals 7. That means the time is 12:07."
+        },
+        {
+          "headline":"Convert the time to traditional from the 24-hour format.",
+          "description":"A binary watch provides time in military, or 24-hour, format. If the numbers for the hours add up to more than 12, you can easily convert the time from military to traditional. Simply subtract 12 from the hours. For example, if the time reads 20:15, subtract 12 from 20. The time would be 8:15 p.m."
+        }
+      ]
+    },
+    {
+      "name":"Becoming a Pro",
+      "steps":[
+        {
+          "headline":"Memorize the values of each light.",
+          "description":"Spend some time studying which row represents which number to help you read the time quickly and easily. There\u2019s no need to dwell on the math! All you need to do is remember what value each light represents. As a reminder:\nThe first two columns of lights represent the hours. The second two columns of lights represent the minutes. The final two columns of lights represent the seconds. In each pair, the first column represents the tens place, and the second column represents the ones place. The first row has a value of 1, the second row has a value of 2, the third row has a value of 4, and the top row has a value of 8."
+        },
+        {
+          "headline":"Count along with the seconds for real-time practice.",
+          "description":"To improve your ability to memorize the combinations of lights, you can watch the seconds column and count along with it. This gets you familiar with the light combinations, and will make reading the time a breeze!"
+        },
+        {
+          "headline":"Keep practicing.",
+          "description":"Practice makes perfect! Binary clocks can be difficult to read so just practice, practice, practice! Avoid using an analog or digital clock while you\u2019re learning to use a binary clock. Practice reading the time in binary mode, instead!"
+        }
+      ]
+    }
+  ],
+  "text":" Using Binary Coded Decimal Mode Familiarize yourself with the functions of a binary clock. Of the 6 columns on a binary clock, the 2 left-hand columns show the hours, the middle 2 columns show the minutes, and the 2 right-hand columns show the seconds. Of the 4 rows on a binary clock, the bottom row on a binary clock represents the number 1, the next row represents the number 2, the following row represents the number 4, and the top row represents the number 8. Remember that columns are vertical and rows are horizontal. You can number the columns 1-6, from left to right, to help you keep track of which is which. Of each set of columns, the one on the left represents the 10s place while the one on the right represents the 1s place. The numbers for each row are derived from the power of 2. The first row represents 2 (1), the second represents 2 (2), the third is 2 (4), and the top row represents 2 (8). Read the hour by decoding the first 2 columns. Match the lights that are on with the number represented by that row, then put the numbers from the 2 columns together. For instance, if the light in the bottom row of the first column is lit and the second column is blank, the hour would be 10 because the first row represents 1 and no lights represent 0. Find the minutes using the same process for the middle 2 columns. Match the lights that are on with the numbers for each row. For instance, if the bottom 2 lights in the first column (the tens place) are lit and the bottom 3 lights in the second column (the ones place) are lit, the minutes correspond to 37. Decode the seconds in the last 2 columns with the same strategy. This can sometimes be tricky on an active clock because the seconds are ever changing. For instance, if the third light in the first column (the tens column) and the fourth and first light in the second column (the ones column) are lit, the clock is displaying 49 seconds. Combine the numbers to read the time. Put colons between the hours, minutes, and seconds. For instance, using the previous examples, the time would be 10:37:49. Convert the time from military to traditional. A binary clock provides military, or 24-hour, time. If the hour number is higher than 12, subtract 12 from it to find the time after noon. For instance, you may get a result that reads 18:30:07. Subtract 12 from 18 to find the hours in traditional time. The time would be 6:30:07 p.m. Reading a Watch in True Binary Mode Find the hour on the top row and the minutes on the bottom row. There are 4 lights on the top row, which display the hour. There are 6 lights on the bottom row, which display the minutes. Most binary watches do not indicate the time in seconds. Memorize which number each light corresponds to. The lights on the top row, from left to right, correspond to 8, 4, 2, and 1. The lights on the bottom row, from left to right, correspond to 32, 16, 8, 4, 2, and 1. These numbers are derived from the power of 2. The top row, from left to right, represents 2 (8), 2 (4), 2 (2), and 2 (1). The bottom row, from left to right, represents 2 (32), 2 (16), 2 (8), 2 (4), 2 (2), and 2 (1). Add the lit numbers together in each row to find the hours and minutes. If there is more than 1 light on in a row, add the corresponding numbers together to find the time. For instance, if the 2 left-most lights are on in the top row, you would add 8+4, which equals 12. If the 3 right-most lights are on in the bottom row, you would add 4+2+1, which equals 7. That means the time is 12:07. Convert the time to traditional from the 24-hour format. A binary watch provides time in military, or 24-hour, format. If the numbers for the hours add up to more than 12, you can easily convert the time from military to traditional. Simply subtract 12 from the hours. For example, if the time reads 20:15, subtract 12 from 20. The time would be 8:15 p.m. Becoming a Pro Memorize the values of each light. Spend some time studying which row represents which number to help you read the time quickly and easily. There\u2019s no need to dwell on the math! All you need to do is remember what value each light represents. As a reminder:\nThe first two columns of lights represent the hours. The second two columns of lights represent the minutes. The final two columns of lights represent the seconds. In each pair, the first column represents the tens place, and the second column represents the ones place. The first row has a value of 1, the second row has a value of 2, the third row has a value of 4, and the top row has a value of 8. Count along with the seconds for real-time practice. To improve your ability to memorize the combinations of lights, you can watch the seconds column and count along with it. This gets you familiar with the light combinations, and will make reading the time a breeze! Keep practicing. Practice makes perfect! Binary clocks can be difficult to read so just practice, practice, practice! Avoid using an analog or digital clock while you\u2019re learning to use a binary clock. Practice reading the time in binary mode, instead!",
+  "tyn_model":[
+    "clock",
+    "watch",
+    "binary clock",
+    "lights",
+    "colons",
+    "watches",
+    "2",
+    "24-hour format",
+    "clocks"
+  ],
+  "tyn_section":[
+
+  ]
+}

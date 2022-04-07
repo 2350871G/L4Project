@@ -1,0 +1,80 @@
+{
+  "title":"How to Import and Export Vector Images in Scratch 2.0",
+  "url":"https://www.wikihow.com/Import-and-Export-Vector-Images-in-Scratch-2.0",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Styles",
+    "Digital Drawing"
+  ],
+  "parts":[
+    {
+      "name":"Importing Vector Graphics",
+      "steps":[
+        {
+          "headline":"Log into Scratch or create an account.",
+          "description":"Scratch is located at scratch.mit.edu. You'll want to either log in or create an account. The buttons to do so will be located at the upper right quadrant of your screen, unless you are using a phone to access Scratch in which case you'll probably want to get a computer out."
+        },
+        {
+          "headline":"Create a project with the button in the upper left quadrant.",
+          "description":"If you already have a project that you want to import into, then click the folder icon in the upper right and choose 'see inside' on the project you want."
+        },
+        {
+          "headline":"Add a sprite with the paintbrush icon in the bottom of the upper left quadrant or click the costumes button in the upper right quadrant after selecting a sprite in the upper part of the lower left quadrant.",
+          "description":""
+        },
+        {
+          "headline":"If the sprite you have selected says 'bitmap mode', click the 'convert to vector' button.",
+          "description":""
+        },
+        {
+          "headline":"Now, it's time to find the vector graphic you want.",
+          "description":"There are a few to be found on Google Images but they all appear as .png files- if the text readout beneath the image on Google or Bing images says .svg in it or perhaps '.sv...', try going to the file page and saving it as an svg."
+        },
+        {
+          "headline":"Choose the folder icon by the editor, not the one in the lower left quadrant.",
+          "description":""
+        },
+        {
+          "headline":"Find your .svg file on your computer and choose it and then choose 'open'.",
+          "description":""
+        },
+        {
+          "headline":"The sprite should be imported and appear in the Scratch Editor.",
+          "description":"However, due to Scratch using an irregular svg format, some differences may occur in the file, for instance, some text may be missing, or a color may be a slightly different shade (for instance, dark green to slightly darker green)."
+        }
+      ]
+    },
+    {
+      "name":"Exporting Vector Graphics",
+      "steps":[
+        {
+          "headline":"Follow Part 1 but stop before Step 5.",
+          "description":""
+        },
+        {
+          "headline":"Draw your vector graphic file.",
+          "description":""
+        },
+        {
+          "headline":"Right-click the sprite preview icon.",
+          "description":"Then choose 'save sprite as...'"
+        },
+        {
+          "headline":"Save the file as your chosen file name.svg",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Importing Vector Graphics Log into Scratch or create an account. Scratch is located at scratch.mit.edu. You'll want to either log in or create an account. The buttons to do so will be located at the upper right quadrant of your screen, unless you are using a phone to access Scratch in which case you'll probably want to get a computer out. Create a project with the button in the upper left quadrant. If you already have a project that you want to import into, then click the folder icon in the upper right and choose 'see inside' on the project you want. Add a sprite with the paintbrush icon in the bottom of the upper left quadrant or click the costumes button in the upper right quadrant after selecting a sprite in the upper part of the lower left quadrant.  If the sprite you have selected says 'bitmap mode', click the 'convert to vector' button.  Now, it's time to find the vector graphic you want. There are a few to be found on Google Images but they all appear as .png files- if the text readout beneath the image on Google or Bing images says .svg in it or perhaps '.sv...', try going to the file page and saving it as an svg. Choose the folder icon by the editor, not the one in the lower left quadrant.  Find your .svg file on your computer and choose it and then choose 'open'.  The sprite should be imported and appear in the Scratch Editor. However, due to Scratch using an irregular svg format, some differences may occur in the file, for instance, some text may be missing, or a color may be a slightly different shade (for instance, dark green to slightly darker green). Exporting Vector Graphics Follow Part 1 but stop before Step 5.  Draw your vector graphic file.  Right-click the sprite preview icon. Then choose 'save sprite as...' Save the file as your chosen file name.svg ",
+  "tyn_model":[
+    "scratch",
+    "computer",
+    "scratch editor",
+    "vector graphic"
+  ],
+  "tyn_section":[
+
+  ]
+}

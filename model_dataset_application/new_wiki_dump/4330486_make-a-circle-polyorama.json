@@ -1,0 +1,54 @@
+{
+  "title":"How to Make a Circle Polyorama",
+  "url":"https://www.wikihow.com/Make-a-Circle-Polyorama",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Genres",
+    "Outdoor Photography"
+  ],
+  "steps":[
+    {
+      "headline":"Shoot a 360 degree panorama shot with the camera on the tripod.",
+      "description":"Adjust your settings how you want and shoot as you turn the camera in a circle. Make sure to have enough images that cover everything from where you start until you pass the starting point again."
+    },
+    {
+      "headline":"Open Photoshop.",
+      "description":"Click \"Photomerge\". File -> Automate -> Photomerge"
+    },
+    {
+      "headline":"Click \"Browse\" and select all the images you are going to use.",
+      "description":"Check the following 3 things:\nUnder Layout \"Auto\"\nUnder Source Files \"Blend Images Together\"\n\"Geometric Distortion Correction.\""
+    },
+    {
+      "headline":"Click \"Okay.\"",
+      "description":"The more pictures you use and the slower your computer is the longer it will take for the images to process. When it finally loads it will look like  a long rectangle. Notice that the edges aren't perfect. To fix that first go to the bottom right edge where your \"Layers\" are. Merge all to one layer. Then click the rectangle selection tool. It's the rectangle next to the mouse's cursor. This is the tricky part as you'll have to make sure your images starts where it ends. When you selected the area you want, copy it and create a new file from clipboard. Paste it here."
+    },
+    {
+      "headline":"Go to Image -> Image Size.",
+      "description":"Make sure Constrain proportions is checked off and make the width the same number as the height. This will create a square. Your image will look terrible but we are almost finished!"
+    },
+    {
+      "headline":"Go to Image -> Image Rotation -> Flip Canvas Vertically.",
+      "description":""
+    },
+    {
+      "headline":"Go to Filter -> Distort -> Polar Coordinates.",
+      "description":""
+    },
+    {
+      "headline":"You are done.",
+      "description":"It's best if your image has sky along the top portion of the image so that when it is compressed into a circle it looks like a little planet."
+    }
+  ],
+  "text":" Shoot a 360 degree panorama shot with the camera on the tripod. Adjust your settings how you want and shoot as you turn the camera in a circle. Make sure to have enough images that cover everything from where you start until you pass the starting point again. Open Photoshop. Click \"Photomerge\". File -> Automate -> Photomerge Click \"Browse\" and select all the images you are going to use. Check the following 3 things:\nUnder Layout \"Auto\"\nUnder Source Files \"Blend Images Together\"\n\"Geometric Distortion Correction.\" Click \"Okay.\" The more pictures you use and the slower your computer is the longer it will take for the images to process. When it finally loads it will look like  a long rectangle. Notice that the edges aren't perfect. To fix that first go to the bottom right edge where your \"Layers\" are. Merge all to one layer. Then click the rectangle selection tool. It's the rectangle next to the mouse's cursor. This is the tricky part as you'll have to make sure your images starts where it ends. When you selected the area you want, copy it and create a new file from clipboard. Paste it here. Go to Image -> Image Size. Make sure Constrain proportions is checked off and make the width the same number as the height. This will create a square. Your image will look terrible but we are almost finished! Go to Image -> Image Rotation -> Flip Canvas Vertically.  Go to Filter -> Distort -> Polar Coordinates.  You are done. It's best if your image has sky along the top portion of the image so that when it is compressed into a circle it looks like a little planet.",
+  "tyn_model":[
+    "camera",
+    "photoshop",
+    "computer",
+    "sky"
+  ],
+  "tyn_section":[
+
+  ]
+}

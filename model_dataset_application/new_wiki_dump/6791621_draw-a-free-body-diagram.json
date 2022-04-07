@@ -1,0 +1,69 @@
+{
+  "title":"How to Draw a Free Body Diagram",
+  "url":"https://www.wikihow.com/Draw-a-Free-Body-Diagram",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Geography and Nature"
+  ],
+  "parts":[
+    {
+      "name":"Creating a Basic FBD",
+      "steps":[
+        {
+          "headline":"Identify the body/object you want to make an FBD of.",
+          "description":"Example: A man is pushing a 10kg box on a rough floor, with a coefficient of friction of \u00b5 = 0.6, by applying a 20N force. You will select our body to be the box."
+        },
+        {
+          "headline":"Draw a simple representation of the body.",
+          "description":"Example: Make a square to represent the box."
+        },
+        {
+          "headline":"Think of which forces are acting on the body.",
+          "description":"Example: These are (1) the weight of the object, (2) the pushing force of the man, (3) the normal force applied by the floor, and (4) the friction force due to the rough floor."
+        },
+        {
+          "headline":"Draw the forces one by one using arrows pointing to the direction of the force.",
+          "description":"Always start with the weight because all objects have weight. Example: (1) For the weight, draw an arrow pointing downward because the weight is the pulling force of the earth's gravity, which is always downward."
+        },
+        {
+          "headline":"Draw the remaining forces.",
+          "description":"Example: (2) Draw an arrow that follows the direction of the pushing force. (3) Draw an arrow pointing upward for the normal force because it should always be perpendicular to the floor. (4) Draw an arrow that is opposite the direction of motion of the box for the friction."
+        },
+        {
+          "headline":"Label your forces properly and your basic FBD is done!",
+          "description":"However, if you wish to put the magnitude of the forces, you may continue to the following steps."
+        }
+      ]
+    },
+    {
+      "name":"Adding the Magnitude of the Forces",
+      "steps":[
+        {
+          "headline":"Add information about the weight.",
+          "description":"The weight of the object is equal to mass of object*acceleration due to gravity. Example: W = m*a. W = (10kg)*(9.81m/s^2) = 98.1N. Write this beside its respective arrow. Note: Forces are measured in Newtons or N."
+        },
+        {
+          "headline":"Add the push forces.",
+          "description":"The magnitude of the pushing force applied by the man is given as 20N. Write this beside its respective arrow."
+        },
+        {
+          "headline":"Add the normal force.",
+          "description":"The normal force is equal to the magnitude of the weight that acts perpendicularly to the floor. In this case, all of the weight is acting perpendicularly to the floor, therefore, N and W are equal in magnitude. So, N = 98.1N. Write this beside its respective arrow."
+        },
+        {
+          "headline":"Add the friction force.",
+          "description":"The friction force is given by the formula: f=\u00b5*N. Therefore, f = 0.6*(98.1N) = 58.86N. Write this beside its respective arrow. Now that all forces are represented with their direction and magnitude, your FBD is ready for further engineering or physics analysis!"
+        }
+      ]
+    }
+  ],
+  "text":" Creating a Basic FBD Identify the body/object you want to make an FBD of. Example: A man is pushing a 10kg box on a rough floor, with a coefficient of friction of \u00b5 = 0.6, by applying a 20N force. You will select our body to be the box. Draw a simple representation of the body. Example: Make a square to represent the box. Think of which forces are acting on the body. Example: These are (1) the weight of the object, (2) the pushing force of the man, (3) the normal force applied by the floor, and (4) the friction force due to the rough floor. Draw the forces one by one using arrows pointing to the direction of the force. Always start with the weight because all objects have weight. Example: (1) For the weight, draw an arrow pointing downward because the weight is the pulling force of the earth's gravity, which is always downward. Draw the remaining forces. Example: (2) Draw an arrow that follows the direction of the pushing force. (3) Draw an arrow pointing upward for the normal force because it should always be perpendicular to the floor. (4) Draw an arrow that is opposite the direction of motion of the box for the friction. Label your forces properly and your basic FBD is done! However, if you wish to put the magnitude of the forces, you may continue to the following steps. Adding the Magnitude of the Forces Add information about the weight. The weight of the object is equal to mass of object*acceleration due to gravity. Example: W = m*a. W = (10kg)*(9.81m/s^2) = 98.1N. Write this beside its respective arrow. Note: Forces are measured in Newtons or N. Add the push forces. The magnitude of the pushing force applied by the man is given as 20N. Write this beside its respective arrow. Add the normal force. The normal force is equal to the magnitude of the weight that acts perpendicularly to the floor. In this case, all of the weight is acting perpendicularly to the floor, therefore, N and W are equal in magnitude. So, N = 98.1N. Write this beside its respective arrow. Add the friction force. The friction force is given by the formula: f=\u00b5*N. Therefore, f = 0.6*(98.1N) = 58.86N. Write this beside its respective arrow. Now that all forces are represented with their direction and magnitude, your FBD is ready for further engineering or physics analysis!",
+  "tyn_model":[
+    "box",
+    "arrows"
+  ],
+  "tyn_section":[
+
+  ]
+}

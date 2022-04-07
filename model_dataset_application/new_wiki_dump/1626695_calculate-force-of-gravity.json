@@ -1,0 +1,73 @@
+{
+  "title":"How to Calculate Force of Gravity",
+  "url":"https://www.wikihow.com/Calculate-Force-of-Gravity",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "parts":[
+    {
+      "name":"Calculating the Force of Gravity Between Two Objects",
+      "steps":[
+        {
+          "headline":"Define the equation for the force of gravity that attracts an object, Fgrav = (Gm1m2)/d.",
+          "description":"In order to properly calculate the gravitational force on an object, this equation takes into account the masses of both objects and how far apart the objects are from each other. The variables are defined below. Fgrav is the force due to gravity\n\nG is the universal gravitation constant 6.673 x 10 Nm/kg\n\nm1 is the mass of the first object\n\nm2 is the mass of the second object\n\nd is the distance between the centers of two objects\nSometimes you will see the letter r instead of the letter d. Both symbols represent the distance between the two objects."
+        },
+        {
+          "headline":"Use the proper metric units.",
+          "description":"For this particular equation, you must use metric units. The masses of objects need to be in kilograms (kg) and the distance needs to be in meters (m). You must convert to these units before continuing with the calculation."
+        },
+        {
+          "headline":"Determine the mass of the object in question.",
+          "description":"For smaller objects, you can weigh them on a scale or balance to determine their weight in grams. For larger objects, you will have to look-up the approximate mass in a table or online. In physics problems, the mass of the object will generally be provided to you."
+        },
+        {
+          "headline":"Measure the distance between the two objects.",
+          "description":"If you are trying to calculate the force of gravity between an object and the earth, you need to determine how far away the object is from the center of the earth. The distance from the surface of the earth to the center is approximately 6.38 x 10 m.\nYou can find tables and other resources online that will provide you with approximate distances of the center of the earth to objects at various elevations on the surface."
+        },
+        {
+          "headline":"Solve the equation.",
+          "description":"Once you have defined the variables of your equation, you can plug them in and solve. Be sure that all of your units are in metric and on the right scale. Mass should be in kilograms and distance in meters. Solve the equation using the proper order of operations. For example: Determine the force of gravity on a 68 kg person on the surface of the earth. The mass of the earth is 5.98 x 10 kg. Make sure all your variables have the proper units. m1 = 5.98 x 10 kg, m2 = 68 kg, G = 6.673 x 10 Nm/kg, and d = 6.38 x 10 m\nWrite your equation: Fgrav = (Gm1m2)/d = [(6.67 x 10) x 68 x (5.98 x 10)]/(6.38 x 10)\nMultiply the masses of the two objects together. 68 x (5.98 x 10) = 4.06 x 10\nMultiply the product of m1 and m2 by the gravitational constant G.  (4.06 x 10) x (6.67 x 10) = 2.708 x 10\nSquare the distance between the two objects. (6.38 x 10) = 4.07 x 10\nDivide the product of G x m1 x m2 by the distance squared to find the force of gravity in Newtons (N). 2.708 x 10/4.07 x 10 = 665 N\nThe force of gravity is 665 N."
+        }
+      ]
+    },
+    {
+      "name":"Calculating the Force of Gravity on Earth",
+      "steps":[
+        {
+          "headline":"Understand Newton\u2019s Second Law of Motion, F = ma.",
+          "description":"Newton\u2019s second law of motion states that any object will accelerate when acted upon by a net or unbalanced force. In other words, if a force is acting upon an object that is greater than the forces acting in the opposite direction, the object will accelerate in the direction of the larger force. This law can be summed up with the equation F = ma, where F is the force, m is the mass of the object, and a is acceleration. Using this law, we can calculate the force of gravity of any object on the surface of the earth, using the known acceleration due to gravity."
+        },
+        {
+          "headline":"Know the acceleration due to gravity on earth.",
+          "description":"On earth, the force of gravity causes objects to accelerate at a rate of 9.8 m/s. On the earth\u2019s surface, we can use the simplified equation Fgrav = mg to calculate the force of gravity. If you want a more exact approximation of force, you can still use the above equation, Fgrav = (GMearthm)/d to determine force of gravity."
+        },
+        {
+          "headline":"Use the proper metric units.",
+          "description":"For this particular equation, you must use metric units. The mass of the object needs to be in kilograms (kg) and the acceleration needs to be in meters per second squared (m/s). You must convert to these units before continuing with the calculation."
+        },
+        {
+          "headline":"Determine the mass of the object in question.",
+          "description":"For smaller objects, you can weigh them on a scale or balance to determine its weight in kilograms (kg). For larger objects, you will have to look-up the approximate mass in a table or online. In physics problems, the mass of the object will generally be provided to you."
+        },
+        {
+          "headline":"Solve the equation.",
+          "description":"Once you have defined the variables of your equation, you can plug them in and solve. Be sure that all of your units are in metric and on the right scale. Mass should be in kilograms and distance in meters. Solve the equation using the proper order of operations. Let\u2019s use the same equation from above and see how close the approximation is. Determine the force of gravity on a 68 kg person on the surface of the earth. Make sure all your variables have the proper units: m = 68 kg, g = 9.8 m/s. Write your equation. Fgrav = mg = 68*9.8 = 666 N.\nWith F = mg the force of gravity is 666 N, while using the more exact equation yields a force of 665 N. As you can see, these values are almost identical."
+        }
+      ]
+    }
+  ],
+  "text":" Calculating the Force of Gravity Between Two Objects Define the equation for the force of gravity that attracts an object, Fgrav = (Gm1m2)/d. In order to properly calculate the gravitational force on an object, this equation takes into account the masses of both objects and how far apart the objects are from each other. The variables are defined below. Fgrav is the force due to gravity\n\nG is the universal gravitation constant 6.673 x 10 Nm/kg\n\nm1 is the mass of the first object\n\nm2 is the mass of the second object\n\nd is the distance between the centers of two objects\nSometimes you will see the letter r instead of the letter d. Both symbols represent the distance between the two objects. Use the proper metric units. For this particular equation, you must use metric units. The masses of objects need to be in kilograms (kg) and the distance needs to be in meters (m). You must convert to these units before continuing with the calculation. Determine the mass of the object in question. For smaller objects, you can weigh them on a scale or balance to determine their weight in grams. For larger objects, you will have to look-up the approximate mass in a table or online. In physics problems, the mass of the object will generally be provided to you. Measure the distance between the two objects. If you are trying to calculate the force of gravity between an object and the earth, you need to determine how far away the object is from the center of the earth. The distance from the surface of the earth to the center is approximately 6.38 x 10 m.\nYou can find tables and other resources online that will provide you with approximate distances of the center of the earth to objects at various elevations on the surface. Solve the equation. Once you have defined the variables of your equation, you can plug them in and solve. Be sure that all of your units are in metric and on the right scale. Mass should be in kilograms and distance in meters. Solve the equation using the proper order of operations. For example: Determine the force of gravity on a 68 kg person on the surface of the earth. The mass of the earth is 5.98 x 10 kg. Make sure all your variables have the proper units. m1 = 5.98 x 10 kg, m2 = 68 kg, G = 6.673 x 10 Nm/kg, and d = 6.38 x 10 m\nWrite your equation: Fgrav = (Gm1m2)/d = [(6.67 x 10) x 68 x (5.98 x 10)]/(6.38 x 10)\nMultiply the masses of the two objects together. 68 x (5.98 x 10) = 4.06 x 10\nMultiply the product of m1 and m2 by the gravitational constant G.  (4.06 x 10) x (6.67 x 10) = 2.708 x 10\nSquare the distance between the two objects. (6.38 x 10) = 4.07 x 10\nDivide the product of G x m1 x m2 by the distance squared to find the force of gravity in Newtons (N). 2.708 x 10/4.07 x 10 = 665 N\nThe force of gravity is 665 N. Calculating the Force of Gravity on Earth Understand Newton\u2019s Second Law of Motion, F = ma. Newton\u2019s second law of motion states that any object will accelerate when acted upon by a net or unbalanced force. In other words, if a force is acting upon an object that is greater than the forces acting in the opposite direction, the object will accelerate in the direction of the larger force. This law can be summed up with the equation F = ma, where F is the force, m is the mass of the object, and a is acceleration. Using this law, we can calculate the force of gravity of any object on the surface of the earth, using the known acceleration due to gravity. Know the acceleration due to gravity on earth. On earth, the force of gravity causes objects to accelerate at a rate of 9.8 m/s. On the earth\u2019s surface, we can use the simplified equation Fgrav = mg to calculate the force of gravity. If you want a more exact approximation of force, you can still use the above equation, Fgrav = (GMearthm)/d to determine force of gravity. Use the proper metric units. For this particular equation, you must use metric units. The mass of the object needs to be in kilograms (kg) and the acceleration needs to be in meters per second squared (m/s). You must convert to these units before continuing with the calculation. Determine the mass of the object in question. For smaller objects, you can weigh them on a scale or balance to determine its weight in kilograms (kg). For larger objects, you will have to look-up the approximate mass in a table or online. In physics problems, the mass of the object will generally be provided to you. Solve the equation. Once you have defined the variables of your equation, you can plug them in and solve. Be sure that all of your units are in metric and on the right scale. Mass should be in kilograms and distance in meters. Solve the equation using the proper order of operations. Let\u2019s use the same equation from above and see how close the approximation is. Determine the force of gravity on a 68 kg person on the surface of the earth. Make sure all your variables have the proper units: m = 68 kg, g = 9.8 m/s. Write your equation. Fgrav = mg = 68*9.8 = 666 N.\nWith F = mg the force of gravity is 666 N, while using the more exact equation yields a force of 665 N. As you can see, these values are almost identical.",
+  "tyn_model":[
+    "metric units",
+    "g",
+    "table",
+    "physics problems",
+    "newton",
+    "fgrav",
+    "scale",
+    "gravitational constant"
+  ],
+  "tyn_section":[
+
+  ]
+}

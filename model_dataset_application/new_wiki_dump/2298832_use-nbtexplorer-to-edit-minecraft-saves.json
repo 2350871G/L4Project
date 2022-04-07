@@ -1,0 +1,62 @@
+{
+  "title":"How to Use NBTexplorer to Edit Minecraft Saves",
+  "url":"https://www.wikihow.com/Use-NBTexplorer-to-Edit-Minecraft-Saves",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Minecraft",
+    "Minecraft Cheats and Glitches"
+  ],
+  "steps":[
+    {
+      "headline":"Install NBTexplorer.",
+      "description":"If you have not done so already, download and install NBTexplorer here."
+    },
+    {
+      "headline":"Open NBTexplorer.",
+      "description":"Make sure minecraft has no levels open, then open NBTexplorer and wait for it to load."
+    },
+    {
+      "headline":"Open your world.",
+      "description":"Once it is open, browse through the column of saves to find the name of the world you want to edit. Click on the + next to it to expand it."
+    },
+    {
+      "headline":"Open the world save file.",
+      "description":"Using the + button, expand the entry called \"level.dat\", and then the sub-entry \"data\"."
+    },
+    {
+      "headline":"Find data to edit.",
+      "description":"Use the chart to identify the value that holds the data you want to change. If it is in a sub-directory, expand and close it with the + and -, respectively."
+    },
+    {
+      "headline":"Edit the save data.",
+      "description":"Once you have found the value to change, double click on it to edit it. A small dialog will appear with a text box containing the current value. Type in the new value, making sure it is the same data type. For example, do not enter text into a value with only numbers, or vice versa."
+    },
+    {
+      "headline":"Save the file.",
+      "description":"Once you are done editing, click on the save button. It is a picture of a floppy disk."
+    },
+    {
+      "headline":"Close the open level.",
+      "description":"Close the save by clicking the - next to the save name."
+    },
+    {
+      "headline":"Check that the changes were made.",
+      "description":"Load minecraft, and verify that the changes have been made."
+    },
+    {
+      "headline":"Have fun with your newly modified world!",
+      "description":""
+    }
+  ],
+  "text":" Install NBTexplorer. If you have not done so already, download and install NBTexplorer here. Open NBTexplorer. Make sure minecraft has no levels open, then open NBTexplorer and wait for it to load. Open your world. Once it is open, browse through the column of saves to find the name of the world you want to edit. Click on the + next to it to expand it. Open the world save file. Using the + button, expand the entry called \"level.dat\", and then the sub-entry \"data\". Find data to edit. Use the chart to identify the value that holds the data you want to change. If it is in a sub-directory, expand and close it with the + and -, respectively. Edit the save data. Once you have found the value to change, double click on it to edit it. A small dialog will appear with a text box containing the current value. Type in the new value, making sure it is the same data type. For example, do not enter text into a value with only numbers, or vice versa. Save the file. Once you are done editing, click on the save button. It is a picture of a floppy disk. Close the open level. Close the save by clicking the - next to the save name. Check that the changes were made. Load minecraft, and verify that the changes have been made. Have fun with your newly modified world! ",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title":"How to Multiseat Diablo III with Softxpand",
+  "url":"https://www.wikihow.com/Multiseat-Diablo-III-with-Softxpand",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Diablo Series"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the game.",
+      "description":"Install Diablo III as normal if it's not already on your machine."
+    },
+    {
+      "headline":"Create a copy of the entire Diablo III directory (default C:\\Program Files (x86)\\Diablo III).",
+      "description":"You can rename this something such as \"Diablo III Softxpand\"."
+    },
+    {
+      "headline":"Ensure the duplicate game works properly by opening the game folder and double clicking on Diablo III Launcher.exe.",
+      "description":"This will also initialize the game."
+    },
+    {
+      "headline":"Set up a second Windows account or guest account.",
+      "description":"Open the Control Panel and click on \"User Accounts and Family Safety\". Under User Accounts click \"Add or remover user accounts\"."
+    },
+    {
+      "headline":"Create a new account or enable the Guest account.",
+      "description":""
+    },
+    {
+      "headline":"On your main desktop, look for the default shortcut to Diablo III.",
+      "description":"Right-click and open up the properties window. In the target box where it reads \"C:\\Program Files (x86)\\Diablo III\\Diablo III Launcher.exe\", edit this to read \"C:\\Program Files (x86)\\Diablo III\\Diablo III.exe\" -launch."
+    },
+    {
+      "headline":"On your main desktop, create a second shortcut to the duplicated game files.",
+      "description":"Again edit the target to end with \\Diablo III.exe\" -launch (depending on where you duplicated the file it may read something like \"C:\\Program Files (x86)\\Diablo III Softxpand\\Diablo III.exe\" -launch)"
+    },
+    {
+      "headline":"On the guest account, create the same shortcuts.",
+      "description":"Then go back to the main account."
+    },
+    {
+      "headline":"Connect an additional set of hardware for the duplicate 'game station'.",
+      "description":"This requires a monitor, keyboard, mouse and headphones (with usb audio adaptor if your soundcard does not support more than a single audio line out). Importantly, ensure it all works before proceeding."
+    },
+    {
+      "headline":"Open up the Control Panel once again.",
+      "description":"This time go to Appearance and Personalization, and under Display click on \"Adjust Screen Resolution\". Set the monitors to \"Extend display\"."
+    },
+    {
+      "headline":"Make it all come together!",
+      "description":"Download and install Softxpand Duo 2011. This will manage the screens/keyboards/mice/audio for each 'game station'. After the software is successfully installed, the computer will require a restart. Softxpand will prompt you to assign input devices for each station."
+    },
+    {
+      "headline":"Log into different windows user accounts on each station.",
+      "description":""
+    },
+    {
+      "headline":"Use the Diablo shortcuts you created to start up separate instances of Diablo III!",
+      "description":""
+    }
+  ],
+  "text":" Prepare the game. Install Diablo III as normal if it's not already on your machine. Create a copy of the entire Diablo III directory (default C:\\Program Files (x86)\\Diablo III). You can rename this something such as \"Diablo III Softxpand\". Ensure the duplicate game works properly by opening the game folder and double clicking on Diablo III Launcher.exe. This will also initialize the game. Set up a second Windows account or guest account. Open the Control Panel and click on \"User Accounts and Family Safety\". Under User Accounts click \"Add or remover user accounts\". Create a new account or enable the Guest account.  On your main desktop, look for the default shortcut to Diablo III. Right-click and open up the properties window. In the target box where it reads \"C:\\Program Files (x86)\\Diablo III\\Diablo III Launcher.exe\", edit this to read \"C:\\Program Files (x86)\\Diablo III\\Diablo III.exe\" -launch. On your main desktop, create a second shortcut to the duplicated game files. Again edit the target to end with \\Diablo III.exe\" -launch (depending on where you duplicated the file it may read something like \"C:\\Program Files (x86)\\Diablo III Softxpand\\Diablo III.exe\" -launch) On the guest account, create the same shortcuts. Then go back to the main account. Connect an additional set of hardware for the duplicate 'game station'. This requires a monitor, keyboard, mouse and headphones (with usb audio adaptor if your soundcard does not support more than a single audio line out). Importantly, ensure it all works before proceeding. Open up the Control Panel once again. This time go to Appearance and Personalization, and under Display click on \"Adjust Screen Resolution\". Set the monitors to \"Extend display\". Make it all come together! Download and install Softxpand Duo 2011. This will manage the screens/keyboards/mice/audio for each 'game station'. After the software is successfully installed, the computer will require a restart. Softxpand will prompt you to assign input devices for each station. Log into different windows user accounts on each station.  Use the Diablo shortcuts you created to start up separate instances of Diablo III! ",
+  "tyn_model":[
+    "diablo iii",
+    "diablo iii softxpand",
+    "monitor",
+    "keyboard",
+    "mouse",
+    "headphones",
+    "control panel",
+    "monitors",
+    "audio",
+    "computer"
+  ],
+  "tyn_section":[
+
+  ]
+}

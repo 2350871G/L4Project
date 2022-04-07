@@ -1,0 +1,132 @@
+{
+  "title":"How to Create an Enjoyable Educational Video Game",
+  "url":"https://www.wikihow.com/Create-an-Enjoyable-Educational-Video-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "parts":[
+    {
+      "name":"Analyzing",
+      "steps":[
+        {
+          "headline":"Determine what you are trying to teach.",
+          "description":"The topic of an educational game could be anything from how to cook a simple meal to advanced particle physics. The first thing you need to do is determine what sort of subject matter you want your game to illustrate. Whatever you decide here will become the basis for the game you create."
+        },
+        {
+          "headline":"Determine the depth of your knowledge on your chosen subject.",
+          "description":"It is very difficult to teach something that you're not deeply familiar with. Take time to ask yourself, \u201cwould I be able to teach this subject to my target audience in a classroom?\u201d While you don\u2019t need ultimate knowledge on every field related to your game\u2019s topic, you should posses a very firm grasp on the concepts you\u2019re trying to teach. Take some time to research your topic here if necessary."
+        },
+        {
+          "headline":"Determine the depth of your knowledge on game design.",
+          "description":"It\u2019s alright if you\u2019ve never designed a game before. There are many in depth tutorials on most aspects of video game design, programming, and asset creation available on YouTube. Even though you don't need a great deal of experience to make a game, creating a good game will require some understanding of the design process and video games themselves."
+        },
+        {
+          "headline":"Understand the difference between an educational game and a game which happens to be educational.",
+          "description":"While there is no set definition of a good video game, no one with any experience playing games will hesitate to point out a bad one. Educational games of the 90\u2019s focused primarily on teaching a topic, adding in gameplay like functions as an afterthought. No matter how technically accurate and educational your game is, it won't do any good if it doesn't hold the player's attention long enough to get your topics across. A good educational game should focus on gameplay and build education into the system. [Image:Write an Educational Objective Step 7.jpg|center]]"
+        },
+        {
+          "headline":"Research similar games and concepts.",
+          "description":"Are there any existing games about your subject? What other educational materials on the subject exist? Being mindful of prior art is important because it allows you to draw inspiration without knowingly (or not) encroaching on any copyright. ?"
+        }
+      ]
+    },
+    {
+      "name":"Designing",
+      "steps":[
+        {
+          "headline":"Brainstorm.",
+          "description":"Everyone brainstorms in a different way. Some people do it alone with index cards or a notepad while others prefer to brainstorm in a group with a white board or collaboration software. The point of this step is to generate more than enough ideas related to your topic to give you something to go with. Don't worry if some of your ideas seem to be well off track, because you will narrow them down later."
+        },
+        {
+          "headline":"Define the scope of your topic.",
+          "description":"The topic you want to teach should be broad enough that players without prior knowledge will still be able to benefit, but not so broad that the educational bits will get lost in the openness of the game. Try to find a balance between an all encompassing game and one which dwells over specific details of a specific topic."
+        },
+        {
+          "headline":"Choose a genre/gameplay style.",
+          "description":"This choice should be based on what you're trying to teach. For example, a real time strategy game or first person shooter would be poorly suited to teach physics. Likewise, a side-scrolling platformer would have a difficult time conveying the details of algebra. Note: There are exceptions to this, such as Valve Software\u2019s Portal game can be implemented to teach physics lessons."
+        },
+        {
+          "headline":"Understand your audience.",
+          "description":"Will your target audience be a room full of third graders or adults trying to further education? Understanding the target audience at an early stage will help you tailor the game to a level that will entertain them. Younger audiences will need likely to be helped throughout their play through of your game, while older audiences may feel insulted if you do the same thing. Try to limit your audience to as few groups as possible."
+        },
+        {
+          "headline":"Drop ideas that don't fit or feel right.",
+          "description":"No matter how great an idea is, if it doesn't fit with the theme of your game, valuable resources (such as time, energy, and money) will be wasted on it. Don\u2019t feel obligated to incorporate every good idea that comes up into your game. You will have other opportunities to use those ideas in later projects. There is an old adage in film, \"If you can cut a scene and have the movie still make sense, cut it.\""
+        }
+      ]
+    },
+    {
+      "name":"Implementing",
+      "steps":[
+        {
+          "headline":"Prepare your chosen software.",
+          "description":"Now that the analysis and design stages are completed, it is time to get ready for action. Make sure that you have access to a reliable (and internet connected) computer with all of the software that you will need. The software will vary greatly from person to person depending on the scope of your project and what you're comfortable with."
+        },
+        {
+          "headline":"Get others onboard.",
+          "description":"Unless you're tackling this project by yourself (which will be difficult, although not impossible), feel free to enlist the help of other people. Depending on where you\u2019re coming from or the scope of your project, these people could be friends or family members with coding or art skills, or paid professionals who know exactly what they\u2019re doing. There is no shame working on this by yourself, just understand the resources that you have available and don\u2019t overstretch the scope of your abilities. Utilize the resources that others have."
+        },
+        {
+          "headline":"Create a Paper Prototype.",
+          "description":"This step is optional and often overlooked, but can be used to diagnose any potential problems and generate better ideas before any coding takes place. Think of every mechanic and system in your game, then make a paper version of it. This will let you see how you want key pieces of your game to interact and lets you make any adjustments to your idea before ever writing any code."
+        },
+        {
+          "headline":"Program your back end.",
+          "description":"The details of this will vary greatly depending on the engine and IDE (integrated development environment) you're using, but the advice is the same. Starting with a solid back end will greatly reduce the number of problems you encounter later in your project. Take your time to make sure all of your systems are working together correctly before implementing anything else."
+        },
+        {
+          "headline":"Program your user interaction and/or character.",
+          "description":"Not all types of games place the player in control of a character. If you have chosen a genre that allows the player to directly manipulate their environment, program that now. If you have a playable character, this is a good time to work on the controls and basic animation."
+        },
+        {
+          "headline":"Design your User Interface (UI).",
+          "description":"Even though this is generally the last step in implementing a game, special attention should be paid to the user interface. This is how the player will spend most of their time interacting with your game and if it isn\u2019t intuitive to the player, they won\u2019t enjoy the game as much as you would like."
+        }
+      ]
+    },
+    {
+      "name":"Testing",
+      "steps":[
+        {
+          "headline":"Find people willing to play test your game.",
+          "description":"Friends and family may work for small projects, but if you don't make it clear that you need honest feedback on your game they may tell you what you want to hear to protect your feelings. Many colleges and universities have game clubs which will play test your game for free. Larger projects may require professional play testers."
+        },
+        {
+          "headline":"Determine if the player learned what you intended.",
+          "description":"Don't directly ask them this question, but ask them questions about the subject matter. It should be clear by their answers whether your topic material got through to them. You may want to prepare some quiz-like questions to evaluate whether the topic was entirely understood."
+        },
+        {
+          "headline":"Determine if the player enjoyed the game.",
+          "description":"You can directly ask them this question, but most people won't be able to give a direct reason. Watching the way they play and monitoring their expression will give you a much more accurate idea. The point of creating an enjoyable educational game is that the player enjoys it, so this is the most important step in the testing phase."
+        },
+        {
+          "headline":"Determine if the player had any difficulty playing the game.",
+          "description":"Don't guide them through the game if they get stuck on a puzzle or with part of your UI or control scheme. Mark these down as problem areas which need to be fixed. Ask for feedback while they're playing and what they're thinking/attempting to do."
+        },
+        {
+          "headline":"Repeat the previous main steps (as needed) until you are satisfied.",
+          "description":"Now that you have completed the first iteration of your game, determine whether or not you are satisfied. Did the players enjoy the game you created? Did they learn anything from it? If so, you\u2019ve created an enjoyable educational game. If not, you can go back to part 1 and begin the process again with all of the information you\u2019ve gathered from testing.Through this iterative process, your game will become better and many of the problems will be worked out."
+        }
+      ]
+    }
+  ],
+  "text":" Analyzing Determine what you are trying to teach. The topic of an educational game could be anything from how to cook a simple meal to advanced particle physics. The first thing you need to do is determine what sort of subject matter you want your game to illustrate. Whatever you decide here will become the basis for the game you create. Determine the depth of your knowledge on your chosen subject. It is very difficult to teach something that you're not deeply familiar with. Take time to ask yourself, \u201cwould I be able to teach this subject to my target audience in a classroom?\u201d While you don\u2019t need ultimate knowledge on every field related to your game\u2019s topic, you should posses a very firm grasp on the concepts you\u2019re trying to teach. Take some time to research your topic here if necessary. Determine the depth of your knowledge on game design. It\u2019s alright if you\u2019ve never designed a game before. There are many in depth tutorials on most aspects of video game design, programming, and asset creation available on YouTube. Even though you don't need a great deal of experience to make a game, creating a good game will require some understanding of the design process and video games themselves. Understand the difference between an educational game and a game which happens to be educational. While there is no set definition of a good video game, no one with any experience playing games will hesitate to point out a bad one. Educational games of the 90\u2019s focused primarily on teaching a topic, adding in gameplay like functions as an afterthought. No matter how technically accurate and educational your game is, it won't do any good if it doesn't hold the player's attention long enough to get your topics across. A good educational game should focus on gameplay and build education into the system. [Image:Write an Educational Objective Step 7.jpg|center]] Research similar games and concepts. Are there any existing games about your subject? What other educational materials on the subject exist? Being mindful of prior art is important because it allows you to draw inspiration without knowingly (or not) encroaching on any copyright. ? Designing Brainstorm. Everyone brainstorms in a different way. Some people do it alone with index cards or a notepad while others prefer to brainstorm in a group with a white board or collaboration software. The point of this step is to generate more than enough ideas related to your topic to give you something to go with. Don't worry if some of your ideas seem to be well off track, because you will narrow them down later. Define the scope of your topic. The topic you want to teach should be broad enough that players without prior knowledge will still be able to benefit, but not so broad that the educational bits will get lost in the openness of the game. Try to find a balance between an all encompassing game and one which dwells over specific details of a specific topic. Choose a genre/gameplay style. This choice should be based on what you're trying to teach. For example, a real time strategy game or first person shooter would be poorly suited to teach physics. Likewise, a side-scrolling platformer would have a difficult time conveying the details of algebra. Note: There are exceptions to this, such as Valve Software\u2019s Portal game can be implemented to teach physics lessons. Understand your audience. Will your target audience be a room full of third graders or adults trying to further education? Understanding the target audience at an early stage will help you tailor the game to a level that will entertain them. Younger audiences will need likely to be helped throughout their play through of your game, while older audiences may feel insulted if you do the same thing. Try to limit your audience to as few groups as possible. Drop ideas that don't fit or feel right. No matter how great an idea is, if it doesn't fit with the theme of your game, valuable resources (such as time, energy, and money) will be wasted on it. Don\u2019t feel obligated to incorporate every good idea that comes up into your game. You will have other opportunities to use those ideas in later projects. There is an old adage in film, \"If you can cut a scene and have the movie still make sense, cut it.\" Implementing Prepare your chosen software. Now that the analysis and design stages are completed, it is time to get ready for action. Make sure that you have access to a reliable (and internet connected) computer with all of the software that you will need. The software will vary greatly from person to person depending on the scope of your project and what you're comfortable with. Get others onboard. Unless you're tackling this project by yourself (which will be difficult, although not impossible), feel free to enlist the help of other people. Depending on where you\u2019re coming from or the scope of your project, these people could be friends or family members with coding or art skills, or paid professionals who know exactly what they\u2019re doing. There is no shame working on this by yourself, just understand the resources that you have available and don\u2019t overstretch the scope of your abilities. Utilize the resources that others have. Create a Paper Prototype. This step is optional and often overlooked, but can be used to diagnose any potential problems and generate better ideas before any coding takes place. Think of every mechanic and system in your game, then make a paper version of it. This will let you see how you want key pieces of your game to interact and lets you make any adjustments to your idea before ever writing any code. Program your back end. The details of this will vary greatly depending on the engine and IDE (integrated development environment) you're using, but the advice is the same. Starting with a solid back end will greatly reduce the number of problems you encounter later in your project. Take your time to make sure all of your systems are working together correctly before implementing anything else. Program your user interaction and/or character. Not all types of games place the player in control of a character. If you have chosen a genre that allows the player to directly manipulate their environment, program that now. If you have a playable character, this is a good time to work on the controls and basic animation. Design your User Interface (UI). Even though this is generally the last step in implementing a game, special attention should be paid to the user interface. This is how the player will spend most of their time interacting with your game and if it isn\u2019t intuitive to the player, they won\u2019t enjoy the game as much as you would like. Testing Find people willing to play test your game. Friends and family may work for small projects, but if you don't make it clear that you need honest feedback on your game they may tell you what you want to hear to protect your feelings. Many colleges and universities have game clubs which will play test your game for free. Larger projects may require professional play testers. Determine if the player learned what you intended. Don't directly ask them this question, but ask them questions about the subject matter. It should be clear by their answers whether your topic material got through to them. You may want to prepare some quiz-like questions to evaluate whether the topic was entirely understood. Determine if the player enjoyed the game. You can directly ask them this question, but most people won't be able to give a direct reason. Watching the way they play and monitoring their expression will give you a much more accurate idea. The point of creating an enjoyable educational game is that the player enjoys it, so this is the most important step in the testing phase. Determine if the player had any difficulty playing the game. Don't guide them through the game if they get stuck on a puzzle or with part of your UI or control scheme. Mark these down as problem areas which need to be fixed. Ask for feedback while they're playing and what they're thinking/attempting to do. Repeat the previous main steps (as needed) until you are satisfied. Now that you have completed the first iteration of your game, determine whether or not you are satisfied. Did the players enjoy the game you created? Did they learn anything from it? If so, you\u2019ve created an enjoyable educational game. If not, you can go back to part 1 and begin the process again with all of the information you\u2019ve gathered from testing.Through this iterative process, your game will become better and many of the problems will be worked out.",
+  "tyn_model":[
+    "software",
+    "program",
+    "\u201cwould",
+    "\u201d while",
+    "video games",
+    "games",
+    "index cards",
+    "notepad",
+    "white board",
+    "computer",
+    "paper"
+  ],
+  "tyn_section":[
+
+  ]
+}

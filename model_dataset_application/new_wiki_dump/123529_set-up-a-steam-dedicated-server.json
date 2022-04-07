@@ -1,0 +1,62 @@
+{
+  "title":"How to Set up a Steam Dedicated Server",
+  "url":"https://www.wikihow.com/Set-up-a-Steam-Dedicated-Server",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "steps":[
+    {
+      "headline":"Make sure the Windows user you're logged-in as has permission to overwrite the \"HldsUpdateTool\" executable.",
+      "description":""
+    },
+    {
+      "headline":"Download the HLDS Update Tool according to your Operating System (OS).",
+      "description":"Whether you run a Linux distro or a Windows build, you may get your files under the Dedicated Server title on the right."
+    },
+    {
+      "headline":"Install the update tool in x:\\HLServer.",
+      "description":""
+    },
+    {
+      "headline":"Open a terminal (Start>Run>cmd).",
+      "description":""
+    },
+    {
+      "headline":"Use directory traversal and go to your HLServer directory (cd \\HLServer).",
+      "description":""
+    },
+    {
+      "headline":"Type in \"HldsUpdateTool\" (or just \"h\" then cycle tab through the files until you got the exe) or ./steam for Linux users then a space then enter -command update -game <game>.",
+      "description":"Replace <game> with the game you want to host, be it \"cstrike\", \"dmc\", \"dod\", \"ricochet\", \"tfc\", \"valve\", \"Counter-Strike Source\", or \"hl2mp\". Enter -dir x:\\hlserver afterwards and then press enter and let it rest. A correct example would be: HldsUpdateTool -command update -game cstrike -dir c:\\hlserver"
+    },
+    {
+      "headline":"If it worked so far, it should now be installing the files needed to run the server.",
+      "description":""
+    },
+    {
+      "headline":"When it is over, make a shortcut of hlds.exe on your desktop.",
+      "description":""
+    },
+    {
+      "headline":"Go into the properties of the shortcut.",
+      "description":""
+    },
+    {
+      "headline":"In the Target line, go to the very end of the address then add -console -game <Game> +maxplayers <Number> +map '<StartMap>'.",
+      "description":"By doing this, each time you will load the HLDS with this shortcut, you will open it in a console, meaning less memory usage and more CPU power available."
+    }
+  ],
+  "text":" Make sure the Windows user you're logged-in as has permission to overwrite the \"HldsUpdateTool\" executable.  Download the HLDS Update Tool according to your Operating System (OS). Whether you run a Linux distro or a Windows build, you may get your files under the Dedicated Server title on the right. Install the update tool in x:\\HLServer.  Open a terminal (Start>Run>cmd).  Use directory traversal and go to your HLServer directory (cd \\HLServer).  Type in \"HldsUpdateTool\" (or just \"h\" then cycle tab through the files until you got the exe) or ./steam for Linux users then a space then enter -command update -game <game>. Replace <game> with the game you want to host, be it \"cstrike\", \"dmc\", \"dod\", \"ricochet\", \"tfc\", \"valve\", \"Counter-Strike Source\", or \"hl2mp\". Enter -dir x:\\hlserver afterwards and then press enter and let it rest. A correct example would be: HldsUpdateTool -command update -game cstrike -dir c:\\hlserver If it worked so far, it should now be installing the files needed to run the server.  When it is over, make a shortcut of hlds.exe on your desktop.  Go into the properties of the shortcut.  In the Target line, go to the very end of the address then add -console -game <Game> +maxplayers <Number> +map '<StartMap>'. By doing this, each time you will load the HLDS with this shortcut, you will open it in a console, meaning less memory usage and more CPU power available.",
+  "tyn_model":[
+    "terminal",
+    "./steam",
+    "counter-strike source",
+    "console"
+  ],
+  "tyn_section":[
+
+  ]
+}

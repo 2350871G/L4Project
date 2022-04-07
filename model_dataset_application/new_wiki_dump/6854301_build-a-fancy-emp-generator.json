@@ -1,0 +1,85 @@
+{
+  "title":"How to Build a Fancy EMP Generator",
+  "url":"https://www.wikihow.com/Build-a-Fancy-EMP-Generator",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Home Method",
+      "steps":[
+        {
+          "headline":"Obtain the components.",
+          "description":"This EMP generator will require: a 3V power supply, a 470 ohm resistor, a resistor of resistance R, an LED, a single pole double throw switch (look it up), a length of insulated wire, a big iron nail (the bigger the better), and a super capacitor (available from Maplin for less than a tenner) of capacitance C. Oh, and enough wires and solder/crocodile clips to connect everything together."
+        },
+        {
+          "headline":"Wrap the wire around the nail.",
+          "description":"The more turns the better. Strip the insulation from the ends of the wire to allow you to connect it to the circuit."
+        },
+        {
+          "headline":"Wire up the circuit.",
+          "description":"The diagram pretty much says it all."
+        },
+        {
+          "headline":"Flick the switch towards the battery to charge.",
+          "description":"This is what the LED is for: it indicates that the generator is charging. The charging time (in seconds) is about 5RC. This should influence your choice of resistor R. If you are using a 1F capacitor, a ten ohm resistor in place of R will give a charging time of about 50 seconds. If you use the same resistor with a 360F capacitor, it'll take 5 hours to charge. Choose the resistor with care."
+        },
+        {
+          "headline":"Flick the switch towards the coil to fire.",
+          "description":"If you get a really big switch and a servant with a lisp, it's the perfect opportunity to yell, \"Igor, pull the switch!\""
+        }
+      ]
+    },
+    {
+      "name":"Nuclear Method",
+      "steps":[
+        {
+          "headline":"Obtain the components.",
+          "description":"You will need enough metal to form a bomb casing, explosive lenses, enough enriched uranium or plutonium to produce (at least) a 10 kiloton explosion, and a rocket, launch pad and satellite to get the stuff into space. oh, almost forgot - you'll need a radio detonator for the explosives, with enough range to send a signal into space."
+        },
+        {
+          "headline":"Use the first three components to build an atom bomb.",
+          "description":"The explosion from the bomb will create a very big, high-power EMP. Connect the bomb to the detonator."
+        },
+        {
+          "headline":"Put the bomb on the satellite.",
+          "description":""
+        },
+        {
+          "headline":"Put the satellite on the rocket and launch the whole thing into a low-earth orbit.",
+          "description":""
+        },
+        {
+          "headline":"Maneuver the satellite into position.",
+          "description":"Make sure that any space stations and other satellites and stuff are outside the blast radius."
+        },
+        {
+          "headline":"Detonate the bomb.",
+          "description":"The gamma rays from the explosion will interact with the Earth's atmosphere and magnetic field and generate an EMP. If you build a big enough bomb, the EMP can affect an entire continent."
+        }
+      ]
+    }
+  ],
+  "text":" Home Method Obtain the components. This EMP generator will require: a 3V power supply, a 470 ohm resistor, a resistor of resistance R, an LED, a single pole double throw switch (look it up), a length of insulated wire, a big iron nail (the bigger the better), and a super capacitor (available from Maplin for less than a tenner) of capacitance C. Oh, and enough wires and solder/crocodile clips to connect everything together. Wrap the wire around the nail. The more turns the better. Strip the insulation from the ends of the wire to allow you to connect it to the circuit. Wire up the circuit. The diagram pretty much says it all. Flick the switch towards the battery to charge. This is what the LED is for: it indicates that the generator is charging. The charging time (in seconds) is about 5RC. This should influence your choice of resistor R. If you are using a 1F capacitor, a ten ohm resistor in place of R will give a charging time of about 50 seconds. If you use the same resistor with a 360F capacitor, it'll take 5 hours to charge. Choose the resistor with care. Flick the switch towards the coil to fire. If you get a really big switch and a servant with a lisp, it's the perfect opportunity to yell, \"Igor, pull the switch!\" Nuclear Method Obtain the components. You will need enough metal to form a bomb casing, explosive lenses, enough enriched uranium or plutonium to produce (at least) a 10 kiloton explosion, and a rocket, launch pad and satellite to get the stuff into space. oh, almost forgot - you'll need a radio detonator for the explosives, with enough range to send a signal into space. Use the first three components to build an atom bomb. The explosion from the bomb will create a very big, high-power EMP. Connect the bomb to the detonator. Put the bomb on the satellite.  Put the satellite on the rocket and launch the whole thing into a low-earth orbit.  Maneuver the satellite into position. Make sure that any space stations and other satellites and stuff are outside the blast radius. Detonate the bomb. The gamma rays from the explosion will interact with the Earth's atmosphere and magnetic field and generate an EMP. If you build a big enough bomb, the EMP can affect an entire continent.",
+  "tyn_model":[
+    "rocket",
+    "bomb",
+    "emp generator",
+    "insulated wire",
+    "super capacitor",
+    "wires",
+    "wire",
+    "insulation",
+    "generator",
+    "explosive lenses",
+    "plutonium",
+    "radio detonator",
+    "atom bomb",
+    "detonator"
+  ],
+  "tyn_section":[
+
+  ]
+}

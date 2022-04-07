@@ -1,0 +1,375 @@
+{
+  "title":"How to Mod a Halo Game",
+  "url":"https://www.wikihow.com/Mod-a-Halo-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Halo"
+  ],
+  "methods":[
+    {
+      "name":"Download the Mod Tools",
+      "steps":[
+        {
+          "headline":"Download WinRar to extract files.",
+          "description":"WinRar is a file compressor that lets you make a 14Mb map file about 4 Mb. Find it here."
+        },
+        {
+          "headline":"Download Halo's mapping tool, version 3.5.",
+          "description":"This file is also known as the HMT (Halo Mapping Tool), and was written by MonoxideC, a famous Halo modder."
+        },
+        {
+          "headline":"Download SparkEdit for later mods you might make.",
+          "description":"Sparkedit, written by Grenadiac, lets you open a Halo map file and move things like rocks, trees and vehicles. Find SparkEdit  here."
+        },
+        {
+          "headline":"Download PPF-o-matic.",
+          "description":"PPF-o-matic is a helper application for SparkEdit."
+        },
+        {
+          "headline":"Download PPF Studio.",
+          "description":"This utility allows you to save the changes between a modded map and the original map, making the file size very small."
+        },
+        {
+          "headline":"Download HHT later on.",
+          "description":""
+        },
+        {
+          "headline":"You will need to download the .Net Framework : http://www.microsoft.com/downloads/details.aspx?FamilyId=262D25E3-F589-4842-8157-034D1E7CF3A3&displaylang=en",
+          "description":"This lets you apply the .ppf that you or someone else made with PPFStudio."
+        },
+        {
+          "headline":"If you're playing on a Halo trial, download patches.",
+          "description":"These will allow you to open the trial maps in SparkEdit. To use them, download PPF-o-matic and patch \"sparkify\" onto \"bloodgulch.map\". When you're done modding it, just patch the \"undo sparkify\" onto the map. Find the patches here. If you're playing the full version of Halo, you don't need the patch."
+        }
+      ]
+    },
+    {
+      "name":"Setting Up to Mod",
+      "steps":[
+        {
+          "headline":"Install WinRar to program files.",
+          "description":""
+        },
+        {
+          "headline":"Navigate to where you downloaded HMT.",
+          "description":"Right click on HMT icon and Extract to folder."
+        },
+        {
+          "headline":"Click the icon that has a music symbol: Halo Mapping Tools.",
+          "description":""
+        },
+        {
+          "headline":"Hit File menu on the top left and Select \"Open\".",
+          "description":""
+        },
+        {
+          "headline":"Navigate to your Halo maps folder and open the map you want to mod.",
+          "description":"For this tutorial, we will be using Bloodgulch."
+        }
+      ]
+    },
+    {
+      "name":"Changing a Pistol to a Sniper",
+      "steps":[
+        {
+          "headline":"Open the map you want to mod according to the instructions above.",
+          "description":"The box on the left holds everything in the map. There is also a scroll box to the right of the this window."
+        },
+        {
+          "headline":"Scroll down to the bottom.",
+          "description":"You should see a line that says [Weap] Weapons (20 Items)"
+        },
+        {
+          "headline":"Double-click on this, and 20 lines of text should expand.",
+          "description":""
+        },
+        {
+          "headline":"Find the text that says weapons/pistol/pistol.",
+          "description":""
+        },
+        {
+          "headline":"Click the text once and see the screen change to list the available plug-ins.",
+          "description":""
+        },
+        {
+          "headline":"Download some plug-ins into this utility section; extract them to your hmt plug-in folder.",
+          "description":""
+        },
+        {
+          "headline":"Look for text that says something like:",
+          "description":"Zoom levels 1{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d1\\/Mod-a-Halo-Game-Step-20Bullet1.jpg\\/v4-460px-Mod-a-Halo-Game-Step-20Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d1\\/Mod-a-Halo-Game-Step-20Bullet1.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-20Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"707\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Minimum Zoom 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/aa\\/Mod-a-Halo-Game-Step-20Bullet2.jpg\\/v4-460px-Mod-a-Halo-Game-Step-20Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/aa\\/Mod-a-Halo-Game-Step-20Bullet2.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-20Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"707\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Maximum Zoom 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/ed\\/Mod-a-Halo-Game-Step-20Bullet3.jpg\\/v4-460px-Mod-a-Halo-Game-Step-20Bullet3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ed\\/Mod-a-Halo-Game-Step-20Bullet3.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-20Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"707\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        },
+        {
+          "headline":"Change the text to look like this:",
+          "description":"Zoom levels 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/eb\\/Mod-a-Halo-Game-Step-21Bullet1.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/eb\\/Mod-a-Halo-Game-Step-21Bullet1.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Minimum Zoom 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/11\\/Mod-a-Halo-Game-Step-21Bullet2.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/11\\/Mod-a-Halo-Game-Step-21Bullet2.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Maximum Zoom 8{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/b\\/ba\\/Mod-a-Halo-Game-Step-21Bullet3.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/ba\\/Mod-a-Halo-Game-Step-21Bullet3.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  What this does is increases the zoom level of the weapon; we just gave the pistol the zoom level of the sniper. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e9\\/Mod-a-Halo-Game-Step-21Bullet4.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet4.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e9\\/Mod-a-Halo-Game-Step-21Bullet4.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet4.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}"
+        }
+      ]
+    },
+    {
+      "name":"Projectile Swapping",
+      "steps":[
+        {
+          "headline":"Scroll up until you find a line of text that says, [proj] Projectile (21 items).",
+          "description":""
+        },
+        {
+          "headline":"Double click on this and scroll down until you see a line of text that says, Weapons/shotgun/pellet.",
+          "description":""
+        },
+        {
+          "headline":"Click once on this text.",
+          "description":""
+        },
+        {
+          "headline":"Go to the top of the screen where you should see some text and drop-down boxes, under text that says, Tag Editor.",
+          "description":""
+        },
+        {
+          "headline":"Click the button that says Swap.",
+          "description":"It will open up a window at the same place."
+        },
+        {
+          "headline":"Scroll down until you find text with a bunch of numbers and letters that says Vehicles/scorpion/tank shell.",
+          "description":""
+        },
+        {
+          "headline":"Double-click on this text, and return back to the projectile box.",
+          "description":""
+        },
+        {
+          "headline":"Hit the button that says Save and you have made your first mod.",
+          "description":"You will probably want to wait until you get more experienced with modding to post a mod as these mods are easy for the more experienced so your mod will be looked down on, and probably flamed."
+        }
+      ]
+    },
+    {
+      "name":"Making a Pistol to Shoot Master Chiefs",
+      "steps":[
+        {
+          "headline":"Open Blood Gulch with HMT.",
+          "description":""
+        },
+        {
+          "headline":"Near the top you will see text that says [bipd] bidped (2 items).",
+          "description":"Double-click the text."
+        },
+        {
+          "headline":"Select the text that says characters/cyborg/cyborg and at the top of the screen",
+          "description":""
+        },
+        {
+          "headline":"Under tag information, there will be a box that has these etters/numbers in it: B7F240.",
+          "description":"Copy this text."
+        },
+        {
+          "headline":"Click on [proj] Projectiles (21 items) and Scroll down to weapons\\pistol\\bullet and click.",
+          "description":""
+        },
+        {
+          "headline":"Paste the numbers and letters you copied from the Master Chief biped into the box.",
+          "description":""
+        },
+        {
+          "headline":"Click the Save button and play Blood Gulch.",
+          "description":""
+        },
+        {
+          "headline":"Verify your pistol shoots Master Chiefs.",
+          "description":"This mod technique can be applied for a lot of things. The next mod we will make is a good example."
+        }
+      ]
+    },
+    {
+      "name":"Changing the Game Type",
+      "steps":[
+        {
+          "headline":"Get new game modes in the Halo Trial.",
+          "description":"You may have wondered before how to get new game modes: Team Slayer, King of the Hill, Juggernaut. Here's how to do it."
+        },
+        {
+          "headline":"Start the Halo Trial as usual.",
+          "description":""
+        },
+        {
+          "headline":"Go to Multiplayer and create a game.",
+          "description":""
+        },
+        {
+          "headline":"See Slayer and CTF on the select a game screen.Click on CTF but do not click OK and do not double-click.",
+          "description":"Just select CTF."
+        },
+        {
+          "headline":"Hold down ALT and hit the Tab key or Press (Ctrl + Esc) to come out of fullscreen game.",
+          "description":"Now, you should see Computer's Desktop screen again."
+        },
+        {
+          "headline":"Go to My Documents>My Games>Halo Trail>Saved>Playlists>Default_Playlists>32.",
+          "description":""
+        },
+        {
+          "headline":"Double-click that and you should see some weird file called blam.lst.",
+          "description":"Copy that by right-clicking and selecting Copy."
+        },
+        {
+          "headline":"Open My Computer>C:drive OR Desktop again and paste to make a back-up copy of CTF.",
+          "description":""
+        },
+        {
+          "headline":"Return to the place where there are those numbered folders 00-37 and open Folder 34.",
+          "description":""
+        },
+        {
+          "headline":"Right-click on the blam.lst and select Copy.",
+          "description":""
+        },
+        {
+          "headline":"Return to the numbered folders list and open Folder 32 again.",
+          "description":""
+        },
+        {
+          "headline":"Paste file and when it prompts: \"Do you want to overwrite?\"",
+          "description":"click OK."
+        },
+        {
+          "headline":"Press ALT and Tab again or Maximize Halo screen.",
+          "description":"Now you're back at the Halo screen."
+        },
+        {
+          "headline":"Hit OK and select the settings and everything for your new game.",
+          "description":""
+        },
+        {
+          "headline":"Choose different modes.",
+          "description":"What you did in the previous steps was essentially replace the information the file available to you (CTF, or Folder 32) with information from a file unavailable to you (Team Slayer, or Folder 34). You'll always paste the information into Folder 32. To access these different modes, copy the information out of the folder number listed and paste into Folder 32. '00' for Classic Slayer (original)\n'01' for Classic Slayer Pro\n'02' for Classic Elimination\n'03' for Classic Phantom\n'04' for Classic Endurance\n'05' for Classic Rockets\n'06' for Classic Snipers\n'07' for Classic Oddball\n'08' for Classic Reverse Tag\n'09' for Classic Accumulate\n'10' for Classic Juggernaut\n'11' for Classic Stalker\n'12' for Classic King\n'13' for Classic King Pro\n'14' for Classic Crazy King\n'15' for Classic Race\n'16' for Classic Rally\n'17' for Classic CTF\n'18' for Classic Invasion\n'19' for Classic Iron CTF\n'20' for Classic CTF Pro\n'21' for Classic Team Race\n'22' for Classic Team Rally\n'23' for Classic Team Ball\n'24' for Classic Team King\n'25' for Classic Team Slayer\n'26' for Slayer\n'27' for Oddball\n'28' for Juggernaut\n'29' for King\n'30' for Crazy King\n'31' for Race\n'32' for CTF (original)\n'33' for Assault\n'34' for Team Slayer\n'35' for Team Oddball\n'36' for Team King\n'37' for Team Race"
+        },
+        {
+          "headline":"Note that you will have to close and restart the game while in online mode to switch between more than 2 game types.",
+          "description":"You do not have to save the blam.lst in another folder. The only difference is that one you close the online game, you will need to shut down the game and then restart the game and it will be back to normal."
+        }
+      ]
+    },
+    {
+      "name":"Modding for the Shinobi-Gun",
+      "steps":[
+        {
+          "headline":"Open HMT v3.5.",
+          "description":""
+        },
+        {
+          "headline":"Click file, open, then the map of choice (I chose b30, the mission that comes with the Halo Trial-- you may know it as The Silent Cartographer.)",
+          "description":""
+        },
+        {
+          "headline":"Go to the section labeled  \"[eqip]Equipment{X items}\".",
+          "description":"In this case, X is 11."
+        },
+        {
+          "headline":"Click on \"powerups\\active camouflage\".",
+          "description":"Tag information will come up on the selected tag."
+        },
+        {
+          "headline":"Copy the tag meta number (between the buttons \"Swap\" and \"Revert\"\"), but don't paste yet.",
+          "description":""
+        },
+        {
+          "headline":"Head over to \"[proj]Projectile{Y items}\"  In this case, Y is 15.",
+          "description":""
+        },
+        {
+          "headline":"Click on \"weapons\\pistol\\bullet\" and delete the existing tag metanumber, and paste the new one.",
+          "description":"Remember to click the Save button after. That's how you make the Shinobi-Gun, a speciality gun invented by a famous Halo modder."
+        },
+        {
+          "headline":"Shoot the pistol.",
+          "description":"The computer looks up the tag meta number for the pistol bullet with which you would normally mow down a grunt with. But instead, the computer gets the tag meta number for the active camouflage, which activates upon contact with the player. In other words, when the computer normally orders a 9mm round, it blurts out \"one active camo, please\". The result is instant invisibility, ninja-style."
+        }
+      ]
+    },
+    {
+      "name":"Modding for Secure Shell Handling (SSH)",
+      "steps":[
+        {
+          "headline":"Make a folder on your desktop and name it SSH.",
+          "description":""
+        },
+        {
+          "headline":"Make 3 folders in the PMI folder.",
+          "description":"Name them Batch Extract, New Items, and VIB."
+        },
+        {
+          "headline":"Open HMT 3.5 and choose a map.",
+          "description":"For this, we'll use Timberland."
+        },
+        {
+          "headline":"At the top, click Tools -> Extract -> Batch Extract and find the PMI folder, and then the Batch Extract folder.",
+          "description":"Don't forget to check the Extract Metadata box. Click yes to extract the BSP."
+        },
+        {
+          "headline":"Go to Tools -> Extract -> BSP/Model Sections, and extract that to the VIB folder.",
+          "description":""
+        },
+        {
+          "headline":"Open a map that you're going to PMI things from.",
+          "description":"For this tutorial, open up the B30 mission."
+        },
+        {
+          "headline":"Scroll down to the [vehi] tag, open it, click the Pelican tag and at the top check the \"Recursive\" box.",
+          "description":""
+        },
+        {
+          "headline":"Click save meta, save it to the New Items folder.",
+          "description":""
+        },
+        {
+          "headline":"Go to Tools -> Generate Raw Offset.... and save to c:\\WINDOWS\\System32 (or 64).",
+          "description":""
+        },
+        {
+          "headline":"Go to Tools -> De Crap Models.",
+          "description":""
+        },
+        {
+          "headline":"Drag all the folders to Batch Extract.",
+          "description":""
+        },
+        {
+          "headline":"Go to Tools -> Rebuild Map.",
+          "description":""
+        },
+        {
+          "headline":"Find Timberland, click OK, then click \"rebuild\".",
+          "description":""
+        },
+        {
+          "headline":"Click no to everything that pops up.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Download the Mod Tools Download WinRar to extract files. WinRar is a file compressor that lets you make a 14Mb map file about 4 Mb. Find it here. Download Halo's mapping tool, version 3.5. This file is also known as the HMT (Halo Mapping Tool), and was written by MonoxideC, a famous Halo modder. Download SparkEdit for later mods you might make. Sparkedit, written by Grenadiac, lets you open a Halo map file and move things like rocks, trees and vehicles. Find SparkEdit  here. Download PPF-o-matic. PPF-o-matic is a helper application for SparkEdit. Download PPF Studio. This utility allows you to save the changes between a modded map and the original map, making the file size very small. Download HHT later on.  You will need to download the .Net Framework : http://www.microsoft.com/downloads/details.aspx?FamilyId=262D25E3-F589-4842-8157-034D1E7CF3A3&displaylang=en This lets you apply the .ppf that you or someone else made with PPFStudio. If you're playing on a Halo trial, download patches. These will allow you to open the trial maps in SparkEdit. To use them, download PPF-o-matic and patch \"sparkify\" onto \"bloodgulch.map\". When you're done modding it, just patch the \"undo sparkify\" onto the map. Find the patches here. If you're playing the full version of Halo, you don't need the patch. Setting Up to Mod Install WinRar to program files.  Navigate to where you downloaded HMT. Right click on HMT icon and Extract to folder. Click the icon that has a music symbol: Halo Mapping Tools.  Hit File menu on the top left and Select \"Open\".  Navigate to your Halo maps folder and open the map you want to mod. For this tutorial, we will be using Bloodgulch. Changing a Pistol to a Sniper Open the map you want to mod according to the instructions above. The box on the left holds everything in the map. There is also a scroll box to the right of the this window. Scroll down to the bottom. You should see a line that says [Weap] Weapons (20 Items) Double-click on this, and 20 lines of text should expand.  Find the text that says weapons/pistol/pistol.  Click the text once and see the screen change to list the available plug-ins.  Download some plug-ins into this utility section; extract them to your hmt plug-in folder.  Look for text that says something like: Zoom levels 1{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/d\\/d1\\/Mod-a-Halo-Game-Step-20Bullet1.jpg\\/v4-460px-Mod-a-Halo-Game-Step-20Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d1\\/Mod-a-Halo-Game-Step-20Bullet1.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-20Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"707\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Minimum Zoom 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/a\\/aa\\/Mod-a-Halo-Game-Step-20Bullet2.jpg\\/v4-460px-Mod-a-Halo-Game-Step-20Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/a\\/aa\\/Mod-a-Halo-Game-Step-20Bullet2.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-20Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"707\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Maximum Zoom 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/ed\\/Mod-a-Halo-Game-Step-20Bullet3.jpg\\/v4-460px-Mod-a-Halo-Game-Step-20Bullet3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/ed\\/Mod-a-Halo-Game-Step-20Bullet3.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-20Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"707\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Change the text to look like this: Zoom levels 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/eb\\/Mod-a-Halo-Game-Step-21Bullet1.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet1.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/eb\\/Mod-a-Halo-Game-Step-21Bullet1.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet1.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Minimum Zoom 2{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/1\\/11\\/Mod-a-Halo-Game-Step-21Bullet2.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/11\\/Mod-a-Halo-Game-Step-21Bullet2.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet2.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Maximum Zoom 8{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/b\\/ba\\/Mod-a-Halo-Game-Step-21Bullet3.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet3.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/ba\\/Mod-a-Halo-Game-Step-21Bullet3.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet3.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  What this does is increases the zoom level of the weapon; we just gave the pistol the zoom level of the sniper. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/e\\/e9\\/Mod-a-Halo-Game-Step-21Bullet4.jpg\\/v4-460px-Mod-a-Halo-Game-Step-21Bullet4.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/e\\/e9\\/Mod-a-Halo-Game-Step-21Bullet4.jpg\\/aid61089-v4-707px-Mod-a-Halo-Game-Step-21Bullet4.jpg\",\"smallWidth\":460,\"smallHeight\":364,\"bigWidth\":\"708\",\"bigHeight\":\"560\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"} Projectile Swapping Scroll up until you find a line of text that says, [proj] Projectile (21 items).  Double click on this and scroll down until you see a line of text that says, Weapons/shotgun/pellet.  Click once on this text.  Go to the top of the screen where you should see some text and drop-down boxes, under text that says, Tag Editor.  Click the button that says Swap. It will open up a window at the same place. Scroll down until you find text with a bunch of numbers and letters that says Vehicles/scorpion/tank shell.  Double-click on this text, and return back to the projectile box.  Hit the button that says Save and you have made your first mod. You will probably want to wait until you get more experienced with modding to post a mod as these mods are easy for the more experienced so your mod will be looked down on, and probably flamed. Making a Pistol to Shoot Master Chiefs Open Blood Gulch with HMT.  Near the top you will see text that says [bipd] bidped (2 items). Double-click the text. Select the text that says characters/cyborg/cyborg and at the top of the screen  Under tag information, there will be a box that has these etters/numbers in it: B7F240. Copy this text. Click on [proj] Projectiles (21 items) and Scroll down to weapons\\pistol\\bullet and click.  Paste the numbers and letters you copied from the Master Chief biped into the box.  Click the Save button and play Blood Gulch.  Verify your pistol shoots Master Chiefs. This mod technique can be applied for a lot of things. The next mod we will make is a good example. Changing the Game Type Get new game modes in the Halo Trial. You may have wondered before how to get new game modes: Team Slayer, King of the Hill, Juggernaut. Here's how to do it. Start the Halo Trial as usual.  Go to Multiplayer and create a game.  See Slayer and CTF on the select a game screen.Click on CTF but do not click OK and do not double-click. Just select CTF. Hold down ALT and hit the Tab key or Press (Ctrl + Esc) to come out of fullscreen game. Now, you should see Computer's Desktop screen again. Go to My Documents>My Games>Halo Trail>Saved>Playlists>Default_Playlists>32.  Double-click that and you should see some weird file called blam.lst. Copy that by right-clicking and selecting Copy. Open My Computer>C:drive OR Desktop again and paste to make a back-up copy of CTF.  Return to the place where there are those numbered folders 00-37 and open Folder 34.  Right-click on the blam.lst and select Copy.  Return to the numbered folders list and open Folder 32 again.  Paste file and when it prompts: \"Do you want to overwrite?\" click OK. Press ALT and Tab again or Maximize Halo screen. Now you're back at the Halo screen. Hit OK and select the settings and everything for your new game.  Choose different modes. What you did in the previous steps was essentially replace the information the file available to you (CTF, or Folder 32) with information from a file unavailable to you (Team Slayer, or Folder 34). You'll always paste the information into Folder 32. To access these different modes, copy the information out of the folder number listed and paste into Folder 32. '00' for Classic Slayer (original)\n'01' for Classic Slayer Pro\n'02' for Classic Elimination\n'03' for Classic Phantom\n'04' for Classic Endurance\n'05' for Classic Rockets\n'06' for Classic Snipers\n'07' for Classic Oddball\n'08' for Classic Reverse Tag\n'09' for Classic Accumulate\n'10' for Classic Juggernaut\n'11' for Classic Stalker\n'12' for Classic King\n'13' for Classic King Pro\n'14' for Classic Crazy King\n'15' for Classic Race\n'16' for Classic Rally\n'17' for Classic CTF\n'18' for Classic Invasion\n'19' for Classic Iron CTF\n'20' for Classic CTF Pro\n'21' for Classic Team Race\n'22' for Classic Team Rally\n'23' for Classic Team Ball\n'24' for Classic Team King\n'25' for Classic Team Slayer\n'26' for Slayer\n'27' for Oddball\n'28' for Juggernaut\n'29' for King\n'30' for Crazy King\n'31' for Race\n'32' for CTF (original)\n'33' for Assault\n'34' for Team Slayer\n'35' for Team Oddball\n'36' for Team King\n'37' for Team Race Note that you will have to close and restart the game while in online mode to switch between more than 2 game types. You do not have to save the blam.lst in another folder. The only difference is that one you close the online game, you will need to shut down the game and then restart the game and it will be back to normal. Modding for the Shinobi-Gun Open HMT v3.5.  Click file, open, then the map of choice (I chose b30, the mission that comes with the Halo Trial-- you may know it as The Silent Cartographer.)  Go to the section labeled  \"[eqip]Equipment{X items}\". In this case, X is 11. Click on \"powerups\\active camouflage\". Tag information will come up on the selected tag. Copy the tag meta number (between the buttons \"Swap\" and \"Revert\"\"), but don't paste yet.  Head over to \"[proj]Projectile{Y items}\"  In this case, Y is 15.  Click on \"weapons\\pistol\\bullet\" and delete the existing tag metanumber, and paste the new one. Remember to click the Save button after. That's how you make the Shinobi-Gun, a speciality gun invented by a famous Halo modder. Shoot the pistol. The computer looks up the tag meta number for the pistol bullet with which you would normally mow down a grunt with. But instead, the computer gets the tag meta number for the active camouflage, which activates upon contact with the player. In other words, when the computer normally orders a 9mm round, it blurts out \"one active camo, please\". The result is instant invisibility, ninja-style. Modding for Secure Shell Handling (SSH) Make a folder on your desktop and name it SSH.  Make 3 folders in the PMI folder. Name them Batch Extract, New Items, and VIB. Open HMT 3.5 and choose a map. For this, we'll use Timberland. At the top, click Tools -> Extract -> Batch Extract and find the PMI folder, and then the Batch Extract folder. Don't forget to check the Extract Metadata box. Click yes to extract the BSP. Go to Tools -> Extract -> BSP/Model Sections, and extract that to the VIB folder.  Open a map that you're going to PMI things from. For this tutorial, open up the B30 mission. Scroll down to the [vehi] tag, open it, click the Pelican tag and at the top check the \"Recursive\" box.  Click save meta, save it to the New Items folder.  Go to Tools -> Generate Raw Offset.... and save to c:\\WINDOWS\\System32 (or 64).  Go to Tools -> De Crap Models.  Drag all the folders to Batch Extract.  Go to Tools -> Rebuild Map.  Find Timberland, click OK, then click \"rebuild\".  Click no to everything that pops up. ",
+  "tyn_model":[
+    "pistol",
+    "slayer",
+    "file compressor",
+    "ppf studio",
+    "halo",
+    "bloodgulch",
+    "shotgun",
+    "pellet",
+    "projectile",
+    "games",
+    "computer",
+    "shinobi-gun",
+    "secure shell handling",
+    "map",
+    "tools",
+    "timberland"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "title":"How to Solve a Sudoku",
+  "url":"https://www.wikihow.com/Solve-a-Sudoku",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games",
+    "Mathematical Puzzles",
+    "Sudoku"
+  ],
+  "methods":[
+    {
+      "name":"Figuring Out the Basics",
+      "steps":[
+        {
+          "headline":"Learn the setup.",
+          "description":"In a typical sudoku, you'll have a square grid of 9 large squares. Inside each of those larger squares will be 9 smaller squares. When faced with a puzzle, some of those smaller squares will be filled in with numbers from 1 to 9. More difficult puzzles will have fewer squares filled in. The larger squares are often outlined with a darker line, while the smaller squares have a thinner line. Also, sometimes the larger squares will be colored in a checkerboard pattern."
+        },
+        {
+          "headline":"Line up the rows and columns.",
+          "description":"One basic rule of the game is every column and row must have all of the numbers from 1 to 9. That means that within a row or column, a number cannot repeat."
+        },
+        {
+          "headline":"Pay attention to the numbers in the large squares.",
+          "description":"Similarly, in each of the 9 large squares, every number from 1 to 9 must appear. Once again, that means that each number can only appear once, as there's only 9 smaller squares in each larger square. So, if a large square already has the number \u201c2\u201d in it, you know it can\u2019t include another number \u201c2\u201d anywhere in the square."
+        },
+        {
+          "headline":"Use a pencil instead of a pen.",
+          "description":"As a new sudoku player, you're going to make mistakes, and with a pen, you'll end up with a mess of a board. Instead, use a pencil so you can erase your mistakes."
+        }
+      ]
+    },
+    {
+      "name":"Starting with Easy Hints",
+      "steps":[
+        {
+          "headline":"Look for a single empty in a larger square.",
+          "description":"Check each square to see if it has a single square open. If it does, it's easy to fill in. Just figure out what number is missing from 1 to 9. For example, if a larger square has numbers 1-3 and 5-9, you know it's missing the number \"4,\" which you can fill in."
+        },
+        {
+          "headline":"Check for singular empty squares in the rows and columns.",
+          "description":"Run your finger down each row and column to see if any of them only have 1 square open. If a row does, figure out which number from 1 to 9 is missing in that row or column and fill it in. If a column has numbers 1-7 and 9, you know it's missing the number \"8,\" which you can fill in."
+        },
+        {
+          "headline":"Scan rows or columns to fill in larger squares.",
+          "description":"Look at a row of 3 large squares. Check for a number that's repeated 2 times in different squares. Run your fingers along the rows that contain that number. The third large square must contain the same number, but it can't be in 1 of the 2 rows you're tracing. It must be in the third row. Sometimes, 2 other numbers will be in that row, so you can easily fill in the number you're scanning. If \"8\" is repeated in 2 squares, look for that number in the third square. Run your finger down the rows with each \"8,\" as you know the \"8\" can't be in those rows in the third large square."
+        },
+        {
+          "headline":"Add the opposite direction.",
+          "description":"Once you've got the hang of scanning across just rows or columns, add the other direction as well. Take the previous example with a slight difference. When you get to the third square, it only has 1 number filled in in the open row. In that case, trace down the columns. See if the number you're trying to fill in is in 1 of the columns. In that case, you know it can't go in that column and must go in the other one."
+        },
+        {
+          "headline":"Work in groups of numbers.",
+          "description":"That is, if you see that you have a lot of one number on the board, it can help to start trying to fill in the rest of that number. Say you have a large number of 5s on the board. Use your scanning techniques to fill in as many 5s as you can."
+        }
+      ]
+    },
+    {
+      "name":"Using More Difficult Techniques",
+      "steps":[
+        {
+          "headline":"Look at a set of 3 large squares.",
+          "description":"Another option is to include 3 of the large squares in a row or column in your analysis. Pick 1 number, and see if you can place it across all 3 squares. For instance, take the number \"6.\" See which rows and columns already have 6s, and use that to scan across to the 3 large squares you're looking at. Based on that information and what you have in the squares, try to place as many of the 6s as you can."
+        },
+        {
+          "headline":"Pencil in numbers.",
+          "description":"As puzzles get more difficult, you'll find that just using the above techniques won't always solve the puzzle. In those cases, you need to start filling in what numbers could possibly go in each square. When you get a possibility, place it in the corner of a small square in pencil. You may have as many as 3 or 4 numbers penciled in as you try to solve the puzzle. As you work, you may notice certain squares only have 1 number, and you may be able to fill in that number permanently."
+        },
+        {
+          "headline":"Recheck often.",
+          "description":"As you fill in numbers, go back over the puzzle to figure out spaces you had to leave blank before. Once you've filled in new numbers, you may be able to figure out those spaces. As you recheck the blank spaces, go through the techniques again to help fill in numbers."
+        }
+      ]
+    }
+  ],
+  "text":" Figuring Out the Basics Learn the setup. In a typical sudoku, you'll have a square grid of 9 large squares. Inside each of those larger squares will be 9 smaller squares. When faced with a puzzle, some of those smaller squares will be filled in with numbers from 1 to 9. More difficult puzzles will have fewer squares filled in. The larger squares are often outlined with a darker line, while the smaller squares have a thinner line. Also, sometimes the larger squares will be colored in a checkerboard pattern. Line up the rows and columns. One basic rule of the game is every column and row must have all of the numbers from 1 to 9. That means that within a row or column, a number cannot repeat. Pay attention to the numbers in the large squares. Similarly, in each of the 9 large squares, every number from 1 to 9 must appear. Once again, that means that each number can only appear once, as there's only 9 smaller squares in each larger square. So, if a large square already has the number \u201c2\u201d in it, you know it can\u2019t include another number \u201c2\u201d anywhere in the square. Use a pencil instead of a pen. As a new sudoku player, you're going to make mistakes, and with a pen, you'll end up with a mess of a board. Instead, use a pencil so you can erase your mistakes. Starting with Easy Hints Look for a single empty in a larger square. Check each square to see if it has a single square open. If it does, it's easy to fill in. Just figure out what number is missing from 1 to 9. For example, if a larger square has numbers 1-3 and 5-9, you know it's missing the number \"4,\" which you can fill in. Check for singular empty squares in the rows and columns. Run your finger down each row and column to see if any of them only have 1 square open. If a row does, figure out which number from 1 to 9 is missing in that row or column and fill it in. If a column has numbers 1-7 and 9, you know it's missing the number \"8,\" which you can fill in. Scan rows or columns to fill in larger squares. Look at a row of 3 large squares. Check for a number that's repeated 2 times in different squares. Run your fingers along the rows that contain that number. The third large square must contain the same number, but it can't be in 1 of the 2 rows you're tracing. It must be in the third row. Sometimes, 2 other numbers will be in that row, so you can easily fill in the number you're scanning. If \"8\" is repeated in 2 squares, look for that number in the third square. Run your finger down the rows with each \"8,\" as you know the \"8\" can't be in those rows in the third large square. Add the opposite direction. Once you've got the hang of scanning across just rows or columns, add the other direction as well. Take the previous example with a slight difference. When you get to the third square, it only has 1 number filled in in the open row. In that case, trace down the columns. See if the number you're trying to fill in is in 1 of the columns. In that case, you know it can't go in that column and must go in the other one. Work in groups of numbers. That is, if you see that you have a lot of one number on the board, it can help to start trying to fill in the rest of that number. Say you have a large number of 5s on the board. Use your scanning techniques to fill in as many 5s as you can. Using More Difficult Techniques Look at a set of 3 large squares. Another option is to include 3 of the large squares in a row or column in your analysis. Pick 1 number, and see if you can place it across all 3 squares. For instance, take the number \"6.\" See which rows and columns already have 6s, and use that to scan across to the 3 large squares you're looking at. Based on that information and what you have in the squares, try to place as many of the 6s as you can. Pencil in numbers. As puzzles get more difficult, you'll find that just using the above techniques won't always solve the puzzle. In those cases, you need to start filling in what numbers could possibly go in each square. When you get a possibility, place it in the corner of a small square in pencil. You may have as many as 3 or 4 numbers penciled in as you try to solve the puzzle. As you work, you may notice certain squares only have 1 number, and you may be able to fill in that number permanently. Recheck often. As you fill in numbers, go back over the puzzle to figure out spaces you had to leave blank before. Once you've filled in new numbers, you may be able to figure out those spaces. As you recheck the blank spaces, go through the techniques again to help fill in numbers.",
+  "tyn_model":[
+    "pencil",
+    "\u201c2",
+    "pen",
+    "sudoku",
+    "puzzle",
+    "checkerboard pattern",
+    "\u201d in",
+    "\u201d anywhere",
+    "sudoku player",
+    "scanning"
+  ],
+  "tyn_section":[
+
+  ]
+}

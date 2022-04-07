@@ -1,0 +1,57 @@
+{
+  "title":"How to Create a CMD Adventure",
+  "url":"https://www.wikihow.com/Create-a-CMD-Adventure",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "steps":[
+    {
+      "headline":"Learn Some Batch.",
+      "description":"This will be easy; it will only take 5-10 minutes to learn. Most of the programming needed for this is explained in other articles like \"How to Create a Small Game in Batch\". Again, don't be worried about this step, for Batch is so easy a 10-year-old can learn it."
+    },
+    {
+      "headline":"Get a Basic Idea of Your Game.",
+      "description":"This part is crucial, but pretty easy. Just come up with things like the name of it, genre, etc."
+    },
+    {
+      "headline":"Begin.",
+      "description":"Create a new folder (preferably on your desktop) with the name of your game. Don't use any special characters or spaces, only letters, dashes, and underscores. An example is: \"mazes_and_monsters\". This way, Command Prompt will be able to open it."
+    },
+    {
+      "headline":"Make The First File.",
+      "description":"Open up Notepad, and write something similar to this:\n@echo off\n\n:start\necho Mazes and Monsters\necho The MS-DOS Adventure\necho\necho Underground Cavern\necho You awaken in an underground cavern. echo"
+    },
+    {
+      "headline":"After that is done, save it as START.bat, RESTART.bat, etc.",
+      "description":"and put it in the game file."
+    },
+    {
+      "headline":"Create Commands for Your Game.",
+      "description":"To do this, make a batch file for each command and place them in the game file. Like EXAMINE.bat. It  would look something like this:\n@echo off\n\nif \"%1\" == \"torch\" goto torch\nif \"%1\" == \"tree\" goto tree\n:torch\necho The torch is lit, and spreads light across the room. echo. :tree\necho It is a tree. echo."
+    },
+    {
+      "headline":"\"if \"%1\" == \"torch\" goto torch\" is if they were to enter \"examine torch\".",
+      "description":"This does not have to be here. If it is a command that is not used on certain objects, it could look like this:\n@echo off\n\n:start\necho You are in a dim cavern. You see a hallway going to the right and one to the left. echo. :left door\necho The wooden door is barged shut and locked. echo. So, if you were to enter that command while you were accessing the :start label, it would show \"You are in a dim cavern. You see a hallway going to the right and one to the left,\" yet if you were to enter \"examine\" while accessing the :left door label, it would show \"The wooden door is barged shut and locked.\""
+    },
+    {
+      "headline":"Start the Game.",
+      "description":"Once you're finished with most or the entire game, you'll want to test it. Open Command Prompt, make your way to your game file and open it. Remember when we created the \"START.bat\" file? We're almost to that. Now, type @echo off, cls, and \"start\". That will take you to that file, and voila. Try to enter the different commands, test some other things, etc."
+    },
+    {
+      "headline":"Once you near completion, add a README.txt file explaining the game and instructions to starting it in the game file.",
+      "description":"Then you're ready to go ahead and upload the game file to the World Wide Web."
+    }
+  ],
+  "text":" Learn Some Batch. This will be easy; it will only take 5-10 minutes to learn. Most of the programming needed for this is explained in other articles like \"How to Create a Small Game in Batch\". Again, don't be worried about this step, for Batch is so easy a 10-year-old can learn it. Get a Basic Idea of Your Game. This part is crucial, but pretty easy. Just come up with things like the name of it, genre, etc. Begin. Create a new folder (preferably on your desktop) with the name of your game. Don't use any special characters or spaces, only letters, dashes, and underscores. An example is: \"mazes_and_monsters\". This way, Command Prompt will be able to open it. Make The First File. Open up Notepad, and write something similar to this:\n@echo off\n\n:start\necho Mazes and Monsters\necho The MS-DOS Adventure\necho\necho Underground Cavern\necho You awaken in an underground cavern. echo After that is done, save it as START.bat, RESTART.bat, etc. and put it in the game file. Create Commands for Your Game. To do this, make a batch file for each command and place them in the game file. Like EXAMINE.bat. It  would look something like this:\n@echo off\n\nif \"%1\" == \"torch\" goto torch\nif \"%1\" == \"tree\" goto tree\n:torch\necho The torch is lit, and spreads light across the room. echo. :tree\necho It is a tree. echo. \"if \"%1\" == \"torch\" goto torch\" is if they were to enter \"examine torch\". This does not have to be here. If it is a command that is not used on certain objects, it could look like this:\n@echo off\n\n:start\necho You are in a dim cavern. You see a hallway going to the right and one to the left. echo. :left door\necho The wooden door is barged shut and locked. echo. So, if you were to enter that command while you were accessing the :start label, it would show \"You are in a dim cavern. You see a hallway going to the right and one to the left,\" yet if you were to enter \"examine\" while accessing the :left door label, it would show \"The wooden door is barged shut and locked.\" Start the Game. Once you're finished with most or the entire game, you'll want to test it. Open Command Prompt, make your way to your game file and open it. Remember when we created the \"START.bat\" file? We're almost to that. Now, type @echo off, cls, and \"start\". That will take you to that file, and voila. Try to enter the different commands, test some other things, etc. Once you near completion, add a README.txt file explaining the game and instructions to starting it in the game file. Then you're ready to go ahead and upload the game file to the World Wide Web.",
+  "tyn_model":[
+    "torch",
+    "command prompt",
+    "notepad",
+    "ms-dos"
+  ],
+  "tyn_section":[
+
+  ]
+}

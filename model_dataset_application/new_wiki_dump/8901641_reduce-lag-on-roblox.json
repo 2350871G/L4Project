@@ -1,0 +1,234 @@
+{
+  "title":"How to Reduce Lag on Roblox",
+  "url":"https://www.wikihow.com/Reduce-Lag-on-Roblox",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Roblox"
+  ],
+  "methods":[
+    {
+      "name":"Reducing the Graphics Quality in Roblox",
+      "steps":[
+        {
+          "headline":"Launch any Roblox game.",
+          "description":"To launch a Roblox game, go to https://www.roblox.com/home, and click any game on the page. This displays the game information page."
+        },
+        {
+          "headline":"Click the Play button.",
+          "description":"It's the green button with a play triangle to the right of the game image on the game information page. This launches the game in the Roblox player. If you don't have the Roblox Player installed, a window will pop-up in the center of the screen. Click Download and Install Roblox in the center of the window to download the installer. Then click the install file to install the Roblox Player."
+        },
+        {
+          "headline":"Press Esc or click \u2630.",
+          "description":"It's the button with three horizontal lines in the upper-left corner of the screen. This displays the menu."
+        },
+        {
+          "headline":"Click the Settings tab {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":760,\"bigHeight\":735.483870967742,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}.",
+          "description":"It's the second tab at the top of the page. This displays the Settings menu."
+        },
+        {
+          "headline":"Set Graphics Mode to \"Manual\".",
+          "description":"Click the arrows next to \"Graphics Mode\" to toggle between \"Automatic\" and \"Manual\". When Graphics Mode is set to \"Automatic\", Roblox automatically optimizes the graphics quality for your computer. Setting it to \"Manual\" allows you to set the graphics quality yourself."
+        },
+        {
+          "headline":"Lower the Graphics Quality.",
+          "description":"To lower the graphics quality setting, click the button with the minus sign (-) next to \"Graphics Quality\" in the \"Settings\" menu. This lowers the graphics quality by one bar. The graphics quality is lowest when there is only one blue bar."
+        }
+      ]
+    },
+    {
+      "name":"Improving Your Internet Connection",
+      "steps":[
+        {
+          "headline":"Restart your modem or router.",
+          "description":"Roblox is an online game. If you have a poor internet connection, it can affect your game. If your internet connection is lagging, unplug your modem or router and plug it back in to restart it. Then wait a few minutes for it to reboot."
+        },
+        {
+          "headline":"Shut down all apps and internet-connected devices.",
+          "description":"If you have a large number of other apps running while you play Roblox, close these apps. Also turn off any smartphones, tablets, video game consoles or video streaming devices that are connected to your network."
+        },
+        {
+          "headline":"Use an ethernet connection.",
+          "description":"If you are connecting to the internet wirelessly, you can get a more stable connection if you use a wired connection. Connect an Ethernet cable to one of the LAN ports on your modem or router an ethernet port on your desktop computer or laptop."
+        },
+        {
+          "headline":"Upgrade your modem and/or router.",
+          "description":"If your modem or router is more than 3 years old, you may want to upgrade your modem or router. Some modems and routers support faster internet speeds."
+        },
+        {
+          "headline":"Upgrade your internet plan.",
+          "description":"If you are still experiencing slow internet speeds, you may need to contact your internet service provider and see if they offer a faster internet plan. You may be able to upgrade to a faster internet plan."
+        }
+      ]
+    },
+    {
+      "name":"Improving Your Computer Specs",
+      "steps":[
+        {
+          "headline":"Update your Graphics Card.",
+          "description":"Roblox recommends you use an AMD Radeon R7 240 with 2GB GPU or equivalent and above as your graphics card. If you have a desktop computer that is older than 5 years, or a laptop older than 3 years, you may need to upgrade your computer hardware. You can install a new graphics card yourself, or hire a computer professional to install it for you."
+        },
+        {
+          "headline":"Upgrade your computer processor.",
+          "description":"Roblox recommends a computer processor that has a clock speed of 1.6 GHz or better and no older than 2005. You can install a new processor yourself, or hire a computer professional to install it for you."
+        },
+        {
+          "headline":"Add more RAM to your computer.",
+          "description":"Roblox recommends at least 1 GB of RAM. Each computer requires a different type of RAM chip. Once you identify the type of RAM chip your computer needs, they're pretty easy to install. You just need to open your computer and insert them in their proper place."
+        }
+      ]
+    },
+    {
+      "name":"Deleting Textures On Windows",
+      "steps":[
+        {
+          "headline":"Click the Windows Start menu {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":760,\"bigHeight\":760,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}.",
+          "description":"It's the icon with the Windows logo in the lower-left corner in the Windows taskbar."
+        },
+        {
+          "headline":"Type Run.",
+          "description":"This searches for the Run app."
+        },
+        {
+          "headline":"Click Run.",
+          "description":"It's at the top of the Windows Start menu when you search \"Run\". It has an icon that resembles a blue rectangle inside another rectangle."
+        },
+        {
+          "headline":"Type in %appdata% in the Run app and press \u21b5 Enter.",
+          "description":"This opens the Appdata/roaming folder in Windows Explorer."
+        },
+        {
+          "headline":"Click AppData in the address bar at the top.",
+          "description":"It's behind \"Roaming\" in the Windows Explorer address bar. This takes you back one folder to the \"AppData\" folder in Windows Explorer. You should see three folders labeled \"Local\", \"LocalLow\", and \"Roaming\"."
+        },
+        {
+          "headline":"Open the Local folder.",
+          "description":"It's the first folder at the top in the AppData folder. Double-click it to open it."
+        },
+        {
+          "headline":"Open the Roblox folder.",
+          "description":"Folders are listed in alphabetical order. When you locate the Roblox folder, double-click it to open it."
+        },
+        {
+          "headline":"Open the Versions folder.",
+          "description":"When you locate the \"Versions\" folder, double-click it to open it."
+        },
+        {
+          "headline":"Click the latest version folder.",
+          "description":"The is named \"Version-\" with a version number at the end of it. For example, \"version-3869b9a252924b06\". Double-click this folder to open it."
+        },
+        {
+          "headline":"Open the PlatformContent folder.",
+          "description":"When you locate the \"PlatformContent\" folder, double-click it to open it."
+        },
+        {
+          "headline":"Open the PC folder.",
+          "description":"When you locate the PC folder, double-click it to open it."
+        },
+        {
+          "headline":"Open the textures folder.",
+          "description":"It's the last folder in the PC folder."
+        },
+        {
+          "headline":"Delete all folders.",
+          "description":"The \"textures\" folder contains a number of folders. It also contains two files called \"studs\" and \"wangIndex\". Do not delete the \"Studs\" or \"wangIndex\" files. Hold Ctrl and click every other folder to select them. Then press Delete to remove the files."
+        },
+        {
+          "headline":"Empty your recycling bin.",
+          "description":"The recycling bin is the icon that resembles a trashcan on your desktop. Right-click it and click Empty recycling bin to empty the recycling bin."
+        },
+        {
+          "headline":"Play a ROBLOX game.",
+          "description":"Without textures, the game should run a little bit smoother. However, some objects may also look a little bit dull."
+        }
+      ]
+    },
+    {
+      "name":"Deleting Textures on Mac",
+      "steps":[
+        {
+          "headline":"Open the Finder {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"smallWidth\":460,\"smallHeight\":431,\"bigWidth\":760,\"bigHeight\":712.5,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a macOS icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}.",
+          "description":"It has a blue and white icon that resembles a smiley face. It's in the Dock at the bottom of the screen."
+        },
+        {
+          "headline":"Click the Applications folder.",
+          "description":"It's in the sidebar to the left in the Finder window."
+        },
+        {
+          "headline":"Right-click Roblox.app.",
+          "description":"It's in the Applications folder. This displays a menu to the right of Roblox.app. If you are using a trackpad or a magic mouse, you can right-click by clicking with two fingers."
+        },
+        {
+          "headline":"Click Show Package Contents.",
+          "description":"It's the second option in the menu that appears when you right-click an app in the Applications folder. This displays the app files and folders."
+        },
+        {
+          "headline":"Double-click Contents.",
+          "description":"It's the folder that appears at the top of the window when you display the package contents."
+        },
+        {
+          "headline":"Double-click the Resources folder.",
+          "description":"All folders are listed in alphabetical order. When you locate the \"Resources\" folder, double-click it to open."
+        },
+        {
+          "headline":"Open the PlatformContents folder.",
+          "description":"When you locate the Platform Contents folder in the Resources folder, double-click it to open it."
+        },
+        {
+          "headline":"Open the PC folder.",
+          "description":"It's in the \"PlatformContent\" folder. Double-click it to open it."
+        },
+        {
+          "headline":"Open the textures folder.",
+          "description":"It's the last folder in the \"PC\" folder. Double-click it to open it."
+        },
+        {
+          "headline":"Delete all folders.",
+          "description":"The \"textures\" folder contains a number of folders. It also contains two files called \"studs\" and \"wangIndex\". Do not delete the \"Studs\" or \"wangIndex\" files. Hold \u2318 Command and click every other folder to select them. Then press Delete to remove the files."
+        },
+        {
+          "headline":"Empty the trash.",
+          "description":"The trash is the icon that resembles a while trashcan in the dock. Right-click this icon and click Empty trash to empty the trash."
+        },
+        {
+          "headline":"Play a ROBLOX game.",
+          "description":"Without textures, the game should run a little bit smoother. However, some objects may look a little bit dull."
+        }
+      ]
+    }
+  ],
+  "text":" Reducing the Graphics Quality in Roblox Launch any Roblox game. To launch a Roblox game, go to https://www.roblox.com/home, and click any game on the page. This displays the game information page. Click the Play button. It's the green button with a play triangle to the right of the game image on the game information page. This launches the game in the Roblox player. If you don't have the Roblox Player installed, a window will pop-up in the center of the screen. Click Download and Install Roblox in the center of the window to download the installer. Then click the install file to install the Roblox Player. Press Esc or click \u2630. It's the button with three horizontal lines in the upper-left corner of the screen. This displays the menu. Click the Settings tab {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":760,\"bigHeight\":735.483870967742,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}. It's the second tab at the top of the page. This displays the Settings menu. Set Graphics Mode to \"Manual\". Click the arrows next to \"Graphics Mode\" to toggle between \"Automatic\" and \"Manual\". When Graphics Mode is set to \"Automatic\", Roblox automatically optimizes the graphics quality for your computer. Setting it to \"Manual\" allows you to set the graphics quality yourself. Lower the Graphics Quality. To lower the graphics quality setting, click the button with the minus sign (-) next to \"Graphics Quality\" in the \"Settings\" menu. This lowers the graphics quality by one bar. The graphics quality is lowest when there is only one blue bar. Improving Your Internet Connection Restart your modem or router. Roblox is an online game. If you have a poor internet connection, it can affect your game. If your internet connection is lagging, unplug your modem or router and plug it back in to restart it. Then wait a few minutes for it to reboot. Shut down all apps and internet-connected devices. If you have a large number of other apps running while you play Roblox, close these apps. Also turn off any smartphones, tablets, video game consoles or video streaming devices that are connected to your network. Use an ethernet connection. If you are connecting to the internet wirelessly, you can get a more stable connection if you use a wired connection. Connect an Ethernet cable to one of the LAN ports on your modem or router an ethernet port on your desktop computer or laptop. Upgrade your modem and/or router. If your modem or router is more than 3 years old, you may want to upgrade your modem or router. Some modems and routers support faster internet speeds. Upgrade your internet plan. If you are still experiencing slow internet speeds, you may need to contact your internet service provider and see if they offer a faster internet plan. You may be able to upgrade to a faster internet plan. Improving Your Computer Specs Update your Graphics Card. Roblox recommends you use an AMD Radeon R7 240 with 2GB GPU or equivalent and above as your graphics card. If you have a desktop computer that is older than 5 years, or a laptop older than 3 years, you may need to upgrade your computer hardware. You can install a new graphics card yourself, or hire a computer professional to install it for you. Upgrade your computer processor. Roblox recommends a computer processor that has a clock speed of 1.6 GHz or better and no older than 2005. You can install a new processor yourself, or hire a computer professional to install it for you. Add more RAM to your computer. Roblox recommends at least 1 GB of RAM. Each computer requires a different type of RAM chip. Once you identify the type of RAM chip your computer needs, they're pretty easy to install. You just need to open your computer and insert them in their proper place. Deleting Textures On Windows Click the Windows Start menu {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":760,\"bigHeight\":760,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}. It's the icon with the Windows logo in the lower-left corner in the Windows taskbar. Type Run. This searches for the Run app. Click Run. It's at the top of the Windows Start menu when you search \"Run\". It has an icon that resembles a blue rectangle inside another rectangle. Type in %appdata% in the Run app and press \u21b5 Enter. This opens the Appdata/roaming folder in Windows Explorer. Click AppData in the address bar at the top. It's behind \"Roaming\" in the Windows Explorer address bar. This takes you back one folder to the \"AppData\" folder in Windows Explorer. You should see three folders labeled \"Local\", \"LocalLow\", and \"Roaming\". Open the Local folder. It's the first folder at the top in the AppData folder. Double-click it to open it. Open the Roblox folder. Folders are listed in alphabetical order. When you locate the Roblox folder, double-click it to open it. Open the Versions folder. When you locate the \"Versions\" folder, double-click it to open it. Click the latest version folder. The is named \"Version-\" with a version number at the end of it. For example, \"version-3869b9a252924b06\". Double-click this folder to open it. Open the PlatformContent folder. When you locate the \"PlatformContent\" folder, double-click it to open it. Open the PC folder. When you locate the PC folder, double-click it to open it. Open the textures folder. It's the last folder in the PC folder. Delete all folders. The \"textures\" folder contains a number of folders. It also contains two files called \"studs\" and \"wangIndex\". Do not delete the \"Studs\" or \"wangIndex\" files. Hold Ctrl and click every other folder to select them. Then press Delete to remove the files. Empty your recycling bin. The recycling bin is the icon that resembles a trashcan on your desktop. Right-click it and click Empty recycling bin to empty the recycling bin. Play a ROBLOX game. Without textures, the game should run a little bit smoother. However, some objects may also look a little bit dull. Deleting Textures on Mac Open the Finder {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"smallWidth\":460,\"smallHeight\":431,\"bigWidth\":760,\"bigHeight\":712.5,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a macOS icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. It has a blue and white icon that resembles a smiley face. It's in the Dock at the bottom of the screen. Click the Applications folder. It's in the sidebar to the left in the Finder window. Right-click Roblox.app. It's in the Applications folder. This displays a menu to the right of Roblox.app. If you are using a trackpad or a magic mouse, you can right-click by clicking with two fingers. Click Show Package Contents. It's the second option in the menu that appears when you right-click an app in the Applications folder. This displays the app files and folders. Double-click Contents. It's the folder that appears at the top of the window when you display the package contents. Double-click the Resources folder. All folders are listed in alphabetical order. When you locate the \"Resources\" folder, double-click it to open. Open the PlatformContents folder. When you locate the Platform Contents folder in the Resources folder, double-click it to open it. Open the PC folder. It's in the \"PlatformContent\" folder. Double-click it to open it. Open the textures folder. It's the last folder in the \"PC\" folder. Double-click it to open it. Delete all folders. The \"textures\" folder contains a number of folders. It also contains two files called \"studs\" and \"wangIndex\". Do not delete the \"Studs\" or \"wangIndex\" files. Hold \u2318 Command and click every other folder to select them. Then press Delete to remove the files. Empty the trash. The trash is the icon that resembles a while trashcan in the dock. Right-click this icon and click Empty trash to empty the trash. Play a ROBLOX game. Without textures, the game should run a little bit smoother. However, some objects may look a little bit dull.",
+  "tyn_model":[
+    "modem",
+    "ram",
+    "roblox player",
+    "router",
+    "windows explorer",
+    "textures",
+    "roblox",
+    "graphics card",
+    "computer professional",
+    "computer processor",
+    "\u2630.",
+    "roblox automatically",
+    "ethernet connection",
+    "ethernet cable",
+    "ethernet port",
+    "modems",
+    "routers",
+    "internet service provider",
+    "amd radeon",
+    "\u21b5 enter",
+    "recycling bin",
+    "finder",
+    "parser",
+    "\u2318 command",
+    "trash"
+  ],
+  "tyn_section":[
+
+  ]
+}

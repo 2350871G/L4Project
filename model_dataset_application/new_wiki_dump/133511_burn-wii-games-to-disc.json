@@ -1,0 +1,341 @@
+{
+  "title":"How to Burn Wii Games to Disc",
+  "url":"https://www.wikihow.com/Burn-Wii-Games-to-Disc",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Wii"
+  ],
+  "parts":[
+    {
+      "name":"Modding Your Wii",
+      "steps":[
+        {
+          "headline":"Install the Homebrew Channel to rip and play games.",
+          "description":"Whether you plan on ripping games using your Wii or ripping them with your PC, your Wii will still need to be modded in order to play ripped games. You can install the Homebrew Channel using a special exploit called \"Letterbomb.\""
+        },
+        {
+          "headline":"Update your Wii to the latest available version.",
+          "description":"You'll need to be running the final version of the Wii software (4.3) that was released in September 2010. This is required in order for the exploit to work. Select the \"Wii\" button from the Wii main menu. Select \"Wii Settings\" and then \"Wii System Settings.\" Select \"Wii System Update\" from the third page. Select \"Yes\" and then \"I Accept\" to begin downloading and installing the system update."
+        },
+        {
+          "headline":"Get an SD card that is 2 GB or smaller.",
+          "description":"You'll need an SD card that is 2 GB or smaller in order to successfully mod your Wii. The card should be a standard SD card, not SDHC or SDXC. Check the list at wiibrew.org/wiki/SD/SDHC_Card_Compatibility_Tests if you aren't sure if your card is compatible."
+        },
+        {
+          "headline":"Format your SD card on your computer.",
+          "description":"Insert your SD card into your computer's card reader. If your computer doesn't have a card reader, you'll need a USB reader. Format the card in FAT32 format by doing the following:\nWindows - Open Windows Explorer (\u229e Win+E). Right-click on your SD card and select \"Format.\" Choose \"FAT32\" from the \"File system\" menu and click \"Format.\" Mac - Open the Disk Utility from the Utilities folder. Select your SD card, then click the \"Erase\" button. Select \"FAT\" from the \"Format\" menu."
+        },
+        {
+          "headline":"Determine your Wii's MAC address.",
+          "description":"This is the address that is unique to your Wii. You can find out the MAC address from the Wii's Settings menu:\nClick the \"Wii\" button on your Wii's main menu. This will open the Wii Options menu. Select \"Wii Settings\" and then select \"Internet\" from the second page. Select \"Console Details\" and then write down the MAC address."
+        },
+        {
+          "headline":"Visit .please.hackmii.com on your computer's browser.",
+          "description":"This is the website that will generate a letterbomb exploit specifically for your Wii."
+        },
+        {
+          "headline":"Enter your Wii's MAC address into the fields.",
+          "description":"Each field will get two characters for the MAC address."
+        },
+        {
+          "headline":"Select your region in the \"System Menu Version\" section.",
+          "description":"If you aren't sure, you can see which version you're running by opening the \"Wii Settings\" menu again and looking in the upper-right corner."
+        },
+        {
+          "headline":"Click \"I'm not a robot\" and then click one of the download buttons.",
+          "description":"It doesn't matter if you \"Cut the red wire\" or \"Cut the blue wire,\" both will download the ZIP file."
+        },
+        {
+          "headline":"Double-click the downloaded ZIP file.",
+          "description":"This will display the contents. You should see a \"private\" folder and a \"boot.elf\" file."
+        },
+        {
+          "headline":"Copy the folder and file from the ZIP file to your SD card.",
+          "description":"Drag and drop the \"private\" folder and the \"boot.elf\" file directly into your SD card. This will place them in the correct locations on the card."
+        },
+        {
+          "headline":"Remove your SD card from your computer and insert it in the Wii.",
+          "description":"You'll find the SD card port on the front of the Wii, behind the panel that folds down."
+        },
+        {
+          "headline":"Click the Messages button on the Wii's main menu.",
+          "description":"You should see a red envelope with a bomb tucked in it. You may need to press the \"-\" button to go back a day or two to find it. Double-check that the \"private\" folder and the \"boot.elf\" file are in the root of the SD card if the letterbomb does not appear."
+        },
+        {
+          "headline":"Select the red letter to launch the letterbomb exploit.",
+          "description":"You'll see a black screen with text appear, much like the Command Prompt in Windows."
+        },
+        {
+          "headline":"Press \"1\" and then \"A\" on your Wii remote to continue when prompted.",
+          "description":"This will start the installation process. If your Wii remote turns off when the HackMii installation begins, your Wii remote might be too new. Newer remotes will turn off when the hack is detected. You'll need to find a Wii remote made before 2009."
+        },
+        {
+          "headline":"Select \"BootMii\" and press \"A.\"",
+          "description":"This will let your configure BootMii, which allows the Homebrew Channel to load."
+        },
+        {
+          "headline":"Select \"Prepare an SD card\" and then \"Yes, continue.\"",
+          "description":"This will add files to your SD card for the BootMii software."
+        },
+        {
+          "headline":"Select \"Install BootMii as IOS.\"",
+          "description":"Select \"Yes, continue\" twice to confirm. This will install the BootMii software."
+        },
+        {
+          "headline":"Return to the main menu and select \"Install The Homebrew Channel.\"",
+          "description":"Select \"Yes, continue\" to confirm."
+        },
+        {
+          "headline":"Select \"Exit\" after installation to load the Homebrew Channel.",
+          "description":"If the Homebrew Channel loads after a few moments, you've successfully modded your Wii. Next up you'll be installing the software necessary to rip games and play backups from your USB drive or from a burned DVD."
+        }
+      ]
+    },
+    {
+      "name":"Installing Backup Software",
+      "steps":[
+        {
+          "headline":"Format an external drive or flash drive as FAT32.",
+          "description":"This format will allow you to save Wii and GameCube games. The games you rip or download will be stored on this drive. Windows - Download FAT32 Format from ridgecrop.demon.co.uk/index.htm?guiformat.htm. While you can use the Windows system formatting tools, they won't be able to format drives larger than 32 GB. If you have a larger drive, the FAT32 Format tool will allow you to format the disk. Run the utility, select your external drive, and click \"Start.\" This will erase everything on the drive. Mac - Plug your external drive in and open  the Disk Utility. You can find this in your Utilities folder. Select your external drive and click the \"Erase\" button. Select \"FAT32\" from the \"Format\" menu."
+        },
+        {
+          "headline":"Download the IOS236 v6 installer.",
+          "description":"This is a homebrew application that will install the necessary system software to install other homebrew system software (IOS files). You can find the installer in various locations online. Perform a Google search for \"ios236 v6 installer.\" The installer will download as a ZIP file."
+        },
+        {
+          "headline":"Download the d2x cIOS installer.",
+          "description":"This program installs system software that changes the way your Wii access storage, allowing you to use USB loader programs. Download the latest available version from code.google.com/archive/p/d2x-cios-installer/downloads"
+        },
+        {
+          "headline":"Download the Configurable USB Loader (CFG) installer.",
+          "description":"This is the homebrew program that manages your game backups and allows you to rip games from discs. You can use it to rip Wii games and GameCube games. Download the Cfg_USB_Loader_70.zip file from code.google.com/archive/p/cfg-loader/downloads."
+        },
+        {
+          "headline":"Extract the CFG files onto your SD card.",
+          "description":"Extract these files to your card first to create the folder structure that the other two ZIP files will use. Insert the SD card from your Wii into your computer. Double-click the Cfg_USB_Loader_70.zip and navigate to the \"inSDroot\" folder. You'll see two folders: \"apps\" and \"usb-loader.\" Drag both of these folders into the root of your SD card."
+        },
+        {
+          "headline":"Extract the iOS236 v6 and d2x cIOS installers into the new \"apps\" folder.",
+          "description":"Once you've copied your CFG loader files, you can double-click each of the other ZIP files you downloaded and drag the folders inside to the new \"apps\" folder on the SD card."
+        },
+        {
+          "headline":"Download the replacement XML file for CFG loader.",
+          "description":"Visit gwht.wdfiles.com/local--files/usb-loader/meta.xml in your browser. Press Ctrl/\u2318 Cmd+S and save the file as \"meta.xml.\""
+        },
+        {
+          "headline":"Replace the meta.xml file in your SD card's apps\\USBLoader directory.",
+          "description":"Open this directory on your SD card and drag your new meta.xml file into it. Confirm that you want to Overwrite or Replace the existing file."
+        },
+        {
+          "headline":"Open the \"sample_config.txt\" file.",
+          "description":"This will open the file in your browser."
+        },
+        {
+          "headline":"Add the following two lines to the bottom of the file.",
+          "description":"Enter these two options, each on a new line at the bottom:\nntfs_write = 1\nfat_split_size = 0"
+        },
+        {
+          "headline":"Click the File menu, select \"Save As,\" and rename the file to \"config.txt.\"",
+          "description":"This will activate the configuration file and ensure that the USB loader uses your new settings."
+        },
+        {
+          "headline":"Insert the SD card back into your Wii and start the Homebrew Channel.",
+          "description":"This will read your SD card and show the installers in the Homebrew Channel. Make sure any GameCube memory cards you may have inserted have been removed. Make sure your Wii is connected to the internet so that it will be able to download the necessary files."
+        },
+        {
+          "headline":"Select the \"IOS236 Installer v6\" option and click \"Load.\"",
+          "description":"This will start the installer and a bunch of text will appear on the screen."
+        },
+        {
+          "headline":"Press \"1\" on the Wii remote to begin the installation.",
+          "description":"IOS236 will begin installing."
+        },
+        {
+          "headline":"Select \"<Download IOS from NUS>\" when prompted.",
+          "description":"This will download the essential files."
+        },
+        {
+          "headline":"Press \"A\" when prompted to begin installation.",
+          "description":"Files will begin installing, which should just take a few moments."
+        },
+        {
+          "headline":"Press \"2\" to finish the installation.",
+          "description":"Regardless of what you're planning on using the custom firmware for, do not press \"1.\""
+        },
+        {
+          "headline":"Return to the Homebrew Channel and select \"D2X cIOS Installer.\"",
+          "description":"Press \"Launch\" to start it up. Press any button on the disclaimer screen to continue."
+        },
+        {
+          "headline":"Set your installer menus.",
+          "description":"Use the text menus at the top of the screen to set your installation preferences:\nSelect \"<d2x v6>\" from the \"Select cIOS\" menu. Select \"<56>\" from the \"Select cIOS base\" menu. Select \"<248>\" from the \"Select cIOS slot\" menu. Select <21006>\" from the \"Select cIOS revision\" menu."
+        },
+        {
+          "headline":"Press \"A\" to begin the installation, then highlight Slot 248 and press \"A\" again.",
+          "description":"This will install d2x using the settings you entered. The installation may take a little while to complete."
+        },
+        {
+          "headline":"Load \"D2X cIOS Installer\" from the Homebrew Channel again.",
+          "description":"You'll need to install it again with slightly different settings."
+        },
+        {
+          "headline":"Set your installer menus again.",
+          "description":"Enter the following, slightly different installer settings:\nSelect \"<d2x v6>\" from the \"Select cIOS\" menu. Select \"<57>\" from the \"Select cIOS base\" menu. Select \"<247>\" from the \"Select cIOS slot\" menu. Select <21006>\" from the \"Select cIOS revision\" menu."
+        },
+        {
+          "headline":"Press \"A\" to begin the installation, then highlight Slot 247 and press \"A\" again.",
+          "description":"This will install d2x again in Slot 247. You'll need it installed in both slots before you can use the USB Loader."
+        }
+      ]
+    },
+    {
+      "name":"Creating and Playing Game Backups",
+      "steps":[
+        {
+          "headline":"Plug your formatted external drive or USB drive into your Wii.",
+          "description":"Plug this in before you launch CFG USB loader for the first time. Use the bottom USB port on the back of the Wii. If you're prompted by your Wii to format the drive, select \"Cancel.\" If you click \"Format,\" you'll need to go back and format it as FAT32 again."
+        },
+        {
+          "headline":"Open the Homebrew Channel and select \"Configurable USB Loader.\"",
+          "description":"Select \"Load\" to start the program."
+        },
+        {
+          "headline":"Select \"USB\" when prompted.",
+          "description":"This will set CFG to load backups from your USB drive. When prompted to select your partition, you should only have one available. Select it to continue."
+        },
+        {
+          "headline":"Ensure IOS 248 is selected and start the program.",
+          "description":"This will launch the USB loader with your settings."
+        },
+        {
+          "headline":"Save your settings.",
+          "description":"You'll want to save your device and IOS settings so you're not prompted for them each time you start:\nPoint at the bottom of the screen to open the menu. Select \"Settings\" and then \"System.\" Select \"Save Settings.\""
+        },
+        {
+          "headline":"Insert a disc that you want to copy into your Wii.",
+          "description":"You can copy any Wii or GameCube game by using the CFG USB Loader. Insert the disc and it will appear in the Loader program."
+        },
+        {
+          "headline":"Open Configurable USB Loader if it isn't already.",
+          "description":"You'll be using this homebrew program to rip the games from your Wii and GameCube discs to your USB drive."
+        },
+        {
+          "headline":"Press \"+\" in the CFG main menu.",
+          "description":"This will open the installation screen for the game that is inserted."
+        },
+        {
+          "headline":"Click \"Install.\"",
+          "description":"This will begin copying the game files to your USB drive. This may take a while to complete, especially for newer, larger games."
+        },
+        {
+          "headline":"Select an installed game in CFG Loader.",
+          "description":"Once you have some games installed, they'll appear in the main CFG Loader window. Select one to view details and launch it."
+        },
+        {
+          "headline":"Press \"A\" to launch the game.",
+          "description":"With the game selected, press \"A\" to start playing. You'll see some text as the game loads, and then it will start."
+        },
+        {
+          "headline":"Continue installing games.",
+          "description":"You can keep installing games from any disc, legitimate or burned. All of the games will be added to your USB drive, and you won't need the discs to play them."
+        }
+      ]
+    },
+    {
+      "name":"Burning Games to Disc",
+      "steps":[
+        {
+          "headline":"Consider using the USB Loader instead of burning your games.",
+          "description":"Besides the convenience that a USB Loader and external drive provide, newer Wii models cannot read DVD-R discs. This means that a burned disc is useless on Wiis that were made in 2008 or later. If you download games, you can copy them to the USB drive that your USB Loader uses and they will appear in your CFG Loader program library. You don't need to burn them just to rip them onto your Wii."
+        },
+        {
+          "headline":"Obtain some Wii game image files.",
+          "description":"If you do want to burn games to disc instead of using your USB Loader, you'll need the game image files. There are a couple of ways you can obtain these:\nWii and GameCube ISO files can be downloaded from many different torrent sites. See Download Torrents for details on finding and downloading torrents. It is illegal in most areas to download games you do not own. If you followed the above methods, you can use games that you've installed to your USB drive with CFG Loader. Plug the USB drive into your computer and open the \"games\" directory. Games will be named by their GAMEID, so perform a quick Google search if you're not sure which is which. Drag the file you want to your computer. It may take a while to copy."
+        },
+        {
+          "headline":"Convert image files copied from your USB drive.",
+          "description":"If you ripped games using your Wii and copied the files to your computer, you'll likely notice that the files are in WBFS format. This will need to be converted to ISO before you can burn it:\nVisit wbfstoiso.com and download the free program. Run the installer after downloading it and follow the prompts. No adware will be installed. Open WBFS to ISO and select your WBFS file. You can click the \"Open\" button to browse for it. Click \"Convert\" to begin converting the file. This may take a while to complete. You'll find the ISO file in the same location as your WBFS file."
+        },
+        {
+          "headline":"Visit imgburn.com and download ImgBurn.",
+          "description":"This disc burning utility will allow you to burn the ISO file to a blank DVD-/+R. Download the latest version from the ImgBurn website."
+        },
+        {
+          "headline":"Start the ImgBurn installation process.",
+          "description":"Double-click the installer to begin the installation."
+        },
+        {
+          "headline":"Uncheck the Ask Toolbar ads while installing.",
+          "description":"After you select the location to install ImgBurn, you'll see a screen for the Ask Toolbar. Make sure to uncheck all of the boxes before proceeding."
+        },
+        {
+          "headline":"Launch ImgBurn after installing.",
+          "description":"Once the installation is finished, launch ImgBurn from the shortcut on your desktop."
+        },
+        {
+          "headline":"Select \"Write image file to disc\" from the ImgBurn menu.",
+          "description":"This will open the disc writer tool."
+        },
+        {
+          "headline":"Insert a blank DVD+/-R disc into your DVD burner.",
+          "description":"You'll need to have a DVD burner installed for ImgBurn to work. Be aware that if your Wii is newer than 2008, the burned discs will not work."
+        },
+        {
+          "headline":"Select your Wii ISO file as the Source.",
+          "description":"Click the Browse button to navigate to it, or drag it into the window."
+        },
+        {
+          "headline":"Select a low write speed.",
+          "description":"To help ensure that the burn process works, select a slow writing speed such as 1X. This will result in a longer burn but will increase your chances of the disc working."
+        },
+        {
+          "headline":"Click the Burn button in the lower-left corner.",
+          "description":"This will begin writing the file to your disc."
+        },
+        {
+          "headline":"Wait for the burn to complete.",
+          "description":"This may take a while, especially for larger games. The disc will eject when it is finished."
+        },
+        {
+          "headline":"Load the game in your USB Loader.",
+          "description":"Once the disc is finished burning, you can load it in your USB Loader. This will allow you to play it without having to install any additional hacks. See the previous section for details."
+        }
+      ]
+    }
+  ],
+  "text":" Modding Your Wii Install the Homebrew Channel to rip and play games. Whether you plan on ripping games using your Wii or ripping them with your PC, your Wii will still need to be modded in order to play ripped games. You can install the Homebrew Channel using a special exploit called \"Letterbomb.\" Update your Wii to the latest available version. You'll need to be running the final version of the Wii software (4.3) that was released in September 2010. This is required in order for the exploit to work. Select the \"Wii\" button from the Wii main menu. Select \"Wii Settings\" and then \"Wii System Settings.\" Select \"Wii System Update\" from the third page. Select \"Yes\" and then \"I Accept\" to begin downloading and installing the system update. Get an SD card that is 2 GB or smaller. You'll need an SD card that is 2 GB or smaller in order to successfully mod your Wii. The card should be a standard SD card, not SDHC or SDXC. Check the list at wiibrew.org/wiki/SD/SDHC_Card_Compatibility_Tests if you aren't sure if your card is compatible. Format your SD card on your computer. Insert your SD card into your computer's card reader. If your computer doesn't have a card reader, you'll need a USB reader. Format the card in FAT32 format by doing the following:\nWindows - Open Windows Explorer (\u229e Win+E). Right-click on your SD card and select \"Format.\" Choose \"FAT32\" from the \"File system\" menu and click \"Format.\" Mac - Open the Disk Utility from the Utilities folder. Select your SD card, then click the \"Erase\" button. Select \"FAT\" from the \"Format\" menu. Determine your Wii's MAC address. This is the address that is unique to your Wii. You can find out the MAC address from the Wii's Settings menu:\nClick the \"Wii\" button on your Wii's main menu. This will open the Wii Options menu. Select \"Wii Settings\" and then select \"Internet\" from the second page. Select \"Console Details\" and then write down the MAC address. Visit .please.hackmii.com on your computer's browser. This is the website that will generate a letterbomb exploit specifically for your Wii. Enter your Wii's MAC address into the fields. Each field will get two characters for the MAC address. Select your region in the \"System Menu Version\" section. If you aren't sure, you can see which version you're running by opening the \"Wii Settings\" menu again and looking in the upper-right corner. Click \"I'm not a robot\" and then click one of the download buttons. It doesn't matter if you \"Cut the red wire\" or \"Cut the blue wire,\" both will download the ZIP file. Double-click the downloaded ZIP file. This will display the contents. You should see a \"private\" folder and a \"boot.elf\" file. Copy the folder and file from the ZIP file to your SD card. Drag and drop the \"private\" folder and the \"boot.elf\" file directly into your SD card. This will place them in the correct locations on the card. Remove your SD card from your computer and insert it in the Wii. You'll find the SD card port on the front of the Wii, behind the panel that folds down. Click the Messages button on the Wii's main menu. You should see a red envelope with a bomb tucked in it. You may need to press the \"-\" button to go back a day or two to find it. Double-check that the \"private\" folder and the \"boot.elf\" file are in the root of the SD card if the letterbomb does not appear. Select the red letter to launch the letterbomb exploit. You'll see a black screen with text appear, much like the Command Prompt in Windows. Press \"1\" and then \"A\" on your Wii remote to continue when prompted. This will start the installation process. If your Wii remote turns off when the HackMii installation begins, your Wii remote might be too new. Newer remotes will turn off when the hack is detected. You'll need to find a Wii remote made before 2009. Select \"BootMii\" and press \"A.\" This will let your configure BootMii, which allows the Homebrew Channel to load. Select \"Prepare an SD card\" and then \"Yes, continue.\" This will add files to your SD card for the BootMii software. Select \"Install BootMii as IOS.\" Select \"Yes, continue\" twice to confirm. This will install the BootMii software. Return to the main menu and select \"Install The Homebrew Channel.\" Select \"Yes, continue\" to confirm. Select \"Exit\" after installation to load the Homebrew Channel. If the Homebrew Channel loads after a few moments, you've successfully modded your Wii. Next up you'll be installing the software necessary to rip games and play backups from your USB drive or from a burned DVD. Installing Backup Software Format an external drive or flash drive as FAT32. This format will allow you to save Wii and GameCube games. The games you rip or download will be stored on this drive. Windows - Download FAT32 Format from ridgecrop.demon.co.uk/index.htm?guiformat.htm. While you can use the Windows system formatting tools, they won't be able to format drives larger than 32 GB. If you have a larger drive, the FAT32 Format tool will allow you to format the disk. Run the utility, select your external drive, and click \"Start.\" This will erase everything on the drive. Mac - Plug your external drive in and open  the Disk Utility. You can find this in your Utilities folder. Select your external drive and click the \"Erase\" button. Select \"FAT32\" from the \"Format\" menu. Download the IOS236 v6 installer. This is a homebrew application that will install the necessary system software to install other homebrew system software (IOS files). You can find the installer in various locations online. Perform a Google search for \"ios236 v6 installer.\" The installer will download as a ZIP file. Download the d2x cIOS installer. This program installs system software that changes the way your Wii access storage, allowing you to use USB loader programs. Download the latest available version from code.google.com/archive/p/d2x-cios-installer/downloads Download the Configurable USB Loader (CFG) installer. This is the homebrew program that manages your game backups and allows you to rip games from discs. You can use it to rip Wii games and GameCube games. Download the Cfg_USB_Loader_70.zip file from code.google.com/archive/p/cfg-loader/downloads. Extract the CFG files onto your SD card. Extract these files to your card first to create the folder structure that the other two ZIP files will use. Insert the SD card from your Wii into your computer. Double-click the Cfg_USB_Loader_70.zip and navigate to the \"inSDroot\" folder. You'll see two folders: \"apps\" and \"usb-loader.\" Drag both of these folders into the root of your SD card. Extract the iOS236 v6 and d2x cIOS installers into the new \"apps\" folder. Once you've copied your CFG loader files, you can double-click each of the other ZIP files you downloaded and drag the folders inside to the new \"apps\" folder on the SD card. Download the replacement XML file for CFG loader. Visit gwht.wdfiles.com/local--files/usb-loader/meta.xml in your browser. Press Ctrl/\u2318 Cmd+S and save the file as \"meta.xml.\" Replace the meta.xml file in your SD card's apps\\USBLoader directory. Open this directory on your SD card and drag your new meta.xml file into it. Confirm that you want to Overwrite or Replace the existing file. Open the \"sample_config.txt\" file. This will open the file in your browser. Add the following two lines to the bottom of the file. Enter these two options, each on a new line at the bottom:\nntfs_write = 1\nfat_split_size = 0 Click the File menu, select \"Save As,\" and rename the file to \"config.txt.\" This will activate the configuration file and ensure that the USB loader uses your new settings. Insert the SD card back into your Wii and start the Homebrew Channel. This will read your SD card and show the installers in the Homebrew Channel. Make sure any GameCube memory cards you may have inserted have been removed. Make sure your Wii is connected to the internet so that it will be able to download the necessary files. Select the \"IOS236 Installer v6\" option and click \"Load.\" This will start the installer and a bunch of text will appear on the screen. Press \"1\" on the Wii remote to begin the installation. IOS236 will begin installing. Select \"<Download IOS from NUS>\" when prompted. This will download the essential files. Press \"A\" when prompted to begin installation. Files will begin installing, which should just take a few moments. Press \"2\" to finish the installation. Regardless of what you're planning on using the custom firmware for, do not press \"1.\" Return to the Homebrew Channel and select \"D2X cIOS Installer.\" Press \"Launch\" to start it up. Press any button on the disclaimer screen to continue. Set your installer menus. Use the text menus at the top of the screen to set your installation preferences:\nSelect \"<d2x v6>\" from the \"Select cIOS\" menu. Select \"<56>\" from the \"Select cIOS base\" menu. Select \"<248>\" from the \"Select cIOS slot\" menu. Select <21006>\" from the \"Select cIOS revision\" menu. Press \"A\" to begin the installation, then highlight Slot 248 and press \"A\" again. This will install d2x using the settings you entered. The installation may take a little while to complete. Load \"D2X cIOS Installer\" from the Homebrew Channel again. You'll need to install it again with slightly different settings. Set your installer menus again. Enter the following, slightly different installer settings:\nSelect \"<d2x v6>\" from the \"Select cIOS\" menu. Select \"<57>\" from the \"Select cIOS base\" menu. Select \"<247>\" from the \"Select cIOS slot\" menu. Select <21006>\" from the \"Select cIOS revision\" menu. Press \"A\" to begin the installation, then highlight Slot 247 and press \"A\" again. This will install d2x again in Slot 247. You'll need it installed in both slots before you can use the USB Loader. Creating and Playing Game Backups Plug your formatted external drive or USB drive into your Wii. Plug this in before you launch CFG USB loader for the first time. Use the bottom USB port on the back of the Wii. If you're prompted by your Wii to format the drive, select \"Cancel.\" If you click \"Format,\" you'll need to go back and format it as FAT32 again. Open the Homebrew Channel and select \"Configurable USB Loader.\" Select \"Load\" to start the program. Select \"USB\" when prompted. This will set CFG to load backups from your USB drive. When prompted to select your partition, you should only have one available. Select it to continue. Ensure IOS 248 is selected and start the program. This will launch the USB loader with your settings. Save your settings. You'll want to save your device and IOS settings so you're not prompted for them each time you start:\nPoint at the bottom of the screen to open the menu. Select \"Settings\" and then \"System.\" Select \"Save Settings.\" Insert a disc that you want to copy into your Wii. You can copy any Wii or GameCube game by using the CFG USB Loader. Insert the disc and it will appear in the Loader program. Open Configurable USB Loader if it isn't already. You'll be using this homebrew program to rip the games from your Wii and GameCube discs to your USB drive. Press \"+\" in the CFG main menu. This will open the installation screen for the game that is inserted. Click \"Install.\" This will begin copying the game files to your USB drive. This may take a while to complete, especially for newer, larger games. Select an installed game in CFG Loader. Once you have some games installed, they'll appear in the main CFG Loader window. Select one to view details and launch it. Press \"A\" to launch the game. With the game selected, press \"A\" to start playing. You'll see some text as the game loads, and then it will start. Continue installing games. You can keep installing games from any disc, legitimate or burned. All of the games will be added to your USB drive, and you won't need the discs to play them. Burning Games to Disc Consider using the USB Loader instead of burning your games. Besides the convenience that a USB Loader and external drive provide, newer Wii models cannot read DVD-R discs. This means that a burned disc is useless on Wiis that were made in 2008 or later. If you download games, you can copy them to the USB drive that your USB Loader uses and they will appear in your CFG Loader program library. You don't need to burn them just to rip them onto your Wii. Obtain some Wii game image files. If you do want to burn games to disc instead of using your USB Loader, you'll need the game image files. There are a couple of ways you can obtain these:\nWii and GameCube ISO files can be downloaded from many different torrent sites. See Download Torrents for details on finding and downloading torrents. It is illegal in most areas to download games you do not own. If you followed the above methods, you can use games that you've installed to your USB drive with CFG Loader. Plug the USB drive into your computer and open the \"games\" directory. Games will be named by their GAMEID, so perform a quick Google search if you're not sure which is which. Drag the file you want to your computer. It may take a while to copy. Convert image files copied from your USB drive. If you ripped games using your Wii and copied the files to your computer, you'll likely notice that the files are in WBFS format. This will need to be converted to ISO before you can burn it:\nVisit wbfstoiso.com and download the free program. Run the installer after downloading it and follow the prompts. No adware will be installed. Open WBFS to ISO and select your WBFS file. You can click the \"Open\" button to browse for it. Click \"Convert\" to begin converting the file. This may take a while to complete. You'll find the ISO file in the same location as your WBFS file. Visit imgburn.com and download ImgBurn. This disc burning utility will allow you to burn the ISO file to a blank DVD-/+R. Download the latest version from the ImgBurn website. Start the ImgBurn installation process. Double-click the installer to begin the installation. Uncheck the Ask Toolbar ads while installing. After you select the location to install ImgBurn, you'll see a screen for the Ask Toolbar. Make sure to uncheck all of the boxes before proceeding. Launch ImgBurn after installing. Once the installation is finished, launch ImgBurn from the shortcut on your desktop. Select \"Write image file to disc\" from the ImgBurn menu. This will open the disc writer tool. Insert a blank DVD+/-R disc into your DVD burner. You'll need to have a DVD burner installed for ImgBurn to work. Be aware that if your Wii is newer than 2008, the burned discs will not work. Select your Wii ISO file as the Source. Click the Browse button to navigate to it, or drag it into the window. Select a low write speed. To help ensure that the burn process works, select a slow writing speed such as 1X. This will result in a longer burn but will increase your chances of the disc working. Click the Burn button in the lower-left corner. This will begin writing the file to your disc. Wait for the burn to complete. This may take a while, especially for larger games. The disc will eject when it is finished. Load the game in your USB Loader. Once the disc is finished burning, you can load it in your USB Loader. This will allow you to play it without having to install any additional hacks. See the previous section for details.",
+  "tyn_model":[
+    "sd card",
+    "usb loader",
+    "wii",
+    "usb drive",
+    "wii remote",
+    "cfg loader",
+    "homebrew channel",
+    "card reader",
+    "disk utility",
+    "cfg usb loader",
+    "dvd burner",
+    "usb reader",
+    "\u229e win+e",
+    "wii settings",
+    "computer",
+    "sd card port",
+    "external drive",
+    "flash drive",
+    "fat32 format",
+    "usb-",
+    "ios236 v6 and",
+    "\u2318 cmd+s",
+    "gamecube memory",
+    "dvd-r discs",
+    "disc burning utility",
+    "imgburn"
+  ],
+  "tyn_section":[
+
+  ]
+}

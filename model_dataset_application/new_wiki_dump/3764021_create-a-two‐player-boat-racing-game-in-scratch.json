@@ -1,0 +1,89 @@
+{
+  "title":"How to Create a Two\u2010Player Boat Racing Game in Scratch",
+  "url":"https://www.wikihow.com/Create-a-Two%E2%80%90Player-Boat-Racing-Game-in-Scratch",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "parts":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"Open up Scratch.",
+          "description":""
+        },
+        {
+          "headline":"Delete the cat called \"Sprite 1.\"",
+          "description":"You can do this by right-clicking on it, then clicking delete."
+        }
+      ]
+    },
+    {
+      "name":"Creating the boat",
+      "steps":[
+        {
+          "headline":"Click the left button under the white canvas.",
+          "description":""
+        },
+        {
+          "headline":"Draw your boat or import an image to use.",
+          "description":"After you have done that, click OK."
+        }
+      ]
+    },
+    {
+      "name":"Creating the race course",
+      "steps":[
+        {
+          "headline":"Double click on the stage to highlight it",
+          "description":""
+        },
+        {
+          "headline":"Click edit and design your boat course the way you want it.",
+          "description":"The image provides an example."
+        }
+      ]
+    },
+    {
+      "name":"Scripting boat movement",
+      "steps":[
+        {
+          "headline":"Make it so that the boat is able to turn.",
+          "description":"You can use the script displayed in the image accompanying this step, which makes the boat turn left and right. If you want, you can change which keys you want to use for turning and moving."
+        },
+        {
+          "headline":"Make the boat slow down when it approaches a border.",
+          "description":"You will want to add something like what is shown in the image accompanying this step. In this script, if the boat touches black it will slow down. You can use something similar."
+        }
+      ]
+    },
+    {
+      "name":"Creating a 2-Player Game",
+      "steps":[
+        {
+          "headline":"Add another sprite (boat).",
+          "description":""
+        },
+        {
+          "headline":"Create the script for the second boat.",
+          "description":"You will need to change the way Boat 2 turns. For example, if Boat 1 uses left and right arrows, Boat 2 could use the A and D keys instead."
+        },
+        {
+          "headline":"Click the green flag in the top corner.",
+          "description":"Now you can freely play. Have fun and enjoy."
+        }
+      ]
+    }
+  ],
+  "text":" Steps Open up Scratch.  Delete the cat called \"Sprite 1.\" You can do this by right-clicking on it, then clicking delete. Creating the boat Click the left button under the white canvas.  Draw your boat or import an image to use. After you have done that, click OK. Creating the race course Double click on the stage to highlight it  Click edit and design your boat course the way you want it. The image provides an example. Scripting boat movement Make it so that the boat is able to turn. You can use the script displayed in the image accompanying this step, which makes the boat turn left and right. If you want, you can change which keys you want to use for turning and moving. Make the boat slow down when it approaches a border. You will want to add something like what is shown in the image accompanying this step. In this script, if the boat touches black it will slow down. You can use something similar. Creating a 2-Player Game Add another sprite (boat).  Create the script for the second boat. You will need to change the way Boat 2 turns. For example, if Boat 1 uses left and right arrows, Boat 2 could use the A and D keys instead. Click the green flag in the top corner. Now you can freely play. Have fun and enjoy.",
+  "tyn_model":[
+    "boat",
+    "sprite",
+    "2-player game"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title":"How to Configure a Halo PC LAN Game",
+  "url":"https://www.wikihow.com/Configure-a-Halo-PC-LAN-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Halo"
+  ],
+  "steps":[
+    {
+      "headline":"Put both of the computers on a LAN, whether it be with a single cable, which must be a crossover cable (it will say \"crossover\" on the side usually in white); or a Cat6 patch cable with auto crossover compliant computers, a LAN hub, or anything more complex, and try making a Halo game.",
+      "description":"This is assuming you know how."
+    },
+    {
+      "headline":"If this fails, have both computers do the following.",
+      "description":"Exit Halo, and go to Start -> Run, then type \"cmd\" without the quotes. This will bring up a command prompt."
+    },
+    {
+      "headline":"Type \"ipconfig\".",
+      "description":"This should bring up a list of many things, one of which should say \"IP Address,\" and that's what it's called. Copy the numbers down, including the dots."
+    },
+    {
+      "headline":"Have one of the computers take the other's IP address and type \"ping\", a space, and then the other's IP address.",
+      "description":"Wait about 30 seconds."
+    },
+    {
+      "headline":"If it is finished in this time, type \"exit\".",
+      "description":"Then skip to step 7."
+    },
+    {
+      "headline":"If it it's not finished in that time, press Control + C, then type \"exit\".",
+      "description":""
+    },
+    {
+      "headline":"Go to Control Panel, then Network Connections.",
+      "description":"There should be either Wireless Network Connection or LAN Connection. If there are two, disable whichever one has a red X on it, and if they both are free of these X's, disable one of them. If that doesn't work, try disabling the other. If there is only one, then do nothing to it."
+    },
+    {
+      "headline":"Whichever one you didn't disable in the last step, right-click on and select Properties.",
+      "description":"There should be a box in the center of the screen. Scroll down to the bottom of the box, and it should have TCP/IP at the bottom. Select it and click Properties."
+    },
+    {
+      "headline":"Select \"Use the following IP address,\" and take the IP of your computer before and type it in.",
+      "description":"Press Tab once and then press OK."
+    },
+    {
+      "headline":"Try steps 2-4 again.",
+      "description":"If it fails, try changing the last numbers in the IP from step 9 to something else, and make sure the last digits are different for each computer."
+    },
+    {
+      "headline":"Create a Halo game and try to join it on LAN.",
+      "description":"If not, use the IP that was put into step 10 to join it, under Join Game, Direct IP, or have the server host hold F1 and tell you that IP."
+    }
+  ],
+  "text":" Put both of the computers on a LAN, whether it be with a single cable, which must be a crossover cable (it will say \"crossover\" on the side usually in white); or a Cat6 patch cable with auto crossover compliant computers, a LAN hub, or anything more complex, and try making a Halo game. This is assuming you know how. If this fails, have both computers do the following. Exit Halo, and go to Start -> Run, then type \"cmd\" without the quotes. This will bring up a command prompt. Type \"ipconfig\". This should bring up a list of many things, one of which should say \"IP Address,\" and that's what it's called. Copy the numbers down, including the dots. Have one of the computers take the other's IP address and type \"ping\", a space, and then the other's IP address. Wait about 30 seconds. If it is finished in this time, type \"exit\". Then skip to step 7. If it it's not finished in that time, press Control + C, then type \"exit\".  Go to Control Panel, then Network Connections. There should be either Wireless Network Connection or LAN Connection. If there are two, disable whichever one has a red X on it, and if they both are free of these X's, disable one of them. If that doesn't work, try disabling the other. If there is only one, then do nothing to it. Whichever one you didn't disable in the last step, right-click on and select Properties. There should be a box in the center of the screen. Scroll down to the bottom of the box, and it should have TCP/IP at the bottom. Select it and click Properties. Select \"Use the following IP address,\" and take the IP of your computer before and type it in. Press Tab once and then press OK. Try steps 2-4 again. If it fails, try changing the last numbers in the IP from step 9 to something else, and make sure the last digits are different for each computer. Create a Halo game and try to join it on LAN. If not, use the IP that was put into step 10 to join it, under Join Game, Direct IP, or have the server host hold F1 and tell you that IP.",
+  "tyn_model":[
+    "lan hub",
+    "halo",
+    "computers",
+    "wireless network connection",
+    "tcp/ip",
+    "computer"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title":"How to Make a Shop in Roblox Studio",
+  "url":"https://www.wikihow.com/Make-a-Shop-in-Roblox-Studio",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Roblox"
+  ],
+  "steps":[
+    {
+      "headline":"Get three weapons from 'weapons' in toolbox.",
+      "description":""
+    },
+    {
+      "headline":"In the explorer tree view, look under the Workspace branch for your weapons.",
+      "description":"Drag them into the \"Replicated Storage\" branch."
+    },
+    {
+      "headline":"Rename the three weapons by right-clicking and selecting \"Rename.\"",
+      "description":"Name them something unique but descriptive. Be sure not to use spaces in your names or else you will have difficulty later."
+    },
+    {
+      "headline":"Make an NPC.",
+      "description":"NPCs are commonly made from bricks, countertops, or boxes, although you are free to use whatever you wish to. If you decide to use bricks, make sure you've anchored the bricks in place."
+    },
+    {
+      "headline":"Drag your mouse so that all of the pieces of your NPC are selected.",
+      "description":"Right-click it and click group. Name the group \"NPC.\""
+    },
+    {
+      "headline":"Select the NPC's head from the right side and click once on the name \"Head.\"",
+      "description":"From here, right-click it and go to insert > object > dialog. In properties, change the purpose property to shop. Write in the initialprompt box what you want your NPC to say. While your Dialog is still selected in Explorer, go to Insert > Object > DialogChoice. In the properties window, change the UserDialog property value to \"May I browse your goods?\" and the ResponseDialog property to \"Sure!\" Insert three DialogChoices into the DialogChoice we just made. So your hierarchy should now look like this: Rename them from their defaults and set their UserDialog property to the names of the weapons."
+    },
+    {
+      "headline":"Add a script into the dialog, not dialog choice, which should read:",
+      "description":"  local dialog = script.Parentdialog.DialogChoiceSelected:connect(function(player, choice)     -- Check the player has a stats object     local stats = player:FindFirstChild('leaderstats')     if not stats then return end       -- And that the stats object contains a gold member     local gold = stats:FindFirstChild('Gold')     if not gold then return end     if choice == script.Parent.DialogChoice.ChoiceA then         if gold.Value >= 5 then -- 5 is the amount of gold you need to purchase this weapon             game.ReplicatedStorage.Weapon1:Clone().Parent = player.Backpack             gold.Value = gold.Value - 5 -- subtract the amount of gold you need to purchase         end     elseif choice == dialog.DialogChoice.ChoiceB then         if gold.Value >= 10 then             game.ReplicatedStorage.Weapon2:Clone().Parent = player.Backpack             gold.Value = gold.Value - 10         end     elseif choice == dialog.DialogChoice.ChoiceC then         if gold.Value >= 15 then             game.ReplicatedStorage.Weapon3:Clone().Parent = player.Backpack             gold.Value = gold.Value - 15         end     end end)"
+    },
+    {
+      "headline":"Save your game.",
+      "description":""
+    }
+  ],
+  "text":" Get three weapons from 'weapons' in toolbox.  In the explorer tree view, look under the Workspace branch for your weapons. Drag them into the \"Replicated Storage\" branch. Rename the three weapons by right-clicking and selecting \"Rename.\" Name them something unique but descriptive. Be sure not to use spaces in your names or else you will have difficulty later. Make an NPC. NPCs are commonly made from bricks, countertops, or boxes, although you are free to use whatever you wish to. If you decide to use bricks, make sure you've anchored the bricks in place. Drag your mouse so that all of the pieces of your NPC are selected. Right-click it and click group. Name the group \"NPC.\" Select the NPC's head from the right side and click once on the name \"Head.\" From here, right-click it and go to insert > object > dialog. In properties, change the purpose property to shop. Write in the initialprompt box what you want your NPC to say. While your Dialog is still selected in Explorer, go to Insert > Object > DialogChoice. In the properties window, change the UserDialog property value to \"May I browse your goods?\" and the ResponseDialog property to \"Sure!\" Insert three DialogChoices into the DialogChoice we just made. So your hierarchy should now look like this: Rename them from their defaults and set their UserDialog property to the names of the weapons. Add a script into the dialog, not dialog choice, which should read:   local dialog = script.Parentdialog.DialogChoiceSelected:connect(function(player, choice)     -- Check the player has a stats object     local stats = player:FindFirstChild('leaderstats')     if not stats then return end       -- And that the stats object contains a gold member     local gold = stats:FindFirstChild('Gold')     if not gold then return end     if choice == script.Parent.DialogChoice.ChoiceA then         if gold.Value >= 5 then -- 5 is the amount of gold you need to purchase this weapon             game.ReplicatedStorage.Weapon1:Clone().Parent = player.Backpack             gold.Value = gold.Value - 5 -- subtract the amount of gold you need to purchase         end     elseif choice == dialog.DialogChoice.ChoiceB then         if gold.Value >= 10 then             game.ReplicatedStorage.Weapon2:Clone().Parent = player.Backpack             gold.Value = gold.Value - 10         end     elseif choice == dialog.DialogChoice.ChoiceC then         if gold.Value >= 15 then             game.ReplicatedStorage.Weapon3:Clone().Parent = player.Backpack             gold.Value = gold.Value - 15         end     end end) Save your game. ",
+  "tyn_model":[
+    "bricks",
+    "mouse",
+    "script",
+    "gold"
+  ],
+  "tyn_section":[
+
+  ]
+}

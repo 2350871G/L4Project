@@ -1,0 +1,86 @@
+{
+  "title":"How to Play SimTower on Windows 7",
+  "url":"https://www.wikihow.com/Play-SimTower-on-Windows-7",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Simulation"
+  ],
+  "steps":[
+    {
+      "headline":"Download the Dosbox application from Sourceforge.",
+      "description":"[1]"
+    },
+    {
+      "headline":"Download Simtower files from abandonia.",
+      "description":"[2]"
+    },
+    {
+      "headline":"Download the Windows 3.1 bat from the Abandonia forums.",
+      "description":"[3]  Mirror here. [4]"
+    },
+    {
+      "headline":"Install Dosbox on your desktop.",
+      "description":""
+    },
+    {
+      "headline":"Move the contents of the Windows 3.1 folder into the Dosbox folder.",
+      "description":"The .rar file can be opened with a variety of free software, including Winrar and 7zip."
+    },
+    {
+      "headline":"Create a new folder in the Dosbox folder.",
+      "description":""
+    },
+    {
+      "headline":"Move the contents of the Simtower zip into the newly created folder.",
+      "description":"Zip files can be opened in windows explorer, or file compression software such as 7zip or winrar."
+    },
+    {
+      "headline":"Launch Dosbox by double clicking the Dosbox executable.",
+      "description":""
+    },
+    {
+      "headline":"In the Dosbox command prompt type \"mount c\" followed by the path to the dosbox folder\"  That will be something along the lines of \"mount c C:/users/yourusername/Desktop/Dosbox-0.74\"  If successful it will print \"Drive C is mounted as C:/users/yourusername/Desktop/Dosbox-0.74\"",
+      "description":""
+    },
+    {
+      "headline":"Shift the prompt to the new C drive with the command \"C:/\"",
+      "description":""
+    },
+    {
+      "headline":"Execute the windows bat file by typing Windows.bat.",
+      "description":"This will launch a virtual instance of windows nested in Dosbox."
+    },
+    {
+      "headline":"Once windows launches, double click to \"main\", open \"File browser\", navigate to the Sim tower folder you created.",
+      "description":""
+    },
+    {
+      "headline":"Double click \"Setup.exe\" then click through the standard, if archaic, windows installer.",
+      "description":""
+    },
+    {
+      "headline":"Launch Simtower and wait for the archaic auto-configuration  to finish.",
+      "description":"The estimate is of minutes from a time when computer speeds were measured in kilobytes and it should only take a few seconds."
+    },
+    {
+      "headline":"Enjoy Maxis' 1994 title, Simtower!",
+      "description":""
+    }
+  ],
+  "text":" Download the Dosbox application from Sourceforge. [1] Download Simtower files from abandonia. [2] Download the Windows 3.1 bat from the Abandonia forums. [3]  Mirror here. [4] Install Dosbox on your desktop.  Move the contents of the Windows 3.1 folder into the Dosbox folder. The .rar file can be opened with a variety of free software, including Winrar and 7zip. Create a new folder in the Dosbox folder.  Move the contents of the Simtower zip into the newly created folder. Zip files can be opened in windows explorer, or file compression software such as 7zip or winrar. Launch Dosbox by double clicking the Dosbox executable.  In the Dosbox command prompt type \"mount c\" followed by the path to the dosbox folder\"  That will be something along the lines of \"mount c C:/users/yourusername/Desktop/Dosbox-0.74\"  If successful it will print \"Drive C is mounted as C:/users/yourusername/Desktop/Dosbox-0.74\"  Shift the prompt to the new C drive with the command \"C:/\"  Execute the windows bat file by typing Windows.bat. This will launch a virtual instance of windows nested in Dosbox. Once windows launches, double click to \"main\", open \"File browser\", navigate to the Sim tower folder you created.  Double click \"Setup.exe\" then click through the standard, if archaic, windows installer.  Launch Simtower and wait for the archaic auto-configuration  to finish. The estimate is of minutes from a time when computer speeds were measured in kilobytes and it should only take a few seconds. Enjoy Maxis' 1994 title, Simtower! ",
+  "tyn_model":[
+    "windows",
+    "winrar",
+    "7zip",
+    "windows explorer",
+    "file compression",
+    "windows bat",
+    "windows installer"
+  ],
+  "tyn_section":[
+
+  ]
+}

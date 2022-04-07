@@ -1,0 +1,154 @@
+{
+  "title":"How to Use a Bridgeport Series 1 Vertical CNC Mill",
+  "url":"https://www.wikihow.com/Use-a-Bridgeport-Series-1-Vertical-CNC-Mill",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Tools",
+    "Industrial Machinery and Tools"
+  ],
+  "parts":[
+    {
+      "name":"Stock Material Set-up",
+      "steps":[
+        {
+          "headline":"Put the stock material on top of the base plate.",
+          "description":"Place the base material on the mill. Then, place the stock material on top of the base plate so that the entire bottom surface is in contact with the base plate. This is to make sure that the end-mill doesn\u2019t come in contact with the mill table."
+        },
+        {
+          "headline":"Orient the material appropriately.",
+          "description":"Place the material and the base plate near the center of the table in the X and Y directions."
+        },
+        {
+          "headline":"Clamp the material to the mill table.",
+          "description":"Use the tools and materials listed in \"Things You'll Need.\""
+        }
+      ]
+    },
+    {
+      "name":"Program Set-up",
+      "steps":[
+        {
+          "headline":"Load the program onto the mill.",
+          "description":"With your laptop, use your CAD to create the G-Code for your part. Save this file as a number and load the G-Code for the program onto a floppy disk. Insert this floppy disk into the floppy disk slot at the rear of the mill."
+        },
+        {
+          "headline":"Access the program.",
+          "description":"If your G-Code is accurate, you shouldn\u2019t have problems viewing the part. On the main menu, click \u2018PROG IN/OUT\u2019\nThen, enter the number of  the file that you saved onto your floppy disk."
+        },
+        {
+          "headline":"View the part on screen to make sure it is accurate.",
+          "description":"Select \u2018PROG\u2019 from the home menu. Then select \u2018VIEW\u2019. You should see the part in 2-D on your screen."
+        }
+      ]
+    },
+    {
+      "name":"Machine Set-up",
+      "steps":[
+        {
+          "headline":"Find out the RPM and feed-rate of the spindle, and adjust these values on the mill.",
+          "description":"Here is a good RPM and feed-rate calculator. These values will depend on the material that you are using. When you obtain these values, adjust the meters on the top portion of the mill accordingly."
+        },
+        {
+          "headline":"Insert End-Mill into Collet and Screw onto Spindle",
+          "description":"Press the End-Mill into the Collet. Screw the End-Mill onto the bottom of the Spindle until hand-tight. Take the \u00be\u201d wrench and tighten the top of the spindle until it is snug."
+        }
+      ]
+    },
+    {
+      "name":"Machining the Part",
+      "steps":[
+        {
+          "headline":"Perform a quick safety check.",
+          "description":"Take a quick look around the table to see if anything is on it that shouldn\u2019t be there. Make sure your clamps are not in the way of the end-mill. Check to see that your Z-axis is above the part, and not touching it."
+        },
+        {
+          "headline":"Turn the machine on.",
+          "description":"Turn the Mill on by turning the dial on the top left hand corner of the mill."
+        },
+        {
+          "headline":"Set your X axis and Y axis zero point",
+          "description":"From the main menu, hit \u2018DRO\u2019. This takes you to the position display, which tells you where you are in relation to the zero point. Using the X and Y position wheels, move the end mill to the center of your stock material. Hit \u2018X\u2019 and then \u2018ABS SET\u2019. Press \u2018Y\u2019 and again \u2018ABS SET\u2019. This tells the mill that your zero point in where your end mill is when pressing those buttons."
+        },
+        {
+          "headline":"Start the Program.",
+          "description":"From the main menu, hit \u2018RUN\u2019. Then hit \u2018START\u2019, and choose event 1. Press the \u2018GO\u2019 button and the table will move so that the end mill is in the correct position."
+        },
+        {
+          "headline":"Lower end mill (using Z- axis) to the material contact point, and set this as your Z axis zero point",
+          "description":"Lower the Z-axis slowly using the handle on the side of the mill. At the instant that the end mill contacts the material, use the hand that is not on the Z-axis to hit \u2018Z\u2019 and then \u2018ABS SET\u2019 to set this as the point where Z = 0."
+        },
+        {
+          "headline":"Lower the end-mill until the Z-axis reads .05\u201d or less",
+          "description":"Slowly lower the Z-axis until the End-mill is .05\u201d (or less) deep into the material. At this point, Lock the position of the Z-Axis using the lever under the Z-axis handle. If the end-mill is too deep into the material, it could get stuck and possibly snap. .05\u201d is a safe depth."
+        },
+        {
+          "headline":"Do final checks - ask yourself some questions",
+          "description":"Am I using the right size end-mill? Is the end mill .05\u201d deep into the material?"
+        },
+        {
+          "headline":"Start cutting.",
+          "description":"Press the \u2018GO\u2019 button. At this instant, the mill will begin traveling along the path specified in the G-Code, cutting up all the aluminum in its way."
+        },
+        {
+          "headline":"Use compressed air and cutting fluid while the tool is moving.",
+          "description":"Otherwise, chunks of aluminum can get stuck in the teeth of the end mill. If that happens, the end mill will not cut effectively and may get stuck."
+        },
+        {
+          "headline":"When the event is finished, raise Z-axis.",
+          "description":"After the table has stopped moving, release the locking lever located under the Z-axis handle and raise the Z-axis."
+        },
+        {
+          "headline":"Repeat, starting at step 3, until you reach the appropriate depth.",
+          "description":"Repeat the steps until you reach the depth you are trying to get to. This means that you choose the same event, and lower the Z-axis no more than .05\u201d deeper than the previous pass. After the mill completes that pass, raise the Z-axis and repeat."
+        },
+        {
+          "headline":"Repeat Part 4, steps 3-11 but with the next event.",
+          "description":"Do this until part is complete. Choose a different event, and let the mill cut it out using the procedure mentioned above. When all the events have been completed, you should have your part cut out exactly how you designed it."
+        }
+      ]
+    }
+  ],
+  "text":" Stock Material Set-up Put the stock material on top of the base plate. Place the base material on the mill. Then, place the stock material on top of the base plate so that the entire bottom surface is in contact with the base plate. This is to make sure that the end-mill doesn\u2019t come in contact with the mill table. Orient the material appropriately. Place the material and the base plate near the center of the table in the X and Y directions. Clamp the material to the mill table. Use the tools and materials listed in \"Things You'll Need.\" Program Set-up Load the program onto the mill. With your laptop, use your CAD to create the G-Code for your part. Save this file as a number and load the G-Code for the program onto a floppy disk. Insert this floppy disk into the floppy disk slot at the rear of the mill. Access the program. If your G-Code is accurate, you shouldn\u2019t have problems viewing the part. On the main menu, click \u2018PROG IN/OUT\u2019\nThen, enter the number of  the file that you saved onto your floppy disk. View the part on screen to make sure it is accurate. Select \u2018PROG\u2019 from the home menu. Then select \u2018VIEW\u2019. You should see the part in 2-D on your screen. Machine Set-up Find out the RPM and feed-rate of the spindle, and adjust these values on the mill. Here is a good RPM and feed-rate calculator. These values will depend on the material that you are using. When you obtain these values, adjust the meters on the top portion of the mill accordingly. Insert End-Mill into Collet and Screw onto Spindle Press the End-Mill into the Collet. Screw the End-Mill onto the bottom of the Spindle until hand-tight. Take the \u00be\u201d wrench and tighten the top of the spindle until it is snug. Machining the Part Perform a quick safety check. Take a quick look around the table to see if anything is on it that shouldn\u2019t be there. Make sure your clamps are not in the way of the end-mill. Check to see that your Z-axis is above the part, and not touching it. Turn the machine on. Turn the Mill on by turning the dial on the top left hand corner of the mill. Set your X axis and Y axis zero point From the main menu, hit \u2018DRO\u2019. This takes you to the position display, which tells you where you are in relation to the zero point. Using the X and Y position wheels, move the end mill to the center of your stock material. Hit \u2018X\u2019 and then \u2018ABS SET\u2019. Press \u2018Y\u2019 and again \u2018ABS SET\u2019. This tells the mill that your zero point in where your end mill is when pressing those buttons. Start the Program. From the main menu, hit \u2018RUN\u2019. Then hit \u2018START\u2019, and choose event 1. Press the \u2018GO\u2019 button and the table will move so that the end mill is in the correct position. Lower end mill (using Z- axis) to the material contact point, and set this as your Z axis zero point Lower the Z-axis slowly using the handle on the side of the mill. At the instant that the end mill contacts the material, use the hand that is not on the Z-axis to hit \u2018Z\u2019 and then \u2018ABS SET\u2019 to set this as the point where Z = 0. Lower the end-mill until the Z-axis reads .05\u201d or less Slowly lower the Z-axis until the End-mill is .05\u201d (or less) deep into the material. At this point, Lock the position of the Z-Axis using the lever under the Z-axis handle. If the end-mill is too deep into the material, it could get stuck and possibly snap. .05\u201d is a safe depth. Do final checks - ask yourself some questions Am I using the right size end-mill? Is the end mill .05\u201d deep into the material? Start cutting. Press the \u2018GO\u2019 button. At this instant, the mill will begin traveling along the path specified in the G-Code, cutting up all the aluminum in its way. Use compressed air and cutting fluid while the tool is moving. Otherwise, chunks of aluminum can get stuck in the teeth of the end mill. If that happens, the end mill will not cut effectively and may get stuck. When the event is finished, raise Z-axis. After the table has stopped moving, release the locking lever located under the Z-axis handle and raise the Z-axis. Repeat, starting at step 3, until you reach the appropriate depth. Repeat the steps until you reach the depth you are trying to get to. This means that you choose the same event, and lower the Z-axis no more than .05\u201d deeper than the previous pass. After the mill completes that pass, raise the Z-axis and repeat. Repeat Part 4, steps 3-11 but with the next event. Do this until part is complete. Choose a different event, and let the mill cut it out using the procedure mentioned above. When all the events have been completed, you should have your part cut out exactly how you designed it.",
+  "tyn_model":[
+    "mill",
+    "\u2019.",
+    "spindle",
+    "\u2019 and",
+    "\u2018abs",
+    "stock material",
+    "mill table",
+    "\u2018prog",
+    "\u2018go",
+    "\u2019 button",
+    "table",
+    "aluminum",
+    "material",
+    "laptop",
+    "cad",
+    "floppy disk",
+    "floppy disk slot",
+    "\u2019\n",
+    "\u2019 from",
+    "\u2018view",
+    "\u201d wrench",
+    "machine",
+    "\u2018dro",
+    "\u2018x",
+    "\u2018y",
+    "\u2018run",
+    "\u2018start",
+    "\u2019,",
+    "\u2018z",
+    "\u2019 to",
+    "\u201d or",
+    "\u201d (",
+    "\u201d is",
+    "end-mill",
+    "\u201d deep",
+    "compressed air",
+    "\u201d deeper"
+  ],
+  "tyn_section":[
+
+  ]
+}

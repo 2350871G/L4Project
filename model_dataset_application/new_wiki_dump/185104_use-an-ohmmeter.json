@@ -1,0 +1,83 @@
+{
+  "title":"How to Use an Ohmmeter",
+  "url":"https://www.wikihow.com/Use-an-Ohmmeter",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Setting up Your Ohmmeter",
+      "steps":[
+        {
+          "headline":"Make sure your meter has a battery installed or is plugged in.",
+          "description":"If you just bought an ohmmeter, the battery may have come pre-installed in your unit, or packaged separately with instructions for installing it. You\u2019ll need to do this whether your ohmmeter is digital or analog. Analog ohmmeters are very basic and inexpensive and usually range from 0-10 to 0-10,000 ohms. Digital ohmmeters may have similar ranges or \u201cauto-range,\u201d where the device will read a circuit\u2019s resistance and automatically select the best measuring range.Tip: If you\u2019re investing in an ohmmeter for general use, you probably ought to go ahead and buy a good quality \"multimeter\" (multi-tester), which can test other electrical values such as voltage and amperage as well."
+        },
+        {
+          "headline":"Plug your test leads into the sockets on your meter.",
+          "description":"For multi-functional meters, you will see a \"common,\" or negative plug, and a \"positive\" plug. These may also be color-coded, with the black lead going into the negative plug and the red lead going into the positive plug. Ohmmeters are typically sold along with these test leads. If your meter was recently purchased, you should not have to buy your leads separately. Be sure to plug the short ends of the leads into the sockets. The longer ends, with the grips and probes, are the ends you\u2019ll use to actually test a circuit\u2019s resistance."
+        },
+        {
+          "headline":"Touch the 2 ends of the leads together to make sure the meter is zeroed.",
+          "description":"When you touch the probes together, the needle on an analog ohmmeter should point all the way to the right. If the needle doesn\u2019t do this, turn the adjustment knob on your ohmmeter until the needle reads 0 ohms when the probes are touching each other. Note that the scale reads in the reverse direction of most conventional measuring scales: that is, less resistance is to the right and more resistance is to the left. If yours is a digital ohmmeter, the screen should read \u201c0\u201d when you touch the 2 probes together."
+        },
+        {
+          "headline":"Test your ohmmeter on a store-bought resistor, if you can.",
+          "description":"Get a resistor (or several resistors) whose resistance is already known. Then, use your ohmmeter to measure the resistor\u2019s resistance and see if you get the reading that you expect to. You can technically use anything that conducts electricity, from a piece of aluminum foil to a pencil mark on a sheet of paper, to test your ohmmeter, as long as you know that object\u2019s resistance value ahead of time. Place the meter\u2019s probes on opposite ends of the conductor and look to see if the correct resistance reading shows up on the meter\u2019s screen."
+        }
+      ]
+    },
+    {
+      "name":"Measuring Resistance",
+      "steps":[
+        {
+          "headline":"Disconnect all power to the circuit you\u2019re testing.",
+          "description":"If you\u2019re measuring the resistance inside a circuit or wire, it has to be completely dead in order for you to get an accurate reading. This is also very important for your own safety. Another source of power isn't necessary since your ohmmeter will supply all of the voltage and current for your circuit. Trying to use an ohmmeter on a powered circuit can cause damage to the meter, the circuit, and you.Warning: When testing an electronic circuit, be sure it is not live. This means not only unplugging it, but also discharging any capacitors in the circuit. Televisions and other electronics with cathode ray tubes and microwave ovens can have capacitors charged with thousands of volts even when unplugged."
+        },
+        {
+          "headline":"Set your ohmmeter to the appropriate scale, if possible.",
+          "description":"Turn the dial in the center of your ohmmeter to change the scale of the reading, from tens, to hundreds, to thousands, and so on. For best results, turn your meter to the lowest scale that is higher than the resistance of what you\u2019re measuring. For example, if you expect the circuit you\u2019re measuring to have a resistance of 1100 ohms, then your ohmmeter should be set to X100. This means, a reading of \u201c11\u201d on your ohmmeter would be equal to 1100 ohms. Note that you can only do this if you have an idea of what the resistance of what you\u2019re measuring ought to be."
+        },
+        {
+          "headline":"Touch the 2 probes to oppose ends of the circuit.",
+          "description":"Place 1 probe on 1 end of the circuit and place the other probe on the other end. Note that it doesn\u2019t matter which probe is touched to which end of the circuit. Because you\u2019re measuring the resistance in the circuit and resistance doesn\u2019t change with the direction of current flow, the positive probe and the negative probe can be on either end of the circuit to get an accurate resistance reading."
+        },
+        {
+          "headline":"Read the number on your ohmmeter to find the circuit\u2019s resistance.",
+          "description":"This number, multiplied by the scale that your meter is set to, is equal to the circuit\u2019s resistance in ohms. The lower the resistance, the easier it is for current to flow through the circuit. For example, if a circuit has 0 ohms, current would be able to flow through the circuit completely unimpeded."
+        },
+        {
+          "headline":"Isolate the components of an electrical circuit to test them individually.",
+          "description":"Remove the resistor you want to measure from the circuit board by unsoldering the pins with a soldering iron. This will ensure that you\u2019re not getting an inaccurate reading through another path in the circuit. In other words, by testing a resistor while it\u2019s still in a circuit board, you can\u2019t be sure that the resistance you\u2019re measuring is only coming from that particular resistor."
+        },
+        {
+          "headline":"Turn the ohmmeter off when you\u2019re done using it.",
+          "description":"Occasionally the test leads will become shorted while the device is stored, draining the battery. The best way to prevent this is turn off the ohmmeter and disconnect the wires before you store it."
+        }
+      ]
+    }
+  ],
+  "text":" Setting up Your Ohmmeter Make sure your meter has a battery installed or is plugged in. If you just bought an ohmmeter, the battery may have come pre-installed in your unit, or packaged separately with instructions for installing it. You\u2019ll need to do this whether your ohmmeter is digital or analog. Analog ohmmeters are very basic and inexpensive and usually range from 0-10 to 0-10,000 ohms. Digital ohmmeters may have similar ranges or \u201cauto-range,\u201d where the device will read a circuit\u2019s resistance and automatically select the best measuring range.Tip: If you\u2019re investing in an ohmmeter for general use, you probably ought to go ahead and buy a good quality \"multimeter\" (multi-tester), which can test other electrical values such as voltage and amperage as well. Plug your test leads into the sockets on your meter. For multi-functional meters, you will see a \"common,\" or negative plug, and a \"positive\" plug. These may also be color-coded, with the black lead going into the negative plug and the red lead going into the positive plug. Ohmmeters are typically sold along with these test leads. If your meter was recently purchased, you should not have to buy your leads separately. Be sure to plug the short ends of the leads into the sockets. The longer ends, with the grips and probes, are the ends you\u2019ll use to actually test a circuit\u2019s resistance. Touch the 2 ends of the leads together to make sure the meter is zeroed. When you touch the probes together, the needle on an analog ohmmeter should point all the way to the right. If the needle doesn\u2019t do this, turn the adjustment knob on your ohmmeter until the needle reads 0 ohms when the probes are touching each other. Note that the scale reads in the reverse direction of most conventional measuring scales: that is, less resistance is to the right and more resistance is to the left. If yours is a digital ohmmeter, the screen should read \u201c0\u201d when you touch the 2 probes together. Test your ohmmeter on a store-bought resistor, if you can. Get a resistor (or several resistors) whose resistance is already known. Then, use your ohmmeter to measure the resistor\u2019s resistance and see if you get the reading that you expect to. You can technically use anything that conducts electricity, from a piece of aluminum foil to a pencil mark on a sheet of paper, to test your ohmmeter, as long as you know that object\u2019s resistance value ahead of time. Place the meter\u2019s probes on opposite ends of the conductor and look to see if the correct resistance reading shows up on the meter\u2019s screen. Measuring Resistance Disconnect all power to the circuit you\u2019re testing. If you\u2019re measuring the resistance inside a circuit or wire, it has to be completely dead in order for you to get an accurate reading. This is also very important for your own safety. Another source of power isn't necessary since your ohmmeter will supply all of the voltage and current for your circuit. Trying to use an ohmmeter on a powered circuit can cause damage to the meter, the circuit, and you.Warning: When testing an electronic circuit, be sure it is not live. This means not only unplugging it, but also discharging any capacitors in the circuit. Televisions and other electronics with cathode ray tubes and microwave ovens can have capacitors charged with thousands of volts even when unplugged. Set your ohmmeter to the appropriate scale, if possible. Turn the dial in the center of your ohmmeter to change the scale of the reading, from tens, to hundreds, to thousands, and so on. For best results, turn your meter to the lowest scale that is higher than the resistance of what you\u2019re measuring. For example, if you expect the circuit you\u2019re measuring to have a resistance of 1100 ohms, then your ohmmeter should be set to X100. This means, a reading of \u201c11\u201d on your ohmmeter would be equal to 1100 ohms. Note that you can only do this if you have an idea of what the resistance of what you\u2019re measuring ought to be. Touch the 2 probes to oppose ends of the circuit. Place 1 probe on 1 end of the circuit and place the other probe on the other end. Note that it doesn\u2019t matter which probe is touched to which end of the circuit. Because you\u2019re measuring the resistance in the circuit and resistance doesn\u2019t change with the direction of current flow, the positive probe and the negative probe can be on either end of the circuit to get an accurate resistance reading. Read the number on your ohmmeter to find the circuit\u2019s resistance. This number, multiplied by the scale that your meter is set to, is equal to the circuit\u2019s resistance in ohms. The lower the resistance, the easier it is for current to flow through the circuit. For example, if a circuit has 0 ohms, current would be able to flow through the circuit completely unimpeded. Isolate the components of an electrical circuit to test them individually. Remove the resistor you want to measure from the circuit board by unsoldering the pins with a soldering iron. This will ensure that you\u2019re not getting an inaccurate reading through another path in the circuit. In other words, by testing a resistor while it\u2019s still in a circuit board, you can\u2019t be sure that the resistance you\u2019re measuring is only coming from that particular resistor. Turn the ohmmeter off when you\u2019re done using it. Occasionally the test leads will become shorted while the device is stored, draining the battery. The best way to prevent this is turn off the ohmmeter and disconnect the wires before you store it.",
+  "tyn_model":[
+    "ohmmeter",
+    "meter",
+    "probes",
+    "\u201cauto",
+    "\u201d where",
+    "tester",
+    "ohmmeters",
+    "grips",
+    "analog ohmmeter",
+    "\u201c0",
+    "\u201d when",
+    "\u201c11",
+    "\u201d on",
+    "current",
+    "electrical circuit",
+    "soldering iron"
+  ],
+  "tyn_section":[
+
+  ]
+}

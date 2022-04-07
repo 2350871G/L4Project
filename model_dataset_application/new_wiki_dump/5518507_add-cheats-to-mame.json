@@ -1,0 +1,94 @@
+{
+  "title":"How to Add Cheats to MAME",
+  "url":"https://www.wikihow.com/Add-Cheats-to-MAME",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "parts":[
+    {
+      "name":"Downloading The Cheats",
+      "steps":[
+        {
+          "headline":"Go to \"Pugsy's Cheats\".",
+          "description":"This is a trusted website with many versions of cheats for MAME. You can simply search it on a search engine or go to the following address: http://cheat.retrogames.com/"
+        },
+        {
+          "headline":"After that, click on the \"MAME Cheats File\" tab.",
+          "description":""
+        },
+        {
+          "headline":"Once that's completed, click on the version you want to choose.",
+          "description":"I must suggest, however, that you choose the most recent version, as it will include more cheats and be less buggy."
+        }
+      ]
+    },
+    {
+      "name":"Allowing MAME for cheats",
+      "steps":[
+        {
+          "headline":"Click on the Windows logo on the bottom-left side of your computer screen.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Run\", which will open up the run executable.",
+          "description":"Once you've done that, type in \"CMD\" and press \"OK\"."
+        },
+        {
+          "headline":"Type in \"Cd (MAME directory)\" and press enter.",
+          "description":"No quotation marks."
+        },
+        {
+          "headline":"Type in \"Mame -cc\" to create the custom configuration file.",
+          "description":""
+        },
+        {
+          "headline":"Go to your MAME directory.",
+          "description":""
+        },
+        {
+          "headline":"Open up \"Mame.ini\".",
+          "description":""
+        },
+        {
+          "headline":"Travel down to \"CORE MISC OPTIONS\".",
+          "description":""
+        },
+        {
+          "headline":"Where it says \"cheating    0\", change the 0 to a 1.",
+          "description":"(this will change it from disabled to enabled.)"
+        }
+      ]
+    },
+    {
+      "name":"Installing the Cheats",
+      "steps":[
+        {
+          "headline":"Travel to the MAME directory.",
+          "description":""
+        },
+        {
+          "headline":"Open up the file you downloaded.",
+          "description":""
+        },
+        {
+          "headline":"Click on the file \"cheat.7z\" and drag it to the directory.",
+          "description":""
+        },
+        {
+          "headline":"Open up MAME and test it out!",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Downloading The Cheats Go to \"Pugsy's Cheats\". This is a trusted website with many versions of cheats for MAME. You can simply search it on a search engine or go to the following address: http://cheat.retrogames.com/ After that, click on the \"MAME Cheats File\" tab.  Once that's completed, click on the version you want to choose. I must suggest, however, that you choose the most recent version, as it will include more cheats and be less buggy. Allowing MAME for cheats Click on the Windows logo on the bottom-left side of your computer screen.  Click \"Run\", which will open up the run executable. Once you've done that, type in \"CMD\" and press \"OK\". Type in \"Cd (MAME directory)\" and press enter. No quotation marks. Type in \"Mame -cc\" to create the custom configuration file.  Go to your MAME directory.  Open up \"Mame.ini\".  Travel down to \"CORE MISC OPTIONS\".  Where it says \"cheating    0\", change the 0 to a 1. (this will change it from disabled to enabled.) Installing the Cheats Travel to the MAME directory.  Open up the file you downloaded.  Click on the file \"cheat.7z\" and drag it to the directory.  Open up MAME and test it out! ",
+  "tyn_model":[
+    "mame"
+  ],
+  "tyn_section":[
+
+  ]
+}

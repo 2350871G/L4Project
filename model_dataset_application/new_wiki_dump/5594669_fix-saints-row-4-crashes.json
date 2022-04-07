@@ -1,0 +1,180 @@
+{
+  "title":"How to Fix Saints Row 4 Crashes",
+  "url":"https://www.wikihow.com/Fix-Saints-Row-4-Crashes",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Video Game Console Maintenance and Repair"
+  ],
+  "methods":[
+    {
+      "name":"Turn Off Threaded Optimization",
+      "steps":[
+        {
+          "headline":"Right click your Desktop, select NVIDIA Control Panel.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Manage 3D Settings\" link on the left side panel.",
+          "description":""
+        },
+        {
+          "headline":"Click the Program Settings tab.",
+          "description":""
+        },
+        {
+          "headline":"Click the Add button.",
+          "description":""
+        },
+        {
+          "headline":"Browse and add the following folder:",
+          "description":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Saints Row IV\\"
+        },
+        {
+          "headline":"Disable the Threaded Optimization feature.",
+          "description":""
+        },
+        {
+          "headline":"Save the settings and exit.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Review the Registry Privileges",
+      "steps":[
+        {
+          "headline":"Open the Registry Editor.",
+          "description":"Press Windows Key + X. Select Search. Type \"RegEdit\" in the Search Box. Click the Apps icon, and open that from the Search Results. For Windows 7/ Vista, press Windows Key + R. Type \"RegEdit\" in the \"Open\" textbox. Click the OK button."
+        },
+        {
+          "headline":"The Registry Editor will open.",
+          "description":"Locate the following sub key:\nHKEY_CURRENT_USER\\SOFTWARE\\VALVE"
+        },
+        {
+          "headline":"Right click the \"VALVE\" sub key, select Permissions from the context menu.",
+          "description":""
+        },
+        {
+          "headline":"Check the \"Allow\" box for all the following items:",
+          "description":"Full Control Read Special permissions"
+        },
+        {
+          "headline":"Click Apply, and then OK.",
+          "description":""
+        },
+        {
+          "headline":"Exit the Registry Editor.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Verify the Integrity of Game Cache",
+      "steps":[
+        {
+          "headline":"Double click the Steam icon on your Desktop.",
+          "description":""
+        },
+        {
+          "headline":"Sign-in to your Steam account.",
+          "description":""
+        },
+        {
+          "headline":"The Game Library will be displayed.",
+          "description":"Right click the Saints Row 4 icon, select Properties option."
+        },
+        {
+          "headline":"Click the Local Files tab.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Verify integrity of game cache\" button.",
+          "description":"The process may take a few minutes."
+        }
+      ]
+    },
+    {
+      "name":"Verify Conflicts with Windows Security Features",
+      "steps":[
+        {
+          "headline":"Press the Windows Key + R keys simultaneously.",
+          "description":""
+        },
+        {
+          "headline":"Type \"sysdm.cpl\" in the Open textbox.",
+          "description":""
+        },
+        {
+          "headline":"Click the OK button.",
+          "description":""
+        },
+        {
+          "headline":"System Properties dialog will open.",
+          "description":""
+        },
+        {
+          "headline":"Click the Advanced tab.",
+          "description":""
+        },
+        {
+          "headline":"Click the Settings button under \"Performance\" frame.",
+          "description":""
+        },
+        {
+          "headline":"Click the Data Execution Prevention tab.",
+          "description":""
+        },
+        {
+          "headline":"Select \"Turn on DEP for all programs and services except those I select\" option.",
+          "description":""
+        },
+        {
+          "headline":"Click the Add button.",
+          "description":""
+        },
+        {
+          "headline":"Add the following launcher file:",
+          "description":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Saints Row IV\\SaintsRowIV.exe"
+        },
+        {
+          "headline":"Click OK | OK.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Reinstall the Microsoft DirectX",
+      "steps":[
+        {
+          "headline":"Exit all open programs.",
+          "description":""
+        },
+        {
+          "headline":"Open the Command Prompt as administrator.",
+          "description":"If you're using Windows 8.1/ 8, press Windows Key + X simultaneously and select \"Command Prompt (Admin)\". If you're using Windows 7/ Vista, click the Start button. Click All Programs | Accessories. Right click Command Prompt, select \"Run as administrator\"."
+        },
+        {
+          "headline":"Execute the following two commands in the given manner.",
+          "description":"Press ENTER at the end of every command. CD C:\\Program Files (x86)\\Steam\\steamapps\\common\\Saints RowIV\\_CommonRedist\\DirectX\\Jun2010\\\nDXSETUP.EXE"
+        },
+        {
+          "headline":"Microsoft DirectX Setup program will initiate.",
+          "description":"Reinstall the DirectX and then restart your computer."
+        }
+      ]
+    }
+  ],
+  "text":" Turn Off Threaded Optimization Right click your Desktop, select NVIDIA Control Panel.  Click \"Manage 3D Settings\" link on the left side panel.  Click the Program Settings tab.  Click the Add button.  Browse and add the following folder: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Saints Row IV\\ Disable the Threaded Optimization feature.  Save the settings and exit.  Review the Registry Privileges Open the Registry Editor. Press Windows Key + X. Select Search. Type \"RegEdit\" in the Search Box. Click the Apps icon, and open that from the Search Results. For Windows 7/ Vista, press Windows Key + R. Type \"RegEdit\" in the \"Open\" textbox. Click the OK button. The Registry Editor will open. Locate the following sub key:\nHKEY_CURRENT_USER\\SOFTWARE\\VALVE Right click the \"VALVE\" sub key, select Permissions from the context menu.  Check the \"Allow\" box for all the following items: Full Control Read Special permissions Click Apply, and then OK.  Exit the Registry Editor.  Verify the Integrity of Game Cache Double click the Steam icon on your Desktop.  Sign-in to your Steam account.  The Game Library will be displayed. Right click the Saints Row 4 icon, select Properties option. Click the Local Files tab.  Click \"Verify integrity of game cache\" button. The process may take a few minutes. Verify Conflicts with Windows Security Features Press the Windows Key + R keys simultaneously.  Type \"sysdm.cpl\" in the Open textbox.  Click the OK button.  System Properties dialog will open.  Click the Advanced tab.  Click the Settings button under \"Performance\" frame.  Click the Data Execution Prevention tab.  Select \"Turn on DEP for all programs and services except those I select\" option.  Click the Add button.  Add the following launcher file: C:\\Program Files (x86)\\Steam\\steamapps\\common\\Saints Row IV\\SaintsRowIV.exe Click OK | OK.  Reinstall the Microsoft DirectX Exit all open programs.  Open the Command Prompt as administrator. If you're using Windows 8.1/ 8, press Windows Key + X simultaneously and select \"Command Prompt (Admin)\". If you're using Windows 7/ Vista, click the Start button. Click All Programs | Accessories. Right click Command Prompt, select \"Run as administrator\". Execute the following two commands in the given manner. Press ENTER at the end of every command. CD C:\\Program Files (x86)\\Steam\\steamapps\\common\\Saints RowIV\\_CommonRedist\\DirectX\\Jun2010\\\nDXSETUP.EXE Microsoft DirectX Setup program will initiate. Reinstall the DirectX and then restart your computer.",
+  "tyn_model":[
+    "registry editor",
+    "command prompt",
+    "microsoft directx",
+    "microsoft directx setup program",
+    "directx"
+  ],
+  "tyn_section":[
+
+  ]
+}

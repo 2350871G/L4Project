@@ -1,0 +1,215 @@
+{
+  "title":"How to Graph an Equation",
+  "url":"https://www.wikihow.com/Graph-an-Equation",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Shapes"
+  ],
+  "methods":[
+    {
+      "name":"Graphing Linear Equations",
+      "steps":[
+        {
+          "headline":"Use the y=mx+b formula.",
+          "description":"To graph a linear equation, all you have to do it substitute in the variables in this formula. In the formula, you will be solving for (x,y). The variable m= slope. The slope is also noted as rise over run, or the number of points you travel up and over. In the formula, b= y-intercept. This is the place on your graph where the line will cross over the y-axis."
+        },
+        {
+          "headline":"Draw your graph.",
+          "description":"Graphing a linear equation is the most simple, as you don\u2019t have to calculate any numbers prior to graphing. Simply draw your Cartesian coordinate plane."
+        },
+        {
+          "headline":"Find the y-intercept (b) on your graph.",
+          "description":"If we use the example of y=2x-1, we can see that \u2018-1\u2019 is in the point on the equation where you would find \u2018b.\u2019 This makes \u2018-1\u2019 the y-intercept. The y-intercept is always graphed with x=0. Therefore, the y-intercept coordinates are (0,-1). Place a point on your graph where the y-intercept should be."
+        },
+        {
+          "headline":"Find the slope.",
+          "description":"In the example of y=2x-1, the slope is the number where \u2018m\u2019 would be found. That means that according to our example, the slope is \u20182.\u2019 Slope, however, is the rise over run, so we need the slope to be a fraction. Because \u20182\u2019 is a whole number and a fraction, it is simply \u20182/1.\u2019\nTo graph the slope, begin at the y-intercept. The rise (number of spaces up) is the numerator of the fraction, while the run (number of spaces to the side) is the denominator of the fraction. In our example, we would graph the slope by beginning at -1, and then moving up 2 and to the right 1. A positive rise means that you will move up the y-axis, while a negative rise means you will move down. A positive run means you will move to the right of the x-axis, while a negative run means you will move to the left of the x-axis. You can mark as many coordinates using the slope as you would like, but you must mark at least one."
+        },
+        {
+          "headline":"Draw your line.",
+          "description":"Once you have marked at least one other coordinate using the slope, you can connect it with your y-intercept coordinate to form a line. Extend the line to the edges of the graph, and add arrow points to the ends to show that it continues infinitely."
+        }
+      ]
+    },
+    {
+      "name":"Graphing Single-Variable Inequalities",
+      "steps":[
+        {
+          "headline":"Draw a number line.",
+          "description":"Because single-variable inequalities only occur on one axis, you don\u2019t have to use Cartesian coordinates. Instead, draw a simple number line."
+        },
+        {
+          "headline":"Graph your inequality.",
+          "description":"These are pretty simple, because they only have one coordinate. You will be given an inequality such as x<1 to graph. To do this, first find \u20181\u2019 on your number line. If you are given a \u201cgreater than\u201d symbol, which is either > or <, then draw an open circle around the number. If you are given a \u201cgreater than or equal to\u201d symbol, either > or <, then fill in the circle around your point."
+        },
+        {
+          "headline":"Draw your line.",
+          "description":"Using the point you just made, follow the inequality symbol to draw a line representing the inequality. If it is \u2018greater than\u2019 the point, then the line will go to the right. If it is \u2018less than\u2019 the point, then the line will be drawn to the left. Add an arrow to the end to show that the line continues and is not a segment."
+        },
+        {
+          "headline":"Check your answer.",
+          "description":"Substitute in any number to equal \u2018x\u2019 and mark it on your number line. If this number lies on the line you have drawn, your graph is accurate."
+        }
+      ]
+    },
+    {
+      "name":"Graphing Linear Inequalities",
+      "steps":[
+        {
+          "headline":"Use the slope intercept form.",
+          "description":"This is the same formula used to graph regular linear equations, but instead of an \u2018=\u2019 sign being used, you will be given an inequality sign. The inequality sign will either be <, >, <, or >. Slope intercept form is y=mx+b, where m=slope and b=y-intercept. Having an inequality present means that there are multiple solutions."
+        },
+        {
+          "headline":"Graph the inequality.",
+          "description":"Find the y-intercept and the slope to mark your coordinates. If we use the example of y>1/2x+2, then the y-intercept is \u20181\u2019. The slope is \u00bd, meaning you move up one point and to the right two points."
+        },
+        {
+          "headline":"Draw your line.",
+          "description":"Before you draw it though, check the inequality symbol that is being used. If it is a \u201cgreater than\u201d symbol, your line should be dashed. If it is a \u201cgreater than or equal to\u201d symbol, your line should be solid."
+        },
+        {
+          "headline":"Shade your graph.",
+          "description":"Because there are multiple solutions to an inequality, you must show all possible solutions on your graph. This means you will shade all of your graph above or below your line. Choose a coordinate - the origin at (0,0) is often the easiest. Make sure that you note if this coordinate is above or below the line you\u2019ve drawn. Substitute these coordinates into your inequality. Following our example, it would be 0>1/2(0)+1. Solve this inequality. If the coordinate pair is a point above your line and the answer is true, then you would shade above the line. If the answer to the inequality is false, then you would shade below the line. If the coordinate lies below your line and the answer is true, then you shade below your line. If your answer is false, then shade above our line. In our example, (0,0) is below our line and creates a false solution when substituted into the inequality. That means that we shade the remainder of the graph above the line."
+        }
+      ]
+    },
+    {
+      "name":"Graphing Quadratic Equations",
+      "steps":[
+        {
+          "headline":"Examine your formula.",
+          "description":"A quadratic equation means that you have at least one variable that is squared. It will typically be written in the formula y=ax(squared)+bx+c. Graphing a quadratic equation will give you a parabola, which is a \u2018U\u2019 shaped curve. You will need to find at least three point to graph it, beginning with the vertex which is the centermost point."
+        },
+        {
+          "headline":"Find \u2018a,\u2019 \u2018b,\u2019 and \u2018c\u2019.",
+          "description":"If we use the example y=x(squared)+2x+1, then a=1, b=2, and c=1. Each letter corresponds to the number directly before the variable it sits next to in the equation. If there is no number before \u2018x\u2019 in the equation, then the variable is equal to \u20181\u2019 because it is assumed that there is 1x."
+        },
+        {
+          "headline":"Find the vertex.",
+          "description":"To find the vertex, the point in the middle of the parabola, use the formula -b/2a. In our example, this equation would change to -2/2(1), which equals to -1."
+        },
+        {
+          "headline":"Make a table.",
+          "description":"You now know the vertex, -1, which is a point on the x-axis. However, this is only one point of the vertex coordinate. To find the corresponding y-coordinate as well as two other points on your parabola, you will need to make a table."
+        },
+        {
+          "headline":"Make a table that has three rows and two columns.",
+          "description":"Place the x-coordinate for the vertex in the top center column. Choose two more x-coordinates an equal number in each direction (positive and negative) from the vertex point. For example, we could go up two and down two, making the two numbers we fill in the other blank table spaces \u2018-3\u2019 and \u20181\u2019. You can choose any numbers you want to fill in the top row of the table, as long as they are whole numbers and the same distance from the vertex. If you want to have a clearer graph, you can find five coordinates instead of three. Doing this is the same process as above, but give your table five columns instead of three."
+        },
+        {
+          "headline":"Use your table and formula to solve for the y-coordinates.",
+          "description":"One at a time, take the numbers you have selected to represent the x-coordinates from your table and insert them into the original equation. Solve for \u2018y\u2019. Following our example, we could use our chosen coordinate of \u2018-3\u2019 to substitute into the original formula of y=x(squared)+2x+1. This would change to y= -3(squared)+2(3)+1, giving an answer of y=4. Place the new y-coordinate underneath the x-coordinate that you used into your table. Solve for all three (or five, if you want more) coordinates in this fashion."
+        },
+        {
+          "headline":"Graph the coordinates.",
+          "description":"Now that you have at least three complete coordinate pairs, mark them on your graph. Draw a connecting them all into a parabola, and you\u2019re finished!"
+        }
+      ]
+    },
+    {
+      "name":"Graphing a Quadratic Inequality",
+      "steps":[
+        {
+          "headline":"Solve the quadratic formula.",
+          "description":"A quadratic inequality uses the same formula as the quadratic formula but will use an inequality symbol instead. For example, it will look like y<ax(squared)+bx+c. Using the complete steps from above in \u201cGraphing a Quadratic Equation,\u201d find three coordinates to graph your parabola."
+        },
+        {
+          "headline":"Mark the coordinates on your graph.",
+          "description":"Although you have enough points to make your complete parabola, don\u2019t draw the shape yet."
+        },
+        {
+          "headline":"Connect the points on your graph.",
+          "description":"Because you are graphing a quadratic inequality, the line you draw will be a bit different. If your inequality symbol was \u201cgreater than\u201d or \u201cless than\u201d (> or <), then you will draw a dashed line between the coordinates. If your inequality symbol was \u201cgreater than or equal to\u201d or \u201cless than or equal to\u201d (> or <), then the line you draw will be solid. End your lines with arrow points to show that the solutions extend beyond the range of your graph."
+        },
+        {
+          "headline":"Shade the graph.",
+          "description":"In order to show multiple solutions, shade the portion of the graph in which the solution could be found. To find out which part of the graph should be shaded, test a pair of coordinates in your formula. An easy set to use is (0,0). Note whether or not these coordinates lie within or outside of your parabola. Solve the inequality with the coordinates you\u2019ve chosen. If we use an example of y>x(squared)-4x-1 and substitute the coordinates (0,0), then it will change to 0>0(squared)-4(0)-1. If the solution to this is true and the coordinates are inside the parabola, shade inside the parabola. If the solution is false, shade outside of the parabola. If the solution to this is true and the coordinates are outside the parabola, shade the outside of the parabola. If the solution is false, shade inside the parabola."
+        }
+      ]
+    },
+    {
+      "name":"Graphing an Absolute Value Equation",
+      "steps":[
+        {
+          "headline":"Examine your equation.",
+          "description":"The most basic absolute value equation will appear as y=|x|. Other numbers or variables may be involved though."
+        },
+        {
+          "headline":"Make the absolute value equal to 0.",
+          "description":"To do this, make everything in the absolute value lines | | =0. If we use the example y=|x-2|+1, then we get the absolute value by making |x-2|=0. Then the absolute value becomes 2. The absolute value is the number of points from |x| to \u20180\u2019 on a number line. So the absolute value of |2| is 2, and the absolute value of |-2| is also two. This is because in both cases, \u20182\u2019 and \u2018-2\u2019 are 2 steps away from zero on the number line. You may have an absolute value equation where \u2018x\u2019 is alone. In that case, the absolute value is \u20180\u2019. For example, y=|x|+3 changes to y=|0|+3, which equals to \u20183\u2019."
+        },
+        {
+          "headline":"Make a table.",
+          "description":"You want it to have three rows and two columns. Put the first absolute value coordinate in the into the top center column for \u2018X\u2019. Choose two other numbers an equal distance from your x-coordinate in each direction (positive and negative). If |x|=0, then move up and down an equal number of spaces from \u20180\u2019. You can choose any numbers, although ones that are near the x-coordinate are most helpful. They must also be whole numbers."
+        },
+        {
+          "headline":"Solve the inequality.",
+          "description":"You need to find the y-coordinate that pairs with the three x-coordinates you have. To do this, substitute the x-coordinate values into the inequality and solve for \u2018y\u2019. Fill these answers in on your table."
+        },
+        {
+          "headline":"Graph the points.",
+          "description":"You only need three points to graph an absolute value equation, but you can use more if you would like. An absolute value equation will always form a \u201cV\u201d shape on your graph. Add arrows to the ends to show that the line extends further than the edge of your graph."
+        }
+      ]
+    }
+  ],
+  "text":" Graphing Linear Equations Use the y=mx+b formula. To graph a linear equation, all you have to do it substitute in the variables in this formula. In the formula, you will be solving for (x,y). The variable m= slope. The slope is also noted as rise over run, or the number of points you travel up and over. In the formula, b= y-intercept. This is the place on your graph where the line will cross over the y-axis. Draw your graph. Graphing a linear equation is the most simple, as you don\u2019t have to calculate any numbers prior to graphing. Simply draw your Cartesian coordinate plane. Find the y-intercept (b) on your graph. If we use the example of y=2x-1, we can see that \u2018-1\u2019 is in the point on the equation where you would find \u2018b.\u2019 This makes \u2018-1\u2019 the y-intercept. The y-intercept is always graphed with x=0. Therefore, the y-intercept coordinates are (0,-1). Place a point on your graph where the y-intercept should be. Find the slope. In the example of y=2x-1, the slope is the number where \u2018m\u2019 would be found. That means that according to our example, the slope is \u20182.\u2019 Slope, however, is the rise over run, so we need the slope to be a fraction. Because \u20182\u2019 is a whole number and a fraction, it is simply \u20182/1.\u2019\nTo graph the slope, begin at the y-intercept. The rise (number of spaces up) is the numerator of the fraction, while the run (number of spaces to the side) is the denominator of the fraction. In our example, we would graph the slope by beginning at -1, and then moving up 2 and to the right 1. A positive rise means that you will move up the y-axis, while a negative rise means you will move down. A positive run means you will move to the right of the x-axis, while a negative run means you will move to the left of the x-axis. You can mark as many coordinates using the slope as you would like, but you must mark at least one. Draw your line. Once you have marked at least one other coordinate using the slope, you can connect it with your y-intercept coordinate to form a line. Extend the line to the edges of the graph, and add arrow points to the ends to show that it continues infinitely. Graphing Single-Variable Inequalities Draw a number line. Because single-variable inequalities only occur on one axis, you don\u2019t have to use Cartesian coordinates. Instead, draw a simple number line. Graph your inequality. These are pretty simple, because they only have one coordinate. You will be given an inequality such as x<1 to graph. To do this, first find \u20181\u2019 on your number line. If you are given a \u201cgreater than\u201d symbol, which is either > or <, then draw an open circle around the number. If you are given a \u201cgreater than or equal to\u201d symbol, either > or <, then fill in the circle around your point. Draw your line. Using the point you just made, follow the inequality symbol to draw a line representing the inequality. If it is \u2018greater than\u2019 the point, then the line will go to the right. If it is \u2018less than\u2019 the point, then the line will be drawn to the left. Add an arrow to the end to show that the line continues and is not a segment. Check your answer. Substitute in any number to equal \u2018x\u2019 and mark it on your number line. If this number lies on the line you have drawn, your graph is accurate. Graphing Linear Inequalities Use the slope intercept form. This is the same formula used to graph regular linear equations, but instead of an \u2018=\u2019 sign being used, you will be given an inequality sign. The inequality sign will either be <, >, <, or >. Slope intercept form is y=mx+b, where m=slope and b=y-intercept. Having an inequality present means that there are multiple solutions. Graph the inequality. Find the y-intercept and the slope to mark your coordinates. If we use the example of y>1/2x+2, then the y-intercept is \u20181\u2019. The slope is \u00bd, meaning you move up one point and to the right two points. Draw your line. Before you draw it though, check the inequality symbol that is being used. If it is a \u201cgreater than\u201d symbol, your line should be dashed. If it is a \u201cgreater than or equal to\u201d symbol, your line should be solid. Shade your graph. Because there are multiple solutions to an inequality, you must show all possible solutions on your graph. This means you will shade all of your graph above or below your line. Choose a coordinate - the origin at (0,0) is often the easiest. Make sure that you note if this coordinate is above or below the line you\u2019ve drawn. Substitute these coordinates into your inequality. Following our example, it would be 0>1/2(0)+1. Solve this inequality. If the coordinate pair is a point above your line and the answer is true, then you would shade above the line. If the answer to the inequality is false, then you would shade below the line. If the coordinate lies below your line and the answer is true, then you shade below your line. If your answer is false, then shade above our line. In our example, (0,0) is below our line and creates a false solution when substituted into the inequality. That means that we shade the remainder of the graph above the line. Graphing Quadratic Equations Examine your formula. A quadratic equation means that you have at least one variable that is squared. It will typically be written in the formula y=ax(squared)+bx+c. Graphing a quadratic equation will give you a parabola, which is a \u2018U\u2019 shaped curve. You will need to find at least three point to graph it, beginning with the vertex which is the centermost point. Find \u2018a,\u2019 \u2018b,\u2019 and \u2018c\u2019. If we use the example y=x(squared)+2x+1, then a=1, b=2, and c=1. Each letter corresponds to the number directly before the variable it sits next to in the equation. If there is no number before \u2018x\u2019 in the equation, then the variable is equal to \u20181\u2019 because it is assumed that there is 1x. Find the vertex. To find the vertex, the point in the middle of the parabola, use the formula -b/2a. In our example, this equation would change to -2/2(1), which equals to -1. Make a table. You now know the vertex, -1, which is a point on the x-axis. However, this is only one point of the vertex coordinate. To find the corresponding y-coordinate as well as two other points on your parabola, you will need to make a table. Make a table that has three rows and two columns. Place the x-coordinate for the vertex in the top center column. Choose two more x-coordinates an equal number in each direction (positive and negative) from the vertex point. For example, we could go up two and down two, making the two numbers we fill in the other blank table spaces \u2018-3\u2019 and \u20181\u2019. You can choose any numbers you want to fill in the top row of the table, as long as they are whole numbers and the same distance from the vertex. If you want to have a clearer graph, you can find five coordinates instead of three. Doing this is the same process as above, but give your table five columns instead of three. Use your table and formula to solve for the y-coordinates. One at a time, take the numbers you have selected to represent the x-coordinates from your table and insert them into the original equation. Solve for \u2018y\u2019. Following our example, we could use our chosen coordinate of \u2018-3\u2019 to substitute into the original formula of y=x(squared)+2x+1. This would change to y= -3(squared)+2(3)+1, giving an answer of y=4. Place the new y-coordinate underneath the x-coordinate that you used into your table. Solve for all three (or five, if you want more) coordinates in this fashion. Graph the coordinates. Now that you have at least three complete coordinate pairs, mark them on your graph. Draw a connecting them all into a parabola, and you\u2019re finished! Graphing a Quadratic Inequality Solve the quadratic formula. A quadratic inequality uses the same formula as the quadratic formula but will use an inequality symbol instead. For example, it will look like y<ax(squared)+bx+c. Using the complete steps from above in \u201cGraphing a Quadratic Equation,\u201d find three coordinates to graph your parabola. Mark the coordinates on your graph. Although you have enough points to make your complete parabola, don\u2019t draw the shape yet. Connect the points on your graph. Because you are graphing a quadratic inequality, the line you draw will be a bit different. If your inequality symbol was \u201cgreater than\u201d or \u201cless than\u201d (> or <), then you will draw a dashed line between the coordinates. If your inequality symbol was \u201cgreater than or equal to\u201d or \u201cless than or equal to\u201d (> or <), then the line you draw will be solid. End your lines with arrow points to show that the solutions extend beyond the range of your graph. Shade the graph. In order to show multiple solutions, shade the portion of the graph in which the solution could be found. To find out which part of the graph should be shaded, test a pair of coordinates in your formula. An easy set to use is (0,0). Note whether or not these coordinates lie within or outside of your parabola. Solve the inequality with the coordinates you\u2019ve chosen. If we use an example of y>x(squared)-4x-1 and substitute the coordinates (0,0), then it will change to 0>0(squared)-4(0)-1. If the solution to this is true and the coordinates are inside the parabola, shade inside the parabola. If the solution is false, shade outside of the parabola. If the solution to this is true and the coordinates are outside the parabola, shade the outside of the parabola. If the solution is false, shade inside the parabola. Graphing an Absolute Value Equation Examine your equation. The most basic absolute value equation will appear as y=|x|. Other numbers or variables may be involved though. Make the absolute value equal to 0. To do this, make everything in the absolute value lines | | =0. If we use the example y=|x-2|+1, then we get the absolute value by making |x-2|=0. Then the absolute value becomes 2. The absolute value is the number of points from |x| to \u20180\u2019 on a number line. So the absolute value of |2| is 2, and the absolute value of |-2| is also two. This is because in both cases, \u20182\u2019 and \u2018-2\u2019 are 2 steps away from zero on the number line. You may have an absolute value equation where \u2018x\u2019 is alone. In that case, the absolute value is \u20180\u2019. For example, y=|x|+3 changes to y=|0|+3, which equals to \u20183\u2019. Make a table. You want it to have three rows and two columns. Put the first absolute value coordinate in the into the top center column for \u2018X\u2019. Choose two other numbers an equal distance from your x-coordinate in each direction (positive and negative). If |x|=0, then move up and down an equal number of spaces from \u20180\u2019. You can choose any numbers, although ones that are near the x-coordinate are most helpful. They must also be whole numbers. Solve the inequality. You need to find the y-coordinate that pairs with the three x-coordinates you have. To do this, substitute the x-coordinate values into the inequality and solve for \u2018y\u2019. Fill these answers in on your table. Graph the points. You only need three points to graph an absolute value equation, but you can use more if you would like. An absolute value equation will always form a \u201cV\u201d shape on your graph. Add arrows to the ends to show that the line extends further than the edge of your graph.",
+  "tyn_model":[
+    "\u2019.",
+    "\u201cgreater",
+    "table",
+    "\u20181",
+    "\u201d symbol",
+    "\u2018x",
+    "\u2019 and",
+    "\u2019 is",
+    "\u2019 the",
+    "\u20182",
+    "inequality symbol",
+    "absolute value equation",
+    "\u20180",
+    "\u2018-1",
+    "graph",
+    "\u2019 on",
+    "\u2018-3",
+    "\u2018y",
+    "\u201d or",
+    "\u201cless",
+    "\u201d (",
+    "cartesian coordinate plane",
+    "\u2018b.",
+    "\u2019 this",
+    "\u2018m",
+    "\u2019 would",
+    "\u2019 slope",
+    "\u20182/1",
+    "\u2019\n",
+    "slope",
+    "inequality",
+    "\u2018greater",
+    "\u2018less",
+    "\u2018=",
+    "\u2019 sign",
+    "\u2018u",
+    "\u2019 shaped",
+    "\u2018a",
+    "\u2019 \u2018",
+    "\u2018c",
+    "\u2019 in",
+    "\u2019 because",
+    "formula",
+    "solve",
+    "\u2019 to",
+    "\u201cgraphing",
+    "\u201d find",
+    "\u2018-2",
+    "\u2019 are",
+    "\u20183",
+    "\u201cv",
+    "\u201d shape"
+  ],
+  "tyn_section":[
+
+  ]
+}

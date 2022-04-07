@@ -1,0 +1,116 @@
+{
+  "title":"How to Calculate Kilowatt Hours",
+  "url":"https://www.wikihow.com/Calculate-Kilowatt-Hours",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Estimating Kilowatt Hours from Appliance Labels",
+      "steps":[
+        {
+          "headline":"Find the wattage on the appliance label.",
+          "description":"Most high-power appliances have an energy label on the back or base of the appliance. Look here to find the wattage, listed as \"W.\" This is usually the maximum power the device operates at, which may be much higher than the actual average wattage. The steps below will find a rough estimate of kWh from this number, but your actual kWh usage is usually lower. Some devices show a range of watts, such as \"200\u2013300W.\" It may be more accurate to choose the middle of this range, or 250W in this example."
+        },
+        {
+          "headline":"Multiply wattage by hours used each day.",
+          "description":"Watts measure power, or energy used over time. Multiplying by a unit of time gives you an answer in terms of energy, which is what matters for your electrical bill. Example: A large window fan rated at 250 watts runs for an average of 5 hours a day. The fan's daily watt-hours equal (250 watts) x (5 hours / day) = 1250 watt-hours per day. For air conditioning and heating units, make separate calculations for each season. Refrigerators only draw power about \u2153 of the time, or about 8 hours a day if you never unplug them."
+        },
+        {
+          "headline":"Divide the result by 1,000.",
+          "description":"A kilowatt is equivalent to 1,000 watts, so this step converts your answer from watt hours into kilowatt hours. Example: You've calculated that your fan uses 1250 watt hours of energy per day. (1250 watt hours / day) \u00f7 (1000 watts / 1 kilowatt) = 1.25 kilowatt hours per day."
+        },
+        {
+          "headline":"Multiply your answer by the number of days you're measuring.",
+          "description":"Now you know how many kilowatt-hours (kWh) the device uses every day. To calculate your kWH per month or per year, just multiply by the number of days in that period. Example: Over the course of a 30-day month, your fan would use (1.25 kWh / day) x (30 days / month) = 37.5 kWh per month. Example: If you fan runs every day for a year, it would use (1.25 kWh / day) x (365 days / year) = 456.25 kWh per year."
+        },
+        {
+          "headline":"Multiply by the cost of electricity per kWh.",
+          "description":"Your electricity bill lists the cost per kilowatt hour. Multiply this number by the kWh to find the amount you can expect to pay. Example: If energy costs 17 cents/kWh, running the fan will cost (0.17 dollars / kWh) x (456.25 kWh / year) = $77.56 per year (rounded to the nearest cent). Remember that estimates based on the listed wattage is a maximum. In reality you would be charged less than this. If you're looking at a different area than the one you live in, search online to find the cost of electricity. For US locations, start with the EIA website."
+        }
+      ]
+    },
+    {
+      "name":"Calculating Kilowatt Hours from Amps and Voltage",
+      "steps":[
+        {
+          "headline":"Find the amps rating on your appliance.",
+          "description":"Some appliance labels do not list watts. In this situation, look for an amp or \"A\" measurement instead. Laptop and phone chargers may list two amp values. Use the one labeled input."
+        },
+        {
+          "headline":"Find the voltage in your region.",
+          "description":"In the United States and a few other countries, the standard household voltage is 120V. In the EU and most of the rest of the world, the voltage is between 220 and 240V. In the US, some large appliances such as washing machines may be plugged into special 240V circuits. Check the appliance label's voltage rating to find out. (The label only tells you the recommended voltage, but you can assume a professionally installed appliance matches this recommendation.)"
+        },
+        {
+          "headline":"Multiple amps and volts together.",
+          "description":"Multiplying amps and volts gives you an answer in watts, or electrical power. Example: A microwave label lists 6.5 amps and is plugged into a 120V outlet. It consumes 6.5 amps x 120 volts = 780 watts."
+        },
+        {
+          "headline":"Multiply by hours used per day.",
+          "description":"The wattage tells you the rate energy is consumed while the appliance is active. Multiply the wattage by the number of hours the device runs during an average day. Example: If the microwave runs for half an hour each day, multiply 780 watts x 0.5 hours / day = 390 watt hours per day."
+        },
+        {
+          "headline":"Divide by 1000.",
+          "description":"This converts from watt hours to kilowatt hours. Example: 390 watt hours / day \u00f7 1000 watts / kilowatt = 0.39 kilowatt hours per day."
+        },
+        {
+          "headline":"Multiply to find the kilowatt hours for a larger time period.",
+          "description":"For example, if you want to find out how many kilowatt hours you'll be charged for during a 31-day billing cycle, multiply your answer by 31 days. Example: 0.39 kilowatt hours / day x 31 days = 12.09 kilowatt hours."
+        }
+      ]
+    },
+    {
+      "name":"Using a Power Meter",
+      "steps":[
+        {
+          "headline":"Purchase a power meter online.",
+          "description":"Also called a watt meter or kilowatt meter, this device measures the actual power your appliance uses. This is typically more accurate than using the appliance's label info. If you're familiar with electrician's tools, you may be able to use a multimeter instead. This requires access to the appliance's wiring while it is plugged in. Needless to say, don't disassemble anything unless you know what you're doing."
+        },
+        {
+          "headline":"Plug the meter between the outlet and the appliance.",
+          "description":"Plug the power meter into the wall. Plug the appliance into the power meter."
+        },
+        {
+          "headline":"Measure the kilowatt hours.",
+          "description":"Set your power meter to display kilowatt hours. As long as you keep the power meter connected, it should calculate the total kilowatt hours of the attached appliance. If your power meter only measures watts, you can use the method above to calculate kilowatt hours from that measurement. Refer to the power meter instructions if you're not sure how to change its settings."
+        },
+        {
+          "headline":"Use the appliance as you would normally.",
+          "description":"The longer you leave the power meter plugged in, the more accurate its calculation will be."
+        },
+        {
+          "headline":"Find your monthly or annual kilowatt hours.",
+          "description":"The kilowatt hours displayed on the meter is a running total from the time the device was plugged in. You can multiply this number to estimate your kWh over a longer time period. For example, let's say the meter has been running for 5 days, and you want to find the 30-day estimate. 30 divided by 5 is 6, so multiply the kWh displayed by 6."
+        }
+      ]
+    }
+  ],
+  "text":" Estimating Kilowatt Hours from Appliance Labels Find the wattage on the appliance label. Most high-power appliances have an energy label on the back or base of the appliance. Look here to find the wattage, listed as \"W.\" This is usually the maximum power the device operates at, which may be much higher than the actual average wattage. The steps below will find a rough estimate of kWh from this number, but your actual kWh usage is usually lower. Some devices show a range of watts, such as \"200\u2013300W.\" It may be more accurate to choose the middle of this range, or 250W in this example. Multiply wattage by hours used each day. Watts measure power, or energy used over time. Multiplying by a unit of time gives you an answer in terms of energy, which is what matters for your electrical bill. Example: A large window fan rated at 250 watts runs for an average of 5 hours a day. The fan's daily watt-hours equal (250 watts) x (5 hours / day) = 1250 watt-hours per day. For air conditioning and heating units, make separate calculations for each season. Refrigerators only draw power about \u2153 of the time, or about 8 hours a day if you never unplug them. Divide the result by 1,000. A kilowatt is equivalent to 1,000 watts, so this step converts your answer from watt hours into kilowatt hours. Example: You've calculated that your fan uses 1250 watt hours of energy per day. (1250 watt hours / day) \u00f7 (1000 watts / 1 kilowatt) = 1.25 kilowatt hours per day. Multiply your answer by the number of days you're measuring. Now you know how many kilowatt-hours (kWh) the device uses every day. To calculate your kWH per month or per year, just multiply by the number of days in that period. Example: Over the course of a 30-day month, your fan would use (1.25 kWh / day) x (30 days / month) = 37.5 kWh per month. Example: If you fan runs every day for a year, it would use (1.25 kWh / day) x (365 days / year) = 456.25 kWh per year. Multiply by the cost of electricity per kWh. Your electricity bill lists the cost per kilowatt hour. Multiply this number by the kWh to find the amount you can expect to pay. Example: If energy costs 17 cents/kWh, running the fan will cost (0.17 dollars / kWh) x (456.25 kWh / year) = $77.56 per year (rounded to the nearest cent). Remember that estimates based on the listed wattage is a maximum. In reality you would be charged less than this. If you're looking at a different area than the one you live in, search online to find the cost of electricity. For US locations, start with the EIA website. Calculating Kilowatt Hours from Amps and Voltage Find the amps rating on your appliance. Some appliance labels do not list watts. In this situation, look for an amp or \"A\" measurement instead. Laptop and phone chargers may list two amp values. Use the one labeled input. Find the voltage in your region. In the United States and a few other countries, the standard household voltage is 120V. In the EU and most of the rest of the world, the voltage is between 220 and 240V. In the US, some large appliances such as washing machines may be plugged into special 240V circuits. Check the appliance label's voltage rating to find out. (The label only tells you the recommended voltage, but you can assume a professionally installed appliance matches this recommendation.) Multiple amps and volts together. Multiplying amps and volts gives you an answer in watts, or electrical power. Example: A microwave label lists 6.5 amps and is plugged into a 120V outlet. It consumes 6.5 amps x 120 volts = 780 watts. Multiply by hours used per day. The wattage tells you the rate energy is consumed while the appliance is active. Multiply the wattage by the number of hours the device runs during an average day. Example: If the microwave runs for half an hour each day, multiply 780 watts x 0.5 hours / day = 390 watt hours per day. Divide by 1000. This converts from watt hours to kilowatt hours. Example: 390 watt hours / day \u00f7 1000 watts / kilowatt = 0.39 kilowatt hours per day. Multiply to find the kilowatt hours for a larger time period. For example, if you want to find out how many kilowatt hours you'll be charged for during a 31-day billing cycle, multiply your answer by 31 days. Example: 0.39 kilowatt hours / day x 31 days = 12.09 kilowatt hours. Using a Power Meter Purchase a power meter online. Also called a watt meter or kilowatt meter, this device measures the actual power your appliance uses. This is typically more accurate than using the appliance's label info. If you're familiar with electrician's tools, you may be able to use a multimeter instead. This requires access to the appliance's wiring while it is plugged in. Needless to say, don't disassemble anything unless you know what you're doing. Plug the meter between the outlet and the appliance. Plug the power meter into the wall. Plug the appliance into the power meter. Measure the kilowatt hours. Set your power meter to display kilowatt hours. As long as you keep the power meter connected, it should calculate the total kilowatt hours of the attached appliance. If your power meter only measures watts, you can use the method above to calculate kilowatt hours from that measurement. Refer to the power meter instructions if you're not sure how to change its settings. Use the appliance as you would normally. The longer you leave the power meter plugged in, the more accurate its calculation will be. Find your monthly or annual kilowatt hours. The kilowatt hours displayed on the meter is a running total from the time the device was plugged in. You can multiply this number to estimate your kWh over a longer time period. For example, let's say the meter has been running for 5 days, and you want to find the 30-day estimate. 30 divided by 5 is 6, so multiply the kWh displayed by 6.",
+  "tyn_model":[
+    "power meter",
+    "fan",
+    "electricity",
+    "microwave",
+    "meter",
+    "appliance labels",
+    "high-power appliances",
+    "energy label",
+    "electrical bill",
+    "large window fan",
+    "air conditioning",
+    "refrigerators",
+    "\u2153 of",
+    "\u00f7 (",
+    "electricity bill",
+    "appliances",
+    "electrical power",
+    "\u00f7 1000",
+    "electrician's tools",
+    "multimeter"
+  ],
+  "tyn_section":[
+
+  ]
+}

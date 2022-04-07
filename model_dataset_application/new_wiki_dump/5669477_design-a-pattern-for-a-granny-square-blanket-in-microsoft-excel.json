@@ -1,0 +1,93 @@
+{
+  "title":"How to Design a Pattern for a Granny Square Blanket in Microsoft Excel",
+  "url":"https://www.wikihow.com/Design-a-Pattern-for-a-Granny-Square-Blanket-in-Microsoft-Excel",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Crafts",
+    "Needlework",
+    "Knitting and Crochet"
+  ],
+  "steps":[
+    {
+      "headline":"Make a sample square.",
+      "description":"This should be a square of your pattern, with your yarn. Of course, you could create the final design for the blanket after creating all of your squares, but you may then realize you have too many of one colour or not enough of another."
+    },
+    {
+      "headline":"Measure it.",
+      "description":"Likely all your squares won't have exactly the same dimensions. That's okay; they will stretch when you put them together and look just fine. As an example which will be used throughout this article, this square is 6 inches."
+    },
+    {
+      "headline":"Open up a new Excel Workbook document.",
+      "description":""
+    },
+    {
+      "headline":"Highlight a good portion of your document.",
+      "description":""
+    },
+    {
+      "headline":"Click Format > Column Width.",
+      "description":""
+    },
+    {
+      "headline":"Set the column width to the row height.",
+      "description":"This should be a value of .21; if that doesn't work, check Format > Row Height to see what it is."
+    },
+    {
+      "headline":"Continue changing the column width.",
+      "description":"Your document will now have contracted to the left side of your screen. Continue modifying more columns until you have a decent-sized work area. You can always use the same method to add more space later."
+    },
+    {
+      "headline":"Decide what you want the finished dimensions to be.",
+      "description":"As an example, this blanket will have finished dimensions of 6.5 by 6.5 feet."
+    },
+    {
+      "headline":"Calculate the number of squares per side needed.",
+      "description":"Convert the finished width and the square width to the same units. (Ex. 78in and 6in)\nDivide the finished width by the square width. (78/6=13) That will be the number of squares per side. If you want a rectangular blanket, repeat for the height."
+    },
+    {
+      "headline":"Highlight a border around a number of Excel blocks equal to your square number.",
+      "description":"Since the example blanket is 13 by 13, we will highlight both row and column 14. Use a colour that is contrasting to the colours of yarn you will be working with. You may want this border to be a few blocks in width."
+    },
+    {
+      "headline":"Copy and paste the border a few times.",
+      "description":"Highlight the entire square you blocked out and the border. Right click > copy. Right click in the upper left corner of where you want the paste to be. Hit paste. Repeat for desired number of workstations."
+    },
+    {
+      "headline":"At this point, you may wish to zoom in.",
+      "description":"Feel free to do so."
+    },
+    {
+      "headline":"Decide which fill colours roughly correspond to your yarn colours.",
+      "description":""
+    },
+    {
+      "headline":"Highlight a section of one of your workstations.",
+      "description":"Fill with a yarn colour. Each block in your document represents one physical square of a certain color. Click-command-click will allow you to highlight squares that aren't next to each other. Click and drag or click-shift-click will allow you to highlight blocks of squares that are next to each other. Both methods can be used in conjunction with one another."
+    },
+    {
+      "headline":"Create a pattern using the entire area of the workstation.",
+      "description":""
+    },
+    {
+      "headline":"Repeat with multiple workstations with different patterns.",
+      "description":"To fit a certain pattern, you may want to modify the dimensions of your blanket. Just add or delete another row/column of your border colour."
+    },
+    {
+      "headline":"Add more workstations if needed.",
+      "description":""
+    },
+    {
+      "headline":"Choose a pattern and begin stitching!",
+      "description":""
+    }
+  ],
+  "text":" Make a sample square. This should be a square of your pattern, with your yarn. Of course, you could create the final design for the blanket after creating all of your squares, but you may then realize you have too many of one colour or not enough of another. Measure it. Likely all your squares won't have exactly the same dimensions. That's okay; they will stretch when you put them together and look just fine. As an example which will be used throughout this article, this square is 6 inches. Open up a new Excel Workbook document.  Highlight a good portion of your document.  Click Format > Column Width.  Set the column width to the row height. This should be a value of .21; if that doesn't work, check Format > Row Height to see what it is. Continue changing the column width. Your document will now have contracted to the left side of your screen. Continue modifying more columns until you have a decent-sized work area. You can always use the same method to add more space later. Decide what you want the finished dimensions to be. As an example, this blanket will have finished dimensions of 6.5 by 6.5 feet. Calculate the number of squares per side needed. Convert the finished width and the square width to the same units. (Ex. 78in and 6in)\nDivide the finished width by the square width. (78/6=13) That will be the number of squares per side. If you want a rectangular blanket, repeat for the height. Highlight a border around a number of Excel blocks equal to your square number. Since the example blanket is 13 by 13, we will highlight both row and column 14. Use a colour that is contrasting to the colours of yarn you will be working with. You may want this border to be a few blocks in width. Copy and paste the border a few times. Highlight the entire square you blocked out and the border. Right click > copy. Right click in the upper left corner of where you want the paste to be. Hit paste. Repeat for desired number of workstations. At this point, you may wish to zoom in. Feel free to do so. Decide which fill colours roughly correspond to your yarn colours.  Highlight a section of one of your workstations. Fill with a yarn colour. Each block in your document represents one physical square of a certain color. Click-command-click will allow you to highlight squares that aren't next to each other. Click and drag or click-shift-click will allow you to highlight blocks of squares that are next to each other. Both methods can be used in conjunction with one another. Create a pattern using the entire area of the workstation.  Repeat with multiple workstations with different patterns. To fit a certain pattern, you may want to modify the dimensions of your blanket. Just add or delete another row/column of your border colour. Add more workstations if needed.  Choose a pattern and begin stitching! ",
+  "tyn_model":[
+    "yarn",
+    "blanket",
+    "excel workbook document"
+  ],
+  "tyn_section":[
+
+  ]
+}

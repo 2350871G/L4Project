@@ -1,0 +1,190 @@
+{
+  "title":"How to Resize Digital Photos",
+  "url":"https://www.wikihow.com/Resize-Digital-Photos",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Editing"
+  ],
+  "methods":[
+    {
+      "name":"Using Free Web Applications",
+      "steps":[
+        {
+          "headline":"Open the web application of your choice.",
+          "description":"There are many web services that will resize your images for free. You will need to upload your image to the site and then choose your resize options. Most programs offer the same basic features, though some will have extras available that others don\u2019t. Several of the more popular sites include:\npicresize\nResize Your Image\nShrink Pictures\nWeb Resizer\nResize Pic"
+        },
+        {
+          "headline":"Upload your image.",
+          "description":"You will have to navigate to the image on your computer, and then upload it to the website. Once the upload is complete, the image editing options will appear. Most web applications have a maximum file size that is allowed to be uploaded, typically around 5 MB."
+        },
+        {
+          "headline":"Resize the image.",
+          "description":"Depending on which service you are using, you may have multiple options when it comes to resizing. You may be able to choose a percentage of the original size, or several preset size. Almost all services will allow you to set an exact size in pixels that you would like to resize to."
+        },
+        {
+          "headline":"Set the quality.",
+          "description":"Most resize services will let you set how much compression the image will have, which will affect the quality. The higher the compression, the lower the quality and the smaller the file size."
+        },
+        {
+          "headline":"Add any other effects.",
+          "description":"Depending on the service you are using, you may have access to other options such as rotation, color changes, filters, and more. Choose the effects that you want."
+        },
+        {
+          "headline":"Download the new copy.",
+          "description":"Once you\u2019ve picked all of your settings and effects, click the Download button. This may be called a Resize button or something similar. The newly-edited photo will be downloaded to your computer, which you can then transfer to wherever you need."
+        }
+      ]
+    },
+    {
+      "name":"Using Microsoft Paint",
+      "steps":[
+        {
+          "headline":"Open the file in Microsoft Paint.",
+          "description":"Click File and then Select Open. Navigate to the file on your computer. If you are trying to resize a photo from Facebook or another online service, you will need to download it first."
+        },
+        {
+          "headline":"Click the Resize button.",
+          "description":"In newer versions of Paint, the Resize button is located in the Home tab. In older versions of Paint, click the Image menu, and then select Resize/Skew."
+        },
+        {
+          "headline":"Choose your resize method.",
+          "description":"You can resize by either percentage or by pixel size. If you keep the \u201cMaintain aspect ratio\u201d box checked, both boxes will be filled in automatically when you enter one value, to keep the proportions the same."
+        },
+        {
+          "headline":"Click OK.",
+          "description":"This will change the image to the size that you specified. If you are unhappy with the changes, press Ctrl+Z to undo the changes."
+        },
+        {
+          "headline":"Save the resized image.",
+          "description":"Once you are happy with the resize changes, click File and then select Save As. Rename the image so that you don\u2019t overwrite the original."
+        },
+        {
+          "headline":"Select a file type.",
+          "description":"The file type you pick will affect the quality of the image after it is saved. PNG and JPG are the most popular for uploading to the internet and attaching to emails."
+        }
+      ]
+    },
+    {
+      "name":"Using Google Picasa",
+      "steps":[
+        {
+          "headline":"Browse for your image in Picasa.",
+          "description":"If the image you want to resize is not located in your Picasa library, you can add it by clicking file and then selecting Add File to Picasa. Once your file is in your Picasa library, select it."
+        },
+        {
+          "headline":"Export the image.",
+          "description":"Click File and then select Export Picture to Folder. This will open the Export to Folder window. You can specify where you want the photo to be saved to."
+        },
+        {
+          "headline":"Choose your resize options.",
+          "description":"In the \u201cImage size\u201d section, you can choose to use preset image sizes, or specify an exact pixel size. The pixel size affects the longest edge of the image size, and the other edge will be adjusted automatically."
+        },
+        {
+          "headline":"Select the desired image quality.",
+          "description":"Click the \"Image quality\" dropdown menu. Automatic will attempt to preserve the original quality as much as possible. Maximum will keep as much detail as it can, but will result in higher file sizes. Minimum will result in a much smaller image size at a much lower quality."
+        },
+        {
+          "headline":"Click Export when ready.",
+          "description":"Your newly adjusted image will be copied to the location that you specified."
+        }
+      ]
+    },
+    {
+      "name":"Using Adobe Photoshop",
+      "steps":[
+        {
+          "headline":"Open the image in Photoshop.",
+          "description":"Click File and select Open. Browse for the image file on your computer or inserted disc."
+        },
+        {
+          "headline":"Open the Image Size tool.",
+          "description":"Click on the Image menu and then select Image Size. This will open the Image Size window."
+        },
+        {
+          "headline":"Choose your resize method.",
+          "description":"You can choose to resize in pixels, inches, or percentage. Enter the value you want in one field and the other field will be updated automatically to keep proportions the same. You can keep the proportions the same, or you can unlink them by clicking the Chain icon."
+        },
+        {
+          "headline":"Choose your resample options.",
+          "description":"The \u201cResample Image\u201d menu will allow you to make adjustments that will affect the final quality of the resize. Pick the one that suits your needs the best."
+        },
+        {
+          "headline":"Click OK to resize the image.",
+          "description":"You will see the results in your main window. If you are satisfied with the results, click File and select Save As. Give the file a new name so that you don\u2019t overwrite the original."
+        }
+      ]
+    },
+    {
+      "name":"Using GIMP",
+      "steps":[
+        {
+          "headline":"Open the photo in GIMP.",
+          "description":"GIMP is an open-source alternative to programs like Adobe Photoshop. To open your image, click File and then select Open. Browse for your file on your computer."
+        },
+        {
+          "headline":"Open the Scale Image tool.",
+          "description":"Click Image and then select Scale Image. This will open a new window."
+        },
+        {
+          "headline":"Choose your resize method.",
+          "description":"You can choose between pixels (px), inches (in), or percentage. Use the pulldown menu next to the Image Size fields. Enter the value that you want into one field and the other will be updated automatically to maintain proportions. If you would like to adjust each dimension individually, click the Chain icon to unlink them."
+        },
+        {
+          "headline":"Select your quality setting.",
+          "description":"Click the Quality pulldown menu and select the type of resampling that you want to use. The choice you make will affect the quality of your resized picture. Experiment to find one that works best."
+        },
+        {
+          "headline":"Click Scale to resize the image.",
+          "description":"Once you are set click the Scale button and review the changes to your image. If you are unhappy with the changes, click the Edit menu and select Undo."
+        },
+        {
+          "headline":"Save your changes.",
+          "description":"Once you are happy with the changes you\u2019ve made, click file and select Save As. Choose a new file name so that you don\u2019t overwrite the original file."
+        }
+      ]
+    },
+    {
+      "name":"Resizing Photos for Instagram",
+      "steps":[
+        {
+          "headline":"Download an Instagram resizer app.",
+          "description":"Since Instagram uploads take place entirely on your mobile device, it is much more convenient to edit the photos that you take directly on your phone. There are multiple apps available that can resize your photos so that Instagram does not crop them. If you want to resize a photo on your computer before uploading it to Instagram, resize it to 612 X 612 pixels. This is the size of the Instagram format."
+        },
+        {
+          "headline":"Run the resizer app.",
+          "description":"Depending on the app, the features may change. Most will allow you to resize your image so that it fits, and others will allow you to crop your existing image so that the cropped section fits into Instagram."
+        },
+        {
+          "headline":"Upload the image to Instagram.",
+          "description":"Open your Instagram app and browse for your newly resized image. Upload as you normally would and you won\u2019t lose any part of the image due to cropping."
+        }
+      ]
+    }
+  ],
+  "text":" Using Free Web Applications Open the web application of your choice. There are many web services that will resize your images for free. You will need to upload your image to the site and then choose your resize options. Most programs offer the same basic features, though some will have extras available that others don\u2019t. Several of the more popular sites include:\npicresize\nResize Your Image\nShrink Pictures\nWeb Resizer\nResize Pic Upload your image. You will have to navigate to the image on your computer, and then upload it to the website. Once the upload is complete, the image editing options will appear. Most web applications have a maximum file size that is allowed to be uploaded, typically around 5 MB. Resize the image. Depending on which service you are using, you may have multiple options when it comes to resizing. You may be able to choose a percentage of the original size, or several preset size. Almost all services will allow you to set an exact size in pixels that you would like to resize to. Set the quality. Most resize services will let you set how much compression the image will have, which will affect the quality. The higher the compression, the lower the quality and the smaller the file size. Add any other effects. Depending on the service you are using, you may have access to other options such as rotation, color changes, filters, and more. Choose the effects that you want. Download the new copy. Once you\u2019ve picked all of your settings and effects, click the Download button. This may be called a Resize button or something similar. The newly-edited photo will be downloaded to your computer, which you can then transfer to wherever you need. Using Microsoft Paint Open the file in Microsoft Paint. Click File and then Select Open. Navigate to the file on your computer. If you are trying to resize a photo from Facebook or another online service, you will need to download it first. Click the Resize button. In newer versions of Paint, the Resize button is located in the Home tab. In older versions of Paint, click the Image menu, and then select Resize/Skew. Choose your resize method. You can resize by either percentage or by pixel size. If you keep the \u201cMaintain aspect ratio\u201d box checked, both boxes will be filled in automatically when you enter one value, to keep the proportions the same. Click OK. This will change the image to the size that you specified. If you are unhappy with the changes, press Ctrl+Z to undo the changes. Save the resized image. Once you are happy with the resize changes, click File and then select Save As. Rename the image so that you don\u2019t overwrite the original. Select a file type. The file type you pick will affect the quality of the image after it is saved. PNG and JPG are the most popular for uploading to the internet and attaching to emails. Using Google Picasa Browse for your image in Picasa. If the image you want to resize is not located in your Picasa library, you can add it by clicking file and then selecting Add File to Picasa. Once your file is in your Picasa library, select it. Export the image. Click File and then select Export Picture to Folder. This will open the Export to Folder window. You can specify where you want the photo to be saved to. Choose your resize options. In the \u201cImage size\u201d section, you can choose to use preset image sizes, or specify an exact pixel size. The pixel size affects the longest edge of the image size, and the other edge will be adjusted automatically. Select the desired image quality. Click the \"Image quality\" dropdown menu. Automatic will attempt to preserve the original quality as much as possible. Maximum will keep as much detail as it can, but will result in higher file sizes. Minimum will result in a much smaller image size at a much lower quality. Click Export when ready. Your newly adjusted image will be copied to the location that you specified. Using Adobe Photoshop Open the image in Photoshop. Click File and select Open. Browse for the image file on your computer or inserted disc. Open the Image Size tool. Click on the Image menu and then select Image Size. This will open the Image Size window. Choose your resize method. You can choose to resize in pixels, inches, or percentage. Enter the value you want in one field and the other field will be updated automatically to keep proportions the same. You can keep the proportions the same, or you can unlink them by clicking the Chain icon. Choose your resample options. The \u201cResample Image\u201d menu will allow you to make adjustments that will affect the final quality of the resize. Pick the one that suits your needs the best. Click OK to resize the image. You will see the results in your main window. If you are satisfied with the results, click File and select Save As. Give the file a new name so that you don\u2019t overwrite the original. Using GIMP Open the photo in GIMP. GIMP is an open-source alternative to programs like Adobe Photoshop. To open your image, click File and then select Open. Browse for your file on your computer. Open the Scale Image tool. Click Image and then select Scale Image. This will open a new window. Choose your resize method. You can choose between pixels (px), inches (in), or percentage. Use the pulldown menu next to the Image Size fields. Enter the value that you want into one field and the other will be updated automatically to maintain proportions. If you would like to adjust each dimension individually, click the Chain icon to unlink them. Select your quality setting. Click the Quality pulldown menu and select the type of resampling that you want to use. The choice you make will affect the quality of your resized picture. Experiment to find one that works best. Click Scale to resize the image. Once you are set click the Scale button and review the changes to your image. If you are unhappy with the changes, click the Edit menu and select Undo. Save your changes. Once you are happy with the changes you\u2019ve made, click file and select Save As. Choose a new file name so that you don\u2019t overwrite the original file. Resizing Photos for Instagram Download an Instagram resizer app. Since Instagram uploads take place entirely on your mobile device, it is much more convenient to edit the photos that you take directly on your phone. There are multiple apps available that can resize your photos so that Instagram does not crop them. If you want to resize a photo on your computer before uploading it to Instagram, resize it to 612 X 612 pixels. This is the size of the Instagram format. Run the resizer app. Depending on the app, the features may change. Most will allow you to resize your image so that it fits, and others will allow you to crop your existing image so that the cropped section fits into Instagram. Upload the image to Instagram. Open your Instagram app and browse for your newly resized image. Upload as you normally would and you won\u2019t lose any part of the image due to cropping.",
+  "tyn_model":[
+    "picasa",
+    "instagram",
+    "microsoft paint",
+    "paint",
+    "web resizer",
+    "image editing",
+    "resize",
+    "filters",
+    "\u201cmaintain",
+    "\u201d box",
+    "png",
+    "\u201cimage",
+    "\u201d section",
+    "adobe photoshop",
+    "photoshop",
+    "\u201cresample",
+    "\u201d menu",
+    "gimp open",
+    "resizer"
+  ],
+  "tyn_section":[
+
+  ]
+}

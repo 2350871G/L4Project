@@ -1,0 +1,137 @@
+{
+  "title":"How to Turn Steam Online",
+  "url":"https://www.wikihow.com/Turn-Steam-Online",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "methods":[
+    {
+      "name":"Enabling Online Mode in Windows",
+      "steps":[
+        {
+          "headline":"Launch the Steam application on your computer.",
+          "description":""
+        },
+        {
+          "headline":"Click on \u201cSteam\u201d in the upper left corner of your Steam session.",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cGo online.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Click on \u201cOkay\u201d when informed that Steam must restart to enter online mode.",
+          "description":"Steam will restart, go online, and exit offline mode."
+        }
+      ]
+    },
+    {
+      "name":"Enabling Online Mode on Mac OS X",
+      "steps":[
+        {
+          "headline":"Launch the Steam application on your computer.",
+          "description":""
+        },
+        {
+          "headline":"Click on \u201cSteam\u201d in the upper left corner of your Steam session.",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cGo online.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Click on \u201cOkay\u201d when informed that Steam must restart to enter online mode.",
+          "description":"Steam will restart, go online, and exit offline mode. Continue with the following steps if Steam does not go online."
+        },
+        {
+          "headline":"Open a new Finder window on your Mac OS X computer.",
+          "description":""
+        },
+        {
+          "headline":"Type \u201cusers\u201d into the search field in Finder.",
+          "description":""
+        },
+        {
+          "headline":"Double-click on your Steam account name.",
+          "description":""
+        },
+        {
+          "headline":"Open the \u201cLibrary\u201d folder.",
+          "description":""
+        },
+        {
+          "headline":"Open \u201cApplication Support.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Open \u201cSteam.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Open the file named \u201cregistry.vdf\u201d using TextEdit.",
+          "description":""
+        },
+        {
+          "headline":"Look for text that reads, \u201coffline 1.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Change the number \u201c1\u201d to a \u201c0.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Exit TextEdit and select the option to \u201cSave\u201d at the prompt.",
+          "description":""
+        },
+        {
+          "headline":"Close and reopen the Steam application on your computer.",
+          "description":""
+        },
+        {
+          "headline":"Click on \u201cAccount\u201d at the top left corner of your Steam session.",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cGo Online.\u201d Steam will exit offline mode, and go online.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Enabling Online Mode in Windows Launch the Steam application on your computer.  Click on \u201cSteam\u201d in the upper left corner of your Steam session.  Select \u201cGo online.\u201d  Click on \u201cOkay\u201d when informed that Steam must restart to enter online mode. Steam will restart, go online, and exit offline mode. Enabling Online Mode on Mac OS X Launch the Steam application on your computer.  Click on \u201cSteam\u201d in the upper left corner of your Steam session.  Select \u201cGo online.\u201d  Click on \u201cOkay\u201d when informed that Steam must restart to enter online mode. Steam will restart, go online, and exit offline mode. Continue with the following steps if Steam does not go online. Open a new Finder window on your Mac OS X computer.  Type \u201cusers\u201d into the search field in Finder.  Double-click on your Steam account name.  Open the \u201cLibrary\u201d folder.  Open \u201cApplication Support.\u201d  Open \u201cSteam.\u201d  Open the file named \u201cregistry.vdf\u201d using TextEdit.  Look for text that reads, \u201coffline 1.\u201d  Change the number \u201c1\u201d to a \u201c0.\u201d  Exit TextEdit and select the option to \u201cSave\u201d at the prompt.  Close and reopen the Steam application on your computer.  Click on \u201cAccount\u201d at the top left corner of your Steam session.  Select \u201cGo Online.\u201d Steam will exit offline mode, and go online. ",
+  "tyn_model":[
+    "steam",
+    "\u201d  ",
+    "\u201csteam",
+    "\u201cgo",
+    "\u201d in",
+    "\u201cokay",
+    "\u201d when",
+    "textedit",
+    "\u201d at",
+    "os x computer",
+    "\u201cusers",
+    "\u201d into",
+    "finder",
+    "\u201clibrary",
+    "\u201d folder",
+    "\u201capplication",
+    "\u201cregistry.vdf",
+    "\u201d using",
+    "\u201coffline",
+    "\u201c1",
+    "\u201d to",
+    "\u201c0",
+    "\u201csave",
+    "\u201caccount",
+    "\u201d steam"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title":"How to Maximize Your TV Gaming Performance",
+  "url":"https://www.wikihow.com/Maximize-Your-TV-Gaming-Performance",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "steps":[
+    {
+      "headline":"Familiarize yourself with your TV's and graphics card's specifications.",
+      "description":"Have resources for both readily available, as this may come in handy later on."
+    },
+    {
+      "headline":"Make sure you are using a capable graphics card.",
+      "description":"Rendering at higher frame rates will decrease input latency."
+    },
+    {
+      "headline":"Update all of your devices' drivers.",
+      "description":"This includes the TV's firmware, PC's graphics drivers and BIOS, etc. This may decrease input latency."
+    },
+    {
+      "headline":"Use DisplayPort or HDMI with as short a cord as possible.",
+      "description":"HDMI is generally bandwidth limited, but both are fast, which will decrease input latency. Make sure the graphics card is plugged into the first port on the TV. It will typically be recognized as 'Input 1' or something similar. Keep in mind that this port might not be physically labeled or logically positioned relative to your other ports. Some TVs will have better performance when using its 'primary' display port, compared to the 'secondary' or 'tertiary' ports, which will decrease input latency. HDMI 1.4 is sufficient for 1080p @ 60hz. If you want to go all-out at 1080p you can get an HDMI M-cable. LinusTechTips did a great video on this product. Keep in mind, however, that the M-cable does not function over 1080p. If the TV is capable and you want to achieve higher refresh rates or resolutions, like 1080p/1440p @ 120hz or 4K @ 60hz respectively, you must make sure that; the graphics card outputs HDMI 2.0 or higher, the TV processes HDMI 2.0 or higher, and the cable you select is rated for that level of bandwidth (which a Premium HDMI Certification will guarantee.)"
+    },
+    {
+      "headline":"Adjust the TV's settings.",
+      "description":"Put the TV into \"Game Mode\". Most modern TVs have this option because of console applications. This will greatly decrease input latency. If the TV uses 'labeling' for video inputs, this may need to be changed before Game Mode becomes available. Change this to either \"Game Console\" or \"PC\". With some TVs this alone may correct colors and decrease input latency. Turn off all of the TV's remaining post-processing effects. This includes options like dynamic contrast, interpolation, etc. This will decrease input latency."
+    },
+    {
+      "headline":"Adjust the Nvidia Control Panel settings on your PC, under \"Manage 3D Settings\".",
+      "description":"If you consistently achieve more frames per second than your TV's refresh rate (typically 60hz) in 3D applications, set the \"Maximum Pre-rendered Frames\" setting to \"1\". This will decrease input latency. If you consistently achieve less frames per second than your TV's refresh rate in 3D applications, set the \"Maximum Pre-rendered Frames\" setting to \"2\". More pre-rendered frames can offer more consistent frame rates, but at the cost of input latency. Set the \"Power Management Mode\" setting to \"Prefer Maximum Performance\". This will offer the highest and most consistent frame rates your graphics card can offer without overclocking, which will decrease input latency. Set the \"Triple Buffering\" setting to \"Disabled\". Triple Buffering is an archaic function that increases input latency, and is made unnecessary by the Pre-rendered Frames setting. If the TV utilizes G-Sync or FreeSync, you should see the \"Set up G-SYNC\" option on the left. Ensure that it is enabled, and disregard the remainder of this step. If you do not see this option, continue following this step. If you consistently achieve more frames per second than your TV's refresh rate in 3D applications, set the \"Vsync\" setting to \"Fast\". Remember to disable Vsync in your 3D applications as well. This will greatly decrease input latency. Fast Sync allows your PC to render frames in excess of your refresh rate, greatly reducing input latency, but you still won't experience screen tearing. This is because excess frames are discarded instead of being spliced in. If you consistently achieve less frames per second than your TV's refresh rate in 3D applications, set the \"Vsync\" setting to \"Use The 3D Application Setting\", and enable Vsync in your 3D applications. If utilizing Fast Sync while your frame rate is below your refresh rate, the effect of screen tearing and uneven frame times can be jarring. In this case Vsync will most likely offer a much more pleasurable experience despite the fact that it increases input latency."
+    },
+    {
+      "headline":"Adjust the Nvidia Control Panel settings further, under \"Adjust Desktop Size and Position\".",
+      "description":"Select the \"Aspect Ratio\" setting. Set the \"Perform Scaling On\" setting to \"GPU\". This will decrease input latency. Enable the \"Override the Scaling Mode Set by Games and Programs\" setting."
+    },
+    {
+      "headline":"Disable HDR in Windows Display Settings.",
+      "description":"HDR is a function that uses dynamic brightness adjustments to dramatize a scene, but it uses a lot of bandwidth. Disabling it will decrease input latency."
+    },
+    {
+      "headline":"Make sure audio is not performed on your TV via the HDMI cable.",
+      "description":"Use a separate speaker set. This will decrease input latency."
+    },
+    {
+      "headline":"Wire all peripherals, such as your mouse and keyboard, instead of using wireless options.",
+      "description":"This will greatly decrease input latency. If your PC's motherboard has USB 3.0 (or better) ports, use them. This will decrease input latency. You can go so far as to use up to 30 feet of USB extension to connect your PC to an independently powered USB 3.0 hub, and plug your peripherals in there. It's unlikely that you will experience more input latency from this, depending on the quality of the products used. Utilizing higher quality hubs, peripherals, and cordage, will decrease input latency."
+    },
+    {
+      "headline":"Do not use third-party software for your mouse unless absolutely necessary.",
+      "description":"Programs like Razer Synapse are a good example of this. While these programs might be necessary for configuring your mouse, they typically don't need to be used after configuration. Ensure that you disable their ability to run on startup. This may decrease input latency."
+    },
+    {
+      "headline":"Configure DSR as a last resort if you find that you still have noticeable input latency when using resolutions higher than 1080p.",
+      "description":"You can do this in your Nvidia Control Panel settings, under \"Manage 3D Settings\". This will decrease input latency. If your TV is 4K native, acquire ToastyX's Custom Resolution Utility and use it to eliminate all resolution options except for 1920x1080 on your active display. Restart your computer. Set your \"DSR - Factors\" setting to \"2x\", \"3x\", and \"4x\". This enables the resolutions of 1920x1080, 2715x1527, 3325x1871, and 3840x2160 (4K), resulting in approximately 2 million, 4 million, 6 million, and 8 million rendered pixels respectively. Set your \"DSR - Smoothness\" setting to \"0%\" to start off. You may want to adjust this setting in conjunction with your TVs sharpness setting later on. Restart your computer."
+    },
+    {
+      "headline":"Check and/or reaccomplish all settings changes every time you update your firmware and/or drivers.",
+      "description":""
+    }
+  ],
+  "text":" Familiarize yourself with your TV's and graphics card's specifications. Have resources for both readily available, as this may come in handy later on. Make sure you are using a capable graphics card. Rendering at higher frame rates will decrease input latency. Update all of your devices' drivers. This includes the TV's firmware, PC's graphics drivers and BIOS, etc. This may decrease input latency. Use DisplayPort or HDMI with as short a cord as possible. HDMI is generally bandwidth limited, but both are fast, which will decrease input latency. Make sure the graphics card is plugged into the first port on the TV. It will typically be recognized as 'Input 1' or something similar. Keep in mind that this port might not be physically labeled or logically positioned relative to your other ports. Some TVs will have better performance when using its 'primary' display port, compared to the 'secondary' or 'tertiary' ports, which will decrease input latency. HDMI 1.4 is sufficient for 1080p @ 60hz. If you want to go all-out at 1080p you can get an HDMI M-cable. LinusTechTips did a great video on this product. Keep in mind, however, that the M-cable does not function over 1080p. If the TV is capable and you want to achieve higher refresh rates or resolutions, like 1080p/1440p @ 120hz or 4K @ 60hz respectively, you must make sure that; the graphics card outputs HDMI 2.0 or higher, the TV processes HDMI 2.0 or higher, and the cable you select is rated for that level of bandwidth (which a Premium HDMI Certification will guarantee.) Adjust the TV's settings. Put the TV into \"Game Mode\". Most modern TVs have this option because of console applications. This will greatly decrease input latency. If the TV uses 'labeling' for video inputs, this may need to be changed before Game Mode becomes available. Change this to either \"Game Console\" or \"PC\". With some TVs this alone may correct colors and decrease input latency. Turn off all of the TV's remaining post-processing effects. This includes options like dynamic contrast, interpolation, etc. This will decrease input latency. Adjust the Nvidia Control Panel settings on your PC, under \"Manage 3D Settings\". If you consistently achieve more frames per second than your TV's refresh rate (typically 60hz) in 3D applications, set the \"Maximum Pre-rendered Frames\" setting to \"1\". This will decrease input latency. If you consistently achieve less frames per second than your TV's refresh rate in 3D applications, set the \"Maximum Pre-rendered Frames\" setting to \"2\". More pre-rendered frames can offer more consistent frame rates, but at the cost of input latency. Set the \"Power Management Mode\" setting to \"Prefer Maximum Performance\". This will offer the highest and most consistent frame rates your graphics card can offer without overclocking, which will decrease input latency. Set the \"Triple Buffering\" setting to \"Disabled\". Triple Buffering is an archaic function that increases input latency, and is made unnecessary by the Pre-rendered Frames setting. If the TV utilizes G-Sync or FreeSync, you should see the \"Set up G-SYNC\" option on the left. Ensure that it is enabled, and disregard the remainder of this step. If you do not see this option, continue following this step. If you consistently achieve more frames per second than your TV's refresh rate in 3D applications, set the \"Vsync\" setting to \"Fast\". Remember to disable Vsync in your 3D applications as well. This will greatly decrease input latency. Fast Sync allows your PC to render frames in excess of your refresh rate, greatly reducing input latency, but you still won't experience screen tearing. This is because excess frames are discarded instead of being spliced in. If you consistently achieve less frames per second than your TV's refresh rate in 3D applications, set the \"Vsync\" setting to \"Use The 3D Application Setting\", and enable Vsync in your 3D applications. If utilizing Fast Sync while your frame rate is below your refresh rate, the effect of screen tearing and uneven frame times can be jarring. In this case Vsync will most likely offer a much more pleasurable experience despite the fact that it increases input latency. Adjust the Nvidia Control Panel settings further, under \"Adjust Desktop Size and Position\". Select the \"Aspect Ratio\" setting. Set the \"Perform Scaling On\" setting to \"GPU\". This will decrease input latency. Enable the \"Override the Scaling Mode Set by Games and Programs\" setting. Disable HDR in Windows Display Settings. HDR is a function that uses dynamic brightness adjustments to dramatize a scene, but it uses a lot of bandwidth. Disabling it will decrease input latency. Make sure audio is not performed on your TV via the HDMI cable. Use a separate speaker set. This will decrease input latency. Wire all peripherals, such as your mouse and keyboard, instead of using wireless options. This will greatly decrease input latency. If your PC's motherboard has USB 3.0 (or better) ports, use them. This will decrease input latency. You can go so far as to use up to 30 feet of USB extension to connect your PC to an independently powered USB 3.0 hub, and plug your peripherals in there. It's unlikely that you will experience more input latency from this, depending on the quality of the products used. Utilizing higher quality hubs, peripherals, and cordage, will decrease input latency. Do not use third-party software for your mouse unless absolutely necessary. Programs like Razer Synapse are a good example of this. While these programs might be necessary for configuring your mouse, they typically don't need to be used after configuration. Ensure that you disable their ability to run on startup. This may decrease input latency. Configure DSR as a last resort if you find that you still have noticeable input latency when using resolutions higher than 1080p. You can do this in your Nvidia Control Panel settings, under \"Manage 3D Settings\". This will decrease input latency. If your TV is 4K native, acquire ToastyX's Custom Resolution Utility and use it to eliminate all resolution options except for 1920x1080 on your active display. Restart your computer. Set your \"DSR - Factors\" setting to \"2x\", \"3x\", and \"4x\". This enables the resolutions of 1920x1080, 2715x1527, 3325x1871, and 3840x2160 (4K), resulting in approximately 2 million, 4 million, 6 million, and 8 million rendered pixels respectively. Set your \"DSR - Smoothness\" setting to \"0%\" to start off. You may want to adjust this setting in conjunction with your TVs sharpness setting later on. Restart your computer. Check and/or reaccomplish all settings changes every time you update your firmware and/or drivers. ",
+  "tyn_model":[
+    "hdmi",
+    "tv",
+    "control panel",
+    "vsync",
+    "g-sync",
+    "hdr",
+    "mouse",
+    "computer",
+    "displayport",
+    "graphics card",
+    "triple buffering",
+    "speaker",
+    "usb 3.0 (",
+    "usb 3.0 hub",
+    "4k native"
+  ],
+  "tyn_section":[
+
+  ]
+}

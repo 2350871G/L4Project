@@ -1,0 +1,97 @@
+{
+  "title":"How to Work Out Water Tank Capacity",
+  "url":"https://www.wikihow.com/Work-Out-Water-Tank-Capacity",
+  "category_hierarchy":[
+    "Home and Garden",
+    "DIY"
+  ],
+  "methods":[
+    {
+      "name":"Calculating the Capacity of a Horizontal Cylinder Tank",
+      "steps":[
+        {
+          "headline":"Measure the radius of the circle at the bottom of the cylinder.",
+          "description":"The region enclosed by the circle at the bottom of the cylinder is your bottom base surface (B). A radius is any line segment that runs from a circle\u2019s center to its perimeter. To find the radius, simply measure from the mid-point of the cylinder\u2019s bottom to the outside of the circle. A diameter is any straight line segment that passes through the center of the circle and has endpoints on the circle\u2019s perimeter. For any circle, the diameter will be twice the radius. Therefore, you can also find the radius of the circle at the bottom of the cylinder by measuring the complete radius and dividing that number in half."
+        },
+        {
+          "headline":"Find the area of the circle at the bottom of the cylinder.",
+          "description":"Once you know the radius of your bottom base surface (B), you can calculate the area. To do so, use the formula B = \u03c0r2, using your radius as r and 3.14159 for \u03c0, which is a mathematical constant."
+        },
+        {
+          "headline":"Calculate the total volume of a cylinder tank.",
+          "description":"You can now determine the total volume of the tank by multiplying the area by the length of the tank. The full formula for total volume of the tank is Vtank = \u03c0r2h."
+        },
+        {
+          "headline":"Identify a circular sector and segment.",
+          "description":"If you imagine a circle cut into slices, like a pizza, each slice is a sector. If a chord (a line segment that joins two points on a curve) cuts through that sector, it divides the sector into two parts: a triangle and a segment. This segment is important because to calculate the filled volume of your cylinder, you\u2019ll have to find the area of a segment (by finding the area of the whole sector and subtracting the area of the triangle) and multiply it by the length of the cylinder."
+        },
+        {
+          "headline":"Determine the area of your sector.",
+          "description":"The sector is a fractional portion of the area of the whole circle. To find its area, use the formula shown above."
+        },
+        {
+          "headline":"Get the area of the triangle.",
+          "description":"Find the area of the triangle that was formed by the chord that cut through the sector. Use the formula shown above."
+        },
+        {
+          "headline":"Subtract the area of the triangle from the area of the sector.",
+          "description":"Now that you have both the area of your sector and the area of your triangle, a subtraction will yield the area of your segment, D."
+        },
+        {
+          "headline":"Multiply the area of your segment by the height of your cylinder.",
+          "description":"When you multiply the area of your segment by the height, the product is the filled volume of your tank. The relevant formulas are shown above."
+        },
+        {
+          "headline":"Determine the fill height.",
+          "description":"Your final step depends on if the height, d, is greater than or less than the radius, r.\nIf the height is less than the radius, use the volume created from the filled height Vfill. So,\nIf the height is greater than the radius, use the volume created by the empty portion, minus the total volume of the tank. This will give you the filled volume:"
+        }
+      ]
+    },
+    {
+      "name":"Calculating the Capacity of a Vertical Cylinder Tank",
+      "steps":[
+        {
+          "headline":"Measure the radius of the circle at the bottom of the cylinder.",
+          "description":"The region enclosed by the circle at the bottom of the cylinder is your bottom base surface (B). A radius is any line segment that runs from a circle\u2019s center to its perimeter. To find the radius, simply measure from the mid-point of the cylinder\u2019s bottom to the outside of the circle. A diameter is any straight line segment that passes through the center of the circle and has endpoints on the circle\u2019s perimeter. For any circle, the diameter will be twice the radius. Therefore, you can also find the radius of the circle at the bottom of the cylinder by measuring the complete radius and dividing that number in half."
+        },
+        {
+          "headline":"Find the area of the circle at the bottom of the cylinder.",
+          "description":"Once you know the radius of your bottom base surface (B), you can calculate the area. To do so, use the formula B = \u03c0r2, using your radius as r and 3.14159 for \u03c0, which is a mathematical constant."
+        },
+        {
+          "headline":"Calculate the total volume of a cylinder tank.",
+          "description":"You can now determine the total volume of the tank by multiplying the area by the length of the tank. The full formula for total volume of the tank is Vtank = \u03c0r2h."
+        },
+        {
+          "headline":"Determine the filled volume.",
+          "description":"The filled volume is just a shorter cylinder with the same radius but a different height: the fill height, d. Therefore: ?? = \u03c0??2h."
+        }
+      ]
+    },
+    {
+      "name":"Calculating the Capacity of a Rectangular Tank",
+      "steps":[
+        {
+          "headline":"Find the volume of your tank.",
+          "description":"To determine the volume of a rectangular tank, multiply the length (l) times the width (w) times the height (h). The width is the horizontal distance from side to side. The length is the longest dimension, and the height is the vertical length from top to bottom."
+        },
+        {
+          "headline":"Calculate the filled volume.",
+          "description":"For rectangular tanks, the filled volume is simply the same length and width with a shorter height. The new height is the fill height, d. Therefore, filled volume is equal to the length times the width times the fill height."
+        }
+      ]
+    }
+  ],
+  "text":" Calculating the Capacity of a Horizontal Cylinder Tank Measure the radius of the circle at the bottom of the cylinder. The region enclosed by the circle at the bottom of the cylinder is your bottom base surface (B). A radius is any line segment that runs from a circle\u2019s center to its perimeter. To find the radius, simply measure from the mid-point of the cylinder\u2019s bottom to the outside of the circle. A diameter is any straight line segment that passes through the center of the circle and has endpoints on the circle\u2019s perimeter. For any circle, the diameter will be twice the radius. Therefore, you can also find the radius of the circle at the bottom of the cylinder by measuring the complete radius and dividing that number in half. Find the area of the circle at the bottom of the cylinder. Once you know the radius of your bottom base surface (B), you can calculate the area. To do so, use the formula B = \u03c0r2, using your radius as r and 3.14159 for \u03c0, which is a mathematical constant. Calculate the total volume of a cylinder tank. You can now determine the total volume of the tank by multiplying the area by the length of the tank. The full formula for total volume of the tank is Vtank = \u03c0r2h. Identify a circular sector and segment. If you imagine a circle cut into slices, like a pizza, each slice is a sector. If a chord (a line segment that joins two points on a curve) cuts through that sector, it divides the sector into two parts: a triangle and a segment. This segment is important because to calculate the filled volume of your cylinder, you\u2019ll have to find the area of a segment (by finding the area of the whole sector and subtracting the area of the triangle) and multiply it by the length of the cylinder. Determine the area of your sector. The sector is a fractional portion of the area of the whole circle. To find its area, use the formula shown above. Get the area of the triangle. Find the area of the triangle that was formed by the chord that cut through the sector. Use the formula shown above. Subtract the area of the triangle from the area of the sector. Now that you have both the area of your sector and the area of your triangle, a subtraction will yield the area of your segment, D. Multiply the area of your segment by the height of your cylinder. When you multiply the area of your segment by the height, the product is the filled volume of your tank. The relevant formulas are shown above. Determine the fill height. Your final step depends on if the height, d, is greater than or less than the radius, r.\nIf the height is less than the radius, use the volume created from the filled height Vfill. So,\nIf the height is greater than the radius, use the volume created by the empty portion, minus the total volume of the tank. This will give you the filled volume: Calculating the Capacity of a Vertical Cylinder Tank Measure the radius of the circle at the bottom of the cylinder. The region enclosed by the circle at the bottom of the cylinder is your bottom base surface (B). A radius is any line segment that runs from a circle\u2019s center to its perimeter. To find the radius, simply measure from the mid-point of the cylinder\u2019s bottom to the outside of the circle. A diameter is any straight line segment that passes through the center of the circle and has endpoints on the circle\u2019s perimeter. For any circle, the diameter will be twice the radius. Therefore, you can also find the radius of the circle at the bottom of the cylinder by measuring the complete radius and dividing that number in half. Find the area of the circle at the bottom of the cylinder. Once you know the radius of your bottom base surface (B), you can calculate the area. To do so, use the formula B = \u03c0r2, using your radius as r and 3.14159 for \u03c0, which is a mathematical constant. Calculate the total volume of a cylinder tank. You can now determine the total volume of the tank by multiplying the area by the length of the tank. The full formula for total volume of the tank is Vtank = \u03c0r2h. Determine the filled volume. The filled volume is just a shorter cylinder with the same radius but a different height: the fill height, d. Therefore: ?? = \u03c0??2h. Calculating the Capacity of a Rectangular Tank Find the volume of your tank. To determine the volume of a rectangular tank, multiply the length (l) times the width (w) times the height (h). The width is the horizontal distance from side to side. The length is the longest dimension, and the height is the vertical length from top to bottom. Calculate the filled volume. For rectangular tanks, the filled volume is simply the same length and width with a shorter height. The new height is the fill height, d. Therefore, filled volume is equal to the length times the width times the fill height.",
+  "tyn_model":[
+    "tank",
+    "cylinder tank",
+    "\u03c0,",
+    "diameter",
+    "mathematical constant",
+    "tanks"
+  ],
+  "tyn_section":[
+
+  ]
+}

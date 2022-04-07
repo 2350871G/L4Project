@@ -1,0 +1,55 @@
+{
+  "title":"How to Create a Game with Game Maker 7.0 Lite",
+  "url":"https://www.wikihow.com/Create-a-Game-with-Game-Maker-7.0-Lite",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "steps":[
+    {
+      "headline":"Download and install Game Maker 7.0 Lite from http://www.yoyogames.com/gamemaker/windows (the game comes with a simple game called catch the clown that it teaches you how to build)",
+      "description":""
+    },
+    {
+      "headline":"Create a new sprite, and load an image of your character.",
+      "description":"Name it Char1."
+    },
+    {
+      "headline":"Create an object.",
+      "description":"(click on the blue orb on the tool bar :) The sprite for this object should be \"Char1.\""
+    },
+    {
+      "headline":"Then make a room, (also located on the tool bar) and place your new object inside.",
+      "description":"In the objects tab of the new room, select char1 and click the main room body to add it."
+    },
+    {
+      "headline":"Set the object's actions.",
+      "description":"(Steps below)"
+    },
+    {
+      "headline":"Press the add event button and select \"arrow keys\"(looks like a keyboard, no, not the ones with green or red arrows next to them:) .",
+      "description":"For example, select the up key, then in the actions window, put move actions. Explained below"
+    },
+    {
+      "headline":"To add the actions, go to the move tab and select \"jump to Position\" not jump to random or anything.",
+      "description":"Set the parameters(put stuff in the text boxes.) You want to move up right? so in the Y variable textbox, little Y next to it:), put -4. Yes negative, the game works like a backward grid(for those geometry savvy:) Moving right is still positive X and moving left is negative X. Keep the X box at 0. You only want to move up with this key right? No, up! Anyway, Start the game by clicking the play button. If you set this up right, then you should be able to move upwards."
+    },
+    {
+      "headline":"Repeat the steps above for all of the other keys, down, right, and left",
+      "description":""
+    },
+    {
+      "headline":"Start your game, and you will be able to move around!",
+      "description":""
+    }
+  ],
+  "text":" Download and install Game Maker 7.0 Lite from http://www.yoyogames.com/gamemaker/windows (the game comes with a simple game called catch the clown that it teaches you how to build)  Create a new sprite, and load an image of your character. Name it Char1. Create an object. (click on the blue orb on the tool bar :) The sprite for this object should be \"Char1.\" Then make a room, (also located on the tool bar) and place your new object inside. In the objects tab of the new room, select char1 and click the main room body to add it. Set the object's actions. (Steps below) Press the add event button and select \"arrow keys\"(looks like a keyboard, no, not the ones with green or red arrows next to them:) . For example, select the up key, then in the actions window, put move actions. Explained below To add the actions, go to the move tab and select \"jump to Position\" not jump to random or anything. Set the parameters(put stuff in the text boxes.) You want to move up right? so in the Y variable textbox, little Y next to it:), put -4. Yes negative, the game works like a backward grid(for those geometry savvy:) Moving right is still positive X and moving left is negative X. Keep the X box at 0. You only want to move up with this key right? No, up! Anyway, Start the game by clicking the play button. If you set this up right, then you should be able to move upwards. Repeat the steps above for all of the other keys, down, right, and left  Start your game, and you will be able to move around! ",
+  "tyn_model":[
+    "game maker",
+    "keyboard"
+  ],
+  "tyn_section":[
+
+  ]
+}

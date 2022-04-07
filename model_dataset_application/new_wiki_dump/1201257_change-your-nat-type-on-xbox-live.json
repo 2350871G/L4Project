@@ -1,0 +1,266 @@
+{
+  "title":"How to Change Your Nat Type on Xbox Live",
+  "url":"https://www.wikihow.com/Change-Your-Nat-Type-on-Xbox-Live",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Xbox",
+    "Xbox Live"
+  ],
+  "parts":[
+    {
+      "name":"Checking Your Xbox's NAT",
+      "steps":[
+        {
+          "headline":"Turn on your TV, Xbox One, and controller.",
+          "description":"Press and hold the \"Guide\" button on your connected controller. You can also press the power button on the front of your Xbox One to turn on the console, though you'll still have to turn on your controller."
+        },
+        {
+          "headline":"Press your controller's \"Guide\" button.",
+          "description":"It resembles an Xbox logo in the middle of your controller. Doing so opens a sidebar on the left side of your TV's screen."
+        },
+        {
+          "headline":"Scroll down to select Settings {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":760,\"bigHeight\":735.483870967742,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}, then press A.",
+          "description":"This will open an additional sidebar."
+        },
+        {
+          "headline":"Select All settings, then press A.",
+          "description":"It's at the top of the sidebar. Doing this opens the Settings page."
+        },
+        {
+          "headline":"Scroll down to the Network tab and select Network settings, then press A.",
+          "description":"The Network Settings page will open."
+        },
+        {
+          "headline":"Check the NAT type.",
+          "description":"Look at the word to the right of the \"NAT Type\" field. If this word is \"Strict\" or \"Moderate\", you can continue to the next part of this article. If the word here is \"Open\", your Xbox LIVE issues are unrelated to the NAT type. Consider calling your Internet service provider or troubleshooting your network yourself."
+        }
+      ]
+    },
+    {
+      "name":"Resetting Your Network",
+      "steps":[
+        {
+          "headline":"Unplug the Ethernet cable connecting your router to your modem.",
+          "description":"Simply remove the Ethernet cable from the back of the router. If your router and modem are combined, skip this step."
+        },
+        {
+          "headline":"Locate the router's \"Reset\" button.",
+          "description":"You'll typically find this button on the back or the bottom of the router. The \"Reset\" button is very small."
+        },
+        {
+          "headline":"Restart your router.",
+          "description":"Press and hold the \"Reset\" button with a paperclip (or a similar object) for thirty seconds."
+        },
+        {
+          "headline":"Release the button after thirty seconds.",
+          "description":"Your router will begin rebooting; you may see flashing lights appear on the router during this process."
+        },
+        {
+          "headline":"Wait for the router to finish turning back on.",
+          "description":"Once the router is on, there should be a consistent light (no flashing) on the router."
+        },
+        {
+          "headline":"Plug the router back into the modem.",
+          "description":"Just reconnect the Ethernet cable to the back of the router. Again, skip this step if your router is combined with the modem."
+        },
+        {
+          "headline":"Look for the router's stock password.",
+          "description":"It will be located on the bottom or back of the router, typically next to a \"password\" or \"network/security key\" line of text. You'll need this to reconnect your Xbox to the Internet."
+        },
+        {
+          "headline":"Open the Xbox Guide.",
+          "description":"Press the \"Guide\" button on your Xbox's controller."
+        },
+        {
+          "headline":"Connect to your network.",
+          "description":"To do so:\nOpen Settings, select Network, select Network settings, select Set up wireless network, select your current network, and enter the password when prompted."
+        },
+        {
+          "headline":"Check your Xbox's NAT type.",
+          "description":"If it now reads \"Open\", resetting the network solved your problem. If not, continue to the next part."
+        }
+      ]
+    },
+    {
+      "name":"Enabling UPnP",
+      "steps":[
+        {
+          "headline":"Determine your router's IP address.",
+          "description":"In order to make the changes necessary to open the NAT on your Xbox, you'll need to open the router's configuration page. The steps to do so will vary based on your operating system:\n\nWindows - Open Start, click the Settings gear, click Network & Internet, click View your network properties, and look for the \"Default gateway\" number. Mac - Open the Apple menu, click System Preferences, click Network, click Advanced, click TCP/IP, and look for the \"Router:\" number."
+        },
+        {
+          "headline":"Open a web browser.",
+          "description":"Nearly all routers can be configured through the web browser of a connected computer."
+        },
+        {
+          "headline":"Go to your router's IP address.",
+          "description":"Type the router's IP address into the browser's address bar, then press the \u21b5 Enter key."
+        },
+        {
+          "headline":"Enter your router's username and password if prompted.",
+          "description":"Many routers have a default username and password (e.g., \"admin\" and \"password\") that you can find in the router's manual. If you set a custom password and no longer remember it, you'll have to reset the network. If you aren't prompted for a username and password, you should be on the router's configuration page."
+        },
+        {
+          "headline":"Locate the UPnP settings.",
+          "description":"Each router has a different configuration page than other router models, so your steps will vary. \"UPnP\" stands for \"Universal Plug and Play\" which may be the name of the pertinent section. The UPnP settings are most often found in the \"Advanced\" section of the router's page."
+        },
+        {
+          "headline":"Open the UPnP section.",
+          "description":"This section allows connected devices to automatically open the ports necessary to connect to the internet."
+        },
+        {
+          "headline":"Enable UPnP.",
+          "description":"You may do this by checking a box or clicking a button, then clicking Save or Apply."
+        },
+        {
+          "headline":"Restart your Xbox.",
+          "description":"Simply press the Xbox's power button, wait for the console to stop running, and then turn it back on."
+        },
+        {
+          "headline":"Check your Xbox's NAT type.",
+          "description":"If the NAT type reads \"Open\", you shouldn't experience issues connecting to LIVE anymore. If you still see \"Strict\" or \"Moderate\" listed here, proceed to the next part."
+        }
+      ]
+    },
+    {
+      "name":"Setting a Static IP on Xbox One",
+      "steps":[
+        {
+          "headline":"Open your router's configuration page.",
+          "description":"Reference the steps at the beginning of the last section to do so."
+        },
+        {
+          "headline":"Add your Xbox One's IP address to the \"Reserved\" list.",
+          "description":"As with enabling UPnP, this process will vary from router to router. Typically, you'll click a list of currently-connected devices, select your Xbox One's name, and click Reserve. The list might also be called the \"Static IP\" list."
+        },
+        {
+          "headline":"Restart your console.",
+          "description":"Once it comes back online, you'll need to assign the static IP address to it."
+        },
+        {
+          "headline":"Press the \"Guide\" button.",
+          "description":"It's the Xbox logo in the center of your controller. A sidebar will pop out on the left side of your TV's screen."
+        },
+        {
+          "headline":"Scroll down to select Settings {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":760,\"bigHeight\":735.483870967742,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}, then press A.",
+          "description":"This will open a pop-out menu."
+        },
+        {
+          "headline":"Select All settings, then press A.",
+          "description":"It's in the pop-out menu. The Settings menu will open."
+        },
+        {
+          "headline":"Scroll down to the Network tab and select Network settings, then press A.",
+          "description":"This will open your Xbox One's network settings."
+        },
+        {
+          "headline":"Select Advanced settings and press A.",
+          "description":"It's on the left side of the page."
+        },
+        {
+          "headline":"Note the IP address information.",
+          "description":"Write down the numbers next to the following options:\nIP address\nSubnet mask\nGateway\nDNS"
+        },
+        {
+          "headline":"Select IP settings and press A.",
+          "description":"It's on the left side of the page. This will open your IP address settings."
+        },
+        {
+          "headline":"Enter the \"IP address\" number, then press \u2630.",
+          "description":"Doing so submits your current IP address."
+        },
+        {
+          "headline":"Enter the \"Subnet mask\" number, then press \u2630.",
+          "description":"This is usually 255.255.255.0 or something similar."
+        },
+        {
+          "headline":"Enter the \"Gateway\" number, then press \u2630.",
+          "description":"The \"Gateway\" number is usually similar to your IP address."
+        },
+        {
+          "headline":"Enter the \"IP address\" number twice.",
+          "description":"Type in the \"IP address\" number, press \u2630, type the number in again, and press \u2630 again. Doing so takes you back to the Advanced Settings page."
+        },
+        {
+          "headline":"Select DNS settings, then press A.",
+          "description":"You'll find this option on the left side of the page."
+        },
+        {
+          "headline":"Enter the \"DNS\" number twice.",
+          "description":"Type in the \"DNS\" number, press \u2630, then type the number in again and press \u2630 again."
+        },
+        {
+          "headline":"Press B.",
+          "description":"Doing so saves your changes and checks the network for connectivity. As long as you entered all of the numbers correctly, your Xbox One should remain connected to the Internet."
+        },
+        {
+          "headline":"Review your NAT type.",
+          "description":"If you see \"Open\" here, setting a static IP for your Xbox One solved the problem. If you still see \"Strict\" or \"Moderate\", proceed to the next section."
+        }
+      ]
+    },
+    {
+      "name":"Forwarding Ports",
+      "steps":[
+        {
+          "headline":"Open your router's configuration page.",
+          "description":"In order to manually forward ports, you'll need to log into the administration tool for your router. See the \"Enabling UPnP\" section for details."
+        },
+        {
+          "headline":"Open the \"Advanced\" section.",
+          "description":"The Port Forwarding page is located in the \"Advanced\" section of most routers. It may also be called Advanced Setup or a variety of other names. You may want to take some time to review port forwarding basics before continuing if you aren't familiar with port forwarding."
+        },
+        {
+          "headline":"Open the Port Forwarding section.",
+          "description":"If you are still having difficulty finding the Port Forwarding section of your router's configuration tool, search for your router's model online for exact instructions."
+        },
+        {
+          "headline":"Open the necessary ports.",
+          "description":"Open the following ports to help your Xbox One connect to Xbox LIVE:\n53 (TCP/UDP)\n80 (TCP)\n88 (UDP)\n500 (UDP)\n1863 (TCP/UDP)\n3074 (TCP/UDP)\n3075 (TCP/UDP)\n3544 (UDP)\n4500 (UDP)\n16000 (TCP/UDP)\nYou'll need to use the same static IP address that you assigned to your console in the previous section."
+        },
+        {
+          "headline":"Restart your Xbox.",
+          "description":"Once you've created the port forwarding rules, restart your Xbox so that it connects with the new port forwarding rules."
+        },
+        {
+          "headline":"Check your Xbox's NAT type.",
+          "description":"If it reads \"Open\", you're good to go."
+        },
+        {
+          "headline":"Contact your ISP if you are still having connection problems.",
+          "description":"Settings on your Internet service provider's end may be causing your NAT problems. If the above methods don't work, you can try calling your ISP's technical support line."
+        }
+      ]
+    }
+  ],
+  "text":" Checking Your Xbox's NAT Turn on your TV, Xbox One, and controller. Press and hold the \"Guide\" button on your connected controller. You can also press the power button on the front of your Xbox One to turn on the console, though you'll still have to turn on your controller. Press your controller's \"Guide\" button. It resembles an Xbox logo in the middle of your controller. Doing so opens a sidebar on the left side of your TV's screen. Scroll down to select Settings {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":760,\"bigHeight\":735.483870967742,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}, then press A. This will open an additional sidebar. Select All settings, then press A. It's at the top of the sidebar. Doing this opens the Settings page. Scroll down to the Network tab and select Network settings, then press A. The Network Settings page will open. Check the NAT type. Look at the word to the right of the \"NAT Type\" field. If this word is \"Strict\" or \"Moderate\", you can continue to the next part of this article. If the word here is \"Open\", your Xbox LIVE issues are unrelated to the NAT type. Consider calling your Internet service provider or troubleshooting your network yourself. Resetting Your Network Unplug the Ethernet cable connecting your router to your modem. Simply remove the Ethernet cable from the back of the router. If your router and modem are combined, skip this step. Locate the router's \"Reset\" button. You'll typically find this button on the back or the bottom of the router. The \"Reset\" button is very small. Restart your router. Press and hold the \"Reset\" button with a paperclip (or a similar object) for thirty seconds. Release the button after thirty seconds. Your router will begin rebooting; you may see flashing lights appear on the router during this process. Wait for the router to finish turning back on. Once the router is on, there should be a consistent light (no flashing) on the router. Plug the router back into the modem. Just reconnect the Ethernet cable to the back of the router. Again, skip this step if your router is combined with the modem. Look for the router's stock password. It will be located on the bottom or back of the router, typically next to a \"password\" or \"network/security key\" line of text. You'll need this to reconnect your Xbox to the Internet. Open the Xbox Guide. Press the \"Guide\" button on your Xbox's controller. Connect to your network. To do so:\nOpen Settings, select Network, select Network settings, select Set up wireless network, select your current network, and enter the password when prompted. Check your Xbox's NAT type. If it now reads \"Open\", resetting the network solved your problem. If not, continue to the next part. Enabling UPnP Determine your router's IP address. In order to make the changes necessary to open the NAT on your Xbox, you'll need to open the router's configuration page. The steps to do so will vary based on your operating system:\n\nWindows - Open Start, click the Settings gear, click Network & Internet, click View your network properties, and look for the \"Default gateway\" number. Mac - Open the Apple menu, click System Preferences, click Network, click Advanced, click TCP/IP, and look for the \"Router:\" number. Open a web browser. Nearly all routers can be configured through the web browser of a connected computer. Go to your router's IP address. Type the router's IP address into the browser's address bar, then press the \u21b5 Enter key. Enter your router's username and password if prompted. Many routers have a default username and password (e.g., \"admin\" and \"password\") that you can find in the router's manual. If you set a custom password and no longer remember it, you'll have to reset the network. If you aren't prompted for a username and password, you should be on the router's configuration page. Locate the UPnP settings. Each router has a different configuration page than other router models, so your steps will vary. \"UPnP\" stands for \"Universal Plug and Play\" which may be the name of the pertinent section. The UPnP settings are most often found in the \"Advanced\" section of the router's page. Open the UPnP section. This section allows connected devices to automatically open the ports necessary to connect to the internet. Enable UPnP. You may do this by checking a box or clicking a button, then clicking Save or Apply. Restart your Xbox. Simply press the Xbox's power button, wait for the console to stop running, and then turn it back on. Check your Xbox's NAT type. If the NAT type reads \"Open\", you shouldn't experience issues connecting to LIVE anymore. If you still see \"Strict\" or \"Moderate\" listed here, proceed to the next part. Setting a Static IP on Xbox One Open your router's configuration page. Reference the steps at the beginning of the last section to do so. Add your Xbox One's IP address to the \"Reserved\" list. As with enabling UPnP, this process will vary from router to router. Typically, you'll click a list of currently-connected devices, select your Xbox One's name, and click Reserve. The list might also be called the \"Static IP\" list. Restart your console. Once it comes back online, you'll need to assign the static IP address to it. Press the \"Guide\" button. It's the Xbox logo in the center of your controller. A sidebar will pop out on the left side of your TV's screen. Scroll down to select Settings {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":760,\"bigHeight\":735.483870967742,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}, then press A. This will open a pop-out menu. Select All settings, then press A. It's in the pop-out menu. The Settings menu will open. Scroll down to the Network tab and select Network settings, then press A. This will open your Xbox One's network settings. Select Advanced settings and press A. It's on the left side of the page. Note the IP address information. Write down the numbers next to the following options:\nIP address\nSubnet mask\nGateway\nDNS Select IP settings and press A. It's on the left side of the page. This will open your IP address settings. Enter the \"IP address\" number, then press \u2630. Doing so submits your current IP address. Enter the \"Subnet mask\" number, then press \u2630. This is usually 255.255.255.0 or something similar. Enter the \"Gateway\" number, then press \u2630. The \"Gateway\" number is usually similar to your IP address. Enter the \"IP address\" number twice. Type in the \"IP address\" number, press \u2630, type the number in again, and press \u2630 again. Doing so takes you back to the Advanced Settings page. Select DNS settings, then press A. You'll find this option on the left side of the page. Enter the \"DNS\" number twice. Type in the \"DNS\" number, press \u2630, then type the number in again and press \u2630 again. Press B. Doing so saves your changes and checks the network for connectivity. As long as you entered all of the numbers correctly, your Xbox One should remain connected to the Internet. Review your NAT type. If you see \"Open\" here, setting a static IP for your Xbox One solved the problem. If you still see \"Strict\" or \"Moderate\", proceed to the next section. Forwarding Ports Open your router's configuration page. In order to manually forward ports, you'll need to log into the administration tool for your router. See the \"Enabling UPnP\" section for details. Open the \"Advanced\" section. The Port Forwarding page is located in the \"Advanced\" section of most routers. It may also be called Advanced Setup or a variety of other names. You may want to take some time to review port forwarding basics before continuing if you aren't familiar with port forwarding. Open the Port Forwarding section. If you are still having difficulty finding the Port Forwarding section of your router's configuration tool, search for your router's model online for exact instructions. Open the necessary ports. Open the following ports to help your Xbox One connect to Xbox LIVE:\n53 (TCP/UDP)\n80 (TCP)\n88 (UDP)\n500 (UDP)\n1863 (TCP/UDP)\n3074 (TCP/UDP)\n3075 (TCP/UDP)\n3544 (UDP)\n4500 (UDP)\n16000 (TCP/UDP)\nYou'll need to use the same static IP address that you assigned to your console in the previous section. Restart your Xbox. Once you've created the port forwarding rules, restart your Xbox so that it connects with the new port forwarding rules. Check your Xbox's NAT type. If it reads \"Open\", you're good to go. Contact your ISP if you are still having connection problems. Settings on your Internet service provider's end may be causing your NAT problems. If the above methods don't work, you can try calling your ISP's technical support line.",
+  "tyn_model":[
+    "router",
+    "xbox one",
+    "xbox",
+    "modem",
+    "ethernet cable",
+    "routers",
+    "\u2630.",
+    "internet service provider",
+    "ip address",
+    "\u2630,",
+    "\u2630 again",
+    "port forwarding",
+    "tv",
+    "parser",
+    "xbox guide",
+    "tcp/ip,",
+    "web browser",
+    "\u21b5 enter",
+    "console",
+    "ip settings",
+    "dns",
+    "port forwarding page"
+  ],
+  "tyn_section":[
+
+  ]
+}

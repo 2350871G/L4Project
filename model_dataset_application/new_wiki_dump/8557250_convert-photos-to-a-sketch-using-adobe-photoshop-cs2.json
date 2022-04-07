@@ -1,0 +1,67 @@
+{
+  "title":"How to Convert Photos to a Sketch Using Adobe Photoshop CS2",
+  "url":"https://www.wikihow.com/Convert-Photos-to-a-Sketch-Using-Adobe-Photoshop-CS2",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Genres",
+    "Art Photography"
+  ],
+  "steps":[
+    {
+      "headline":"Open the image you want to use in Photoshop.",
+      "description":"You can do this by going: File-Open or, by going Ctrl+O (Windows) or \u2318 Cmd+O (Mac)."
+    },
+    {
+      "headline":"Set your image to black and white or, 'Grayscale'.",
+      "description":"To do this you can use the drop down menus: Image - Mode - Grayscale. Or you can use the key board shortcut: Ctrl+\u21e7 Shift+U (Windows) or \u2318 Cmd+\u21e7 Shift+U (Mac)."
+    },
+    {
+      "headline":"Duplicate your image in a new layer.",
+      "description":"The easiest way to do this is by right clicking on the background layer and stetting \"Duplicate Layer...\". Another way to do this, if you are a fan of keyboard shortcuts is by going Ctrl+J (Windows) or \u2318 Cmd+J (Mac)."
+    },
+    {
+      "headline":"Make your top layer into a 'negative'.",
+      "description":"To identify your top layer look at the layers box, default on the right side of your screen. The  one at the top is your top layer and unless you changed the name it will probable be called 'background copy'. Make sure you are on that layer and use the keyboard short cut Ctrl+I (Windows) or \u2318 Cmd+I (Mac). This will make your top layer a negative."
+    },
+    {
+      "headline":"Select 'Color Dodge' from the drop down on the layers box.",
+      "description":"This drop down is to the right of opacity at the top of the layers box. Less that halfway down is the option 'Color Dodge'. When you select this your canvas (image) will go mostly or all white. Don't worry this is meant to happen."
+    },
+    {
+      "headline":"Apply the Gaussian Blur.",
+      "description":"This tool is found under: Filter - Blur - Gaussian Blur. A new box will pop up, at the bottom of this box is a slider drag this slider left to right to change the amount this affect is applied. The lower end between 4 and 7 is usually best but that isn't a rule."
+    },
+    {
+      "headline":"Use the history brush to add more texture to the image.",
+      "description":"The history brush is 4th from the top on the right side of the tool bar. The tool bar is default found on the left side of the screen. Use the tool at a low opacity to go over all, or some your picture. This will add a bit more tone to your image."
+    },
+    {
+      "headline":"Add texture using the texture filter.",
+      "description":"This can be found under: Filter - Texture - Texturizer... A new box will pop up, this will take up most of the screen. Play around with the sliders on the right. When you are done click OK. The image that appears in the texture box might be your other layer so, don't be alarmed if it is not what you were looking at a moment ago."
+    },
+    {
+      "headline":"Try other settings and tools if you want.",
+      "description":"Don't be limited by this how to. There are many other tools to try in Photoshop that might help your 'sketch' seem even more real. You might like to try tools such as:\nNoise: Filter - Noise\nBrush Strokes: Filter - Brush Strokes\nColor settings: Edit - Color settings"
+    }
+  ],
+  "text":" Open the image you want to use in Photoshop. You can do this by going: File-Open or, by going Ctrl+O (Windows) or \u2318 Cmd+O (Mac). Set your image to black and white or, 'Grayscale'. To do this you can use the drop down menus: Image - Mode - Grayscale. Or you can use the key board shortcut: Ctrl+\u21e7 Shift+U (Windows) or \u2318 Cmd+\u21e7 Shift+U (Mac). Duplicate your image in a new layer. The easiest way to do this is by right clicking on the background layer and stetting \"Duplicate Layer...\". Another way to do this, if you are a fan of keyboard shortcuts is by going Ctrl+J (Windows) or \u2318 Cmd+J (Mac). Make your top layer into a 'negative'. To identify your top layer look at the layers box, default on the right side of your screen. The  one at the top is your top layer and unless you changed the name it will probable be called 'background copy'. Make sure you are on that layer and use the keyboard short cut Ctrl+I (Windows) or \u2318 Cmd+I (Mac). This will make your top layer a negative. Select 'Color Dodge' from the drop down on the layers box. This drop down is to the right of opacity at the top of the layers box. Less that halfway down is the option 'Color Dodge'. When you select this your canvas (image) will go mostly or all white. Don't worry this is meant to happen. Apply the Gaussian Blur. This tool is found under: Filter - Blur - Gaussian Blur. A new box will pop up, at the bottom of this box is a slider drag this slider left to right to change the amount this affect is applied. The lower end between 4 and 7 is usually best but that isn't a rule. Use the history brush to add more texture to the image. The history brush is 4th from the top on the right side of the tool bar. The tool bar is default found on the left side of the screen. Use the tool at a low opacity to go over all, or some your picture. This will add a bit more tone to your image. Add texture using the texture filter. This can be found under: Filter - Texture - Texturizer... A new box will pop up, this will take up most of the screen. Play around with the sliders on the right. When you are done click OK. The image that appears in the texture box might be your other layer so, don't be alarmed if it is not what you were looking at a moment ago. Try other settings and tools if you want. Don't be limited by this how to. There are many other tools to try in Photoshop that might help your 'sketch' seem even more real. You might like to try tools such as:\nNoise: Filter - Noise\nBrush Strokes: Filter - Brush Strokes\nColor settings: Edit - Color settings",
+  "tyn_model":[
+    "photoshop",
+    "\u21e7 shift+u",
+    "gaussian blur",
+    "slider",
+    "\u2318 cmd+o",
+    "\u2318 cmd+",
+    "\u2318 cmd+j",
+    "\u2318 cmd+i",
+    "canvas",
+    "filter",
+    "history brush",
+    "texture filter",
+    "texturizer"
+  ],
+  "tyn_section":[
+
+  ]
+}

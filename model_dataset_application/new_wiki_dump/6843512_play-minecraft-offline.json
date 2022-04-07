@@ -1,0 +1,96 @@
+{
+  "title":"How to Play Minecraft Offline",
+  "url":"https://www.wikihow.com/Play-Minecraft-Offline",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Minecraft"
+  ],
+  "methods":[
+    {
+      "name":"Selecting the \u201cPlay Offline\u201d Feature",
+      "steps":[
+        {
+          "headline":"Open the Minecraft Launcher and click on \u201cLogin\u201d at the lower right corner.",
+          "description":"The username and password fields must be left blank."
+        },
+        {
+          "headline":"Select \u201cPlay Offline.\u201d Minecraft will launch, and you will now be playing offline.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Modifying Minecraft Server Information",
+      "steps":[
+        {
+          "headline":"Navigate to and open the \u201cMinecraft Server\u201d folder on your computer.",
+          "description":"This method only works if you host your own Minecraft server, or have access to a friend\u2019s Minecraft server."
+        },
+        {
+          "headline":"Remove the checkmark next to the Minecraft server name.",
+          "description":"This will temporarily disable the Minecraft server."
+        },
+        {
+          "headline":"Open the \u201cserver.properties\u201d file.",
+          "description":"The properties will open in your computer\u2019s default text editor program, such as Notepad or Text Editor."
+        },
+        {
+          "headline":"Locate \u201conline-mode=true\u201d in the list of properties.",
+          "description":""
+        },
+        {
+          "headline":"Change the value of \u201ctrue\u201d to \u201cfalse.\u201d The value should now read as \u201conline-mode=false,\u201d which means that online mode is disabled on your server.",
+          "description":""
+        },
+        {
+          "headline":"Select the option to save changes, then exit Notepad or Text Editor.",
+          "description":""
+        },
+        {
+          "headline":"Replace the checkmark next to the Minecraft server name, then double-click on the server to restart and relaunch the server.",
+          "description":""
+        },
+        {
+          "headline":"Open Minecraft Launcher, then click on \u201cLogin\u201d at the bottom right corner.",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cPlay Offline,\u201d then select your Minecraft server.",
+          "description":"The game will launch, and you will now be playing offline."
+        }
+      ]
+    }
+  ],
+  "text":" Selecting the \u201cPlay Offline\u201d Feature Open the Minecraft Launcher and click on \u201cLogin\u201d at the lower right corner. The username and password fields must be left blank. Select \u201cPlay Offline.\u201d Minecraft will launch, and you will now be playing offline.  Modifying Minecraft Server Information Navigate to and open the \u201cMinecraft Server\u201d folder on your computer. This method only works if you host your own Minecraft server, or have access to a friend\u2019s Minecraft server. Remove the checkmark next to the Minecraft server name. This will temporarily disable the Minecraft server. Open the \u201cserver.properties\u201d file. The properties will open in your computer\u2019s default text editor program, such as Notepad or Text Editor. Locate \u201conline-mode=true\u201d in the list of properties.  Change the value of \u201ctrue\u201d to \u201cfalse.\u201d The value should now read as \u201conline-mode=false,\u201d which means that online mode is disabled on your server.  Select the option to save changes, then exit Notepad or Text Editor.  Replace the checkmark next to the Minecraft server name, then double-click on the server to restart and relaunch the server.  Open Minecraft Launcher, then click on \u201cLogin\u201d at the bottom right corner.  Select \u201cPlay Offline,\u201d then select your Minecraft server. The game will launch, and you will now be playing offline.",
+  "tyn_model":[
+    "minecraft server",
+    "\u201cplay",
+    "minecraft launcher",
+    "\u201clogin",
+    "\u201d at",
+    "\u201conline",
+    "\u201d feature",
+    "\u201d minecraft",
+    "\u201cminecraft",
+    "\u201d folder",
+    "\u201cserver.properties",
+    "\u201d file",
+    "notepad or text editor",
+    "\u201d in",
+    "\u201ctrue",
+    "\u201d to",
+    "\u201cfalse",
+    "\u201d the",
+    "\u201d which",
+    "notepad",
+    "text editor",
+    "\u201d then"
+  ],
+  "tyn_section":[
+
+  ]
+}

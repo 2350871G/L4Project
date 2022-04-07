@@ -1,0 +1,174 @@
+{
+  "title":"How to Perform a Blower Door Test on a Home",
+  "url":"https://www.wikihow.com/Perform-a-Blower-Door-Test-on-a-Home",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Doors and Windows"
+  ],
+  "parts":[
+    {
+      "name":"Setting Up the House",
+      "steps":[
+        {
+          "headline":"Close all exterior doors and windows.",
+          "description":"The house must be put under \"winter conditions\". Make sure any attic or crawlspace accesses are closed."
+        },
+        {
+          "headline":"Open all interior doors.",
+          "description":"The entire inside of the house must have all areas communicating fully with each other so when the fan is turned on, it pulls air from the entire house."
+        },
+        {
+          "headline":"Turn off any exhaust fans.",
+          "description":"This includes bath exhaust fans, kitchen fans, whole house fans and clothes dryers. During the blower door test, the blower door fan should be the only fan exhausting air from the home. Ceiling fans do not affect the test but should be turned off to help the blower door operator better identify drafts during the test."
+        },
+        {
+          "headline":"Disable all gas burning appliances.",
+          "description":"Turn down water heater and furnace thermostats. These must not turn on during the blower door test."
+        },
+        {
+          "headline":"Inspect fire place for ashes or debris.",
+          "description":"Clean out any ashes or cover them with wet newspaper to avoid pulling ash into the home."
+        },
+        {
+          "headline":"Clear obstructions from front door.",
+          "description":"The front door is the preferred location to set up the blower door. Be sure to have a clear spot around the door so it can be fully opened."
+        }
+      ]
+    },
+    {
+      "name":"Setting Up the Blower Door Shroud",
+      "steps":[
+        {
+          "headline":"Lay shroud on the ground with velcro strips facing up.",
+          "description":"Arrange four outside aluminum frame pieces with cam levers facing up on shroud."
+        },
+        {
+          "headline":"Connect all four aluminum pieces at the corner blocks.",
+          "description":"This will make a rectangle. Be sure that all four aluminum pieces are fully collapsed."
+        },
+        {
+          "headline":"Lift the aluminum frame pieces and set it in corner of the front door with the long side of the rectangle touching the hinge side of the door and pushed against the door stop.",
+          "description":"Raise the aluminum frame so the top horizontal frame is touching the top of the door casing, while the vertical frame piece maintains contact against the hinge side and door stop. Once it\u2019s tight in place, finger tighten the cam and engage the lever. The frame should now be snug in the door frame with the vertical frame fully elongated along the hinge side of the door."
+        },
+        {
+          "headline":"Extend the upper and lower frame pieces so the other vertical frame piece is in contact with the strike plate side of the door casing.",
+          "description":"Be sure to extend the vertical frame piece so the top frame piece stays in contact with the casing across the top. Finger tighten the three remaining cams so the frame is snug along the entire inside door frame and the frame pieces are firm. Disengage the lever on the cam lever along the hinge side and remove the frame from the door."
+        },
+        {
+          "headline":"Set the frame on top of shroud so the outer velcro straps near the hole in the shroud can be wrapped around the aluminum frame.",
+          "description":"Draw the remaining flaps over the frame and secure the shroud with the velcro straps."
+        },
+        {
+          "headline":"Place the green hose outside front door.",
+          "description":"Extend the hose so the end of the hose is at least 4 feet to the left or right of the door opening. Replace the aluminum frame in the door casing, snug along four sides and against the door stop. Engage all four levers to ensure the frame is tightly installed"
+        },
+        {
+          "headline":"Install the cross bar just above the opening in the shroud.",
+          "description":"Finger tighten the cam and engage the lever. Make sure the velcro loop strap is in place."
+        }
+      ]
+    },
+    {
+      "name":"Installing the Fan and Setting Up the Manometer",
+      "steps":[
+        {
+          "headline":"Pull the green tube through hole in the bottom corner of the shroud.",
+          "description":"Be sure that the hose exterior end stays at least 4 feet to the left or right of the door opening."
+        },
+        {
+          "headline":"Lift the fan and push out the side of the fan lip, through the shroud so the elastic band in the hole is snug around the entire fan.",
+          "description":"Be sure to keep the fan side with the ring covers to the inside. Pull the velcro loop through the fan handle and tighten to raise the bottom of the fan off the ground."
+        },
+        {
+          "headline":"Hang the manometer gauge board on the aluminum frame.",
+          "description":"Attach the manometer to the velcro."
+        },
+        {
+          "headline":"Connect the inside end of the green hose to the bottom left hose port labeled \"Ref\".",
+          "description":"This is the channel A reference port. Connect the red hose to top right hose port labeled \"Input\". This is the Channel B reference port."
+        },
+        {
+          "headline":"Plug the fan speed controller into a grounded electrical outlet.",
+          "description":"Connect the power to the fan."
+        }
+      ]
+    },
+    {
+      "name":"Setting up Manometer",
+      "steps":[
+        {
+          "headline":"Press the \"Mode\" button to access the meter reading options.",
+          "description":""
+        },
+        {
+          "headline":"Press the \"Device\" button until the blinking display in the upper left reads \"BD3\".",
+          "description":""
+        },
+        {
+          "headline":"Press the \"Units\" button until the blinking display in the lower left reads \"Pa/cfm@50\".",
+          "description":""
+        },
+        {
+          "headline":"Press \"Config\" until the blinking display in the upper right reads \"Open\" if the home being tested in large and/or very leaky, or \"A\" if the home is relatively new or air tight.",
+          "description":""
+        },
+        {
+          "headline":"Press \"Baseline\" then \"Start\" so the manometer can establish what the baseline pressure difference between the inside and outside of the house is.",
+          "description":"Let the timer run for a minimum of 30 seconds before pushing \"Enter\"."
+        }
+      ]
+    },
+    {
+      "name":"Performing the Depressurization Test",
+      "steps":[
+        {
+          "headline":"Remove the number of rings necessary to match the configuration entered into the manometer.",
+          "description":""
+        },
+        {
+          "headline":"Turn the knob on the fan controller to increase fan flow.",
+          "description":"Increase the flow until the number in channel A reads around -25pa."
+        },
+        {
+          "headline":"Do an quick walk around the house to make sure no exterior doors or attic hatches have opened.",
+          "description":"Also, any windows that may have been missed will be more easily noticed since air will be coming in. If all exterior openings are still closed, increase the fan speed until number in channel A (left channel) reads -50pa. Depending on the outside conditions, this number may not be steady. Any fan speed that fluctuates between -48pa and -52pa is acceptable."
+        },
+        {
+          "headline":"Press \"Hold\" and record the number in channel B (right channel) once the desired speed is set.",
+          "description":"This is the amount of air that must be continuously removed from the house to maintain a negative (vacuum) pressure in the house of 50 pascals (metric unit of pressure)."
+        },
+        {
+          "headline":"Turn off the fan.",
+          "description":"The test is complete. The fan can be shut. The blower door equipment can be disassembled."
+        },
+        {
+          "headline":"Calculate ACH50.",
+          "description":"Multiply the cfm@50pa number read from the manometer during the test by 60. Divide that product by the volume of the home\u2019s conditioned space to determine the ACH50."
+        }
+      ]
+    }
+  ],
+  "text":" Setting Up the House Close all exterior doors and windows. The house must be put under \"winter conditions\". Make sure any attic or crawlspace accesses are closed. Open all interior doors. The entire inside of the house must have all areas communicating fully with each other so when the fan is turned on, it pulls air from the entire house. Turn off any exhaust fans. This includes bath exhaust fans, kitchen fans, whole house fans and clothes dryers. During the blower door test, the blower door fan should be the only fan exhausting air from the home. Ceiling fans do not affect the test but should be turned off to help the blower door operator better identify drafts during the test. Disable all gas burning appliances. Turn down water heater and furnace thermostats. These must not turn on during the blower door test. Inspect fire place for ashes or debris. Clean out any ashes or cover them with wet newspaper to avoid pulling ash into the home. Clear obstructions from front door. The front door is the preferred location to set up the blower door. Be sure to have a clear spot around the door so it can be fully opened. Setting Up the Blower Door Shroud Lay shroud on the ground with velcro strips facing up. Arrange four outside aluminum frame pieces with cam levers facing up on shroud. Connect all four aluminum pieces at the corner blocks. This will make a rectangle. Be sure that all four aluminum pieces are fully collapsed. Lift the aluminum frame pieces and set it in corner of the front door with the long side of the rectangle touching the hinge side of the door and pushed against the door stop. Raise the aluminum frame so the top horizontal frame is touching the top of the door casing, while the vertical frame piece maintains contact against the hinge side and door stop. Once it\u2019s tight in place, finger tighten the cam and engage the lever. The frame should now be snug in the door frame with the vertical frame fully elongated along the hinge side of the door. Extend the upper and lower frame pieces so the other vertical frame piece is in contact with the strike plate side of the door casing. Be sure to extend the vertical frame piece so the top frame piece stays in contact with the casing across the top. Finger tighten the three remaining cams so the frame is snug along the entire inside door frame and the frame pieces are firm. Disengage the lever on the cam lever along the hinge side and remove the frame from the door. Set the frame on top of shroud so the outer velcro straps near the hole in the shroud can be wrapped around the aluminum frame. Draw the remaining flaps over the frame and secure the shroud with the velcro straps. Place the green hose outside front door. Extend the hose so the end of the hose is at least 4 feet to the left or right of the door opening. Replace the aluminum frame in the door casing, snug along four sides and against the door stop. Engage all four levers to ensure the frame is tightly installed Install the cross bar just above the opening in the shroud. Finger tighten the cam and engage the lever. Make sure the velcro loop strap is in place. Installing the Fan and Setting Up the Manometer Pull the green tube through hole in the bottom corner of the shroud. Be sure that the hose exterior end stays at least 4 feet to the left or right of the door opening. Lift the fan and push out the side of the fan lip, through the shroud so the elastic band in the hole is snug around the entire fan. Be sure to keep the fan side with the ring covers to the inside. Pull the velcro loop through the fan handle and tighten to raise the bottom of the fan off the ground. Hang the manometer gauge board on the aluminum frame. Attach the manometer to the velcro. Connect the inside end of the green hose to the bottom left hose port labeled \"Ref\". This is the channel A reference port. Connect the red hose to top right hose port labeled \"Input\". This is the Channel B reference port. Plug the fan speed controller into a grounded electrical outlet. Connect the power to the fan. Setting up Manometer Press the \"Mode\" button to access the meter reading options.  Press the \"Device\" button until the blinking display in the upper left reads \"BD3\".  Press the \"Units\" button until the blinking display in the lower left reads \"Pa/cfm@50\".  Press \"Config\" until the blinking display in the upper right reads \"Open\" if the home being tested in large and/or very leaky, or \"A\" if the home is relatively new or air tight.  Press \"Baseline\" then \"Start\" so the manometer can establish what the baseline pressure difference between the inside and outside of the house is. Let the timer run for a minimum of 30 seconds before pushing \"Enter\". Performing the Depressurization Test Remove the number of rings necessary to match the configuration entered into the manometer.  Turn the knob on the fan controller to increase fan flow. Increase the flow until the number in channel A reads around -25pa. Do an quick walk around the house to make sure no exterior doors or attic hatches have opened. Also, any windows that may have been missed will be more easily noticed since air will be coming in. If all exterior openings are still closed, increase the fan speed until number in channel A (left channel) reads -50pa. Depending on the outside conditions, this number may not be steady. Any fan speed that fluctuates between -48pa and -52pa is acceptable. Press \"Hold\" and record the number in channel B (right channel) once the desired speed is set. This is the amount of air that must be continuously removed from the house to maintain a negative (vacuum) pressure in the house of 50 pascals (metric unit of pressure). Turn off the fan. The test is complete. The fan can be shut. The blower door equipment can be disassembled. Calculate ACH50. Multiply the cfm@50pa number read from the manometer during the test by 60. Divide that product by the volume of the home\u2019s conditioned space to determine the ACH50.",
+  "tyn_model":[
+    "fan",
+    "hose",
+    "blower door",
+    "manometer",
+    "exhaust fans",
+    "water heater",
+    "furnace",
+    "velcro strips",
+    "aluminum",
+    "green hose",
+    "manometer gauge board",
+    "fan speed controller",
+    "electrical outlet",
+    "fan controller",
+    "air",
+    "blower"
+  ],
+  "tyn_section":[
+
+  ]
+}

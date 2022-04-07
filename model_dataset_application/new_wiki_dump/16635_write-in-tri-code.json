@@ -1,0 +1,95 @@
+{
+  "title":"How to Write in Tri Code",
+  "url":"https://www.wikihow.com/Write-in-Tri-Code",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games"
+  ],
+  "methods":[
+    {
+      "name":"Learning to Write in Tri Code",
+      "steps":[
+        {
+          "headline":"Choose your message.",
+          "description":"Before you can translate your message into Tri Code, you'll first need to come up with a message. For the purpose of providing a guided example, the message \"Welcome to the jungle\" will be translated into Tri Code. While you're still getting the hang of writing in Tri Code, you may want to start with shorter messages. As you become more practiced, longer messages will become easier."
+        },
+        {
+          "headline":"Translate the first segment of you message.",
+          "description":"In Tri Code, the letters of your message will be broken up into groups of three letter segments written in reverse. In the guided example, \"Wel\" are the first three letters, therefore, the first segment is \"Lew.\" Generally, each segment is separated by a space. This further distances same-word letters from each other, making it more difficult for others to see the pattern of your Tri Code cipher. In the beginning, it's likely you'll need to write down your translated message so you don't forget it. When Tri Code is more familiar, you may be able to do this translation in your head."
+        },
+        {
+          "headline":"Encode your next segment.",
+          "description":"The next segment begins where your first left off. Take the next three letters and write them in reverse as a set of three. For the guided example, this would be \"moc.\" At this point, your ciphered message should now read \"Lew moc.\""
+        },
+        {
+          "headline":"Continue taking segments three letters at a time.",
+          "description":"In many cases, words won't perfectly divide into three letter segments. When this happens, take the remaining letter(s) and complete your three letter segment with letters from the next word, then write it in reverse. For example, the 'e' at the end of \"welcome\" will combine with the next two letters of the following word, \"to\" to create the segment \"eto.\" This is then written in reverse to get the Tri Code \"ote.\" At this point, you should have three segments translated into Tri Code, giving you the partially translated message, \"Lew moc ote.\""
+        },
+        {
+          "headline":"Maintain punctuation.",
+          "description":"The Tri Code cipher is only intended to be applied to letters, so any punctuation, like apostrophes, should be kept with the letter it punctuates. So, for a sentence like \"What's that?\" will become either \"Ahw ts't tah?\" or \"Ahw t'st tah?\" Whether you put apostrophes before the letter they punctuate or after is a matter of preference. However, to prevent confusion, you may want to stick to one or the other."
+        },
+        {
+          "headline":"Practice by writing in Tri Code regularly.",
+          "description":"Like any new writing system, Tri Code will take some practice before it comes easily. As you practice, the time it takes you to write in Tri Code should decrease. Now that you can write in Tri Code, you can practice reading it."
+        }
+      ]
+    },
+    {
+      "name":"Reading Tri Code",
+      "steps":[
+        {
+          "headline":"Recognize the need for practice.",
+          "description":"For you to read Tri Code without having to puzzle at it or write it out in English, you'll need to practice deciphering it. Writing and reading use different parts of your brain. Just because you can write Tri Code well doesn't mean you can read it well."
+        },
+        {
+          "headline":"Find a practice partner.",
+          "description":"You'll already know the meaning of messages you write yourself, so a practice partner is necessary to improve your Tri Code reading. This way, you'll have no idea what the message is and will have to decode it completely to find out. You might be able to find practice partners at a local or school cryptography club, or online through cryptography websites. If you have difficulty finding a practice partner, you might be able to find Tri Code messages from amateur cryptologists online."
+        },
+        {
+          "headline":"Read small sections and increase length gradually.",
+          "description":"A page completely full of Tri Code can be overwhelming and lead to you getting discouraged. Start with short messages and, as reading becomes easier, increase the length of your messages little by little. Eventually, you should be able to read even large portions of Tri Code without difficulty. You can be more consistent with your practice by setting clear daily and weekly goals. For example, an early goal might be writing three short sentences daily in Tri Code. A more advanced goal might be something like writing a full journal entry in code."
+        },
+        {
+          "headline":"Take breaks to prevent mental fatigue.",
+          "description":"When you brain has to do something new or challenging, it takes a lot of mental energy. Practicing Tri Code too often can lead you to feel fatigued or mentally exhausted. If you start feeling worn out, give your brain a rest day to recharge. Doing enjoyable activities, like playing games and reading books, can also help your brain to relax."
+        }
+      ]
+    },
+    {
+      "name":"Writing the Tri Roman Variation",
+      "steps":[
+        {
+          "headline":"Determine the order of your ciphers.",
+          "description":"Tri Roman is a combination of two simple ciphers: Tri Code and the Caesar Cipher. Depending on your preference, you can apply the Tri Code transformation first and then the Caesar Cipher, or vice versa. Generally, when applying a cipher to encode a message, you should apply the cipher completely to the entire message before applying a new cipher."
+        },
+        {
+          "headline":"Transfer your message completely into Tri Code.",
+          "description":"Just as you would normally, take letters in segments of three from the start of your message to its end, then write each segment in reverse. Since you'll be using two ciphers, it's best to write down these transformations to prevent mistakes. For the purpose of providing a guided example for Tri Roman, the phrase, \"Caesar's a genius\" will be used. In Tri Code, this would be, \"Eac ras ga's ine su.\""
+        },
+        {
+          "headline":"Use the Caesar Cipher.",
+          "description":"Now that your message is in Tri Code, you can move on to your next cipher. Caesar Cipher, also called a shift cipher, replaces letters in your message with a new letter a fixed number of positions away in the alphabet. Imagine the alphabet from A - Z laid out before you, from left to right. A left shift of three, then, would replace D's in your original message with an B's, J's with H's, and so on. You can choose to shift either to the left or right as many positions as you desire. If you reach the beginning of the alphabet, continue shifting from the end and vice versa. Therefore, with left shift three A becomes Y, and with right shift three Z becomes B. Basic shift ciphers should only shift letters in a single direction. When using the Caesar Cipher, you should never shift both left and right at the same time. Using a Caesar Cipher with a left shift of three on the Tri Coded message \"Eac ras ga's ine su\" (Caesar's a genius) gives you the Tri Roman coded message \"Cya pyq ey'q glc qs.\""
+        },
+        {
+          "headline":"Swap the order of your ciphering.",
+          "description":"You may find it easiest to write out messages in Tri Code before applying the Caesar Cipher. Alternatively, you may have an easier time doing Caesar Cipher first, and then Tri Code. Experiment with both ways to find what works best for you. An example of Tri Roman code with the Caesar Cipher first, then Tri code, with a left shift of three, would look like:\nCaesar's a genius \u2192 Aycqyp'q y eclgsq (Caesar Cipher) \u2192 Cya pyq ey'q glc qs (Tri Code)"
+        }
+      ]
+    }
+  ],
+  "text":" Learning to Write in Tri Code Choose your message. Before you can translate your message into Tri Code, you'll first need to come up with a message. For the purpose of providing a guided example, the message \"Welcome to the jungle\" will be translated into Tri Code. While you're still getting the hang of writing in Tri Code, you may want to start with shorter messages. As you become more practiced, longer messages will become easier. Translate the first segment of you message. In Tri Code, the letters of your message will be broken up into groups of three letter segments written in reverse. In the guided example, \"Wel\" are the first three letters, therefore, the first segment is \"Lew.\" Generally, each segment is separated by a space. This further distances same-word letters from each other, making it more difficult for others to see the pattern of your Tri Code cipher. In the beginning, it's likely you'll need to write down your translated message so you don't forget it. When Tri Code is more familiar, you may be able to do this translation in your head. Encode your next segment. The next segment begins where your first left off. Take the next three letters and write them in reverse as a set of three. For the guided example, this would be \"moc.\" At this point, your ciphered message should now read \"Lew moc.\" Continue taking segments three letters at a time. In many cases, words won't perfectly divide into three letter segments. When this happens, take the remaining letter(s) and complete your three letter segment with letters from the next word, then write it in reverse. For example, the 'e' at the end of \"welcome\" will combine with the next two letters of the following word, \"to\" to create the segment \"eto.\" This is then written in reverse to get the Tri Code \"ote.\" At this point, you should have three segments translated into Tri Code, giving you the partially translated message, \"Lew moc ote.\" Maintain punctuation. The Tri Code cipher is only intended to be applied to letters, so any punctuation, like apostrophes, should be kept with the letter it punctuates. So, for a sentence like \"What's that?\" will become either \"Ahw ts't tah?\" or \"Ahw t'st tah?\" Whether you put apostrophes before the letter they punctuate or after is a matter of preference. However, to prevent confusion, you may want to stick to one or the other. Practice by writing in Tri Code regularly. Like any new writing system, Tri Code will take some practice before it comes easily. As you practice, the time it takes you to write in Tri Code should decrease. Now that you can write in Tri Code, you can practice reading it. Reading Tri Code Recognize the need for practice. For you to read Tri Code without having to puzzle at it or write it out in English, you'll need to practice deciphering it. Writing and reading use different parts of your brain. Just because you can write Tri Code well doesn't mean you can read it well. Find a practice partner. You'll already know the meaning of messages you write yourself, so a practice partner is necessary to improve your Tri Code reading. This way, you'll have no idea what the message is and will have to decode it completely to find out. You might be able to find practice partners at a local or school cryptography club, or online through cryptography websites. If you have difficulty finding a practice partner, you might be able to find Tri Code messages from amateur cryptologists online. Read small sections and increase length gradually. A page completely full of Tri Code can be overwhelming and lead to you getting discouraged. Start with short messages and, as reading becomes easier, increase the length of your messages little by little. Eventually, you should be able to read even large portions of Tri Code without difficulty. You can be more consistent with your practice by setting clear daily and weekly goals. For example, an early goal might be writing three short sentences daily in Tri Code. A more advanced goal might be something like writing a full journal entry in code. Take breaks to prevent mental fatigue. When you brain has to do something new or challenging, it takes a lot of mental energy. Practicing Tri Code too often can lead you to feel fatigued or mentally exhausted. If you start feeling worn out, give your brain a rest day to recharge. Doing enjoyable activities, like playing games and reading books, can also help your brain to relax. Writing the Tri Roman Variation Determine the order of your ciphers. Tri Roman is a combination of two simple ciphers: Tri Code and the Caesar Cipher. Depending on your preference, you can apply the Tri Code transformation first and then the Caesar Cipher, or vice versa. Generally, when applying a cipher to encode a message, you should apply the cipher completely to the entire message before applying a new cipher. Transfer your message completely into Tri Code. Just as you would normally, take letters in segments of three from the start of your message to its end, then write each segment in reverse. Since you'll be using two ciphers, it's best to write down these transformations to prevent mistakes. For the purpose of providing a guided example for Tri Roman, the phrase, \"Caesar's a genius\" will be used. In Tri Code, this would be, \"Eac ras ga's ine su.\" Use the Caesar Cipher. Now that your message is in Tri Code, you can move on to your next cipher. Caesar Cipher, also called a shift cipher, replaces letters in your message with a new letter a fixed number of positions away in the alphabet. Imagine the alphabet from A - Z laid out before you, from left to right. A left shift of three, then, would replace D's in your original message with an B's, J's with H's, and so on. You can choose to shift either to the left or right as many positions as you desire. If you reach the beginning of the alphabet, continue shifting from the end and vice versa. Therefore, with left shift three A becomes Y, and with right shift three Z becomes B. Basic shift ciphers should only shift letters in a single direction. When using the Caesar Cipher, you should never shift both left and right at the same time. Using a Caesar Cipher with a left shift of three on the Tri Coded message \"Eac ras ga's ine su\" (Caesar's a genius) gives you the Tri Roman coded message \"Cya pyq ey'q glc qs.\" Swap the order of your ciphering. You may find it easiest to write out messages in Tri Code before applying the Caesar Cipher. Alternatively, you may have an easier time doing Caesar Cipher first, and then Tri Code. Experiment with both ways to find what works best for you. An example of Tri Roman code with the Caesar Cipher first, then Tri code, with a left shift of three, would look like:\nCaesar's a genius \u2192 Aycqyp'q y eclgsq (Caesar Cipher) \u2192 Cya pyq ey'q glc qs (Tri Code)",
+  "tyn_model":[
+    "tri code",
+    "caesar cipher",
+    "cipher",
+    "cryptography websites",
+    "ciphers",
+    "\u2192 aycqyp'q",
+    "\u2192 cya"
+  ],
+  "tyn_section":[
+
+  ]
+}

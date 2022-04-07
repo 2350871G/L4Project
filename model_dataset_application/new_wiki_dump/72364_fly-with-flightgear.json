@@ -1,0 +1,81 @@
+{
+  "title":"How to Fly With Flightgear",
+  "url":"https://www.wikihow.com/Fly-With-Flightgear",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Simulation"
+  ],
+  "steps":[
+    {
+      "headline":"Go to the FlightGear website and download FlightGear.",
+      "description":""
+    },
+    {
+      "headline":"Install the file you are given.",
+      "description":""
+    },
+    {
+      "headline":"Open the FlightGear wizard.",
+      "description":"(fgrun.exe)"
+    },
+    {
+      "headline":"Select your plane.",
+      "description":""
+    },
+    {
+      "headline":"Select your airport.",
+      "description":"If the runway you wish to use is not listed, use the \"Select airport from list\" option in the actual game window."
+    },
+    {
+      "headline":"Click Run.",
+      "description":""
+    },
+    {
+      "headline":"Wait.",
+      "description":"If you have a slow computer it may take a few minutes. Installing FlightGear (together with scenery, airports and aircraft) takes a while, so while it's installing, go eat a sandwich, watch your favorite TV show, and check back later. The same applies to loading a flight simulation."
+    },
+    {
+      "headline":"Fly your plane!",
+      "description":"Hold the S key (S for \"start\") to start the engine. Like turning a key in a car, it takes a few seconds for it to \"catch\", and once the engine starts purring, you can safely let go of the key. FlightGear offers in-game flight tutorials, but for quick reference, the most basic controls are as follows \u2014 \nThe space bar starts the engine on a prop engine aircraft (it's usually on when FlightGear starts), Page Up increases throttle, Page Down decreases throttle, the up and down arrows control the elevator, the left and right arrows control the ailerons, and 0 and Enter (on NumPad) control the rudder. If you have difficulty, click Help, then Basic aircraft controls. Note that, again, FlightGear is designed for realism, and the controls are highly responsive, but also highly sensitive, which can prove quite daunting for the inexperienced flyer. It'll take a while to get the hang of flying, or even just taxiing around the airport, but the views are worth it."
+    },
+    {
+      "headline":"If you want to install more scenery, go to the FlightGear site and follow the instructions.",
+      "description":""
+    },
+    {
+      "headline":"Run fgadmin.exe to open the scenery installer.",
+      "description":"Select your source location (where the files come from), then select your install destination. It must be C:\\Program Files\\FlightGear\\data\\Scenery\\Terrain or it will not work!"
+    },
+    {
+      "headline":"Check the files you wish to install and then click Install.",
+      "description":""
+    },
+    {
+      "headline":"After it is done loading, open FlightGear and go one back from the aircraft selection.",
+      "description":"Add C:\\Program Files\\FlightGear\\data\\Scenery\\Terrain to the FG_SCENERY box."
+    },
+    {
+      "headline":"Go to the airport selection box and it should be empty.",
+      "description":"Wait a few minutes for it to update itself. After it does so, you may now select those airports!"
+    },
+    {
+      "headline":"To add additional airport scenery files, liveries, or even aircraft unavailable on the official site, you should consider visiting United Free World which provides free downloads of FlightGear addons.",
+      "description":""
+    }
+  ],
+  "text":" Go to the FlightGear website and download FlightGear.  Install the file you are given.  Open the FlightGear wizard. (fgrun.exe) Select your plane.  Select your airport. If the runway you wish to use is not listed, use the \"Select airport from list\" option in the actual game window. Click Run.  Wait. If you have a slow computer it may take a few minutes. Installing FlightGear (together with scenery, airports and aircraft) takes a while, so while it's installing, go eat a sandwich, watch your favorite TV show, and check back later. The same applies to loading a flight simulation. Fly your plane! Hold the S key (S for \"start\") to start the engine. Like turning a key in a car, it takes a few seconds for it to \"catch\", and once the engine starts purring, you can safely let go of the key. FlightGear offers in-game flight tutorials, but for quick reference, the most basic controls are as follows \u2014 \nThe space bar starts the engine on a prop engine aircraft (it's usually on when FlightGear starts), Page Up increases throttle, Page Down decreases throttle, the up and down arrows control the elevator, the left and right arrows control the ailerons, and 0 and Enter (on NumPad) control the rudder. If you have difficulty, click Help, then Basic aircraft controls. Note that, again, FlightGear is designed for realism, and the controls are highly responsive, but also highly sensitive, which can prove quite daunting for the inexperienced flyer. It'll take a while to get the hang of flying, or even just taxiing around the airport, but the views are worth it. If you want to install more scenery, go to the FlightGear site and follow the instructions.  Run fgadmin.exe to open the scenery installer. Select your source location (where the files come from), then select your install destination. It must be C:\\Program Files\\FlightGear\\data\\Scenery\\Terrain or it will not work! Check the files you wish to install and then click Install.  After it is done loading, open FlightGear and go one back from the aircraft selection. Add C:\\Program Files\\FlightGear\\data\\Scenery\\Terrain to the FG_SCENERY box. Go to the airport selection box and it should be empty. Wait a few minutes for it to update itself. After it does so, you may now select those airports! To add additional airport scenery files, liveries, or even aircraft unavailable on the official site, you should consider visiting United Free World which provides free downloads of FlightGear addons. ",
+  "tyn_model":[
+    "aircraft",
+    "\u2014 \n",
+    "scenery",
+    "scenery installer",
+    "flightgear",
+    "flightgear addons"
+  ],
+  "tyn_section":[
+
+  ]
+}

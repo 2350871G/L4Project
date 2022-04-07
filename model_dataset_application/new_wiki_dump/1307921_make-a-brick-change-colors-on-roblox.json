@@ -1,0 +1,50 @@
+{
+  "title":"How to Make a Brick Change Colors on Roblox",
+  "url":"https://www.wikihow.com/Make-a-Brick-Change-Colors-on-Roblox",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Roblox"
+  ],
+  "steps":[
+    {
+      "headline":"Go to your Roblox place and click edit on \"Roblox Studio\"",
+      "description":""
+    },
+    {
+      "headline":"Go to the options all the way at the top and click on the \"Insert\" tab.",
+      "description":""
+    },
+    {
+      "headline":"Click on \"Object\".",
+      "description":""
+    },
+    {
+      "headline":"Click on \"Script\".",
+      "description":""
+    },
+    {
+      "headline":"Open the script in the \"Workspace\" in the \"Explorer\".",
+      "description":""
+    },
+    {
+      "headline":"Delete the \"Hello World\" text.",
+      "description":""
+    },
+    {
+      "headline":"Type what it says in the \"Script\" section of the page or copy and paste it in the script.",
+      "description":"brick = script.Parent\nwhile true do\nbrick.BrickColor = BrickColor.random()\nwait(0.5) -- always include the wait in \"while true do\" (infinite loops). Otherwise your program will crash. end"
+    }
+  ],
+  "text":" Go to your Roblox place and click edit on \"Roblox Studio\"  Go to the options all the way at the top and click on the \"Insert\" tab.  Click on \"Object\".  Click on \"Script\".  Open the script in the \"Workspace\" in the \"Explorer\".  Delete the \"Hello World\" text.  Type what it says in the \"Script\" section of the page or copy and paste it in the script. brick = script.Parent\nwhile true do\nbrick.BrickColor = BrickColor.random()\nwait(0.5) -- always include the wait in \"while true do\" (infinite loops). Otherwise your program will crash. end",
+  "tyn_model":[
+    "roblox studio",
+    "brick"
+  ],
+  "tyn_section":[
+
+  ]
+}

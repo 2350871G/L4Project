@@ -1,0 +1,68 @@
+{
+  "title":"How to Model a Molecule Using Avogadro Software",
+  "url":"https://www.wikihow.com/Model-a-Molecule-Using-Avogadro-Software",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Model Making"
+  ],
+  "steps":[
+    {
+      "headline":"Download the program.",
+      "description":"When downloading the program, just follow the regular downloading methods that are used on each computer's operating system (Macintosh or Windows). You can download the software from https://sourceforge.net/projects/avogadro/files/latest/download."
+    },
+    {
+      "headline":"Run the program.",
+      "description":"After downloading, click and open the program. It might take a minute or two to load, but do not worry or get frustrated and give it time."
+    },
+    {
+      "headline":"Pick a chemical molecule to model.",
+      "description":"For these instructions we'll start with something simple, a carbon dioxide molecule."
+    },
+    {
+      "headline":"Pick your settings.",
+      "description":"In this program, you are allowed to pick the what you want to see on the model. For example, if you want each element to be labeled in the molecule, select the \"Label\" option in the left hand side menu titled \"Display Types\". Or, if you wanted the dipole moment to be displayed, select the \"Dipole\" option in the same menu. However, always make sure that the \"Ball and Stick\" option is always selected so that your elements show up on the software."
+    },
+    {
+      "headline":"De-select the \"Adjust Hydrogens\" option.",
+      "description":"The \"Adjust Hydrogens\" option adds hydrogens to any molecule added, and so it is not needed when making a Carbon dioxide molecule. Also, it is better to always de-select this option because adding the hydrogens yourself gives you more control over the position and their order in the molecule as opposed to the software adding it by default."
+    },
+    {
+      "headline":"In the element section, click the drop down menu and select Carbon.",
+      "description":"This drop-down menu is the one we will be using to add any elements we need throughout this process. Once you have selected carbon, click anywhere in the black drawing area for the element to show up."
+    },
+    {
+      "headline":"Repeat the last step, but choose Oxygen from the menu.",
+      "description":"Then click on the black drawing area and drag towards the carbon until both elements are connected and have a bond connecting them. Repeat this step for the second oxygen atom."
+    },
+    {
+      "headline":"Change \"Bond Order\".",
+      "description":"A CO2 molecule has a double bond, and to change the bonds, just click on the Bond Order drop down menu and choose \"Double\". Then just click and drag between the elements that have the double bond between them. In the CO2 case, click and drag from the oxygen to the carbon and the bonds will change from single to double."
+    },
+    {
+      "headline":"From the extensions menu, select Optimize Geometry.",
+      "description":"This features conforms your molecule into the best molecular shape based on chemical properties of your model according to VSEPR theory. Once you select that feature, the model will take the preferred and standard chemical structure, which is a linear."
+    },
+    {
+      "headline":"From the View menu, find the properties of the molecule.",
+      "description":"To view important information about the molecule, from the \"View\" drop down menu, select \"Properties\" and then select \"Molecule Properties...\" This will give you weight of the molecule, dipole moment, and other important information that you would otherwise need to calculate to find."
+    },
+    {
+      "headline":"From the View menu, find the angle properties.",
+      "description":"This option will be more helpful with more complicated molecules where more elements are involved. From the same menu as Step 10, select \"Properties\" and then select \"Angle Properties\" which will give you all the angles in degrees and give you the vertex. This, however, will only be accurate if you made sure that you have optimized the geometry after finishing building the molecule."
+    },
+    {
+      "headline":"That's it!",
+      "description":"You have now built a very simple molecule. However, with this software, chemistry homework will be easy when you have all the information you need at your fingertips. The most important thing to remember is to make sure that the geometry of your model is optimized to ensure that all the properties are accurate. As you get more advanced, you can manipulate the molecules to add forces, have dipole moments, find the Van Der Waal interactions, and other cool chemical processes."
+    }
+  ],
+  "text":" Download the program. When downloading the program, just follow the regular downloading methods that are used on each computer's operating system (Macintosh or Windows). You can download the software from https://sourceforge.net/projects/avogadro/files/latest/download. Run the program. After downloading, click and open the program. It might take a minute or two to load, but do not worry or get frustrated and give it time. Pick a chemical molecule to model. For these instructions we'll start with something simple, a carbon dioxide molecule. Pick your settings. In this program, you are allowed to pick the what you want to see on the model. For example, if you want each element to be labeled in the molecule, select the \"Label\" option in the left hand side menu titled \"Display Types\". Or, if you wanted the dipole moment to be displayed, select the \"Dipole\" option in the same menu. However, always make sure that the \"Ball and Stick\" option is always selected so that your elements show up on the software. De-select the \"Adjust Hydrogens\" option. The \"Adjust Hydrogens\" option adds hydrogens to any molecule added, and so it is not needed when making a Carbon dioxide molecule. Also, it is better to always de-select this option because adding the hydrogens yourself gives you more control over the position and their order in the molecule as opposed to the software adding it by default. In the element section, click the drop down menu and select Carbon. This drop-down menu is the one we will be using to add any elements we need throughout this process. Once you have selected carbon, click anywhere in the black drawing area for the element to show up. Repeat the last step, but choose Oxygen from the menu. Then click on the black drawing area and drag towards the carbon until both elements are connected and have a bond connecting them. Repeat this step for the second oxygen atom. Change \"Bond Order\". A CO2 molecule has a double bond, and to change the bonds, just click on the Bond Order drop down menu and choose \"Double\". Then just click and drag between the elements that have the double bond between them. In the CO2 case, click and drag from the oxygen to the carbon and the bonds will change from single to double. From the extensions menu, select Optimize Geometry. This features conforms your molecule into the best molecular shape based on chemical properties of your model according to VSEPR theory. Once you select that feature, the model will take the preferred and standard chemical structure, which is a linear. From the View menu, find the properties of the molecule. To view important information about the molecule, from the \"View\" drop down menu, select \"Properties\" and then select \"Molecule Properties...\" This will give you weight of the molecule, dipole moment, and other important information that you would otherwise need to calculate to find. From the View menu, find the angle properties. This option will be more helpful with more complicated molecules where more elements are involved. From the same menu as Step 10, select \"Properties\" and then select \"Angle Properties\" which will give you all the angles in degrees and give you the vertex. This, however, will only be accurate if you made sure that you have optimized the geometry after finishing building the molecule. That's it! You have now built a very simple molecule. However, with this software, chemistry homework will be easy when you have all the information you need at your fingertips. The most important thing to remember is to make sure that the geometry of your model is optimized to ensure that all the properties are accurate. As you get more advanced, you can manipulate the molecules to add forces, have dipole moments, find the Van Der Waal interactions, and other cool chemical processes.",
+  "tyn_model":[
+    "carbon",
+    "oxygen",
+    "carbon dioxide",
+    "hydrogens"
+  ],
+  "tyn_section":[
+
+  ]
+}

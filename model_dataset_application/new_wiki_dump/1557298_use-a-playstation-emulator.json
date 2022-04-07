@@ -1,0 +1,63 @@
+{
+  "title":"How to Use a Playstation Emulator",
+  "url":"https://www.wikihow.com/Use-a-Playstation-Emulator",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Emulators and Roms"
+  ],
+  "methods":[
+    {
+      "name":"Getting the EPSXe Files",
+      "steps":[
+        {
+          "headline":"Download the ePSXe emulator from the official ePSXe website and save it on your computer's hard drive.",
+          "description":"You will have to download the file in a compressed format called ZIP."
+        },
+        {
+          "headline":"Unzip the compressed file using the following method.",
+          "description":"Download WinRAR for free from the RARLab website. Double-click on the downloaded file to install WinRAR on your computer. Right-click on the compressed ePSXe emulator file and select an option to extract the files. After the extraction is complete, you should see all of the extracted files and folders, which will include the \"bios\" and \"plugins\" folder as well as the executable \"ePSXe.exe\" file."
+        }
+      ]
+    },
+    {
+      "name":"Configuring the EPSXe Emulator",
+      "steps":[
+        {
+          "headline":"Double-click on the executable \"ePSXe.exe\" file to run the emulator.",
+          "description":""
+        },
+        {
+          "headline":"Press the \"Skip Config\" button.",
+          "description":"(Advanced users may want to press the \"Config\" button instead to customize the emulator's configurations and fine-tune its performance. However, skipping the configuration step will still make the emulator work without problems since you have the plug-ins already installed)."
+        },
+        {
+          "headline":"Configure your game controller.",
+          "description":"The method of doing this will depend on what type of controller you are using, and the emulator will ask you which controller buttons you want to use to perform different actions within the game. If you don't have a game controller you can just configure the keys on your keyboard instead."
+        }
+      ]
+    },
+    {
+      "name":"Playing Games",
+      "steps":[
+        {
+          "headline":"Insert the game CD in your computer's CD drive.",
+          "description":""
+        },
+        {
+          "headline":"Go to the File menu and select \"run CDROM.\"",
+          "description":"From here on you can use a PlayStation emulator to play the game on your computer in a very similar manner to how you'd play it on a PlayStation console."
+        }
+      ]
+    }
+  ],
+  "text":" Getting the EPSXe Files Download the ePSXe emulator from the official ePSXe website and save it on your computer's hard drive. You will have to download the file in a compressed format called ZIP. Unzip the compressed file using the following method. Download WinRAR for free from the RARLab website. Double-click on the downloaded file to install WinRAR on your computer. Right-click on the compressed ePSXe emulator file and select an option to extract the files. After the extraction is complete, you should see all of the extracted files and folders, which will include the \"bios\" and \"plugins\" folder as well as the executable \"ePSXe.exe\" file. Configuring the EPSXe Emulator Double-click on the executable \"ePSXe.exe\" file to run the emulator.  Press the \"Skip Config\" button. (Advanced users may want to press the \"Config\" button instead to customize the emulator's configurations and fine-tune its performance. However, skipping the configuration step will still make the emulator work without problems since you have the plug-ins already installed). Configure your game controller. The method of doing this will depend on what type of controller you are using, and the emulator will ask you which controller buttons you want to use to perform different actions within the game. If you don't have a game controller you can just configure the keys on your keyboard instead. Playing Games Insert the game CD in your computer's CD drive.  Go to the File menu and select \"run CDROM.\" From here on you can use a PlayStation emulator to play the game on your computer in a very similar manner to how you'd play it on a PlayStation console.",
+  "tyn_model":[
+    "game controller",
+    "playstation emulator"
+  ],
+  "tyn_section":[
+
+  ]
+}

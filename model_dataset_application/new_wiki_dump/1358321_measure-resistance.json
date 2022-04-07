@@ -1,0 +1,100 @@
+{
+  "title":"How to Measure Resistance",
+  "url":"https://www.wikihow.com/Measure-Resistance",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Measuring Resistance with a Digital Multimeter",
+      "steps":[
+        {
+          "headline":"Choose the item whose resistance you wish to measure.",
+          "description":"For the most accurate measurement, test the resistance of a component individually. Remove the component from the circuit or test it before you install it. Testing the component while still in the circuit can cause inaccurate readings from other components. For example, you might test the resistance of the switches, relay contacts, or motor. If you are testing a circuit or even just removing a component, be sure that all power to the circuit is turned off before proceeding."
+        },
+        {
+          "headline":"Plug the test leads into the correct test sockets.",
+          "description":"On most multimeters, one test lead will be black and the other will be red. A multimeter often has multiple testing sockets, according to whether it is being used to test for resistance, voltage, or amperage (current). Usually the right sockets to test for resistance are labeled \"COM\" (for common) and one labeled with the Greek letter omega, \u03a9, which is the symbol for \"ohm\". Plug the black lead into the socket labeled \"COM\" and the red lead into the socket labeled \"ohm\"."
+        },
+        {
+          "headline":"Turn on the multimeter and select the best testing range.",
+          "description":"The resistance of a component can range from ohms (1 ohm) to megaohms (1,000,000 ohms). In order to get an accurate reading of resistance you must set the multimeter to the proper range for your component. Some digital multimeters will automatically set the range for you, but others will need to be set manually. If you have a general idea of the range of resistance just set it to that range. If you\u2019re unsure, you can determine the range through trial and error. If you don\u2019t know the range, start with the middle range setting, usually 20 kilo-ohms (k\u03a9). Touch one lead to the end of your component and the other lead to the opposite end. The number on the screen will either be 0.00, OL, or the actual value of resistance. If the value is zero, the range is set too high and needs to be lowered. If the screen reads OL (overloaded) the range is set too low and needs to be increased to the next highest range. Test the component again with the new range setting. If the screen reads a specific number such as 58, that is the value of the resistor. Remember to take into account the range applied. On a digital multimeter the upper right-hand corner should remind you of your range setting. If it has a k\u03a9 in the corner, the actual resistance is 58 k\u03a9 (58,000 ohms). Once you get in the right range, try lowering the range one more time to see if you can get a more accurate reading. Use the lowest range setting for the most accurate resistance readings."
+        },
+        {
+          "headline":"Touch the multimeter leads to the ends of the component you are testing.",
+          "description":"Just as you did when you were setting the range, touch one lead to one end of the component and the other lead to the opposite end. Wait until the numbers stop going up or down and record that number. This is the resistance of you component. For example, if your reading is .6 and the upper right corner says M\u03a9 the resistance of your component is 0.6 mega-ohms."
+        },
+        {
+          "headline":"Turn off the multimeter.",
+          "description":"When you are done measuring all of your components, turn off the multimeter and unplug the leads for storage."
+        }
+      ]
+    },
+    {
+      "name":"Measuring Resistance with an Analog Multimeter",
+      "steps":[
+        {
+          "headline":"Choose the item whose resistance you wish to measure.",
+          "description":"For the most accurate measurement, test the resistance of a component individually. Remove the component from the circuit or test it before you install it. Testing the component while still in the circuit can cause inaccurate readings from other components. For example, you might test the switch or motor. If you are testing a circuit or even just removing a component, be sure that all power to the circuit is turned off before proceeding."
+        },
+        {
+          "headline":"Plug the test leads into the correct test sockets.",
+          "description":"On most multimeters, one test lead will be black and the other will be red. A multimeter often has multiple testing sockets, according to whether it is being used to test for resistance, voltage, or amperage (current). Usually the right sockets to test for resistance are labeled \"COM\" (for common) and one labeled with the Greek letter omega, which is the symbol for \"ohm.\" Plug the black lead into the socket labeled \"COM\" and the red lead into the socket labeled \"ohm\"."
+        },
+        {
+          "headline":"Turn on the multimeter and select the best testing range.",
+          "description":"The resistance of a component can range from ohms (1 ohm) to megaohms (1,000,000 ohms). In order to get an accurate reading of resistance you must set the multimeter to the proper range for your component. If you have a general idea of the range of resistance just set it to that range. If you\u2019re unsure, you can determine the range through trial and error. If you don\u2019t know the range, start with the middle range setting, usually 20 kilo-ohms (k\u03a9). Touch one lead to the end of your component and the other lead to the opposite end. The needle will swing across the screen and stop in a specific spot, indicating the resistance of your component. If the needle swings all the way to the top of the range (the left side), you will need to increase the range setting, zero out the multimeter, and try again. If the needle swings all the way to the bottom of the range (the right side), you will need to decrease the range setting, zero out the multimeter, and try again. Analog multimeters must be reset or zeroed out every time the range setting is altered and before testing the component. Touch the ends of both leads together to short the circuit. Ensure the needle is set all the way to zero using the Ohms Adjustment or Zero Control after the leads have been touched to each other."
+        },
+        {
+          "headline":"Touch the multimeter leads to the ends of the component you are testing.",
+          "description":"Just as you did when you were setting the range, touch one lead to one end of the component and the other lead to the opposite end. The resistance range on a multimeter goes from right to left. The right side is zero and the left side goes up to around 2k (2,000). There are multiple scales on an analog multimeter so be sure to look at the scaled labeled with an \u03a9 that goes from right to left. As the scale goes up, the higher values are clustered closer together. Setting the correct range is crucial to being able to get an accurate reading for your component."
+        },
+        {
+          "headline":"Read the resistance.",
+          "description":"Once you have touched the leads to the component, the needle will settle somewhere in between the top and bottom of the scale. Check to make sure you are looking at the ohm scale and record the value where the needle is pointing to. This is the resistance of your component. For example if you had set the range to 10 \u03a9 and the needle stopped at 9, the resistance of your component is 9 ohms."
+        },
+        {
+          "headline":"Set the voltage to a high range.",
+          "description":"When you are finished using the multimeter, you want to make sure it is properly stored. Setting the voltage to a high range before turning it off ensures that it won\u2019t be damaged the next time it is used if someone doesn\u2019t remember to set the range first. Turn off the multimeter and unplug the leads for storage."
+        }
+      ]
+    },
+    {
+      "name":"Ensuring a Good Test",
+      "steps":[
+        {
+          "headline":"Test resistance on components not in a circuit.",
+          "description":"Measuring resistance on a component in a circuit will cause inaccurate readings because the multimeter is also measuring resistance from the other components in a circuit as well as the one being tested. Sometimes, however, it is necessary to test resistance on components in circuit."
+        },
+        {
+          "headline":"Test only components that are powered off.",
+          "description":"Current flowing through a circuit will cause inaccurate readings, as the increased current will create a higher resistance. Also, the additional voltage could damage the multimeter. (For this reason, testing the resistance of a battery is not advised.) Any capacitors in a circuit being tested for resistance should be discharged before testing. Discharged capacitors may absorb charge from the multimeter's current, creating momentary fluctuations in the reading."
+        },
+        {
+          "headline":"Check for diodes in the circuit.",
+          "description":"Diodes conduct electricity in only 1 direction; thus, reversing the position of the multimeter's probes in a circuit with diodes will cause different readings."
+        },
+        {
+          "headline":"Watch your fingers.",
+          "description":"Some resistors or components need to be held in place to maintain contact with the multimeter's probes. Touching the resistor or the probe with your fingers can cause inaccurate readings due to your body absorbing current from the circuit. This is not a significant problem when using a low-voltage multimeter, but it can be a problem when testing resistance with a high-voltage multimeter. One way to keep your hands off components is to attach them to a testing board, or \"breadboard\" when testing for resistance. You can also attach alligator clips to the multimeter probes to keep the terminals of the resistor or component in place while testing."
+        }
+      ]
+    }
+  ],
+  "text":" Measuring Resistance with a Digital Multimeter Choose the item whose resistance you wish to measure. For the most accurate measurement, test the resistance of a component individually. Remove the component from the circuit or test it before you install it. Testing the component while still in the circuit can cause inaccurate readings from other components. For example, you might test the resistance of the switches, relay contacts, or motor. If you are testing a circuit or even just removing a component, be sure that all power to the circuit is turned off before proceeding. Plug the test leads into the correct test sockets. On most multimeters, one test lead will be black and the other will be red. A multimeter often has multiple testing sockets, according to whether it is being used to test for resistance, voltage, or amperage (current). Usually the right sockets to test for resistance are labeled \"COM\" (for common) and one labeled with the Greek letter omega, \u03a9, which is the symbol for \"ohm\". Plug the black lead into the socket labeled \"COM\" and the red lead into the socket labeled \"ohm\". Turn on the multimeter and select the best testing range. The resistance of a component can range from ohms (1 ohm) to megaohms (1,000,000 ohms). In order to get an accurate reading of resistance you must set the multimeter to the proper range for your component. Some digital multimeters will automatically set the range for you, but others will need to be set manually. If you have a general idea of the range of resistance just set it to that range. If you\u2019re unsure, you can determine the range through trial and error. If you don\u2019t know the range, start with the middle range setting, usually 20 kilo-ohms (k\u03a9). Touch one lead to the end of your component and the other lead to the opposite end. The number on the screen will either be 0.00, OL, or the actual value of resistance. If the value is zero, the range is set too high and needs to be lowered. If the screen reads OL (overloaded) the range is set too low and needs to be increased to the next highest range. Test the component again with the new range setting. If the screen reads a specific number such as 58, that is the value of the resistor. Remember to take into account the range applied. On a digital multimeter the upper right-hand corner should remind you of your range setting. If it has a k\u03a9 in the corner, the actual resistance is 58 k\u03a9 (58,000 ohms). Once you get in the right range, try lowering the range one more time to see if you can get a more accurate reading. Use the lowest range setting for the most accurate resistance readings. Touch the multimeter leads to the ends of the component you are testing. Just as you did when you were setting the range, touch one lead to one end of the component and the other lead to the opposite end. Wait until the numbers stop going up or down and record that number. This is the resistance of you component. For example, if your reading is .6 and the upper right corner says M\u03a9 the resistance of your component is 0.6 mega-ohms. Turn off the multimeter. When you are done measuring all of your components, turn off the multimeter and unplug the leads for storage. Measuring Resistance with an Analog Multimeter Choose the item whose resistance you wish to measure. For the most accurate measurement, test the resistance of a component individually. Remove the component from the circuit or test it before you install it. Testing the component while still in the circuit can cause inaccurate readings from other components. For example, you might test the switch or motor. If you are testing a circuit or even just removing a component, be sure that all power to the circuit is turned off before proceeding. Plug the test leads into the correct test sockets. On most multimeters, one test lead will be black and the other will be red. A multimeter often has multiple testing sockets, according to whether it is being used to test for resistance, voltage, or amperage (current). Usually the right sockets to test for resistance are labeled \"COM\" (for common) and one labeled with the Greek letter omega, which is the symbol for \"ohm.\" Plug the black lead into the socket labeled \"COM\" and the red lead into the socket labeled \"ohm\". Turn on the multimeter and select the best testing range. The resistance of a component can range from ohms (1 ohm) to megaohms (1,000,000 ohms). In order to get an accurate reading of resistance you must set the multimeter to the proper range for your component. If you have a general idea of the range of resistance just set it to that range. If you\u2019re unsure, you can determine the range through trial and error. If you don\u2019t know the range, start with the middle range setting, usually 20 kilo-ohms (k\u03a9). Touch one lead to the end of your component and the other lead to the opposite end. The needle will swing across the screen and stop in a specific spot, indicating the resistance of your component. If the needle swings all the way to the top of the range (the left side), you will need to increase the range setting, zero out the multimeter, and try again. If the needle swings all the way to the bottom of the range (the right side), you will need to decrease the range setting, zero out the multimeter, and try again. Analog multimeters must be reset or zeroed out every time the range setting is altered and before testing the component. Touch the ends of both leads together to short the circuit. Ensure the needle is set all the way to zero using the Ohms Adjustment or Zero Control after the leads have been touched to each other. Touch the multimeter leads to the ends of the component you are testing. Just as you did when you were setting the range, touch one lead to one end of the component and the other lead to the opposite end. The resistance range on a multimeter goes from right to left. The right side is zero and the left side goes up to around 2k (2,000). There are multiple scales on an analog multimeter so be sure to look at the scaled labeled with an \u03a9 that goes from right to left. As the scale goes up, the higher values are clustered closer together. Setting the correct range is crucial to being able to get an accurate reading for your component. Read the resistance. Once you have touched the leads to the component, the needle will settle somewhere in between the top and bottom of the scale. Check to make sure you are looking at the ohm scale and record the value where the needle is pointing to. This is the resistance of your component. For example if you had set the range to 10 \u03a9 and the needle stopped at 9, the resistance of your component is 9 ohms. Set the voltage to a high range. When you are finished using the multimeter, you want to make sure it is properly stored. Setting the voltage to a high range before turning it off ensures that it won\u2019t be damaged the next time it is used if someone doesn\u2019t remember to set the range first. Turn off the multimeter and unplug the leads for storage. Ensuring a Good Test Test resistance on components not in a circuit. Measuring resistance on a component in a circuit will cause inaccurate readings because the multimeter is also measuring resistance from the other components in a circuit as well as the one being tested. Sometimes, however, it is necessary to test resistance on components in circuit. Test only components that are powered off. Current flowing through a circuit will cause inaccurate readings, as the increased current will create a higher resistance. Also, the additional voltage could damage the multimeter. (For this reason, testing the resistance of a battery is not advised.) Any capacitors in a circuit being tested for resistance should be discharged before testing. Discharged capacitors may absorb charge from the multimeter's current, creating momentary fluctuations in the reading. Check for diodes in the circuit. Diodes conduct electricity in only 1 direction; thus, reversing the position of the multimeter's probes in a circuit with diodes will cause different readings. Watch your fingers. Some resistors or components need to be held in place to maintain contact with the multimeter's probes. Touching the resistor or the probe with your fingers can cause inaccurate readings due to your body absorbing current from the circuit. This is not a significant problem when using a low-voltage multimeter, but it can be a problem when testing resistance with a high-voltage multimeter. One way to keep your hands off components is to attach them to a testing board, or \"breadboard\" when testing for resistance. You can also attach alligator clips to the multimeter probes to keep the terminals of the resistor or component in place while testing.",
+  "tyn_model":[
+    "multimeter",
+    "multimeters",
+    "digital multimeter",
+    "\u03c9,",
+    "resistor",
+    "analog multimeter",
+    "\u03c9 that",
+    "\u03c9 and"
+  ],
+  "tyn_section":[
+
+  ]
+}

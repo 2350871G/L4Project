@@ -1,0 +1,48 @@
+{
+  "title":"How to Install OpenArena on a Mac",
+  "url":"https://www.wikihow.com/Install-OpenArena-on-a-Mac",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC First Person Shooter"
+  ],
+  "steps":[
+    {
+      "headline":"Go to the website and download the file here.",
+      "description":""
+    },
+    {
+      "headline":"Open and unzip the file.",
+      "description":""
+    },
+    {
+      "headline":"Copy and paste OpenArena 0.8.8 r28 in to the Applications folder.",
+      "description":"This may require the admin password."
+    },
+    {
+      "headline":"Open a Terminal Window.",
+      "description":""
+    },
+    {
+      "headline":"Copy and paste the following in the terminal: sudo chmod +x /Applications/OpenArena\\ 0.8.8\\ r28.app/Contents/MacOS/openarena.ub",
+      "description":""
+    },
+    {
+      "headline":"Press enter and exit the terminal.",
+      "description":""
+    },
+    {
+      "headline":"Go to Applications and open OpenArena.",
+      "description":""
+    }
+  ],
+  "text":" Go to the website and download the file here.  Open and unzip the file.  Copy and paste OpenArena 0.8.8 r28 in to the Applications folder. This may require the admin password. Open a Terminal Window.  Copy and paste the following in the terminal: sudo chmod +x /Applications/OpenArena\\ 0.8.8\\ r28.app/Contents/MacOS/openarena.ub  Press enter and exit the terminal.  Go to Applications and open OpenArena. ",
+  "tyn_model":[
+    "terminal"
+  ],
+  "tyn_section":[
+
+  ]
+}

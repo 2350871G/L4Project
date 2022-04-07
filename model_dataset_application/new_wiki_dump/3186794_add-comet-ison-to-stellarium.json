@@ -1,0 +1,69 @@
+{
+  "title":"How to Add Comet ISON to Stellarium",
+  "url":"https://www.wikihow.com/Add-Comet-ISON-to-Stellarium",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Press F2 to open the Stellarium Configuration window",
+      "description":""
+    },
+    {
+      "headline":"Select Solar System Editor under the Plugins tab in this window.",
+      "description":""
+    },
+    {
+      "headline":"Click the Configure button under Options at the bottom.",
+      "description":"A window for Solar System Objects should open."
+    },
+    {
+      "headline":"Check if the object you want to add is already in the list shown under the Solar System tab of this window.",
+      "description":"(If it is, then the rest of the steps are not needed!)"
+    },
+    {
+      "headline":"If not, then click the Import orbital elements in MPC format button at the bottom of the tab.",
+      "description":""
+    },
+    {
+      "headline":"Go to the lists tab of the Import data window that opens.",
+      "description":"Choose Select the type as Comets."
+    },
+    {
+      "headline":"\"Select the source\" should be selected as \"download a list of objects from the internet\".",
+      "description":""
+    },
+    {
+      "headline":"Under Select a source from the list click on Select bookmark and go on to select \"MPC's list of observable comets\".",
+      "description":""
+    },
+    {
+      "headline":"Click the Get orbital elements button at the bottom of the window.",
+      "description":""
+    },
+    {
+      "headline":"A list of Objects found should load.",
+      "description":"Either find by typing or scroll down and check the box next to C/2012 S1 (ISON)."
+    },
+    {
+      "headline":"Click the Add objects button.",
+      "description":"The Comet will be added to Stellarium Solar System objects."
+    },
+    {
+      "headline":"Just close all the configuration windows and enjoy.",
+      "description":"To see where Comet ISON will be in the sky, get the Search Window by pressing F3. Switch to the Lists tab in the Find Object or Position window. Double click the comet or any other object you want to find under the Solar System list. You will be automatically taken to a view of the sky where the object is located."
+    }
+  ],
+  "text":" Press F2 to open the Stellarium Configuration window  Select Solar System Editor under the Plugins tab in this window.  Click the Configure button under Options at the bottom. A window for Solar System Objects should open. Check if the object you want to add is already in the list shown under the Solar System tab of this window. (If it is, then the rest of the steps are not needed!) If not, then click the Import orbital elements in MPC format button at the bottom of the tab.  Go to the lists tab of the Import data window that opens. Choose Select the type as Comets. \"Select the source\" should be selected as \"download a list of objects from the internet\".  Under Select a source from the list click on Select bookmark and go on to select \"MPC's list of observable comets\".  Click the Get orbital elements button at the bottom of the window.  A list of Objects found should load. Either find by typing or scroll down and check the box next to C/2012 S1 (ISON). Click the Add objects button. The Comet will be added to Stellarium Solar System objects. Just close all the configuration windows and enjoy. To see where Comet ISON will be in the sky, get the Search Window by pressing F3. Switch to the Lists tab in the Find Object or Position window. Double click the comet or any other object you want to find under the Solar System list. You will be automatically taken to a view of the sky where the object is located.",
+  "tyn_model":[
+    "comet",
+    "stellarium configuration",
+    "solar system editor",
+    "solar system objects",
+    "comets",
+    "stellarium solar"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title":"How to Cheat at Words with Friends",
+  "url":"https://www.wikihow.com/Cheat-at-Words-with-Friends",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games",
+    "Word Games"
+  ],
+  "methods":[
+    {
+      "name":"Cheating Your Way to the Top",
+      "steps":[
+        {
+          "headline":"Use cheating websites to look up words.",
+          "description":"There are several websites that can output all the possible words that can be made with the letters in your hand. You can search for websites specifically meant for Words with Friends. This will often tell you which word will score the highest out of the ones possible. You can also use tools meant for Scrabble or solving anagrams. These websites are each formatted slightly differently, but most ask you to enter in the tiles from your current game, and then click \"enter\" to calculate the potential words you can use."
+        },
+        {
+          "headline":"Download cheating applications.",
+          "description":"Programs are available for most platforms that can tell you where to place letters on the board to maximize your score. These applications work similarly to the cheating websites, but are more convenient so that you can access them directly from your phone in the middle of a game. Some apps allow you to take screenshots of your board so that you don't have to manually enter the tiles in yourself. Others can be programmed to automatically play words for you without you having to do anything. Examples of such apps include: Free Cheats With Words, Words with free EZ Cheat, and Cheat Master 5000. Be very cautious when downloading new programs. If you're going through your operating system's \"app store,\" check the reviews in case the program has unwanted features. When downloading directly from a website, make sure that it is reputable and that your anti-virus software is up-to-date. Avoid giving any applications administrator permissions on your computer or access to personal data on your phone."
+        },
+        {
+          "headline":"Use the Terminal on OS X.",
+          "description":"If your computer is a Mac, there is actually a built-in application that can be used to cheat at Words with Friends. Only use this method if you are familiar with using the Terminal application. To search for a word beginning with a specific sequence of letters, type the following into the command line (using the letter sequence \"erg\" as an example and \"yourtiles\" for the ones in your hand): grep \u2013x \"^erg[yourtiles]*\" /usr/share/dict/words\nLikewise, you can also search for a word ending with a few particular letters: grep \u2013x \"[yourtiles]*erg\" /usr/share/dict/words"
+        },
+        {
+          "headline":"Use Wolfram Alpha's \"Scrabble\" query feature.",
+          "description":"Simply type \"scrabble YOURTILES\" into the text box without quotes and press the \"=\" button. This will return a list of possible words in order from highest score to lowest. While these scores are for Scrabble, they correlate well with Words with Friends. Using Wolfram Alpha has the advantage of being quick and free from advertisements and possible malware."
+        }
+      ]
+    },
+    {
+      "name":"Strategizing Without Technically Cheating",
+      "steps":[
+        {
+          "headline":"Use a \"brute force\" method of checking random combinations of letters.",
+          "description":"While this usually won't win you any games, it can help you out if you're stuck and give you some better tiles to work with. It is arguable whether or not this method is considered cheating. People who do assert that you should know any word you play. Others consider it a legitimate strategy in normal gameplay. Find an open area of your game board that you can potentially build a word on. Try adding one to three of your tiles in different combinations next to or around a letter you can incorporate. Click the \"Play\" button when you think you may have a word. If you don't, the game will simply tell you to try again without the other player knowing. For more points, focus on letters that would make a word overlapping one or more bonus tiles. Open up a word browser or another program with a spellchecker. Try typing different combinations of your tiles in various orders until either the program doesn't underline them (meaning that it is a viable word for you to use) or suggests a corrected spelling of a word that fits the game board."
+        },
+        {
+          "headline":"Check a dictionary or thesaurus.",
+          "description":"If you choose to use a physical book, this is the ultimate low-tech method. Browse words that begin with a letter on the board followed by one or two that you have in your hand. While some don't consider this cheating, others contend that using an outside reference goes against the spirit of the game. Leafing through a thesaurus is much more efficient than using a dictionary. This is because thesaurus entries are generally much shorter than those in a dictionary, fitting many more words in a page. Run a finger or piece of paper down the page to quickly scan for an appropriate word."
+        },
+        {
+          "headline":"Look up acceptable two-letter words.",
+          "description":"There are dozens of very short, obscure words that are recognized by the dictionary that Words uses. Many users have compiled lists of these online for free use. This tack can be a lifesaver when you're stuck with a bunch of difficult letters and no idea what to do with them. Some common examples that seasoned Words players should know: qi, xu, gi, xi, zo, and oi."
+        }
+      ]
+    },
+    {
+      "name":"Learning How to Win on Your Own",
+      "steps":[
+        {
+          "headline":"Develop an extensive vocabulary.",
+          "description":"The best tool you can have when playing Words with Friends is your own knowledge of different words. You can expand this through a few different routes. Play the game more often. While you may need to cheat now, over time you will likely rely on these methods less. As long as you are paying attention to the game (rather than using automated cheating software), you will start to memorize words you may use in the future. Use vocabulary-building tools and software. There are many tools available online designed to help students of all ages actively broaden their vocabularies. Read more. Studies have shown that the best way to improve your vocabulary is through reading. Every time you come across a word you don't know, look up its meaning. Soon, you will pick up words you can use to play Words with Friends without even noticing."
+        },
+        {
+          "headline":"Focus building on bonus tiles.",
+          "description":"Bonus tiles are the colored blocks labeled DL (doubles the value of the tile), TL (triples the value of the tile), DW (doubles the value of the entire word), and TW (triples the value of the word). Putting your words down on these spaces often makes or breaks the game for a player. Remember that the effects of these tiles stack, so try getting multiple tiles with one word. For example, the word \"TAG\" would normally be worth only 5 points. However, if you managed to play this word with the three-point G over a TL and another letter over a TW, you would end up scoring a respectable 33 points instead."
+        },
+        {
+          "headline":"Block your opponent from using bonus tiles.",
+          "description":"As previously mentioned, bonus points are crucial for a high score. If you can't come up with a word to reach the nearest bonus tile, put down a word that can't be added to that runs up right next to it. This will prevent your opponent from snagging those extra points during his or her turn. Additionally, try to avoid playing words that can be built off of onto bonus tiles."
+        },
+        {
+          "headline":"Pluralize high-scoring words on the board.",
+          "description":"This is a great strategy if you can't think of a word but happen to have an S tile in hand. You will both net a ton of points and give your opponent less to work with during his or her turn. Without much to build off of, your opponent may need to pass on his or her turn."
+        }
+      ]
+    }
+  ],
+  "text":" Cheating Your Way to the Top Use cheating websites to look up words. There are several websites that can output all the possible words that can be made with the letters in your hand. You can search for websites specifically meant for Words with Friends. This will often tell you which word will score the highest out of the ones possible. You can also use tools meant for Scrabble or solving anagrams. These websites are each formatted slightly differently, but most ask you to enter in the tiles from your current game, and then click \"enter\" to calculate the potential words you can use. Download cheating applications. Programs are available for most platforms that can tell you where to place letters on the board to maximize your score. These applications work similarly to the cheating websites, but are more convenient so that you can access them directly from your phone in the middle of a game. Some apps allow you to take screenshots of your board so that you don't have to manually enter the tiles in yourself. Others can be programmed to automatically play words for you without you having to do anything. Examples of such apps include: Free Cheats With Words, Words with free EZ Cheat, and Cheat Master 5000. Be very cautious when downloading new programs. If you're going through your operating system's \"app store,\" check the reviews in case the program has unwanted features. When downloading directly from a website, make sure that it is reputable and that your anti-virus software is up-to-date. Avoid giving any applications administrator permissions on your computer or access to personal data on your phone. Use the Terminal on OS X. If your computer is a Mac, there is actually a built-in application that can be used to cheat at Words with Friends. Only use this method if you are familiar with using the Terminal application. To search for a word beginning with a specific sequence of letters, type the following into the command line (using the letter sequence \"erg\" as an example and \"yourtiles\" for the ones in your hand): grep \u2013x \"^erg[yourtiles]*\" /usr/share/dict/words\nLikewise, you can also search for a word ending with a few particular letters: grep \u2013x \"[yourtiles]*erg\" /usr/share/dict/words Use Wolfram Alpha's \"Scrabble\" query feature. Simply type \"scrabble YOURTILES\" into the text box without quotes and press the \"=\" button. This will return a list of possible words in order from highest score to lowest. While these scores are for Scrabble, they correlate well with Words with Friends. Using Wolfram Alpha has the advantage of being quick and free from advertisements and possible malware. Strategizing Without Technically Cheating Use a \"brute force\" method of checking random combinations of letters. While this usually won't win you any games, it can help you out if you're stuck and give you some better tiles to work with. It is arguable whether or not this method is considered cheating. People who do assert that you should know any word you play. Others consider it a legitimate strategy in normal gameplay. Find an open area of your game board that you can potentially build a word on. Try adding one to three of your tiles in different combinations next to or around a letter you can incorporate. Click the \"Play\" button when you think you may have a word. If you don't, the game will simply tell you to try again without the other player knowing. For more points, focus on letters that would make a word overlapping one or more bonus tiles. Open up a word browser or another program with a spellchecker. Try typing different combinations of your tiles in various orders until either the program doesn't underline them (meaning that it is a viable word for you to use) or suggests a corrected spelling of a word that fits the game board. Check a dictionary or thesaurus. If you choose to use a physical book, this is the ultimate low-tech method. Browse words that begin with a letter on the board followed by one or two that you have in your hand. While some don't consider this cheating, others contend that using an outside reference goes against the spirit of the game. Leafing through a thesaurus is much more efficient than using a dictionary. This is because thesaurus entries are generally much shorter than those in a dictionary, fitting many more words in a page. Run a finger or piece of paper down the page to quickly scan for an appropriate word. Look up acceptable two-letter words. There are dozens of very short, obscure words that are recognized by the dictionary that Words uses. Many users have compiled lists of these online for free use. This tack can be a lifesaver when you're stuck with a bunch of difficult letters and no idea what to do with them. Some common examples that seasoned Words players should know: qi, xu, gi, xi, zo, and oi. Learning How to Win on Your Own Develop an extensive vocabulary. The best tool you can have when playing Words with Friends is your own knowledge of different words. You can expand this through a few different routes. Play the game more often. While you may need to cheat now, over time you will likely rely on these methods less. As long as you are paying attention to the game (rather than using automated cheating software), you will start to memorize words you may use in the future. Use vocabulary-building tools and software. There are many tools available online designed to help students of all ages actively broaden their vocabularies. Read more. Studies have shown that the best way to improve your vocabulary is through reading. Every time you come across a word you don't know, look up its meaning. Soon, you will pick up words you can use to play Words with Friends without even noticing. Focus building on bonus tiles. Bonus tiles are the colored blocks labeled DL (doubles the value of the tile), TL (triples the value of the tile), DW (doubles the value of the entire word), and TW (triples the value of the word). Putting your words down on these spaces often makes or breaks the game for a player. Remember that the effects of these tiles stack, so try getting multiple tiles with one word. For example, the word \"TAG\" would normally be worth only 5 points. However, if you managed to play this word with the three-point G over a TL and another letter over a TW, you would end up scoring a respectable 33 points instead. Block your opponent from using bonus tiles. As previously mentioned, bonus points are crucial for a high score. If you can't come up with a word to reach the nearest bonus tile, put down a word that can't be added to that runs up right next to it. This will prevent your opponent from snagging those extra points during his or her turn. Additionally, try to avoid playing words that can be built off of onto bonus tiles. Pluralize high-scoring words on the board. This is a great strategy if you can't think of a word but happen to have an S tile in hand. You will both net a ton of points and give your opponent less to work with during his or her turn. Without much to build off of, your opponent may need to pass on his or her turn.",
+  "tyn_model":[
+    "dictionary",
+    "terminal",
+    "\u2013x",
+    "wolfram alpha",
+    "words with friends",
+    "cheat master",
+    "operating system's",
+    "anti-virus software",
+    "scrabble",
+    "game board",
+    "thesaurus",
+    "paper",
+    "tag"
+  ],
+  "tyn_section":[
+
+  ]
+}

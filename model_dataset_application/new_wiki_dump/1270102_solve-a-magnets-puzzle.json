@@ -1,0 +1,67 @@
+{
+  "title":"How to Solve a Magnets Puzzle",
+  "url":"https://www.wikihow.com/Solve-a-Magnets-Puzzle",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games",
+    "Mathematical Puzzles"
+  ],
+  "steps":[
+    {
+      "headline":"Look for any total charge counts that are equal to or one less than the length of that row or column.",
+      "description":"All dominoes with both ends in that row or column must be magnets. We can't determine the polarity yet. In these diagrams, an open circle represents a magnet that is not neutral, but whose polarity is unknown."
+    },
+    {
+      "headline":"Look for a row or column that has an unbalanced charge and combine this with the fact that each whole domino is neutral.",
+      "description":"This net charge must come from those dominoes that are oriented perpendicular to that row or column. This method also works for groups of rows. In the example, the bottom two rows have a net charge of -2 and there are two vertical dominoes connecting this region to the top 6 rows. Both of those then must be charged and must have the positive pole on the top."
+    },
+    {
+      "headline":"If any row or column has its full number of charged poles, mark the remaining cells in that row or column as neutral.",
+      "description":"Also mark the other end of any neutral domino as neutral."
+    },
+    {
+      "headline":"Note the number of neutral cells needed in each row and column.",
+      "description":"If all of them have already been identified, mark all remaining cells in that row or column as charged. If all but one have been identified, mark all dominoes parallel to the row or column as charged. No magnetic mono-poles allowed! If one end of a magnet is charged, then the other end is as well. Label these accordingly."
+    },
+    {
+      "headline":"Fill in the orientation of the magnets that share an edge with another magnet of known orientation.",
+      "description":""
+    },
+    {
+      "headline":"Now that additional charged and neutral dominoes have been identified, revisit the earlier steps and check the row and column sums again.",
+      "description":""
+    },
+    {
+      "headline":"Look for any row or column that has only one domino perpendicular to it whose charge isn't accounted for.",
+      "description":"Its status can be found by observing the parity of the total number of charged cells in that row or column. Since the fifth row has a total charge of 3, it the charges must be in one vertical and one horizontal domino. The remaining vertical domino must be neutral. Since the charge is unbalanced, the polarity of some other magnets can also be determined."
+    },
+    {
+      "headline":"Continue looking at the total and net charges for additional places to apply these ideas.",
+      "description":"As parts of the puzzle become solved, other deductions work. For example, the left three columns have a net charge of +1. Initially there were two horizontal dominoes that could contain the positive charge, but now one of them is adjacent to another positive charge."
+    },
+    {
+      "headline":"Look for almost completed rows or columns where the charge of each pole has been identified.",
+      "description":"Try to deduce the charge of the remaining dominoes."
+    },
+    {
+      "headline":"Look for dominoes that lie adjacent to charged dominoes in a way that forces them to be neutral.",
+      "description":"If both ends of a domino are adjacent to the same charge, or if one side is adjacent to both charges, then it must be neutral."
+    },
+    {
+      "headline":"Finishing this example puzzle only requires repeating types of logical deduction already applied.",
+      "description":"In this case, the left side now solves easily, while the right side requires observing that whichever of the upper two dominoes is charged forces it's column to have 3 negative and 2 positive charges."
+    }
+  ],
+  "text":" Look for any total charge counts that are equal to or one less than the length of that row or column. All dominoes with both ends in that row or column must be magnets. We can't determine the polarity yet. In these diagrams, an open circle represents a magnet that is not neutral, but whose polarity is unknown. Look for a row or column that has an unbalanced charge and combine this with the fact that each whole domino is neutral. This net charge must come from those dominoes that are oriented perpendicular to that row or column. This method also works for groups of rows. In the example, the bottom two rows have a net charge of -2 and there are two vertical dominoes connecting this region to the top 6 rows. Both of those then must be charged and must have the positive pole on the top. If any row or column has its full number of charged poles, mark the remaining cells in that row or column as neutral. Also mark the other end of any neutral domino as neutral. Note the number of neutral cells needed in each row and column. If all of them have already been identified, mark all remaining cells in that row or column as charged. If all but one have been identified, mark all dominoes parallel to the row or column as charged. No magnetic mono-poles allowed! If one end of a magnet is charged, then the other end is as well. Label these accordingly. Fill in the orientation of the magnets that share an edge with another magnet of known orientation.  Now that additional charged and neutral dominoes have been identified, revisit the earlier steps and check the row and column sums again.  Look for any row or column that has only one domino perpendicular to it whose charge isn't accounted for. Its status can be found by observing the parity of the total number of charged cells in that row or column. Since the fifth row has a total charge of 3, it the charges must be in one vertical and one horizontal domino. The remaining vertical domino must be neutral. Since the charge is unbalanced, the polarity of some other magnets can also be determined. Continue looking at the total and net charges for additional places to apply these ideas. As parts of the puzzle become solved, other deductions work. For example, the left three columns have a net charge of +1. Initially there were two horizontal dominoes that could contain the positive charge, but now one of them is adjacent to another positive charge. Look for almost completed rows or columns where the charge of each pole has been identified. Try to deduce the charge of the remaining dominoes. Look for dominoes that lie adjacent to charged dominoes in a way that forces them to be neutral. If both ends of a domino are adjacent to the same charge, or if one side is adjacent to both charges, then it must be neutral. Finishing this example puzzle only requires repeating types of logical deduction already applied. In this case, the left side now solves easily, while the right side requires observing that whichever of the upper two dominoes is charged forces it's column to have 3 negative and 2 positive charges.",
+  "tyn_model":[
+    "dominoes",
+    "magnets",
+    "magnet",
+    "domino",
+    "logical deduction"
+  ],
+  "tyn_section":[
+
+  ]
+}

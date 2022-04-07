@@ -1,0 +1,70 @@
+{
+  "title":"How to Encrypt Messages with an Alphabetic One Time Pad",
+  "url":"https://www.wikihow.com/Encrypt-Messages-with-an-Alphabetic-One-Time-Pad",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games"
+  ],
+  "steps":[
+    {
+      "headline":"Create and maintain a one-time pad.",
+      "description":""
+    },
+    {
+      "headline":"Write your message.",
+      "description":"Your message cannot be longer than the length of the one-time pad. You may want to establish abbreviations and other shorthand with your partner to ensure you can communicate effectively."
+    },
+    {
+      "headline":"Create the cipher text.",
+      "description":"Use the method on which your pad is based."
+    },
+    {
+      "headline":"Assume that your message is I LOVE WIKIHOW",
+      "description":""
+    },
+    {
+      "headline":"For ease, you can use a Vigenere square or you can do the encryption by hand.",
+      "description":""
+    },
+    {
+      "headline":"Assume our one-time pad key is: FLZYZ DLHSK LMKLI TNDXN HOEPV BNCJW",
+      "description":""
+    },
+    {
+      "headline":"The first set of characters (FLZYZ) are used to start your message so that the receiver can verify that you are both using the same key.",
+      "description":""
+    },
+    {
+      "headline":"To do the encryption by hand, take the clear-text letter (in this case, the letter I) and figure out it's numerical value.",
+      "description":"A=0, B=1, C=2, and continues through Z=25. The letter I would be 8 and D would be 3. It is traditional to subtract the numbers when encrypting and add the numbers when decrypting. You must agree upon which convention to use with your partner. In this case, we will use the traditional method; we would be subtracting 8 from 3, which would be 5."
+    },
+    {
+      "headline":"If the result is negative, add 26.",
+      "description":"This is known has modular arithmetic."
+    },
+    {
+      "headline":"Here is the overall result:",
+      "description":""
+    },
+    {
+      "headline":"The unused portions of the key are left out of the encoded message.",
+      "description":""
+    },
+    {
+      "headline":"Send the resulting message.",
+      "description":"To prevent an eavesdropper attempting to figure out the message using word length, it is often stylized into groups:"
+    },
+    {
+      "headline":"FLZYZ FAHDU LAAYZ VR",
+      "description":""
+    }
+  ],
+  "text":" Create and maintain a one-time pad.  Write your message. Your message cannot be longer than the length of the one-time pad. You may want to establish abbreviations and other shorthand with your partner to ensure you can communicate effectively. Create the cipher text. Use the method on which your pad is based. Assume that your message is I LOVE WIKIHOW  For ease, you can use a Vigenere square or you can do the encryption by hand.  Assume our one-time pad key is: FLZYZ DLHSK LMKLI TNDXN HOEPV BNCJW  The first set of characters (FLZYZ) are used to start your message so that the receiver can verify that you are both using the same key.  To do the encryption by hand, take the clear-text letter (in this case, the letter I) and figure out it's numerical value. A=0, B=1, C=2, and continues through Z=25. The letter I would be 8 and D would be 3. It is traditional to subtract the numbers when encrypting and add the numbers when decrypting. You must agree upon which convention to use with your partner. In this case, we will use the traditional method; we would be subtracting 8 from 3, which would be 5. If the result is negative, add 26. This is known has modular arithmetic. Here is the overall result:  The unused portions of the key are left out of the encoded message.  Send the resulting message. To prevent an eavesdropper attempting to figure out the message using word length, it is often stylized into groups: FLZYZ FAHDU LAAYZ VR ",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

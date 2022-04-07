@@ -1,0 +1,186 @@
+{
+  "title":"How to Type in Shorthand With WordPerfect",
+  "url":"https://www.wikihow.com/Type-in-Shorthand-With-WordPerfect",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Text and Lettering"
+  ],
+  "methods":[
+    {
+      "name":"Basic Shorthand",
+      "steps":[
+        {
+          "headline":"Use QuickCorrect.",
+          "description":"This is where you type in an abbreviation and it expands automatically upon hitting space bar, full stop, colon, tab key etc. For example, to replace \"clcn\" with the word \"calculation\":"
+        },
+        {
+          "headline":"Open QuickCorrect - Tools, QuickCorrect.",
+          "description":""
+        },
+        {
+          "headline":"Type the abbreviation (eg \"clcn\") in \"Replace\" column.",
+          "description":"Tab across to \"With\" column and type full expression (for example, \"calculation\")."
+        },
+        {
+          "headline":"Check the box which says \"Replace Words As You Type\".",
+          "description":"(This will stay checked until you change it.)"
+        },
+        {
+          "headline":"Click OK/Hit Enter key.",
+          "description":"When you next type \"clcn\" and hit one of the expansion keys listed above, you will immediately have the full expression \"calculation\" on your screen. Tip: To speed up creation of a QC item, put a button in the menu bar."
+        },
+        {
+          "headline":"Mouse onto the menu bar at the top and left click, choose \"Settings\".",
+          "description":""
+        },
+        {
+          "headline":"Select your menu, then click on \"Edit\".",
+          "description":""
+        },
+        {
+          "headline":"Choose Category \"Tools\" Feature \"QuickCorrect\".",
+          "description":"Drag this item to your menu bar."
+        },
+        {
+          "headline":"Close to exit.",
+          "description":"You should now have a button named \"QuickCorrect\". To create new QC items simply click on this button. Note: It is possible to create different menus for different types of work and select them as required. Note: Unlike MS Word there is no limit to the number of abbreviations, although each individual item is restricted to about 132 characters. For larger items use either QuickWords or create an individual document and insert it as required."
+        }
+      ]
+    },
+    {
+      "name":"Intermediate Shorthand",
+      "steps":[
+        {
+          "headline":"Take care of expansion problems.",
+          "description":"A problem with having the expansion attached to space bar is that you often will think up a good abbreviation, but can't use it because it is a \"proper\" word and it can expand unexpectedly into something different. An example would be a simple, logical system for abbreviation for days of the week/months of the year. Use the first three letter. Except words like Mar (March), Jan (January), Wed (Wednesday), Sun (Sunday) etc will spoil the system."
+        },
+        {
+          "headline":"Deal with case sensitivity.",
+          "description":"If your abbreviation for \"march\" is \"mar\" typing \"mar\" will give you \"march\" but typing \"Mar\" will expand to \"March\", unless at the beginning of a sentence, in which case it will always expand to \"March\".) Note: The QuickCorrect file is attached to the Language of the document in \"Tools>Settings\". This means that you can create many different \"libraries\" of QC abbreviations, and use the same abbreviation for different expanded functions, simply by changing the Language."
+        },
+        {
+          "headline":"Remove case expansion.",
+          "description":"In WordPerfect, unlike MS Word, it is possible to remove the expansion from the space bar and assign it to a key of your choice. To accomplish this you will need to know about (a) macros and (b) keyboard maps. A macro is in effect a \"mini program\" created by the user to do repetitive or difficult tasks simply. A keyboard map is an on-screen text listing of what each keystroke/ combination (eg F12, Shift F10, Ctrl H etc) has attached to it, if anything. To view the keyboard map (you are able to have as many different maps as you wish):\nClick on \"Settings\" (as above). Choose \"Keyboards\". Select your desired keyboard and click on \"Edit\". On the left is the list of keystrokes, on the right are the Category/Features, as well as various tabs. By use these tabs you can (a) assign a function/feature to a key combination (b) assign text/keystroke (c) assign a program or (d) assign a macro to the key combination."
+        },
+        {
+          "headline":"Create a macro.",
+          "description":"Press Ctrl F10. Assign a name to the macro."
+        },
+        {
+          "headline":"Enter the keystrokes you wish to employ.",
+          "description":"When you are finished press Ctrl F10 again. To execute or run the macro, press Alt F10 and type the macro name and hit Enter."
+        },
+        {
+          "headline":"Remove the expansion function from the space bar.",
+          "description":"Before you start, ensure that in the QuickCorrect function the \"Replace Words as You Type\" box is NOT checked. (This means that you can type the abbreviation as often as you like without it expanding.)"
+        },
+        {
+          "headline":"Return to your document.",
+          "description":"Press Ctrl F10. Name the macro (for example, \"expand\")"
+        },
+        {
+          "headline":"Click on the QuickCorrect button.",
+          "description":"Check the \"Replace Words as You Type Button\"."
+        },
+        {
+          "headline":"Exit to your document.",
+          "description":"Hit the space bar (this will cause your abbreviation to expand)."
+        },
+        {
+          "headline":"Return into the QuickCorrect function and uncheck the \"Replace\" box.",
+          "description":""
+        },
+        {
+          "headline":"Return to your document and do a single backspace delete to remove the blank space.",
+          "description":"(This is because you are no longer using the space bar to expand the abbreviation.)"
+        },
+        {
+          "headline":"Press Ctrl F10 to end the macro recording function.",
+          "description":""
+        },
+        {
+          "headline":"To check whether you have done it correctly, key in your abbreviation (eg \"clcn\" - do NOT put hit the space bar), press Alt F10, type the macro name (eg \"expand\"), press enter.",
+          "description":"This should result in your abbreviation expanding to \"calculation\" (or whatever)."
+        },
+        {
+          "headline":"To edit/read the macro select, Tools>Macro>Edit.",
+          "description":"Select your macro. It should read something like this:\nApplication (WordPerfect; \"WordPerfect\"; Default! ; \"EN\")\nQuickCorrect (State: On!) Type (Text: \" \")\nQuickCorrect (State: Off!) DeleteCharPrevious ()\n\nNote: At the end of the first line the expression \"EN\" will vary, depending upon what version of WordPerfect you are using."
+        },
+        {
+          "headline":"(Note: For whatever reason, this macro will not work in MS Word, even though the steps are exactly the same and will work if keyed in manually.)",
+          "description":""
+        },
+        {
+          "headline":"Choose a key.",
+          "description":"Using this macro doesn't make much sense if it takes more keystrokes to execute than it saves typing, so it will be assigned to a single key. Choosing which key is pretty important as choosing a \"bad\" key will make your hands work unnecessarily hard. This key will have an existing function attached to it, but you can re-assign it to a different combination (for example, the \"Alt\" keystroke). This \"good\" key can actually vary on different keyboards, as not all keyboards have exactly the same layout. Note: Previously we created a button with the \"QuickCorrect\" function in the menu bar. You should now do the same with the \"Keyboard\" function."
+        },
+        {
+          "headline":"Attach the macro.",
+          "description":"Click on your Keyboard button. Choose your keyboard map and click on edit."
+        },
+        {
+          "headline":"Scroll down the map and select the key you wish to use, then click on the \"Macro\" tab.",
+          "description":""
+        },
+        {
+          "headline":"Select your \"expand\" macro and assign it to the chosen keystroke.",
+          "description":""
+        },
+        {
+          "headline":"Click OK/Enter, then \"Select\" your edited keyboard map.",
+          "description":"Return to your document."
+        },
+        {
+          "headline":"If you have done it correctly, you should be able to type in your abbreviation, as many times as you like, hitting the space bar each time, without expansion, but if you hit your chosen expansion key, you'll have the abbreviation expand immediately.",
+          "description":"Important Note. Very Important. For the third time, very important. If you use WordPerfect's spelling checker you MUST select the Option \"Prompt Before Auto Replacement\" prior to using the spell checker for the first time. Failure to do this will result in any abbreviations in the text of the document being expanded. The good news is that this option is a \"set and forget\" and only needs to be done once. That is - Until you (a) reinstall WordPerfect or (b) move to a different computer with WP installed. Note: Your QC abbreviations are stored in a file with the extension *.uwl (User Word List) which, along with any of your template files (*.wpt) are all you need to copy to bring all these functions with you."
+        }
+      ]
+    },
+    {
+      "name":"Advanced Shorthand",
+      "steps":[
+        {
+          "headline":"Use hot keys.",
+          "description":"This consists of creating \"hot keys\" with partial or complete words. These hotkeys should be given priority over some of the existing ones such as Bold Face (Alt B etc), as they are already assigned to F (Function) keys, or can be. Some examples: Ctrl A \"ation\", Ctrl B \"because\", Ctrl J \"just\", Ctrl H \"that\". What your own list will be like will depend entirely on your own work and your own typing. Eg To assign \"ation\" to Ctrl A."
+        },
+        {
+          "headline":"Click on your \"Keyboard\" button.",
+          "description":""
+        },
+        {
+          "headline":"Select your keyboard map and click \"Edit\".",
+          "description":"Scroll down to Ctrl A."
+        },
+        {
+          "headline":"Click on the \"Keystrokes\" tab.",
+          "description":"Type \"ation\", click on \"assign keystrokes to key\". OK."
+        },
+        {
+          "headline":"Repeat as required.",
+          "description":"Tip: (a) go through the map and delete all the functions already assigned which you will not need. (b) From here create a \"blank\" template map which you can then use to create specific keyboard maps for different work requirement. To this blank template assign all the hot keys you think will be common to all your work. (You can change keyboard maps in mid document if necessary)."
+        },
+        {
+          "headline":"Keep the \"Alt\" function for letters, for example, Alt A, Alt B etc,  free to assign \"secondary\" abbreviations, such as abbreviations which are specific to a particular topic or type of work, for example, medical, legal etc.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Basic Shorthand Use QuickCorrect. This is where you type in an abbreviation and it expands automatically upon hitting space bar, full stop, colon, tab key etc. For example, to replace \"clcn\" with the word \"calculation\": Open QuickCorrect - Tools, QuickCorrect.  Type the abbreviation (eg \"clcn\") in \"Replace\" column. Tab across to \"With\" column and type full expression (for example, \"calculation\"). Check the box which says \"Replace Words As You Type\". (This will stay checked until you change it.) Click OK/Hit Enter key. When you next type \"clcn\" and hit one of the expansion keys listed above, you will immediately have the full expression \"calculation\" on your screen. Tip: To speed up creation of a QC item, put a button in the menu bar. Mouse onto the menu bar at the top and left click, choose \"Settings\".  Select your menu, then click on \"Edit\".  Choose Category \"Tools\" Feature \"QuickCorrect\". Drag this item to your menu bar. Close to exit. You should now have a button named \"QuickCorrect\". To create new QC items simply click on this button. Note: It is possible to create different menus for different types of work and select them as required. Note: Unlike MS Word there is no limit to the number of abbreviations, although each individual item is restricted to about 132 characters. For larger items use either QuickWords or create an individual document and insert it as required. Intermediate Shorthand Take care of expansion problems. A problem with having the expansion attached to space bar is that you often will think up a good abbreviation, but can't use it because it is a \"proper\" word and it can expand unexpectedly into something different. An example would be a simple, logical system for abbreviation for days of the week/months of the year. Use the first three letter. Except words like Mar (March), Jan (January), Wed (Wednesday), Sun (Sunday) etc will spoil the system. Deal with case sensitivity. If your abbreviation for \"march\" is \"mar\" typing \"mar\" will give you \"march\" but typing \"Mar\" will expand to \"March\", unless at the beginning of a sentence, in which case it will always expand to \"March\".) Note: The QuickCorrect file is attached to the Language of the document in \"Tools>Settings\". This means that you can create many different \"libraries\" of QC abbreviations, and use the same abbreviation for different expanded functions, simply by changing the Language. Remove case expansion. In WordPerfect, unlike MS Word, it is possible to remove the expansion from the space bar and assign it to a key of your choice. To accomplish this you will need to know about (a) macros and (b) keyboard maps. A macro is in effect a \"mini program\" created by the user to do repetitive or difficult tasks simply. A keyboard map is an on-screen text listing of what each keystroke/ combination (eg F12, Shift F10, Ctrl H etc) has attached to it, if anything. To view the keyboard map (you are able to have as many different maps as you wish):\nClick on \"Settings\" (as above). Choose \"Keyboards\". Select your desired keyboard and click on \"Edit\". On the left is the list of keystrokes, on the right are the Category/Features, as well as various tabs. By use these tabs you can (a) assign a function/feature to a key combination (b) assign text/keystroke (c) assign a program or (d) assign a macro to the key combination. Create a macro. Press Ctrl F10. Assign a name to the macro. Enter the keystrokes you wish to employ. When you are finished press Ctrl F10 again. To execute or run the macro, press Alt F10 and type the macro name and hit Enter. Remove the expansion function from the space bar. Before you start, ensure that in the QuickCorrect function the \"Replace Words as You Type\" box is NOT checked. (This means that you can type the abbreviation as often as you like without it expanding.) Return to your document. Press Ctrl F10. Name the macro (for example, \"expand\") Click on the QuickCorrect button. Check the \"Replace Words as You Type Button\". Exit to your document. Hit the space bar (this will cause your abbreviation to expand). Return into the QuickCorrect function and uncheck the \"Replace\" box.  Return to your document and do a single backspace delete to remove the blank space. (This is because you are no longer using the space bar to expand the abbreviation.) Press Ctrl F10 to end the macro recording function.  To check whether you have done it correctly, key in your abbreviation (eg \"clcn\" - do NOT put hit the space bar), press Alt F10, type the macro name (eg \"expand\"), press enter. This should result in your abbreviation expanding to \"calculation\" (or whatever). To edit/read the macro select, Tools>Macro>Edit. Select your macro. It should read something like this:\nApplication (WordPerfect; \"WordPerfect\"; Default! ; \"EN\")\nQuickCorrect (State: On!) Type (Text: \" \")\nQuickCorrect (State: Off!) DeleteCharPrevious ()\n\nNote: At the end of the first line the expression \"EN\" will vary, depending upon what version of WordPerfect you are using. (Note: For whatever reason, this macro will not work in MS Word, even though the steps are exactly the same and will work if keyed in manually.)  Choose a key. Using this macro doesn't make much sense if it takes more keystrokes to execute than it saves typing, so it will be assigned to a single key. Choosing which key is pretty important as choosing a \"bad\" key will make your hands work unnecessarily hard. This key will have an existing function attached to it, but you can re-assign it to a different combination (for example, the \"Alt\" keystroke). This \"good\" key can actually vary on different keyboards, as not all keyboards have exactly the same layout. Note: Previously we created a button with the \"QuickCorrect\" function in the menu bar. You should now do the same with the \"Keyboard\" function. Attach the macro. Click on your Keyboard button. Choose your keyboard map and click on edit. Scroll down the map and select the key you wish to use, then click on the \"Macro\" tab.  Select your \"expand\" macro and assign it to the chosen keystroke.  Click OK/Enter, then \"Select\" your edited keyboard map. Return to your document. If you have done it correctly, you should be able to type in your abbreviation, as many times as you like, hitting the space bar each time, without expansion, but if you hit your chosen expansion key, you'll have the abbreviation expand immediately. Important Note. Very Important. For the third time, very important. If you use WordPerfect's spelling checker you MUST select the Option \"Prompt Before Auto Replacement\" prior to using the spell checker for the first time. Failure to do this will result in any abbreviations in the text of the document being expanded. The good news is that this option is a \"set and forget\" and only needs to be done once. That is - Until you (a) reinstall WordPerfect or (b) move to a different computer with WP installed. Note: Your QC abbreviations are stored in a file with the extension *.uwl (User Word List) which, along with any of your template files (*.wpt) are all you need to copy to bring all these functions with you. Advanced Shorthand Use hot keys. This consists of creating \"hot keys\" with partial or complete words. These hotkeys should be given priority over some of the existing ones such as Bold Face (Alt B etc), as they are already assigned to F (Function) keys, or can be. Some examples: Ctrl A \"ation\", Ctrl B \"because\", Ctrl J \"just\", Ctrl H \"that\". What your own list will be like will depend entirely on your own work and your own typing. Eg To assign \"ation\" to Ctrl A. Click on your \"Keyboard\" button.  Select your keyboard map and click \"Edit\". Scroll down to Ctrl A. Click on the \"Keystrokes\" tab. Type \"ation\", click on \"assign keystrokes to key\". OK. Repeat as required. Tip: (a) go through the map and delete all the functions already assigned which you will not need. (b) From here create a \"blank\" template map which you can then use to create specific keyboard maps for different work requirement. To this blank template assign all the hot keys you think will be common to all your work. (You can change keyboard maps in mid document if necessary). Keep the \"Alt\" function for letters, for example, Alt A, Alt B etc,  free to assign \"secondary\" abbreviations, such as abbreviations which are specific to a particular topic or type of work, for example, medical, legal etc. ",
+  "tyn_model":[
+    "macro",
+    "ms word",
+    "quickcorrect - tools",
+    "wordperfect,",
+    "macros",
+    "keyboard",
+    "program",
+    "wordperfect's",
+    "spell checker",
+    "wordperfect or"
+  ],
+  "tyn_section":[
+
+  ]
+}

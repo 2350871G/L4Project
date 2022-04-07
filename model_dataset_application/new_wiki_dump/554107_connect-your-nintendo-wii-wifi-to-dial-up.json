@@ -1,0 +1,150 @@
+{
+  "title":"How to Connect Your Nintendo Wii WiFi to Dial Up",
+  "url":"https://www.wikihow.com/Connect-Your-Nintendo-Wii-WiFi-to-Dial-Up",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Wii"
+  ],
+  "methods":[
+    {
+      "name":"Enabling Internet Connection Sharing (Win XP\\/2000)",
+      "steps":[
+        {
+          "headline":"Click Start, click Control Panel, and then double-click Network Connections.",
+          "description":""
+        },
+        {
+          "headline":"Right click your dial-up connection, then click Properties and then click the Advanced tab",
+          "description":""
+        },
+        {
+          "headline":"Click the dial-up connection to be share.",
+          "description":""
+        },
+        {
+          "headline":"Under Network Tasks, click Change settings of this connection.",
+          "description":""
+        },
+        {
+          "headline":"On the Advanced tab, select Allow other network users to connect through this computer's Internet connection.",
+          "description":""
+        },
+        {
+          "headline":"Now connect to your dial-up connection",
+          "description":"If you were already connected to your dial-up provider before starting these steps you will need to disconnect and redial."
+        }
+      ]
+    },
+    {
+      "name":"Enabling Internet Connection Sharing (Win 95\\/98)",
+      "steps":[
+        {
+          "headline":"Click Start, then Settings, Control Panel, then click the Add/Remove Programs icon.",
+          "description":""
+        },
+        {
+          "headline":"Click the Windows Setup tab and then click Communications.",
+          "description":""
+        },
+        {
+          "headline":"Check the Internet Connection Sharing check box and then click Ok.",
+          "description":""
+        },
+        {
+          "headline":"Open Internet Explorer, open the Tools menu, then click Internet Options followed by the Connections tab.",
+          "description":""
+        },
+        {
+          "headline":"Click the Sharing button and then set the settings to share a dial-up connection and pick the network adapter that you use to connect to your router and then click Ok.",
+          "description":"You might have to restart you computer after you install Internet Connection Sharing and after you set the settings for Internet Connection Sharing."
+        }
+      ]
+    },
+    {
+      "name":"Finding the IP Address & Connection Settings for the Nintendo Wii",
+      "steps":[
+        {
+          "headline":"On your computer click Start and then Run.",
+          "description":""
+        },
+        {
+          "headline":"Fill in the letters cmd and click Ok.",
+          "description":""
+        },
+        {
+          "headline":"In the resulting DOS window type ipconfig /all and press Enter.",
+          "description":""
+        },
+        {
+          "headline":"Now keep the command prompt on the computer screen while you go to your Nintendo Wii to enter the information.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Enter all of the info on your Nintendo Wii",
+      "steps":[
+        {
+          "headline":"Turn your Nintendo Wii on",
+          "description":""
+        },
+        {
+          "headline":"Go to Wii Options, Wii Settings, Internet, Connection Settings",
+          "description":""
+        },
+        {
+          "headline":"Select a connection number you want to use.",
+          "description":""
+        },
+        {
+          "headline":"Go to Wireless Connection and then click Search for a access point.",
+          "description":""
+        },
+        {
+          "headline":"Select your home wireless network.",
+          "description":""
+        },
+        {
+          "headline":"Go to Change Settings and choose No for Auto-Obtain IP Address",
+          "description":""
+        },
+        {
+          "headline":"Enter the same IP Address as your network adapter, but add a 2 to the end it different",
+          "description":""
+        },
+        {
+          "headline":"Use the same Subnet Mask as the network adapter.",
+          "description":""
+        },
+        {
+          "headline":"Put the IP Address of the network adapter as the Default Router (Gateway) and Primary DNS.",
+          "description":""
+        },
+        {
+          "headline":"Select Save and then the Wii will automatically test the connection.",
+          "description":""
+        },
+        {
+          "headline":"If it work you can now play games on Nintendo WiFi and use the Wii's online features.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Enabling Internet Connection Sharing (Win XP\\/2000) Click Start, click Control Panel, and then double-click Network Connections.  Right click your dial-up connection, then click Properties and then click the Advanced tab  Click the dial-up connection to be share.  Under Network Tasks, click Change settings of this connection.  On the Advanced tab, select Allow other network users to connect through this computer's Internet connection.  Now connect to your dial-up connection If you were already connected to your dial-up provider before starting these steps you will need to disconnect and redial. Enabling Internet Connection Sharing (Win 95\\/98) Click Start, then Settings, Control Panel, then click the Add/Remove Programs icon.  Click the Windows Setup tab and then click Communications.  Check the Internet Connection Sharing check box and then click Ok.  Open Internet Explorer, open the Tools menu, then click Internet Options followed by the Connections tab.  Click the Sharing button and then set the settings to share a dial-up connection and pick the network adapter that you use to connect to your router and then click Ok. You might have to restart you computer after you install Internet Connection Sharing and after you set the settings for Internet Connection Sharing. Finding the IP Address & Connection Settings for the Nintendo Wii On your computer click Start and then Run.  Fill in the letters cmd and click Ok.  In the resulting DOS window type ipconfig /all and press Enter.  Now keep the command prompt on the computer screen while you go to your Nintendo Wii to enter the information.  Enter all of the info on your Nintendo Wii Turn your Nintendo Wii on  Go to Wii Options, Wii Settings, Internet, Connection Settings  Select a connection number you want to use.  Go to Wireless Connection and then click Search for a access point.  Select your home wireless network.  Go to Change Settings and choose No for Auto-Obtain IP Address  Enter the same IP Address as your network adapter, but add a 2 to the end it different  Use the same Subnet Mask as the network adapter.  Put the IP Address of the network adapter as the Default Router (Gateway) and Primary DNS.  Select Save and then the Wii will automatically test the connection.  If it work you can now play games on Nintendo WiFi and use the Wii's online features. ",
+  "tyn_model":[
+    "dial-up connection",
+    "internet connection sharing",
+    "nintendo wii",
+    "network adapter",
+    "dial-up provider",
+    "internet explorer",
+    "nintendo wifi"
+  ],
+  "tyn_section":[
+
+  ]
+}

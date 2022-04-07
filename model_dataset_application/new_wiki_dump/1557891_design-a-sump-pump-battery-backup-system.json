@@ -1,0 +1,54 @@
+{
+  "title":"How to Design a Sump Pump Battery Backup System",
+  "url":"https://www.wikihow.com/Design-a-Sump-Pump-Battery-Backup-System",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Here are the instructions for building the battery backup system.",
+      "description":"The instructions listed below are for a \u00bd HP sump pump. Do not connect any sump pump larger than \u00bd HP to this battery backup system."
+    },
+    {
+      "headline":"Assemble all the parts as shown in the diagram.",
+      "description":"Connect the AC relay, DC to AC inverter, \u00bd HP sump pump, and marine battery together - according to the manufactures documentation or schematics. Note: For safety reasons, secure the relay and wire connections in a watertight plastic enclosure. Also, make sure all parts of this system are protected against any water splashing in the sump pump area."
+    },
+    {
+      "headline":"Connect the 6 feet (1.8 m) electrical AC power cord to the relay as shown in the diagram.",
+      "description":"That\u2019s where the 110VAC (electrical outlet) connects to the relay. You'll see later that this power cord will plug into your electrical wall outlet. This step is extremely important. Triple check your connections before you apply any AC electrical power to your battery backup system."
+    },
+    {
+      "headline":"If you connected the DC to AC inverter and relay according to the manufactures instructions, the electrical power for your sump pump should now flow from the electrical wall outlet through the relay and then to your sump pump.",
+      "description":"This is the normal operating mode when your house has electrical power."
+    },
+    {
+      "headline":"Disconnect the AC electrical power cord from the wall outlet (This is to simulate a power failure in your home).",
+      "description":"The relay should now flip into battery-backup mode."
+    },
+    {
+      "headline":"Take a couple of buckets of water (or hose) and fill up the hole where your sump pump is located.",
+      "description":"When the water level raises the sump pump float to its tripping point, the sump pump should turn on and pump the water out of the well. Notice here, that the sump pump is now working off of the battery backup system  and not relying on the electrical power grid in your house."
+    },
+    {
+      "headline":"Plug the power cord back into your wall outlet so the sump pump is working off of the electrical power running through your house.",
+      "description":"Now, when you lose power throughout your house, the battery backup system will kick in and keep your sump pump working."
+    }
+  ],
+  "text":" Here are the instructions for building the battery backup system. The instructions listed below are for a \u00bd HP sump pump. Do not connect any sump pump larger than \u00bd HP to this battery backup system. Assemble all the parts as shown in the diagram. Connect the AC relay, DC to AC inverter, \u00bd HP sump pump, and marine battery together - according to the manufactures documentation or schematics. Note: For safety reasons, secure the relay and wire connections in a watertight plastic enclosure. Also, make sure all parts of this system are protected against any water splashing in the sump pump area. Connect the 6 feet (1.8 m) electrical AC power cord to the relay as shown in the diagram. That\u2019s where the 110VAC (electrical outlet) connects to the relay. You'll see later that this power cord will plug into your electrical wall outlet. This step is extremely important. Triple check your connections before you apply any AC electrical power to your battery backup system. If you connected the DC to AC inverter and relay according to the manufactures instructions, the electrical power for your sump pump should now flow from the electrical wall outlet through the relay and then to your sump pump. This is the normal operating mode when your house has electrical power. Disconnect the AC electrical power cord from the wall outlet (This is to simulate a power failure in your home). The relay should now flip into battery-backup mode. Take a couple of buckets of water (or hose) and fill up the hole where your sump pump is located. When the water level raises the sump pump float to its tripping point, the sump pump should turn on and pump the water out of the well. Notice here, that the sump pump is now working off of the battery backup system  and not relying on the electrical power grid in your house. Plug the power cord back into your wall outlet so the sump pump is working off of the electrical power running through your house. Now, when you lose power throughout your house, the battery backup system will kick in and keep your sump pump working.",
+  "tyn_model":[
+    "sump pump",
+    "water",
+    "ac relay",
+    "ac inverter",
+    "marine battery",
+    "electrical outlet",
+    "electrical wall outlet",
+    "buckets",
+    "hose"
+  ],
+  "tyn_section":[
+
+  ]
+}

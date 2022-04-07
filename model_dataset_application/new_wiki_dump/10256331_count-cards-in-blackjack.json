@@ -1,0 +1,95 @@
+{
+  "title":"How to Count Cards in Blackjack",
+  "url":"https://www.wikihow.com/Count-Cards-in-Blackjack",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Card Games"
+  ],
+  "methods":[
+    {
+      "name":"Learning the Basics of Card Counting",
+      "steps":[
+        {
+          "headline":"Bet with at least 200 units to avoid going broke at casinos.",
+          "description":"A unit refers to the minimum bet at your table\u2014so if the minimum bet is $10, one unit is equivalent to $10. In general, 200 units puts you at a 4/10 chance of losing your bankroll. This still isn't ideal, but it's the minimum you should be counting with \nUsing 400 units puts you at a 20% chance of losing your bankroll, 500 units puts you at a 10% chance, and 1000 units puts you at a 1% chance. Most professional card counters prefer to play with 1000 units or more. Another rule that players abide by is ensuring that your betting unit is about 1/1000 of your bankroll."
+        },
+        {
+          "headline":"Assign a blue of +1 or -1 to each card dealt.",
+          "description":"Prior to the deal, the running count is always 0. Every time a card is laid down on the table, you're going to add or subtract 1 from the running count\u2014the overall score after adding the values of each card dealt. If you see a 2, 3, 4, 5, or 6, add 1 to the total. If you see a 10, Jack, Queen, King, or Ace, subtract 1 from the total. If you see a 7, 8, or 9, the total remains the same. This counting technique is known as \"Hi-Lo\". Practice keeping track of the running count by dealing yourself a hand. Reset the running count every time the dealer shuffles the deck."
+        },
+        {
+          "headline":"Calculate your true count by dividing the running count by the decks.",
+          "description":"Casinos typically use multiple decks to try and prevent card counters from gaining an advantage over the house. For example, if the running count is +5 and there are 6 decks remaining, the true count is 0.83. This means the player does not yet have the advantage. Always calculate the true count when there are multiple decks. This ensures that you aren't just counting the number of high cards\u2014you're also considering the concentration of these cards compared to the low card concentration."
+        },
+        {
+          "headline":"Bet the true count minus 1 betting unit.",
+          "description":"For example, if the running count is +20 and there are 5 decks remaining, the true count is 4. This means you should bet 3 betting units. If each bet is $25, you should bet $75."
+        },
+        {
+          "headline":"Raise your bets with the rise of the true count.",
+          "description":"When the running count is positive after any given round, there are more large cards than small within the undealt cards. Increase your bet size to take advantage of these odds."
+        },
+        {
+          "headline":"Decrease your bets with the decrease of the true count.",
+          "description":"When the running count is negative, there are more small cards than high within the undealt cards. This puts you at a disadvantage, so decrease your bet size and don't raise."
+        }
+      ]
+    },
+    {
+      "name":"Using Advanced Card Counting Strategies",
+      "steps":[
+        {
+          "headline":"Count using the Omega II system.",
+          "description":"Cards numbered 2, 3, and 7 are valued at +1, while 4, 5, and 6 are valued at +2. The 9 card is valued at -1, face cards and 10s are valued at -2, and 8 and Aces are 0. Positive counts mean that more low cards are in the dealer's deck, while negative counts are indicative of more higher cards in the deck. Although Aces are valued at 0, it's still recommended to keep a separate count of the Aces in play. When the deck is rich with Aces, you still have a better chance of the dealer giving you a blackjack and should raise your bets accordingly."
+        },
+        {
+          "headline":"Employ the Wong Halves card counting strategy.",
+          "description":"When using the Wong Halves counting method, the 3, 4, and 6 cards are valued at +1, the 2 and 7 cards are valued as +0.5, and the 5 is worth +1.5. All 8s are 0, 9 is valued at -0.5, and all Ace and face cards are valued as -1. If you're having a hard time counting with fractions, double each value for a simplified strategy. For example, 8s are still valued at 0, but 1, 2, and 7 are valued at +1 and 5s are valued as +3."
+        },
+        {
+          "headline":"Count using the Victor Advanced Point Count.",
+          "description":"Using this system, Ace and 8 are valued as 0. Cards 2, 3, 4, 6, and 7 are valued as +2. Ten is valued as -3, 5 is valued as +3, and 9 is valued as -1. Like the Omega II system, keeping a separate count of Aces is not required, but recommended. Consider all cards below 8 as \"fives\" counted as +3 or \"smalls\" counted as +2. With a bit of practice, each card's value will become second-nature."
+        }
+      ]
+    },
+    {
+      "name":"Counting Cards as a Team",
+      "steps":[
+        {
+          "headline":"Select a Spotter to keep count of the deck at a specific table.",
+          "description":"As the Spotter, always bet the minimum and focus on keeping count of the cards. When the true count is high and the odds are in your favor, signal your team manager or the Gorilla. As a Spotter, use subtle signals to avoid detection, such as positioning your foot under the table in a specific way. Try not to fluctuate your betting amounts and avoid drawing attention to yourself. As a rule, your Big Player should be able to bet 8 times or more the size of the each Spotters' bet."
+        },
+        {
+          "headline":"Choose a Back-Spotter to watch the tables from afar.",
+          "description":"Back-Spotters are particularly helpful in crowded casinos where there is little table room. Although you\u2019re not playing, you are still responsible for keeping count and signaling the team when the Gorilla should join a table. As a Back Spotter, you can be more liberal with your signals (such as hand motions) since you won't standout as easily, but still exercise caution."
+        },
+        {
+          "headline":"Select the least talented poker player as the Gorilla.",
+          "description":"The Gorilla should be the person that doesn't have the skill (or desire) to count. As the Gorilla, you move between tables and bet the maximum wager when the tables are hot. If you have a boisterous friend that likes to throw their money around, they're a great choice for the Gorilla. Keep your bets consistently high and don't be afraid to act aggressive and loud."
+        },
+        {
+          "headline":"Choose the most skilled player for the Big Player.",
+          "description":"As the Big Player, your job is to play with the same wagers as the Gorilla but in a more skillful way that takes attention off the team. When Spotters or Back-Spotters find a hot table, they will signal you to come and play. If the table puts you at a big advantage, consistently bet high amounts. But if you're only at a slight advantage, spread your bets and increase them as your advantage (the true count) rises. Remember that the Big Player should be able to bet 8 times or more the bet of each Spotter you have playing."
+        }
+      ]
+    }
+  ],
+  "text":" Learning the Basics of Card Counting Bet with at least 200 units to avoid going broke at casinos. A unit refers to the minimum bet at your table\u2014so if the minimum bet is $10, one unit is equivalent to $10. In general, 200 units puts you at a 4/10 chance of losing your bankroll. This still isn't ideal, but it's the minimum you should be counting with \nUsing 400 units puts you at a 20% chance of losing your bankroll, 500 units puts you at a 10% chance, and 1000 units puts you at a 1% chance. Most professional card counters prefer to play with 1000 units or more. Another rule that players abide by is ensuring that your betting unit is about 1/1000 of your bankroll. Assign a blue of +1 or -1 to each card dealt. Prior to the deal, the running count is always 0. Every time a card is laid down on the table, you're going to add or subtract 1 from the running count\u2014the overall score after adding the values of each card dealt. If you see a 2, 3, 4, 5, or 6, add 1 to the total. If you see a 10, Jack, Queen, King, or Ace, subtract 1 from the total. If you see a 7, 8, or 9, the total remains the same. This counting technique is known as \"Hi-Lo\". Practice keeping track of the running count by dealing yourself a hand. Reset the running count every time the dealer shuffles the deck. Calculate your true count by dividing the running count by the decks. Casinos typically use multiple decks to try and prevent card counters from gaining an advantage over the house. For example, if the running count is +5 and there are 6 decks remaining, the true count is 0.83. This means the player does not yet have the advantage. Always calculate the true count when there are multiple decks. This ensures that you aren't just counting the number of high cards\u2014you're also considering the concentration of these cards compared to the low card concentration. Bet the true count minus 1 betting unit. For example, if the running count is +20 and there are 5 decks remaining, the true count is 4. This means you should bet 3 betting units. If each bet is $25, you should bet $75. Raise your bets with the rise of the true count. When the running count is positive after any given round, there are more large cards than small within the undealt cards. Increase your bet size to take advantage of these odds. Decrease your bets with the decrease of the true count. When the running count is negative, there are more small cards than high within the undealt cards. This puts you at a disadvantage, so decrease your bet size and don't raise. Using Advanced Card Counting Strategies Count using the Omega II system. Cards numbered 2, 3, and 7 are valued at +1, while 4, 5, and 6 are valued at +2. The 9 card is valued at -1, face cards and 10s are valued at -2, and 8 and Aces are 0. Positive counts mean that more low cards are in the dealer's deck, while negative counts are indicative of more higher cards in the deck. Although Aces are valued at 0, it's still recommended to keep a separate count of the Aces in play. When the deck is rich with Aces, you still have a better chance of the dealer giving you a blackjack and should raise your bets accordingly. Employ the Wong Halves card counting strategy. When using the Wong Halves counting method, the 3, 4, and 6 cards are valued at +1, the 2 and 7 cards are valued as +0.5, and the 5 is worth +1.5. All 8s are 0, 9 is valued at -0.5, and all Ace and face cards are valued as -1. If you're having a hard time counting with fractions, double each value for a simplified strategy. For example, 8s are still valued at 0, but 1, 2, and 7 are valued at +1 and 5s are valued as +3. Count using the Victor Advanced Point Count. Using this system, Ace and 8 are valued as 0. Cards 2, 3, 4, 6, and 7 are valued as +2. Ten is valued as -3, 5 is valued as +3, and 9 is valued as -1. Like the Omega II system, keeping a separate count of Aces is not required, but recommended. Consider all cards below 8 as \"fives\" counted as +3 or \"smalls\" counted as +2. With a bit of practice, each card's value will become second-nature. Counting Cards as a Team Select a Spotter to keep count of the deck at a specific table. As the Spotter, always bet the minimum and focus on keeping count of the cards. When the true count is high and the odds are in your favor, signal your team manager or the Gorilla. As a Spotter, use subtle signals to avoid detection, such as positioning your foot under the table in a specific way. Try not to fluctuate your betting amounts and avoid drawing attention to yourself. As a rule, your Big Player should be able to bet 8 times or more the size of the each Spotters' bet. Choose a Back-Spotter to watch the tables from afar. Back-Spotters are particularly helpful in crowded casinos where there is little table room. Although you\u2019re not playing, you are still responsible for keeping count and signaling the team when the Gorilla should join a table. As a Back Spotter, you can be more liberal with your signals (such as hand motions) since you won't standout as easily, but still exercise caution. Select the least talented poker player as the Gorilla. The Gorilla should be the person that doesn't have the skill (or desire) to count. As the Gorilla, you move between tables and bet the maximum wager when the tables are hot. If you have a boisterous friend that likes to throw their money around, they're a great choice for the Gorilla. Keep your bets consistently high and don't be afraid to act aggressive and loud. Choose the most skilled player for the Big Player. As the Big Player, your job is to play with the same wagers as the Gorilla but in a more skillful way that takes attention off the team. When Spotters or Back-Spotters find a hot table, they will signal you to come and play. If the table puts you at a big advantage, consistently bet high amounts. But if you're only at a slight advantage, spread your bets and increase them as your advantage (the true count) rises. Remember that the Big Player should be able to bet 8 times or more the bet of each Spotter you have playing.",
+  "tyn_model":[
+    "spotter",
+    "gorilla",
+    "\u2014so",
+    "blue",
+    "\u2014the",
+    "casinos",
+    "\u2014you're",
+    "omega ii",
+    "back-",
+    "poker",
+    "table"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "title":"How to Use a PS3 Controller Wirelessly on Android with Sixaxis Controller",
+  "url":"https://www.wikihow.com/Use-a-PS3-Controller-Wirelessly-on-Android-with-Sixaxis-Controller",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation 3"
+  ],
+  "parts":[
+    {
+      "name":"Preparing to Connect",
+      "steps":[
+        {
+          "headline":"Root your Android.",
+          "description":"You can buy the Sixaxis Controller app from the Play Store without rooting your phone, but your controller won't work when paired with the app unless your Android is rooted. Rooting your phone violates most phone companies' terms of use and voids your warranty. Proceed at your own risk."
+        },
+        {
+          "headline":"Buy a USB adapter cable.",
+          "description":"Since the PS3 controller uses a USB 2.0 cable to plug into the PS3, you'll need a way to connect a USB 2.0 cable to your Android's micro USB port. You can do this by purchasing a USB 2.0 to micro USB cable. If your Android uses a USB-C charger port, you'll need a USB 2.0 to USB-C adapter cable."
+        },
+        {
+          "headline":"Make sure that you have an original PlayStation 3 controller.",
+          "description":"The Sixaxis app doesn't work reliably when used with third-party PlayStation 3 controllers, so you'll want to ensure that you're using a PlayStation 3 controller that came directly from Sony (e.g., as a part of a PlayStation 3 bundle). You'll also want your PS3 controller to have enough battery charge to be able to turn on without being plugged into a power source. You can buy PS3 controllers directly from Sony on platforms like Amazon and eBay, as well as in physical stores like Best Buy."
+        },
+        {
+          "headline":"Unplug your PlayStation 3 from its power input.",
+          "description":"If you have a PlayStation 3, you'll want to unplug it from the wall to prevent the PlayStation 3 controller from connecting accidentally to the PS3."
+        },
+        {
+          "headline":"Enable Bluetooth on your Android.",
+          "description":"You can usually do this by swiping down from the top of the screen, long-pressing the Bluetooth {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/9c\\/Macbluetooth1.png\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/9c\\/Macbluetooth1.png\\/15px-Macbluetooth1.png\",\"smallWidth\":460,\"smallHeight\":920,\"bigWidth\":\"15\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Mac icon\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} icon, and then tapping the grey \"Bluetooth\" or \"OFF\" switch to turn it blue {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/28\\/Android7switchon.png\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/28\\/Android7switchon.png\\/35px-Android7switchon.png\",\"smallWidth\":460,\"smallHeight\":394,\"bigWidth\":\"35\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. Depending on how many modifications you've made after rooting your Android, the process for enabling Bluetooth may vary."
+        }
+      ]
+    },
+    {
+      "name":"Checking for Compatibility",
+      "steps":[
+        {
+          "headline":"Download the Sixaxis Compatibility Checker app.",
+          "description":"This app is free, and will tell you whether or not your phone and your PS3 controller are compatible. Tap the search bar. Type in sixaxis compatibility checker\n\nTap Sixaxis Compatibility Checker\n\nTap INSTALL\n\nTap ACCEPT when prompted."
+        },
+        {
+          "headline":"Open the Sixaxis Compatibility Checker app.",
+          "description":"Tap OPEN in the Google Play Store, or tap the PS3 buttons-shaped app icon in your Android's App Drawer."
+        },
+        {
+          "headline":"Tap Start.",
+          "description":"It's a power icon {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5d\\/Windowspower.png\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/5d\\/Windowspower.png\\/30px-Windowspower.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} in the upper-left side of the screen. The app will begin determining whether or not your phone can use a PlayStation 3 controller."
+        },
+        {
+          "headline":"Wait for a confirmation prompt.",
+          "description":"If your phone is compatible with a PS3 controller, you'll see a confirmation prompt appear in an on-screen pop-up window. You'll also see a Bluetooth address for your Android appear at the bottom of the screen. If the Sixaxis Compatibility Checker doesn't display both the confirmation prompt and a Bluetooth address, your phone isn't compatible with a PS3 controller. If your phone isn't rooted when you run the Compatibility Checker app, your phone won't appear as compatible even if it technically is."
+        },
+        {
+          "headline":"Note the Bluetooth address.",
+          "description":"Write down the address that appears next to the \"Local Bluetooth Address\" heading at the bottom of the screen. You'll need this address later when pairing the controller with your phone."
+        }
+      ]
+    },
+    {
+      "name":"Connecting Your Controller",
+      "steps":[
+        {
+          "headline":"Buy and download the Sixaxis Controller app.",
+          "description":"To do so:\nOpen Google Play {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1e\\/Androidgoogleplay.png\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1e\\/Androidgoogleplay.png\\/26px-Androidgoogleplay.png\",\"smallWidth\":460,\"smallHeight\":531,\"bigWidth\":\"26\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} again. Tap the search bar. Type in sixaxis controller and tap Search or Enter\n\nTap Sixaxis Controller\n\nTap $2.49\n\nTap ACCEPT, then enter payment information if prompted."
+        },
+        {
+          "headline":"Open Sixaxis Controller.",
+          "description":"Tap OPEN in the Play Store, or tap the PS3 buttons-shaped Sixaxis Controller app icon."
+        },
+        {
+          "headline":"Plug your adapter cable into your Android.",
+          "description":"The small end of the adapter cable will fit into the charging port on your Android."
+        },
+        {
+          "headline":"Plug your PS3 controller into the adapter cable.",
+          "description":"Attach the small end of the PS3 charging cable to the front of the PS3 controller, then plug the USB end of the cable into the USB port at the end of the Android's adapter cable. You should see the four lights on the front of the PS3 controller blink when you do this."
+        },
+        {
+          "headline":"Tap Start.",
+          "description":"Just like the Compatibility Checker app, this is a power icon {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5d\\/Windowspower.png\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/5d\\/Windowspower.png\\/30px-Windowspower.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} in the upper-left side of the screen."
+        },
+        {
+          "headline":"Wait for Sixaxis Controller to recognize your controller.",
+          "description":"When Sixaxis Controller recognizes your controller, you'll see \"Successfully configured Bluetooth\" followed by \"Listening for controllers...\" appear near the bottom of the screen."
+        },
+        {
+          "headline":"Tap Pair Controller.",
+          "description":"It's below the Start option. Doing so prompts a pop-up window with your controller's Bluetooth address."
+        },
+        {
+          "headline":"Make sure that your controller's address matches your phone's address.",
+          "description":"In the pop-up window, you'll see a Bluetooth address in the same format as your Android's Bluetooth address that you wrote down earlier. If the Bluetooth address for your controller doesn't match your phone, tap the address to open a text field, then type in your Android's Bluetooth address."
+        },
+        {
+          "headline":"Tap PAIR.",
+          "description":"It's in the bottom-right corner of the window."
+        },
+        {
+          "headline":"Tap OK when prompted.",
+          "description":"This will cause your controller to begin connecting to your Android."
+        },
+        {
+          "headline":"Wait for the controller to connect.",
+          "description":"When you see the \"Master address updated\" line of text appear near the bottom of the screen, you can continue."
+        },
+        {
+          "headline":"Disconnect the controller from its cable.",
+          "description":"Simply unplug the controller itself from the cable."
+        },
+        {
+          "headline":"Turn on the controller.",
+          "description":"Press the controller's \"On\" button to complete the pairing process. You should see the phrase \"Client 1 connected\" near the bottom of the screen. You should now be able to use your controller to navigate your Android and most Play Store games."
+        }
+      ]
+    }
+  ],
+  "text":" Preparing to Connect Root your Android. You can buy the Sixaxis Controller app from the Play Store without rooting your phone, but your controller won't work when paired with the app unless your Android is rooted. Rooting your phone violates most phone companies' terms of use and voids your warranty. Proceed at your own risk. Buy a USB adapter cable. Since the PS3 controller uses a USB 2.0 cable to plug into the PS3, you'll need a way to connect a USB 2.0 cable to your Android's micro USB port. You can do this by purchasing a USB 2.0 to micro USB cable. If your Android uses a USB-C charger port, you'll need a USB 2.0 to USB-C adapter cable. Make sure that you have an original PlayStation 3 controller. The Sixaxis app doesn't work reliably when used with third-party PlayStation 3 controllers, so you'll want to ensure that you're using a PlayStation 3 controller that came directly from Sony (e.g., as a part of a PlayStation 3 bundle). You'll also want your PS3 controller to have enough battery charge to be able to turn on without being plugged into a power source. You can buy PS3 controllers directly from Sony on platforms like Amazon and eBay, as well as in physical stores like Best Buy. Unplug your PlayStation 3 from its power input. If you have a PlayStation 3, you'll want to unplug it from the wall to prevent the PlayStation 3 controller from connecting accidentally to the PS3. Enable Bluetooth on your Android. You can usually do this by swiping down from the top of the screen, long-pressing the Bluetooth {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/9c\\/Macbluetooth1.png\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/9c\\/Macbluetooth1.png\\/15px-Macbluetooth1.png\",\"smallWidth\":460,\"smallHeight\":920,\"bigWidth\":\"15\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Mac icon\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} icon, and then tapping the grey \"Bluetooth\" or \"OFF\" switch to turn it blue {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/2\\/28\\/Android7switchon.png\",\"bigUrl\":\"\\/images\\/thumb\\/2\\/28\\/Android7switchon.png\\/35px-Android7switchon.png\",\"smallWidth\":460,\"smallHeight\":394,\"bigWidth\":\"35\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. Depending on how many modifications you've made after rooting your Android, the process for enabling Bluetooth may vary. Checking for Compatibility Download the Sixaxis Compatibility Checker app. This app is free, and will tell you whether or not your phone and your PS3 controller are compatible. Tap the search bar. Type in sixaxis compatibility checker\n\nTap Sixaxis Compatibility Checker\n\nTap INSTALL\n\nTap ACCEPT when prompted. Open the Sixaxis Compatibility Checker app. Tap OPEN in the Google Play Store, or tap the PS3 buttons-shaped app icon in your Android's App Drawer. Tap Start. It's a power icon {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5d\\/Windowspower.png\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/5d\\/Windowspower.png\\/30px-Windowspower.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} in the upper-left side of the screen. The app will begin determining whether or not your phone can use a PlayStation 3 controller. Wait for a confirmation prompt. If your phone is compatible with a PS3 controller, you'll see a confirmation prompt appear in an on-screen pop-up window. You'll also see a Bluetooth address for your Android appear at the bottom of the screen. If the Sixaxis Compatibility Checker doesn't display both the confirmation prompt and a Bluetooth address, your phone isn't compatible with a PS3 controller. If your phone isn't rooted when you run the Compatibility Checker app, your phone won't appear as compatible even if it technically is. Note the Bluetooth address. Write down the address that appears next to the \"Local Bluetooth Address\" heading at the bottom of the screen. You'll need this address later when pairing the controller with your phone. Connecting Your Controller Buy and download the Sixaxis Controller app. To do so:\nOpen Google Play {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1e\\/Androidgoogleplay.png\",\"bigUrl\":\"\\/images\\/thumb\\/1\\/1e\\/Androidgoogleplay.png\\/26px-Androidgoogleplay.png\",\"smallWidth\":460,\"smallHeight\":531,\"bigWidth\":\"26\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of an Android icon\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} again. Tap the search bar. Type in sixaxis controller and tap Search or Enter\n\nTap Sixaxis Controller\n\nTap $2.49\n\nTap ACCEPT, then enter payment information if prompted. Open Sixaxis Controller. Tap OPEN in the Play Store, or tap the PS3 buttons-shaped Sixaxis Controller app icon. Plug your adapter cable into your Android. The small end of the adapter cable will fit into the charging port on your Android. Plug your PS3 controller into the adapter cable. Attach the small end of the PS3 charging cable to the front of the PS3 controller, then plug the USB end of the cable into the USB port at the end of the Android's adapter cable. You should see the four lights on the front of the PS3 controller blink when you do this. Tap Start. Just like the Compatibility Checker app, this is a power icon {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/5\\/5d\\/Windowspower.png\",\"bigUrl\":\"\\/images\\/thumb\\/5\\/5d\\/Windowspower.png\\/30px-Windowspower.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} in the upper-left side of the screen. Wait for Sixaxis Controller to recognize your controller. When Sixaxis Controller recognizes your controller, you'll see \"Successfully configured Bluetooth\" followed by \"Listening for controllers...\" appear near the bottom of the screen. Tap Pair Controller. It's below the Start option. Doing so prompts a pop-up window with your controller's Bluetooth address. Make sure that your controller's address matches your phone's address. In the pop-up window, you'll see a Bluetooth address in the same format as your Android's Bluetooth address that you wrote down earlier. If the Bluetooth address for your controller doesn't match your phone, tap the address to open a text field, then type in your Android's Bluetooth address. Tap PAIR. It's in the bottom-right corner of the window. Tap OK when prompted. This will cause your controller to begin connecting to your Android. Wait for the controller to connect. When you see the \"Master address updated\" line of text appear near the bottom of the screen, you can continue. Disconnect the controller from its cable. Simply unplug the controller itself from the cable. Turn on the controller. Press the controller's \"On\" button to complete the pairing process. You should see the phrase \"Client 1 connected\" near the bottom of the screen. You should now be able to use your controller to navigate your Android and most Play Store games.",
+  "tyn_model":[
+    "controller",
+    "sixaxis controller",
+    "ps3 controller",
+    "usb 2.0 cable",
+    "playstation 3 controller",
+    "playstation",
+    "usb adapter cable",
+    "usb 2.0 to micro usb cable",
+    "usb-c charger",
+    "usb 2.0 to usb-c adapter",
+    "playstation 3 bundle",
+    "playstation 3",
+    "mac",
+    "compatibility checker",
+    "ps3 charging",
+    "bluetooth"
+  ],
+  "tyn_section":[
+
+  ]
+}

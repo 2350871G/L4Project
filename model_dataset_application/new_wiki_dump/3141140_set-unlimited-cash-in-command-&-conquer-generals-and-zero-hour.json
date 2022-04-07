@@ -1,0 +1,68 @@
+{
+  "title":"How to Set Unlimited Cash in Command &amp; Conquer Generals and Zero Hour",
+  "url":"https://www.wikihow.com/Set-Unlimited-Cash-in-Command-%26-Conquer-Generals-and-Zero-Hour",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Simulation"
+  ],
+  "steps":[
+    {
+      "headline":"Navigate to C:\\Documents and Settings\\YourUserName\\My Documents\\Command & Conquer Generals Zero Hour Data\\",
+      "description":""
+    },
+    {
+      "headline":"Open Network.ini with Notepad or any other text editor.",
+      "description":""
+    },
+    {
+      "headline":"Look for any line starting with \"StartingCash\".",
+      "description":"If you don't see it then just add a line at the end: \"StartingCash = your amount\""
+    },
+    {
+      "headline":"The line should look like: \"StartingCash = 10000\".",
+      "description":"The value could differ."
+    },
+    {
+      "headline":"Change the value to your desired amount.",
+      "description":"If you set the value too high then when you start the game you will see -1 as your starting cash. In this condition you have unlimited cash."
+    },
+    {
+      "headline":"Save the file but leave it open.",
+      "description":""
+    },
+    {
+      "headline":"Start the game and go to Multiplayer>Network",
+      "description":""
+    },
+    {
+      "headline":"Press ALT+Tab and save the file again.",
+      "description":""
+    },
+    {
+      "headline":"Switch back to the game.",
+      "description":"Press Create Game."
+    },
+    {
+      "headline":"You will see the default 10000 starting cash.",
+      "description":"Don't worry its okay."
+    },
+    {
+      "headline":"Start the game.",
+      "description":""
+    },
+    {
+      "headline":"Now you will have the cash you set in the Network.ini File.",
+      "description":"Enjoy"
+    }
+  ],
+  "text":" Navigate to C:\\Documents and Settings\\YourUserName\\My Documents\\Command & Conquer Generals Zero Hour Data\\  Open Network.ini with Notepad or any other text editor.  Look for any line starting with \"StartingCash\". If you don't see it then just add a line at the end: \"StartingCash = your amount\" The line should look like: \"StartingCash = 10000\". The value could differ. Change the value to your desired amount. If you set the value too high then when you start the game you will see -1 as your starting cash. In this condition you have unlimited cash. Save the file but leave it open.  Start the game and go to Multiplayer>Network  Press ALT+Tab and save the file again.  Switch back to the game. Press Create Game. You will see the default 10000 starting cash. Don't worry its okay. Start the game.  Now you will have the cash you set in the Network.ini File. Enjoy",
+  "tyn_model":[
+    "notepad or"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "title":"How to Install Minecraft",
+  "url":"https://www.wikihow.com/Install-Minecraft",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Minecraft"
+  ],
+  "methods":[
+    {
+      "name":"Windows",
+      "steps":[
+        {
+          "headline":"Visit the Minecraft Download page.",
+          "description":"You can find it at minecraft.net/download. If you've had problems in the past getting Minecraft and Java to work, download the newest version from minecraft.net/download. The latest versions of Minecraft include all of the necessary Java files, and do not require a separate Java installation."
+        },
+        {
+          "headline":"Click the .Minecraft.msi link in the \"Minecraft for Windows\" section.",
+          "description":"This will download the new Minecraft installer."
+        },
+        {
+          "headline":"Run the installer program.",
+          "description":"Follow the prompts to install Minecraft on your computer."
+        },
+        {
+          "headline":"Open the Minecraft Launcher.",
+          "description":"This program is used to start Minecraft. You can find an icon for it on your desktop after installation."
+        },
+        {
+          "headline":"Wait for the game files to download.",
+          "description":"When you start the launcher for the first time, essential game files will be downloaded automatically."
+        },
+        {
+          "headline":"Log in with your Minecraft or Mojang account.",
+          "description":"This is the account that you created when you purchased Minecraft."
+        },
+        {
+          "headline":"Start playing Minecraft.",
+          "description":"Once the game files have finished downloading, you can begin playing. See this guide for some tips on getting started."
+        },
+        {
+          "headline":"Minecraft is running very slowly, or is crashing a lot.",
+          "description":"This is usually caused by your computer not meeting the requirements for Minecraft. For the best results when playing, you'll want the following setup:\n4 GB of RAM\n1 GB of hard drive space\nA dedicated graphics card"
+        }
+      ]
+    },
+    {
+      "name":"Mac",
+      "steps":[
+        {
+          "headline":"Download and install Java.",
+          "description":"You will need Java installed in order to run Minecraft on OS X. You can download Java for OS X 10.10 (Yosemite) by clicking here. Mojang is working on a Mac installer that doesn't require Java anymore, but it is not yet available."
+        },
+        {
+          "headline":"Visit the Minecraft Download page.",
+          "description":"You can find it at minecraft.net/download."
+        },
+        {
+          "headline":"Click the \"Show all platforms\" link.",
+          "description":"This can be found under the \"Minecraft for Windows\" section."
+        },
+        {
+          "headline":"Click the .Minecraft.dmg link.",
+          "description":"This will download the installer for the Mac version of Minecraft."
+        },
+        {
+          "headline":"Double-click the downloaded DMG file.",
+          "description":"You can find it in your Downloads folder."
+        },
+        {
+          "headline":"Drag the Minecraft program into your Applications folder.",
+          "description":"This will install Minecraft."
+        },
+        {
+          "headline":"I get an error saying Minecraft is damaged when trying to run it.",
+          "description":"This is error occurs because OS X is set to not allow programs that were downloaded from places other than the App Store. Click the Apple menu and select \"System Preferences\". Select the \"Security & Privacy\" option. Select \"Anywhere\" from the \"Allow applications downloaded from\" section."
+        }
+      ]
+    },
+    {
+      "name":"Minecraft Pocket Edition",
+      "steps":[
+        {
+          "headline":"Open the app store on your device.",
+          "description":"Minecraft Pocket Edition (PE) is available for iOS, Android, and Windows Phone."
+        },
+        {
+          "headline":"Search for \"Minecraft Pocket Edition\".",
+          "description":"Select it from the search results."
+        },
+        {
+          "headline":"Purchase it if you haven't already.",
+          "description":"You will need to purchase Minecraft PE before you can download it. If you've already purchased it before, you can begin downloading it immediately."
+        },
+        {
+          "headline":"Tap \"Install\" to begin downloading and installing Minecraft PE.",
+          "description":"You will be able to find it on your Home screen or in your app drawer."
+        }
+      ]
+    },
+    {
+      "name":"Linux",
+      "steps":[
+        {
+          "headline":"Download and install graphics card drivers.",
+          "description":"If you have a graphics card, you'll get better performance from Minecraft if you install the drivers for it. Here's how to install graphics card drivers in Ubuntu:\nOpen the Preferences menu and select \"Software & Updates\". Click the \"Additional Drivers\" tab. Select the \"binary driver\" for your graphics card and click \"Apply Changes\"."
+        },
+        {
+          "headline":"Install Java.",
+          "description":"You will need Java installed in order to run Minecraft. You can install Java through the terminal. Here are the instructions for Ubuntu:\nOpen the Terminal. You can press Ctrl+Alt+T to do this quickly. Type sudo apt-add-repository ppa:webupd8team/java and press \u21b5 Enter. Type sudo apt-get update and press \u21b5 Enter. Type sudo apt-get install oracle-java8-installer and press \u21b5 Enter. Follow the prompts to install Java."
+        },
+        {
+          "headline":"Download Minecraft from .minecraft.net/download.",
+          "description":"Click the \"Show all platforms\" link, then click the Minecraft.jar link."
+        },
+        {
+          "headline":"After downloading, right-click the ..jar file and select \"Properties\".",
+          "description":"Select the \"Permissions\" tab and check the \"Allow executing file as program\" box. Click \"Apply\"."
+        },
+        {
+          "headline":"Double-click the ..jar file to start the Minecraft Launcher.",
+          "description":"Clicking \"Play\" will automatically download the game files, and you will be prompted to sign in with your Minecraft or Mojang account."
+        },
+        {
+          "headline":"I can't get Minecraft running in an older version of Ubuntu.",
+          "description":"If you are using an older version of Ubuntu and are having difficulty getting Minecraft to work, check out this guide."
+        },
+        {
+          "headline":"I continuously receive errors when playing Minecraft.",
+          "description":"There are countless reasons why Minecraft for Linux could be malfunctioning. The easiest way to get around most problems is to use Wine (Linux's Windows emulator) to run the Windows version of Minecraft. Click here for detailed instructions on installing Windows programs using Wine."
+        }
+      ]
+    },
+    {
+      "name":"Further Installation",
+      "steps":[
+        {
+          "headline":"Set up a Minecraft server.",
+          "description":"If you want to create a world that you and all of your friends can play on, you may want to consider setting up a Minecraft server. You can do this on a spare computer in your house, or you can rent a server that is always available and can handle a lot of players at once."
+        },
+        {
+          "headline":"Install some mods.",
+          "description":"Want to change up your vanilla Minecraft experience? There are thousands of mods available for Minecraft, and also many mods available for Minecraft PE (though these require a fair amount more work to get). Click here for instructions on installing Minecraft mods. Click here for instructions on installing Minecraft PE mods."
+        }
+      ]
+    }
+  ],
+  "text":" Windows Visit the Minecraft Download page. You can find it at minecraft.net/download. If you've had problems in the past getting Minecraft and Java to work, download the newest version from minecraft.net/download. The latest versions of Minecraft include all of the necessary Java files, and do not require a separate Java installation. Click the .Minecraft.msi link in the \"Minecraft for Windows\" section. This will download the new Minecraft installer. Run the installer program. Follow the prompts to install Minecraft on your computer. Open the Minecraft Launcher. This program is used to start Minecraft. You can find an icon for it on your desktop after installation. Wait for the game files to download. When you start the launcher for the first time, essential game files will be downloaded automatically. Log in with your Minecraft or Mojang account. This is the account that you created when you purchased Minecraft. Start playing Minecraft. Once the game files have finished downloading, you can begin playing. See this guide for some tips on getting started. Minecraft is running very slowly, or is crashing a lot. This is usually caused by your computer not meeting the requirements for Minecraft. For the best results when playing, you'll want the following setup:\n4 GB of RAM\n1 GB of hard drive space\nA dedicated graphics card Mac Download and install Java. You will need Java installed in order to run Minecraft on OS X. You can download Java for OS X 10.10 (Yosemite) by clicking here. Mojang is working on a Mac installer that doesn't require Java anymore, but it is not yet available. Visit the Minecraft Download page. You can find it at minecraft.net/download. Click the \"Show all platforms\" link. This can be found under the \"Minecraft for Windows\" section. Click the .Minecraft.dmg link. This will download the installer for the Mac version of Minecraft. Double-click the downloaded DMG file. You can find it in your Downloads folder. Drag the Minecraft program into your Applications folder. This will install Minecraft. I get an error saying Minecraft is damaged when trying to run it. This is error occurs because OS X is set to not allow programs that were downloaded from places other than the App Store. Click the Apple menu and select \"System Preferences\". Select the \"Security & Privacy\" option. Select \"Anywhere\" from the \"Allow applications downloaded from\" section. Minecraft Pocket Edition Open the app store on your device. Minecraft Pocket Edition (PE) is available for iOS, Android, and Windows Phone. Search for \"Minecraft Pocket Edition\". Select it from the search results. Purchase it if you haven't already. You will need to purchase Minecraft PE before you can download it. If you've already purchased it before, you can begin downloading it immediately. Tap \"Install\" to begin downloading and installing Minecraft PE. You will be able to find it on your Home screen or in your app drawer. Linux Download and install graphics card drivers. If you have a graphics card, you'll get better performance from Minecraft if you install the drivers for it. Here's how to install graphics card drivers in Ubuntu:\nOpen the Preferences menu and select \"Software & Updates\". Click the \"Additional Drivers\" tab. Select the \"binary driver\" for your graphics card and click \"Apply Changes\". Install Java. You will need Java installed in order to run Minecraft. You can install Java through the terminal. Here are the instructions for Ubuntu:\nOpen the Terminal. You can press Ctrl+Alt+T to do this quickly. Type sudo apt-add-repository ppa:webupd8team/java and press \u21b5 Enter. Type sudo apt-get update and press \u21b5 Enter. Type sudo apt-get install oracle-java8-installer and press \u21b5 Enter. Follow the prompts to install Java. Download Minecraft from .minecraft.net/download. Click the \"Show all platforms\" link, then click the Minecraft.jar link. After downloading, right-click the ..jar file and select \"Properties\". Select the \"Permissions\" tab and check the \"Allow executing file as program\" box. Click \"Apply\". Double-click the ..jar file to start the Minecraft Launcher. Clicking \"Play\" will automatically download the game files, and you will be prompted to sign in with your Minecraft or Mojang account. I can't get Minecraft running in an older version of Ubuntu. If you are using an older version of Ubuntu and are having difficulty getting Minecraft to work, check out this guide. I continuously receive errors when playing Minecraft. There are countless reasons why Minecraft for Linux could be malfunctioning. The easiest way to get around most problems is to use Wine (Linux's Windows emulator) to run the Windows version of Minecraft. Click here for detailed instructions on installing Windows programs using Wine. Further Installation Set up a Minecraft server. If you want to create a world that you and all of your friends can play on, you may want to consider setting up a Minecraft server. You can do this on a spare computer in your house, or you can rent a server that is always available and can handle a lot of players at once. Install some mods. Want to change up your vanilla Minecraft experience? There are thousands of mods available for Minecraft, and also many mods available for Minecraft PE (though these require a fair amount more work to get). Click here for instructions on installing Minecraft mods. Click here for instructions on installing Minecraft PE mods.",
+  "tyn_model":[
+    "minecraft",
+    "java",
+    "graphics card",
+    "minecraft launcher",
+    "minecraft pe",
+    "\u21b5 enter",
+    "wine",
+    "minecraft server",
+    "minecraft or mojang account",
+    "minecraft for windows",
+    "apt-get update and press \u21b5 enter",
+    "oracle-java8-installer",
+    "minecraft or mojang"
+  ],
+  "tyn_section":[
+
+  ]
+}

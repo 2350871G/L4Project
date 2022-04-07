@@ -1,0 +1,65 @@
+{
+  "title":"How to Create Mod Folders in Arma 2",
+  "url":"https://www.wikihow.com/Create-Mod-Folders-in-Arma-2",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC First Person Shooter"
+  ],
+  "steps":[
+    {
+      "headline":"Find and download an add-on you would like and save it to your desktop.",
+      "description":""
+    },
+    {
+      "headline":"Navigate to your Arma 2 folder.",
+      "description":"(C:\\Program Files\\Bohemia Interactive\\Arma 2)"
+    },
+    {
+      "headline":"Create a new folder and create a title with \"@\" before the text.",
+      "description":"(i.e., @example)"
+    },
+    {
+      "headline":"Inside of the folder you just created, make another folder titled \"addons\" This is where you will put your mod files.",
+      "description":""
+    },
+    {
+      "headline":"Go back to your desktop and open up the folder containing your mod.",
+      "description":"Inside it, you should find files with \".pb\" and \".disign\" at the end. These may be inside of an \"addons\" folder as well."
+    },
+    {
+      "headline":"Put the \".pb\" and \".disign\" files in the \"addons\" folder you created.",
+      "description":""
+    },
+    {
+      "headline":"In order to run your mods, you will need to put them into the target line of your Arma 2 shortcut icon.",
+      "description":""
+    },
+    {
+      "headline":"Right click on your Arma 2 icon, and select \"Properties.\"",
+      "description":""
+    },
+    {
+      "headline":"Click on the \"Shortcut\" tab in the window that comes up.",
+      "description":""
+    },
+    {
+      "headline":"Under \"Target Location\", you should see \"Target:\" and an area where you can edit text.",
+      "description":"Go all the way to the end, go over one space, and enter \"-mod=\"."
+    },
+    {
+      "headline":"To run your mods, simply type the file names in after \"-mod=\".",
+      "description":"You can separate different mods by entering a semicolon."
+    }
+  ],
+  "text":" Find and download an add-on you would like and save it to your desktop.  Navigate to your Arma 2 folder. (C:\\Program Files\\Bohemia Interactive\\Arma 2) Create a new folder and create a title with \"@\" before the text. (i.e., @example) Inside of the folder you just created, make another folder titled \"addons\" This is where you will put your mod files.  Go back to your desktop and open up the folder containing your mod. Inside it, you should find files with \".pb\" and \".disign\" at the end. These may be inside of an \"addons\" folder as well. Put the \".pb\" and \".disign\" files in the \"addons\" folder you created.  In order to run your mods, you will need to put them into the target line of your Arma 2 shortcut icon.  Right click on your Arma 2 icon, and select \"Properties.\"  Click on the \"Shortcut\" tab in the window that comes up.  Under \"Target Location\", you should see \"Target:\" and an area where you can edit text. Go all the way to the end, go over one space, and enter \"-mod=\". To run your mods, simply type the file names in after \"-mod=\". You can separate different mods by entering a semicolon.",
+  "tyn_model":[
+    "arma 2",
+    "mods"
+  ],
+  "tyn_section":[
+
+  ]
+}

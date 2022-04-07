@@ -1,0 +1,82 @@
+{
+  "title":"How to Graph a Parabola",
+  "url":"https://www.wikihow.com/Graph-a-Parabola",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Shapes"
+  ],
+  "parts":[
+    {
+      "name":"Graphing a Parabola",
+      "steps":[
+        {
+          "headline":"Understand the parts of a parabola.",
+          "description":"You may be given certain information prior to beginning, and knowing the terminology will help you avoid any unnecessary steps. Here are the parts of the parabola that you'll need to know: \n\nThe focus. A fixed point on the interior of the parabola that is used for the formal definition of the curve. The directrix. A fixed, straight line. The parabola is the locus (series) of points in which any given point is of equal distance from the focus and the directrix. (See the diagram above.) The axis of symmetry. This is a straight line that passes through the turning point (\"vertex\") of the parabola and is equidistant from corresponding points on the two arms of the parabola. The vertex. The point where the axis of symmetry crosses the parabola is called the vertex of the parabola. If the parabola opens upward or to the right, the vertex is a minimum point of the curve. If it opens downward or to the left, the vertex is a maximum point."
+        },
+        {
+          "headline":"Know the equation of a parabola.",
+          "description":"The general equation of a parabola is y = ax+ bx + c. It can also be written in the even more general form y = a(x \u2013 h)\u00b2 + k, but we will focus here on the first form of the equation. If the coefficient a in the equation is positive, the parabola opens upward (in a vertically oriented parabola), like the letter \"U\", and its vertex is a minimum point. If the a is negative, the parabola opens downward and has a vertex at its maximum point. If you have trouble remembering this, think of it this way: an equation with a positive a value looks like a smile; an equation with a negative a value looks like a frown. Let\u2019s say you have the following equation: y = 2x -1. This parabola will be shaped like a \"U\" because the a value (2) is positive. If the equation has a squared y term instead of a squared x term, the parabola will be oriented horizontally and open sideways, to the right or left, like a \"C\" or a backward \"C.\" For example, the parabola y = x + 3 opens to the right, like a \"C.\""
+        },
+        {
+          "headline":"Find the axis of symmetry.",
+          "description":"Remember that the axis of symmetry is the straight line that passes through the turning point (vertex) of the parabola. In the case of a vertical parabola (opening up or down), the axis is the same as the x coordinate of the vertex, which is the x-value of the point where the axis of symmetry crosses the parabola. To find the axis of symmetry, use this formula: x = -b/2a. In the above example (y = 2x\u00b2 -1), a = 2 and b = 0. Now you can calculate the axis of symmetry by plugging in the numbers: x = -0 / (2)(2) = 0. In this case the axis of symmetry is x = 0 (which is the y-axis of the coordinate plane)."
+        },
+        {
+          "headline":"Find the vertex.",
+          "description":"Once you know the axis of symmetry, you can plug that value in for x to get the y coordinate. These two coordinates will give you the vertex of the parabola. In this case, you would plug 0 in to 2x -1 to get the y coordinate. y = 2 x 0 -1 = 0 -1 = -1. The vertex is (0,-1), and the parabola crosses the y-axis at -1. The coordinates of the vertex are sometimes known as (h, k). In this case h is 0, and k is -1. The equation for the parabola may be written in the form y = a(x \u2013 h)\u00b2 + k. In this form the vertex is the point (h, k), and you don't need to do any math to find the vertex beyond interpreting the graph correctly."
+        },
+        {
+          "headline":"Set up a table with chosen values of x.",
+          "description":"Create a table with particular values of x in the first column. This table will give you the coordinates you need to graph the equation. The middle value of x should be the axis of symmetry in the case of a \"vertical\" parabola. You should include at least two values above and below the middle value for x in the table for the sake of symmetry. In this example, put the value of the axis of symmetry (x = 0) in the middle of the table."
+        },
+        {
+          "headline":"Calculate the values of corresponding y-coordinates.",
+          "description":"Substitute each value of x in the equation of the parabola, and calculate the corresponding values of y. Insert these calculated values of y into the table. In this example, the values of y are calculated as follows:\nFor x = -2, y is calculated as: y = (2) (-2) - 1 = 8 - 1 = 7\n\nFor x = -1, y is calculated as: y = (2) (-1) - 1 = 2 - 1 = 1\n\nFor x = 0, y is calculated as: y = (2) (0) - 1 = 0 - 1 = -1\n\nFor x = 1, y is calculated as: y = (2) (1) - 1 = 2 - 1 = 1\n\nFor x = 2, y is calculated as: y = (2) (2) - 1 = 8 - 1 = 7"
+        },
+        {
+          "headline":"Insert the calculated values of y into the table.",
+          "description":"Now that you've found at least five coordinate pairs for the parabola, you're almost ready to graph it. Based on your work, you now have the following points: (-2, 7), (-1, 1), (0, -1), (1, 1), (2, 7). Remember that the parabola is reflected (symmetrical) with respect to the axis of symmetry. This means that the y coordinates of points directly across the axis of symmetry from each other will be the same. The y-coordinates for the x-coordinates -2 and +2 are both 7; the y-coordinates for the x-coordinates -1 and +1 are both 1, and so on."
+        },
+        {
+          "headline":"Plot the table points on the coordinate plane.",
+          "description":"Each row of the table forms a coordinate pair (x, y) on the coordinate plane. Graph all points using the coordinates given in the table. The x-axis is horizontal; the y-axis is vertical. The positive numbers on the y-axis are above the point (0, 0), and the negative numbers on the y-axis are below the point (0, 0). The positive numbers on the x-axis are to the right of the point (0, 0), and the negative numbers on the x-axis are to the left of the point (0, 0)."
+        },
+        {
+          "headline":"Connect the points.",
+          "description":"To graph the parabola, connect the points plotted in the previous step. The graph in this example will look like a U. Connect the points using slightly curved (rather than straight) lines. This will create the most accurate image of the parabola (which is at least slightly curved throughout its length). At both ends of the parabola you can draw arrows pointing away from the vertex if you like. This will indicate that the parabola continues indefinitely."
+        }
+      ]
+    },
+    {
+      "name":"Shifting the Graph of a Parabola",
+      "steps":[
+        {
+          "headline":"Shift a parabola upward.",
+          "description":"Consider the equation y = x +1. This shifts the original parabola upward 1 unit. The vertex is now (0, 1) instead of (0, 0). It will retain the exact shape of the original parabola, but every y-coordinate will be shifted upward 1 unit. So, instead of (-1, 1) and (1, 1), we plot (-1, 2) and (1, 2)."
+        },
+        {
+          "headline":"Shift a parabola downward.",
+          "description":"Take the equation y = x -1. We're shifting the original parabola downward 1 unit, so that the vertex is now (0, -1) instead of (0, 0). It will still have the same shape of the original parabola, but every y-coordinate will be shifted downward 1 unit. So, instead of (-1, 1) and (1, 1), for instance, we plot (-1, 0) and (1, 0)."
+        },
+        {
+          "headline":"Shift a parabola to the left.",
+          "description":"Consider the equation y = (x + 1). This shifts the original parabola one unit to the left. The vertex is now (-1, 0) instead of (0, 0). It retains the shape of the original parabola, but every x-coordinate is shifted to the left one unit. Instead of (-1, 1) and (1, 1), for instance, we plot (-2, 1) and (0, 1)."
+        },
+        {
+          "headline":"Shift a parabola to the right.",
+          "description":"Consider the equation y = (x - 1). This is the original parabola shifted one unit to the right. The vertex is now (1, 0) instead of (0, 0). It retains the shape of the original parabola, but every x-coordinate will be shifted to the right one unit. Instead of (-1, 1) and (1, 1), for instance, we plot (0, 1) and (2, 1)."
+        }
+      ]
+    }
+  ],
+  "text":" Graphing a Parabola Understand the parts of a parabola. You may be given certain information prior to beginning, and knowing the terminology will help you avoid any unnecessary steps. Here are the parts of the parabola that you'll need to know: \n\nThe focus. A fixed point on the interior of the parabola that is used for the formal definition of the curve. The directrix. A fixed, straight line. The parabola is the locus (series) of points in which any given point is of equal distance from the focus and the directrix. (See the diagram above.) The axis of symmetry. This is a straight line that passes through the turning point (\"vertex\") of the parabola and is equidistant from corresponding points on the two arms of the parabola. The vertex. The point where the axis of symmetry crosses the parabola is called the vertex of the parabola. If the parabola opens upward or to the right, the vertex is a minimum point of the curve. If it opens downward or to the left, the vertex is a maximum point. Know the equation of a parabola. The general equation of a parabola is y = ax+ bx + c. It can also be written in the even more general form y = a(x \u2013 h)\u00b2 + k, but we will focus here on the first form of the equation. If the coefficient a in the equation is positive, the parabola opens upward (in a vertically oriented parabola), like the letter \"U\", and its vertex is a minimum point. If the a is negative, the parabola opens downward and has a vertex at its maximum point. If you have trouble remembering this, think of it this way: an equation with a positive a value looks like a smile; an equation with a negative a value looks like a frown. Let\u2019s say you have the following equation: y = 2x -1. This parabola will be shaped like a \"U\" because the a value (2) is positive. If the equation has a squared y term instead of a squared x term, the parabola will be oriented horizontally and open sideways, to the right or left, like a \"C\" or a backward \"C.\" For example, the parabola y = x + 3 opens to the right, like a \"C.\" Find the axis of symmetry. Remember that the axis of symmetry is the straight line that passes through the turning point (vertex) of the parabola. In the case of a vertical parabola (opening up or down), the axis is the same as the x coordinate of the vertex, which is the x-value of the point where the axis of symmetry crosses the parabola. To find the axis of symmetry, use this formula: x = -b/2a. In the above example (y = 2x\u00b2 -1), a = 2 and b = 0. Now you can calculate the axis of symmetry by plugging in the numbers: x = -0 / (2)(2) = 0. In this case the axis of symmetry is x = 0 (which is the y-axis of the coordinate plane). Find the vertex. Once you know the axis of symmetry, you can plug that value in for x to get the y coordinate. These two coordinates will give you the vertex of the parabola. In this case, you would plug 0 in to 2x -1 to get the y coordinate. y = 2 x 0 -1 = 0 -1 = -1. The vertex is (0,-1), and the parabola crosses the y-axis at -1. The coordinates of the vertex are sometimes known as (h, k). In this case h is 0, and k is -1. The equation for the parabola may be written in the form y = a(x \u2013 h)\u00b2 + k. In this form the vertex is the point (h, k), and you don't need to do any math to find the vertex beyond interpreting the graph correctly. Set up a table with chosen values of x. Create a table with particular values of x in the first column. This table will give you the coordinates you need to graph the equation. The middle value of x should be the axis of symmetry in the case of a \"vertical\" parabola. You should include at least two values above and below the middle value for x in the table for the sake of symmetry. In this example, put the value of the axis of symmetry (x = 0) in the middle of the table. Calculate the values of corresponding y-coordinates. Substitute each value of x in the equation of the parabola, and calculate the corresponding values of y. Insert these calculated values of y into the table. In this example, the values of y are calculated as follows:\nFor x = -2, y is calculated as: y = (2) (-2) - 1 = 8 - 1 = 7\n\nFor x = -1, y is calculated as: y = (2) (-1) - 1 = 2 - 1 = 1\n\nFor x = 0, y is calculated as: y = (2) (0) - 1 = 0 - 1 = -1\n\nFor x = 1, y is calculated as: y = (2) (1) - 1 = 2 - 1 = 1\n\nFor x = 2, y is calculated as: y = (2) (2) - 1 = 8 - 1 = 7 Insert the calculated values of y into the table. Now that you've found at least five coordinate pairs for the parabola, you're almost ready to graph it. Based on your work, you now have the following points: (-2, 7), (-1, 1), (0, -1), (1, 1), (2, 7). Remember that the parabola is reflected (symmetrical) with respect to the axis of symmetry. This means that the y coordinates of points directly across the axis of symmetry from each other will be the same. The y-coordinates for the x-coordinates -2 and +2 are both 7; the y-coordinates for the x-coordinates -1 and +1 are both 1, and so on. Plot the table points on the coordinate plane. Each row of the table forms a coordinate pair (x, y) on the coordinate plane. Graph all points using the coordinates given in the table. The x-axis is horizontal; the y-axis is vertical. The positive numbers on the y-axis are above the point (0, 0), and the negative numbers on the y-axis are below the point (0, 0). The positive numbers on the x-axis are to the right of the point (0, 0), and the negative numbers on the x-axis are to the left of the point (0, 0). Connect the points. To graph the parabola, connect the points plotted in the previous step. The graph in this example will look like a U. Connect the points using slightly curved (rather than straight) lines. This will create the most accurate image of the parabola (which is at least slightly curved throughout its length). At both ends of the parabola you can draw arrows pointing away from the vertex if you like. This will indicate that the parabola continues indefinitely. Shifting the Graph of a Parabola Shift a parabola upward. Consider the equation y = x +1. This shifts the original parabola upward 1 unit. The vertex is now (0, 1) instead of (0, 0). It will retain the exact shape of the original parabola, but every y-coordinate will be shifted upward 1 unit. So, instead of (-1, 1) and (1, 1), we plot (-1, 2) and (1, 2). Shift a parabola downward. Take the equation y = x -1. We're shifting the original parabola downward 1 unit, so that the vertex is now (0, -1) instead of (0, 0). It will still have the same shape of the original parabola, but every y-coordinate will be shifted downward 1 unit. So, instead of (-1, 1) and (1, 1), for instance, we plot (-1, 0) and (1, 0). Shift a parabola to the left. Consider the equation y = (x + 1). This shifts the original parabola one unit to the left. The vertex is now (-1, 0) instead of (0, 0). It retains the shape of the original parabola, but every x-coordinate is shifted to the left one unit. Instead of (-1, 1) and (1, 1), for instance, we plot (-2, 1) and (0, 1). Shift a parabola to the right. Consider the equation y = (x - 1). This is the original parabola shifted one unit to the right. The vertex is now (1, 0) instead of (0, 0). It retains the shape of the original parabola, but every x-coordinate will be shifted to the right one unit. Instead of (-1, 1) and (1, 1), for instance, we plot (0, 1) and (2, 1).",
+  "tyn_model":[
+    "\u2013 h)\u00b2",
+    "parabola",
+    "table"
+  ],
+  "tyn_section":[
+
+  ]
+}

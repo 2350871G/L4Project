@@ -1,0 +1,194 @@
+{
+  "title":"How to Read Schematics",
+  "url":"https://www.wikihow.com/Read-Schematics",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "methods":[
+    {
+      "name":"Assessing Basic Circuit Components",
+      "steps":[
+        {
+          "headline":"Look for circles filled with symbols that signify the power source.",
+          "description":"Scan over your schematics to figure out where your electrical currents are generated. Note that standard power sources are labeled with a circle that\u2019s filled with a plus or minus sign, while an \u201cideal\u201d source looks like a circle with a horizontal line splitting it in half. If a power source has an alternating current (AC), you\u2019ll see a squiggly line drawn in the middle of the circle. If the power source has a direct current (DC), you\u2019ll see a plus and minus sign on the top and bottom of the circle, respectively. Constant power sources are indicated with a downward facing arrow in the middle of the circle. The power source sends different types of electrical currents throughout the circuit."
+        },
+        {
+          "headline":"Understand that straight lines signify conductors.",
+          "description":"Look around your schematic for horizontal and vertical straight lines in a variety of lengths and sizes. Note that these lines represent conductors, which are the different wires that make up the circuit. Check for the complete loops that the conductors form, which allow electricity to flow throughout the circuit. Conductors aren\u2019t represented by any type of fancy symbol."
+        },
+        {
+          "headline":"Identify connected rectangles as electrical loads.",
+          "description":"Look for conductors and resistors creating a completed rectangle, or circuit. Search for specific labels that specify \u201cV-Out,\u201d which demonstrates how much energy the circuit uses. Electrical loads might be difficult to identify in complex schematics. Try looking up pictures of simple electrical loads to get the basic idea."
+        },
+        {
+          "headline":"Note that resistors are marked by a zig zag line or rectangle.",
+          "description":"Scan over your schematics and look for any distinct blocks or angled lines in the plans. You might see different notations for resistors, depending on the design style of the schematic. Don\u2019t be surprised if you see this symbol throughout the document\u2014since resistors work to control the amount of electricity used in a given circuit, they\u2019re very common and necessary to any functioning wiring system. Variable resistors look like a zig zag line with a diagonal line going through the center."
+        },
+        {
+          "headline":"Identify capacitors as a stack of upright and inverted \u201cT\u201d shapes.",
+          "description":"Search for a collection of lines within your schematic that are stacked and condensed in a single area. While other symbols, like the battery, have this type of design, note that capacitors look like an upside-down \u201cT\u201d placed on top of a regular \u201cT,\u201d with a horizontal gap between both. Since capacitors hold onto an electrical charge in the circuit, you\u2019ll see this symbol frequently in your schematics. You might see a plus sign in the top left corner of the capacitor symbol. This indicates that the capacitor is polarized. Some capacitors are made with curved horizontal lines."
+        },
+        {
+          "headline":"Note that inductors are marked with a curved or curly line.",
+          "description":"Search for squiggled or coiled lines condensed in a single area. Note that inductors are used to store electricity, and can also send electricity back to other parts of the circuit. Physically, inductors are coiled pieces of wire, which explains their shape in the schematic.Warning: Don\u2019t confuse the inductor symbol with the transformer symbol, which looks like 2 vertical, parallel inductors separated by 2 vertical lines."
+        },
+        {
+          "headline":"Locate switches by finding a series of connected circles and lines.",
+          "description":"Look for an angled or horizontal line that\u2019s positioned near 2 or more open circles. Remember that simple switches will have fewer lines and circles, while more complex switches can have at least 6 lines and open circles. The switch opens and closes the flow of an electric current. Some switches might not have open circles at all. The lines represent \u201cpoles,\u201d while the circles represent \u201cthrows.\u201d The most simple switch is known as a \u201csingle-pole/single-throw.\u201d\nThe open circles represent the terminals in the switch."
+        }
+      ]
+    },
+    {
+      "name":"Evaluating Components in Advanced Circuits",
+      "steps":[
+        {
+          "headline":"Find diodes by looking for a triangle next to a straight line.",
+          "description":"Search for rightward facing triangle along the lines of your schematics. Note that diodes force electrical currents in a single direction, which is why the symbol resembles an arrow. Look for a straight line along the pointed corner of the triangle, which signifies the specific direction that the current is going.Did you know? LED diode symbols look similar to the traditional icon; however, the straight line at the end of the pointed triangle is more angular."
+        },
+        {
+          "headline":"Note that transistors are 2 angled lines attached to a vertical line.",
+          "description":"Look for a series of connected lines clustered into 1 area of the schematic. Specifically, search for a short horizontal line that\u2019s connected to a long vertical line. As you\u2019re looking for this symbol, note that transistors switch the current flow of electricity within the circuit. Transistors will have 2 angled lines entering and exiting the long vertical line. One of these lines will be an arrow."
+        },
+        {
+          "headline":"Identify digital logic gates as curved rectangles or triangles with lines.",
+          "description":"If your schematic is more advanced, you might see a digital logic gate, which resembles a curved shape attached to short, parallel lines. Note that a standard digital logical gate has 2 parallel lines attached to the left side of the shape, with a single horizontal line emerging from the right side. More complex symbols might have open circles attached to the short lines. Digital logic gates help manage multiple inputs, and are used in more complex circuits."
+        },
+        {
+          "headline":"Note that crystals are rectangles flanked by sideways \u201cT\u201ds.",
+          "description":"If you\u2019re looking for a consistent frequency output in your schematic, look for a tall, open rectangle. Once you find this symbol, check the left and right sides to see if there are sideways \u201cT\u201ds surrounding the rectangle. If you see these lines, then you\u2019ve successfully located your crystal. This is also the symbol for oscillators and resonators. All 3 of these items give off frequencies when actively used in a circuit. Crystals help connect multiple electronic parts."
+        },
+        {
+          "headline":"Note that integrated circuits are rectangles connected to 8 small lines.",
+          "description":"Search for a chunky rectangle in your schematics that almost resembles a square. Specifically, look for a shape that resembles a spider and has 4 short lines (or \u201clegs\u201d) coming out of each side. Keep in mind that integrated circuits work as an independent unit within a circuit, and usually play a complex role in your schematics. The short lines attached to the box shape are known as \u201cpins.\u201d"
+        },
+        {
+          "headline":"Find operational amplifiers by looking for a right-facing triangle.",
+          "description":"Look for sideways triangles scattered throughout your schematics. Unlike diodes, note that operational amplifiers aren\u2019t attached to any vertical lines. Instead, look for short, horizontal lines attached to the edges of the symbol. Operational amplifiers help combine a negative and positive voltage source into 1 output. You\u2019ll often see \u201cV-in\u201d and \u201cV-out\u201d labels surrounding the triangle symbol, which indicate where the voltage goes in and out. Operational amplifiers have a plus and minus sign on the top and bottom corners on the left side."
+        },
+        {
+          "headline":"Locate the battery by finding a stack of long and short lines.",
+          "description":"Search for an inverted \u201cT\u201d that\u2019s stacked on top of a shorter horizontal line and a regular \u201cT.\u201d Check in the upper and lower right corners for a plus and minus sign, as well. There are gaps between all the lines in the battery symbol. Batteries help convert chemical energy into electrical currents."
+        },
+        {
+          "headline":"Search for circles connected with a squiggly line to find the fuse.",
+          "description":"Scan the schematics for 2 open circles sandwiched between 2 short horizontal lines. Look between these 2 circles to find a squiggle that rises and falls from left to right. Fuses prevent circuits from burning out from too much current. Batteries serve as an extra energy source in the circuit."
+        }
+      ]
+    },
+    {
+      "name":"Reading Abbreviations Correctly",
+      "steps":[
+        {
+          "headline":"Label common electrical components by their first letter.",
+          "description":"Look beneath or next to different schematic symbols to confirm their use and purpose within the circuit. Note that resistors, capacitors, diodes, and switches are all labeled with the first letter of their name, while transistors are marked with the letter \u201cQ.\u201d Pay attention to crystals and oscillators, as well as integrated circuits and inductors\u2014these are noted with the letters \u201cY,\u201d \u201cU,\u201d and \u201cL,\u201d respectively. Fuse, hardware, and transformer are all labeled with the first letter of their name. Battery is referred to as \u201cB\u201d or \u201cBT.\u201d"
+        },
+        {
+          "headline":"Use numbers to identify more than 1 electrical component.",
+          "description":"Zoom in on a specific section of your schematic to examine the different labels for the electrical components. If your schematic is especially complex, you\u2019ll see numbers next to the letter abbreviation. Keep track of these labels to understand which component is which. For example, if you see \u201cR1,\u201d \u201cR2,\u201d and \u201cR3\u201d in 1 area of your schematic, it means that there are 3 resistors."
+        },
+        {
+          "headline":"Substitute \u201cohms\u201d and \u201cmicro\u201d with Greek letters.",
+          "description":"Keep an eye out for the Greek letters \u201cmu\u201d and \u201comega\u201d in different schematic labels. Note that the \u201comega\u201d symbol stands for \u201cohms,\u201d while \u201cmu\u201d equals \u201cmicro.\u201d\nFor instance, the label 12\u03bcF equals 12 microfarad."
+        }
+      ]
+    },
+    {
+      "name":"Analyzing Different Circuit Connections",
+      "steps":[
+        {
+          "headline":"Look for components connected by straight or vertical lines.",
+          "description":"View your schematics as an interconnecting puzzle, focusing specifically on which components connect with one another. If you see a straight line going between 2 separate components, then you can know for sure that those 2 elements are connected in the circuit. For example, if you see a straight horizontal line going between a battery symbol and a switch symbol, you can know that those components are connected."
+        },
+        {
+          "headline":"Identify junctions as multiple connected lines.",
+          "description":"Look for lines that split into multiple branches, connecting to other elements of the circuit. Refer to these lines as junctions, as they allow multiple components to interconnect and work together. If you ever feel overwhelmed looking at many overlapping lines, try breaking the schematic into smaller chunks."
+        },
+        {
+          "headline":"Identify connected junctions with a dot in the center.",
+          "description":"Look for overlapping or connected lines that are marked with a closed, filled dot. If you see this dot, you can know for sure that these lines are all connected to one another. If you don\u2019t see this dot, note that the lines are overlapping, but not connected. Junctions identify where different electrical lines cross over one another. Some of these lines are connected, while other lines just pass one another.Did you know? There are different design formats for schematics. Some documents use a closed dot or lack thereof to indicate a connected and disconnected junction. Other schematics will use overlapping lines and lines with small curves to indicate this difference."
+        }
+      ]
+    }
+  ],
+  "text":" Assessing Basic Circuit Components Look for circles filled with symbols that signify the power source. Scan over your schematics to figure out where your electrical currents are generated. Note that standard power sources are labeled with a circle that\u2019s filled with a plus or minus sign, while an \u201cideal\u201d source looks like a circle with a horizontal line splitting it in half. If a power source has an alternating current (AC), you\u2019ll see a squiggly line drawn in the middle of the circle. If the power source has a direct current (DC), you\u2019ll see a plus and minus sign on the top and bottom of the circle, respectively. Constant power sources are indicated with a downward facing arrow in the middle of the circle. The power source sends different types of electrical currents throughout the circuit. Understand that straight lines signify conductors. Look around your schematic for horizontal and vertical straight lines in a variety of lengths and sizes. Note that these lines represent conductors, which are the different wires that make up the circuit. Check for the complete loops that the conductors form, which allow electricity to flow throughout the circuit. Conductors aren\u2019t represented by any type of fancy symbol. Identify connected rectangles as electrical loads. Look for conductors and resistors creating a completed rectangle, or circuit. Search for specific labels that specify \u201cV-Out,\u201d which demonstrates how much energy the circuit uses. Electrical loads might be difficult to identify in complex schematics. Try looking up pictures of simple electrical loads to get the basic idea. Note that resistors are marked by a zig zag line or rectangle. Scan over your schematics and look for any distinct blocks or angled lines in the plans. You might see different notations for resistors, depending on the design style of the schematic. Don\u2019t be surprised if you see this symbol throughout the document\u2014since resistors work to control the amount of electricity used in a given circuit, they\u2019re very common and necessary to any functioning wiring system. Variable resistors look like a zig zag line with a diagonal line going through the center. Identify capacitors as a stack of upright and inverted \u201cT\u201d shapes. Search for a collection of lines within your schematic that are stacked and condensed in a single area. While other symbols, like the battery, have this type of design, note that capacitors look like an upside-down \u201cT\u201d placed on top of a regular \u201cT,\u201d with a horizontal gap between both. Since capacitors hold onto an electrical charge in the circuit, you\u2019ll see this symbol frequently in your schematics. You might see a plus sign in the top left corner of the capacitor symbol. This indicates that the capacitor is polarized. Some capacitors are made with curved horizontal lines. Note that inductors are marked with a curved or curly line. Search for squiggled or coiled lines condensed in a single area. Note that inductors are used to store electricity, and can also send electricity back to other parts of the circuit. Physically, inductors are coiled pieces of wire, which explains their shape in the schematic.Warning: Don\u2019t confuse the inductor symbol with the transformer symbol, which looks like 2 vertical, parallel inductors separated by 2 vertical lines. Locate switches by finding a series of connected circles and lines. Look for an angled or horizontal line that\u2019s positioned near 2 or more open circles. Remember that simple switches will have fewer lines and circles, while more complex switches can have at least 6 lines and open circles. The switch opens and closes the flow of an electric current. Some switches might not have open circles at all. The lines represent \u201cpoles,\u201d while the circles represent \u201cthrows.\u201d The most simple switch is known as a \u201csingle-pole/single-throw.\u201d\nThe open circles represent the terminals in the switch. Evaluating Components in Advanced Circuits Find diodes by looking for a triangle next to a straight line. Search for rightward facing triangle along the lines of your schematics. Note that diodes force electrical currents in a single direction, which is why the symbol resembles an arrow. Look for a straight line along the pointed corner of the triangle, which signifies the specific direction that the current is going.Did you know? LED diode symbols look similar to the traditional icon; however, the straight line at the end of the pointed triangle is more angular. Note that transistors are 2 angled lines attached to a vertical line. Look for a series of connected lines clustered into 1 area of the schematic. Specifically, search for a short horizontal line that\u2019s connected to a long vertical line. As you\u2019re looking for this symbol, note that transistors switch the current flow of electricity within the circuit. Transistors will have 2 angled lines entering and exiting the long vertical line. One of these lines will be an arrow. Identify digital logic gates as curved rectangles or triangles with lines. If your schematic is more advanced, you might see a digital logic gate, which resembles a curved shape attached to short, parallel lines. Note that a standard digital logical gate has 2 parallel lines attached to the left side of the shape, with a single horizontal line emerging from the right side. More complex symbols might have open circles attached to the short lines. Digital logic gates help manage multiple inputs, and are used in more complex circuits. Note that crystals are rectangles flanked by sideways \u201cT\u201ds. If you\u2019re looking for a consistent frequency output in your schematic, look for a tall, open rectangle. Once you find this symbol, check the left and right sides to see if there are sideways \u201cT\u201ds surrounding the rectangle. If you see these lines, then you\u2019ve successfully located your crystal. This is also the symbol for oscillators and resonators. All 3 of these items give off frequencies when actively used in a circuit. Crystals help connect multiple electronic parts. Note that integrated circuits are rectangles connected to 8 small lines. Search for a chunky rectangle in your schematics that almost resembles a square. Specifically, look for a shape that resembles a spider and has 4 short lines (or \u201clegs\u201d) coming out of each side. Keep in mind that integrated circuits work as an independent unit within a circuit, and usually play a complex role in your schematics. The short lines attached to the box shape are known as \u201cpins.\u201d Find operational amplifiers by looking for a right-facing triangle. Look for sideways triangles scattered throughout your schematics. Unlike diodes, note that operational amplifiers aren\u2019t attached to any vertical lines. Instead, look for short, horizontal lines attached to the edges of the symbol. Operational amplifiers help combine a negative and positive voltage source into 1 output. You\u2019ll often see \u201cV-in\u201d and \u201cV-out\u201d labels surrounding the triangle symbol, which indicate where the voltage goes in and out. Operational amplifiers have a plus and minus sign on the top and bottom corners on the left side. Locate the battery by finding a stack of long and short lines. Search for an inverted \u201cT\u201d that\u2019s stacked on top of a shorter horizontal line and a regular \u201cT.\u201d Check in the upper and lower right corners for a plus and minus sign, as well. There are gaps between all the lines in the battery symbol. Batteries help convert chemical energy into electrical currents. Search for circles connected with a squiggly line to find the fuse. Scan the schematics for 2 open circles sandwiched between 2 short horizontal lines. Look between these 2 circles to find a squiggle that rises and falls from left to right. Fuses prevent circuits from burning out from too much current. Batteries serve as an extra energy source in the circuit. Reading Abbreviations Correctly Label common electrical components by their first letter. Look beneath or next to different schematic symbols to confirm their use and purpose within the circuit. Note that resistors, capacitors, diodes, and switches are all labeled with the first letter of their name, while transistors are marked with the letter \u201cQ.\u201d Pay attention to crystals and oscillators, as well as integrated circuits and inductors\u2014these are noted with the letters \u201cY,\u201d \u201cU,\u201d and \u201cL,\u201d respectively. Fuse, hardware, and transformer are all labeled with the first letter of their name. Battery is referred to as \u201cB\u201d or \u201cBT.\u201d Use numbers to identify more than 1 electrical component. Zoom in on a specific section of your schematic to examine the different labels for the electrical components. If your schematic is especially complex, you\u2019ll see numbers next to the letter abbreviation. Keep track of these labels to understand which component is which. For example, if you see \u201cR1,\u201d \u201cR2,\u201d and \u201cR3\u201d in 1 area of your schematic, it means that there are 3 resistors. Substitute \u201cohms\u201d and \u201cmicro\u201d with Greek letters. Keep an eye out for the Greek letters \u201cmu\u201d and \u201comega\u201d in different schematic labels. Note that the \u201comega\u201d symbol stands for \u201cohms,\u201d while \u201cmu\u201d equals \u201cmicro.\u201d\nFor instance, the label 12\u03bcF equals 12 microfarad. Analyzing Different Circuit Connections Look for components connected by straight or vertical lines. View your schematics as an interconnecting puzzle, focusing specifically on which components connect with one another. If you see a straight line going between 2 separate components, then you can know for sure that those 2 elements are connected in the circuit. For example, if you see a straight horizontal line going between a battery symbol and a switch symbol, you can know that those components are connected. Identify junctions as multiple connected lines. Look for lines that split into multiple branches, connecting to other elements of the circuit. Refer to these lines as junctions, as they allow multiple components to interconnect and work together. If you ever feel overwhelmed looking at many overlapping lines, try breaking the schematic into smaller chunks. Identify connected junctions with a dot in the center. Look for overlapping or connected lines that are marked with a closed, filled dot. If you see this dot, you can know for sure that these lines are all connected to one another. If you don\u2019t see this dot, note that the lines are overlapping, but not connected. Junctions identify where different electrical lines cross over one another. Some of these lines are connected, while other lines just pass one another.Did you know? There are different design formats for schematics. Some documents use a closed dot or lack thereof to indicate a connected and disconnected junction. Other schematics will use overlapping lines and lines with small curves to indicate this difference.",
+  "tyn_model":[
+    "\u201d and",
+    "conductors",
+    "electricity",
+    "\u201ct",
+    "battery",
+    "transistors",
+    "amplifiers",
+    "resistors",
+    "\u201cv",
+    "capacitors",
+    "diodes",
+    "integrated circuits",
+    "schematic",
+    "electrical loads",
+    "\u201d with",
+    "\u201d while",
+    "\u201d\n",
+    "digital logic gates",
+    "\u201ct\u201ds",
+    "\u201d \u201c",
+    "\u201d in",
+    "\u201cohms",
+    "\u201cmicro",
+    "\u201cmu",
+    "\u201comega",
+    "\u201cideal",
+    "\u201d source",
+    "\u201d which",
+    "\u2014since",
+    "\u201d shapes",
+    "\u201d placed",
+    "capacitor",
+    "wire",
+    "electric current",
+    "\u201cpoles",
+    "\u201cthrows",
+    "\u201d the",
+    "\u201csingle",
+    "led diode symbols",
+    "digital logic gate",
+    "crystal",
+    "resonators",
+    "crystals",
+    "\u201clegs",
+    "\u201d)",
+    "\u201cpins",
+    "\u201d find",
+    "\u201d labels",
+    "\u201d that",
+    "\u201ct.",
+    "\u201d check",
+    "batteries",
+    "fuse",
+    "\u201cq.",
+    "\u201d pay",
+    "\u2014these",
+    "\u201cy",
+    "\u201cl",
+    "\u201d respectively",
+    "hardware",
+    "transformer",
+    "\u201cb",
+    "\u201d or",
+    "\u201cbt",
+    "\u201d use",
+    "numbers",
+    "\u201cr1",
+    "\u201cr3",
+    "\u201d symbol",
+    "\u201d equals",
+    "electrical lines",
+    "schematics"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title":"How to Set up a Cnc Milling Machine",
+  "url":"https://www.wikihow.com/Set-up-a-Cnc-Milling-Machine",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Tools",
+    "Industrial Machinery and Tools"
+  ],
+  "steps":[
+    {
+      "headline":"Clean all surfaces, for example table, vise jaws and part very good with a lint free cloth.",
+      "description":""
+    },
+    {
+      "headline":"Load tools needed.",
+      "description":"(including edge finder)"
+    },
+    {
+      "headline":"Load part in vise or however your work holding is going to be.",
+      "description":""
+    },
+    {
+      "headline":"Set work fixture offsets.",
+      "description":"Make sure the machine is using the WFO that  the program will be using. If not, switch to MDI mode, type in G54, or  G55, or G54.1P15, what ever the program will be using. Hit Cycle Start. Using an edge finder, pick up the X0. position the programmer had  previously established. Go to your WFO page and add the machines  absolute X value to the value currently in the WFO's X registry. Do the  same for the Y axis."
+    },
+    {
+      "headline":"Set the tool length offset for each tool by loading first tool in  spindle.",
+      "description":"Manually move the Z axis down until the tool's tip is near the  Z0. position the programmer had previously established. Get a piece of  0.001\" shim stock and hold it between the part and the tip of the tool. Carefully and lower the Z axis in 0.0001\" increments until the shim  stock can be pulled with a slight drag. Go to your tool length offset  page and enter the machine's absolute Z value plus -0.001 in the tools registry. Repeat procedure to additional tools. Note: -0.001 is added for the shim stock's thickness."
+    },
+    {
+      "headline":"Enter any diameter offsets that may need to be entered if tool radius compensation will be used in the tool offset page.",
+      "description":""
+    },
+    {
+      "headline":"Adjust coolant lines so coolant can properly cool tools and wash chips away.",
+      "description":""
+    },
+    {
+      "headline":"Put machine in slow rapid, Single Block and then press Cycle Start.",
+      "description":"Be careful and read every block programmed and watch each movement the machine makes ready to stop the machine in case there are any programming errors. (You could also run the program 5\" or whatever above the part to make sure every thing is good and use Dry Run if you feel it necessary.)"
+    }
+  ],
+  "text":" Clean all surfaces, for example table, vise jaws and part very good with a lint free cloth.  Load tools needed. (including edge finder) Load part in vise or however your work holding is going to be.  Set work fixture offsets. Make sure the machine is using the WFO that  the program will be using. If not, switch to MDI mode, type in G54, or  G55, or G54.1P15, what ever the program will be using. Hit Cycle Start. Using an edge finder, pick up the X0. position the programmer had  previously established. Go to your WFO page and add the machines  absolute X value to the value currently in the WFO's X registry. Do the  same for the Y axis. Set the tool length offset for each tool by loading first tool in  spindle. Manually move the Z axis down until the tool's tip is near the  Z0. position the programmer had previously established. Get a piece of  0.001\" shim stock and hold it between the part and the tip of the tool. Carefully and lower the Z axis in 0.0001\" increments until the shim  stock can be pulled with a slight drag. Go to your tool length offset  page and enter the machine's absolute Z value plus -0.001 in the tools registry. Repeat procedure to additional tools. Note: -0.001 is added for the shim stock's thickness. Enter any diameter offsets that may need to be entered if tool radius compensation will be used in the tool offset page.  Adjust coolant lines so coolant can properly cool tools and wash chips away.  Put machine in slow rapid, Single Block and then press Cycle Start. Be careful and read every block programmed and watch each movement the machine makes ready to stop the machine in case there are any programming errors. (You could also run the program 5\" or whatever above the part to make sure every thing is good and use Dry Run if you feel it necessary.)",
+  "tyn_model":[
+    "edge finder",
+    "lint free cloth",
+    "vise",
+    "spindle",
+    "coolant"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "title":"How to Start Your Own Radio Station",
+  "url":"https://www.wikihow.com/Start-Your-Own-Radio-Station",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "parts":[
+    {
+      "name":"Setting Up a Basic Internet Radio Station",
+      "steps":[
+        {
+          "headline":"Plug a cable into your computer.",
+          "description":"Plug a male-to-male 3.5 mm RCA cable into the headphone and microphone jacks on your computer. Plugging one end into headphone jack will cause any audio you play on your computer to go through the cable. Plugging the other end into the microphone jack will allow whatever you're playing on your computer to be broadcast to anyone you stream with. You can get the appropriate cable from most music stores or large stores like Walmart."
+        },
+        {
+          "headline":"Sign into an online streaming service.",
+          "description":"Once you have your cable properly set up, sign into any streaming service that you would normally use to talk to your friends online. This could be something like Skype, Twitch, Ustream.tv. If you want to broadcast to more than one person, you'll need either the premium Skype subscription or to use a streaming service that allows for group chats."
+        },
+        {
+          "headline":"Play your audio.",
+          "description":"Choose the mp3 player you'd like to use to create and play your playlists for your station. You can use something like iTunes or even YouTube to play music. If you're interested in talk radio, you can record your own audio and then play it back directly from your recording software. Because you'll have a cable plugged in to the microphone and headphone jacks, anyone you stream with will hear the audio you play on your computer. Keep in mind that with your microphone jack occupied, though, you won't be able to add any live commentary without unplugging it each time."
+        },
+        {
+          "headline":"Use a radio station website.",
+          "description":"If you don't want to mess around with cables, you can use a subscription website that creates a radio station for you. Radioking.com, airtime.pro or looksomething.com only require that you pay for and log in to their services. You choose your audience size, the type of music you want to play, and the website does the rest.This is not necessarily the best option if you want to broadcast something other than music, because you can only choose the types of files that the website provides."
+        }
+      ]
+    },
+    {
+      "name":"Downloading the Appropriate Files",
+      "steps":[
+        {
+          "headline":"Choose software.",
+          "description":"To create a more professional sounding radio station than what you'll get with a basic streaming set up, you'll need software or apps. You'll need an app to play music or other audio, to turn your audio feed into an audio stream that can be broadcast, and one to act as your server. There are a lot of options for these types of apps and software, but the easiest to work with are Winamp (for playing audio files), Edcast (for turning your audio feed into a stream), and Icecast2 (for your server)."
+        },
+        {
+          "headline":"Download an mp3 DLL file.",
+          "description":"To broadcast the audio from your computer over a server, you'll need to download a DLL \u2013 which stands for Dynamic Link Library \u2013 file. This type of file keeps all of your mp3 files in one place and allows the other software you need to load the mp3s one at a time. This frees up memory and storage space on your computer. For an online radio station, you'll want to download lame_enc.dll. Type the DLL name into your favorite search engine, followed by \u201cdownload\u201d and it should pop up. This DLL will allow you to broadcast in mp3 formats, and is also compatible with older players you're your audience might use. This DLL will download as a zipped version, so you'll have to open the zipped file to access the individual files you need."
+        },
+        {
+          "headline":"Insert the DLL into the Winamp app's root directory.",
+          "description":"Because you're using Winamp to share your audio, you'll need to insert the DLL file into Winamp's root directory. This basically makes the audio files on Winamp accessible to the other software you need to broadcast your radio station. To do this, find Winamp in the program files on your computer. Open the Winamp program file (C:/Program Files/Winamp) and insert the DLL file where it asks for the source."
+        }
+      ]
+    },
+    {
+      "name":"Setting Up Your Server",
+      "steps":[
+        {
+          "headline":"Estimate size of audience.",
+          "description":"Once you have all of the software you need for your radio station, you'll need to figure out how many people you want in your audience. This will affect the size and type of server you need. It's probably best to start with a smaller number and change it if the radio station becomes more popular. Ten is usually a good start."
+        },
+        {
+          "headline":"Calculate your required bandwidth.",
+          "description":"Once you know how many people you want to broadcast to, you can calculate the amount of bandwidth your radio station requires. High quality mp3 broadcasts require an upload speed of about 192 kilobits per second (kpbs). Multiple this by the number of listeners you expect (or want). This will give you your radio station's required bandwidth. So, for example, if you want 10 listeners, your bandwidth would be 10 x 192 = 1920 kbps."
+        },
+        {
+          "headline":"Consider a dedicated radio station server.",
+          "description":"Most home internet connections have a maximum upload speed of around 500 mbps. This means you could really only broadcast to about two people, and you would be using up most of your upload speed on the station. If this is the case, you might want to consider getting a separate server. They cost around $6 per month for an ad-free option. You can also use a free server, but these will give your listeners ads. Some will just show the ads in their web browser instead of interrupting the audio coming from their radio station. Check out FreemStreamHosting.org for one example."
+        },
+        {
+          "headline":"Get the server's host's information.",
+          "description":"For your radio station to stream to the external server, you'll need some information from the host. Make sure you get their IP address or URL, correct port number, stream password, and server type (usually Shoutcast for an external server). You'll need to plug this information in later."
+        },
+        {
+          "headline":"Edit the server's configuration menu.",
+          "description":"To get your server up and running, you'll need to edit the configuration menu to make sure that the server broadcasts your audio from the correct files. Open your server app (ShoutCast for an external server or IceCast2 if you're using your home server), and click \u201cEdit Configuration.\u201d Then change some of the information within it. The \u201csources tag\u201d should list your maximum audience size, the \u201csource-password\u201d should be the password for your stream app (EdCast in this example), and the \u201chostname\u201d tag should be your IP address. Set the \u201cport\u201d tag to 8000. For the IP address, you'll either need to enter your own IP address if you're broadcasting from your home server, or the IP address of your external server. You should get the external server address from your server host, and you can find your own IP address at WhatsmyIP.net"
+        },
+        {
+          "headline":"Save the server configuration.",
+          "description":"Once you're done editing, click save. You should save the server configuration as icecast.xml or shoutcast.xml in the IceCast2 or ShoutCast root directory. When you're saving, this will come up as C:/ProgramFiles/icecast2 or C:/ProgramFiles/shoutcast."
+        },
+        {
+          "headline":"Launch your server.",
+          "description":"Once you have your server configured, you'll need to start it up to prepare it for your radio station. Open your server app and click \u201cstart server\u201d in the app's main window."
+        }
+      ]
+    },
+    {
+      "name":"Setting Up Your Source Apps",
+      "steps":[
+        {
+          "headline":"Download the Edcast Winamp plugin.",
+          "description":"Once you have both Winamp (for playing audio) and Edcast (for turning your audio feed into an open stream), you'll need the plugin that allows Edcast to use Winamp as its source. Open Winamp, then click on \u201cOptions,\u201d then \u201cPreferences,\u201d then \u201cPlugins.\u201d Under \u201cPlugins\u201d select \u201cDSP/Effect\u201d and then choose \u201cedcast DSP v3 [dsp_edcast.dll]\u201d. Click \u201cconfigure active plugin\u201d to install the plugin to Winamp."
+        },
+        {
+          "headline":"Set Edcast's output source.",
+          "description":"Once you've set Winamp to use Edcast as its input source, you'll need to set Edcast to output to Winamp. Open Edcast and click on the picture of the microphone on the main page. This turns your computer's microphone off as Edcast's source of sound. If you disable the mic, the Edcast Winamp plugin will make Edcast automatically choose Winamp for its output."
+        },
+        {
+          "headline":"Configure the source app for your chosen server.",
+          "description":"Open your Edcast app and click \u201cadd encoder.\u201d This allows you to link Edcast to your server settings. Input your server type (Shoutcast if you're using an external server, IceCast2 if you're using your own), your server's IP and the port number and password for the app."
+        },
+        {
+          "headline":"Set the encoder type.",
+          "description":"Setting the encoder type tells your apps what type of audio files they should broadcast. Usually ACC or MP3 files are the best, because most players can play both of these files. AAC+ files are okay if you are broadcasting at a lower bit rate, but the sound isn't always great, and not every player can play it."
+        }
+      ]
+    },
+    {
+      "name":"Streaming to Listeners",
+      "steps":[
+        {
+          "headline":"Get licensed.",
+          "description":"There are very specific rules governing how you can broadcast music. To protect yourself from any sort of lawsuit, you'll want to get licensed to play music. You can use a licensing server like Live365.com or Loud-City to do this without having to get individual permission from each artist whose music you want to play. These services require that you pay a monthly fee based on your audience size."
+        },
+        {
+          "headline":"Record audio.",
+          "description":"If you're starting a news/talk radio station rather than a music station, you'll need to create your own audio files instead of just relying on music playlists. Most computers come with some type of audio recording software, which you can use to record the audio you want your listeners to hear."
+        },
+        {
+          "headline":"Connect from your audio stream app.",
+          "description":"Once you have your server and other apps configured, you're ready to connect to your audience. Open Edcast's main window and click \u201cConnect.\u201d This connects your server to your playing app."
+        },
+        {
+          "headline":"Play your audio.",
+          "description":"Open Winamp and begin playing your audio, whether music or talk. With your audio stream app open and connected to your server, you'll start streaming right away."
+        },
+        {
+          "headline":"Share your URL.",
+          "description":"There's no point in broadcasting your radio station if no one is listening, so you'll want to make sure you share the URL of your station. If you have an external server, you'll get a separate URL from the server host. If you're using your own server through IceCast2, your radio stream will be http://(youripaddress):(port)/(mountpoint), without parentheses. You can find all of this information in the configuration page of your server app. Share your URL everywhere you can think of \u2013 social media, by telling your friends or family in person, or even putting up signs at your favorite places to hang out. If you don't want to share a URL with your IP address, you can also register your own domain name for free at http://dyn.com/dns/?rdr=dyndnsorg. This will also allow you to choose a website name that tells your audience what they're listening to."
+        }
+      ]
+    }
+  ],
+  "text":" Setting Up a Basic Internet Radio Station Plug a cable into your computer. Plug a male-to-male 3.5 mm RCA cable into the headphone and microphone jacks on your computer. Plugging one end into headphone jack will cause any audio you play on your computer to go through the cable. Plugging the other end into the microphone jack will allow whatever you're playing on your computer to be broadcast to anyone you stream with. You can get the appropriate cable from most music stores or large stores like Walmart. Sign into an online streaming service. Once you have your cable properly set up, sign into any streaming service that you would normally use to talk to your friends online. This could be something like Skype, Twitch, Ustream.tv. If you want to broadcast to more than one person, you'll need either the premium Skype subscription or to use a streaming service that allows for group chats. Play your audio. Choose the mp3 player you'd like to use to create and play your playlists for your station. You can use something like iTunes or even YouTube to play music. If you're interested in talk radio, you can record your own audio and then play it back directly from your recording software. Because you'll have a cable plugged in to the microphone and headphone jacks, anyone you stream with will hear the audio you play on your computer. Keep in mind that with your microphone jack occupied, though, you won't be able to add any live commentary without unplugging it each time. Use a radio station website. If you don't want to mess around with cables, you can use a subscription website that creates a radio station for you. Radioking.com, airtime.pro or looksomething.com only require that you pay for and log in to their services. You choose your audience size, the type of music you want to play, and the website does the rest.This is not necessarily the best option if you want to broadcast something other than music, because you can only choose the types of files that the website provides. Downloading the Appropriate Files Choose software. To create a more professional sounding radio station than what you'll get with a basic streaming set up, you'll need software or apps. You'll need an app to play music or other audio, to turn your audio feed into an audio stream that can be broadcast, and one to act as your server. There are a lot of options for these types of apps and software, but the easiest to work with are Winamp (for playing audio files), Edcast (for turning your audio feed into a stream), and Icecast2 (for your server). Download an mp3 DLL file. To broadcast the audio from your computer over a server, you'll need to download a DLL \u2013 which stands for Dynamic Link Library \u2013 file. This type of file keeps all of your mp3 files in one place and allows the other software you need to load the mp3s one at a time. This frees up memory and storage space on your computer. For an online radio station, you'll want to download lame_enc.dll. Type the DLL name into your favorite search engine, followed by \u201cdownload\u201d and it should pop up. This DLL will allow you to broadcast in mp3 formats, and is also compatible with older players you're your audience might use. This DLL will download as a zipped version, so you'll have to open the zipped file to access the individual files you need. Insert the DLL into the Winamp app's root directory. Because you're using Winamp to share your audio, you'll need to insert the DLL file into Winamp's root directory. This basically makes the audio files on Winamp accessible to the other software you need to broadcast your radio station. To do this, find Winamp in the program files on your computer. Open the Winamp program file (C:/Program Files/Winamp) and insert the DLL file where it asks for the source. Setting Up Your Server Estimate size of audience. Once you have all of the software you need for your radio station, you'll need to figure out how many people you want in your audience. This will affect the size and type of server you need. It's probably best to start with a smaller number and change it if the radio station becomes more popular. Ten is usually a good start. Calculate your required bandwidth. Once you know how many people you want to broadcast to, you can calculate the amount of bandwidth your radio station requires. High quality mp3 broadcasts require an upload speed of about 192 kilobits per second (kpbs). Multiple this by the number of listeners you expect (or want). This will give you your radio station's required bandwidth. So, for example, if you want 10 listeners, your bandwidth would be 10 x 192 = 1920 kbps. Consider a dedicated radio station server. Most home internet connections have a maximum upload speed of around 500 mbps. This means you could really only broadcast to about two people, and you would be using up most of your upload speed on the station. If this is the case, you might want to consider getting a separate server. They cost around $6 per month for an ad-free option. You can also use a free server, but these will give your listeners ads. Some will just show the ads in their web browser instead of interrupting the audio coming from their radio station. Check out FreemStreamHosting.org for one example. Get the server's host's information. For your radio station to stream to the external server, you'll need some information from the host. Make sure you get their IP address or URL, correct port number, stream password, and server type (usually Shoutcast for an external server). You'll need to plug this information in later. Edit the server's configuration menu. To get your server up and running, you'll need to edit the configuration menu to make sure that the server broadcasts your audio from the correct files. Open your server app (ShoutCast for an external server or IceCast2 if you're using your home server), and click \u201cEdit Configuration.\u201d Then change some of the information within it. The \u201csources tag\u201d should list your maximum audience size, the \u201csource-password\u201d should be the password for your stream app (EdCast in this example), and the \u201chostname\u201d tag should be your IP address. Set the \u201cport\u201d tag to 8000. For the IP address, you'll either need to enter your own IP address if you're broadcasting from your home server, or the IP address of your external server. You should get the external server address from your server host, and you can find your own IP address at WhatsmyIP.net Save the server configuration. Once you're done editing, click save. You should save the server configuration as icecast.xml or shoutcast.xml in the IceCast2 or ShoutCast root directory. When you're saving, this will come up as C:/ProgramFiles/icecast2 or C:/ProgramFiles/shoutcast. Launch your server. Once you have your server configured, you'll need to start it up to prepare it for your radio station. Open your server app and click \u201cstart server\u201d in the app's main window. Setting Up Your Source Apps Download the Edcast Winamp plugin. Once you have both Winamp (for playing audio) and Edcast (for turning your audio feed into an open stream), you'll need the plugin that allows Edcast to use Winamp as its source. Open Winamp, then click on \u201cOptions,\u201d then \u201cPreferences,\u201d then \u201cPlugins.\u201d Under \u201cPlugins\u201d select \u201cDSP/Effect\u201d and then choose \u201cedcast DSP v3 [dsp_edcast.dll]\u201d. Click \u201cconfigure active plugin\u201d to install the plugin to Winamp. Set Edcast's output source. Once you've set Winamp to use Edcast as its input source, you'll need to set Edcast to output to Winamp. Open Edcast and click on the picture of the microphone on the main page. This turns your computer's microphone off as Edcast's source of sound. If you disable the mic, the Edcast Winamp plugin will make Edcast automatically choose Winamp for its output. Configure the source app for your chosen server. Open your Edcast app and click \u201cadd encoder.\u201d This allows you to link Edcast to your server settings. Input your server type (Shoutcast if you're using an external server, IceCast2 if you're using your own), your server's IP and the port number and password for the app. Set the encoder type. Setting the encoder type tells your apps what type of audio files they should broadcast. Usually ACC or MP3 files are the best, because most players can play both of these files. AAC+ files are okay if you are broadcasting at a lower bit rate, but the sound isn't always great, and not every player can play it. Streaming to Listeners Get licensed. There are very specific rules governing how you can broadcast music. To protect yourself from any sort of lawsuit, you'll want to get licensed to play music. You can use a licensing server like Live365.com or Loud-City to do this without having to get individual permission from each artist whose music you want to play. These services require that you pay a monthly fee based on your audience size. Record audio. If you're starting a news/talk radio station rather than a music station, you'll need to create your own audio files instead of just relying on music playlists. Most computers come with some type of audio recording software, which you can use to record the audio you want your listeners to hear. Connect from your audio stream app. Once you have your server and other apps configured, you're ready to connect to your audience. Open Edcast's main window and click \u201cConnect.\u201d This connects your server to your playing app. Play your audio. Open Winamp and begin playing your audio, whether music or talk. With your audio stream app open and connected to your server, you'll start streaming right away. Share your URL. There's no point in broadcasting your radio station if no one is listening, so you'll want to make sure you share the URL of your station. If you have an external server, you'll get a separate URL from the server host. If you're using your own server through IceCast2, your radio stream will be http://(youripaddress):(port)/(mountpoint), without parentheses. You can find all of this information in the configuration page of your server app. Share your URL everywhere you can think of \u2013 social media, by telling your friends or family in person, or even putting up signs at your favorite places to hang out. If you don't want to share a URL with your IP address, you can also register your own domain name for free at http://dyn.com/dns/?rdr=dyndnsorg. This will also allow you to choose a website name that tells your audience what they're listening to.",
+  "tyn_model":[
+    "winamp",
+    "microphone",
+    "software",
+    "edcast",
+    "\u201d then",
+    "cable",
+    "\u201d and",
+    "\u201d should",
+    "\u201d tag",
+    "\u201cplugins",
+    "\u201d this",
+    "audio stream app",
+    "rca cable",
+    "headphone jack",
+    "radio station",
+    "\u2013 which",
+    "dynamic link library",
+    "\u2013 file",
+    "\u201cdownload",
+    "winamp app",
+    "winamp program",
+    "server",
+    "\u201cedit",
+    "\u201csources",
+    "\u201csource",
+    "\u201chostname",
+    "\u201cport",
+    "\u201cstart",
+    "\u201d in",
+    "\u201coptions",
+    "\u201cpreferences",
+    "\u201d under",
+    "\u201d select",
+    "\u201cdsp",
+    "\u201cedcast",
+    "\u201d.",
+    "\u201cconfigure",
+    "\u201d to",
+    "\u201cadd",
+    "music",
+    "loud-city",
+    "audio recording",
+    "\u201cconnect",
+    "\u2013 social"
+  ],
+  "tyn_section":[
+
+  ]
+}

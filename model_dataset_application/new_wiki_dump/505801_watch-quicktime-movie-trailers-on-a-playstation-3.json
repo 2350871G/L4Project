@@ -1,0 +1,55 @@
+{
+  "title":"How to Watch QuickTime Movie Trailers on a PlayStation 3",
+  "url":"https://www.wikihow.com/Watch-QuickTime-Movie-Trailers-on-a-PlayStation-3",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation 3"
+  ],
+  "steps":[
+    {
+      "headline":"Download Mozilla's Firefox browser and install the Greasemonkey Add-On from https://addons.mozilla.org/en-US/firefox/addon/748",
+      "description":""
+    },
+    {
+      "headline":"Ensure that Greasemonkey is enabled, then install the Apple Trailer Download script.",
+      "description":"Make sure it is enabled by right-clicking on the monkey in the bottom-right corner of Firefox, clicking \"Manage User Scripts...\" then checking the \"enabled\" box."
+    },
+    {
+      "headline":"Go to http://www.apple.com/trailers and search for the trailer you wish to download.",
+      "description":"When you have found the page listing the trailers you can view, a box will appear in the bottom right side of the screen, listing all the different sizes of the different trailers (720p, 1080p, etc). Download the desired size (1080p is the best quality, but also the largest file size) by right clicking and choosing \"Save Link As...\""
+    },
+    {
+      "headline":"Once the trailer has downloaded, you need to change the \"container\" so it can be read on the PS3.",
+      "description":"To do this, download the Yamb installer from http://yamb.unite-video.com/download.html and install it."
+    },
+    {
+      "headline":"Once Yamb is installed, run it and chose \"Creation\" then \"Click to create an MP4 file with multiple video, audio, chapter and subtitle streams.\"",
+      "description":""
+    },
+    {
+      "headline":"Click \"Add\" then browse to the downloaded Quicktime Trailer.",
+      "description":""
+    },
+    {
+      "headline":"Chose a name for the trailer under \"Output\", then click \"Next\".",
+      "description":"Yamb will take about 30 seconds to a minute to convert the Quicktime video into an MP4 video."
+    },
+    {
+      "headline":"This MP4 video can now be copied to the Playstation 3 by USB stick or any other method and played in HD on a TV.",
+      "description":"To select the video, navigate through the XMB to Video, then locate the USB stick, then press triangle and select \"display all\"."
+    }
+  ],
+  "text":" Download Mozilla's Firefox browser and install the Greasemonkey Add-On from https://addons.mozilla.org/en-US/firefox/addon/748  Ensure that Greasemonkey is enabled, then install the Apple Trailer Download script. Make sure it is enabled by right-clicking on the monkey in the bottom-right corner of Firefox, clicking \"Manage User Scripts...\" then checking the \"enabled\" box. Go to http://www.apple.com/trailers and search for the trailer you wish to download. When you have found the page listing the trailers you can view, a box will appear in the bottom right side of the screen, listing all the different sizes of the different trailers (720p, 1080p, etc). Download the desired size (1080p is the best quality, but also the largest file size) by right clicking and choosing \"Save Link As...\" Once the trailer has downloaded, you need to change the \"container\" so it can be read on the PS3. To do this, download the Yamb installer from http://yamb.unite-video.com/download.html and install it. Once Yamb is installed, run it and chose \"Creation\" then \"Click to create an MP4 file with multiple video, audio, chapter and subtitle streams.\"  Click \"Add\" then browse to the downloaded Quicktime Trailer.  Chose a name for the trailer under \"Output\", then click \"Next\". Yamb will take about 30 seconds to a minute to convert the Quicktime video into an MP4 video. This MP4 video can now be copied to the Playstation 3 by USB stick or any other method and played in HD on a TV. To select the video, navigate through the XMB to Video, then locate the USB stick, then press triangle and select \"display all\".",
+  "tyn_model":[
+    "yamb",
+    "apple trailer",
+    "firefox",
+    "usb"
+  ],
+  "tyn_section":[
+
+  ]
+}

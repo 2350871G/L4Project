@@ -1,0 +1,207 @@
+{
+  "title":"How to Make a Game on ROBLOX",
+  "url":"https://www.wikihow.com/Make-a-Game-on-ROBLOX",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "Online Games",
+    "Roblox"
+  ],
+  "parts":[
+    {
+      "name":"Selecting a Preset",
+      "steps":[
+        {
+          "headline":"Open Roblox Studio.",
+          "description":"Click or double-click the Roblox Studio app icon, which resembles a blue square with a black diagonal line through it. If you're on the Roblox website, click the green Start Creating button near the bottom of the page, then confirm that you want to allow Roblox to open."
+        },
+        {
+          "headline":"Log in if prompted.",
+          "description":"Enter your Roblox username and password, then click Sign In."
+        },
+        {
+          "headline":"Click New.",
+          "description":"It's in the top-left side of the Roblox Studio window."
+        },
+        {
+          "headline":"Click the Gameplay tab.",
+          "description":"You'll find this option at the top of the window. Doing so opens a list of Roblox preset game types. While you can create your own gametype, doing so requires extensive knowledge of how to code in Lua."
+        },
+        {
+          "headline":"Select a gameplay preset.",
+          "description":"Click one of the seven gameplay presets listed on this page. After doing this, the gameplay preset will begin to open in Roblox Studio. For example, to create a Capture the Flag game, you would click the Capture the Flag option. The gameplay preset may take a few minutes to load."
+        },
+        {
+          "headline":"Understand how to use the controls.",
+          "description":"You can navigate around the game's map using the left and right arrow keys, while scrolling up or down will zoom you out or in (as will pressing the down or up arrow keys). Right-clicking and dragging the map allows you to adjust the camera angle. You'll use the left mouse button for making changes to the map (e.g., adding items or adjusting terrain)."
+        }
+      ]
+    },
+    {
+      "name":"Adjusting the Terrain",
+      "steps":[
+        {
+          "headline":"Click Editor.",
+          "description":"This tab is in the \"Terrain\" section of options at the top of the window. You should see a \"Terrain Editor\" pane appear on the left side of the window. If you see a pane with \"Terrain Editor\" listed on the left side of the window, the Terrain Editor is already enabled."
+        },
+        {
+          "headline":"Change the ground's appearance.",
+          "description":"You can change the texture of the ground by using the Terrain Editor's \"Paint\" tool:\nClick Paint in the Terrain Editor pane. Scroll down to the \"Material\" section. Select a ground texture. Click and drag your mouse across the ground where you want to add the texture."
+        },
+        {
+          "headline":"Change brush settings.",
+          "description":"You can change the size and strength of your Paint brush in the \"Brush Settings\" section of the Terrain Editor by clicking and dragging the respective slider left or right to decrease or increase your selected setting. You can also choose between a circular brush and a square brush by clicking the circle icon or the square icon, respectively."
+        },
+        {
+          "headline":"Add hills or valleys.",
+          "description":"Obstacles such as ditches and hills add depth to your map, especially if you're using a competitive map preset:\n\nHill \u2014 Click Add, select a texture, and then click and hold the area that you want to enlarge. Dragging your mouse will allow you to shape the hill. Valley \u2014 Click Erode, select a texture, and then click and hold the area in which you want to create a hole. You can drag the mouse to extend the hole into a valley. You can also use Erode on a hill to create a dent or cave in it."
+        },
+        {
+          "headline":"Enlarge a hill.",
+          "description":"After creating a hill, you can enlarge it by doing the following:\nClick Grow\n\nClick and hold the hill that you want to enlarge. Repeat with different sides of the hill until it's the size you want."
+        },
+        {
+          "headline":"Smooth over your terrain's jagged edges.",
+          "description":"If necessary, you can smooth out rough edges in your terrain. This will both add to your game's aesthetic appeal and prevent players from getting stuck on corners:\nClick Smooth\n\nClick and drag your mouse across an area to smooth it out."
+        }
+      ]
+    },
+    {
+      "name":"Adding Objects",
+      "steps":[
+        {
+          "headline":"Enable the Toolbox if necessary.",
+          "description":"If you don't see the \"Toolbox\" pane on the left side of the window, click Toolbox at the top of the window to add it to your available options."
+        },
+        {
+          "headline":"Search for an object.",
+          "description":"Type the name of an object type (e.g., weapon or building) into the search bar at the top of the Toolbox pane, then press \u21b5 Enter. For example, if you want to add a tree to your map, you'd type tree or plant into the search bar."
+        },
+        {
+          "headline":"Select an object.",
+          "description":"Scroll down through the available objects until you find the one that you want to use, then click it."
+        },
+        {
+          "headline":"Add the object to the game files if necessary.",
+          "description":"If clicking the object results in a prompt which says \"Put this tool into the starter pack? \", click Yes. This will add the object to the game's files, which will allow you to place the object on the map. Skip this step if the object is an object that's already on the map, as it will already be in the game's files."
+        },
+        {
+          "headline":"Drag the object onto your map.",
+          "description":"Once the object has been added to the map's files, you can click and drag the object onto the map itself."
+        },
+        {
+          "headline":"Reposition the object.",
+          "description":"You can reposition objects by clicking and dragging them around the map."
+        },
+        {
+          "headline":"Repeat this process as needed.",
+          "description":"When you're satisfied with the number of objects on your map, you can proceed with testing the game."
+        }
+      ]
+    },
+    {
+      "name":"Testing Your Game",
+      "steps":[
+        {
+          "headline":"Understand why testing is necessary.",
+          "description":"Testing your game allows you to see the map from the ground level as a player, meaning that you'll be able to see problems with your map (e.g., rough textures or improperly placed objects). It's important to fix any issues with your map before publishing it. Skipping the testing phase may cause you to miss an important issue."
+        },
+        {
+          "headline":"Click TEST.",
+          "description":"This tab is at the top of the Roblox Studio window. Doing so opens the TEST toolbar."
+        },
+        {
+          "headline":"Click the Play icon.",
+          "description":"It's a triangle with a Roblox avatar in front of it that you'll find in the upper-left side of the window. Your game will load."
+        },
+        {
+          "headline":"Reposition the camera if necessary.",
+          "description":"Right-click and drag left-to-right until the camera is behind your Roblox avatar."
+        },
+        {
+          "headline":"Wander around the map.",
+          "description":"You can use the standard W, A, S, and D keys to do so. You can also jump by using the spacebar."
+        },
+        {
+          "headline":"Look for errors.",
+          "description":"Common errors include poorly placed items and items which impede players or make the map difficult to traverse, but you may notice minor graphical issues (e.g., lumpy terrain) as well. Try running a feasible route on the map (e.g., if you made a Capture the Flag map, try capturing and retrieving a flag) to see if there are any issues with the map."
+        },
+        {
+          "headline":"Close the testing.",
+          "description":"Click the red Stop icon in the toolbar at the top of the window to do so. This will exit the testing window and return you to the Roblox Studio interface. If you discovered any errors, fix them before proceeding to the next part."
+        }
+      ]
+    },
+    {
+      "name":"Publishing Your Game",
+      "steps":[
+        {
+          "headline":"Save your game.",
+          "description":"Before uploading your game to Roblox's website, you'll want to save a backup onto your computer:\nClick FILE\n\nClick Save\n\nEnter a file name in the \"File name\" text box. Click Save"
+        },
+        {
+          "headline":"Click FILE.",
+          "description":"This tab is in the upper-left corner of the window. A drop-down menu will appear."
+        },
+        {
+          "headline":"Click Publish to Roblox.",
+          "description":"It's in the middle of the FILE drop-down menu."
+        },
+        {
+          "headline":"Click (Create New).",
+          "description":"You'll find this option near the top of the pop-up window. Doing so opens the Basic Settings window."
+        },
+        {
+          "headline":"Enter a name for your game.",
+          "description":"Type your game's name into the \"Name\" text box at the top of the window."
+        },
+        {
+          "headline":"Add a description.",
+          "description":"In the \"Description\" box, type in a brief explanation of how your game works."
+        },
+        {
+          "headline":"Select a genre.",
+          "description":"Click the \"Genre\" drop-down box, then click a genre of game. This step is optional, but recommended if you want to narrow down search results for your game."
+        },
+        {
+          "headline":"Check the \"Public\" box.",
+          "description":"It's at the bottom of the window. If you want to keep the game private, skip this step."
+        },
+        {
+          "headline":"Click Create Place.",
+          "description":"It's a green button at the bottom of the window. Your Roblox game will begin uploading to the Roblox website."
+        },
+        {
+          "headline":"Complete the upload.",
+          "description":"Once Roblox finishes uploading to your profile, click Next, then click Done at the bottom of the next page. This will close the upload window and take you back to Roblox Studio. If you have Builder's Club, you can elect to sell your game or its models instead of clicking Done."
+        }
+      ]
+    }
+  ],
+  "text":" Selecting a Preset Open Roblox Studio. Click or double-click the Roblox Studio app icon, which resembles a blue square with a black diagonal line through it. If you're on the Roblox website, click the green Start Creating button near the bottom of the page, then confirm that you want to allow Roblox to open. Log in if prompted. Enter your Roblox username and password, then click Sign In. Click New. It's in the top-left side of the Roblox Studio window. Click the Gameplay tab. You'll find this option at the top of the window. Doing so opens a list of Roblox preset game types. While you can create your own gametype, doing so requires extensive knowledge of how to code in Lua. Select a gameplay preset. Click one of the seven gameplay presets listed on this page. After doing this, the gameplay preset will begin to open in Roblox Studio. For example, to create a Capture the Flag game, you would click the Capture the Flag option. The gameplay preset may take a few minutes to load. Understand how to use the controls. You can navigate around the game's map using the left and right arrow keys, while scrolling up or down will zoom you out or in (as will pressing the down or up arrow keys). Right-clicking and dragging the map allows you to adjust the camera angle. You'll use the left mouse button for making changes to the map (e.g., adding items or adjusting terrain). Adjusting the Terrain Click Editor. This tab is in the \"Terrain\" section of options at the top of the window. You should see a \"Terrain Editor\" pane appear on the left side of the window. If you see a pane with \"Terrain Editor\" listed on the left side of the window, the Terrain Editor is already enabled. Change the ground's appearance. You can change the texture of the ground by using the Terrain Editor's \"Paint\" tool:\nClick Paint in the Terrain Editor pane. Scroll down to the \"Material\" section. Select a ground texture. Click and drag your mouse across the ground where you want to add the texture. Change brush settings. You can change the size and strength of your Paint brush in the \"Brush Settings\" section of the Terrain Editor by clicking and dragging the respective slider left or right to decrease or increase your selected setting. You can also choose between a circular brush and a square brush by clicking the circle icon or the square icon, respectively. Add hills or valleys. Obstacles such as ditches and hills add depth to your map, especially if you're using a competitive map preset:\n\nHill \u2014 Click Add, select a texture, and then click and hold the area that you want to enlarge. Dragging your mouse will allow you to shape the hill. Valley \u2014 Click Erode, select a texture, and then click and hold the area in which you want to create a hole. You can drag the mouse to extend the hole into a valley. You can also use Erode on a hill to create a dent or cave in it. Enlarge a hill. After creating a hill, you can enlarge it by doing the following:\nClick Grow\n\nClick and hold the hill that you want to enlarge. Repeat with different sides of the hill until it's the size you want. Smooth over your terrain's jagged edges. If necessary, you can smooth out rough edges in your terrain. This will both add to your game's aesthetic appeal and prevent players from getting stuck on corners:\nClick Smooth\n\nClick and drag your mouse across an area to smooth it out. Adding Objects Enable the Toolbox if necessary. If you don't see the \"Toolbox\" pane on the left side of the window, click Toolbox at the top of the window to add it to your available options. Search for an object. Type the name of an object type (e.g., weapon or building) into the search bar at the top of the Toolbox pane, then press \u21b5 Enter. For example, if you want to add a tree to your map, you'd type tree or plant into the search bar. Select an object. Scroll down through the available objects until you find the one that you want to use, then click it. Add the object to the game files if necessary. If clicking the object results in a prompt which says \"Put this tool into the starter pack? \", click Yes. This will add the object to the game's files, which will allow you to place the object on the map. Skip this step if the object is an object that's already on the map, as it will already be in the game's files. Drag the object onto your map. Once the object has been added to the map's files, you can click and drag the object onto the map itself. Reposition the object. You can reposition objects by clicking and dragging them around the map. Repeat this process as needed. When you're satisfied with the number of objects on your map, you can proceed with testing the game. Testing Your Game Understand why testing is necessary. Testing your game allows you to see the map from the ground level as a player, meaning that you'll be able to see problems with your map (e.g., rough textures or improperly placed objects). It's important to fix any issues with your map before publishing it. Skipping the testing phase may cause you to miss an important issue. Click TEST. This tab is at the top of the Roblox Studio window. Doing so opens the TEST toolbar. Click the Play icon. It's a triangle with a Roblox avatar in front of it that you'll find in the upper-left side of the window. Your game will load. Reposition the camera if necessary. Right-click and drag left-to-right until the camera is behind your Roblox avatar. Wander around the map. You can use the standard W, A, S, and D keys to do so. You can also jump by using the spacebar. Look for errors. Common errors include poorly placed items and items which impede players or make the map difficult to traverse, but you may notice minor graphical issues (e.g., lumpy terrain) as well. Try running a feasible route on the map (e.g., if you made a Capture the Flag map, try capturing and retrieving a flag) to see if there are any issues with the map. Close the testing. Click the red Stop icon in the toolbar at the top of the window to do so. This will exit the testing window and return you to the Roblox Studio interface. If you discovered any errors, fix them before proceeding to the next part. Publishing Your Game Save your game. Before uploading your game to Roblox's website, you'll want to save a backup onto your computer:\nClick FILE\n\nClick Save\n\nEnter a file name in the \"File name\" text box. Click Save Click FILE. This tab is in the upper-left corner of the window. A drop-down menu will appear. Click Publish to Roblox. It's in the middle of the FILE drop-down menu. Click (Create New). You'll find this option near the top of the pop-up window. Doing so opens the Basic Settings window. Enter a name for your game. Type your game's name into the \"Name\" text box at the top of the window. Add a description. In the \"Description\" box, type in a brief explanation of how your game works. Select a genre. Click the \"Genre\" drop-down box, then click a genre of game. This step is optional, but recommended if you want to narrow down search results for your game. Check the \"Public\" box. It's at the bottom of the window. If you want to keep the game private, skip this step. Click Create Place. It's a green button at the bottom of the window. Your Roblox game will begin uploading to the Roblox website. Complete the upload. Once Roblox finishes uploading to your profile, click Next, then click Done at the bottom of the next page. This will close the upload window and take you back to Roblox Studio. If you have Builder's Club, you can elect to sell your game or its models instead of clicking Done.",
+  "tyn_model":[
+    "roblox studio",
+    "terrain editor",
+    "mouse",
+    "paint",
+    "\u2014 click",
+    "texture",
+    "erode",
+    "roblox website",
+    "roblox username",
+    "roblox preset",
+    "gameplay preset",
+    "paint brush",
+    "\u21b5 enter",
+    "plant",
+    "camera",
+    "roblox's",
+    "roblox",
+    "builder's club"
+  ],
+  "tyn_section":[
+
+  ]
+}

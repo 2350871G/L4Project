@@ -1,0 +1,118 @@
+{
+  "title":"How to Burn Dreamcast Games",
+  "url":"https://www.wikihow.com/Burn-Dreamcast-Games",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "parts":[
+    {
+      "name":"Preparing to Burn",
+      "steps":[
+        {
+          "headline":"Ensure your Dreamcast can play burned games.",
+          "description":"In order to play games that have been burned to CD, your Dreamcast must have been made before October 2000. Newer Dreamcasts have changes made to the way discs are read which prevents backed up games from playing. On the bottom of the Dreamcast, look for a number in a circle near the word PAL or NTSC. If the number is 0 or 1 you can play burned games. If the number is 2 or higher, you cannot play burned games."
+        },
+        {
+          "headline":"Obtain the game backup file.",
+          "description":"You can find Dreamcast backup files in various locations around the internet. It is illegal to download a backup file for a game that you do not own. To find a game, perform a Google search for \"game name dreamcast download\"."
+        },
+        {
+          "headline":"Download a program that can open RAR files (if necessary).",
+          "description":"Many Dreamcast games come in RAR archives. You'll need a program like WinRAR or the free 7-Zip to open these files and extract the actual game files. You can download WinRAR from rarlab.com/download.htm. The trial version will work fine for opening RAR files. You can download 7-Zip from 7-zip.org."
+        },
+        {
+          "headline":"Download and install ImgBurn.",
+          "description":"ImgBurn is a freeware programs, but you'll need to ensure that you decline the extra software it tries to install. With the right add-on drivers (see the next step), ImgBurn is by far the easiest and most reliable way to burn Dreamcast games. You can download ImgBurn from imgburn.com."
+        },
+        {
+          "headline":"Install the ImgBurn Dreamcast Drivers.",
+          "description":"These extra drivers will give ImgBurn the support to burn Dreamcast .CDI and .NRG files. You can download the drivers here. When you extract the file, you'll see a setup file for ImgBurn and another compressed file called \"cdi files for imgburn\". You can ignore the setup file since you installed the newest version of ImgBurn already. Extract the \"cdi files for imgburn\". This will create a new folder with three files: pfctoc.dll, pfctoc.h, and pfctoc.lib. Copy the three files to C:\\Program Files\\ImgBurn or C:\\Program Files (x86)\\ImgBurn."
+        },
+        {
+          "headline":"Extract the files.",
+          "description":"Use your newly-installed WinRAR or 7-Zip program to extract the game files from the RAR file. Extracting the files may give you a set of even more RAR files. If this is the case, start with the .part1 file to automatically join and extract the multiple parts."
+        }
+      ]
+    },
+    {
+      "name":"Burning with ImgBurn",
+      "steps":[
+        {
+          "headline":"Insert a blank CD-R. Dreamcast games are burnt onto CD-R format discs.",
+          "description":"You cannot use DVDs or CD-RW discs. To ensure the best chances for your burnt games, use a high-quality disc like Memorex or Verbatim."
+        },
+        {
+          "headline":"Launch ImgBurn and select \"Write image file to disc\".",
+          "description":"Alternatively, you can right-click on your file and select \"Open With ImgBurn\"."
+        },
+        {
+          "headline":"Click the Browse button in the \"Source\" section and find your file.",
+          "description":"If you have a BIN/CUE file, select the CUE file."
+        },
+        {
+          "headline":"Click the \"Write Speed\" drop-down menu and select 8X or lower.",
+          "description":"This will give you the least chance of encountering an error during the burn."
+        },
+        {
+          "headline":"Uncheck the \"Verify\" box.",
+          "description":"This will verify the disc after burning to ensure that it was successful, but this will add extra time to the process and there's nothing you can do to fix a corrupted disc anyway."
+        },
+        {
+          "headline":"Click the \"Write\" button.",
+          "description":"This is the large button in the lower-left corner. Your disc will begin burning."
+        }
+      ]
+    },
+    {
+      "name":"Playing the Burned Game",
+      "steps":[
+        {
+          "headline":"Power off your Dreamcast.",
+          "description":"Some users have reported more success if they start with the power to the system turned off before inserting the game."
+        },
+        {
+          "headline":"Insert your game and start the Dreamcast.",
+          "description":"If the game had two or more sessions, it is likely a self-booting game, and should start up just like a real game would. If the game shows up as an audio CD on the Dreamcast, you may need to use the Utopia Boot Disc."
+        },
+        {
+          "headline":"Download the Utopia Boot Disc image.",
+          "description":"You can download the image file for this disc from most Dreamcast emulation and modding sites. Chances are that the site that you downloaded your game backup file from also has the Utopia Boot Disc."
+        },
+        {
+          "headline":"Burn the image to a CD-R.",
+          "description":"Follow the game burning instructions above to burn the Utopia Boot Disc image to your blank CD-R."
+        },
+        {
+          "headline":"Insert the burned Utopia Boot Disc into your Dreamcast and power it on.",
+          "description":"After the Dreamcast and Sega logos appear, you'll see the Utopia Boot Disc screen."
+        },
+        {
+          "headline":"Open the lid to the Dreamcast while the Utopia screen is on.",
+          "description":"Remove the Utopia disc from the Dreamcast once it stops spinning."
+        },
+        {
+          "headline":"Insert your burned game and close the lid.",
+          "description":"After a moment the Utopia screen will change and your game will be booted. This may take longer than normal."
+        }
+      ]
+    }
+  ],
+  "text":" Preparing to Burn Ensure your Dreamcast can play burned games. In order to play games that have been burned to CD, your Dreamcast must have been made before October 2000. Newer Dreamcasts have changes made to the way discs are read which prevents backed up games from playing. On the bottom of the Dreamcast, look for a number in a circle near the word PAL or NTSC. If the number is 0 or 1 you can play burned games. If the number is 2 or higher, you cannot play burned games. Obtain the game backup file. You can find Dreamcast backup files in various locations around the internet. It is illegal to download a backup file for a game that you do not own. To find a game, perform a Google search for \"game name dreamcast download\". Download a program that can open RAR files (if necessary). Many Dreamcast games come in RAR archives. You'll need a program like WinRAR or the free 7-Zip to open these files and extract the actual game files. You can download WinRAR from rarlab.com/download.htm. The trial version will work fine for opening RAR files. You can download 7-Zip from 7-zip.org. Download and install ImgBurn. ImgBurn is a freeware programs, but you'll need to ensure that you decline the extra software it tries to install. With the right add-on drivers (see the next step), ImgBurn is by far the easiest and most reliable way to burn Dreamcast games. You can download ImgBurn from imgburn.com. Install the ImgBurn Dreamcast Drivers. These extra drivers will give ImgBurn the support to burn Dreamcast .CDI and .NRG files. You can download the drivers here. When you extract the file, you'll see a setup file for ImgBurn and another compressed file called \"cdi files for imgburn\". You can ignore the setup file since you installed the newest version of ImgBurn already. Extract the \"cdi files for imgburn\". This will create a new folder with three files: pfctoc.dll, pfctoc.h, and pfctoc.lib. Copy the three files to C:\\Program Files\\ImgBurn or C:\\Program Files (x86)\\ImgBurn. Extract the files. Use your newly-installed WinRAR or 7-Zip program to extract the game files from the RAR file. Extracting the files may give you a set of even more RAR files. If this is the case, start with the .part1 file to automatically join and extract the multiple parts. Burning with ImgBurn Insert a blank CD-R. Dreamcast games are burnt onto CD-R format discs. You cannot use DVDs or CD-RW discs. To ensure the best chances for your burnt games, use a high-quality disc like Memorex or Verbatim. Launch ImgBurn and select \"Write image file to disc\". Alternatively, you can right-click on your file and select \"Open With ImgBurn\". Click the Browse button in the \"Source\" section and find your file. If you have a BIN/CUE file, select the CUE file. Click the \"Write Speed\" drop-down menu and select 8X or lower. This will give you the least chance of encountering an error during the burn. Uncheck the \"Verify\" box. This will verify the disc after burning to ensure that it was successful, but this will add extra time to the process and there's nothing you can do to fix a corrupted disc anyway. Click the \"Write\" button. This is the large button in the lower-left corner. Your disc will begin burning. Playing the Burned Game Power off your Dreamcast. Some users have reported more success if they start with the power to the system turned off before inserting the game. Insert your game and start the Dreamcast. If the game had two or more sessions, it is likely a self-booting game, and should start up just like a real game would. If the game shows up as an audio CD on the Dreamcast, you may need to use the Utopia Boot Disc. Download the Utopia Boot Disc image. You can download the image file for this disc from most Dreamcast emulation and modding sites. Chances are that the site that you downloaded your game backup file from also has the Utopia Boot Disc. Burn the image to a CD-R. Follow the game burning instructions above to burn the Utopia Boot Disc image to your blank CD-R. Insert the burned Utopia Boot Disc into your Dreamcast and power it on. After the Dreamcast and Sega logos appear, you'll see the Utopia Boot Disc screen. Open the lid to the Dreamcast while the Utopia screen is on. Remove the Utopia disc from the Dreamcast once it stops spinning. Insert your burned game and close the lid. After a moment the Utopia screen will change and your game will be booted. This may take longer than normal.",
+  "tyn_model":[
+    "dreamcast",
+    "7-zip",
+    "discs",
+    "dreamcast backup",
+    "program",
+    "dreamcast games",
+    "7-zip program",
+    "dvds",
+    "dreamcast emulation",
+    "cd-r."
+  ],
+  "tyn_section":[
+
+  ]
+}

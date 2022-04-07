@@ -1,0 +1,60 @@
+{
+  "title":"How to Simulate the Switch Effect Blend Bug from the PS2 Version of Sonic Heroes on the PC Version",
+  "url":"https://www.wikihow.com/Simulate-the-Switch-Effect-Blend-Bug-from-the-PS2-Version-of-Sonic-Heroes-on-the-PC-Version",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Sonic the Hedgehog Games"
+  ],
+  "steps":[
+    {
+      "headline":"Open \"Tsonic_win.exe\" in any hex editor of your choice.",
+      "description":""
+    },
+    {
+      "headline":"Go to offset \"1BAD5\" and replace the byte from 06 to 02.",
+      "description":""
+    },
+    {
+      "headline":"Launch \"Tsonic_win.exe\" and go to either \"Hang Castle\", \"Mystic Mansion\" or \"Robot Storm.\"",
+      "description":"Those levels need to be unlocked in Challenge mode, Story mode or through Super Hard. Touch the orb switch and you'll see the result that comes from the PlayStation 2, which was set by a bug."
+    },
+    {
+      "headline":"Exit the game and download MainMemory's HeroesONE editor from here and open up the editor.",
+      "description":""
+    },
+    {
+      "headline":"Click on \"File.\".",
+      "description":"Hover the \"open\" option and go to the \"dvdroot\" folder located in the game directory. In there, open either \"s11obj.one\", \"s12obj.one\" or \"s25obj.one\", right click on \"S11_SWITCH_EFFECT.DFF\", click on \"extract\" and export it to a directory where you can find it when it's time to replace it."
+    },
+    {
+      "headline":"Open the exported file into a hex editor, go to offset C9C and change \"CC CC CC\" to \"FF FF FF\".",
+      "description":""
+    },
+    {
+      "headline":"Replace the original file in the .one archive with the edited one.",
+      "description":""
+    },
+    {
+      "headline":"Click \"Save\".",
+      "description":""
+    },
+    {
+      "headline":"Repeat the last two steps on the following files: \"s11obj.one\", \"s12obj.one\" or \"s25obj.one\".",
+      "description":"If you have done it on one of the files, move onto the other two and do it."
+    },
+    {
+      "headline":"Launch \"Tsonic_win.exe.\"",
+      "description":"Test the result to see if it looks exactly as shown above."
+    }
+  ],
+  "text":" Open \"Tsonic_win.exe\" in any hex editor of your choice.  Go to offset \"1BAD5\" and replace the byte from 06 to 02.  Launch \"Tsonic_win.exe\" and go to either \"Hang Castle\", \"Mystic Mansion\" or \"Robot Storm.\" Those levels need to be unlocked in Challenge mode, Story mode or through Super Hard. Touch the orb switch and you'll see the result that comes from the PlayStation 2, which was set by a bug. Exit the game and download MainMemory's HeroesONE editor from here and open up the editor.  Click on \"File.\". Hover the \"open\" option and go to the \"dvdroot\" folder located in the game directory. In there, open either \"s11obj.one\", \"s12obj.one\" or \"s25obj.one\", right click on \"S11_SWITCH_EFFECT.DFF\", click on \"extract\" and export it to a directory where you can find it when it's time to replace it. Open the exported file into a hex editor, go to offset C9C and change \"CC CC CC\" to \"FF FF FF\".  Replace the original file in the .one archive with the edited one.  Click \"Save\".  Repeat the last two steps on the following files: \"s11obj.one\", \"s12obj.one\" or \"s25obj.one\". If you have done it on one of the files, move onto the other two and do it. Launch \"Tsonic_win.exe.\" Test the result to see if it looks exactly as shown above.",
+  "tyn_model":[
+    "hex editor"
+  ],
+  "tyn_section":[
+
+  ]
+}

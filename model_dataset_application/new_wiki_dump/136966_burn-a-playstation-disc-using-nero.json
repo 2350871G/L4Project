@@ -1,0 +1,72 @@
+{
+  "title":"How to Burn a PlayStation Disc Using Nero",
+  "url":"https://www.wikihow.com/Burn-a-PlayStation-Disc-Using-Nero",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation"
+  ],
+  "steps":[
+    {
+      "headline":"Place the PlayStation game into your CD-R drive.",
+      "description":""
+    },
+    {
+      "headline":"Start Nero Burning ROM.",
+      "description":""
+    },
+    {
+      "headline":"Select 'new compilation' and then 'CD-Copy'.",
+      "description":""
+    },
+    {
+      "headline":"Go to the 'Burn' tab.",
+      "description":""
+    },
+    {
+      "headline":"Uncheck 'Determine Maximum Speed' and 'Simulation'.",
+      "description":"The only option checked in this dialog should be, 'write' and burn speed should be set to 1x. Choose the source or 'reader' drive, uncheck the 'on the fly' option and set the 'read speed' to '1x always'."
+    },
+    {
+      "headline":"Go to the 'Image' Tab and click the browse button or icon to select a location to place the image that Nero will create during this process.",
+      "description":"You can delete this image after the process by checking 'delete image after CD copy'. It is recommended that you do this if you are creating only 1 copy and do not plan to make more."
+    },
+    {
+      "headline":"Set number of Read retries to 20.",
+      "description":""
+    },
+    {
+      "headline":"Check 'ignore illegal TOC type'.",
+      "description":""
+    },
+    {
+      "headline":"Ensure that 'read media catalog' is unchecked.",
+      "description":""
+    },
+    {
+      "headline":"Ensure that 'Data mode 1' is set to 'Check Force raw reading and on errors and write uncorrected.",
+      "description":""
+    },
+    {
+      "headline":"Set 'Data mode 2' to the same options as 'data mode 1'.For audio tracks, check 'ignore read errors'.",
+      "description":""
+    },
+    {
+      "headline":"Click on 'COPY CD'.",
+      "description":"When the disk is done being read, it will be ejected. Remove the game and insert a blank CD-R. This will begin the burn process. Note that if it appears that the system has hung at 100% that this is normal and simply requires some patience."
+    }
+  ],
+  "text":" Place the PlayStation game into your CD-R drive.  Start Nero Burning ROM.  Select 'new compilation' and then 'CD-Copy'.  Go to the 'Burn' tab.  Uncheck 'Determine Maximum Speed' and 'Simulation'. The only option checked in this dialog should be, 'write' and burn speed should be set to 1x. Choose the source or 'reader' drive, uncheck the 'on the fly' option and set the 'read speed' to '1x always'. Go to the 'Image' Tab and click the browse button or icon to select a location to place the image that Nero will create during this process. You can delete this image after the process by checking 'delete image after CD copy'. It is recommended that you do this if you are creating only 1 copy and do not plan to make more. Set number of Read retries to 20.  Check 'ignore illegal TOC type'.  Ensure that 'read media catalog' is unchecked.  Ensure that 'Data mode 1' is set to 'Check Force raw reading and on errors and write uncorrected.  Set 'Data mode 2' to the same options as 'data mode 1'.For audio tracks, check 'ignore read errors'.  Click on 'COPY CD'. When the disk is done being read, it will be ejected. Remove the game and insert a blank CD-R. This will begin the burn process. Note that if it appears that the system has hung at 100% that this is normal and simply requires some patience.",
+  "tyn_model":[
+    "cd-r",
+    "cd-copy",
+    "disk",
+    "game",
+    "cd-r."
+  ],
+  "tyn_section":[
+
+  ]
+}

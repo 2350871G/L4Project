@@ -1,0 +1,189 @@
+{
+  "title":"How to Jailbreak iOS Untethered",
+  "url":"https://www.wikihow.com/Jailbreak-iOS-Untethered",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "methods":[
+    {
+      "name":"Using Pangu",
+      "steps":[
+        {
+          "headline":"Back up all data on your iOS device to iTunes or iCloud.",
+          "description":"This helps preserve your data in the event jailbreaking results in data loss."
+        },
+        {
+          "headline":"Navigate to \u201cSettings\u201d and tap on \u201cGeneral.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Toggle the \u201cPasscode Lock\u201d feature to \u201cOff.\u201d This feature must be disabled before you can jailbreak your iOS device using Pangu.",
+          "description":""
+        },
+        {
+          "headline":"Swipe up on your screen, then tap on the airplane icon.",
+          "description":"This enables Airplane Mode, which is required for jailbreaking to work successfully."
+        },
+        {
+          "headline":"Navigate to the official Pangu website at http://en.pangu.io/.",
+          "description":""
+        },
+        {
+          "headline":"Select the option to download Pangu for your Windows or Mac computer.",
+          "description":""
+        },
+        {
+          "headline":"Double-click on the Pangu executable file, then follow the on-screen instructions to open Pangu.",
+          "description":"No installation is necessary. Click on \u201cMore Info\u201d and select \u201cAllow\u201d to launch Pangu in Windows 8. Right-click on the Pangu .exe file and select \u201cRun as administrator\u201d if using Windows 7."
+        },
+        {
+          "headline":"Connect your iOS device to your computer using a USB cable.",
+          "description":"Your computer and Pangu will take a few moments to detect your device."
+        },
+        {
+          "headline":"Click on \u201cStart,\u201d then follow the on-screen instructions to finish jailbreaking your device.",
+          "description":"Your iOS device will reboot several times throughout the process."
+        },
+        {
+          "headline":"Tap on the Pangu icon on your iOS device when prompted to do so by Pangu.",
+          "description":"This completes the jailbreaking process, and your device will reboot one more time. When complete, Cydia will be displayed in the app tray."
+        },
+        {
+          "headline":"Disconnect your iOS device from your computer and close Pangu.",
+          "description":"Your device is now officially jailbroken and untethered."
+        }
+      ]
+    },
+    {
+      "name":"Using Evasi0n",
+      "steps":[
+        {
+          "headline":"Back up all data on your iOS device to iTunes or iCloud.",
+          "description":"This helps preserve your data in the event jailbreaking results in data loss."
+        },
+        {
+          "headline":"Navigate to \u201cSettings\u201d and tap on \u201cGeneral.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Toggle the \u201cPasscode Lock\u201d feature to \u201cOff.\u201d This feature must be disabled before you can jailbreak your iOS device using Evasi0n.",
+          "description":""
+        },
+        {
+          "headline":"Swipe up on your screen, then tap on the airplane icon.",
+          "description":"This enables Airplane Mode, which helps ensure jailbreaking runs successfully."
+        },
+        {
+          "headline":"Navigate to the official Evasi0n website at http://evasi0n.com/.",
+          "description":""
+        },
+        {
+          "headline":"Select the option to download Evasi0n for your Windows or Mac computer.",
+          "description":""
+        },
+        {
+          "headline":"Right-click on your desktop and select the option to create a new folder called \u201cEvasi0n.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Right-click on the Evasi0n .zip file and select \u201cExtract Here.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Select the option to extract all contents of the Evasi0n .zip file to the new \u201cEvasi0n\u201d folder you just created.",
+          "description":""
+        },
+        {
+          "headline":"Connect your iOS device to your computer using a USB cable.",
+          "description":"iTunes will open automatically upon detecting your device."
+        },
+        {
+          "headline":"Close iTunes, then double-click on the Evasi0n .exe file.",
+          "description":""
+        },
+        {
+          "headline":"Select the option to \u201cRun\u201d the file.",
+          "description":"No installation is necessary. Click on \u201cMore Info\u201d and select \u201cAllow\u201d to launch Pangu if using Windows 8. Right-click on the Evasi0n .exe file and select \u201cRun as administrator\u201d if using Windows 7."
+        },
+        {
+          "headline":"Click on \u201cJailbreak,\u201d then follow the on-screen instructions to finish jailbreaking your device.",
+          "description":"Your iOS device will reboot several times throughout the process."
+        },
+        {
+          "headline":"Tap on the \u201cEvasi0n\u201d icon when prompted to do so by the jailbreaking software.",
+          "description":"Evasi0n will open and close, and your iOS device will reboot once again."
+        },
+        {
+          "headline":"Close Evasi0n on your computer.",
+          "description":"Your iOS device will reboot one final time."
+        },
+        {
+          "headline":"Disconnect your iOS device from your computer.",
+          "description":"Cydia will display in the app tray, and your device is now jailbroken and untethered."
+        }
+      ]
+    },
+    {
+      "name":"Troubleshooting",
+      "steps":[
+        {
+          "headline":"Connect your iOS device to iTunes and try restoring the device or installing available updates if jailbreaking fails to complete.",
+          "description":"This can help resolve problems associated with conflicts between jailbreak software and over-the-air firmware updates."
+        },
+        {
+          "headline":"Perform a hard reset on your iOS device if it stops working shortly after jailbreaking.",
+          "description":"This will restore your device to the original factory settings and help correct software problems."
+        },
+        {
+          "headline":"Reboot your iOS device and computer if you encounter any errors during jailbreaking.",
+          "description":"This helps reset both devices to ensure jailbreaking completes successfully."
+        },
+        {
+          "headline":"Launch iTunes and install available updates if Pangu or Evasi0n fail to detect your iOS device.",
+          "description":"Outdated versions of iTunes may be incompatible with some versions of jailbreaking software."
+        },
+        {
+          "headline":"Download an app called CrashReporter from Cydia to detect and identify any ongoing problems that may be associated with the jailbreak.",
+          "description":"CrashReporter will provide you with suggestions and resolutions on how to correct software problems caused on behalf of jailbreaking."
+        },
+        {
+          "headline":"Use a different USB cable and USB port if neither your computer or jailbreak software recognizes your iOS device.",
+          "description":"This can help rule out problems with faulty hardware, including those associated with your iOS device."
+        }
+      ]
+    }
+  ],
+  "text":" Using Pangu Back up all data on your iOS device to iTunes or iCloud. This helps preserve your data in the event jailbreaking results in data loss. Navigate to \u201cSettings\u201d and tap on \u201cGeneral.\u201d  Toggle the \u201cPasscode Lock\u201d feature to \u201cOff.\u201d This feature must be disabled before you can jailbreak your iOS device using Pangu.  Swipe up on your screen, then tap on the airplane icon. This enables Airplane Mode, which is required for jailbreaking to work successfully. Navigate to the official Pangu website at http://en.pangu.io/.  Select the option to download Pangu for your Windows or Mac computer.  Double-click on the Pangu executable file, then follow the on-screen instructions to open Pangu. No installation is necessary. Click on \u201cMore Info\u201d and select \u201cAllow\u201d to launch Pangu in Windows 8. Right-click on the Pangu .exe file and select \u201cRun as administrator\u201d if using Windows 7. Connect your iOS device to your computer using a USB cable. Your computer and Pangu will take a few moments to detect your device. Click on \u201cStart,\u201d then follow the on-screen instructions to finish jailbreaking your device. Your iOS device will reboot several times throughout the process. Tap on the Pangu icon on your iOS device when prompted to do so by Pangu. This completes the jailbreaking process, and your device will reboot one more time. When complete, Cydia will be displayed in the app tray. Disconnect your iOS device from your computer and close Pangu. Your device is now officially jailbroken and untethered. Using Evasi0n Back up all data on your iOS device to iTunes or iCloud. This helps preserve your data in the event jailbreaking results in data loss. Navigate to \u201cSettings\u201d and tap on \u201cGeneral.\u201d  Toggle the \u201cPasscode Lock\u201d feature to \u201cOff.\u201d This feature must be disabled before you can jailbreak your iOS device using Evasi0n.  Swipe up on your screen, then tap on the airplane icon. This enables Airplane Mode, which helps ensure jailbreaking runs successfully. Navigate to the official Evasi0n website at http://evasi0n.com/.  Select the option to download Evasi0n for your Windows or Mac computer.  Right-click on your desktop and select the option to create a new folder called \u201cEvasi0n.\u201d  Right-click on the Evasi0n .zip file and select \u201cExtract Here.\u201d  Select the option to extract all contents of the Evasi0n .zip file to the new \u201cEvasi0n\u201d folder you just created.  Connect your iOS device to your computer using a USB cable. iTunes will open automatically upon detecting your device. Close iTunes, then double-click on the Evasi0n .exe file.  Select the option to \u201cRun\u201d the file. No installation is necessary. Click on \u201cMore Info\u201d and select \u201cAllow\u201d to launch Pangu if using Windows 8. Right-click on the Evasi0n .exe file and select \u201cRun as administrator\u201d if using Windows 7. Click on \u201cJailbreak,\u201d then follow the on-screen instructions to finish jailbreaking your device. Your iOS device will reboot several times throughout the process. Tap on the \u201cEvasi0n\u201d icon when prompted to do so by the jailbreaking software. Evasi0n will open and close, and your iOS device will reboot once again. Close Evasi0n on your computer. Your iOS device will reboot one final time. Disconnect your iOS device from your computer. Cydia will display in the app tray, and your device is now jailbroken and untethered. Troubleshooting Connect your iOS device to iTunes and try restoring the device or installing available updates if jailbreaking fails to complete. This can help resolve problems associated with conflicts between jailbreak software and over-the-air firmware updates. Perform a hard reset on your iOS device if it stops working shortly after jailbreaking. This will restore your device to the original factory settings and help correct software problems. Reboot your iOS device and computer if you encounter any errors during jailbreaking. This helps reset both devices to ensure jailbreaking completes successfully. Launch iTunes and install available updates if Pangu or Evasi0n fail to detect your iOS device. Outdated versions of iTunes may be incompatible with some versions of jailbreaking software. Download an app called CrashReporter from Cydia to detect and identify any ongoing problems that may be associated with the jailbreak. CrashReporter will provide you with suggestions and resolutions on how to correct software problems caused on behalf of jailbreaking. Use a different USB cable and USB port if neither your computer or jailbreak software recognizes your iOS device. This can help rule out problems with faulty hardware, including those associated with your iOS device.",
+  "tyn_model":[
+    "ios device",
+    "pangu",
+    "\u201d and",
+    "\u201d  ",
+    "itunes",
+    "\u201crun",
+    "\u201cevasi0n",
+    "\u201csettings",
+    "\u201cgeneral",
+    "\u201cpasscode",
+    "\u201d feature",
+    "\u201coff",
+    "\u201d this",
+    "\u201cmore",
+    "\u201callow",
+    "\u201d to",
+    "\u201d if",
+    "\u201d then",
+    "usb cable",
+    "\u201cstart",
+    "\u201cextract",
+    "\u201d folder",
+    "\u201d the",
+    "\u201cjailbreak",
+    "\u201d icon"
+  ],
+  "tyn_section":[
+
+  ]
+}

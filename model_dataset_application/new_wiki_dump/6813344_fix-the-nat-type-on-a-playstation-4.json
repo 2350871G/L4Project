@@ -1,0 +1,78 @@
+{
+  "title":"How to Fix the NAT Type on a PlayStation 4",
+  "url":"https://www.wikihow.com/Fix-the-NAT-Type-on-a-PlayStation-4",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation 4"
+  ],
+  "parts":[
+    {
+      "name":"Forwarding Ports on Your Router",
+      "steps":[
+        {
+          "headline":"Check your connections.",
+          "description":"Make sure that your modem is powered on and connected to your router (which should also be powered on). Check if your computers as well as the PS4 is able to get online."
+        },
+        {
+          "headline":"Plug-in a computer to your router.",
+          "description":"If a computer isn\u2019t plugged in to your router yet, then make sure that you have one connected via an ethernet (RJ-45) cable. This is going to be the computer that we\u2019ll use for configuring the router."
+        },
+        {
+          "headline":"Access your modem/router\u2019s setup page.",
+          "description":"Once your computer (laptop/desktop) is connected, open up your browser and type in http://192.168.1.1 on its address field. Press on the Enter key and it should now ask your for a username and password. The default for most routers is admin for both the username and password. You can technically use any device that supports modern browsers like Firefox, Chrome, or even Internet Explorer/Edge (the latest versions) for this step. The default username and password for some routers can be found on the routers themselves. This information is usually found together with the router\u2019s serial number. 192.168.1.1 is the default IP address of most routers. There are routers though that have completely different default IP addresses. Before accessing the router\u2019s setup page, make sure to refer to your router\u2019s documentation."
+        },
+        {
+          "headline":"Turn on UPnP.",
+          "description":"For this step, you\u2019ll need to refer to your router manufacturer\u2019s manual to look for your router\u2019s network settings (or something similar) option. You\u2019ll then need to make sure that UPnP (universal plug and play) is enabled from there."
+        },
+        {
+          "headline":"Access the Port Forwarding page.",
+          "description":"After enabling your router\u2019s UPnP option, go ahead and look for a tab/option called port forwarding (usually found under the Network Settings or Applications and Gaming tab on your router\u2019s setup page)."
+        },
+        {
+          "headline":"Forward TCP and UDP ports.",
+          "description":"Once in this port forwarding tab, you\u2019ll then need to indicate the TCP and UDP ports that have to be forwarded/opened. For the PS4, the TCP and UDP port ranges you\u2019ll want to be opened are 80, 443, 465, 983, 3478-3480, 3658, 5223, 6000-7000, 9293, 10070-10080."
+        },
+        {
+          "headline":"Save the changes.",
+          "description":"Once you\u2019ve forwarded the necessary ports, don\u2019t forget to save the changes and close out your browser."
+        }
+      ]
+    },
+    {
+      "name":"Checking Your PS4\u2019s NAT Type",
+      "steps":[
+        {
+          "headline":"Restart the PS4.",
+          "description":"To refresh the network settings on your PS4, turn it off and then back on. This will force the PS4 to reconnect to the router\u2019s reconfigured network."
+        },
+        {
+          "headline":"Access its Network Settings.",
+          "description":"After restarting the PS4, go to its dashboard and go to Settings. Scroll down and look for the Network Settings option. You should now see your PS4 IP address settings as well as its NAT Type set to 2 or Moderate."
+        },
+        {
+          "headline":"Test out your connection.",
+          "description":"Now go ahead and test your connection by accessing the PSN Store or by playing a multiplayer game online while using Voice Chat."
+        }
+      ]
+    }
+  ],
+  "text":" Forwarding Ports on Your Router Check your connections. Make sure that your modem is powered on and connected to your router (which should also be powered on). Check if your computers as well as the PS4 is able to get online. Plug-in a computer to your router. If a computer isn\u2019t plugged in to your router yet, then make sure that you have one connected via an ethernet (RJ-45) cable. This is going to be the computer that we\u2019ll use for configuring the router. Access your modem/router\u2019s setup page. Once your computer (laptop/desktop) is connected, open up your browser and type in http://192.168.1.1 on its address field. Press on the Enter key and it should now ask your for a username and password. The default for most routers is admin for both the username and password. You can technically use any device that supports modern browsers like Firefox, Chrome, or even Internet Explorer/Edge (the latest versions) for this step. The default username and password for some routers can be found on the routers themselves. This information is usually found together with the router\u2019s serial number. 192.168.1.1 is the default IP address of most routers. There are routers though that have completely different default IP addresses. Before accessing the router\u2019s setup page, make sure to refer to your router\u2019s documentation. Turn on UPnP. For this step, you\u2019ll need to refer to your router manufacturer\u2019s manual to look for your router\u2019s network settings (or something similar) option. You\u2019ll then need to make sure that UPnP (universal plug and play) is enabled from there. Access the Port Forwarding page. After enabling your router\u2019s UPnP option, go ahead and look for a tab/option called port forwarding (usually found under the Network Settings or Applications and Gaming tab on your router\u2019s setup page). Forward TCP and UDP ports. Once in this port forwarding tab, you\u2019ll then need to indicate the TCP and UDP ports that have to be forwarded/opened. For the PS4, the TCP and UDP port ranges you\u2019ll want to be opened are 80, 443, 465, 983, 3478-3480, 3658, 5223, 6000-7000, 9293, 10070-10080. Save the changes. Once you\u2019ve forwarded the necessary ports, don\u2019t forget to save the changes and close out your browser. Checking Your PS4\u2019s NAT Type Restart the PS4. To refresh the network settings on your PS4, turn it off and then back on. This will force the PS4 to reconnect to the router\u2019s reconfigured network. Access its Network Settings. After restarting the PS4, go to its dashboard and go to Settings. Scroll down and look for the Network Settings option. You should now see your PS4 IP address settings as well as its NAT Type set to 2 or Moderate. Test out your connection. Now go ahead and test your connection by accessing the PSN Store or by playing a multiplayer game online while using Voice Chat.",
+  "tyn_model":[
+    "router",
+    "routers",
+    "ps4",
+    "modem",
+    "computer",
+    "port forwarding",
+    "ethernet (rj-45) cable",
+    "internet explorer/edge (the",
+    "voice chat"
+  ],
+  "tyn_section":[
+
+  ]
+}

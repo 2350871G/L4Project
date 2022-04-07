@@ -1,0 +1,47 @@
+{
+  "title":"How to Measure the Distance to a Galaxy",
+  "url":"https://www.wikihow.com/Measure-the-Distance-to-a-Galaxy",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Find a clear digital photograph of the galaxy whose distance you wish to measure.",
+      "description":"These are available on the NED or MAST DSS websites."
+    },
+    {
+      "headline":"Save the photo as a negative and print it on a printer.",
+      "description":"Although this can be done on a computer screen using Gimp."
+    },
+    {
+      "headline":"Draw a line along the major axis of the galaxy.",
+      "description":"The spiral galaxy will have spiral arms which will cross the line you have drawn at regular intervals. Make a measure of the distance between these intervals. You may use a ruler on a printed out photo and take an average, or use the measuring device in Gimp, or use MATLAB to extract the pixels along the major axis and apply a fast Fourier transform onto the extracted set of pixels if you are a geek."
+    },
+    {
+      "headline":"Find the particular width in arc minutes of the photograph, which you will have used when selecting it from NED or MAST DSS.",
+      "description":"The photo will also have its width given in pixels. Or, if you have used a ruler, you can measure the width of the photo in inches or centimeters. The purpose of this is to convert the measured interval length between spiral arms along the major axis of the galaxy into arc minutes. It is important to measure, or determine, this interval in arc minutes. And with a little algebra, this is very easy to do. You do not have to be a geek to do it."
+    },
+    {
+      "headline":"Find out how fast the galaxy is spinning.",
+      "description":"Luckily, a vast number of galaxies have had their rotation speeds measured and these can be found online. Look for galactic rotation profiles or rotation curves and find one for your galaxy. There is a way to find out how fast a galaxy is spinning using line widths, but that is not covered here. When and if you find your galaxy's rotation profile, it will be a graph of rotation velocity vs radial distance from the centre of the galaxy. The velocity of rotation will flatten out to some maximum velocity, almost always given in Kilometers per second (kps). You will need to measure this maximum rotational velocity as best you can in kps. Ignore every thing about dark matter; it is completely irrelevant."
+    },
+    {
+      "headline":"Multiply the interval measure in arc minutes times the maximum velocity of rotation measure in kps.",
+      "description":""
+    },
+    {
+      "headline":"Divide 3.12E9 by the result.",
+      "description":"That is the distance to the galaxy in parsecs. If you multiply that distance by 3.26, that is the distance in light years."
+    }
+  ],
+  "text":" Find a clear digital photograph of the galaxy whose distance you wish to measure. These are available on the NED or MAST DSS websites. Save the photo as a negative and print it on a printer. Although this can be done on a computer screen using Gimp. Draw a line along the major axis of the galaxy. The spiral galaxy will have spiral arms which will cross the line you have drawn at regular intervals. Make a measure of the distance between these intervals. You may use a ruler on a printed out photo and take an average, or use the measuring device in Gimp, or use MATLAB to extract the pixels along the major axis and apply a fast Fourier transform onto the extracted set of pixels if you are a geek. Find the particular width in arc minutes of the photograph, which you will have used when selecting it from NED or MAST DSS. The photo will also have its width given in pixels. Or, if you have used a ruler, you can measure the width of the photo in inches or centimeters. The purpose of this is to convert the measured interval length between spiral arms along the major axis of the galaxy into arc minutes. It is important to measure, or determine, this interval in arc minutes. And with a little algebra, this is very easy to do. You do not have to be a geek to do it. Find out how fast the galaxy is spinning. Luckily, a vast number of galaxies have had their rotation speeds measured and these can be found online. Look for galactic rotation profiles or rotation curves and find one for your galaxy. There is a way to find out how fast a galaxy is spinning using line widths, but that is not covered here. When and if you find your galaxy's rotation profile, it will be a graph of rotation velocity vs radial distance from the centre of the galaxy. The velocity of rotation will flatten out to some maximum velocity, almost always given in Kilometers per second (kps). You will need to measure this maximum rotational velocity as best you can in kps. Ignore every thing about dark matter; it is completely irrelevant. Multiply the interval measure in arc minutes times the maximum velocity of rotation measure in kps.  Divide 3.12E9 by the result. That is the distance to the galaxy in parsecs. If you multiply that distance by 3.26, that is the distance in light years.",
+  "tyn_model":[
+    "ruler",
+    "printer",
+    "gimp",
+    "fourier transform"
+  ],
+  "tyn_section":[
+
+  ]
+}

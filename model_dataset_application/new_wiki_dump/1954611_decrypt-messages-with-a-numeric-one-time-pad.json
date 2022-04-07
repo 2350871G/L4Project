@@ -1,0 +1,30 @@
+{
+  "title":"How to Decrypt Messages with a Numeric One Time Pad",
+  "url":"https://www.wikihow.com/Decrypt-Messages-with-a-Numeric-One-Time-Pad",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games"
+  ],
+  "steps":[
+    {
+      "headline":"Obtain the encrypted message.",
+      "description":"Assume that the message is the following: 79639 36901 36540 18290 94085 0"
+    },
+    {
+      "headline":"Verify that the same key was used by comparing the first set of letters with your one-time pad.",
+      "description":"Assume that your key is the following: 79639 69354 99819 87002 57775 66097"
+    },
+    {
+      "headline":"Use modular addition to decrypt the cipher key.",
+      "description":""
+    }
+  ],
+  "text":" Obtain the encrypted message. Assume that the message is the following: 79639 36901 36540 18290 94085 0 Verify that the same key was used by comparing the first set of letters with your one-time pad. Assume that your key is the following: 79639 69354 99819 87002 57775 66097 Use modular addition to decrypt the cipher key. ",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

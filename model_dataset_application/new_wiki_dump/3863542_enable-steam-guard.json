@@ -1,0 +1,105 @@
+{
+  "title":"How to Enable Steam Guard",
+  "url":"https://www.wikihow.com/Enable-Steam-Guard",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "parts":[
+    {
+      "name":"Verifying Your Email Address",
+      "steps":[
+        {
+          "headline":"Open the Steam \"Settings\" (Windows) or \"Preferences\" (Mac) menu.",
+          "description":"You can access this by clicking the \"Steam\" menu and selecting \"Settings\"/\"Preferences\". If you're using the Steam website, click your profile name in the upper-right corner and select \"Account details\"."
+        },
+        {
+          "headline":"Click the \"Verify Email Address\" button.",
+          "description":"Follow the prompts to send a verification email to the email address you used to sign up for Steam."
+        },
+        {
+          "headline":"Open the verification email.",
+          "description":"It should appear after a few moments. Follow the link in the verification email to complete the email verification process."
+        },
+        {
+          "headline":"I'm not receiving a verification email.",
+          "description":"If you're not receiving your verification email, there could be a few different causes. Make sure you're checking the email that you used to create your Steam account. If you no longer have access to the email address that you used to sign up, you'll need to contact Stem Support at support.steampowered.com/newticket.php. If you're using Gmail, the verification email may appear in the \"Updates\" tab. Check your Spam folder if the message isn't appearing. If it's still not showing up, add support@steampowered.com and noreply@steampowered.com to your list of trusted email addresses."
+        }
+      ]
+    },
+    {
+      "name":"Enabling Steam Guard",
+      "steps":[
+        {
+          "headline":"Restart Steam twice to automatically turn Steam Guard on.",
+          "description":"After verifying your email address, Steam Guard will turn itself on automatically if you restart Steam twice. This is a security precaution."
+        },
+        {
+          "headline":"Click the \"Enable Steam Guard\" button in the Settings or Preferences menu.",
+          "description":"This is the way to enable Steam Guard if you've just verified your email address or if you have disabled Steam Guard in the past."
+        },
+        {
+          "headline":"Verify that Steam Guard is turned on.",
+          "description":"In the \"Account\" tab of your Settings or Preferences menu, \"Security Status\" will display \"Protected by Steam Guard\" if Steam Guard has been enabled. Note: After enabling Steam Guard, you will need to wait 15 days before you can trade or use the Community Market."
+        },
+        {
+          "headline":"There is no \"Enable Steam Guard\" button.",
+          "description":"If the \"Account\" tab in your Settings or Preferences menu does not display an \"Enable Steam Guard\" button, you've likely recently had your account restored by Steam Support. Log completely out of Steam and then log back in to make the button appear."
+        }
+      ]
+    },
+    {
+      "name":"Using Steam Guard to Log In",
+      "steps":[
+        {
+          "headline":"Log in from a new computer or web browser.",
+          "description":"When Steam Guard is enabled, you will be prompted to enter a code whenever you log in from a location or device that hasn't been associated with your account. This helps prevent unauthorized access to your Steam account."
+        },
+        {
+          "headline":"Open the verification email.",
+          "description":"The subject will be \"Your Steam account: Access from a new computer/device\". This will be sent to the email address that you verified with Steam when enabling Steam Guard. Check your Spam folder if the message isn't appearing. If it's still not showing up, add support@steampowered.com and noreply@steampowered.com to your list of trusted email addresses."
+        },
+        {
+          "headline":"Copy the code in the verification email.",
+          "description":"Your verification email will contain a five-digit code that you will use to pass Steam Guard."
+        },
+        {
+          "headline":"Click \"Next\" in the \"Steam Guard\" window, and then paste your code into the field.",
+          "description":""
+        },
+        {
+          "headline":"Check \"Remember this computer\" if you're accessing Steam from your personal device.",
+          "description":"Do not select this if you are logging in from a public computer."
+        },
+        {
+          "headline":"Give the computer a \"friendly name\" if you use it often.",
+          "description":"This will allow you to easily distinguish what devices have been authorized for your Steam account. For example, you could name your work computer \"Office\"."
+        },
+        {
+          "headline":"Log into Steam.",
+          "description":"Once you enter the code and click \"Next\", you'll be logged in and will be able to use Steam as normal. Note that when authorizing a new device, you'll be locked out of trading and the Community Market for 15 days on that device."
+        },
+        {
+          "headline":"Steam asks for a code every time I log in from the same computer.",
+          "description":"This is usually caused by a problem with the authentication file on your computer. There are a few things you can try to fix it:\nFirst, try restarting Steam. Log out completely and then log back in. This will fix most issues. Delete your ClientRegistry.blob file. Restart Steam after doing so. You can find it at the following default locations:\nWindows - C:\\Program Files\\Steam\n\nMac - ~/User/username/Library/Application Support/Steam"
+        },
+        {
+          "headline":"I still get prompted for a code every time.",
+          "description":"If the above still doesn't work, you may be able to fix the problem by deleting all of your Steam program files. This will not affect any of your game files. Exit Steam and then open the same location as above. Delete everything except the SteamApps folder and steam.exe (Windows) and UserData (Mac). Restart Steam and it will redownload the necessary files."
+        }
+      ]
+    }
+  ],
+  "text":" Verifying Your Email Address Open the Steam \"Settings\" (Windows) or \"Preferences\" (Mac) menu. You can access this by clicking the \"Steam\" menu and selecting \"Settings\"/\"Preferences\". If you're using the Steam website, click your profile name in the upper-right corner and select \"Account details\". Click the \"Verify Email Address\" button. Follow the prompts to send a verification email to the email address you used to sign up for Steam. Open the verification email. It should appear after a few moments. Follow the link in the verification email to complete the email verification process. I'm not receiving a verification email. If you're not receiving your verification email, there could be a few different causes. Make sure you're checking the email that you used to create your Steam account. If you no longer have access to the email address that you used to sign up, you'll need to contact Stem Support at support.steampowered.com/newticket.php. If you're using Gmail, the verification email may appear in the \"Updates\" tab. Check your Spam folder if the message isn't appearing. If it's still not showing up, add support@steampowered.com and noreply@steampowered.com to your list of trusted email addresses. Enabling Steam Guard Restart Steam twice to automatically turn Steam Guard on. After verifying your email address, Steam Guard will turn itself on automatically if you restart Steam twice. This is a security precaution. Click the \"Enable Steam Guard\" button in the Settings or Preferences menu. This is the way to enable Steam Guard if you've just verified your email address or if you have disabled Steam Guard in the past. Verify that Steam Guard is turned on. In the \"Account\" tab of your Settings or Preferences menu, \"Security Status\" will display \"Protected by Steam Guard\" if Steam Guard has been enabled. Note: After enabling Steam Guard, you will need to wait 15 days before you can trade or use the Community Market. There is no \"Enable Steam Guard\" button. If the \"Account\" tab in your Settings or Preferences menu does not display an \"Enable Steam Guard\" button, you've likely recently had your account restored by Steam Support. Log completely out of Steam and then log back in to make the button appear. Using Steam Guard to Log In Log in from a new computer or web browser. When Steam Guard is enabled, you will be prompted to enter a code whenever you log in from a location or device that hasn't been associated with your account. This helps prevent unauthorized access to your Steam account. Open the verification email. The subject will be \"Your Steam account: Access from a new computer/device\". This will be sent to the email address that you verified with Steam when enabling Steam Guard. Check your Spam folder if the message isn't appearing. If it's still not showing up, add support@steampowered.com and noreply@steampowered.com to your list of trusted email addresses. Copy the code in the verification email. Your verification email will contain a five-digit code that you will use to pass Steam Guard. Click \"Next\" in the \"Steam Guard\" window, and then paste your code into the field.  Check \"Remember this computer\" if you're accessing Steam from your personal device. Do not select this if you are logging in from a public computer. Give the computer a \"friendly name\" if you use it often. This will allow you to easily distinguish what devices have been authorized for your Steam account. For example, you could name your work computer \"Office\". Log into Steam. Once you enter the code and click \"Next\", you'll be logged in and will be able to use Steam as normal. Note that when authorizing a new device, you'll be locked out of trading and the Community Market for 15 days on that device. Steam asks for a code every time I log in from the same computer. This is usually caused by a problem with the authentication file on your computer. There are a few things you can try to fix it:\nFirst, try restarting Steam. Log out completely and then log back in. This will fix most issues. Delete your ClientRegistry.blob file. Restart Steam after doing so. You can find it at the following default locations:\nWindows - C:\\Program Files\\Steam\n\nMac - ~/User/username/Library/Application Support/Steam I still get prompted for a code every time. If the above still doesn't work, you may be able to fix the problem by deleting all of your Steam program files. This will not affect any of your game files. Exit Steam and then open the same location as above. Delete everything except the SteamApps folder and steam.exe (Windows) and UserData (Mac). Restart Steam and it will redownload the necessary files.",
+  "tyn_model":[
+    "steam",
+    "steam guard",
+    "gmail",
+    "mac"
+  ],
+  "tyn_section":[
+
+  ]
+}

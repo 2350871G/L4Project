@@ -1,0 +1,68 @@
+{
+  "title":"How to Set up a Steam Server",
+  "url":"https://www.wikihow.com/Set-up-a-Steam-Server",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "steps":[
+    {
+      "headline":"Set up open ports between 27000-27015, depending on which you choose to use for your server.",
+      "description":""
+    },
+    {
+      "headline":"Download the Steam engine.",
+      "description":""
+    },
+    {
+      "headline":"Download, install and open the Dedicated Server.",
+      "description":""
+    },
+    {
+      "headline":"If you have windows and your are running the server from the GUI (the default option):",
+      "description":"Select the game you want to host; Change the server name to something familiar; Make it WAN (Wide Area Network) by selecting Internet in the network section or LAN (Local Area Network) to play it in a closed network."
+    },
+    {
+      "headline":"Set the Maximum Players your server will host to something reasonable",
+      "description":""
+    },
+    {
+      "headline":"The UDP port is normally set between 27000-27015.",
+      "description":"The default port is 27015 for a dedicated server, although it may enter in conflict with a client on the same machine."
+    },
+    {
+      "headline":"Enter a RCON",
+      "description":""
+    },
+    {
+      "headline":"password to enter commands in the server console remotely.",
+      "description":""
+    },
+    {
+      "headline":"Check Secure.",
+      "description":""
+    },
+    {
+      "headline":"Start the server.",
+      "description":"{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/73\\/Set-up-a-Steam-Server-Step-11-Version-2.jpg\\/v4-460px-Set-up-a-Steam-Server-Step-11-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/73\\/Set-up-a-Steam-Server-Step-11-Version-2.jpg\\/v4-760px-Set-up-a-Steam-Server-Step-11-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"}"
+    },
+    {
+      "headline":"Or, if you prefer, you can host a free one in www.afterhosting.com.br, Hosting a Server there you get, TcAdmin Panel, Auto-installer for scripts and plug-ins, support and much more!",
+      "description":"!"
+    }
+  ],
+  "text":" Set up open ports between 27000-27015, depending on which you choose to use for your server.  Download the Steam engine.  Download, install and open the Dedicated Server.  If you have windows and your are running the server from the GUI (the default option): Select the game you want to host; Change the server name to something familiar; Make it WAN (Wide Area Network) by selecting Internet in the network section or LAN (Local Area Network) to play it in a closed network. Set the Maximum Players your server will host to something reasonable  The UDP port is normally set between 27000-27015. The default port is 27015 for a dedicated server, although it may enter in conflict with a client on the same machine. Enter a RCON  password to enter commands in the server console remotely.  Check Secure.  Start the server. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/73\\/Set-up-a-Steam-Server-Step-11-Version-2.jpg\\/v4-460px-Set-up-a-Steam-Server-Step-11-Version-2.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/7\\/73\\/Set-up-a-Steam-Server-Step-11-Version-2.jpg\\/v4-760px-Set-up-a-Steam-Server-Step-11-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":345,\"bigWidth\":760,\"bigHeight\":570,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a> (screenshot)<br>\\n<\\/p><\\/div>\"} Or, if you prefer, you can host a free one in www.afterhosting.com.br, Hosting a Server there you get, TcAdmin Panel, Auto-installer for scripts and plug-ins, support and much more! !",
+  "tyn_model":[
+    "steam-",
+    "steam engine",
+    "udp",
+    "steam",
+    "parser",
+    "server"
+  ],
+  "tyn_section":[
+
+  ]
+}

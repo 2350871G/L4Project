@@ -1,0 +1,126 @@
+{
+  "title":"How to Solve a 15 Puzzle",
+  "url":"https://www.wikihow.com/Solve-a-15-Puzzle",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games",
+    "Mathematical Puzzles"
+  ],
+  "methods":[
+    {
+      "name":"Solving the First Row",
+      "steps":[
+        {
+          "headline":"Place 1 and 2 on their original places.",
+          "description":""
+        },
+        {
+          "headline":"Place 4 on the right side of 2.",
+          "description":""
+        },
+        {
+          "headline":"Place 3 under 4.",
+          "description":""
+        },
+        {
+          "headline":"Make an empty space on the right side of 4.",
+          "description":""
+        },
+        {
+          "headline":"Push 4 to the empty space.",
+          "description":""
+        },
+        {
+          "headline":"Push 3 upward.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Solving the Second Row",
+      "steps":[
+        {
+          "headline":"Place 5 and 6 on their original places.",
+          "description":""
+        },
+        {
+          "headline":"Place 8 on the right side of 6.",
+          "description":""
+        },
+        {
+          "headline":"Place 7 under 8.",
+          "description":""
+        },
+        {
+          "headline":"Make an empty space on the right side of 8.",
+          "description":""
+        },
+        {
+          "headline":"Push 8 to the empty space.",
+          "description":""
+        },
+        {
+          "headline":"Push 7 upward.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Solving the Third and Fourth Rows",
+      "steps":[
+        {
+          "headline":"Place 13 on the original place of 9.",
+          "description":""
+        },
+        {
+          "headline":"Place 9 on the right side of 13.",
+          "description":"Move 13 temporarily if you have to."
+        },
+        {
+          "headline":"Make an empty space under 13.",
+          "description":""
+        },
+        {
+          "headline":"Push 13 downward.",
+          "description":""
+        },
+        {
+          "headline":"Push 9 leftward.",
+          "description":""
+        },
+        {
+          "headline":"Place 14 on the original place of 10.",
+          "description":""
+        },
+        {
+          "headline":"Place 10 on the right side of 14.",
+          "description":"Move 14 temporarily if you have to."
+        },
+        {
+          "headline":"Make an empty space under14.",
+          "description":""
+        },
+        {
+          "headline":"Push 14 downward.",
+          "description":""
+        },
+        {
+          "headline":"Push 10 leftward.",
+          "description":""
+        },
+        {
+          "headline":"Move around the blocks 11, 12, and 15 to put them to their original places.",
+          "description":"If they don't go to their original places, do method 3 again by mixing only the last two rows."
+        }
+      ]
+    }
+  ],
+  "text":" Solving the First Row Place 1 and 2 on their original places.  Place 4 on the right side of 2.  Place 3 under 4.  Make an empty space on the right side of 4.  Push 4 to the empty space.  Push 3 upward.  Solving the Second Row Place 5 and 6 on their original places.  Place 8 on the right side of 6.  Place 7 under 8.  Make an empty space on the right side of 8.  Push 8 to the empty space.  Push 7 upward.  Solving the Third and Fourth Rows Place 13 on the original place of 9.  Place 9 on the right side of 13. Move 13 temporarily if you have to. Make an empty space under 13.  Push 13 downward.  Push 9 leftward.  Place 14 on the original place of 10.  Place 10 on the right side of 14. Move 14 temporarily if you have to. Make an empty space under14.  Push 14 downward.  Push 10 leftward.  Move around the blocks 11, 12, and 15 to put them to their original places. If they don't go to their original places, do method 3 again by mixing only the last two rows.",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

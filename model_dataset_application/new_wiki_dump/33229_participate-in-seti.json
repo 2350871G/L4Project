@@ -1,0 +1,62 @@
+{
+  "title":"How to Participate in SETI",
+  "url":"https://www.wikihow.com/Participate-in-SETI",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Let's start building a monster computer that will excel at distributed computing tasks.",
+      "description":""
+    },
+    {
+      "headline":"Get a good motherboard.",
+      "description":"Get one with support for plenty of RAM, but crucially, seek multi-processor support. The more processors you jam into the computer, the more simultaneous tasks you can undertake. Also, for the fastest upgrade path, get one with 64 bit support."
+    },
+    {
+      "headline":"Put in enough RAM to do this stuff.",
+      "description":"Nowadays, you can get up to 128GB of RAM on consumer platforms (LGA 2011-V3). Better make it the fastest RAM (that your chipset/CPU clock speed will allow)."
+    },
+    {
+      "headline":"Fit as many processors as your motherboard allows, and make them expensive, powerful ones.",
+      "description":"The more expensive and powerful the better. Server processors are better in some categories than normal processors."
+    },
+    {
+      "headline":"For extreme Seti performance you will need a powerful GPU, get the latest high end graphics card, or ideally more than one (nvidia is better at this)!",
+      "description":"Its trickier configuring the Bionic Manager to get all the cards/cores to work at the same time but if you do, this will blow away any CPU on the market. Period."
+    },
+    {
+      "headline":"Install an operating system with the least amount of overhead.",
+      "description":"If you want to avoid learning a new operating system, use one in which you are comfortable installing and using. Operating systems in order of least overhead:\nLimeTech unRAID (If you want to run multiple Operating Systems)\nWindows Server 2016/2013 r2\nMacOS X (Snow Leopard)\nWindows 10"
+    },
+    {
+      "headline":"Download and Install the BOINC software that Seti@Home and the other Good Causes runs on.",
+      "description":""
+    },
+    {
+      "headline":"Get the URL of the project you want to join (eg.",
+      "description":"http://setiathome.berkeley.edu/). Type the URL into BOINC, and it will download work-units (WUs) to start processing."
+    },
+    {
+      "headline":"Start crunching those SETI (or other Good Cause) packets.",
+      "description":"Graphs and statistics are provided in the software, so you can track your progress."
+    },
+    {
+      "headline":"Good Luck!",
+      "description":""
+    }
+  ],
+  "text":" Let's start building a monster computer that will excel at distributed computing tasks.  Get a good motherboard. Get one with support for plenty of RAM, but crucially, seek multi-processor support. The more processors you jam into the computer, the more simultaneous tasks you can undertake. Also, for the fastest upgrade path, get one with 64 bit support. Put in enough RAM to do this stuff. Nowadays, you can get up to 128GB of RAM on consumer platforms (LGA 2011-V3). Better make it the fastest RAM (that your chipset/CPU clock speed will allow). Fit as many processors as your motherboard allows, and make them expensive, powerful ones. The more expensive and powerful the better. Server processors are better in some categories than normal processors. For extreme Seti performance you will need a powerful GPU, get the latest high end graphics card, or ideally more than one (nvidia is better at this)! Its trickier configuring the Bionic Manager to get all the cards/cores to work at the same time but if you do, this will blow away any CPU on the market. Period. Install an operating system with the least amount of overhead. If you want to avoid learning a new operating system, use one in which you are comfortable installing and using. Operating systems in order of least overhead:\nLimeTech unRAID (If you want to run multiple Operating Systems)\nWindows Server 2016/2013 r2\nMacOS X (Snow Leopard)\nWindows 10 Download and Install the BOINC software that Seti@Home and the other Good Causes runs on.  Get the URL of the project you want to join (eg. http://setiathome.berkeley.edu/). Type the URL into BOINC, and it will download work-units (WUs) to start processing. Start crunching those SETI (or other Good Cause) packets. Graphs and statistics are provided in the software, so you can track your progress. Good Luck! ",
+  "tyn_model":[
+    "ram",
+    "motherboard",
+    "gpu",
+    "graphics card",
+    "cpu",
+    "operating system",
+    "boinc"
+  ],
+  "tyn_section":[
+
+  ]
+}

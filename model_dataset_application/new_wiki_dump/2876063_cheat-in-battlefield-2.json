@@ -1,0 +1,48 @@
+{
+  "title":"How to Cheat in Battlefield 2",
+  "url":"https://www.wikihow.com/Cheat-in-Battlefield-2",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Battlefield"
+  ],
+  "methods":[
+    {
+      "name":"Cheat Codes",
+      "steps":[
+        {
+          "headline":"Become INVINCIBLE!",
+          "description":"You can even become invincible in Battlefield 2 which means you'll never die even though getting lots of bullets on your head or those bomb explosions. Here's how, press '~' to open the console window (this is where you type cheat codes to be executed in the game) and then simply type 'aiCheats.code Tobias.Karlsson' (without the quotes) and there you have it you'll never die now. (only in the game)"
+        },
+        {
+          "headline":"Bots:",
+          "description":"You can use this cheat code to activate the bots 'aiCheats.code BotsCanCheatToo' You can use this cheat code to kill all the bots in the game 'aiCheats.code Thomas.Skoldenborg' And finally, you can use this cheat codes to kill off all the enemy bots 'aiCheats.code Jonathan.Gustavsson'"
+        }
+      ]
+    },
+    {
+      "name":"Weapons dilemma",
+      "steps":[
+        {
+          "headline":"In battlefield 2 there's even a way to unlock all the weapons that were probably set to get unlocked later on or by completing some task.",
+          "description":"But you can easily gain access to all these weapons without moving a muscle. Now this procedure involves editing the game file so be aware."
+        },
+        {
+          "headline":"First, create a backup copy of the file keep it safe (in case when we edit the file may be corrupt and the game may...",
+          "description":"BLAST!!!). Find the file \"unlocks.py\" (HINT : \"\\python\\bf2\\stats\") and open it up with any text editor. Then go to line  44 and then change the \"defaultUnlocks = [0, 0, 0, 0, 0, 0, 0]\" to \"defaultUnlocks = [1, 1, 1, 1, 1, 1, 1]\". And save the file and open up your game, you must have all the weapons unlocked."
+        }
+      ]
+    }
+  ],
+  "text":" Cheat Codes Become INVINCIBLE! You can even become invincible in Battlefield 2 which means you'll never die even though getting lots of bullets on your head or those bomb explosions. Here's how, press '~' to open the console window (this is where you type cheat codes to be executed in the game) and then simply type 'aiCheats.code Tobias.Karlsson' (without the quotes) and there you have it you'll never die now. (only in the game) Bots: You can use this cheat code to activate the bots 'aiCheats.code BotsCanCheatToo' You can use this cheat code to kill all the bots in the game 'aiCheats.code Thomas.Skoldenborg' And finally, you can use this cheat codes to kill off all the enemy bots 'aiCheats.code Jonathan.Gustavsson' Weapons dilemma In battlefield 2 there's even a way to unlock all the weapons that were probably set to get unlocked later on or by completing some task. But you can easily gain access to all these weapons without moving a muscle. Now this procedure involves editing the game file so be aware. First, create a backup copy of the file keep it safe (in case when we edit the file may be corrupt and the game may... BLAST!!!). Find the file \"unlocks.py\" (HINT : \"\\python\\bf2\\stats\") and open it up with any text editor. Then go to line  44 and then change the \"defaultUnlocks = [0, 0, 0, 0, 0, 0, 0]\" to \"defaultUnlocks = [1, 1, 1, 1, 1, 1, 1]\". And save the file and open up your game, you must have all the weapons unlocked.",
+  "tyn_model":[
+    "weapons",
+    "battlefield 2",
+    "text editor"
+  ],
+  "tyn_section":[
+
+  ]
+}

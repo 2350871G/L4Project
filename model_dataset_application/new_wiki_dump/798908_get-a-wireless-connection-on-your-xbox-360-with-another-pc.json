@@ -1,0 +1,75 @@
+{
+  "title":"How to Get a Wireless Connection on Your Xbox 360 With Another PC",
+  "url":"https://www.wikihow.com/Get-a-Wireless-Connection-on-Your-Xbox-360-With-Another-PC",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Xbox",
+    "Xbox 360"
+  ],
+  "steps":[
+    {
+      "headline":"Connect CAT5 cable end 1 into your Xbox 360",
+      "description":""
+    },
+    {
+      "headline":"Connect CAT5 cable end 2 into the laptop or computer your using",
+      "description":""
+    },
+    {
+      "headline":"Go onto the computer you are using and go to start; control panel; Network and connections.",
+      "description":"Note: Network and connection might be named different on different operating systems."
+    },
+    {
+      "headline":"In the Network and Connections there should be at least 2 connections: Your Local Area Connection (Your internet) and another which will be your Xbox.",
+      "description":""
+    },
+    {
+      "headline":"Right click on your wireless internet connection and click 'status' and then 'support'",
+      "description":""
+    },
+    {
+      "headline":"Select 'details'.",
+      "description":"Copy down the DNS servers onto paper. If your DNS server is 192.168.1.1 skip to the last step."
+    },
+    {
+      "headline":"Go back to the connections and right click your Xbox connection and go to 'Properties'.",
+      "description":"Click on Internet Protocol (IP/TCP)and select 'properties'. Select the 'use the following IP addresses' and 'use the following DNS serves addresses' options then enter this information IP address: 192.168.0.99, Subnet Mask: 255.255.255.0, Default Gateway: (Leave this one blank) and Preferred DNS: (Enter the first DNS Server you saved from the last step)/Alternate DNS: (Enter the Second DNS Server you wrote down from the previous step)"
+    },
+    {
+      "headline":"Now its time to set up your Xbox, turn your Xbox on and go to system, then network settings.",
+      "description":""
+    },
+    {
+      "headline":"Go to edit settings>Ip settings>Select manual",
+      "description":""
+    },
+    {
+      "headline":"Enter the following information: IP 192.168.0.100 (The IP from my PC and yours may be different), Subnet mask 255.255.255.0, Gateway 192.168.0.99.",
+      "description":"Press done and go back to 'edit settings', Set DNS settings for both primary and secondary as 192.168.0.99."
+    },
+    {
+      "headline":"Go back to your computer in the network connections right click on your Wireless Network Connection and go to properties, click advanced and check the box saying 'allow other users to connect to internet through this computer'.",
+      "description":"A message should pop up, click yes. Do not continue to the last step you are now finished."
+    },
+    {
+      "headline":"You will have to change this DNS server number or it will conflict your IP address.",
+      "description":"This can be done by changing your router settings."
+    }
+  ],
+  "text":" Connect CAT5 cable end 1 into your Xbox 360  Connect CAT5 cable end 2 into the laptop or computer your using  Go onto the computer you are using and go to start; control panel; Network and connections. Note: Network and connection might be named different on different operating systems. In the Network and Connections there should be at least 2 connections: Your Local Area Connection (Your internet) and another which will be your Xbox.  Right click on your wireless internet connection and click 'status' and then 'support'  Select 'details'. Copy down the DNS servers onto paper. If your DNS server is 192.168.1.1 skip to the last step. Go back to the connections and right click your Xbox connection and go to 'Properties'. Click on Internet Protocol (IP/TCP)and select 'properties'. Select the 'use the following IP addresses' and 'use the following DNS serves addresses' options then enter this information IP address: 192.168.0.99, Subnet Mask: 255.255.255.0, Default Gateway: (Leave this one blank) and Preferred DNS: (Enter the first DNS Server you saved from the last step)/Alternate DNS: (Enter the Second DNS Server you wrote down from the previous step) Now its time to set up your Xbox, turn your Xbox on and go to system, then network settings.  Go to edit settings>Ip settings>Select manual  Enter the following information: IP 192.168.0.100 (The IP from my PC and yours may be different), Subnet mask 255.255.255.0, Gateway 192.168.0.99. Press done and go back to 'edit settings', Set DNS settings for both primary and secondary as 192.168.0.99. Go back to your computer in the network connections right click on your Wireless Network Connection and go to properties, click advanced and check the box saying 'allow other users to connect to internet through this computer'. A message should pop up, click yes. Do not continue to the last step you are now finished. You will have to change this DNS server number or it will conflict your IP address. This can be done by changing your router settings.",
+  "tyn_model":[
+    "dns",
+    "cat5 cable",
+    "xbox",
+    "wireless internet connection",
+    "internet protocol",
+    "dns serves addresses",
+    "wireless network connection",
+    "router"
+  ],
+  "tyn_section":[
+
+  ]
+}

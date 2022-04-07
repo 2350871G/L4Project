@@ -1,0 +1,80 @@
+{
+  "title":"How to Use an App to Budget While Grocery Shopping",
+  "url":"https://www.wikihow.com/Use-an-App-to-Budget-While-Grocery-Shopping",
+  "category_hierarchy":[
+    "Food and Entertaining",
+    "Food Preparation",
+    "Meal Planning"
+  ],
+  "steps":[
+    {
+      "headline":"Take your receipt from your first shopping of the month and enter the type of food into column A, starting in cell A2, then in column B, enter the quantity you bought and in column C, enter the price you paid for that quantity if it was typical.",
+      "description":"Otherwise, enter the typical quantity you would purchase and the price for that typical quantity. Enter to cell A1 the label, Grocery Item, as applies to the type of food or item you purchased, the tax you paid, etc. Enter to cell D1 the date of your first shopping in the current month. Format Cells Number Date mm/dd/yy or just mm/dd for cell D1. Select the number of columns, starting with column D, that are possible shopping days in a month; for example, if you shop weekly on Tuesdays, there may be 5 Tuesdays in a month, so select D1:H1. If on the other hand, you shop every 10 days, then you only need 3 or 4  columns. Or, if you shop every 3 days, then you need about 10 columns. Select the cell range for the columns you entered in the previous step, e.g. select cell range D1:H1 if you shop weekly. Do Edit Fill Series Columns Date Day Step Value = 7 if you shop weekly and create the dates for the month on which you plan to shop. If you do not actually shop on those days, it's OK, just so long as you shop fairly close to one of them. Select the cell range containing all the dates but not the typical prices or quantities or type of food and do Format Cells Border, Outline, Center Vertical Bar too, in the color of your choice, in the line weight of your choice. With that same cell range selected, Format Cells Number $, decimal places 2."
+    },
+    {
+      "headline":"Enter to B1 the Variable Name, Quantity, and enter to C1 the variable name, Price.",
+      "description":"Select columns B:C and do Insert Names Create in Top Row, OK."
+    },
+    {
+      "headline":"You are now ready to enter the formulas for the first and or second week of shopping.",
+      "description":"Enter the formula, =Quantity*Price into cell D2 and possibly E2 and Edit Fill Down to the last item you shopped for in period 1 of the month."
+    },
+    {
+      "headline":"Create a blank row at the bottom of the Grocery Item list, then a row for Coupons, a row for Tax and a row for total.",
+      "description":"Make labels for each of those in column A. In the cells in those rows in columns D:H (or for however many columns of shopping periods you created), format the cells border outline in the color and line weight of your choice."
+    },
+    {
+      "headline":"For each column total, enter =sum(D1:Dnn), where nn is the number of the row where the Tax (or last item to be included in the Total) is to be entered.",
+      "description":""
+    },
+    {
+      "headline":"Enter the coupons and tax from your first period's shopping and balance your entries to the first period's receipt.",
+      "description":"The totals should match."
+    },
+    {
+      "headline":"Insert new rows with other items which you will purchase during the month but did not happen to purchase during period 1.",
+      "description":"Fill in the Grocery Item label. You may estimate the Quantity and Price if you like or if you know it or can find it on previous receipts."
+    },
+    {
+      "headline":"Select columns A:B and do Insert Columns.",
+      "description":""
+    },
+    {
+      "headline":"In the new column A, in cell A1, enter Sort:Rcpt, and in cell B1 enter Sort:Shop.",
+      "description":""
+    },
+    {
+      "headline":"Select cell range A2:(to the last item) and enter a 1 and then do Edit Series Fill and accept the default Step Value of 1.",
+      "description":"That will allow you to do data entry the quickest -- per your receipts."
+    },
+    {
+      "headline":"Go down column B and enter the Store Aisles the Grocery Items come from (or just approximate your store route from memory from the first item you shop for to the last).",
+      "description":"You can then sort on this column for your Shopping List, to print out, or take on your portable (or whatever devise you use)."
+    },
+    {
+      "headline":"When a month is done, save the file to an appropriate sub-folder, e.g.",
+      "description":"\"Groceries 2015\" or whatever the current year is. Then copy the top worksheet and title it for the next new current month and position it to the far left worksheet tab at the bottom."
+    },
+    {
+      "headline":"You may find it desirable to enter a row for non-taxable items like Prescription Drugs if your store has a pharmacy you use.",
+      "description":"If these are on a separate receipt and schedule, just create that off to the right by drug name and tie the periods to the top ones with formulas, e.g. =D1. Then create a subtotal, and grab that subtotal for the line AFTER your Grocery TOTAL line, and create a new Total, Groceries & Prescriptions, under the Prescriptions line (under the Grocery TOTAL line). It's a good idea to keep track of your co-pays, as these are deductible from your Income Tax on your Schedule A Form with your Health Insurance deduction, if they rise sufficiently above Adjusted Gross Income (AGI). See the note on this below in Tips."
+    },
+    {
+      "headline":"When you're done, your Excel worksheet should resemble something like this one pictured; this one has two columns for Quantity and two columns for Price because sometimes one changes the quantity one buys for more than several items.",
+      "description":"Also, sometimes discounts are entered directly into the cell instead of adjusting the price, if the item is on special that period."
+    }
+  ],
+  "text":" Take your receipt from your first shopping of the month and enter the type of food into column A, starting in cell A2, then in column B, enter the quantity you bought and in column C, enter the price you paid for that quantity if it was typical. Otherwise, enter the typical quantity you would purchase and the price for that typical quantity. Enter to cell A1 the label, Grocery Item, as applies to the type of food or item you purchased, the tax you paid, etc. Enter to cell D1 the date of your first shopping in the current month. Format Cells Number Date mm/dd/yy or just mm/dd for cell D1. Select the number of columns, starting with column D, that are possible shopping days in a month; for example, if you shop weekly on Tuesdays, there may be 5 Tuesdays in a month, so select D1:H1. If on the other hand, you shop every 10 days, then you only need 3 or 4  columns. Or, if you shop every 3 days, then you need about 10 columns. Select the cell range for the columns you entered in the previous step, e.g. select cell range D1:H1 if you shop weekly. Do Edit Fill Series Columns Date Day Step Value = 7 if you shop weekly and create the dates for the month on which you plan to shop. If you do not actually shop on those days, it's OK, just so long as you shop fairly close to one of them. Select the cell range containing all the dates but not the typical prices or quantities or type of food and do Format Cells Border, Outline, Center Vertical Bar too, in the color of your choice, in the line weight of your choice. With that same cell range selected, Format Cells Number $, decimal places 2. Enter to B1 the Variable Name, Quantity, and enter to C1 the variable name, Price. Select columns B:C and do Insert Names Create in Top Row, OK. You are now ready to enter the formulas for the first and or second week of shopping. Enter the formula, =Quantity*Price into cell D2 and possibly E2 and Edit Fill Down to the last item you shopped for in period 1 of the month. Create a blank row at the bottom of the Grocery Item list, then a row for Coupons, a row for Tax and a row for total. Make labels for each of those in column A. In the cells in those rows in columns D:H (or for however many columns of shopping periods you created), format the cells border outline in the color and line weight of your choice. For each column total, enter =sum(D1:Dnn), where nn is the number of the row where the Tax (or last item to be included in the Total) is to be entered.  Enter the coupons and tax from your first period's shopping and balance your entries to the first period's receipt. The totals should match. Insert new rows with other items which you will purchase during the month but did not happen to purchase during period 1. Fill in the Grocery Item label. You may estimate the Quantity and Price if you like or if you know it or can find it on previous receipts. Select columns A:B and do Insert Columns.  In the new column A, in cell A1, enter Sort:Rcpt, and in cell B1 enter Sort:Shop.  Select cell range A2:(to the last item) and enter a 1 and then do Edit Series Fill and accept the default Step Value of 1. That will allow you to do data entry the quickest -- per your receipts. Go down column B and enter the Store Aisles the Grocery Items come from (or just approximate your store route from memory from the first item you shop for to the last). You can then sort on this column for your Shopping List, to print out, or take on your portable (or whatever devise you use). When a month is done, save the file to an appropriate sub-folder, e.g. \"Groceries 2015\" or whatever the current year is. Then copy the top worksheet and title it for the next new current month and position it to the far left worksheet tab at the bottom. You may find it desirable to enter a row for non-taxable items like Prescription Drugs if your store has a pharmacy you use. If these are on a separate receipt and schedule, just create that off to the right by drug name and tie the periods to the top ones with formulas, e.g. =D1. Then create a subtotal, and grab that subtotal for the line AFTER your Grocery TOTAL line, and create a new Total, Groceries & Prescriptions, under the Prescriptions line (under the Grocery TOTAL line). It's a good idea to keep track of your co-pays, as these are deductible from your Income Tax on your Schedule A Form with your Health Insurance deduction, if they rise sufficiently above Adjusted Gross Income (AGI). See the note on this below in Tips. When you're done, your Excel worksheet should resemble something like this one pictured; this one has two columns for Quantity and two columns for Price because sometimes one changes the quantity one buys for more than several items. Also, sometimes discounts are entered directly into the cell instead of adjusting the price, if the item is on special that period.",
+  "tyn_model":[
+    "grocery item",
+    "food",
+    "coupons",
+    "tax",
+    "groceries",
+    "income tax",
+    "excel worksheet"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title":"How to Understand Basic Diode Clipping Circuits",
+  "url":"https://www.wikihow.com/Understand-Basic-Diode-Clipping-Circuits",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "steps":[
+    {
+      "headline":"Note the components used in that circuit and the reference voltage position.",
+      "description":"Make a note of the cathode and anode connections of the diode with respect to input signal and reference voltage (Vref). Compare the voltage of Vref with Vm (or Vpeak) and -Vm (or -Vpeak) and make a note."
+    },
+    {
+      "headline":"Start the analysis of the circuit.",
+      "description":"Since the given input is a AC voltage, analysis must be carried out in two separate steps: one for positive half cycle and another one for negative half cycle."
+    },
+    {
+      "headline":"Analyse the circuit for the positive half cycle of the input voltage.",
+      "description":"During this cycle the anode of the diode is connected to input through resistor R and the cathode of the diode to Vref. The diode will be forward biased only if the anode of the diode is more positive than the cathode and reverse biased when anode is less positive than cathode; therefore as the input voltage increases from 0 volts to Vref the diode will be in the reverse biased state and hence the output follows the input. However, when the input voltage exceeds Vref, the diode will be a short circuit. Now the output side contains only Vref and hence we get a straight line of magnitude Vref in the output waveform, until the input voltage becomes less than the Vref in the same cycle, because after this point diode will be in reverse biased state and hence output follows the input."
+    },
+    {
+      "headline":"Analyse the circuit for the negative half cycle of the input voltage.",
+      "description":"During this cycle the anode is connected to input through resistor R and cathode to Vref. Since cathode is more positive than the anode, the diode (ideal) will be reverse biased in the entire negative half cycle, hence it will be a open circuit. Since the diode is open is open, the circuit is incomplete and no current flows through the circuit, whatever you apply at the input side simply appears at the output side without modification. Therefore entire negative cycle simply appears at the output."
+    },
+    {
+      "headline":"Become familiar with the input and output waveforms, as shown in the figure.",
+      "description":"Observe the clipped off portion in the positive cycle, since the clipped off portion is in the positive X-axis  the circuit is also called positive clipping circuit."
+    },
+    {
+      "headline":"Solve any clipping circuits problem.",
+      "description":"The good to way to start is, just interchange the position of the diode and a resistor and repeat the same steps."
+    }
+  ],
+  "text":" Note the components used in that circuit and the reference voltage position. Make a note of the cathode and anode connections of the diode with respect to input signal and reference voltage (Vref). Compare the voltage of Vref with Vm (or Vpeak) and -Vm (or -Vpeak) and make a note. Start the analysis of the circuit. Since the given input is a AC voltage, analysis must be carried out in two separate steps: one for positive half cycle and another one for negative half cycle. Analyse the circuit for the positive half cycle of the input voltage. During this cycle the anode of the diode is connected to input through resistor R and the cathode of the diode to Vref. The diode will be forward biased only if the anode of the diode is more positive than the cathode and reverse biased when anode is less positive than cathode; therefore as the input voltage increases from 0 volts to Vref the diode will be in the reverse biased state and hence the output follows the input. However, when the input voltage exceeds Vref, the diode will be a short circuit. Now the output side contains only Vref and hence we get a straight line of magnitude Vref in the output waveform, until the input voltage becomes less than the Vref in the same cycle, because after this point diode will be in reverse biased state and hence output follows the input. Analyse the circuit for the negative half cycle of the input voltage. During this cycle the anode is connected to input through resistor R and cathode to Vref. Since cathode is more positive than the anode, the diode (ideal) will be reverse biased in the entire negative half cycle, hence it will be a open circuit. Since the diode is open is open, the circuit is incomplete and no current flows through the circuit, whatever you apply at the input side simply appears at the output side without modification. Therefore entire negative cycle simply appears at the output. Become familiar with the input and output waveforms, as shown in the figure. Observe the clipped off portion in the positive cycle, since the clipped off portion is in the positive X-axis  the circuit is also called positive clipping circuit. Solve any clipping circuits problem. The good to way to start is, just interchange the position of the diode and a resistor and repeat the same steps.",
+  "tyn_model":[
+    "resistor",
+    "diode"
+  ],
+  "tyn_section":[
+
+  ]
+}

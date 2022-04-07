@@ -1,0 +1,168 @@
+{
+  "title":"How to Get Age of Empires 2 to Work on XP",
+  "url":"https://www.wikihow.com/Get-Age-of-Empires-2-to-Work-on-XP",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "methods":[
+    {
+      "name":"Changing Windows XP Compatibility Settings",
+      "steps":[
+        {
+          "headline":"Install the game.",
+          "description":"Install the game the usual way on your Windows XP computer by opening the setup.exe file on the game CD. If you are unsure about how to do this, read and follow the directions on the CD case."
+        },
+        {
+          "headline":"Try playing the game.",
+          "description":"If the game plays fine then you won\u2019t need to change settings. Open the game and test this by double-clicking its desktop icon or by following this Start menu sequence: Start button >> All Programs >> Microsoft Games >> Age of Empires II. If the game does not start or does not play correctly, quit it."
+        },
+        {
+          "headline":"Open the game\u2019s Properties dialog box.",
+          "description":"Do this by right-clicking the game\u2019s icon on the desktop or on the Start menu and selecting \u201cProperties.\u201d"
+        },
+        {
+          "headline":"Open the Compatibility tab.",
+          "description":"On the Properties dialog box, click the Compatibility tab at the top to open it."
+        },
+        {
+          "headline":"Set the Compatibility mode to an older OS (Windows 95, 98, or ME).",
+          "description":"Start with Windows 95. On the Compatibility mode panel, tick \u201cRun this program in compatibility mode\u201d and then on the drop-down list, select \u201cWindows 95.\u201d Click the \u201cApply\u201d button at the bottom of the dialog box."
+        },
+        {
+          "headline":"Try opening the game.",
+          "description":"If the game still doesn't work properly, repeat the process, but select a different Windows version (i.e., Windows 98 or Windows ME). Although it is not guaranteed, changing the Compatibility mode to one of the three older operating systems (95, 98 or ME) usually solves the problem when using Windows XP."
+        }
+      ]
+    },
+    {
+      "name":"Changing the Program\u2019s Display Settings",
+      "steps":[
+        {
+          "headline":"Open the game\u2019s Properties dialog box.",
+          "description":"A lot of the time, old programs fail to run on new OSs because of the display configuration. To change display settings, right-click the game\u2019s icon on the desktop or on the Start menu, and select \u201cProperties.\u201d"
+        },
+        {
+          "headline":"Open the Compatibility tab.",
+          "description":"On the Properties dialog box, click the Compatibility tab at the top to open it."
+        },
+        {
+          "headline":"Set the Display Settings you think will work for the game.",
+          "description":"View the game\u2019s documentation, or Google it to find out the best settings for the game. For instance, try running the game in a basic 640x480 resolution by ticking the box that says \u201cRun in 640x480 resolution\u201d in the Display Settings panel of the Compatibility tab. Click the \u201cApply\u201d button at the bottom of the dialog box."
+        },
+        {
+          "headline":"Try opening the game.",
+          "description":"If the game still doesn't work properly, repeat the process with a different setting, e.g., \u201cRun in 256 colors\u201d or \u201cDisable visual themes.\u201d Repeat the process until the game displays correctly. You can also try combining the settings, e.g., ticking both the \u201c256 colors\u201d and \u201c640x480 resolution\u201d boxes, to see if the problem will be solved."
+        }
+      ]
+    },
+    {
+      "name":"Changing Windows XP to Classic View",
+      "steps":[
+        {
+          "headline":"Open the Display Properties.",
+          "description":"Right-click an empty space on the desktop, and then click Properties. This will open the Display Properties dialog box."
+        },
+        {
+          "headline":"Select \u201cWindows Classic\u201d from the Themes drop-down menu.",
+          "description":"You\u2019ll find this option in the Themes tab. Click \u201cApply\u201d at the bottom when you\u2019re done, and wait for the computer to effect the new settings."
+        },
+        {
+          "headline":"Click \u201cOK.\u201d This will close the dialogue box.",
+          "description":"The Windows desktop will now look like that of an older operating systems, like Windows 98 and 95, and disable most of the advanced visual effects that would make your Age of Empires 2 fail to play."
+        },
+        {
+          "headline":"Try opening the game to see if it displays properly now.",
+          "description":"If it doesn\u2019t, try another method."
+        }
+      ]
+    },
+    {
+      "name":"Updating Your Computer\u2019s DirectX",
+      "steps":[
+        {
+          "headline":"Visit the Microsoft website for the latest DirectX runtime files.",
+          "description":"DirectX is the software that enables you to run 3D applications, including games like Age of Empires 2, on your computer. Ensuring you have the latest version of these files will allow for a better playing experience with the game. Visit this link to download the files: {{{1}}}."
+        },
+        {
+          "headline":"Install the files.",
+          "description":"Follow the directions detailed on the site to install the file \u201cdxwebsetup.exe\u201d on your computer."
+        },
+        {
+          "headline":"Try opening the game to see if it displays properly now.",
+          "description":"If it doesn\u2019t, try another method."
+        }
+      ]
+    },
+    {
+      "name":"Turning Off the Explorer Process",
+      "steps":[
+        {
+          "headline":"Start the game.",
+          "description":"Do this the usual way by double-clicking its desktop icon or through the Start menu."
+        },
+        {
+          "headline":"Open the Task Manager.",
+          "description":"Once the game is running, press the combination Ctrl+\u21e7 Shift+Esc. This will minimize the game and launch the Windows Task Manager."
+        },
+        {
+          "headline":"Click the Processes tab.",
+          "description":"This will display all the process that are currently running on the computer, including the game\u2019s process, Empires2.exe."
+        },
+        {
+          "headline":"Kill \u201cexplorer.exe.\u201d Ending the Explorer process often improves the appearance of old games like AoE2.",
+          "description":"Click the process to select it and then click \u201cEnd Process\u201d at the bottom of the Task Manager."
+        },
+        {
+          "headline":"Return to the game.",
+          "description":"Click the Applications tab, and then double-click Age of Empires 2. This will take you back to the game. After playing, restore Explorer. You can do this by clicking on the \u201cNew Task\u201d button in the Applications tab of the Task Manager, typing \u201cexplorer\u201d into the box that appears, and pressing \u21b5 Enter."
+        }
+      ]
+    }
+  ],
+  "text":" Changing Windows XP Compatibility Settings Install the game. Install the game the usual way on your Windows XP computer by opening the setup.exe file on the game CD. If you are unsure about how to do this, read and follow the directions on the CD case. Try playing the game. If the game plays fine then you won\u2019t need to change settings. Open the game and test this by double-clicking its desktop icon or by following this Start menu sequence: Start button >> All Programs >> Microsoft Games >> Age of Empires II. If the game does not start or does not play correctly, quit it. Open the game\u2019s Properties dialog box. Do this by right-clicking the game\u2019s icon on the desktop or on the Start menu and selecting \u201cProperties.\u201d Open the Compatibility tab. On the Properties dialog box, click the Compatibility tab at the top to open it. Set the Compatibility mode to an older OS (Windows 95, 98, or ME). Start with Windows 95. On the Compatibility mode panel, tick \u201cRun this program in compatibility mode\u201d and then on the drop-down list, select \u201cWindows 95.\u201d Click the \u201cApply\u201d button at the bottom of the dialog box. Try opening the game. If the game still doesn't work properly, repeat the process, but select a different Windows version (i.e., Windows 98 or Windows ME). Although it is not guaranteed, changing the Compatibility mode to one of the three older operating systems (95, 98 or ME) usually solves the problem when using Windows XP. Changing the Program\u2019s Display Settings Open the game\u2019s Properties dialog box. A lot of the time, old programs fail to run on new OSs because of the display configuration. To change display settings, right-click the game\u2019s icon on the desktop or on the Start menu, and select \u201cProperties.\u201d Open the Compatibility tab. On the Properties dialog box, click the Compatibility tab at the top to open it. Set the Display Settings you think will work for the game. View the game\u2019s documentation, or Google it to find out the best settings for the game. For instance, try running the game in a basic 640x480 resolution by ticking the box that says \u201cRun in 640x480 resolution\u201d in the Display Settings panel of the Compatibility tab. Click the \u201cApply\u201d button at the bottom of the dialog box. Try opening the game. If the game still doesn't work properly, repeat the process with a different setting, e.g., \u201cRun in 256 colors\u201d or \u201cDisable visual themes.\u201d Repeat the process until the game displays correctly. You can also try combining the settings, e.g., ticking both the \u201c256 colors\u201d and \u201c640x480 resolution\u201d boxes, to see if the problem will be solved. Changing Windows XP to Classic View Open the Display Properties. Right-click an empty space on the desktop, and then click Properties. This will open the Display Properties dialog box. Select \u201cWindows Classic\u201d from the Themes drop-down menu. You\u2019ll find this option in the Themes tab. Click \u201cApply\u201d at the bottom when you\u2019re done, and wait for the computer to effect the new settings. Click \u201cOK.\u201d This will close the dialogue box. The Windows desktop will now look like that of an older operating systems, like Windows 98 and 95, and disable most of the advanced visual effects that would make your Age of Empires 2 fail to play. Try opening the game to see if it displays properly now. If it doesn\u2019t, try another method. Updating Your Computer\u2019s DirectX Visit the Microsoft website for the latest DirectX runtime files. DirectX is the software that enables you to run 3D applications, including games like Age of Empires 2, on your computer. Ensuring you have the latest version of these files will allow for a better playing experience with the game. Visit this link to download the files: {{{1}}}. Install the files. Follow the directions detailed on the site to install the file \u201cdxwebsetup.exe\u201d on your computer. Try opening the game to see if it displays properly now. If it doesn\u2019t, try another method. Turning Off the Explorer Process Start the game. Do this the usual way by double-clicking its desktop icon or through the Start menu. Open the Task Manager. Once the game is running, press the combination Ctrl+\u21e7 Shift+Esc. This will minimize the game and launch the Windows Task Manager. Click the Processes tab. This will display all the process that are currently running on the computer, including the game\u2019s process, Empires2.exe. Kill \u201cexplorer.exe.\u201d Ending the Explorer process often improves the appearance of old games like AoE2. Click the process to select it and then click \u201cEnd Process\u201d at the bottom of the Task Manager. Return to the game. Click the Applications tab, and then double-click Age of Empires 2. This will take you back to the game. After playing, restore Explorer. You can do this by clicking on the \u201cNew Task\u201d button in the Applications tab of the Task Manager, typing \u201cexplorer\u201d into the box that appears, and pressing \u21b5 Enter.",
+  "tyn_model":[
+    "\u201crun",
+    "\u201capply",
+    "\u201d button",
+    "windows xp",
+    "\u201cproperties",
+    "\u201d open",
+    "\u201d and",
+    "\u201cwindows",
+    "\u201d at",
+    "task manager",
+    "explorer",
+    "windows xp compatibility settings",
+    "\u201d click",
+    "\u201d in",
+    "display settings",
+    "\u201d or",
+    "\u201cdisable",
+    "\u201d repeat",
+    "\u201c256",
+    "\u201c640x480",
+    "\u201d boxes",
+    "\u201d from",
+    "\u201cok",
+    "\u201d this",
+    "directx",
+    "\u201cdxwebsetup.exe",
+    "\u201d on",
+    "\u21e7 shift+esc",
+    "windows task manager",
+    "\u201cexplorer.exe",
+    "\u201d ending",
+    "\u201cend",
+    "age of empires 2",
+    "\u201cnew",
+    "\u201cexplorer",
+    "\u201d into",
+    "\u21b5 enter"
+  ],
+  "tyn_section":[
+
+  ]
+}

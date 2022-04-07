@@ -1,0 +1,132 @@
+{
+  "title":"How to Connect a PSP to a Wireless Network",
+  "url":"https://www.wikihow.com/Connect-a-PSP-to-a-Wireless-Network",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PSP"
+  ],
+  "parts":[
+    {
+      "name":"Connecting Your PSP",
+      "steps":[
+        {
+          "headline":"Ensure the WLAN switch is ON.",
+          "description":"You will need to toggle the WLAN switch on your PSP in order to enable Wi-Fi connections. On the PSP-1000 and PSPgo, the switch is on the left side, next to the analog nub. Slide the switch up. On the PSP-2000 and 3000, the WLAN switch is on the top of the PSP, to the left of the UMD drive. Slide the switch right."
+        },
+        {
+          "headline":"Update your PSP.",
+          "description":"You must have at least version 2.0 of the PSP's operating system in order to connect to the Internet. The most current PSP operating system is 6.61."
+        },
+        {
+          "headline":"Scroll left to select Settings.",
+          "description":"It's the suitcase icon on the far-left side of the main menu."
+        },
+        {
+          "headline":"Scroll down to select Network Settings and press X.",
+          "description":"This option is at the bottom of the Settings column of options."
+        },
+        {
+          "headline":"Select Infrastructure Mode and press X.",
+          "description":"This allows your PSP to connect to a wireless access point, such as your home network's router."
+        },
+        {
+          "headline":"Select [New Connection] and press X.",
+          "description":"This will allow you to create a new connection to be saved on your PSP. If you already have a working connection saved, select it and press X. Doing so should connect you to the Internet. You can save up to ten different connections."
+        },
+        {
+          "headline":"Select Scan and press X.",
+          "description":"Your PSP will look for any available wireless networks. If your PSP can't find any networks, move closer to your router. You can also select \"Wireless Hotspot\" if you have the PSP plan with T-Mobile, which is the only way to connect to a mobile hotspot."
+        },
+        {
+          "headline":"Select your network and press X.",
+          "description":"After scanning, a list of available networks will be displayed; select the one that you want to connect to. The signal strength for each network will be listed next to the network name. Opt for a signal strength of more than 50%."
+        },
+        {
+          "headline":"Press the \"Right\" arrow on the \"SSID\" screen.",
+          "description":"This will select your current network's name. Changing the name here may cause issues with your Internet connection on other devices."
+        },
+        {
+          "headline":"Select the WPA-PSK (AES) option and press the \"Right\" arrow.",
+          "description":"This will set your network's security type as WPA, which is supported by the PSP."
+        },
+        {
+          "headline":"Enter the password.",
+          "description":"Press X on the \"WPA Key\" screen, enter your network's password and press X, and then press the \"Right\" arrow. Wireless passwords are case-sensitive, so make sure to enter the password exactly."
+        },
+        {
+          "headline":"Select Easy and press the \"Right\" arrow.",
+          "description":"Doing so lets the PSP use the router's default settings."
+        },
+        {
+          "headline":"Press the \"Right\" arrow.",
+          "description":"This will confirm your network's name."
+        },
+        {
+          "headline":"Save your settings.",
+          "description":"You will be shown a list of all of your settings. Make sure everything looks correct, then press the \"Right\" button on the directional pad to continue and press X to save your settings."
+        },
+        {
+          "headline":"Select Test Connection and press X.",
+          "description":"This will test your PSP's connection to the Internet. If you see \"Successful\" on the Results page, then your connection was properly configured."
+        }
+      ]
+    },
+    {
+      "name":"Troubleshooting",
+      "steps":[
+        {
+          "headline":"Find your router's IP address.",
+          "description":"This will be used to access the configuration page:\n\nWindows - Open Start, click the Settings gear, click Network & Internet, click View your network properties, and view the address next to \"Default gateway\". Mac - Open the Apple menu, click System Preferences, click Network, click Advanced, click the TCP/IP tab, and look for the number to the right of \"Router:\"."
+        },
+        {
+          "headline":"Open a web browser.",
+          "description":"Do so on your computer."
+        },
+        {
+          "headline":"Enter your router's IP address into the address bar.",
+          "description":"This will open your router's page, which allows you to make changes to your router settings."
+        },
+        {
+          "headline":"Log in with your administrator account if prompted.",
+          "description":"You will need to enter your username and password to be able to access your router's settings. If you cannot figure out the login information, you can manually reset the router by pressing and holding the \"Reset\" button on the back for at least 30 seconds."
+        },
+        {
+          "headline":"Open the Wireless section.",
+          "description":"The exact wording here will vary on different routers."
+        },
+        {
+          "headline":"Change your security type.",
+          "description":"Select either WPA-PSK [TKIP] + WPA2-PSK [AES] or WPA2 Personal TKIP+AES. If you choose \"WPA2 [AES]\" only, you will not be able to connect."
+        },
+        {
+          "headline":"Find the \"Allowed Devices\" or \"Access List\".",
+          "description":"You may first have to open the Advanced Wireless Settings. Again, the wording may vary."
+        },
+        {
+          "headline":"Ensure that MAC address filtering is not turned on.",
+          "description":"If it is turned on and you can't disable it, add your PSP's MAC address to the list of allowed devices. You can find your PSP's MAC address in the \"System Information\" section of the PSP's Settings menu."
+        },
+        {
+          "headline":"Try connecting your PSP to the Internet.",
+          "description":"If you still can't get the connection to work, you'll have to take the PSP into a tech department for further evaluation."
+        }
+      ]
+    }
+  ],
+  "text":" Connecting Your PSP Ensure the WLAN switch is ON. You will need to toggle the WLAN switch on your PSP in order to enable Wi-Fi connections. On the PSP-1000 and PSPgo, the switch is on the left side, next to the analog nub. Slide the switch up. On the PSP-2000 and 3000, the WLAN switch is on the top of the PSP, to the left of the UMD drive. Slide the switch right. Update your PSP. You must have at least version 2.0 of the PSP's operating system in order to connect to the Internet. The most current PSP operating system is 6.61. Scroll left to select Settings. It's the suitcase icon on the far-left side of the main menu. Scroll down to select Network Settings and press X. This option is at the bottom of the Settings column of options. Select Infrastructure Mode and press X. This allows your PSP to connect to a wireless access point, such as your home network's router. Select [New Connection] and press X. This will allow you to create a new connection to be saved on your PSP. If you already have a working connection saved, select it and press X. Doing so should connect you to the Internet. You can save up to ten different connections. Select Scan and press X. Your PSP will look for any available wireless networks. If your PSP can't find any networks, move closer to your router. You can also select \"Wireless Hotspot\" if you have the PSP plan with T-Mobile, which is the only way to connect to a mobile hotspot. Select your network and press X. After scanning, a list of available networks will be displayed; select the one that you want to connect to. The signal strength for each network will be listed next to the network name. Opt for a signal strength of more than 50%. Press the \"Right\" arrow on the \"SSID\" screen. This will select your current network's name. Changing the name here may cause issues with your Internet connection on other devices. Select the WPA-PSK (AES) option and press the \"Right\" arrow. This will set your network's security type as WPA, which is supported by the PSP. Enter the password. Press X on the \"WPA Key\" screen, enter your network's password and press X, and then press the \"Right\" arrow. Wireless passwords are case-sensitive, so make sure to enter the password exactly. Select Easy and press the \"Right\" arrow. Doing so lets the PSP use the router's default settings. Press the \"Right\" arrow. This will confirm your network's name. Save your settings. You will be shown a list of all of your settings. Make sure everything looks correct, then press the \"Right\" button on the directional pad to continue and press X to save your settings. Select Test Connection and press X. This will test your PSP's connection to the Internet. If you see \"Successful\" on the Results page, then your connection was properly configured. Troubleshooting Find your router's IP address. This will be used to access the configuration page:\n\nWindows - Open Start, click the Settings gear, click Network & Internet, click View your network properties, and view the address next to \"Default gateway\". Mac - Open the Apple menu, click System Preferences, click Network, click Advanced, click the TCP/IP tab, and look for the number to the right of \"Router:\". Open a web browser. Do so on your computer. Enter your router's IP address into the address bar. This will open your router's page, which allows you to make changes to your router settings. Log in with your administrator account if prompted. You will need to enter your username and password to be able to access your router's settings. If you cannot figure out the login information, you can manually reset the router by pressing and holding the \"Reset\" button on the back for at least 30 seconds. Open the Wireless section. The exact wording here will vary on different routers. Change your security type. Select either WPA-PSK [TKIP] + WPA2-PSK [AES] or WPA2 Personal TKIP+AES. If you choose \"WPA2 [AES]\" only, you will not be able to connect. Find the \"Allowed Devices\" or \"Access List\". You may first have to open the Advanced Wireless Settings. Again, the wording may vary. Ensure that MAC address filtering is not turned on. If it is turned on and you can't disable it, add your PSP's MAC address to the list of allowed devices. You can find your PSP's MAC address in the \"System Information\" section of the PSP's Settings menu. Try connecting your PSP to the Internet. If you still can't get the connection to work, you'll have to take the PSP into a tech department for further evaluation.",
+  "tyn_model":[
+    "psp",
+    "router",
+    "umd drive",
+    "internet",
+    "tcp/ip tab",
+    "web browser",
+    "routers"
+  ],
+  "tyn_section":[
+
+  ]
+}

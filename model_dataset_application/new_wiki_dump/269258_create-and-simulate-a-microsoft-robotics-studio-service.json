@@ -1,0 +1,68 @@
+{
+  "title":"How to Create and Simulate a Microsoft Robotics Studio Service",
+  "url":"https://www.wikihow.com/Create-and-Simulate-a-Microsoft-Robotics-Studio-Service",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Simulation"
+  ],
+  "steps":[
+    {
+      "headline":"Install the Microsoft Robotic Studio.",
+      "description":"Go to Microsoft Download\n\nSearch for robotics\nDownload Microsoft Robotics Studio 1.5\nDownload Runtime and Tools Update for Microsoft Robotics Studio (1.5) Nov 2007\nInstall both of them"
+    },
+    {
+      "headline":"Create a new blank service",
+      "description":"Create a blank service from Start, Programs, Microsoft Robotics Studio (1.5) Run MSRS Command Prompt Type \u2018md My\u2019 to create a new directory for your projects Type \u2018cd My\u2019 to move into that directory Type \u2018dssnewservice /service:Simplest\u2019"
+    },
+    {
+      "headline":"Add some basic handling to your project so we will reference a drive partner",
+      "description":"Type \u2018cd Simplest\u2019 to move into your new services\u2019 directory Type \u2018Simplest.sln\u2019 to open your service in Visual Studio C# Open the Solution Explorer (ctrl-w, s) Add a reference to RoboticsCommon.proxy Open the file Simplest.cs from the Solution Explorer Add a new using statement at the top \u2018using drive = Microsoft.Robotics.Services.Drive.Proxy;\u2019 Add a partner reference below _mainPort declaration \u2018[Partner(\"drive\", Contract=drive.Contract.Identifier, CreationPolicy=PartnerCreationPolicy.UsePartnerListEntry)]\u2019 Add a port for this partner just below the [Service\u2026] line you just added \u2018private drive.DriveOperations _drivePort = new drive.DriveOperations();\u2019 Add another port just below that one \u2018private drive.DriveOperations _driveNotify = new drive.DriveOperations();\u2019 This port will be what we use to actually handle notifications that are sent to us. It allows the _drivePort to be free as often as possible"
+    },
+    {
+      "headline":"Now let\u2019s listen to this partners notification messages",
+      "description":"We want the _driveNotify port to get messages sent to the _drivePort. So, add \u2018_drivePort.Subscribe(_driveNotify);\u2019 below \u2018base.Start();\u2019 in the Start function. Now we need to add a function to listen to messages that come in on the _driveNotify port. The code we add is complex for the simple concept we want to achieve. But it allows the runtime to synchronize the processing better (from what I understand of it at least)\nCode Block 1\nWe made reference in that block of code to a function named DriveUpdateHandler. Here\u2019s the implementation. All it does is to set the robot into a wide circle. This is NOT the best way to do this. But it gives you a quick understanding of how everything gets wired up. Code Block 2\nBuild the project. It should compile and build just fine."
+    },
+    {
+      "headline":"Now that we\u2019re wired up with the partner so it will listen for the update message we want to connect to the simulation environment.",
+      "description":"We didn\u2019t specifically state that we\u2019re connecting to the simulation environment in our code. So we have to do it somewhere else. That place is in the manifest file. The one for this project is called Simplest.manifest.xml. We want to open it in the manifest editor. From Start, Programs, Microsoft Robotics Studio (1.5) run Microsoft Dss Manifest Editor. Click File, Open, choose your manifest file C:\\Microsoft Robotics Studio (1.5)\\My\\Simplest\\Simplest.manifest.xml\nFind the Simulation Engine service from the list of services on the left. Add it to your manifest. With the SimulationEngine selected IN your manifest, Click the Import Initial State button in the properties window. Change to the samples\\config folder (C:\\Microsoft Robotics Studio (1.5)\\samples\\Config)\nChange the file type to Any XML File\nChoose iRobot.Create.Simulation.xml\nThis will load a bunch of standard entities (blocks and such) as well as the iRobot Create entity. It is named IRobotCreateMotorBase\nNow we choose the simplest service in the manifest editor\nThen find Simulated Generic Differential Drive in the list of services on the left\nAdd it to the manifest diagram by dragging it ON TOP OF the simplest drive entry in the manifest. This will do two things. Add the SimulatedGenericDifferentialDrive service AND associate it with the simplest drive service. This is why we chose PartnerCreationPolicy.UsePartnerListEntry in the [Partner\u2026] declaration in our code. The only thing left is to associate the SimulatedGenericDifferentialDrive service to an actual entity in the SimulationEngine configuration. So, click on the Entity reference under SimulatedDifferentialDrive and set the Simulation Entity property to \u2018http://localhost/IRobotCreateMotorBase\u2019."
+    },
+    {
+      "headline":"Push F5.",
+      "description":"I am by no means an expert. It has taken me a couple weeks to figure this stuff out. And since these parts finally clicked I decided to post them for everyone\u2019s benefit."
+    }
+  ],
+  "text":" Install the Microsoft Robotic Studio. Go to Microsoft Download\n\nSearch for robotics\nDownload Microsoft Robotics Studio 1.5\nDownload Runtime and Tools Update for Microsoft Robotics Studio (1.5) Nov 2007\nInstall both of them Create a new blank service Create a blank service from Start, Programs, Microsoft Robotics Studio (1.5) Run MSRS Command Prompt Type \u2018md My\u2019 to create a new directory for your projects Type \u2018cd My\u2019 to move into that directory Type \u2018dssnewservice /service:Simplest\u2019 Add some basic handling to your project so we will reference a drive partner Type \u2018cd Simplest\u2019 to move into your new services\u2019 directory Type \u2018Simplest.sln\u2019 to open your service in Visual Studio C# Open the Solution Explorer (ctrl-w, s) Add a reference to RoboticsCommon.proxy Open the file Simplest.cs from the Solution Explorer Add a new using statement at the top \u2018using drive = Microsoft.Robotics.Services.Drive.Proxy;\u2019 Add a partner reference below _mainPort declaration \u2018[Partner(\"drive\", Contract=drive.Contract.Identifier, CreationPolicy=PartnerCreationPolicy.UsePartnerListEntry)]\u2019 Add a port for this partner just below the [Service\u2026] line you just added \u2018private drive.DriveOperations _drivePort = new drive.DriveOperations();\u2019 Add another port just below that one \u2018private drive.DriveOperations _driveNotify = new drive.DriveOperations();\u2019 This port will be what we use to actually handle notifications that are sent to us. It allows the _drivePort to be free as often as possible Now let\u2019s listen to this partners notification messages We want the _driveNotify port to get messages sent to the _drivePort. So, add \u2018_drivePort.Subscribe(_driveNotify);\u2019 below \u2018base.Start();\u2019 in the Start function. Now we need to add a function to listen to messages that come in on the _driveNotify port. The code we add is complex for the simple concept we want to achieve. But it allows the runtime to synchronize the processing better (from what I understand of it at least)\nCode Block 1\nWe made reference in that block of code to a function named DriveUpdateHandler. Here\u2019s the implementation. All it does is to set the robot into a wide circle. This is NOT the best way to do this. But it gives you a quick understanding of how everything gets wired up. Code Block 2\nBuild the project. It should compile and build just fine. Now that we\u2019re wired up with the partner so it will listen for the update message we want to connect to the simulation environment. We didn\u2019t specifically state that we\u2019re connecting to the simulation environment in our code. So we have to do it somewhere else. That place is in the manifest file. The one for this project is called Simplest.manifest.xml. We want to open it in the manifest editor. From Start, Programs, Microsoft Robotics Studio (1.5) run Microsoft Dss Manifest Editor. Click File, Open, choose your manifest file C:\\Microsoft Robotics Studio (1.5)\\My\\Simplest\\Simplest.manifest.xml\nFind the Simulation Engine service from the list of services on the left. Add it to your manifest. With the SimulationEngine selected IN your manifest, Click the Import Initial State button in the properties window. Change to the samples\\config folder (C:\\Microsoft Robotics Studio (1.5)\\samples\\Config)\nChange the file type to Any XML File\nChoose iRobot.Create.Simulation.xml\nThis will load a bunch of standard entities (blocks and such) as well as the iRobot Create entity. It is named IRobotCreateMotorBase\nNow we choose the simplest service in the manifest editor\nThen find Simulated Generic Differential Drive in the list of services on the left\nAdd it to the manifest diagram by dragging it ON TOP OF the simplest drive entry in the manifest. This will do two things. Add the SimulatedGenericDifferentialDrive service AND associate it with the simplest drive service. This is why we chose PartnerCreationPolicy.UsePartnerListEntry in the [Partner\u2026] declaration in our code. The only thing left is to associate the SimulatedGenericDifferentialDrive service to an actual entity in the SimulationEngine configuration. So, click on the Entity reference under SimulatedDifferentialDrive and set the Simulation Entity property to \u2018http://localhost/IRobotCreateMotorBase\u2019. Push F5. I am by no means an expert. It has taken me a couple weeks to figure this stuff out. And since these parts finally clicked I decided to post them for everyone\u2019s benefit.",
+  "tyn_model":[
+    "\u2019 to",
+    "\u2019 add",
+    "microsoft robotics studio",
+    "robotics studio",
+    "\u2018cd",
+    "\u2026]",
+    "\u2018private",
+    "robotic studio",
+    "\u2018md",
+    "\u2018dssnewservice",
+    "\u2019 directory",
+    "\u2018simplest.sln",
+    "visual studio",
+    "\u2018using",
+    "drive",
+    "robotics.services",
+    "\u2018[",
+    "\u2019 this",
+    "\u2018_",
+    "\u2019 below",
+    "\u2018base",
+    "\u2019 in",
+    "simulation engine",
+    "\u2018http://localhost",
+    "\u2019."
+  ],
+  "tyn_section":[
+
+  ]
+}

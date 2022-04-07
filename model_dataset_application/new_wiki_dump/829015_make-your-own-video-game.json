@@ -1,0 +1,205 @@
+{
+  "title":"How to Make Your Own Video Game",
+  "url":"https://www.wikihow.com/Make-Your-Own-Video-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Creating Games"
+  ],
+  "parts":[
+    {
+      "name":"Laying the Foundations",
+      "steps":[
+        {
+          "headline":"Pick your genre.",
+          "description":"While every successful game is unique in its way, almost all of them fit into a specific genre. Decide what kind of game you want to create, and look at what other games in the same genre do. Some common genres include:\nArcade games\nShooters\nPuzzles\nPlatformers\nRacing\nAdventures\nEndless runners\nRPGs\nFirst-person shooters\nThird person shooters\nStory/Manga driven JRPG\nVisual novels\nTower Defense\nHorror\nFighters\nComedy\nSurvival"
+        },
+        {
+          "headline":"Pick your platform.",
+          "description":"The platform that you choose to develop your game will significantly impact the way it is developed. The platform dictates the way the game is controlled; smartphone games are typically touch-and-tilt-based, PC games typically use a keyboard and mouse, and console games use gamepads. Note that most commercial PC games also support Gamepad. There are exceptions to all these rules, but you will generally find it easier to design the game around a specific control method. If you want to make an iPhone game, you will need to submit it to the Apple store from a Mac computer. However, one exception is the Godot Engine which also allows you to create for iPhone on Linux which is useful if you don't have a Mac."
+        },
+        {
+          "headline":"Write out the preliminary design.",
+          "description":"This should just be at least one page but will be the heart of the gameplay experience you create. It contains the fundamental concepts of your game and will allow you to see if your idea is viable as a video game."
+        },
+        {
+          "headline":"Start with a core philosophy.",
+          "description":"This statement will serve as the motivating force behind the game. These are very simple statements that get to the heart of what the game is. Revisit it often to ensure that your game is still meeting its basic goals. Some example core philosophies:\nThis game simulates a space station economy\nThis game lets you play as a living car\nThis game is about testing the player's reflexes"
+        },
+        {
+          "headline":"Write down your features.",
+          "description":"The features are what sets your game apart from others in the same genre. Start by listing your ideas and concepts. Turn those concepts into action-driven sentences. Shoot for between 5-15 features. For example:\nConcept: space station construction. Feature: Build and manage your space station. Concept: damage from asteroids\nFeature: Struggle to survive against environmental hazards, including asteroids, solar flares, and comets. Writing down your features first will allow you to flesh each one of them out later in the design document. Having your features listed in the beginning will keep your project focused and prevent \u201cfeature-creep\u201d, where ideas keep getting added later on in the process. Continue to revise these features until you are satisfied that they represent the game that you want to make."
+        },
+        {
+          "headline":"Take a break.",
+          "description":"Put the preliminary design in a drawer and try not to think about it for a week or two. You want to be able to go back to it with a fresh perspective. This will help you determine if the project is worth pursuing, or if you need to go back to the drawing board."
+        }
+      ]
+    },
+    {
+      "name":"Writing the Design Document",
+      "steps":[
+        {
+          "headline":"Get down to the nitty-gritty details.",
+          "description":"The design document is the backbone of your video game. It contains detailed descriptions of your game's mechanics, plot, setting, aesthetic design and more. The format of the document is not as important as the content. Design documents are especially important if you are managing a team of programmers and artists. Make sure that the document is geared toward them, and not towards the end consumer. Avoid being vague and go into great detail as to how each of the game's mechanics should work. Not every game has a design document, and no two design documents will look alike. Use these steps as a guideline, but feel free to tailor your document to your game's needs."
+        },
+        {
+          "headline":"Formulate the table of contents.",
+          "description":"Every single aspect of the game needs to be addressed in the table of contents. The only thing that doesn't need to be included is the story unless the story is fundamentally connected to the mechanics of the game. Approach the table of contents in a similar way as you would a game manual. Start with broad sections, such as Character Creation, Combat, and Main Interface, and then flesh each one of these sections out with subsections. Think of the table of contents as an outline for the game. You will be going into much more detail for each entry in the table"
+        },
+        {
+          "headline":"Fill out each section of your document.",
+          "description":"After you have the table laid out, start expanding on the mechanics. Take the time to go into detail so that there is no confusion when you start programming. Each mechanic should be fully explained so that there is no confusion when it comes time to implement it."
+        },
+        {
+          "headline":"Run it by another person or your team.",
+          "description":"Depending on your approach, game design can be a very collaborative process. Insight from others can help keep your game focused, and can point out areas that aren't as well thought out. Be sure that the person you are showing it to knows you plan on releasing it. A person might not be too critical of a game that they think is just an idea. If you're going to show it to a close person, usually your parents, keep in mind they're probably being more lenient than your average game reviewer. This doesn't mean you can't show them. Rather, they should not be your only source of feedback."
+        }
+      ]
+    },
+    {
+      "name":"Starting to Program",
+      "steps":[
+        {
+          "headline":"Decide on an engine.",
+          "description":"The engine is the underlying base of the game. It contains a host of development tools that ease the creation of a game. It is much more time-efficient and less complex to create a game using an existing engine than to create a new one from scratch. There are a variety of engines designed for indie developers. Engines often make it much simpler to manipulate graphics, sound, and AI. Different engines have different strengths and weaknesses. Some are more suited to 2D graphics, while others are designed for 3D graphics. Some engines require significantly more programming knowledge than others. There are several game development tools that you can use with no previous coding experience. Many engines have licensing fees, especially for commercial use. Popular independent development engines include:\nUnity \u2013 A 3D engine popular for its ease of use and portability. Unity also supports 2D game development. Unreal Engine \u2013 A engine that can be adapted to a wide range of uses. Many AAA games have been made using this engine. It also has Visual Scripting called Blueprints by default. Godot Engine - A Free and Open Source Engine which has become popular recently. More features added by contributors on every release. Has Visual Scripting and supports multiple programming languages. Can do both 2D and 3D. GameMaker: Studio \u2013 One of the most popular 2D game engines. RPG Maker Series \u2013 A scripting engine designed for 2D RPG is the traditional JRPG style. Source \u2013 A very popular 3D engine that is consistently updated and modified. Project Spark - An optimized 3D engine that addresses the average user."
+        },
+        {
+          "headline":"Learn your engine or find someone who knows it.",
+          "description":"Depending on the engine you choose, you may be facing a significant amount of programming. Even the most basic engines will require time to understand how to manipulate them. If the programming is beyond your capabilities, you'll either need to learn it or hire someone. This will be the beginning of your team-building phase. If you are unable to program, your first hire will need to be a programmer. You can worry about art and sound later; you need to be able to come up with a working prototype before the project can continue\nThere is a large community of independent developers that you should be networking with. People will join projects for all kinds of different reasons and compensations. This is where having a solid game design document helps a lot because it shows that you commit to your idea."
+        },
+        {
+          "headline":"Build a prototype.",
+          "description":"Once you are familiar with the engine you have chosen, build a prototype of the game. This prototype will serve as a basic test of the core functionality of the game. You don't need graphics or audio for the prototype, just simple placeholders (like a cube or a stick figure) and a small test area. Test and refine the prototype, again and again, to ensure that it is fun to play. Make note of anything that doesn't work or feel right, and readdress the mechanics involved. If the prototype isn't fun to play, then the final game probably won't be either. There will always be features that seemed easy or feasible that just won't work when it comes time to make the game. Expect the prototype to change multiple times as you tweak what works and what doesn't."
+        },
+        {
+          "headline":"Refine the controls.",
+          "description":"The most basic functionality of the game is the player interacting with the game through some sort of control input. Use the prototype to ensure that the controls are as perfect as they can be. Games with poorly-implemented controls will frustrate players. Games with perfectly executed controls will be rewarding to a player's skill."
+        }
+      ]
+    },
+    {
+      "name":"Creating Assets",
+      "steps":[
+        {
+          "headline":"Consider your project's needs.",
+          "description":"Depending on the scope of your project, your art needs can vary significantly. Some games are built using only simple shapes and colors, while other games feature complex worlds created by vast teams of artists and sound designers. Be realistic with your goals for the assets in your game, and hire accordingly. Most independent games are created by small teams, oftentimes one person. If you are doing the entire project yourself, expect it to take a significant amount of time, especially if you are intending to create all of the assets yourself. There are a variety of free-to-use assets available online through development communities. Always make sure that anything you use does not violate someone's copyright."
+        },
+        {
+          "headline":"Create a rough draft of some art.",
+          "description":"In order to start getting a feel for the visual aesthetic of the game, you will need to begin implementing art into the prototype, and then start expanding that prototype into the game proper. There are a variety of styles that you can use. Pixel art (intentionally retro) is one of the most common styles employed by independent developers. This is because pixel art is typically the fastest and least-expensive art to produce that still results in a \u201cgood looking\u201d game. If you have more time and manpower, you can consider using 3D art. Basic 3D modeling is possible with a one-man team, but more complex details will take significantly more time. 3D models need textures on top of the model."
+        },
+        {
+          "headline":"Design the world, or structure, of the game.",
+          "description":"Once you have some art to use, you can start constructing the game itself. Depending on the style of game you are making, you may need to create levels or playing areas. If you are making a puzzle game, then you can start designing your puzzles."
+        },
+        {
+          "headline":"Develop your art assets.",
+          "description":"Depending on your art style, there are different programs you can use to create your art assets. Some of the more popular programs include:\nBlender \u2013 This open-source program is one of the most popular 3D modeling solutions around. There are endless tutorials available online that can show you how to get up and running quickly. Photoshop \u2013 This program is essential in the texturing process, as well as creating most 2D art. It is expensive, so if money is a concern, consider trying GIMP, the open-source, free alternative to Photoshop. GIMP has most of the same functionality. Paint.net \u2013 This is an open-source alternative to Paint Shop Pro, and will allow you to create 2D art with ease for free. This program is especially useful for creating 2D pixel art graphics. Use Adobe Illustrator - This program is good for Vector art. It is expensive, so if money is a concern, consider trying Inkscape, the open-source, free alternative to Illustrator."
+        },
+        {
+          "headline":"Record your audio assets.",
+          "description":"Sound design plays an essential part in the immersion when playing a game. Whether or not you have music, when and how you use sound effects, and spoken dialogue all affect the way the player connects with the game. You can find several powerful and free audio recordings and music creation software online. Consider using these if you are on a tight budget or are working independently. Make your sound effects with objects around your home."
+        }
+      ]
+    },
+    {
+      "name":"Putting it All Together",
+      "steps":[
+        {
+          "headline":"Play your game as much as possible.",
+          "description":"As you build each aspect of the game, play it to ensure that it remains fun and cohesive. If an area or idea feels weak or poorly implemented, refine it or cut it. Once all of your levels or puzzles or play areas are complete, play through it to make sure it is fun from beginning to end."
+        },
+        {
+          "headline":"Stay focused on your core philosophy.",
+          "description":"Throughout the development process, you should be constantly checking to see that your game is attaining that philosophy. Make sure that you are sticking to your feature list, and that you aren't getting bogged down by more and more additions."
+        },
+        {
+          "headline":"Polish, polish, polish.",
+          "description":"Constantly go back over your art, sound, and game design to smooth rough edges and bring out your game's distinct style. Your ability to quickly polish will be heavily dependent on the art style you have chosen to use."
+        }
+      ]
+    },
+    {
+      "name":"Testing the Game",
+      "steps":[
+        {
+          "headline":"Start bug hunting.",
+          "description":"Once you have a working game from start to finish, it's time to start looking for ways to break it. Finding the bugs in your game and squashing them is essential to making sure that as many people can play it as possible."
+        },
+        {
+          "headline":"Perform actions that you wouldn't normally try.",
+          "description":"Every conceivable way a player can interact with the game needs to be accounted for. Make sure that your game rules can't be bypassed or broken by attacking those rules as much as possible. Bug testing can take a significant amount of time, even as much as the game took to create. The more people you can get to help with testing, the more problems you will be able to find and fix."
+        },
+        {
+          "headline":"Prioritize the repair of any bugs.",
+          "description":"If you have a large list of bugs, and only a limited time to fix the game, make sure that you deal with serious, game-breaking bugs first. For example, if there was a bug that allowed a player to earn an unlimited high score in a score-based game, you would want to make sure that the bug was taken care of immediately."
+        },
+        {
+          "headline":"Watch other people play.",
+          "description":"Get some friends over to try out your game. Watch how they approach your challenges, and how they interact with your game world. Chances are they will try to do things that you never even thought someone would do."
+        }
+      ]
+    },
+    {
+      "name":"Releasing Your Work",
+      "steps":[
+        {
+          "headline":"Check with your engine on the rules for releasing compiled programs.",
+          "description":"Each engine supports specific platforms, and some require different licenses to release on different platforms. For example, with Game Studio, you can release on Windows and Mac OS X with the Standard version, but need to upgrade to the Pro version and pay an extra fee to release mobile versions."
+        },
+        {
+          "headline":"Hype your game.",
+          "description":"Once you are nearing your game's release, start trying to attract some attention. Release some screenshots and video clips of your game in action on popular gaming forums. Contact gaming news sites and let them know that your game will be releasing soon (be sure to include how to get it, how much it costs, and a summary of the game). Create a company website during production so that you can start building followers. Hosting a forum for your game is a great way to get fans talking to each other, and regularly updating your site can start to draw more attention."
+        },
+        {
+          "headline":"Decide on a distribution service.",
+          "description":"Some independent developers will host the game on their website, but you may find that demand costs you a significant amount in hosting fees, and some hosts can't support the load that a successful game requires. There are several popular outlets for releasing independent games on PC, Mac OS X and Linux:\nSteam\nDesura\nHumble Store\nGOG\nMobile games typically need to be released through their prospective stores (Apple App Store, Google Play Store, etc.). The same goes for console games (Xbox Live, PlayStation Network, etc.). Different services will take different cuts on the sale of your game. Research each one to see if they are right for you. Most services have pines on sale. Reps that you can speak with directly as a developer."
+        },
+        {
+          "headline":"Support your game.",
+          "description":"Once your game is released, support it as much as financially possible with bug fixes and more content. The age of digital distribution means that games can be updated quicker than ever before. There are bound to be bugs that appear once the population at large has access to your game. Do what you can to fix these as soon as possible."
+        }
+      ]
+    }
+  ],
+  "text":" Laying the Foundations Pick your genre. While every successful game is unique in its way, almost all of them fit into a specific genre. Decide what kind of game you want to create, and look at what other games in the same genre do. Some common genres include:\nArcade games\nShooters\nPuzzles\nPlatformers\nRacing\nAdventures\nEndless runners\nRPGs\nFirst-person shooters\nThird person shooters\nStory/Manga driven JRPG\nVisual novels\nTower Defense\nHorror\nFighters\nComedy\nSurvival Pick your platform. The platform that you choose to develop your game will significantly impact the way it is developed. The platform dictates the way the game is controlled; smartphone games are typically touch-and-tilt-based, PC games typically use a keyboard and mouse, and console games use gamepads. Note that most commercial PC games also support Gamepad. There are exceptions to all these rules, but you will generally find it easier to design the game around a specific control method. If you want to make an iPhone game, you will need to submit it to the Apple store from a Mac computer. However, one exception is the Godot Engine which also allows you to create for iPhone on Linux which is useful if you don't have a Mac. Write out the preliminary design. This should just be at least one page but will be the heart of the gameplay experience you create. It contains the fundamental concepts of your game and will allow you to see if your idea is viable as a video game. Start with a core philosophy. This statement will serve as the motivating force behind the game. These are very simple statements that get to the heart of what the game is. Revisit it often to ensure that your game is still meeting its basic goals. Some example core philosophies:\nThis game simulates a space station economy\nThis game lets you play as a living car\nThis game is about testing the player's reflexes Write down your features. The features are what sets your game apart from others in the same genre. Start by listing your ideas and concepts. Turn those concepts into action-driven sentences. Shoot for between 5-15 features. For example:\nConcept: space station construction. Feature: Build and manage your space station. Concept: damage from asteroids\nFeature: Struggle to survive against environmental hazards, including asteroids, solar flares, and comets. Writing down your features first will allow you to flesh each one of them out later in the design document. Having your features listed in the beginning will keep your project focused and prevent \u201cfeature-creep\u201d, where ideas keep getting added later on in the process. Continue to revise these features until you are satisfied that they represent the game that you want to make. Take a break. Put the preliminary design in a drawer and try not to think about it for a week or two. You want to be able to go back to it with a fresh perspective. This will help you determine if the project is worth pursuing, or if you need to go back to the drawing board. Writing the Design Document Get down to the nitty-gritty details. The design document is the backbone of your video game. It contains detailed descriptions of your game's mechanics, plot, setting, aesthetic design and more. The format of the document is not as important as the content. Design documents are especially important if you are managing a team of programmers and artists. Make sure that the document is geared toward them, and not towards the end consumer. Avoid being vague and go into great detail as to how each of the game's mechanics should work. Not every game has a design document, and no two design documents will look alike. Use these steps as a guideline, but feel free to tailor your document to your game's needs. Formulate the table of contents. Every single aspect of the game needs to be addressed in the table of contents. The only thing that doesn't need to be included is the story unless the story is fundamentally connected to the mechanics of the game. Approach the table of contents in a similar way as you would a game manual. Start with broad sections, such as Character Creation, Combat, and Main Interface, and then flesh each one of these sections out with subsections. Think of the table of contents as an outline for the game. You will be going into much more detail for each entry in the table Fill out each section of your document. After you have the table laid out, start expanding on the mechanics. Take the time to go into detail so that there is no confusion when you start programming. Each mechanic should be fully explained so that there is no confusion when it comes time to implement it. Run it by another person or your team. Depending on your approach, game design can be a very collaborative process. Insight from others can help keep your game focused, and can point out areas that aren't as well thought out. Be sure that the person you are showing it to knows you plan on releasing it. A person might not be too critical of a game that they think is just an idea. If you're going to show it to a close person, usually your parents, keep in mind they're probably being more lenient than your average game reviewer. This doesn't mean you can't show them. Rather, they should not be your only source of feedback. Starting to Program Decide on an engine. The engine is the underlying base of the game. It contains a host of development tools that ease the creation of a game. It is much more time-efficient and less complex to create a game using an existing engine than to create a new one from scratch. There are a variety of engines designed for indie developers. Engines often make it much simpler to manipulate graphics, sound, and AI. Different engines have different strengths and weaknesses. Some are more suited to 2D graphics, while others are designed for 3D graphics. Some engines require significantly more programming knowledge than others. There are several game development tools that you can use with no previous coding experience. Many engines have licensing fees, especially for commercial use. Popular independent development engines include:\nUnity \u2013 A 3D engine popular for its ease of use and portability. Unity also supports 2D game development. Unreal Engine \u2013 A engine that can be adapted to a wide range of uses. Many AAA games have been made using this engine. It also has Visual Scripting called Blueprints by default. Godot Engine - A Free and Open Source Engine which has become popular recently. More features added by contributors on every release. Has Visual Scripting and supports multiple programming languages. Can do both 2D and 3D. GameMaker: Studio \u2013 One of the most popular 2D game engines. RPG Maker Series \u2013 A scripting engine designed for 2D RPG is the traditional JRPG style. Source \u2013 A very popular 3D engine that is consistently updated and modified. Project Spark - An optimized 3D engine that addresses the average user. Learn your engine or find someone who knows it. Depending on the engine you choose, you may be facing a significant amount of programming. Even the most basic engines will require time to understand how to manipulate them. If the programming is beyond your capabilities, you'll either need to learn it or hire someone. This will be the beginning of your team-building phase. If you are unable to program, your first hire will need to be a programmer. You can worry about art and sound later; you need to be able to come up with a working prototype before the project can continue\nThere is a large community of independent developers that you should be networking with. People will join projects for all kinds of different reasons and compensations. This is where having a solid game design document helps a lot because it shows that you commit to your idea. Build a prototype. Once you are familiar with the engine you have chosen, build a prototype of the game. This prototype will serve as a basic test of the core functionality of the game. You don't need graphics or audio for the prototype, just simple placeholders (like a cube or a stick figure) and a small test area. Test and refine the prototype, again and again, to ensure that it is fun to play. Make note of anything that doesn't work or feel right, and readdress the mechanics involved. If the prototype isn't fun to play, then the final game probably won't be either. There will always be features that seemed easy or feasible that just won't work when it comes time to make the game. Expect the prototype to change multiple times as you tweak what works and what doesn't. Refine the controls. The most basic functionality of the game is the player interacting with the game through some sort of control input. Use the prototype to ensure that the controls are as perfect as they can be. Games with poorly-implemented controls will frustrate players. Games with perfectly executed controls will be rewarding to a player's skill. Creating Assets Consider your project's needs. Depending on the scope of your project, your art needs can vary significantly. Some games are built using only simple shapes and colors, while other games feature complex worlds created by vast teams of artists and sound designers. Be realistic with your goals for the assets in your game, and hire accordingly. Most independent games are created by small teams, oftentimes one person. If you are doing the entire project yourself, expect it to take a significant amount of time, especially if you are intending to create all of the assets yourself. There are a variety of free-to-use assets available online through development communities. Always make sure that anything you use does not violate someone's copyright. Create a rough draft of some art. In order to start getting a feel for the visual aesthetic of the game, you will need to begin implementing art into the prototype, and then start expanding that prototype into the game proper. There are a variety of styles that you can use. Pixel art (intentionally retro) is one of the most common styles employed by independent developers. This is because pixel art is typically the fastest and least-expensive art to produce that still results in a \u201cgood looking\u201d game. If you have more time and manpower, you can consider using 3D art. Basic 3D modeling is possible with a one-man team, but more complex details will take significantly more time. 3D models need textures on top of the model. Design the world, or structure, of the game. Once you have some art to use, you can start constructing the game itself. Depending on the style of game you are making, you may need to create levels or playing areas. If you are making a puzzle game, then you can start designing your puzzles. Develop your art assets. Depending on your art style, there are different programs you can use to create your art assets. Some of the more popular programs include:\nBlender \u2013 This open-source program is one of the most popular 3D modeling solutions around. There are endless tutorials available online that can show you how to get up and running quickly. Photoshop \u2013 This program is essential in the texturing process, as well as creating most 2D art. It is expensive, so if money is a concern, consider trying GIMP, the open-source, free alternative to Photoshop. GIMP has most of the same functionality. Paint.net \u2013 This is an open-source alternative to Paint Shop Pro, and will allow you to create 2D art with ease for free. This program is especially useful for creating 2D pixel art graphics. Use Adobe Illustrator - This program is good for Vector art. It is expensive, so if money is a concern, consider trying Inkscape, the open-source, free alternative to Illustrator. Record your audio assets. Sound design plays an essential part in the immersion when playing a game. Whether or not you have music, when and how you use sound effects, and spoken dialogue all affect the way the player connects with the game. You can find several powerful and free audio recordings and music creation software online. Consider using these if you are on a tight budget or are working independently. Make your sound effects with objects around your home. Putting it All Together Play your game as much as possible. As you build each aspect of the game, play it to ensure that it remains fun and cohesive. If an area or idea feels weak or poorly implemented, refine it or cut it. Once all of your levels or puzzles or play areas are complete, play through it to make sure it is fun from beginning to end. Stay focused on your core philosophy. Throughout the development process, you should be constantly checking to see that your game is attaining that philosophy. Make sure that you are sticking to your feature list, and that you aren't getting bogged down by more and more additions. Polish, polish, polish. Constantly go back over your art, sound, and game design to smooth rough edges and bring out your game's distinct style. Your ability to quickly polish will be heavily dependent on the art style you have chosen to use. Testing the Game Start bug hunting. Once you have a working game from start to finish, it's time to start looking for ways to break it. Finding the bugs in your game and squashing them is essential to making sure that as many people can play it as possible. Perform actions that you wouldn't normally try. Every conceivable way a player can interact with the game needs to be accounted for. Make sure that your game rules can't be bypassed or broken by attacking those rules as much as possible. Bug testing can take a significant amount of time, even as much as the game took to create. The more people you can get to help with testing, the more problems you will be able to find and fix. Prioritize the repair of any bugs. If you have a large list of bugs, and only a limited time to fix the game, make sure that you deal with serious, game-breaking bugs first. For example, if there was a bug that allowed a player to earn an unlimited high score in a score-based game, you would want to make sure that the bug was taken care of immediately. Watch other people play. Get some friends over to try out your game. Watch how they approach your challenges, and how they interact with your game world. Chances are they will try to do things that you never even thought someone would do. Releasing Your Work Check with your engine on the rules for releasing compiled programs. Each engine supports specific platforms, and some require different licenses to release on different platforms. For example, with Game Studio, you can release on Windows and Mac OS X with the Standard version, but need to upgrade to the Pro version and pay an extra fee to release mobile versions. Hype your game. Once you are nearing your game's release, start trying to attract some attention. Release some screenshots and video clips of your game in action on popular gaming forums. Contact gaming news sites and let them know that your game will be releasing soon (be sure to include how to get it, how much it costs, and a summary of the game). Create a company website during production so that you can start building followers. Hosting a forum for your game is a great way to get fans talking to each other, and regularly updating your site can start to draw more attention. Decide on a distribution service. Some independent developers will host the game on their website, but you may find that demand costs you a significant amount in hosting fees, and some hosts can't support the load that a successful game requires. There are several popular outlets for releasing independent games on PC, Mac OS X and Linux:\nSteam\nDesura\nHumble Store\nGOG\nMobile games typically need to be released through their prospective stores (Apple App Store, Google Play Store, etc.). The same goes for console games (Xbox Live, PlayStation Network, etc.). Different services will take different cuts on the sale of your game. Research each one to see if they are right for you. Most services have pines on sale. Reps that you can speak with directly as a developer. Support your game. Once your game is released, support it as much as financially possible with bug fixes and more content. The age of digital distribution means that games can be updated quicker than ever before. There are bound to be bugs that appear once the population at large has access to your game. Do what you can to fix these as soon as possible.",
+  "tyn_model":[
+    "engines",
+    "\u2013 a",
+    "\u2013 this",
+    "unity",
+    "photoshop",
+    "asteroids",
+    "\u201cfeature",
+    "\u201d,",
+    "game manual",
+    "game reviewer",
+    "unreal engine",
+    "gamemaker: studio",
+    "\u2013 one",
+    "rpg maker series \u2013 a",
+    "project spark",
+    "programming",
+    "program",
+    "game design document",
+    "art",
+    "pixel art",
+    "\u201cgood",
+    "\u201d game",
+    "3d art",
+    "blender",
+    "open-source program",
+    "3d modeling solutions",
+    "illustrator",
+    "audio recordings",
+    "music creation software",
+    "game studio",
+    "steam",
+    "gog",
+    "pines"
+  ],
+  "tyn_section":[
+
+  ]
+}

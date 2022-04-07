@@ -1,0 +1,123 @@
+{
+  "title":"How to Restart Steam",
+  "url":"https://www.wikihow.com/Restart-Steam",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "methods":[
+    {
+      "name":"Restarting Steam",
+      "steps":[
+        {
+          "headline":"Click on \u201cSteam\u201d in the toolbar at the top left corner of your Steam session.",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cExit\u201d or \u201cExit Steam.\u201d Your current session of Steam will close.",
+          "description":"Alternately, right-click on the Steam icon in the notification tray on your desktop, and select \u201cExit.\u201d In Windows, the notification tray is located at the bottom right corner of the desktop; in Mac OS X, the notification tray is located at the top right corner of the desktop."
+        },
+        {
+          "headline":"Double-click on the Steam icon on your desktop to relaunch Steam.",
+          "description":"If the Steam shortcut icon is not located on your desktop, search for Steam in the \u201cStart\u201d menu in Windows, or in the Applications folder on Mac OS X."
+        }
+      ]
+    },
+    {
+      "name":"Refreshing Steam Files in Windows",
+      "steps":[
+        {
+          "headline":"Exit Steam using steps #1 and #2 from Method One.",
+          "description":""
+        },
+        {
+          "headline":"Press the Windows + R keys at the same time.",
+          "description":"This will open the Run dialog box."
+        },
+        {
+          "headline":"Type the following command into the Run dialog box, then press Enter: steam://flushconfig.",
+          "description":"This command will refresh your Steam files."
+        },
+        {
+          "headline":"Restart your computer, then navigate to C:\\Program Files\\Steam.",
+          "description":""
+        },
+        {
+          "headline":"Double-click on \u201cSteam\u201d or \u201cSteam.exe\u201d to relaunch the Steam client.",
+          "description":"This will open Steam directly from the installation folder. Do not open Steam using its shortcut icon located on the desktop."
+        },
+        {
+          "headline":"Resume gameplay in Steam as normal.",
+          "description":"Your Steam files will now be refreshed."
+        }
+      ]
+    },
+    {
+      "name":"Refreshing Steam Files on Mac OS X",
+      "steps":[
+        {
+          "headline":"Exit Steam using steps #1 and #2 from Method One.",
+          "description":""
+        },
+        {
+          "headline":"Launch Safari and type \u201csteam://flushconfig\u201d into the address bar.",
+          "description":""
+        },
+        {
+          "headline":"Press \u201cEnter,\u201d then close your Internet browser.",
+          "description":""
+        },
+        {
+          "headline":"Restart your computer, then relaunch the Steam client.",
+          "description":"Your Steam files will now be refreshed, and you can resume gameplay as normal."
+        }
+      ]
+    },
+    {
+      "name":"Refreshing Steam Files in Linux",
+      "steps":[
+        {
+          "headline":"Launch Terminal and type \u201csteam --reset\u201d at the prompt.",
+          "description":""
+        },
+        {
+          "headline":"Press \u201cEnter.\u201d The message \u201cInstalling bootstrap /home/[username]/.steam/steam/bootstrap.tar.xz\u201d will display on-screen.",
+          "description":"This message means your Steam files have been successfully refreshed."
+        },
+        {
+          "headline":"Restart your computer, then relaunch the Steam client.",
+          "description":"Your Steam files will now be refreshed, and you can resume gameplay as normal."
+        }
+      ]
+    }
+  ],
+  "text":" Restarting Steam Click on \u201cSteam\u201d in the toolbar at the top left corner of your Steam session.  Select \u201cExit\u201d or \u201cExit Steam.\u201d Your current session of Steam will close. Alternately, right-click on the Steam icon in the notification tray on your desktop, and select \u201cExit.\u201d In Windows, the notification tray is located at the bottom right corner of the desktop; in Mac OS X, the notification tray is located at the top right corner of the desktop. Double-click on the Steam icon on your desktop to relaunch Steam. If the Steam shortcut icon is not located on your desktop, search for Steam in the \u201cStart\u201d menu in Windows, or in the Applications folder on Mac OS X. Refreshing Steam Files in Windows Exit Steam using steps #1 and #2 from Method One.  Press the Windows + R keys at the same time. This will open the Run dialog box. Type the following command into the Run dialog box, then press Enter: steam://flushconfig. This command will refresh your Steam files. Restart your computer, then navigate to C:\\Program Files\\Steam.  Double-click on \u201cSteam\u201d or \u201cSteam.exe\u201d to relaunch the Steam client. This will open Steam directly from the installation folder. Do not open Steam using its shortcut icon located on the desktop. Resume gameplay in Steam as normal. Your Steam files will now be refreshed. Refreshing Steam Files on Mac OS X Exit Steam using steps #1 and #2 from Method One.  Launch Safari and type \u201csteam://flushconfig\u201d into the address bar.  Press \u201cEnter,\u201d then close your Internet browser.  Restart your computer, then relaunch the Steam client. Your Steam files will now be refreshed, and you can resume gameplay as normal. Refreshing Steam Files in Linux Launch Terminal and type \u201csteam --reset\u201d at the prompt.  Press \u201cEnter.\u201d The message \u201cInstalling bootstrap /home/[username]/.steam/steam/bootstrap.tar.xz\u201d will display on-screen. This message means your Steam files have been successfully refreshed. Restart your computer, then relaunch the Steam client. Your Steam files will now be refreshed, and you can resume gameplay as normal.",
+  "tyn_model":[
+    "steam",
+    "\u201csteam",
+    "\u201cexit",
+    "steam client",
+    "\u201d in",
+    "\u201d or",
+    "\u201center",
+    "\u201d your",
+    "\u201cstart",
+    "\u201d menu",
+    "\u201csteam.exe",
+    "\u201d to",
+    "\u201csteam://flushconfig",
+    "\u201d into",
+    "\u201d then",
+    "internet browser",
+    "terminal",
+    "\u201d at",
+    "\u201d the",
+    "\u201cinstalling",
+    "\u201d will"
+  ],
+  "tyn_section":[
+
+  ]
+}

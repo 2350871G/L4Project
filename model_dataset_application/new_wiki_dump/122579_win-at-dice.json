@@ -1,0 +1,88 @@
+{
+  "title":"How to Win at Dice",
+  "url":"https://www.wikihow.com/Win-at-Dice",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Games of Chance",
+    "Dice Games"
+  ],
+  "methods":[
+    {
+      "name":"Understanding Dice Probability",
+      "steps":[
+        {
+          "headline":"Learn the total number of combinations.",
+          "description":"The range of probability will vary depending on the number of dice you have and how many sides each dice has. The number of combinations is determined by how many different number combinations dice can make. For each dice, there is a one in six, or 1/6, chance that you will get any given number, with six possible numbers in total. The number of chances increases with each die you have. For each additional dice, the total number of possibilities increases times 6. There are a total of 36 (6 x 6) combinations for two dice, 216 (36 x 6) combinations for three dice, and so on."
+        },
+        {
+          "headline":"Determine the likelihood of a number.",
+          "description":"To determine how frequently a number will be rolled, you must figure out how many times that number can be made by the number of dice you have. For example, if you have three dice, the probability of getting an 8 is 21/216. The combinations that are possible are 1-2-5, 1-3-4, 1-1-6, 2-3-3, and 2-2-4. For each combination that uses three unique dice, there are 6 total combinations of dice. For each combination that uses two unique dice, there are 3 total combinations of dice. For the number 8, there are two number combinations that have three unique dice (6 + 6) and three number combinations that have two unique dice (3 + 3 + 3), for a total of 21 possibilities."
+        },
+        {
+          "headline":"Learn the probability of two dice games.",
+          "description":"Most dice games, as well as many board games in general, use two dice. Learning to compute the probability of two dice games can come in handy when you're deciding your strategy. The probability in two dice games is easy to compute. Simply multiple the number of combinations by 2 to figure out the maximum number of ways you can reach that number. For example, a total of 7 may be obtained by rolling a 1 and 6, a 2 and 5, or a 3 and 4. Since there are two dice, double number of combinations (3 x 2), which is a total of 6/36 combinations. You can also use the odds in any board game. For example, you are playing Monopoly and are about to roll for the first time while you are in jail. The likelihood that you will roll a 12 is 1/36, or 2.7%. These aren't high odds, so you might want to pay the $50 to get out of jail so you don't spend three turns not playing the game, especially since you will have to pay the money in the end anyway if you don't roll a 12. These statistics are based on six-sided dice. If your game uses dice with more sides, the probability of each number combination would change."
+        }
+      ]
+    },
+    {
+      "name":"Playing the Odds in Craps",
+      "steps":[
+        {
+          "headline":"Compute the odds in Craps.",
+          "description":"Craps is a game of chance, but you can use statistics to figure out how to place your bets. You win in craps on the first roll if you roll a 7 or an 11. The combinations that will result in a 7 are 1-6, 2-5, and 3-4. Because there are two dice, you need to multiply the number of combinations by 2 (3 x 2), giving you a total of 6 out of 36 chances, or 17%, that you will roll a 7 on the first roll. An 11 is only made by rolling a 6-5, so the total number of chances you'll get an 11 is 2 out of 36, or 5.5%. To find out the overall probability of winning on your first roll, add 1/6 and 1/18, which makes your overall probability of rolling a winning number on the first roll 8/36, or 22%. Look out for rolls of 2, 3, and 12. These are considered the natural losing numbers in craps and no matter what you bet, you lose if these numbers are rolled. Don't worry too much, though, because the likelihood of each of these numbers being rolled is 1/36, or 2.7%."
+        },
+        {
+          "headline":"Bet the pass line.",
+          "description":"The pass line is where you bet for the roll of 7 or 11 on the first roll. You can start by bidding the pass line, which will win you money 22% of the time on your first roll if you roll a 7 or 11. This can be a nice way to gently build yourself up to betting higher."
+        },
+        {
+          "headline":"Bet on 6s or 8s.",
+          "description":"If you don't want to bet the pass line, you can bet on the point numbers. Point numbers are the numbers that aren't natural winners and losers, which are the 4, 5, 6, 8, 9, and 10. When your first roll doesn't automatically win or lose, you end up with a point number, which you have to roll one additional time to win. 6s and 8s are the most probable point numbers, and these numbers will be more likely to win you money than any of the other point numbers. There is a 10/36, 27%, chance that your point number will be either a 6 or an 8. Your chances decrease once a point number is rolled, with the odds of 5/36, or 13.8%, that you will get the matching point number. Even if these odds seem low, they are the highest for any point numbers. The chances of you winning with a 5 or 9 is 4/36, or 11%, and with a 4 or 10 is 3/36, or 8.3%. These are much lower than the 13.8% chance that you'll win off the 6 or the 8."
+        },
+        {
+          "headline":"Work the odds.",
+          "description":"Even if you're on a losing streak, following the odds will likely pay out in the long-run, regardless of short-term losses. Odds will always even themselves out, but that process may be much longer than you anticipate. If you have plenty of money to burn, playing against the odds can be a fun risk to take."
+        }
+      ]
+    },
+    {
+      "name":"Using the Odds in Yahtzee",
+      "steps":[
+        {
+          "headline":"Understand the odds.",
+          "description":"Yahtzee is a great dice game, but relying on five dice to fall your way can be a daunting task. There is only a 6/7776 chance that you'll roll that coveted Yahtzee combination, which are not great odds at all. There is a 7056/7776, or 91%, chance that you'll get a pair on your roll, so you might want to try to strive for something higher early on since you are much more likely to get at least a pair or two on your final roll."
+        },
+        {
+          "headline":"Determine the odds of a Yahtzee.",
+          "description":"To determine the chance of a Yahtzee, you simply multiply the number of sides that a die has as many times as there are dice (6 x 6 x 6 x 6 x 6). This is your base number (7776). And since there are 6 numbers that can be used to make a Yahtzee, then your probability is 6/7776, or 0.1%. The other combinations have much greater odds, so settling for one of the other combinations is more likely to get you a higher score and win the game than always holding out for a Yahtzee."
+        },
+        {
+          "headline":"Keep a full house.",
+          "description":"A good way to pick up some extra points in Yahtzee is to always take a full house when it first comes up. The full house is much more likely (300/7776, 3.9%) than four of a kind (150/7776, 1.9%) and it yields more points (25) than the highest four of a kind can yield (24). Although you might want to try for a Yahtzee as well, the likelihood is so low that taking the easy points early on will likely work in your favor. Plus, a full house can be elusive late in the game when you really need it."
+        },
+        {
+          "headline":"Go for the large straight.",
+          "description":"On your first roll in the game, there is only a 3.1% chance that you will throw a large straight. If you happen to roll three of four numbers in a row, play the odds and keep rolling. Say you roll a 2-2-3-4-5 combination. There is a 2/6, or 33%, chance that you will get either the 1 or 6 needed to complete the straight if you re-roll the 2. The likelihood that you will get enough 2s to make a four of a kind or Yahtzee are not nearly as promising, so go with the straight."
+        },
+        {
+          "headline":"Get the bonuses.",
+          "description":"If you roll a three of four 4s, 5s, or 6s, use them in your upper section as your total score for those numbers instead of counting them as three and four of a kinds. This will add more points to your overall upper section score and help you to get your bonus of 35 points. If you count them as three and four of a kind, you are just guaranteed the total on the dice. If you get your bonus on the upper section, you get the score for those dice plus an additional 35 points. If you are left near the end of the game with only one or two of the higher numbers in the upper section to count as your totals for those numbers, you may lose your bonus, which will decrease your overall score by 35 points."
+        }
+      ]
+    }
+  ],
+  "text":" Understanding Dice Probability Learn the total number of combinations. The range of probability will vary depending on the number of dice you have and how many sides each dice has. The number of combinations is determined by how many different number combinations dice can make. For each dice, there is a one in six, or 1/6, chance that you will get any given number, with six possible numbers in total. The number of chances increases with each die you have. For each additional dice, the total number of possibilities increases times 6. There are a total of 36 (6 x 6) combinations for two dice, 216 (36 x 6) combinations for three dice, and so on. Determine the likelihood of a number. To determine how frequently a number will be rolled, you must figure out how many times that number can be made by the number of dice you have. For example, if you have three dice, the probability of getting an 8 is 21/216. The combinations that are possible are 1-2-5, 1-3-4, 1-1-6, 2-3-3, and 2-2-4. For each combination that uses three unique dice, there are 6 total combinations of dice. For each combination that uses two unique dice, there are 3 total combinations of dice. For the number 8, there are two number combinations that have three unique dice (6 + 6) and three number combinations that have two unique dice (3 + 3 + 3), for a total of 21 possibilities. Learn the probability of two dice games. Most dice games, as well as many board games in general, use two dice. Learning to compute the probability of two dice games can come in handy when you're deciding your strategy. The probability in two dice games is easy to compute. Simply multiple the number of combinations by 2 to figure out the maximum number of ways you can reach that number. For example, a total of 7 may be obtained by rolling a 1 and 6, a 2 and 5, or a 3 and 4. Since there are two dice, double number of combinations (3 x 2), which is a total of 6/36 combinations. You can also use the odds in any board game. For example, you are playing Monopoly and are about to roll for the first time while you are in jail. The likelihood that you will roll a 12 is 1/36, or 2.7%. These aren't high odds, so you might want to pay the $50 to get out of jail so you don't spend three turns not playing the game, especially since you will have to pay the money in the end anyway if you don't roll a 12. These statistics are based on six-sided dice. If your game uses dice with more sides, the probability of each number combination would change. Playing the Odds in Craps Compute the odds in Craps. Craps is a game of chance, but you can use statistics to figure out how to place your bets. You win in craps on the first roll if you roll a 7 or an 11. The combinations that will result in a 7 are 1-6, 2-5, and 3-4. Because there are two dice, you need to multiply the number of combinations by 2 (3 x 2), giving you a total of 6 out of 36 chances, or 17%, that you will roll a 7 on the first roll. An 11 is only made by rolling a 6-5, so the total number of chances you'll get an 11 is 2 out of 36, or 5.5%. To find out the overall probability of winning on your first roll, add 1/6 and 1/18, which makes your overall probability of rolling a winning number on the first roll 8/36, or 22%. Look out for rolls of 2, 3, and 12. These are considered the natural losing numbers in craps and no matter what you bet, you lose if these numbers are rolled. Don't worry too much, though, because the likelihood of each of these numbers being rolled is 1/36, or 2.7%. Bet the pass line. The pass line is where you bet for the roll of 7 or 11 on the first roll. You can start by bidding the pass line, which will win you money 22% of the time on your first roll if you roll a 7 or 11. This can be a nice way to gently build yourself up to betting higher. Bet on 6s or 8s. If you don't want to bet the pass line, you can bet on the point numbers. Point numbers are the numbers that aren't natural winners and losers, which are the 4, 5, 6, 8, 9, and 10. When your first roll doesn't automatically win or lose, you end up with a point number, which you have to roll one additional time to win. 6s and 8s are the most probable point numbers, and these numbers will be more likely to win you money than any of the other point numbers. There is a 10/36, 27%, chance that your point number will be either a 6 or an 8. Your chances decrease once a point number is rolled, with the odds of 5/36, or 13.8%, that you will get the matching point number. Even if these odds seem low, they are the highest for any point numbers. The chances of you winning with a 5 or 9 is 4/36, or 11%, and with a 4 or 10 is 3/36, or 8.3%. These are much lower than the 13.8% chance that you'll win off the 6 or the 8. Work the odds. Even if you're on a losing streak, following the odds will likely pay out in the long-run, regardless of short-term losses. Odds will always even themselves out, but that process may be much longer than you anticipate. If you have plenty of money to burn, playing against the odds can be a fun risk to take. Using the Odds in Yahtzee Understand the odds. Yahtzee is a great dice game, but relying on five dice to fall your way can be a daunting task. There is only a 6/7776 chance that you'll roll that coveted Yahtzee combination, which are not great odds at all. There is a 7056/7776, or 91%, chance that you'll get a pair on your roll, so you might want to try to strive for something higher early on since you are much more likely to get at least a pair or two on your final roll. Determine the odds of a Yahtzee. To determine the chance of a Yahtzee, you simply multiply the number of sides that a die has as many times as there are dice (6 x 6 x 6 x 6 x 6). This is your base number (7776). And since there are 6 numbers that can be used to make a Yahtzee, then your probability is 6/7776, or 0.1%. The other combinations have much greater odds, so settling for one of the other combinations is more likely to get you a higher score and win the game than always holding out for a Yahtzee. Keep a full house. A good way to pick up some extra points in Yahtzee is to always take a full house when it first comes up. The full house is much more likely (300/7776, 3.9%) than four of a kind (150/7776, 1.9%) and it yields more points (25) than the highest four of a kind can yield (24). Although you might want to try for a Yahtzee as well, the likelihood is so low that taking the easy points early on will likely work in your favor. Plus, a full house can be elusive late in the game when you really need it. Go for the large straight. On your first roll in the game, there is only a 3.1% chance that you will throw a large straight. If you happen to roll three of four numbers in a row, play the odds and keep rolling. Say you roll a 2-2-3-4-5 combination. There is a 2/6, or 33%, chance that you will get either the 1 or 6 needed to complete the straight if you re-roll the 2. The likelihood that you will get enough 2s to make a four of a kind or Yahtzee are not nearly as promising, so go with the straight. Get the bonuses. If you roll a three of four 4s, 5s, or 6s, use them in your upper section as your total score for those numbers instead of counting them as three and four of a kinds. This will add more points to your overall upper section score and help you to get your bonus of 35 points. If you count them as three and four of a kind, you are just guaranteed the total on the dice. If you get your bonus on the upper section, you get the score for those dice plus an additional 35 points. If you are left near the end of the game with only one or two of the higher numbers in the upper section to count as your totals for those numbers, you may lose your bonus, which will decrease your overall score by 35 points.",
+  "tyn_model":[
+    "dice",
+    "yahtzee",
+    "craps",
+    "board game",
+    "monopoly",
+    "statistics",
+    "die"
+  ],
+  "tyn_section":[
+
+  ]
+}

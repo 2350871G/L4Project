@@ -1,0 +1,159 @@
+{
+  "title":"How to Program Lego's NXT Mindstorm",
+  "url":"https://www.wikihow.com/Program-Lego%27s-NXT-Mindstorm",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Toys",
+    "Construction Toys",
+    "LEGO and Other Building Blocks"
+  ],
+  "parts":[
+    {
+      "name":"Getting Started",
+      "steps":[
+        {
+          "headline":"Install and open the software.",
+          "description":"The robot should come with software for both Mac and Windows included, or you can download it from the Lego Mindstorm website. When you insert the disk or open the downloaded version, an installation window will pop up. Follow the instructions to get the software installed, and then open it."
+        },
+        {
+          "headline":"Learn to navigate in the software.",
+          "description":"Use the toolbar at the top to save your program, open an existing program, or create a new one. Use the pointer tool, shaped like a black arrow, to insert, move, and delete operations. The pan tool, shaped like a white hand, lets you drag the program window around in the window so that you can scroll through your program. The comment tool, shaped like a speech bubble, lets you insert text over parts of your program so that you can add comments to describe and help others understand your program. On the right hand side of the window, the Robo Center contains tutorials and instructions for several different robots that you can build and program. The other tab at the top of the Robo Center opens your Portal, which lets you access online resources to help you with your programming. Hover over an operation to bring up a description of that operation in the bottom right, and view or change the settings for that operation on the bottom of the window."
+        },
+        {
+          "headline":"Learn to access the different operations.",
+          "description":"The toolbar on the left contains all the operations your robot can perform. The three tabs on the bottom of the toolbar give you access to different sets of these operations. Explore this toolbar to discover and experiment with different tasks for your robot. The leftmost tab, with the green circle, contains the most common operations like Move, Sound, Loop, and Switch. This layout gives you quick access to the operations you'll use the most, but it doesn't let you access the rest. The middle tab, with three colored squares, contains all included operations, divided into categories. Hover your mouse over the green circle at the top to access common operations. Hover over the green square to access actions like playing a sound or turning on a colored light. Explore the other buttons to find all other operations. The last tab, with the teal equals sign, holds your custom operations, ones that you created yourself or downloaded from the internet."
+        },
+        {
+          "headline":"Start with a tutorial.",
+          "description":"The software includes several tutorials that will guide you through your first programs. Go to the Robo Center on the right and click on the category of program you want to create. For your first program, think about starting with the Shooterbot under Vehicles. This tutorial will start simply but will introduce you to the basic controls at your disposal, as well as general coding and testing practices."
+        },
+        {
+          "headline":"Following the instructions in your tutorial, drag operations onto your program.",
+          "description":"Change their settings as necessary to make sure each operation does exactly what you want it to do. String together multiple operations by placing them in sequence, connected by the chain running through your program. Drop operations inside a loop or switch to include those operations in that control statement."
+        },
+        {
+          "headline":"When finished with your program, download it onto your robot's intelligent brick.",
+          "description":"Connect the brick to your computer using the USB wire. The square of buttons at the bottom right of your program window allows you to communicate with a connected NXT device. The bottom left of these buttons will download your program onto your device. Once the download is complete, unplug the intelligent brick, insert it into your robot, and start the program to see it run."
+        }
+      ]
+    },
+    {
+      "name":"Controlling Your Robot",
+      "steps":[
+        {
+          "headline":"Move your robot with the Move operation.",
+          "description":"This operation has two gears on it. Add it to your program and then configure the settings. Use the ports that are connected to the tires to move your robot. If you've connected the wheels to ports B and C, make sure the Move is set to use ports B and C.\nMove forward or backward, or stop altogether, by setting the direction. Turn using the steering controls. Move forward for a set number of rotations, a certain amount of time, or a number of degrees. Or set the duration to \"Unlimited\" to have your robot move until it receives a command, later in the program, to stop."
+        },
+        {
+          "headline":"Perform other operations like shooting using the Motor command.",
+          "description":"In the Shooterbot tutorial, your shooter plugs into port A. To control this, use a Motor operation (depicted by just one gear) that activates port A. Configure the settings to control the precise operation of this motor by setting the direction (forward, backward, or stopped), action, power level, and duration of the motion. Unchecking \"Wait for Completion\" allows the robot to begin executing the next commands in your program before completing the motion controlled by the Motor operation. This can allow your robot, for instance, to move and shoot at the same time. The Motor command will execute any operation performed by the motor it controls. Build your robot such that the motor lifts up a tray, shoots a ball, turns the robot, or anything else you can think of. This command allows for creativity and flexibility in your robot's performance; take advantage of it."
+        },
+        {
+          "headline":"Use sensors to allow your robot to interact with its environment.",
+          "description":"Hook up ultrasonic, touch, and color sensors to the intelligent chip's ports, and use them to sense light, color, sound, and touch. Your robot can also keep track of time and rotation. These sensors allow your program to perform actions only when they are activated. For instance, you could have a program say \"Red\" when it detects the color red, but not when it detects the color blue."
+        },
+        {
+          "headline":"Use action operations to get your robot to perform actions.",
+          "description":"These can include turning on or off a colored light, playing sound from a sound file, displaying an image or text on the intelligent brick's screen, or sending a message over Bluetooth."
+        }
+      ]
+    },
+    {
+      "name":"Using Loops and Switches",
+      "steps":[
+        {
+          "headline":"Understand how loops work.",
+          "description":"Loops allow you to perform a series of commands repeatedly, either indefinitely, for a set number of times, while a certain condition is true, or until a certain action happens. For example, to have your robot to examine a bunch of balls until it finds a yellow one, simply create a loop controlled by the color sensor. The actions inside the loop will be those to examine the next ball; the control on the loop will be that the color sensor does not detect yellow. Thus when the color sensor, after examining a ball, detects yellow, it will stop examining new balls and move on to the next step of the program."
+        },
+        {
+          "headline":"Understand how switches work.",
+          "description":"A switch statement tells your robot to perform one series of commands if a certain condition is true and a different series of actions if that condition is not true. These two series of actions are mutually exclusive in the switch: the robot will perform one but not the other. Nest one switch inside another to check for multiple conditions before performing an action. For instance, use nested switches to have your robot move forward if it detects neither light nor sound. The first switch will check for light; if light is not detected, the robot will enter the second switch, which checks for sound. Only if sound is not detected (after the light has not been detected) will the robot move forward. To include more than one case in a switch controlled by a value, uncheck \"Flat view\" in the settings for the switch and, on the right side of the settings where it lists the conditions, press \"+\" to add another case. This is useful when the control is a number or text message whose value can be more than two different things."
+        },
+        {
+          "headline":"Drop a loop or switch into your program and choose the control.",
+          "description":"This will set the condition the robot will check for before performing the commands inside the switch or loop. Usually, the control will be a sensor. This allows your robot to interact closely with its environment. Switches can also be controlled by a value. Attach a variable to the leading edge of the switch using a data wire. Add cases for the exact input of a number or text variable. For instance, have your robot execute a series of commands if the number variable is 0, different commands if it's 1, and yet another set of commands in case it's any other number. Loops can also be controlled by time -- the statements inside will run for a certain amount of time -- or count -- the whole loop will run through a certain number of times. Choose Logic to have the loop run until a certain condition becomes true or false, or Forever to have the robot perform those commands indefinitely."
+        },
+        {
+          "headline":"Drag other commands inside the loop or switch.",
+          "description":"Any operations that you put inside a loop will be performed every time the loop runs through. Operations that you place in each case of a switch will be performed if that case is met. Place and configure these operations as normal. You can include loops and switches inside other loops and switches, if you so desire."
+        }
+      ]
+    },
+    {
+      "name":"Using Variables",
+      "steps":[
+        {
+          "headline":"Understand the use of variables.",
+          "description":"Variables can store information so that you can access it later in the program. Think of them as a box into which you put certain information. You can later remove or change that information without changing the box -- the variable -- itself. Each variable can store a number, a string of text, or a logic value (true or false). You can freely change the value of a variable, but you can't change its type. Each variable has a unique name. Use this name to access and refer to the variable."
+        },
+        {
+          "headline":"Create a variable by going to Edit \u2192 Define Variables.",
+          "description":"In the window that pops up, enter the name of your variable and choose your desired datatype (logic, number, or text). You can also delete variables you no longer need. Give your variables descriptive names so that you can keep track of what they are. If you want a variable to store a greeting that your robot will send as a message, name the variable \"greeting\" rather than \"text_var_1\" or something similarly ambiguous."
+        },
+        {
+          "headline":"Use variables in your program by connecting them to commands using data wires.",
+          "description":"Connect them to math operations to combine variables or set them to the result. Connect them to loops or switches to use them as the control, and even modify them inside the loop or switch."
+        },
+        {
+          "headline":"Use constants for variables that will never change.",
+          "description":"If you want a text variable for the name of your robot, set it at the beginning by going to Edit \u2192 Define Constants. Then you can refer to this constant without worrying about it being changed."
+        }
+      ]
+    },
+    {
+      "name":"Using Custom Blocks",
+      "steps":[
+        {
+          "headline":"Understand how custom blocks can be useful.",
+          "description":"Create a custom block for a series of two or more operations that you repeat several times throughout your program. For example, if you want your robot to move forward for three seconds and then flash a red light, include these instructions in a custom block so that you can access them quickly and easily each time you need to include them in the program."
+        },
+        {
+          "headline":"Lay out the series of operations that will become your custom block.",
+          "description":"Include them in your program just as you normally would."
+        },
+        {
+          "headline":"Select the instructions you want to make your custom block.",
+          "description":"Hold down Shift and click on each operation. Once they're all selected, click the equals sign in the top toolbar right next to the comments tool. This will bring up a window called \"My Block Builder.\" You can also go to Edit \u2192 Make a New My Block to open the custom block builder. If you have any data wires coming into or out of the blocks you selected for your custom block, these will appear as ports for your block, and you can connect them to variables or other data when you use your block in a program."
+        },
+        {
+          "headline":"Enter a name and description for your custom block.",
+          "description":"The name should be short but descriptive so that you remember exactly what the block does. The description should be clear and detailed, and include important notes like, for instance, what direction your robot needs to be facing or what needs to be plugged into Port A for your block to work properly."
+        },
+        {
+          "headline":"Click Next to go to the Icon Editor.",
+          "description":"Drag any icons you want into your block's icon at the top. When you're finished creating your icon, click Finish. In your program, the steps corresponding to your block will be replaced by the block you just created."
+        },
+        {
+          "headline":"Use your custom block in your programs the same way you use any other block.",
+          "description":"You can even combine multiple custom blocks into another one to make your programming even easier. Be creative -- custom blocks can be incredibly useful if you take advantage of them."
+        }
+      ]
+    }
+  ],
+  "text":" Getting Started Install and open the software. The robot should come with software for both Mac and Windows included, or you can download it from the Lego Mindstorm website. When you insert the disk or open the downloaded version, an installation window will pop up. Follow the instructions to get the software installed, and then open it. Learn to navigate in the software. Use the toolbar at the top to save your program, open an existing program, or create a new one. Use the pointer tool, shaped like a black arrow, to insert, move, and delete operations. The pan tool, shaped like a white hand, lets you drag the program window around in the window so that you can scroll through your program. The comment tool, shaped like a speech bubble, lets you insert text over parts of your program so that you can add comments to describe and help others understand your program. On the right hand side of the window, the Robo Center contains tutorials and instructions for several different robots that you can build and program. The other tab at the top of the Robo Center opens your Portal, which lets you access online resources to help you with your programming. Hover over an operation to bring up a description of that operation in the bottom right, and view or change the settings for that operation on the bottom of the window. Learn to access the different operations. The toolbar on the left contains all the operations your robot can perform. The three tabs on the bottom of the toolbar give you access to different sets of these operations. Explore this toolbar to discover and experiment with different tasks for your robot. The leftmost tab, with the green circle, contains the most common operations like Move, Sound, Loop, and Switch. This layout gives you quick access to the operations you'll use the most, but it doesn't let you access the rest. The middle tab, with three colored squares, contains all included operations, divided into categories. Hover your mouse over the green circle at the top to access common operations. Hover over the green square to access actions like playing a sound or turning on a colored light. Explore the other buttons to find all other operations. The last tab, with the teal equals sign, holds your custom operations, ones that you created yourself or downloaded from the internet. Start with a tutorial. The software includes several tutorials that will guide you through your first programs. Go to the Robo Center on the right and click on the category of program you want to create. For your first program, think about starting with the Shooterbot under Vehicles. This tutorial will start simply but will introduce you to the basic controls at your disposal, as well as general coding and testing practices. Following the instructions in your tutorial, drag operations onto your program. Change their settings as necessary to make sure each operation does exactly what you want it to do. String together multiple operations by placing them in sequence, connected by the chain running through your program. Drop operations inside a loop or switch to include those operations in that control statement. When finished with your program, download it onto your robot's intelligent brick. Connect the brick to your computer using the USB wire. The square of buttons at the bottom right of your program window allows you to communicate with a connected NXT device. The bottom left of these buttons will download your program onto your device. Once the download is complete, unplug the intelligent brick, insert it into your robot, and start the program to see it run. Controlling Your Robot Move your robot with the Move operation. This operation has two gears on it. Add it to your program and then configure the settings. Use the ports that are connected to the tires to move your robot. If you've connected the wheels to ports B and C, make sure the Move is set to use ports B and C.\nMove forward or backward, or stop altogether, by setting the direction. Turn using the steering controls. Move forward for a set number of rotations, a certain amount of time, or a number of degrees. Or set the duration to \"Unlimited\" to have your robot move until it receives a command, later in the program, to stop. Perform other operations like shooting using the Motor command. In the Shooterbot tutorial, your shooter plugs into port A. To control this, use a Motor operation (depicted by just one gear) that activates port A. Configure the settings to control the precise operation of this motor by setting the direction (forward, backward, or stopped), action, power level, and duration of the motion. Unchecking \"Wait for Completion\" allows the robot to begin executing the next commands in your program before completing the motion controlled by the Motor operation. This can allow your robot, for instance, to move and shoot at the same time. The Motor command will execute any operation performed by the motor it controls. Build your robot such that the motor lifts up a tray, shoots a ball, turns the robot, or anything else you can think of. This command allows for creativity and flexibility in your robot's performance; take advantage of it. Use sensors to allow your robot to interact with its environment. Hook up ultrasonic, touch, and color sensors to the intelligent chip's ports, and use them to sense light, color, sound, and touch. Your robot can also keep track of time and rotation. These sensors allow your program to perform actions only when they are activated. For instance, you could have a program say \"Red\" when it detects the color red, but not when it detects the color blue. Use action operations to get your robot to perform actions. These can include turning on or off a colored light, playing sound from a sound file, displaying an image or text on the intelligent brick's screen, or sending a message over Bluetooth. Using Loops and Switches Understand how loops work. Loops allow you to perform a series of commands repeatedly, either indefinitely, for a set number of times, while a certain condition is true, or until a certain action happens. For example, to have your robot to examine a bunch of balls until it finds a yellow one, simply create a loop controlled by the color sensor. The actions inside the loop will be those to examine the next ball; the control on the loop will be that the color sensor does not detect yellow. Thus when the color sensor, after examining a ball, detects yellow, it will stop examining new balls and move on to the next step of the program. Understand how switches work. A switch statement tells your robot to perform one series of commands if a certain condition is true and a different series of actions if that condition is not true. These two series of actions are mutually exclusive in the switch: the robot will perform one but not the other. Nest one switch inside another to check for multiple conditions before performing an action. For instance, use nested switches to have your robot move forward if it detects neither light nor sound. The first switch will check for light; if light is not detected, the robot will enter the second switch, which checks for sound. Only if sound is not detected (after the light has not been detected) will the robot move forward. To include more than one case in a switch controlled by a value, uncheck \"Flat view\" in the settings for the switch and, on the right side of the settings where it lists the conditions, press \"+\" to add another case. This is useful when the control is a number or text message whose value can be more than two different things. Drop a loop or switch into your program and choose the control. This will set the condition the robot will check for before performing the commands inside the switch or loop. Usually, the control will be a sensor. This allows your robot to interact closely with its environment. Switches can also be controlled by a value. Attach a variable to the leading edge of the switch using a data wire. Add cases for the exact input of a number or text variable. For instance, have your robot execute a series of commands if the number variable is 0, different commands if it's 1, and yet another set of commands in case it's any other number. Loops can also be controlled by time -- the statements inside will run for a certain amount of time -- or count -- the whole loop will run through a certain number of times. Choose Logic to have the loop run until a certain condition becomes true or false, or Forever to have the robot perform those commands indefinitely. Drag other commands inside the loop or switch. Any operations that you put inside a loop will be performed every time the loop runs through. Operations that you place in each case of a switch will be performed if that case is met. Place and configure these operations as normal. You can include loops and switches inside other loops and switches, if you so desire. Using Variables Understand the use of variables. Variables can store information so that you can access it later in the program. Think of them as a box into which you put certain information. You can later remove or change that information without changing the box -- the variable -- itself. Each variable can store a number, a string of text, or a logic value (true or false). You can freely change the value of a variable, but you can't change its type. Each variable has a unique name. Use this name to access and refer to the variable. Create a variable by going to Edit \u2192 Define Variables. In the window that pops up, enter the name of your variable and choose your desired datatype (logic, number, or text). You can also delete variables you no longer need. Give your variables descriptive names so that you can keep track of what they are. If you want a variable to store a greeting that your robot will send as a message, name the variable \"greeting\" rather than \"text_var_1\" or something similarly ambiguous. Use variables in your program by connecting them to commands using data wires. Connect them to math operations to combine variables or set them to the result. Connect them to loops or switches to use them as the control, and even modify them inside the loop or switch. Use constants for variables that will never change. If you want a text variable for the name of your robot, set it at the beginning by going to Edit \u2192 Define Constants. Then you can refer to this constant without worrying about it being changed. Using Custom Blocks Understand how custom blocks can be useful. Create a custom block for a series of two or more operations that you repeat several times throughout your program. For example, if you want your robot to move forward for three seconds and then flash a red light, include these instructions in a custom block so that you can access them quickly and easily each time you need to include them in the program. Lay out the series of operations that will become your custom block. Include them in your program just as you normally would. Select the instructions you want to make your custom block. Hold down Shift and click on each operation. Once they're all selected, click the equals sign in the top toolbar right next to the comments tool. This will bring up a window called \"My Block Builder.\" You can also go to Edit \u2192 Make a New My Block to open the custom block builder. If you have any data wires coming into or out of the blocks you selected for your custom block, these will appear as ports for your block, and you can connect them to variables or other data when you use your block in a program. Enter a name and description for your custom block. The name should be short but descriptive so that you remember exactly what the block does. The description should be clear and detailed, and include important notes like, for instance, what direction your robot needs to be facing or what needs to be plugged into Port A for your block to work properly. Click Next to go to the Icon Editor. Drag any icons you want into your block's icon at the top. When you're finished creating your icon, click Finish. In your program, the steps corresponding to your block will be replaced by the block you just created. Use your custom block in your programs the same way you use any other block. You can even combine multiple custom blocks into another one to make your programming even easier. Be creative -- custom blocks can be incredibly useful if you take advantage of them.",
+  "tyn_model":[
+    "motor",
+    "intelligent brick",
+    "robot",
+    "color sensor",
+    "variables",
+    "robo center",
+    "program",
+    "\u2192 define",
+    "mouse",
+    "software",
+    "computer",
+    "usb wire",
+    "tray",
+    "sensors",
+    "loops",
+    "balls",
+    "constants",
+    "\u2192 make",
+    "icon editor",
+    "programs"
+  ],
+  "tyn_section":[
+
+  ]
+}

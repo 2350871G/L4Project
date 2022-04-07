@@ -1,0 +1,62 @@
+{
+  "title":"How to Restore an URM 25D Signal Generator",
+  "url":"https://www.wikihow.com/Restore-an-URM-25D-Signal-Generator",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "steps":[
+    {
+      "headline":"Check the fuses are all okay.",
+      "description":"Replace any blown ones."
+    },
+    {
+      "headline":"Check all switches are set correctly.",
+      "description":"The \"X-MULT\" switch should be set to the band being used. The \"SET CARRIER\" or \"RF OUTPUT\" control should be set to indicate full scale on the meter with the \"Microvolts\" control set to max (fully clockwise). Then slowly adjust the \"Microvolts\" control down to the optimal setting."
+    },
+    {
+      "headline":"Check if the meter works in the 400/1000 Hz range.",
+      "description":"This will help you determine if the the audio oscillator and modulation circuits work properly."
+    },
+    {
+      "headline":"Check if the meter reads RF in the CW position.",
+      "description":"This will help you determine if the RF section works properly."
+    },
+    {
+      "headline":"Check if the meter reads RF output on all bands.",
+      "description":"If not, the intermittent contact on the wheel may require cleaning or lubrication, or the spring fingers may require adjustment to ensure they are making good contact."
+    },
+    {
+      "headline":"Test if all switches move smoothly, or if they require cleaning.",
+      "description":""
+    },
+    {
+      "headline":"Check that the power plugs inside the front panel are connected.",
+      "description":""
+    },
+    {
+      "headline":"Test the tubes on a Dynamic Mutual Trans-conductance tester.",
+      "description":"There are 9 tubes in the 25D model."
+    },
+    {
+      "headline":"Inspect the wiring connections.",
+      "description":"Some spots may require re-soldering."
+    },
+    {
+      "headline":"Check for broken or failed line feed-throughs.",
+      "description":"These units are located on the underside of the unit."
+    },
+    {
+      "headline":"Check that none of the moulded paper capacitors are leaking.",
+      "description":"They may look like Mica. Replace any that are."
+    }
+  ],
+  "text":" Check the fuses are all okay. Replace any blown ones. Check all switches are set correctly. The \"X-MULT\" switch should be set to the band being used. The \"SET CARRIER\" or \"RF OUTPUT\" control should be set to indicate full scale on the meter with the \"Microvolts\" control set to max (fully clockwise). Then slowly adjust the \"Microvolts\" control down to the optimal setting. Check if the meter works in the 400/1000 Hz range. This will help you determine if the the audio oscillator and modulation circuits work properly. Check if the meter reads RF in the CW position. This will help you determine if the RF section works properly. Check if the meter reads RF output on all bands. If not, the intermittent contact on the wheel may require cleaning or lubrication, or the spring fingers may require adjustment to ensure they are making good contact. Test if all switches move smoothly, or if they require cleaning.  Check that the power plugs inside the front panel are connected.  Test the tubes on a Dynamic Mutual Trans-conductance tester. There are 9 tubes in the 25D model. Inspect the wiring connections. Some spots may require re-soldering. Check for broken or failed line feed-throughs. These units are located on the underside of the unit. Check that none of the moulded paper capacitors are leaking. They may look like Mica. Replace any that are.",
+  "tyn_model":[
+    "audio oscillator",
+    "meter",
+    "dynamic mutual trans-conductance tester"
+  ],
+  "tyn_section":[
+
+  ]
+}

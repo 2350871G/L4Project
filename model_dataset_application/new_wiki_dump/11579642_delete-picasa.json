@@ -1,0 +1,91 @@
+{
+  "title":"How to Delete Picasa",
+  "url":"https://www.wikihow.com/Delete-Picasa",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography"
+  ],
+  "methods":[
+    {
+      "name":"Windows",
+      "steps":[
+        {
+          "headline":"Type control panel into the Windows Search bar.",
+          "description":"If you don't see the Search bar to the right of the Start menu, press the win to open it now."
+        },
+        {
+          "headline":"Click Control Panel in the search results.",
+          "description":"You should see this option on the right side of the Start menu."
+        },
+        {
+          "headline":"Click Uninstall a program.",
+          "description":"This link is below the Programs icon, which resembles a CD in front of a box in the main Control Panel window. If you don't see Uninstall a program, click Programs and Features instead."
+        },
+        {
+          "headline":"Click Picasa to select it.",
+          "description":""
+        },
+        {
+          "headline":"Click Uninstall.",
+          "description":"This button is directly above the list of programs. Clicking it will usually prompt a pop-up window with the program's uninstall process detailed."
+        },
+        {
+          "headline":"Follow the on-screen instructions to confirm.",
+          "description":"You'll need to click Uninstall from a pop-up to confirm your action, then select Yes to delete the database and permanently delete Picasa. Once you complete these prompts, your program will be uninstalled."
+        }
+      ]
+    },
+    {
+      "name":"macOS",
+      "steps":[
+        {
+          "headline":"Open Finder {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"smallWidth\":460,\"smallHeight\":431,\"bigWidth\":760,\"bigHeight\":712.5,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a macOS icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}.",
+          "description":"You'll find this application icon in your Dock."
+        },
+        {
+          "headline":"Navigate to Picasa.",
+          "description":"You'll usually find this application icon in the Applications section of Finder."
+        },
+        {
+          "headline":"Drag and drop Picasa to the trash.",
+          "description":"In Finder, you can drag the Picasa application logo to the trash to prompt the program to uninstall."
+        },
+        {
+          "headline":"Navigate to your Library.",
+          "description":"Press Shift+Cmd+G and a window will pop up. Type ~/Library. You can also hover over Go in the menu along the top of your screen, press and hold the CMD key, and click Library from the list."
+        },
+        {
+          "headline":"Double-click Application Support.",
+          "description":""
+        },
+        {
+          "headline":"Double-click Google.",
+          "description":""
+        },
+        {
+          "headline":"Double-click Picasa 3.",
+          "description":"If you don't see this here, you might not be in the right directory, or have already removed Picasa from your computer."
+        },
+        {
+          "headline":"Locate \"db3.\"",
+          "description":"This is the database file that you want to delete."
+        },
+        {
+          "headline":"Drag \"db3\" to the trash.",
+          "description":"Dragging an icon to the trash prompts that file or folder to be deleted."
+        }
+      ]
+    }
+  ],
+  "text":" Windows Type control panel into the Windows Search bar. If you don't see the Search bar to the right of the Start menu, press the win to open it now. Click Control Panel in the search results. You should see this option on the right side of the Start menu. Click Uninstall a program. This link is below the Programs icon, which resembles a CD in front of a box in the main Control Panel window. If you don't see Uninstall a program, click Programs and Features instead. Click Picasa to select it.  Click Uninstall. This button is directly above the list of programs. Clicking it will usually prompt a pop-up window with the program's uninstall process detailed. Follow the on-screen instructions to confirm. You'll need to click Uninstall from a pop-up to confirm your action, then select Yes to delete the database and permanently delete Picasa. Once you complete these prompts, your program will be uninstalled. macOS Open Finder {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/1\\/1d\\/Macfinder2.png\",\"smallWidth\":460,\"smallHeight\":431,\"bigWidth\":760,\"bigHeight\":712.5,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a macOS icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"}. You'll find this application icon in your Dock. Navigate to Picasa. You'll usually find this application icon in the Applications section of Finder. Drag and drop Picasa to the trash. In Finder, you can drag the Picasa application logo to the trash to prompt the program to uninstall. Navigate to your Library. Press Shift+Cmd+G and a window will pop up. Type ~/Library. You can also hover over Go in the menu along the top of your screen, press and hold the CMD key, and click Library from the list. Double-click Application Support.  Double-click Google.  Double-click Picasa 3. If you don't see this here, you might not be in the right directory, or have already removed Picasa from your computer. Locate \"db3.\" This is the database file that you want to delete. Drag \"db3\" to the trash. Dragging an icon to the trash prompts that file or folder to be deleted.",
+  "tyn_model":[
+    "picasa",
+    "program",
+    "finder",
+    "control panel",
+    "cd"
+  ],
+  "tyn_section":[
+
+  ]
+}

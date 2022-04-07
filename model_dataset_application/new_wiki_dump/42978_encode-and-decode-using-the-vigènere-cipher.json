@@ -1,0 +1,68 @@
+{
+  "title":"How to Encode and Decode Using the Vig\u00e8nere Cipher",
+  "url":"https://www.wikihow.com/Encode-and-Decode-Using-the-Vig%C3%A8nere-Cipher",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games"
+  ],
+  "methods":[
+    {
+      "name":"Encipher",
+      "steps":[
+        {
+          "headline":"Obtain a Vigen\u00e8re Square (see Sample) or create a Vigen\u00e8re Square on your own.",
+          "description":""
+        },
+        {
+          "headline":"Think of a keyword that is shorter than the phrase or phrases you want to encipher.",
+          "description":"For this example we will use: LIME"
+        },
+        {
+          "headline":"Write down your message without spaces.",
+          "description":"For this example, we will use: WIKIHOWISTHEBEST"
+        },
+        {
+          "headline":"Write the keyword under your message, carefully lining each letter up with a letter from your message.",
+          "description":"Do this until you run out of message: WIKIHOWISTHEBEST\nLIMELIMELIMELIME"
+        },
+        {
+          "headline":"Cut the keyword to fit the phrase if needed.",
+          "description":"In the example used for this article, the word LIME fits perfectly but when the keyword is not a perfect fit, there is no need to use the full word. For example: WIKIHOWISTHEBESTOFTHEBEST\nLIMELIMELIMELIMELIMELIMEL"
+        },
+        {
+          "headline":"Go to the row of the first letter of the keyword in the Vigen\u00e8re Square and go to the column of the first letter of the actual message and find the intersection point of the row and column.",
+          "description":"That's your cipher letter."
+        },
+        {
+          "headline":"Continue on in this fashion until your entire phrase is ciphered.",
+          "description":"Using the sample Vigen\u00e8re square given above, the first ciphertext letter is an H coming from row L and column W. So the ciphertext is: HQWMSWIMDBTIMMEX"
+        }
+      ]
+    },
+    {
+      "name":"Decipher",
+      "steps":[
+        {
+          "headline":"Perform the above steps in reverse to decode ciphered text.",
+          "description":""
+        },
+        {
+          "headline":"Find the row of the first letter of the keyword.",
+          "description":"Look along it to find the first letter of the ciphered text in that row. Follow the column up to find the first letter of the encoded phrase at the top of the chart."
+        },
+        {
+          "headline":"Continue on in this manner until you completely decipher the text.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Encipher Obtain a Vigen\u00e8re Square (see Sample) or create a Vigen\u00e8re Square on your own.  Think of a keyword that is shorter than the phrase or phrases you want to encipher. For this example we will use: LIME Write down your message without spaces. For this example, we will use: WIKIHOWISTHEBEST Write the keyword under your message, carefully lining each letter up with a letter from your message. Do this until you run out of message: WIKIHOWISTHEBEST\nLIMELIMELIMELIME Cut the keyword to fit the phrase if needed. In the example used for this article, the word LIME fits perfectly but when the keyword is not a perfect fit, there is no need to use the full word. For example: WIKIHOWISTHEBESTOFTHEBEST\nLIMELIMELIMELIMELIMELIMEL Go to the row of the first letter of the keyword in the Vigen\u00e8re Square and go to the column of the first letter of the actual message and find the intersection point of the row and column. That's your cipher letter. Continue on in this fashion until your entire phrase is ciphered. Using the sample Vigen\u00e8re square given above, the first ciphertext letter is an H coming from row L and column W. So the ciphertext is: HQWMSWIMDBTIMMEX Decipher Perform the above steps in reverse to decode ciphered text.  Find the row of the first letter of the keyword. Look along it to find the first letter of the ciphered text in that row. Follow the column up to find the first letter of the encoded phrase at the top of the chart. Continue on in this manner until you completely decipher the text. ",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

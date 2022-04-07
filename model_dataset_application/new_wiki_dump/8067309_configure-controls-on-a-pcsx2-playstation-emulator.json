@@ -1,0 +1,186 @@
+{
+  "title":"How to Configure Controls on a PCSX2 PlayStation Emulator",
+  "url":"https://www.wikihow.com/Configure-Controls-on-a-PCSX2-PlayStation-Emulator",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation"
+  ],
+  "methods":[
+    {
+      "name":"Using LilyPad",
+      "steps":[
+        {
+          "headline":"Connect your input device to your computer.",
+          "description":"LilyPad supports keyboard, mouse, Xbox 360, and 3rd party controllers for button inputs."
+        },
+        {
+          "headline":"Download and open PCSX2.",
+          "description":"Go to http://pcsx2.net/download.html and choose the installer for your platform. Upon launching the program you will be greeted with the first time setup."
+        },
+        {
+          "headline":"Select and Language.",
+          "description":"By default your system language is chosen. Press \u201cNext\u201d to proceed to the plugin configuration."
+        },
+        {
+          "headline":"Select \u201cLilyPad\u201d from the \u201cPAD\u201d dropdown.",
+          "description":"PAD is the second menu in the list of plugins."
+        },
+        {
+          "headline":"Click \u201cConfigure\u201d.",
+          "description":"This is located to the right of the PAD menu and will open a list of options for setting up the LilyPad plugin."
+        },
+        {
+          "headline":"Select \u201cPad 1\u201d.",
+          "description":"This tab is located in the upper left part of the window and will take you to the button configuration page for the connected device. On the right, there will be a clickable button to set a binding for each button on a PS2 controller."
+        },
+        {
+          "headline":"Select a button to enter editing mode.",
+          "description":"For example, to change which button will be used to hit the \u201cTriangle\u201d button a PS2 controller, click \u201cTriangle\u201d"
+        },
+        {
+          "headline":"Hit the button/key you wish to bind to that button.",
+          "description":"The input will appear on the list of saved bindings to the left."
+        },
+        {
+          "headline":"Repeat as necessary for all buttons on the controller.",
+          "description":"Any keys that remain unbound will not function."
+        },
+        {
+          "headline":"Adjust \u201cSensitivity\u201d (optional).",
+          "description":"The sensitivity slider is located in the \u201cConfigure Binding\u201d section of the window. Moving the slider to the left will decrease sensitivity, to the right will increase. Sensitivity can be adjusted for all buttons but it traditionally most effective on trigger or analog stick movements, where partial button presses will register. Similarly, you can use the \u201cDead Zone\u201d slider to set a window where partially pressing the button will register no input."
+        },
+        {
+          "headline":"Toggle and adjust \u201cTurbo\u201d (optional).",
+          "description":"Select the \u201cTurbo\u201d checkbox in the \u201cConfigure Binding\u201d section of the window to enable turbo. Turbo automates the rapid pressing of a button when it is held down. This is a good setting for games where buttons must be tapped repeatedly, but will interfere in situations where the button must be held down consistently."
+        },
+        {
+          "headline":"Click \u201cDelete Selected\u201d (optional).",
+          "description":"Select a binding from the list on the left and click this button below to remove that specific binding. You can also click \u201cClear All\u201d to remove every binding. Keep in mind, this will remove ALL bindings that are set for this device, not just reset to the default."
+        },
+        {
+          "headline":"Configure a second input device (optional).",
+          "description":"Select \u201cPad 2\u201d and repeat the previous steps as necessary in order to play multiplayer games."
+        },
+        {
+          "headline":"Change input APIs to troubleshoot issues.",
+          "description":"If you are having trouble, you click the \u201cGeneral\u201d tab on the \u201cConfigure\u201d page and try different APIs for whatever input type you are using. Alternative inputs may function better with certain input devices. API options are separated by input device: Keyboard, Mouse, and Game Device (controller)."
+        },
+        {
+          "headline":"Click \u201cApply\u201d or \u201cOK\u201d.",
+          "description":"Either of these buttons will save your settings. \u201cOK\u201d will also close the window."
+        }
+      ]
+    },
+    {
+      "name":"Using Pokopom",
+      "steps":[
+        {
+          "headline":"Connect your input device to your computer.",
+          "description":"Pokopom supports only controller input and can utilize features like rumble and pressure sensitive input. Pokopom will also support guitar-style controllers like those used with the Guitar Hero games."
+        },
+        {
+          "headline":"Download and open PCSX2.",
+          "description":"Go to http://pcsx2.net/download.html and choose the installer for your platform. Upon launching the program you will be greeted with the first time setup."
+        },
+        {
+          "headline":"Select and Language.",
+          "description":"By default your system language is chosen. Press \u201cNext\u201d to proceed to the plugin configuration."
+        },
+        {
+          "headline":"Select \u201cPokopom\u201d from the \u201cPAD\u201d dropdown.",
+          "description":"PAD is the second menu in the list of plugins."
+        },
+        {
+          "headline":"Click \u201cConfigure\u201d.",
+          "description":"This is located to the right of the PAD menu and will open a list of options for setting up the Pokopom plugin."
+        },
+        {
+          "headline":"Select the \u201cXinput controller\u201d.",
+          "description":"Select a radio from the \u201cXinput Controller\u201d section in the upper left. This value only needs to be changed if you are connecting multiple gamepads to your computer. Xinput allows automatic emulation of a PS2 controller using a and Xbox360 pad. The buttons will be automatically mapped to the corresponding locations on a PS2 controller. Xinput is bundled with Pokopom and does not need to be downloaded separately. For minor remapping, you can select the \u201cSwap [X] [O] buttons in the \u201cMisc\u201d category to switch those two functions."
+        },
+        {
+          "headline":"Adjust the analog stick directions.",
+          "description":"From the \u201cLeft Stick\u201d and \u201cRight Stick\u201d sections in the lower right, you can change the left/right and x/y axes associated with each direction of both analog sticks. Typically axis settings can be adjusted in game, so only make a change here if you want that setting consistent through all games and menu functions."
+        },
+        {
+          "headline":"Adjust the \u201cDeadzone\u201d.",
+          "description":"Move the \u201cDeadzone\u201d slider to the right to increase the amount of space that will ignore input when moving the analog stick. To the left will decrease. You can also use the \u201cAnti-Deadzone\u201d slider to have the emulator software try to override deadzones already implemented into games. Each analog stick utilizes separate Deadzone sliders."
+        },
+        {
+          "headline":"Adjust the rumble settings.",
+          "description":"Move the rumble slider near the top of the window to the left to decrease intensity, and to the right to increase it. You must be using a rumble-supported gamepad in order to utilize this feature. This feature will not force rumble in games that do not support it."
+        },
+        {
+          "headline":"Click \u201cRestore Defaults\u201d (optional).",
+          "description":"This will reset all of your changes back to the original settings. Since bindings cannot be adjusted, these do not need to be changed again."
+        },
+        {
+          "headline":"Configure a second input device (optional).",
+          "description":"Select \u201cController 2\u201d in the upper left and repeat the previous steps as necessary in order to play multiplayer games."
+        },
+        {
+          "headline":"Click \u201cOK\u201d.",
+          "description":"This will save your controller configurations and close the window."
+        }
+      ]
+    }
+  ],
+  "text":" Using LilyPad Connect your input device to your computer. LilyPad supports keyboard, mouse, Xbox 360, and 3rd party controllers for button inputs. Download and open PCSX2. Go to http://pcsx2.net/download.html and choose the installer for your platform. Upon launching the program you will be greeted with the first time setup. Select and Language. By default your system language is chosen. Press \u201cNext\u201d to proceed to the plugin configuration. Select \u201cLilyPad\u201d from the \u201cPAD\u201d dropdown. PAD is the second menu in the list of plugins. Click \u201cConfigure\u201d. This is located to the right of the PAD menu and will open a list of options for setting up the LilyPad plugin. Select \u201cPad 1\u201d. This tab is located in the upper left part of the window and will take you to the button configuration page for the connected device. On the right, there will be a clickable button to set a binding for each button on a PS2 controller. Select a button to enter editing mode. For example, to change which button will be used to hit the \u201cTriangle\u201d button a PS2 controller, click \u201cTriangle\u201d Hit the button/key you wish to bind to that button. The input will appear on the list of saved bindings to the left. Repeat as necessary for all buttons on the controller. Any keys that remain unbound will not function. Adjust \u201cSensitivity\u201d (optional). The sensitivity slider is located in the \u201cConfigure Binding\u201d section of the window. Moving the slider to the left will decrease sensitivity, to the right will increase. Sensitivity can be adjusted for all buttons but it traditionally most effective on trigger or analog stick movements, where partial button presses will register. Similarly, you can use the \u201cDead Zone\u201d slider to set a window where partially pressing the button will register no input. Toggle and adjust \u201cTurbo\u201d (optional). Select the \u201cTurbo\u201d checkbox in the \u201cConfigure Binding\u201d section of the window to enable turbo. Turbo automates the rapid pressing of a button when it is held down. This is a good setting for games where buttons must be tapped repeatedly, but will interfere in situations where the button must be held down consistently. Click \u201cDelete Selected\u201d (optional). Select a binding from the list on the left and click this button below to remove that specific binding. You can also click \u201cClear All\u201d to remove every binding. Keep in mind, this will remove ALL bindings that are set for this device, not just reset to the default. Configure a second input device (optional). Select \u201cPad 2\u201d and repeat the previous steps as necessary in order to play multiplayer games. Change input APIs to troubleshoot issues. If you are having trouble, you click the \u201cGeneral\u201d tab on the \u201cConfigure\u201d page and try different APIs for whatever input type you are using. Alternative inputs may function better with certain input devices. API options are separated by input device: Keyboard, Mouse, and Game Device (controller). Click \u201cApply\u201d or \u201cOK\u201d. Either of these buttons will save your settings. \u201cOK\u201d will also close the window. Using Pokopom Connect your input device to your computer. Pokopom supports only controller input and can utilize features like rumble and pressure sensitive input. Pokopom will also support guitar-style controllers like those used with the Guitar Hero games. Download and open PCSX2. Go to http://pcsx2.net/download.html and choose the installer for your platform. Upon launching the program you will be greeted with the first time setup. Select and Language. By default your system language is chosen. Press \u201cNext\u201d to proceed to the plugin configuration. Select \u201cPokopom\u201d from the \u201cPAD\u201d dropdown. PAD is the second menu in the list of plugins. Click \u201cConfigure\u201d. This is located to the right of the PAD menu and will open a list of options for setting up the Pokopom plugin. Select the \u201cXinput controller\u201d. Select a radio from the \u201cXinput Controller\u201d section in the upper left. This value only needs to be changed if you are connecting multiple gamepads to your computer. Xinput allows automatic emulation of a PS2 controller using a and Xbox360 pad. The buttons will be automatically mapped to the corresponding locations on a PS2 controller. Xinput is bundled with Pokopom and does not need to be downloaded separately. For minor remapping, you can select the \u201cSwap [X] [O] buttons in the \u201cMisc\u201d category to switch those two functions. Adjust the analog stick directions. From the \u201cLeft Stick\u201d and \u201cRight Stick\u201d sections in the lower right, you can change the left/right and x/y axes associated with each direction of both analog sticks. Typically axis settings can be adjusted in game, so only make a change here if you want that setting consistent through all games and menu functions. Adjust the \u201cDeadzone\u201d. Move the \u201cDeadzone\u201d slider to the right to increase the amount of space that will ignore input when moving the analog stick. To the left will decrease. You can also use the \u201cAnti-Deadzone\u201d slider to have the emulator software try to override deadzones already implemented into games. Each analog stick utilizes separate Deadzone sliders. Adjust the rumble settings. Move the rumble slider near the top of the window to the left to decrease intensity, and to the right to increase it. You must be using a rumble-supported gamepad in order to utilize this feature. This feature will not force rumble in games that do not support it. Click \u201cRestore Defaults\u201d (optional). This will reset all of your changes back to the original settings. Since bindings cannot be adjusted, these do not need to be changed again. Configure a second input device (optional). Select \u201cController 2\u201d in the upper left and repeat the previous steps as necessary in order to play multiplayer games. Click \u201cOK\u201d. This will save your controller configurations and close the window.",
+  "tyn_model":[
+    "\u201d.",
+    "\u201cconfigure",
+    "\u201cpad",
+    "\u201d (",
+    "\u201d to",
+    "\u201d section",
+    "\u201d slider",
+    "\u201cok",
+    "pokopom",
+    "\u201cnext",
+    "\u201d from",
+    "\u201d dropdown",
+    "ps2 controller",
+    "\u201ctriangle",
+    "\u201cturbo",
+    "turbo",
+    "\u201d and",
+    "\u201cxinput",
+    "\u201cdeadzone",
+    "\u201clilypad",
+    "\u201d button",
+    "\u201d hit",
+    "\u201csensitivity",
+    "slider",
+    "\u201cdead",
+    "\u201d checkbox",
+    "\u201cdelete",
+    "\u201cclear",
+    "\u201cgeneral",
+    "\u201d tab",
+    "\u201d page",
+    "keyboard",
+    "\u201capply",
+    "\u201d or",
+    "\u201d will",
+    "guitar hero games",
+    "\u201cpokopom",
+    "radio",
+    "\u201cswap",
+    "\u201cmisc",
+    "\u201d category",
+    "\u201cleft",
+    "\u201cright",
+    "\u201d sections",
+    "\u201canti",
+    "\u201crestore",
+    "\u201ccontroller",
+    "\u201d in",
+    "controller"
+  ],
+  "tyn_section":[
+
+  ]
+}

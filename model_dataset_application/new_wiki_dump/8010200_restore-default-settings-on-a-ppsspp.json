@@ -1,0 +1,86 @@
+{
+  "title":"How to Restore Default Settings on a PPSSPP",
+  "url":"https://www.wikihow.com/Restore-Default-Settings-on-a-PPSSPP",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Emulators and Roms"
+  ],
+  "parts":[
+    {
+      "name":"Restoring System Settings",
+      "steps":[
+        {
+          "headline":"Launch PPSSPP.",
+          "description":"The process for restoring PPSSPP's settings is the same regardless of what platform you are using."
+        },
+        {
+          "headline":"Tap or click the \"Settings\" button in the menu on the right.",
+          "description":"This will open the PPSSPP settings menu."
+        },
+        {
+          "headline":"Tap or click \"System\" at the bottom of the menu on the left.",
+          "description":"This will display the settings for the emulator system."
+        },
+        {
+          "headline":"Scroll down to the \"General\" section.",
+          "description":"You'll find it about half way down the menu."
+        },
+        {
+          "headline":"Tap or click \"Restore PPSSPP's settings to default.\"",
+          "description":"You'll be prompted to confirm."
+        },
+        {
+          "headline":"Confirm that you want to restore the settings.",
+          "description":"Your control mappings will not be reset, but everything else will be restored and the process cannot be undone. This will reset your graphics, sound, emulator, system, and networking settings to their default state."
+        },
+        {
+          "headline":"Return to the main menu.",
+          "description":"You'll need to exit PPSSPP and restart it for the settings to reset. Click \"Back\" or use the your device's Back button to return to the PPSSPP main menu."
+        },
+        {
+          "headline":"Tap or click \"Exit\" and then relaunch PPSSPP.",
+          "description":"This will clear your settings and return them to their default state."
+        }
+      ]
+    },
+    {
+      "name":"Restoring Control Mappings",
+      "steps":[
+        {
+          "headline":"Launch PPSSPP.",
+          "description":"No matter which device or computer you're using PPSSPP on, the process of resetting controller settings is the same. Resetting your control mappings will set all of the buttons on your connected gamepad or keyboard back to their original settings, without affecting the rest of your emulator settings. This can be useful if your controller doesn't seem to be working properly, or like how it is configured."
+        },
+        {
+          "headline":"Tap or click \"Settings\" in the upper-right corner.",
+          "description":"This will open the PPSSPP settings menu."
+        },
+        {
+          "headline":"Tap or click the \"Controls\" tab on the left side of the screen.",
+          "description":"This will display the general control settings."
+        },
+        {
+          "headline":"Tap or click \"Control mapping.\"",
+          "description":"This will show all of the current control mappings for PPSSPP."
+        },
+        {
+          "headline":"Select \"Clear all\" to delete all of the current controls.",
+          "description":"All of the mappings will be removed, allowing you to enter the buttons you want to use for each input."
+        },
+        {
+          "headline":"Select \"Restore defaults\" to reset the controls back to the default.",
+          "description":"They will be immediately reset to their default settings."
+        }
+      ]
+    }
+  ],
+  "text":" Restoring System Settings Launch PPSSPP. The process for restoring PPSSPP's settings is the same regardless of what platform you are using. Tap or click the \"Settings\" button in the menu on the right. This will open the PPSSPP settings menu. Tap or click \"System\" at the bottom of the menu on the left. This will display the settings for the emulator system. Scroll down to the \"General\" section. You'll find it about half way down the menu. Tap or click \"Restore PPSSPP's settings to default.\" You'll be prompted to confirm. Confirm that you want to restore the settings. Your control mappings will not be reset, but everything else will be restored and the process cannot be undone. This will reset your graphics, sound, emulator, system, and networking settings to their default state. Return to the main menu. You'll need to exit PPSSPP and restart it for the settings to reset. Click \"Back\" or use the your device's Back button to return to the PPSSPP main menu. Tap or click \"Exit\" and then relaunch PPSSPP. This will clear your settings and return them to their default state. Restoring Control Mappings Launch PPSSPP. No matter which device or computer you're using PPSSPP on, the process of resetting controller settings is the same. Resetting your control mappings will set all of the buttons on your connected gamepad or keyboard back to their original settings, without affecting the rest of your emulator settings. This can be useful if your controller doesn't seem to be working properly, or like how it is configured. Tap or click \"Settings\" in the upper-right corner. This will open the PPSSPP settings menu. Tap or click the \"Controls\" tab on the left side of the screen. This will display the general control settings. Tap or click \"Control mapping.\" This will show all of the current control mappings for PPSSPP. Select \"Clear all\" to delete all of the current controls. All of the mappings will be removed, allowing you to enter the buttons you want to use for each input. Select \"Restore defaults\" to reset the controls back to the default. They will be immediately reset to their default settings.",
+  "tyn_model":[
+    "controller",
+    "controls"
+  ],
+  "tyn_section":[
+
+  ]
+}

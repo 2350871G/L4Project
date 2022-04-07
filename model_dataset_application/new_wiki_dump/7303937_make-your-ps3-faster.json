@@ -1,0 +1,149 @@
+{
+  "title":"How to Make Your PS3 Faster",
+  "url":"https://www.wikihow.com/Make-Your-PS3-Faster",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation 3"
+  ],
+  "methods":[
+    {
+      "name":"Rebuilding the Database",
+      "steps":[
+        {
+          "headline":"Power off your PS3.",
+          "description":""
+        },
+        {
+          "headline":"Press and hold the Power button on the PS3 until it turns on, then turns off.",
+          "description":""
+        },
+        {
+          "headline":"Press and hold the power button, then release after hearing a total of four beeps: two slow beeps, followed by two quick beeps.",
+          "description":"Your PS3 will power on and display the Recovery Menu. Repeat this step if the PS3 powers off again. This means you released the power button too late."
+        },
+        {
+          "headline":"Scroll to and select \u201cRebuild Database.\u201d This option deletes messages, playlists, video playback history, and other personal settings on your PS3.",
+          "description":"Rebuilding the database speeds up the performance of your PS3 without deleting your games, photos, videos, music, trophies, and files."
+        },
+        {
+          "headline":"Select \u201cYes\u201d to confirm you want to continue.",
+          "description":"Your PS3 will rebuild its database, then reboot when finished."
+        }
+      ]
+    },
+    {
+      "name":"Changing IP Settings",
+      "steps":[
+        {
+          "headline":"Switch to using a wired Ethernet connection, if possible.",
+          "description":"A wired connection is often faster, more reliable, and more consistent with Internet speeds than wireless connections."
+        },
+        {
+          "headline":"Power on your computer and connect to the same network as your PS3.",
+          "description":""
+        },
+        {
+          "headline":"Launch the command console on your computer.",
+          "description":"For example, if using a Windows PC, press the Windows + R keys to open the Run dialog box."
+        },
+        {
+          "headline":"Type \u201cipconfig\u201d and press \u201cEnter.\u201d This displays details about your network.",
+          "description":""
+        },
+        {
+          "headline":"Write down all details about your network.",
+          "description":"You\u2019ll be entering these values into your PS3 later on. This includes the IP address, subnet mask, and default gateway."
+        },
+        {
+          "headline":"Power on your PS3 and select \u201cSettings.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cNetwork Settings,\u201d then select \u201cInternet Connection Settings.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Select \u201cCustom,\u201d then choose your Internet connection type.",
+          "description":"If using a wireless connection, enter your network name and password."
+        },
+        {
+          "headline":"Scroll down to \u201cIP address.\u201d",
+          "description":""
+        },
+        {
+          "headline":"Enter your network\u2019s IP address, using different values for the last three digits.",
+          "description":"The last three digits can be any value between zero and 255. For example, if your IP address is 192.789.1.53, try changing your PS3\u2019s IP address to 192.789.1.60. This prevents multiple devices on your network from sharing the same IP."
+        },
+        {
+          "headline":"Enter your network\u2019s subnet mask and default gateway values.",
+          "description":""
+        },
+        {
+          "headline":"Enter your network\u2019s primary and secondary DNS values.",
+          "description":"If your Internet service provider doesn\u2019t have this information, enter the following values:\nPrimary: 8.8.8.8\nSecondary : 8.8.4.4"
+        },
+        {
+          "headline":"Select \u201cTest Connection.\u201d This confirms your PS3 is successfully connected to your network using the new IP.",
+          "description":"This helps your PS3 run faster and more efficiently."
+        }
+      ]
+    },
+    {
+      "name":"Performing System Maintenance",
+      "steps":[
+        {
+          "headline":"Dust and clean your PS3 regularly to maintain its performance and prevent slowness.",
+          "description":"Dust buildup causes your system to lag and run more slowly."
+        },
+        {
+          "headline":"Delete the \u201cPredictive Text Dictionary\u201d data in your PS3.",
+          "description":"This deletes data that was saved when entering Internet search terms. Navigate to Settings > System Settings > Predictive Text Dictionary."
+        },
+        {
+          "headline":"Delete the cookies and cache from your Internet browser.",
+          "description":"This frees up extra memory on your PS3 console. Navigate to Network > Internet Browser, then press the triangle button on your controller. Navigate to Options > Tools > Delete Cookies or Delete Cache. Select \u201cYes\u201d to confirm you want cookies and cache deleted."
+        },
+        {
+          "headline":"Disable the \u201cDisplay What\u2019s New\u201d feature.",
+          "description":"This prevents the Internet from downloading the latest information for this feature when logging in. Navigate to Settings > System Settings > Display What\u2019s New."
+        },
+        {
+          "headline":"Perform a hard reset on your PS3.",
+          "description":"A hard reset formats your system and restores the PS3 to its original factory settings. Manually power off your PS3 using the switch at the back of the console. Press and hold the power button in front, then release when you hear three beeps. Follow the on-screen instructions to set up your PS3 like new."
+        }
+      ]
+    }
+  ],
+  "text":" Rebuilding the Database Power off your PS3.  Press and hold the Power button on the PS3 until it turns on, then turns off.  Press and hold the power button, then release after hearing a total of four beeps: two slow beeps, followed by two quick beeps. Your PS3 will power on and display the Recovery Menu. Repeat this step if the PS3 powers off again. This means you released the power button too late. Scroll to and select \u201cRebuild Database.\u201d This option deletes messages, playlists, video playback history, and other personal settings on your PS3. Rebuilding the database speeds up the performance of your PS3 without deleting your games, photos, videos, music, trophies, and files. Select \u201cYes\u201d to confirm you want to continue. Your PS3 will rebuild its database, then reboot when finished. Changing IP Settings Switch to using a wired Ethernet connection, if possible. A wired connection is often faster, more reliable, and more consistent with Internet speeds than wireless connections. Power on your computer and connect to the same network as your PS3.  Launch the command console on your computer. For example, if using a Windows PC, press the Windows + R keys to open the Run dialog box. Type \u201cipconfig\u201d and press \u201cEnter.\u201d This displays details about your network.  Write down all details about your network. You\u2019ll be entering these values into your PS3 later on. This includes the IP address, subnet mask, and default gateway. Power on your PS3 and select \u201cSettings.\u201d  Select \u201cNetwork Settings,\u201d then select \u201cInternet Connection Settings.\u201d  Select \u201cCustom,\u201d then choose your Internet connection type. If using a wireless connection, enter your network name and password. Scroll down to \u201cIP address.\u201d  Enter your network\u2019s IP address, using different values for the last three digits. The last three digits can be any value between zero and 255. For example, if your IP address is 192.789.1.53, try changing your PS3\u2019s IP address to 192.789.1.60. This prevents multiple devices on your network from sharing the same IP. Enter your network\u2019s subnet mask and default gateway values.  Enter your network\u2019s primary and secondary DNS values. If your Internet service provider doesn\u2019t have this information, enter the following values:\nPrimary: 8.8.8.8\nSecondary : 8.8.4.4 Select \u201cTest Connection.\u201d This confirms your PS3 is successfully connected to your network using the new IP. This helps your PS3 run faster and more efficiently. Performing System Maintenance Dust and clean your PS3 regularly to maintain its performance and prevent slowness. Dust buildup causes your system to lag and run more slowly. Delete the \u201cPredictive Text Dictionary\u201d data in your PS3. This deletes data that was saved when entering Internet search terms. Navigate to Settings > System Settings > Predictive Text Dictionary. Delete the cookies and cache from your Internet browser. This frees up extra memory on your PS3 console. Navigate to Network > Internet Browser, then press the triangle button on your controller. Navigate to Options > Tools > Delete Cookies or Delete Cache. Select \u201cYes\u201d to confirm you want cookies and cache deleted. Disable the \u201cDisplay What\u2019s New\u201d feature. This prevents the Internet from downloading the latest information for this feature when logging in. Navigate to Settings > System Settings > Display What\u2019s New. Perform a hard reset on your PS3. A hard reset formats your system and restores the PS3 to its original factory settings. Manually power off your PS3 using the switch at the back of the console. Press and hold the power button in front, then release when you hear three beeps. Follow the on-screen instructions to set up your PS3 like new.",
+  "tyn_model":[
+    "ps3",
+    "\u201d this",
+    "\u201d  ",
+    "\u201cyes",
+    "\u201d to",
+    "\u201d then",
+    "\u201crebuild",
+    "\u201cipconfig",
+    "\u201d and",
+    "\u201center",
+    "\u201csettings",
+    "\u201cnetwork",
+    "\u201cinternet connection settings",
+    "\u201ccustom",
+    "internet connection type",
+    "\u201cip",
+    "dns",
+    "internet service provider",
+    "\u201ctest",
+    "\u201cpredictive",
+    "\u201d data",
+    "\u201cdisplay",
+    "\u201d feature"
+  ],
+  "tyn_section":[
+
+  ]
+}

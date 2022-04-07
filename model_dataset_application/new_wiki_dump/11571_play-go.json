@@ -1,0 +1,98 @@
+{
+  "title":"How to Play Go",
+  "url":"https://www.wikihow.com/Play-Go",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Board Games",
+    "Strategy Board Games"
+  ],
+  "methods":[
+    {
+      "name":"The Board & Pieces",
+      "steps":[
+        {
+          "headline":"Use a standard 19x19 grid.",
+          "description":"There are 19 horizontal and vertical lines. You can use a board or make a grid yourself. Sometimes smaller boards are used. Often 13x13 or 9x9 boards are used for quicker games or for teaching. There should be nine marked points spread out evenly on the board (4rd, 10th, and 16th lines). They are called \"star points\" and serve as reference points or markers for handicap games.Fun Fact: In 2015, an automated system named AlphaGo learned to play Go, and it beat the human champion!"
+        },
+        {
+          "headline":"Have 361 black and white stones ready.",
+          "description":"This amount is for a 19x19 game. The number correlates to the amount of intersections on the board. If you are playing on a smaller board, use fewer stones. Black plays with 181 stones and white with 180. This is because black makes the first move. Keep the stones next to the board, in bowls."
+        }
+      ]
+    },
+    {
+      "name":"The Rules",
+      "steps":[
+        {
+          "headline":"Alternate moves.",
+          "description":"Traditionally, black starts first. Stones can also be placed on the edge, where there is a T-intersection. Once a stone is placed, it cannot be moved (unless captured and removed)."
+        },
+        {
+          "headline":"Acquire territory.",
+          "description":"This can be done in one of two ways:\nTerritory is empty intersections that are bordered or surrounded by stones of the same color. Each empty intersection that is completely surrounded is worth one point, or moku. The bigger the territory you surround, the more points you gain. Corners can be used as a border as well. You will lose a point if you place a stone inside your own territory."
+        },
+        {
+          "headline":"Employ capturing.",
+          "description":"Connect your stones together to capture your opponent's pieces. Stones of the same color on immediately adjacent points are said to be connected, or joined. The connection can be horizontal or vertical, but not diagonal--the connection is along the lines. Fill all the adjacent points around your players pieces to capture them. Once captured, remove them from the board and keep them in a separate pile. No empty spaces can be within the border."
+        },
+        {
+          "headline":"Finish the game when all territory is claimed.",
+          "description":"Both players pass and the game is over. Count up how many points (or intersections) each color guards. Place all captured stones in the opposing players territory. Thus, their score is reduced due to lost intersections. Therefore, a captured stone is worth two points. One point negated from your opponent's score and one point for the new empty space surrounded upon removal. Capturing is what makes this game a battle of wits. While gaining territory is the main goal, one must think defensively at all times."
+        },
+        {
+          "headline":"Know your terms.",
+          "description":"As this is an ancient Chinese game adopted by the Japanese, there are many words to know. Liberty - an adjacent intersection\nAtari - a state in which a piece can be captured in the next move\nFor example, \"Your white stone over there is in Atari! Haha!\" Eye - a single empty space inside a group\nIf a single group has two eyes, capturing is not possible, as not all the empty space can be filled by the opponent. Suicide - placing a stone where it can be captured\nKo - a situation in which a stone about to make a capture can be immediately recaptured, which would repeat the situation endlessly. Capturing cannot immediately take place after a ko. Sente - playing first, taking the advantage in a given position. Gote - playing second, responding to your opponent's move, giving up an advantage in a position."
+        }
+      ]
+    },
+    {
+      "name":"Playing a Game",
+      "steps":[
+        {
+          "headline":"Find an opponent.",
+          "description":"Someone who is well-versed in the game will be a better teacher and example. You can look for a game either face-to-face or on an online go-server. For face-to-face games, look for a local chapter of the AGA, BGA, or your national Go organization. You will likely find a list of Go clubs on their websites. For online games, some Go servers are listed below. IGS\nKGS\nOGS\nDGS\nYahoo\nMSN Zone\nGo shrine\n361points\nBreak Base"
+        },
+        {
+          "headline":"Start the game by choosing a color.",
+          "description":"In a handicap game, the stronger player takes white, and black places 2-9 handicap stones on the star points before white answers. For an even game, the colors are determined randomly. Since black has an advantage by playing first, white is compensated by taking komi, an amount of additional points added to white's score at the end of the game. The amount of komi varies, but most tournaments use values between 5 and 8 points. Sometimes a fractional value like 6.5 is used to avoid ties. Western go players most typically play by Japanese rules, where komi is set at 6.5."
+        },
+        {
+          "headline":"Place the first stone.",
+          "description":"This should be done by the player with black stones. It traditionally goes in the upper right hand quadrant. This initial move stakes out which side each player lays claim to. Handicap stones are considered the first move in a handicap game."
+        },
+        {
+          "headline":"Take turns alternating playing stones.",
+          "description":"Remember, the pieces are placed on the intersections of the grid, not the empty spaces on the board. Either player may pass if they see no benefit to making a move. Passing signals a desire to end the game and count the score. If both players pass, the game is over."
+        },
+        {
+          "headline":"Decide on your strategy.",
+          "description":"There are generally two options: claiming the most territory or invading your opponent's territory by capturing their pieces (turning them into \"prisoners\"). If a player places a stone that removes the last liberty from a connected group of the opponent's stones, then that group is dead and is removed from the board (captured). The exception to the above rule is that you cannot capture a single stone that just captured one of your stones without playing elsewhere first. This is called the rule of ko (\"ko\" means \"eternity\" in Japanese); it is needed to prevent games from never ending."
+        },
+        {
+          "headline":"End the game when both players pass.",
+          "description":"Black and white must both decide there is no advantage to laying another stone. The player who has captured the most stones and territory wins. Captured pieces should be placed on the board in the opponent's territory, decreasing their score."
+        },
+        {
+          "headline":"Score the game.",
+          "description":"You can use either area counting or territory counting. The two methods agree provided both players have made the same number of non-passing moves. For territory counting, most common in Japan and for most western go players, each color fills in their opponent's territory with any prisoners of that color captured earlier in the game. Their score is then only the empty intersections in their territory. White then adds their komi. For area counting, each color scores a point for each living stone of that color and each empty intersection within their territory. White then adds their komi. Both methods of scoring usually end up with the same result, but they may sometimes vary by a point."
+        }
+      ]
+    }
+  ],
+  "text":" The Board & Pieces Use a standard 19x19 grid. There are 19 horizontal and vertical lines. You can use a board or make a grid yourself. Sometimes smaller boards are used. Often 13x13 or 9x9 boards are used for quicker games or for teaching. There should be nine marked points spread out evenly on the board (4rd, 10th, and 16th lines). They are called \"star points\" and serve as reference points or markers for handicap games.Fun Fact: In 2015, an automated system named AlphaGo learned to play Go, and it beat the human champion! Have 361 black and white stones ready. This amount is for a 19x19 game. The number correlates to the amount of intersections on the board. If you are playing on a smaller board, use fewer stones. Black plays with 181 stones and white with 180. This is because black makes the first move. Keep the stones next to the board, in bowls. The Rules Alternate moves. Traditionally, black starts first. Stones can also be placed on the edge, where there is a T-intersection. Once a stone is placed, it cannot be moved (unless captured and removed). Acquire territory. This can be done in one of two ways:\nTerritory is empty intersections that are bordered or surrounded by stones of the same color. Each empty intersection that is completely surrounded is worth one point, or moku. The bigger the territory you surround, the more points you gain. Corners can be used as a border as well. You will lose a point if you place a stone inside your own territory. Employ capturing. Connect your stones together to capture your opponent's pieces. Stones of the same color on immediately adjacent points are said to be connected, or joined. The connection can be horizontal or vertical, but not diagonal--the connection is along the lines. Fill all the adjacent points around your players pieces to capture them. Once captured, remove them from the board and keep them in a separate pile. No empty spaces can be within the border. Finish the game when all territory is claimed. Both players pass and the game is over. Count up how many points (or intersections) each color guards. Place all captured stones in the opposing players territory. Thus, their score is reduced due to lost intersections. Therefore, a captured stone is worth two points. One point negated from your opponent's score and one point for the new empty space surrounded upon removal. Capturing is what makes this game a battle of wits. While gaining territory is the main goal, one must think defensively at all times. Know your terms. As this is an ancient Chinese game adopted by the Japanese, there are many words to know. Liberty - an adjacent intersection\nAtari - a state in which a piece can be captured in the next move\nFor example, \"Your white stone over there is in Atari! Haha!\" Eye - a single empty space inside a group\nIf a single group has two eyes, capturing is not possible, as not all the empty space can be filled by the opponent. Suicide - placing a stone where it can be captured\nKo - a situation in which a stone about to make a capture can be immediately recaptured, which would repeat the situation endlessly. Capturing cannot immediately take place after a ko. Sente - playing first, taking the advantage in a given position. Gote - playing second, responding to your opponent's move, giving up an advantage in a position. Playing a Game Find an opponent. Someone who is well-versed in the game will be a better teacher and example. You can look for a game either face-to-face or on an online go-server. For face-to-face games, look for a local chapter of the AGA, BGA, or your national Go organization. You will likely find a list of Go clubs on their websites. For online games, some Go servers are listed below. IGS\nKGS\nOGS\nDGS\nYahoo\nMSN Zone\nGo shrine\n361points\nBreak Base Start the game by choosing a color. In a handicap game, the stronger player takes white, and black places 2-9 handicap stones on the star points before white answers. For an even game, the colors are determined randomly. Since black has an advantage by playing first, white is compensated by taking komi, an amount of additional points added to white's score at the end of the game. The amount of komi varies, but most tournaments use values between 5 and 8 points. Sometimes a fractional value like 6.5 is used to avoid ties. Western go players most typically play by Japanese rules, where komi is set at 6.5. Place the first stone. This should be done by the player with black stones. It traditionally goes in the upper right hand quadrant. This initial move stakes out which side each player lays claim to. Handicap stones are considered the first move in a handicap game. Take turns alternating playing stones. Remember, the pieces are placed on the intersections of the grid, not the empty spaces on the board. Either player may pass if they see no benefit to making a move. Passing signals a desire to end the game and count the score. If both players pass, the game is over. Decide on your strategy. There are generally two options: claiming the most territory or invading your opponent's territory by capturing their pieces (turning them into \"prisoners\"). If a player places a stone that removes the last liberty from a connected group of the opponent's stones, then that group is dead and is removed from the board (captured). The exception to the above rule is that you cannot capture a single stone that just captured one of your stones without playing elsewhere first. This is called the rule of ko (\"ko\" means \"eternity\" in Japanese); it is needed to prevent games from never ending. End the game when both players pass. Black and white must both decide there is no advantage to laying another stone. The player who has captured the most stones and territory wins. Captured pieces should be placed on the board in the opponent's territory, decreasing their score. Score the game. You can use either area counting or territory counting. The two methods agree provided both players have made the same number of non-passing moves. For territory counting, most common in Japan and for most western go players, each color fills in their opponent's territory with any prisoners of that color captured earlier in the game. Their score is then only the empty intersections in their territory. White then adds their komi. For area counting, each color scores a point for each living stone of that color and each empty intersection within their territory. White then adds their komi. Both methods of scoring usually end up with the same result, but they may sometimes vary by a point.",
+  "tyn_model":[
+    "stones",
+    "stone",
+    "board",
+    "boards",
+    "bowls",
+    "atari",
+    "go organization",
+    "go clubs",
+    "komi"
+  ],
+  "tyn_section":[
+
+  ]
+}

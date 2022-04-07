@@ -1,0 +1,119 @@
+{
+  "title":"How to Make a DotA Map",
+  "url":"https://www.wikihow.com/Make-a-DotA-Map",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Action"
+  ],
+  "methods":[
+    {
+      "name":"Creating a DotA Map",
+      "steps":[
+        {
+          "headline":"Open the Warcraft III world editor program.",
+          "description":"Map-making programs for Warcraft games are called world editors."
+        },
+        {
+          "headline":"Select New Map from the File menu.",
+          "description":"This displays the Create New Map dialog. You can also open this dialog by pressing the Control and N keys simultaneously in Windows, or the Open Apple and N keys simultaneously on the Macintosh."
+        },
+        {
+          "headline":"Select the width and height for the map.",
+          "description":"You can have a maximum width of 128 and a maximum height of 256. (Although 256 is listed as one of the dropdown width options, if you select it, your map's width will automatically be changed to 128.)"
+        },
+        {
+          "headline":"Select a map location from the Tileset dropdown list.",
+          "description":"This determines where your adventure will take place. Possible locations include a Cityscape, Village, the Barrens, or Underground."
+        },
+        {
+          "headline":"Use the Initial Cliff Level spin list to determine how mountainous the map will be.",
+          "description":"The default value is two. Increase the value to make the land more mountainous; decrease it to make the land flatter."
+        },
+        {
+          "headline":"Use the Initial Water Level to determine how much water will be on the playing field.",
+          "description":"There are three tile selections: you can have as little as no water at all to enough to seriously hamper both sides' marches. After making all your selections, click OK to close the Create New Map dialog."
+        },
+        {
+          "headline":"Select Properties from the Scenario menu to enter player information.",
+          "description":"Defense of the Ancients is a game for two teams of players, the Sentinel and the Scourge team, but you must specify the particulars for each player on the Players page of the Scenario Properties dialog. The Players page accommodates up to 12 players. (In Defense of the Ancients, each team can have up to five players, with two positions available for referees or observers.) For each player in the game, set the Controller dropdown to \"User\" for a human player or \"Computer\" for the computer to serve as a player. Leave the Controller dropdown set to \"None\" for each slot not to be occupied by a player or the computer. Enter the players' names in the Player Name field. Choose the race each player represents from the Race dropdown. You can also select a color to represent each player's forces on the map. After you have set up all the player information, click OK to close the Players page."
+        },
+        {
+          "headline":"Decide where each player will start on the map.",
+          "description":"This is done by selecting options from the lower left window. Each player has a folder in the lower left window (Player 1, Player 2, etc.) under the Units folder. Choose the Melee subfolder, the respective player's subfolder, then select the Buildings subfolder to choose a type of structure, which will serve as the Ancient to be defended. Drag this structure to the position you want it to be on the map. Normally, the Sentinel team starts somewhere in the southwest and the Scourge team starts somewhere in the northeast. You then select Starting Point to make this the starting point for the player's forces and drag the starting point on the map to be within the vicinity of the Ancient structure."
+        },
+        {
+          "headline":"Add features using the Tool Palette options.",
+          "description":"The Tool Palette offers several palette options to add detail to your DotA map. Use the Unit Palette to determine what kind of forces each member of the teams will command to defend their Ancient. Use the Terrain Palette to apply mountains and textures to the map. Use the Doodad Palette to apply individual features ranging from natural tree walls to man-made structures such as grates and bridges to the map."
+        },
+        {
+          "headline":"Save the map.",
+          "description":"Give the map a meaningful name, such as \"Snowy Cliffs\" for a map representing mountainous terrain in wintertime. The more details you've put on the map, the more memory it will occupy, and therefore, the longer it will take to save."
+        },
+        {
+          "headline":"Save the map description.",
+          "description":"Select Map Description from the Scenario menu to display the Description page of the Map Properties dialog. Enter the map name in the Name field. Use the same name that you saved the map under. Enter the number of players the map is intended for in the Suggested Players: field. Enter the actual description of the map in the Description field. Enter the name of the person who created the map in the Author field. Click OK to close the Map Properties dialog. You will be prompted to save the changes (your created information) to the map. Click Save."
+        }
+      ]
+    },
+    {
+      "name":"Installing and Running Your DotA Map From Warcraft III",
+      "steps":[
+        {
+          "headline":"Open the Warcraft III folder.",
+          "description":"In Windows, you can do this from My Computer or Windows Explorer. In MacOS, you can do this using Finder."
+        },
+        {
+          "headline":"Open the Maps subfolder.",
+          "description":"You'll see a list of existing map files and subfolders."
+        },
+        {
+          "headline":"Create a new subfolder under \"Maps\" named \"Downloads.\"",
+          "description":"If you already have a subfolder with this name, you won't need to create another."
+        },
+        {
+          "headline":"Put your DotA map in the Downloads subfolder.",
+          "description":"You can either put the map you created here or a map you downloaded from another source."
+        },
+        {
+          "headline":"Close all folders.",
+          "description":""
+        },
+        {
+          "headline":"Run Warcraft III.",
+          "description":""
+        },
+        {
+          "headline":"Select your version of Defense of the Ancients from the Game Settings menu.",
+          "description":"Look for the abbreviation \"DotA,\" which may be followed by a subtype such as \"Darkness Falls\" or \"All stars,\" followed by a version number."
+        },
+        {
+          "headline":"Select the Downloads folder.",
+          "description":""
+        },
+        {
+          "headline":"Select your DotA map.",
+          "description":"If you can't run your DotA map from Warcraft III, your version of the game may need to have its patch code updated. Don't try to run your map by double-clicking it; you won't be able to."
+        }
+      ]
+    }
+  ],
+  "text":" Creating a DotA Map Open the Warcraft III world editor program. Map-making programs for Warcraft games are called world editors. Select New Map from the File menu. This displays the Create New Map dialog. You can also open this dialog by pressing the Control and N keys simultaneously in Windows, or the Open Apple and N keys simultaneously on the Macintosh. Select the width and height for the map. You can have a maximum width of 128 and a maximum height of 256. (Although 256 is listed as one of the dropdown width options, if you select it, your map's width will automatically be changed to 128.) Select a map location from the Tileset dropdown list. This determines where your adventure will take place. Possible locations include a Cityscape, Village, the Barrens, or Underground. Use the Initial Cliff Level spin list to determine how mountainous the map will be. The default value is two. Increase the value to make the land more mountainous; decrease it to make the land flatter. Use the Initial Water Level to determine how much water will be on the playing field. There are three tile selections: you can have as little as no water at all to enough to seriously hamper both sides' marches. After making all your selections, click OK to close the Create New Map dialog. Select Properties from the Scenario menu to enter player information. Defense of the Ancients is a game for two teams of players, the Sentinel and the Scourge team, but you must specify the particulars for each player on the Players page of the Scenario Properties dialog. The Players page accommodates up to 12 players. (In Defense of the Ancients, each team can have up to five players, with two positions available for referees or observers.) For each player in the game, set the Controller dropdown to \"User\" for a human player or \"Computer\" for the computer to serve as a player. Leave the Controller dropdown set to \"None\" for each slot not to be occupied by a player or the computer. Enter the players' names in the Player Name field. Choose the race each player represents from the Race dropdown. You can also select a color to represent each player's forces on the map. After you have set up all the player information, click OK to close the Players page. Decide where each player will start on the map. This is done by selecting options from the lower left window. Each player has a folder in the lower left window (Player 1, Player 2, etc.) under the Units folder. Choose the Melee subfolder, the respective player's subfolder, then select the Buildings subfolder to choose a type of structure, which will serve as the Ancient to be defended. Drag this structure to the position you want it to be on the map. Normally, the Sentinel team starts somewhere in the southwest and the Scourge team starts somewhere in the northeast. You then select Starting Point to make this the starting point for the player's forces and drag the starting point on the map to be within the vicinity of the Ancient structure. Add features using the Tool Palette options. The Tool Palette offers several palette options to add detail to your DotA map. Use the Unit Palette to determine what kind of forces each member of the teams will command to defend their Ancient. Use the Terrain Palette to apply mountains and textures to the map. Use the Doodad Palette to apply individual features ranging from natural tree walls to man-made structures such as grates and bridges to the map. Save the map. Give the map a meaningful name, such as \"Snowy Cliffs\" for a map representing mountainous terrain in wintertime. The more details you've put on the map, the more memory it will occupy, and therefore, the longer it will take to save. Save the map description. Select Map Description from the Scenario menu to display the Description page of the Map Properties dialog. Enter the map name in the Name field. Use the same name that you saved the map under. Enter the number of players the map is intended for in the Suggested Players: field. Enter the actual description of the map in the Description field. Enter the name of the person who created the map in the Author field. Click OK to close the Map Properties dialog. You will be prompted to save the changes (your created information) to the map. Click Save. Installing and Running Your DotA Map From Warcraft III Open the Warcraft III folder. In Windows, you can do this from My Computer or Windows Explorer. In MacOS, you can do this using Finder. Open the Maps subfolder. You'll see a list of existing map files and subfolders. Create a new subfolder under \"Maps\" named \"Downloads.\" If you already have a subfolder with this name, you won't need to create another. Put your DotA map in the Downloads subfolder. You can either put the map you created here or a map you downloaded from another source. Close all folders.  Run Warcraft III.  Select your version of Defense of the Ancients from the Game Settings menu. Look for the abbreviation \"DotA,\" which may be followed by a subtype such as \"Darkness Falls\" or \"All stars,\" followed by a version number. Select the Downloads folder.  Select your DotA map. If you can't run your DotA map from Warcraft III, your version of the game may need to have its patch code updated. Don't try to run your map by double-clicking it; you won't be able to.",
+  "tyn_model":[
+    "water",
+    "warcraft iii",
+    "ancients",
+    "computer",
+    "warcraft iii world editor",
+    "controller",
+    "scourge",
+    "textures",
+    "finder",
+    "maps"
+  ],
+  "tyn_section":[
+
+  ]
+}

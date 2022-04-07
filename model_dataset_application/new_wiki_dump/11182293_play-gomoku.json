@@ -1,0 +1,101 @@
+{
+  "title":"How to Play Gomoku",
+  "url":"https://www.wikihow.com/Play-Gomoku",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Board Games"
+  ],
+  "methods":[
+    {
+      "name":"Setting up and Starting the Game",
+      "steps":[
+        {
+          "headline":"Divide the black and white pieces evenly between both players.",
+          "description":"Gomoku is played with round black and white pieces known as stones. One player should get all the black pieces while the other player gets all the white pieces. Gomoku pieces are the same as Go pieces. Although the games themselves are different, you can play Gomoku using a Go set if you\u2019d like."
+        },
+        {
+          "headline":"Start the game by playing a black stone.",
+          "description":"By convention, the player using the black stones opens the game by placing one of their pieces on the board. Stones are placed on the intersections created by the board\u2019s grid of lines (rather than inside the squares). In standard Gomoku, you can place your stone on any intersection you choose during your turn. Once you place a piece on the intersection, it cannot be moved for the rest of the game. With this standard game beginning, it has been mathematically proven that black can always win if they play optimally. However, in real life gameplay, different skill levels between players often lead to different outcomes."
+        },
+        {
+          "headline":"Alternate turns between players.",
+          "description":"During the game, the two players alternate turns, with each player placing one of their stones on the board during their turn. After the first player plays a black stone, the second player will play a white stone. During Gomoku tournaments, turn length is usually measured using chess clocks. The time limit for most tournaments is 10 minutes total per player for each game."
+        },
+        {
+          "headline":"Aim for 5 pieces in a row to win the game.",
+          "description":"To win, you must be the first player to create an unbroken line of 5 of your stones. The line can go in any direction: horizontally, vertically, or diagonally. While rules sometimes vary, the standard variation of Gomoku specifies that winning lines must be exactly 5 stones and no more. Rows of 6 or more pieces are called \u201coverlines\u201d and do not count."
+        }
+      ]
+    },
+    {
+      "name":"Playing Strategically",
+      "steps":[
+        {
+          "headline":"Use your opponent\u2019s turn to think.",
+          "description":"During a live game, particularly if it\u2019s a tournament, you may be crunched for time since each player only has 10 minutes for their turns during the game. Try to use your opponent\u2019s turn to think about what you will do on your next move. By utilizing your opponent\u2019s time as well as your own, you can gain an advantage, especially as you near the end of the round and you both run low on time. If your opponent has 4 in a row, don\u2019t waste your time thinking about what you\u2019ll do next. Save your thinking time for when you really need it and simply block your opponent since that\u2019s what you need to do to continue the game."
+        },
+        {
+          "headline":"Focus on the first 10 moves.",
+          "description":"The beginning of the game mostly defines how it will end, since you have less and less options as the game goes on. If you put yourself in a bad position during the first 10 moves, it will be very difficult to get out of it during the rest of the game. If you\u2019re playing in a tournament or other timed game, it\u2019s okay to use more time during these first few moves. You can move faster at the end of the game when you have less options."
+        },
+        {
+          "headline":"Learn your opponent\u2019s style and strengths.",
+          "description":"If you\u2019re playing a live game, see what you can learn about your opponent\u2019s Gomoku strategies. Try to determine whether they tend to be more aggressive or more defensive. If you\u2019ve played them before, see if you can remember whether they repeatedly used certain sequences that you could foil. You can also ask other players to learn more information. If you\u2019re playing a more professional opponent, try looking up their game history on http://gomokuworld.com."
+        },
+        {
+          "headline":"Block your opponent from achieving an open 4.",
+          "description":"A line of 4 stones with open spaces at both ends of the line is known as an \u201copen 4.\u201d When someone achieves an open 4, they will win the game on their next turn since their opponent can only block one end during their turn, leaving the other open for victory. To prevent your opponent from achieving an open 4, you should immediately block any 3-stone lines with both ends open (known as an \u201copen 3\u201d). This will help you avoid landing in a bad situation. If your opponent has a 3-stone line with one end already blocked (a \u201cclosed 3\u201d), you can choose to leave it for one turn without losing the game, since you will have another chance to block the win if they do lay a 4th stone."
+        },
+        {
+          "headline":"Create 2 attacking lines at the same time for an aggressive strategy.",
+          "description":"When you create a situation where you have 2 potentially victorious lines of stones at once, it is known as a \u201cfork.\u201d A fork is harder to defend against since your opponent must pay attention to and block multiple threats with each move. As you play, continue to look out for opportunities to create overlapping lines that are open (not blocked by your opponent) at all ends. For example, you could aim to play 2 \u201copen 3s\u201d (lines of 3 stones with both ends open) at the same time by creating a plus- or X-shaped formation on the board. When your opponent tries to block one of the open 3-stone lines, you will be able to create an open 4."
+        },
+        {
+          "headline":"Study the games of better players.",
+          "description":"Search online for play-by-plays or watch YouTube videos of more experienced players navigating the game. But don\u2019t just observe: pause after each move they make and consider why they made that decision. Try to figure out whether they have an overall strategy or plan. As you improve, you can stop before each move and ask yourself what you would do in that situation. Some players use the same opening sequences or patterns of moves in multiple games, similar to professional chess masters. See if you can identify some successful gambits and try implementing them in your own games."
+        }
+      ]
+    },
+    {
+      "name":"Learning Different Opening Variations",
+      "steps":[
+        {
+          "headline":"Try the Pro rules to create more even gameplay.",
+          "description":"In the Pro variation, the staring player (black) must place their first stone on the middle intersection of the board. The second player (white) can put their piece anywhere they\u2019d like. Then, black must place their second stone at least 3 intersections away from their first piece (i.e. outside a 5x5 square from the center of the board). The rest of the game proceeds as normal, with both players free to place their stones on any open intersection. These restrictions help to create a more balanced game, since it places black\u2019s first 2 stones further apart, making it harder for them to win. The Long Pro variation is exactly the same as the Pro variation except that black\u2019s second move must be at least 4 intersections from their first piece (i.e. outside a 7x7 square from the center of the board)."
+        },
+        {
+          "headline":"Open with the Swap variation to further even the playing field.",
+          "description":"To begin a Gomoku game with a Swap variation, the first player puts 1 white and 2 black stones anywhere on the board. The second player can then assign who will play white and who will play black for the remainder of the game. Whoever is assigned to play white will then take their turn and place a second white piece on the board. The rest of the game proceeds as normal, with both players taking turns placing their stones on any open intersection. Since the opening player cannot guarantee which stones they will be playing, they should be careful to place both colors in equally advantageous positions. Although a bit more complicated, the Swap opening rules create a much more equal playing field than standard Gomoku, Pro, or Long Pro variations."
+        },
+        {
+          "headline":"Learn the Swap2 opening for more professional play.",
+          "description":"To open with a Swap2 variation, the first player will place 1 white and 2 black stones anywhere on the board (exactly the same as the regular Swap opening). The second player can then choose to play either color or place an additional 1 black and 1 white stone on the board. If the second player decides to place these additional stones, the first player gets to choose who plays which color. The game then proceeds as normal, with white placing their next stone and then both players alternating turns until someone achieves 5 in a row. Since 2008, the Swap2 rule has been used in the Gomoku World Championships. It is considered to be the most balanced opening rule developed so far."
+        }
+      ]
+    }
+  ],
+  "text":" Setting up and Starting the Game Divide the black and white pieces evenly between both players. Gomoku is played with round black and white pieces known as stones. One player should get all the black pieces while the other player gets all the white pieces. Gomoku pieces are the same as Go pieces. Although the games themselves are different, you can play Gomoku using a Go set if you\u2019d like. Start the game by playing a black stone. By convention, the player using the black stones opens the game by placing one of their pieces on the board. Stones are placed on the intersections created by the board\u2019s grid of lines (rather than inside the squares). In standard Gomoku, you can place your stone on any intersection you choose during your turn. Once you place a piece on the intersection, it cannot be moved for the rest of the game. With this standard game beginning, it has been mathematically proven that black can always win if they play optimally. However, in real life gameplay, different skill levels between players often lead to different outcomes. Alternate turns between players. During the game, the two players alternate turns, with each player placing one of their stones on the board during their turn. After the first player plays a black stone, the second player will play a white stone. During Gomoku tournaments, turn length is usually measured using chess clocks. The time limit for most tournaments is 10 minutes total per player for each game. Aim for 5 pieces in a row to win the game. To win, you must be the first player to create an unbroken line of 5 of your stones. The line can go in any direction: horizontally, vertically, or diagonally. While rules sometimes vary, the standard variation of Gomoku specifies that winning lines must be exactly 5 stones and no more. Rows of 6 or more pieces are called \u201coverlines\u201d and do not count. Playing Strategically Use your opponent\u2019s turn to think. During a live game, particularly if it\u2019s a tournament, you may be crunched for time since each player only has 10 minutes for their turns during the game. Try to use your opponent\u2019s turn to think about what you will do on your next move. By utilizing your opponent\u2019s time as well as your own, you can gain an advantage, especially as you near the end of the round and you both run low on time. If your opponent has 4 in a row, don\u2019t waste your time thinking about what you\u2019ll do next. Save your thinking time for when you really need it and simply block your opponent since that\u2019s what you need to do to continue the game. Focus on the first 10 moves. The beginning of the game mostly defines how it will end, since you have less and less options as the game goes on. If you put yourself in a bad position during the first 10 moves, it will be very difficult to get out of it during the rest of the game. If you\u2019re playing in a tournament or other timed game, it\u2019s okay to use more time during these first few moves. You can move faster at the end of the game when you have less options. Learn your opponent\u2019s style and strengths. If you\u2019re playing a live game, see what you can learn about your opponent\u2019s Gomoku strategies. Try to determine whether they tend to be more aggressive or more defensive. If you\u2019ve played them before, see if you can remember whether they repeatedly used certain sequences that you could foil. You can also ask other players to learn more information. If you\u2019re playing a more professional opponent, try looking up their game history on http://gomokuworld.com. Block your opponent from achieving an open 4. A line of 4 stones with open spaces at both ends of the line is known as an \u201copen 4.\u201d When someone achieves an open 4, they will win the game on their next turn since their opponent can only block one end during their turn, leaving the other open for victory. To prevent your opponent from achieving an open 4, you should immediately block any 3-stone lines with both ends open (known as an \u201copen 3\u201d). This will help you avoid landing in a bad situation. If your opponent has a 3-stone line with one end already blocked (a \u201cclosed 3\u201d), you can choose to leave it for one turn without losing the game, since you will have another chance to block the win if they do lay a 4th stone. Create 2 attacking lines at the same time for an aggressive strategy. When you create a situation where you have 2 potentially victorious lines of stones at once, it is known as a \u201cfork.\u201d A fork is harder to defend against since your opponent must pay attention to and block multiple threats with each move. As you play, continue to look out for opportunities to create overlapping lines that are open (not blocked by your opponent) at all ends. For example, you could aim to play 2 \u201copen 3s\u201d (lines of 3 stones with both ends open) at the same time by creating a plus- or X-shaped formation on the board. When your opponent tries to block one of the open 3-stone lines, you will be able to create an open 4. Study the games of better players. Search online for play-by-plays or watch YouTube videos of more experienced players navigating the game. But don\u2019t just observe: pause after each move they make and consider why they made that decision. Try to figure out whether they have an overall strategy or plan. As you improve, you can stop before each move and ask yourself what you would do in that situation. Some players use the same opening sequences or patterns of moves in multiple games, similar to professional chess masters. See if you can identify some successful gambits and try implementing them in your own games. Learning Different Opening Variations Try the Pro rules to create more even gameplay. In the Pro variation, the staring player (black) must place their first stone on the middle intersection of the board. The second player (white) can put their piece anywhere they\u2019d like. Then, black must place their second stone at least 3 intersections away from their first piece (i.e. outside a 5x5 square from the center of the board). The rest of the game proceeds as normal, with both players free to place their stones on any open intersection. These restrictions help to create a more balanced game, since it places black\u2019s first 2 stones further apart, making it harder for them to win. The Long Pro variation is exactly the same as the Pro variation except that black\u2019s second move must be at least 4 intersections from their first piece (i.e. outside a 7x7 square from the center of the board). Open with the Swap variation to further even the playing field. To begin a Gomoku game with a Swap variation, the first player puts 1 white and 2 black stones anywhere on the board. The second player can then assign who will play white and who will play black for the remainder of the game. Whoever is assigned to play white will then take their turn and place a second white piece on the board. The rest of the game proceeds as normal, with both players taking turns placing their stones on any open intersection. Since the opening player cannot guarantee which stones they will be playing, they should be careful to place both colors in equally advantageous positions. Although a bit more complicated, the Swap opening rules create a much more equal playing field than standard Gomoku, Pro, or Long Pro variations. Learn the Swap2 opening for more professional play. To open with a Swap2 variation, the first player will place 1 white and 2 black stones anywhere on the board (exactly the same as the regular Swap opening). The second player can then choose to play either color or place an additional 1 black and 1 white stone on the board. If the second player decides to place these additional stones, the first player gets to choose who plays which color. The game then proceeds as normal, with white placing their next stone and then both players alternating turns until someone achieves 5 in a row. Since 2008, the Swap2 rule has been used in the Gomoku World Championships. It is considered to be the most balanced opening rule developed so far.",
+  "tyn_model":[
+    "stones",
+    "gomoku",
+    "\u201copen",
+    "stone",
+    "\u201d)",
+    "gomoku tournaments",
+    "chess clocks",
+    "\u201coverlines",
+    "\u201d and",
+    "\u201d when",
+    "\u201cclosed",
+    "\u201cfork",
+    "\u201d a",
+    "fork",
+    "\u201d (",
+    "gomoku game",
+    "gomoku world"
+  ],
+  "tyn_section":[
+
+  ]
+}

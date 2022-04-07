@@ -1,0 +1,134 @@
+{
+  "title":"How to Win at the Dot Game",
+  "url":"https://www.wikihow.com/Win-at-the-Dot-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games"
+  ],
+  "methods":[
+    {
+      "name":"Definitions",
+      "steps":[
+        {
+          "headline":"Chain: A chain is any string of 3 or more boxes that begins in one place and ends in another.",
+          "description":"A chain counts as \"1\"."
+        },
+        {
+          "headline":"Non-chain: A non-chain is any single or double box.",
+          "description":"A non-chain counts as \"0\"."
+        },
+        {
+          "headline":"Loop: A loop is any string of 4 or more boxes that begins and ends in the same place.",
+          "description":"A loop counts as \"2\". Y-Chain: See below for the value of a Y-Chain."
+        }
+      ]
+    },
+    {
+      "name":"The Chain Rule",
+      "steps":[
+        {
+          "headline":"To control the game,",
+          "description":" Player 1 should aim to have an even number chain count  Player 2 should aim to have an odd number chain count Play this on any odd (or non-square odd-by-even) board size (such as those found in the Dot Game (3x3, 5x5, 7x7). For games with an even number of boxes on each side, like 4x4, this rule is reversed). Exception to this rule - in 3x3, a \"0\" chain count benefits Player 2"
+        },
+        {
+          "headline":"Here Player 1 has managed to create 2 chains, and has forced Player 2 to hand him the smallest chain.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Taking Every Chain",
+      "steps":[
+        {
+          "headline":"In order to capitalize on the chain counting principles, you must be able to take every chain that is made.",
+          "description":"When your opponent gives you the first chain, take every box except the last two. Sacrifice these two by placing your line at the end of the two boxes, leaving space for a line in between one box and the other. This is known as the Double Cross."
+        },
+        {
+          "headline":"If your opponent plays within a loop, leave four boxes and play so that there is a space between two boxes on either side of your last line.",
+          "description":"By sacrificing the last 2 boxes of a chain or the last 4 boxes of a loop, you are guaranteed to obtain every single chain in the game."
+        },
+        {
+          "headline":"In 3x3, there are 9 boxes - you need 5 to win",
+          "description":""
+        },
+        {
+          "headline":"In 5x5, there are 25 boxes - you need 13 to win",
+          "description":""
+        },
+        {
+          "headline":"In 7x7, there are 49 boxes - you need 25 to win",
+          "description":"Because you must sacrifice boxes to obtain all the chains in the game, it is sometimes possible for your opponent to make a bunch of boxes."
+        },
+        {
+          "headline":"Be careful not to allow the amount of boxes you sacrifice get too high as you might sacrifice too many and lose the game.",
+          "description":"Since you are sacrificing all except the last chain you know that you will be giving your opponent 2 boxes for every \"1\" in the chain count (except for the last chain)\nSo mathematically: 2 * (chain count - 1) = number of boxes sacrificed"
+        },
+        {
+          "headline":"Let's call the person who is going to get all the chains the 'leader' and the other person the 'follower'.",
+          "description":"Since the leader is going to get the chains, the follower will get the last non-chain. In some cases, the follower also gets the first non-chain. When you are the leader, you wish to avoid having non-chains as this may contribute to your opponent's score and allow them to win. When you are the follower, create as many as these as possible to allow for a closer game."
+        },
+        {
+          "headline":"Turn a chain into a loop.",
+          "description":"Since loops are \"2\" and chains are \"1\", turning a chain into a loop or a loop into a chain causes the count to change by \"1\". This makes an even number odd, or an odd number even. If you are the follower, try to alter the count by converting a loop into a chain or a chain into a loop. If you are the leader, try to prevent the follower from doing this to you."
+        },
+        {
+          "headline":"Everyone makes mistakes, sometimes you can use this to your advantage.",
+          "description":"If you are the follower, you can sometimes take the opportunity to give a chain away early. If your opponent forgets to sacrifice the two boxes at the end, the count will drop by 1 which can sometimes result in victory if your sacrifice did not give away too many boxes. To avoid excessive sacrifices, pick the smallest chains to sacrifice."
+        },
+        {
+          "headline":"Y-Chains are complicated as there is more than one branch that can be considered a chain.",
+          "description":"When you get a chain that branches off in multiple directions first look at the splitting point. Count \"1\" for the base and one of the branches, count another \"1\" for each additional branch. Most Y-Chain will count as \"2\" since there will be one base and branch with one additional branch. It is very important you only consider chains within a Y-Chain. non-Chains can sometimes branch off of a chain but this is not a Y-Chain. Y-Chains are when a long chain has a small chain branching off of it. Sometimes more than one. Sometimes if there is more than one branch, consider the possibility that the Y-Chain can be broken in the middle making only 2 regular chains. Without considering this possibility you might think the Y-Chain is worth \"3\" since it has 2 branches. But if it is broken in the middle, leaving only 2 chains, then it is worth \"2\"."
+        },
+        {
+          "headline":"Y-Loops are similar to Y-Chains but instead of multiple chain branches, Y-Loops have branches that loop.",
+          "description":"This makes counting the final score early troublesome. A loop and a chain suggest a count of \"3\" but depending on where the follower places the line, you might need to sacrifice or you might be able to take it all. When you encounter a Y-Loop, the loop is always the base and branch which counts as \"2\" followed by the count of the chains that branch off of it. Similar to the Y-Chain, if there are 2 or more chains branching off of it, there is a possibility of cutting the Y-Loop by sacrificing 1 or 2 boxes within the loop and creating one large chain. This would reduce a Y-Loop with a value of \"4\" to a chain with a value of \"1\" which can drastically change the final score."
+        },
+        {
+          "headline":"If you are the follower, you want as many boxes as possible to make up for losing the chains.",
+          "description":"In the even that you are facing a Y-Loop, always sacrifice the branch chain first, then the loop. This way, you get 2 boxes for the chain, and if there are other chains on the board, you might get 4 boxes for the loop if your opponent sacrifices them."
+        }
+      ]
+    },
+    {
+      "name":"Mirroring",
+      "steps":[
+        {
+          "headline":"Since the mirror trick makes things even, it favors Player 1.",
+          "description":"Since player 2 is second to play, Player 1 must find a way to become 'Player 2' in terms of being able to copy moves. Although many people try to create a mirror top-bottom and left-right, most do it wrong by only mirroring either the top-bottom or the left-right. A true mirror reflects top-bottom and left-right at the same time."
+        },
+        {
+          "headline":"3x3's are so small that they tend to change some rules.",
+          "description":"While mirrors will tend to favor Player 1, if Player 1 only plays either vertical or horizontal lines, Player 2 can win a mirror game with Player 1 by creating 3 chains that are all vertical or horizontal. If Player 1 notices that he is being copied, he can create a loop around the center box which will favor Player 1 instead of Player 2."
+        },
+        {
+          "headline":"As many may have found out before, the way to change the turn in favor of Player 1 for mirror tricks is to give away the center box so that Player 2 is effectively playing ahead of Player 1, allowing him to copy.",
+          "description":"While most might think this automatically spells doom for Player 2 if they let it happen, it does not. There are two strategies against this:"
+        },
+        {
+          "headline":"Don't let Player 1 give you center box.",
+          "description":"In the event that they seem to be forcing you to take it, make sure there are un-copied lines somewhere else one the board. Also, try to circle around the center block, incorporating it into a waving chain that counts as \"1\" so that if they mirror you the rest of the way, the count will remain odd."
+        },
+        {
+          "headline":"If Player 1 insists on playing exactly the same moves as you, then sacrifice non-chains repeatedly.",
+          "description":"Since you are already 1 box ahead, if you share all the remaining boxes evenly, you will win. So eventually Player 1 will see that copying you will cause them to lose and they will stop."
+        },
+        {
+          "headline":"Against someone who isn't used to the mirror trick, the mirror trick tends to require almost no skill at all.",
+          "description":"Thus, when you play people with it, you might get some extremely negative responses from people who like to appreciate skillful play."
+        }
+      ]
+    }
+  ],
+  "text":" Definitions Chain: A chain is any string of 3 or more boxes that begins in one place and ends in another. A chain counts as \"1\". Non-chain: A non-chain is any single or double box. A non-chain counts as \"0\". Loop: A loop is any string of 4 or more boxes that begins and ends in the same place. A loop counts as \"2\". Y-Chain: See below for the value of a Y-Chain. The Chain Rule To control the game,  Player 1 should aim to have an even number chain count  Player 2 should aim to have an odd number chain count Play this on any odd (or non-square odd-by-even) board size (such as those found in the Dot Game (3x3, 5x5, 7x7). For games with an even number of boxes on each side, like 4x4, this rule is reversed). Exception to this rule - in 3x3, a \"0\" chain count benefits Player 2 Here Player 1 has managed to create 2 chains, and has forced Player 2 to hand him the smallest chain.  Taking Every Chain In order to capitalize on the chain counting principles, you must be able to take every chain that is made. When your opponent gives you the first chain, take every box except the last two. Sacrifice these two by placing your line at the end of the two boxes, leaving space for a line in between one box and the other. This is known as the Double Cross. If your opponent plays within a loop, leave four boxes and play so that there is a space between two boxes on either side of your last line. By sacrificing the last 2 boxes of a chain or the last 4 boxes of a loop, you are guaranteed to obtain every single chain in the game. In 3x3, there are 9 boxes - you need 5 to win  In 5x5, there are 25 boxes - you need 13 to win  In 7x7, there are 49 boxes - you need 25 to win Because you must sacrifice boxes to obtain all the chains in the game, it is sometimes possible for your opponent to make a bunch of boxes. Be careful not to allow the amount of boxes you sacrifice get too high as you might sacrifice too many and lose the game. Since you are sacrificing all except the last chain you know that you will be giving your opponent 2 boxes for every \"1\" in the chain count (except for the last chain)\nSo mathematically: 2 * (chain count - 1) = number of boxes sacrificed Let's call the person who is going to get all the chains the 'leader' and the other person the 'follower'. Since the leader is going to get the chains, the follower will get the last non-chain. In some cases, the follower also gets the first non-chain. When you are the leader, you wish to avoid having non-chains as this may contribute to your opponent's score and allow them to win. When you are the follower, create as many as these as possible to allow for a closer game. Turn a chain into a loop. Since loops are \"2\" and chains are \"1\", turning a chain into a loop or a loop into a chain causes the count to change by \"1\". This makes an even number odd, or an odd number even. If you are the follower, try to alter the count by converting a loop into a chain or a chain into a loop. If you are the leader, try to prevent the follower from doing this to you. Everyone makes mistakes, sometimes you can use this to your advantage. If you are the follower, you can sometimes take the opportunity to give a chain away early. If your opponent forgets to sacrifice the two boxes at the end, the count will drop by 1 which can sometimes result in victory if your sacrifice did not give away too many boxes. To avoid excessive sacrifices, pick the smallest chains to sacrifice. Y-Chains are complicated as there is more than one branch that can be considered a chain. When you get a chain that branches off in multiple directions first look at the splitting point. Count \"1\" for the base and one of the branches, count another \"1\" for each additional branch. Most Y-Chain will count as \"2\" since there will be one base and branch with one additional branch. It is very important you only consider chains within a Y-Chain. non-Chains can sometimes branch off of a chain but this is not a Y-Chain. Y-Chains are when a long chain has a small chain branching off of it. Sometimes more than one. Sometimes if there is more than one branch, consider the possibility that the Y-Chain can be broken in the middle making only 2 regular chains. Without considering this possibility you might think the Y-Chain is worth \"3\" since it has 2 branches. But if it is broken in the middle, leaving only 2 chains, then it is worth \"2\". Y-Loops are similar to Y-Chains but instead of multiple chain branches, Y-Loops have branches that loop. This makes counting the final score early troublesome. A loop and a chain suggest a count of \"3\" but depending on where the follower places the line, you might need to sacrifice or you might be able to take it all. When you encounter a Y-Loop, the loop is always the base and branch which counts as \"2\" followed by the count of the chains that branch off of it. Similar to the Y-Chain, if there are 2 or more chains branching off of it, there is a possibility of cutting the Y-Loop by sacrificing 1 or 2 boxes within the loop and creating one large chain. This would reduce a Y-Loop with a value of \"4\" to a chain with a value of \"1\" which can drastically change the final score. If you are the follower, you want as many boxes as possible to make up for losing the chains. In the even that you are facing a Y-Loop, always sacrifice the branch chain first, then the loop. This way, you get 2 boxes for the chain, and if there are other chains on the board, you might get 4 boxes for the loop if your opponent sacrifices them. Mirroring Since the mirror trick makes things even, it favors Player 1. Since player 2 is second to play, Player 1 must find a way to become 'Player 2' in terms of being able to copy moves. Although many people try to create a mirror top-bottom and left-right, most do it wrong by only mirroring either the top-bottom or the left-right. A true mirror reflects top-bottom and left-right at the same time. 3x3's are so small that they tend to change some rules. While mirrors will tend to favor Player 1, if Player 1 only plays either vertical or horizontal lines, Player 2 can win a mirror game with Player 1 by creating 3 chains that are all vertical or horizontal. If Player 1 notices that he is being copied, he can create a loop around the center box which will favor Player 1 instead of Player 2. As many may have found out before, the way to change the turn in favor of Player 1 for mirror tricks is to give away the center box so that Player 2 is effectively playing ahead of Player 1, allowing him to copy. While most might think this automatically spells doom for Player 2 if they let it happen, it does not. There are two strategies against this: Don't let Player 1 give you center box. In the event that they seem to be forcing you to take it, make sure there are un-copied lines somewhere else one the board. Also, try to circle around the center block, incorporating it into a waving chain that counts as \"1\" so that if they mirror you the rest of the way, the count will remain odd. If Player 1 insists on playing exactly the same moves as you, then sacrifice non-chains repeatedly. Since you are already 1 box ahead, if you share all the remaining boxes evenly, you will win. So eventually Player 1 will see that copying you will cause them to lose and they will stop. Against someone who isn't used to the mirror trick, the mirror trick tends to require almost no skill at all. Thus, when you play people with it, you might get some extremely negative responses from people who like to appreciate skillful play.",
+  "tyn_model":[
+    "mirror",
+    "boxes",
+    "chains",
+    "loop",
+    "chain",
+    "mirrors"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title":"How to Measure Decibels",
+  "url":"https://www.wikihow.com/Measure-Decibels",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Tools",
+    "Measuring and Marking Tools"
+  ],
+  "methods":[
+    {
+      "name":"Measuring Decibels with Instruments",
+      "steps":[
+        {
+          "headline":"Use your computer.",
+          "description":"With the right programs and equipment, it's not difficult to measure the decibel level of a sound using your computer. Listed below are just a few ways to do this. Note that better recording equipment will always give you better results \u2014 in other words, while your computer's default internal microphone may be sufficient for some tasks, a high-quality external microphone will be much more accurate. If you're on Windows 8, try downloading the free Decibel Reader app from the Microsoft App store. The app uses your computer's microphone to read noises up to 96 decibels. Similar devices are available from the iTunes app store for Apple products. You can also try using a third-party program to measure decibels. For instance, Audacity, a free sound recording program, includes a simple built-in decibel meter."
+        },
+        {
+          "headline":"Use a mobile app.",
+          "description":"For measuring sound levels on the go, mobile apps can be extremely convenient. Though the microphone on your mobile device isn't as likely to be as high-quality as the sorts of external mics you can connect to a computer, they can be surprisingly accurate. For instance, it's not uncommon for readings from mobile apps to be within 5 decibels of the readings from professional equipment. Below is a brief list of decibel-reading apps available for common mobile platforms:\nFor Apple devices: Decibel 10th, Decibel Meter Pro, dB Meter, Sound Level Meter\nFor Android devices: Sound Meter, Decibel Meter, Noise Meter, decibel\nFor Windows phones: Decibel Meter Free, Cyberx Decibel Meter, Decibel Meter Pro"
+        },
+        {
+          "headline":"Use a professional decibel meter.",
+          "description":"Though it's not usually cheap, perhaps the most direct, accurate way to find the decibel level of a sound you with to analyze is to use a decibel meter. Also called a \"sound level meter\", this specialized tool (available from online retailers and specialty stores) uses a sensitive microphone to measure the amount of noise in the environment and give you a precise decibel value. Since there isn't generally a large market for these tools, they can be somewhat expensive \u2014 often at least $200 even for low-cost models. Note that decibel meters/sound level meters can go by other names. For instance, another type of tool called a \"noise dosimeter\" performs basically the same function as a standard sound level meter."
+        }
+      ]
+    },
+    {
+      "name":"Deriving Decibels Mathematically",
+      "steps":[
+        {
+          "headline":"Find your sound's intensity in watts/square meter.",
+          "description":"For everyday practical purposes, decibels are usually seen as a simple measure of loudness. However, the truth is a little more complex. In physics, decibels are often thought of as a convenient way of expressing the intensity of a sound wave. The larger the amplitude of a given sound wave, the more energy it transmits, the more it moves the air particles in its path, and the more \"intense\" the sound is. Because of this direct relationship between a sound wave intensity and its volume in decibels, it's possible to find a decibel value given nothing more than an intensity level for the sound (which is typically measured in watts/square meter)\nNote that, for ordinary sounds, the intensity value is usually very small. For instance, a sound with an intensity of 5 \u00d710 (or 0.00005) watts/square meter translates to about 80 decibels \u2014 about the volume of a blender or food processor. To better understand the relationship between intensity measurements and decibels, let's follow along with an example problem. For the purposes of this problem, let's say that we're music producers and we're trying to find the background noise level in our recording studio to improve the sound of our records. After setting up our equipment, we detect a background noise intensity of 1 \u00d7 10 (0.00000000001) watts/square meter . In the next few steps, we'll use this info to find the decibel level of the background noise in our studio."
+        },
+        {
+          "headline":"Divide by 10.",
+          "description":"Once you've found the intensity of your sound, you can simply plug it into the formula 10Log10(I/10) (where \"I\" is your intensity in watts/square meter) to find its decibel value. To begin, divide by 10 (0.000000000001). 10 represents the intensity of a 0 decibel sound, so by comparing your intensity value to this, you're essentially finding its relationship to this base value. In our example, we'd divide our intensity value, 10, by 10 to get 10/10 = 10."
+        },
+        {
+          "headline":"Take the Log10 of your answer and multiply by 10.",
+          "description":"To finish solving, all you need to do is take the base 10 logarithm of your answer, then, finally, multiply by 10. This accounts for the fact that decibels are logarithmic units with a base of 10 \u2014 in other words, an increase of 10 decibels means that the loudness of the sound has doubled. Our example is easy to solve. Log10(10) = 1. 1 \u00d710 = 10. Therefore, the background noise in our studio has a loudness of 10 decibels. This is quite quiet, but still detectable with our high-quality recording equipment, so we'll probably need to eliminate the source of the noise for the best recordings"
+        },
+        {
+          "headline":"Understand the logarithmic nature of decibel values.",
+          "description":"As noted above, decibels are logarithmic units with a base of 10. For any given decibel value, a noise 10 decibels greater is twice as loud, a noise 20 decibels greater is 4 times as loud, and so on. This makes it easy to describe the huge range of sound intensities that can be picked up by the human ear. The loudest sound the ear can hear without experiencing pain is more than one billion times more intense than the quietest noise it can detect. By using decibels, we avoid having to use huge numbers to describe common sounds \u2014 instead, we only need to use three digit numbers at most. Consider this \u2014 which is easier to use: 55 decibels or 3 \u00d7 10 watts/square meter? The two are equivalent, so rather than having to use scientific notation (or a very small decimal), decibels allow for us to use a sort of simple shorthand for easy everyday use."
+        }
+      ]
+    }
+  ],
+  "text":" Measuring Decibels with Instruments Use your computer. With the right programs and equipment, it's not difficult to measure the decibel level of a sound using your computer. Listed below are just a few ways to do this. Note that better recording equipment will always give you better results \u2014 in other words, while your computer's default internal microphone may be sufficient for some tasks, a high-quality external microphone will be much more accurate. If you're on Windows 8, try downloading the free Decibel Reader app from the Microsoft App store. The app uses your computer's microphone to read noises up to 96 decibels. Similar devices are available from the iTunes app store for Apple products. You can also try using a third-party program to measure decibels. For instance, Audacity, a free sound recording program, includes a simple built-in decibel meter. Use a mobile app. For measuring sound levels on the go, mobile apps can be extremely convenient. Though the microphone on your mobile device isn't as likely to be as high-quality as the sorts of external mics you can connect to a computer, they can be surprisingly accurate. For instance, it's not uncommon for readings from mobile apps to be within 5 decibels of the readings from professional equipment. Below is a brief list of decibel-reading apps available for common mobile platforms:\nFor Apple devices: Decibel 10th, Decibel Meter Pro, dB Meter, Sound Level Meter\nFor Android devices: Sound Meter, Decibel Meter, Noise Meter, decibel\nFor Windows phones: Decibel Meter Free, Cyberx Decibel Meter, Decibel Meter Pro Use a professional decibel meter. Though it's not usually cheap, perhaps the most direct, accurate way to find the decibel level of a sound you with to analyze is to use a decibel meter. Also called a \"sound level meter\", this specialized tool (available from online retailers and specialty stores) uses a sensitive microphone to measure the amount of noise in the environment and give you a precise decibel value. Since there isn't generally a large market for these tools, they can be somewhat expensive \u2014 often at least $200 even for low-cost models. Note that decibel meters/sound level meters can go by other names. For instance, another type of tool called a \"noise dosimeter\" performs basically the same function as a standard sound level meter. Deriving Decibels Mathematically Find your sound's intensity in watts/square meter. For everyday practical purposes, decibels are usually seen as a simple measure of loudness. However, the truth is a little more complex. In physics, decibels are often thought of as a convenient way of expressing the intensity of a sound wave. The larger the amplitude of a given sound wave, the more energy it transmits, the more it moves the air particles in its path, and the more \"intense\" the sound is. Because of this direct relationship between a sound wave intensity and its volume in decibels, it's possible to find a decibel value given nothing more than an intensity level for the sound (which is typically measured in watts/square meter)\nNote that, for ordinary sounds, the intensity value is usually very small. For instance, a sound with an intensity of 5 \u00d710 (or 0.00005) watts/square meter translates to about 80 decibels \u2014 about the volume of a blender or food processor. To better understand the relationship between intensity measurements and decibels, let's follow along with an example problem. For the purposes of this problem, let's say that we're music producers and we're trying to find the background noise level in our recording studio to improve the sound of our records. After setting up our equipment, we detect a background noise intensity of 1 \u00d7 10 (0.00000000001) watts/square meter . In the next few steps, we'll use this info to find the decibel level of the background noise in our studio. Divide by 10. Once you've found the intensity of your sound, you can simply plug it into the formula 10Log10(I/10) (where \"I\" is your intensity in watts/square meter) to find its decibel value. To begin, divide by 10 (0.000000000001). 10 represents the intensity of a 0 decibel sound, so by comparing your intensity value to this, you're essentially finding its relationship to this base value. In our example, we'd divide our intensity value, 10, by 10 to get 10/10 = 10. Take the Log10 of your answer and multiply by 10. To finish solving, all you need to do is take the base 10 logarithm of your answer, then, finally, multiply by 10. This accounts for the fact that decibels are logarithmic units with a base of 10 \u2014 in other words, an increase of 10 decibels means that the loudness of the sound has doubled. Our example is easy to solve. Log10(10) = 1. 1 \u00d710 = 10. Therefore, the background noise in our studio has a loudness of 10 decibels. This is quite quiet, but still detectable with our high-quality recording equipment, so we'll probably need to eliminate the source of the noise for the best recordings Understand the logarithmic nature of decibel values. As noted above, decibels are logarithmic units with a base of 10. For any given decibel value, a noise 10 decibels greater is twice as loud, a noise 20 decibels greater is 4 times as loud, and so on. This makes it easy to describe the huge range of sound intensities that can be picked up by the human ear. The loudest sound the ear can hear without experiencing pain is more than one billion times more intense than the quietest noise it can detect. By using decibels, we avoid having to use huge numbers to describe common sounds \u2014 instead, we only need to use three digit numbers at most. Consider this \u2014 which is easier to use: 55 decibels or 3 \u00d7 10 watts/square meter? The two are equivalent, so rather than having to use scientific notation (or a very small decimal), decibels allow for us to use a sort of simple shorthand for easy everyday use.",
+  "tyn_model":[
+    "decibel meter",
+    "microphone",
+    "sound level meter",
+    "\u2014 in",
+    "\u00d7 10",
+    "decibels",
+    "computer",
+    "decibel reader",
+    "sound recording program",
+    "decibel-reading",
+    "db meter",
+    "sound meter",
+    "\u2014 often",
+    "decibel meters",
+    "sound level meters",
+    "noise dosimeter",
+    "\u2014 about",
+    "blender",
+    "food processor",
+    "\u2014 instead",
+    "\u2014 which"
+  ],
+  "tyn_section":[
+
+  ]
+}

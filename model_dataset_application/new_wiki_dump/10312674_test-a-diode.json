@@ -1,0 +1,121 @@
+{
+  "title":"How to Test a Diode",
+  "url":"https://www.wikihow.com/Test-a-Diode",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "methods":[
+    {
+      "name":"Checking with an Analog Multimeter",
+      "steps":[
+        {
+          "headline":"Shut off the diode's power source.",
+          "description":"Testing a diode while it is still in a circuit will not only throw off results, it's also incredibly dangerous. Remove the diode completely from the circuit or turn off the energy source, which could be an electrical outlet or battery. Discharging the capacitors to get rid of any extra voltage they hold will decrease your risk of an explosion or electric shock."
+        },
+        {
+          "headline":"Turn the selector switch to low resistance.",
+          "description":"This will be about 1 K\u03a9. Setting the multimeter on low resistance allows some current to flow through without overloading the diode with too much. The selector switch is the dial in the center of the multimeter."
+        },
+        {
+          "headline":"Put the red lead on the anode and the black lead on the cathode.",
+          "description":"The anode is the positive end, while the cathode is the negative end. The diode is now forward biased, meaning there is a current flowing through it. Any easy way to tell which end is the cathode vs. the anode, look for the silver stripe. That designates the cathode. The leads have mini alligator clips at the ends which you'll use to attach to the diode."
+        },
+        {
+          "headline":"Check the reading on the meter to determine if the diode is healthy.",
+          "description":"If your diode is forward biased, then the meter will read between 1 \u03a9 and 100 \u03a9 if it\u2019s in working order. If the diode is reverse biased, then the reading on the meter should be infinite resistance, which means the diode is open. A lower resistance for either type of diode means the diode is shorted and needs to be replaced. In either of these cases, you should replace your diode. If you see no reading at all, make sure the leads are securely clipped onto the diode. Check if your leads are functioning properly by testing them on a brand new battery. Set the multimeter to voltage mode and attach the red clip to the positive end and the black clip to the negative end. If the reading doesn't match the voltage of the battery, you need new leads."
+        },
+        {
+          "headline":"Swap the red lead onto the cathode and the black lead onto the anode.",
+          "description":"It is now reverse biased, meaning no current is flowing through. You\u2019ll get best results if you turn the dial to high resistance (about 100 K\u03a9) before clipping the leads into their new positions. High resistance is necessary here because reverse bias is meant to stop all current (or \"resist\" it) from flowing through."
+        },
+        {
+          "headline":"Look for a reading of open loop (OL, or the infinity symbol).",
+          "description":"This signals a properly functioning diode. If it gives a low resistance reading, the diode is defective and you should replace it. Replacing a diode can be as easy as swapping out standard batteries. However, you may have to do some light soldering on the ends to attach it to the circuit."
+        }
+      ]
+    },
+    {
+      "name":"Using the Diode Mode on a Digital Multimeter",
+      "steps":[
+        {
+          "headline":"Cut off power to the circuit.",
+          "description":"This is simply done by removing the energy source (often a battery) or causing a break in the circuit. You may need to discharge the capacitors to remove any leftover voltage, too. This is a safety measure that will prevent electrocution. You can quickly discharge the capacitors by touching the two ends of a capacitor (known as the terminals) together."
+        },
+        {
+          "headline":"Turn the dial to \u201cdiode test\u201d mode.",
+          "description":"This mode allows only a 2mA current to flow through the leads. This level of current is high enough to produce a reading, yet not so high that the diode will fail. It may also be labeled as \u201cdiode check\u201d on your multimeter and is usually indicated by a small diode symbol. The diode symbol will look like a triangle pointing towards a line."
+        },
+        {
+          "headline":"Hook the red lead to the anode and the black lead to the cathode.",
+          "description":"The red lead is positive and the black lead is negative. This puts the current in the forward direction. The anode is positive and the cathode is negative. The cathode is often marked with a silver strip."
+        },
+        {
+          "headline":"Look for a reading between 0.5 and 0.8 volts.",
+          "description":"This meter reading means you have a healthy diode. Anything outside of these numbers indicates that your diode isn't working properly and likely needs to be replaced. If you don't see a reading on the multimeter, try disconnecting and reconnecting the leads (make sure you have the right ends connected). Your multimeter may also have a bad battery or need new leads or clips. If the multimeter doesn't turn on at all, replace the battery. If the leads are frayed or if the clips are coming off the lead, replace the leads or clips."
+        },
+        {
+          "headline":"Switch the black lead to the anode and the red lead to the cathode.",
+          "description":"This puts the current in the reverse direction where no current will be flowing. The reading should be OL, which means open circuit. If you do get a voltage reading in this position, the diode is not working properly. Replace it with a new one. You can buy a new diode at any electronics store like Best Buy, Radio Shack, or even Amazon."
+        }
+      ]
+    },
+    {
+      "name":"Evaluating with the Ohmmeter Mode on a Digital Multimeter",
+      "steps":[
+        {
+          "headline":"Turn off power to the diode.",
+          "description":"Make sure there is also no remaining voltage. If you don't turn off the power, you risk causing an explosion or harming yourself or the diode with an electric current. Never take a reading in resistance mode while the diode is still in a circuit. It can throw off results. To cut the power, unplug the circuit from its power source, whether that's a battery or electrical outlet. Discharge any capacitors to remove extra voltage. This is important when working on any electrical project to avoid electrocuting yourself."
+        },
+        {
+          "headline":"Rotate the multimeter dial to \u201cresistance\u201d mode.",
+          "description":"It should be indicated by the ohm (\u201c\u03a9\u201d) symbol. Set it at low resistance, or about 1 K\u03a9. A low resistance setting lets the current pass through the diode more easily."
+        },
+        {
+          "headline":"Connect the red lead to the anode and the black lead to the cathode.",
+          "description":"Placing the positive probe on the positive anode and the negative probe on the negative cathode makes your diode forward-biased. On many diodes, the anode is the black piece whereas the cathode is the silver strip."
+        },
+        {
+          "headline":"Look for a reading less than 100 \u03a9.",
+          "description":"This implies the current is being conducted correctly. If there's no reading displayed, double check that the leads are securely fastened to the ends of the diode. Check that you've connected the proper leads\u2014some multimeters actually switch the lead colors (so red is negative and vice versa). If you still don't see a reading, try replacing the leads or battery. They may be dead."
+        },
+        {
+          "headline":"Move the positive lead to the cathode and the negative lead to the anode.",
+          "description":"By attaching ends with opposite charges, you are stopping the diode from conducting current (if it is functioning correctly, that is). Your diode is now in reverse direction. Set it in high resistance, or about 100 K\u03a9. High resistance will prevent current from flowing through the diode."
+        },
+        {
+          "headline":"Look for OL on the display.",
+          "description":"This open circuit reading (which also means infinite resistance) tells you that you have a healthy diode. If you have a reading of any resistance, this signals your diode isn't functioning correctly as there should be no current flowing at all in this direction. Replace your diode with a new one. New diodes can be purchased at an electronics store or online. If you aren't sure what type you need, ask an electrician."
+        }
+      ]
+    }
+  ],
+  "text":" Checking with an Analog Multimeter Shut off the diode's power source. Testing a diode while it is still in a circuit will not only throw off results, it's also incredibly dangerous. Remove the diode completely from the circuit or turn off the energy source, which could be an electrical outlet or battery. Discharging the capacitors to get rid of any extra voltage they hold will decrease your risk of an explosion or electric shock. Turn the selector switch to low resistance. This will be about 1 K\u03a9. Setting the multimeter on low resistance allows some current to flow through without overloading the diode with too much. The selector switch is the dial in the center of the multimeter. Put the red lead on the anode and the black lead on the cathode. The anode is the positive end, while the cathode is the negative end. The diode is now forward biased, meaning there is a current flowing through it. Any easy way to tell which end is the cathode vs. the anode, look for the silver stripe. That designates the cathode. The leads have mini alligator clips at the ends which you'll use to attach to the diode. Check the reading on the meter to determine if the diode is healthy. If your diode is forward biased, then the meter will read between 1 \u03a9 and 100 \u03a9 if it\u2019s in working order. If the diode is reverse biased, then the reading on the meter should be infinite resistance, which means the diode is open. A lower resistance for either type of diode means the diode is shorted and needs to be replaced. In either of these cases, you should replace your diode. If you see no reading at all, make sure the leads are securely clipped onto the diode. Check if your leads are functioning properly by testing them on a brand new battery. Set the multimeter to voltage mode and attach the red clip to the positive end and the black clip to the negative end. If the reading doesn't match the voltage of the battery, you need new leads. Swap the red lead onto the cathode and the black lead onto the anode. It is now reverse biased, meaning no current is flowing through. You\u2019ll get best results if you turn the dial to high resistance (about 100 K\u03a9) before clipping the leads into their new positions. High resistance is necessary here because reverse bias is meant to stop all current (or \"resist\" it) from flowing through. Look for a reading of open loop (OL, or the infinity symbol). This signals a properly functioning diode. If it gives a low resistance reading, the diode is defective and you should replace it. Replacing a diode can be as easy as swapping out standard batteries. However, you may have to do some light soldering on the ends to attach it to the circuit. Using the Diode Mode on a Digital Multimeter Cut off power to the circuit. This is simply done by removing the energy source (often a battery) or causing a break in the circuit. You may need to discharge the capacitors to remove any leftover voltage, too. This is a safety measure that will prevent electrocution. You can quickly discharge the capacitors by touching the two ends of a capacitor (known as the terminals) together. Turn the dial to \u201cdiode test\u201d mode. This mode allows only a 2mA current to flow through the leads. This level of current is high enough to produce a reading, yet not so high that the diode will fail. It may also be labeled as \u201cdiode check\u201d on your multimeter and is usually indicated by a small diode symbol. The diode symbol will look like a triangle pointing towards a line. Hook the red lead to the anode and the black lead to the cathode. The red lead is positive and the black lead is negative. This puts the current in the forward direction. The anode is positive and the cathode is negative. The cathode is often marked with a silver strip. Look for a reading between 0.5 and 0.8 volts. This meter reading means you have a healthy diode. Anything outside of these numbers indicates that your diode isn't working properly and likely needs to be replaced. If you don't see a reading on the multimeter, try disconnecting and reconnecting the leads (make sure you have the right ends connected). Your multimeter may also have a bad battery or need new leads or clips. If the multimeter doesn't turn on at all, replace the battery. If the leads are frayed or if the clips are coming off the lead, replace the leads or clips. Switch the black lead to the anode and the red lead to the cathode. This puts the current in the reverse direction where no current will be flowing. The reading should be OL, which means open circuit. If you do get a voltage reading in this position, the diode is not working properly. Replace it with a new one. You can buy a new diode at any electronics store like Best Buy, Radio Shack, or even Amazon. Evaluating with the Ohmmeter Mode on a Digital Multimeter Turn off power to the diode. Make sure there is also no remaining voltage. If you don't turn off the power, you risk causing an explosion or harming yourself or the diode with an electric current. Never take a reading in resistance mode while the diode is still in a circuit. It can throw off results. To cut the power, unplug the circuit from its power source, whether that's a battery or electrical outlet. Discharge any capacitors to remove extra voltage. This is important when working on any electrical project to avoid electrocuting yourself. Rotate the multimeter dial to \u201cresistance\u201d mode. It should be indicated by the ohm (\u201c\u03a9\u201d) symbol. Set it at low resistance, or about 1 K\u03a9. A low resistance setting lets the current pass through the diode more easily. Connect the red lead to the anode and the black lead to the cathode. Placing the positive probe on the positive anode and the negative probe on the negative cathode makes your diode forward-biased. On many diodes, the anode is the black piece whereas the cathode is the silver strip. Look for a reading less than 100 \u03a9. This implies the current is being conducted correctly. If there's no reading displayed, double check that the leads are securely fastened to the ends of the diode. Check that you've connected the proper leads\u2014some multimeters actually switch the lead colors (so red is negative and vice versa). If you still don't see a reading, try replacing the leads or battery. They may be dead. Move the positive lead to the cathode and the negative lead to the anode. By attaching ends with opposite charges, you are stopping the diode from conducting current (if it is functioning correctly, that is). Your diode is now in reverse direction. Set it in high resistance, or about 100 K\u03a9. High resistance will prevent current from flowing through the diode. Look for OL on the display. This open circuit reading (which also means infinite resistance) tells you that you have a healthy diode. If you have a reading of any resistance, this signals your diode isn't functioning correctly as there should be no current flowing at all in this direction. Replace your diode with a new one. New diodes can be purchased at an electronics store or online. If you aren't sure what type you need, ask an electrician.",
+  "tyn_model":[
+    "multimeter",
+    "battery",
+    "electrical outlet",
+    "digital multimeter",
+    "\u201cdiode",
+    "\u201d mode",
+    "diode",
+    "leads",
+    "\u03c9 and",
+    "\u03c9 if",
+    "batteries",
+    "capacitor",
+    "\u201d on",
+    "multimeter dial",
+    "\u201cresistance",
+    "\u201c\u03c9",
+    "\u201d)",
+    "\u2014some",
+    "diodes",
+    "electrician"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "title":"How to Play Advanced Chess",
+  "url":"https://www.wikihow.com/Play-Advanced-Chess",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Board Games",
+    "Strategy Board Games",
+    "Chess"
+  ],
+  "parts":[
+    {
+      "name":"Learning Chess Terms",
+      "steps":[
+        {
+          "headline":"Understand what En Passant means.",
+          "description":"On the first move, pawns can move 2 spaces forward. En Passant is when your pawn is on the fourth space away from its original square. An opponents pawn moves 2 spaces forward, next to your pawn. Oh No! Your entire strategy has been upset. That is what you might think, but En Passant allows you to take the opposing pawn next to yours as though it had moved only one square. Your pawn moves to where the opposing pawn would have been if it had moved only one space forward. Be aware that this move is not always useful and may lead to problems, so don't just do it because you know how. It's the same with all moves: you must carefully assess the situation before moving."
+        },
+        {
+          "headline":"Get to know what a Pawn Storm is.",
+          "description":"A pawn storm is useful when you and your opponent have castled to opposite sides of the board. Unless the center is locked or static, a pawn storm will merely weaken your king. Use the pawns parallel to you opponent's king to charge in and weaken the king. Again, as with all moves, don't just charge in. There is no reason to lose 3 or 4 pawns when you could avoid losing even one. Support the storm with your other pieces, make your opponent pay dearly for each piece. Used correctly, a pawn storm is a deadly weapon, however, make sure that you are ahead of your opponent's pawn storm!"
+        },
+        {
+          "headline":"Understand Castling.",
+          "description":"Castling is a defensive move where a King may move two spaces to the side and a Rook may hop over the King. To do this, there must be no pieces in between the Rook and the King. The Rook may not move more than one space past the King. Also, this can only be done if both pieces have yet to move. The move may not be made to get out of check nor if the king would be moving through or into a threatened square (out of, through, or into check)."
+        },
+        {
+          "headline":"Get familiar with Lifting a Rook.",
+          "description":"Lifting a rook is not so much a strategy as a fancy name for a move. Lifting a rook simply means that you bring your rook off of the back rank by first going up, and then to either side."
+        },
+        {
+          "headline":"Learn about the Pin.",
+          "description":"A \"Pin\" is an incredibly powerful tactic that, when used correctly, can end a game instantly. Pinning a piece is when your piece attacks 2 pieces of equal or greater value. The term pinning the bishop to the king means that the bishop cannot move, or the king will be under attack. This is called an absolute pin, where moving the bishop is an illegal move, as it places the king in check. Another kind of pin is the familial pin. Instead of the king being behind the bishop, there may be a queen or a rook. In this case, the bishop can move, but it is only in rare cases a good idea, as it lays the more valuable piece behind it under attack."
+        },
+        {
+          "headline":"Understand the Skewer.",
+          "description":"A skewer is similar to a pin, but instead of the bishop being in front of the king, the king is in front of the bishop. A skewer is when you put the king in check, forcing it to move, and forcing it to expose the bishop."
+        },
+        {
+          "headline":"Learn about the Fork.",
+          "description":"A fork is when one of your pieces (or pawns) attacks 2 of your opponents pieces. (Note, a pawn is not considered a piece.) An example of a fork is if a knight attacks both the opposing king and queen at the same time. Unless the knight can be taken, the king is forced to move, as it is in check, and the queen can be taken, at little to no expense."
+        },
+        {
+          "headline":"Discover Discovered Checks.",
+          "description":"Discovered Checks happen when a pawn or a piece moves somewhere else so that a piece behind it can attack the enemy king. Sometimes these attacks won't be very useful, but if a knight is in front of the major piece, be on the lookout for a serious attack on the queen."
+        },
+        {
+          "headline":"Understand Double Checks.",
+          "description":"These are a more dangerous form of discovered check. The difference being that the piece behind it is able to attack the enemy king while the moving piece is able to attack as well. These will force the king to move because capturing or blocking one piece doesn't work since the other piece will be able to attack no matter what; a king cannot place its self into checkmate. #*Masters love to set up double checks because of their awesome attacking power and can lead to dangerous tactics on the rooks, queen, and king."
+        }
+      ]
+    },
+    {
+      "name":"Playing the Opening",
+      "steps":[
+        {
+          "headline":"Focus on developing.",
+          "description":"The goal in the opening is to develop, or take out, pieces. You can do this by performing the King's Gambit for white, or the Sicilian Dragon Defense for black."
+        },
+        {
+          "headline":"Try the King's Gambit.",
+          "description":"The King's Gambit Generally proceeds as follows: e4 e5, then f4 exf4\nNote that your opponent does not have to take the piece but there is no advantage to not taking the piece. After the Nf3 point, the opening can go in any direction, but white will eventually seek to play d4, resulting in the complete control of the center of the board."
+        },
+        {
+          "headline":"Try the Sicilian Dragon.",
+          "description":"The Sicilian Dragon generally begins as follows: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6. From here there are many different paths that white could take, but black will likely play Nc6 and 0-0, waiting to see how white develops."
+        }
+      ]
+    },
+    {
+      "name":"Playing the Middlegame",
+      "steps":[
+        {
+          "headline":"Focus on coordination.",
+          "description":"The main strategy in the middle game is \"coordination of pieces\" (Jose Raul Capablanca)."
+        },
+        {
+          "headline":"Control the center.",
+          "description":"Always retain control of the center, preferably using pawns as the core pieces."
+        },
+        {
+          "headline":"Undermine your opponents defense.",
+          "description":"Whether with a sacrifice or a pin, always be looking for ways to wear away your opponents defense."
+        },
+        {
+          "headline":"Have patience.",
+          "description":"Do not develop your queen too early, timing is critical."
+        },
+        {
+          "headline":"Protect your king.",
+          "description":"Do not open your king to attack when you have a choice. Always keep your king guarded behind pawns, or else bishops will sometimes work as well."
+        },
+        {
+          "headline":"Attack the king.",
+          "description":"Look for tactics to attack the opposing king and learn how to attack the king if it is castled wither queenside and kingside."
+        },
+        {
+          "headline":"Count the cost.",
+          "description":"When ahead in material, simplify by exchanging pieces and go for an all pawn endgame."
+        }
+      ]
+    },
+    {
+      "name":"Playing the Endgame",
+      "steps":[
+        {
+          "headline":"Don't discount any pieces during the endgame.",
+          "description":"The endgame is a delicate part of a chess game where every pawn matters."
+        },
+        {
+          "headline":"Develop your Passed Pawns.",
+          "description":"A passed pawn is one that is not opposed by an opponent's pawn and can become a queen easier than a pawn that is opposed. The rule is not to advance too early or the pawn will be subject to attack. You must learn to advance pawns together so that they support one another, making them free from attack by your opponents pieces."
+        },
+        {
+          "headline":"Checkmate pieces.",
+          "description":"There are several piece combinations that can be used to attain checkmate when the opponent has no pieces remaining. Checkmate can be achieved with these pieces which are commonly available in the endgame:2 Bishops and a King. 1 Rook and a King. A Queen and A King. 1 Knight, 1 Bishop, and a King. The Knight, Bishop, and King vs. King checkmate is complicated, and some Masters don't even know it, but the other mentioned checkmates are simple."
+        },
+        {
+          "headline":"Use your rook against the king.",
+          "description":"The key to all checkmates is to keep the opponents king confined. Do not be overanxious to check the king, as it will not work. First move the rook to the rank ahead of the enemy king. This will confine the king to a certain number of squares. Advance the king to obtain opposition when your king is in front of the opponent's. When he moves away, you will need to make a waiting move, just move the rook one square over. He will move the king away from your king. When the kings are opposite each other, check him with the rook, and then repeat the process until he is on the back rank, where check becomes checkmate. The Queen checkmate is identical, but you must be careful not to stalemate."
+        }
+      ]
+    }
+  ],
+  "text":" Learning Chess Terms Understand what En Passant means. On the first move, pawns can move 2 spaces forward. En Passant is when your pawn is on the fourth space away from its original square. An opponents pawn moves 2 spaces forward, next to your pawn. Oh No! Your entire strategy has been upset. That is what you might think, but En Passant allows you to take the opposing pawn next to yours as though it had moved only one square. Your pawn moves to where the opposing pawn would have been if it had moved only one space forward. Be aware that this move is not always useful and may lead to problems, so don't just do it because you know how. It's the same with all moves: you must carefully assess the situation before moving. Get to know what a Pawn Storm is. A pawn storm is useful when you and your opponent have castled to opposite sides of the board. Unless the center is locked or static, a pawn storm will merely weaken your king. Use the pawns parallel to you opponent's king to charge in and weaken the king. Again, as with all moves, don't just charge in. There is no reason to lose 3 or 4 pawns when you could avoid losing even one. Support the storm with your other pieces, make your opponent pay dearly for each piece. Used correctly, a pawn storm is a deadly weapon, however, make sure that you are ahead of your opponent's pawn storm! Understand Castling. Castling is a defensive move where a King may move two spaces to the side and a Rook may hop over the King. To do this, there must be no pieces in between the Rook and the King. The Rook may not move more than one space past the King. Also, this can only be done if both pieces have yet to move. The move may not be made to get out of check nor if the king would be moving through or into a threatened square (out of, through, or into check). Get familiar with Lifting a Rook. Lifting a rook is not so much a strategy as a fancy name for a move. Lifting a rook simply means that you bring your rook off of the back rank by first going up, and then to either side. Learn about the Pin. A \"Pin\" is an incredibly powerful tactic that, when used correctly, can end a game instantly. Pinning a piece is when your piece attacks 2 pieces of equal or greater value. The term pinning the bishop to the king means that the bishop cannot move, or the king will be under attack. This is called an absolute pin, where moving the bishop is an illegal move, as it places the king in check. Another kind of pin is the familial pin. Instead of the king being behind the bishop, there may be a queen or a rook. In this case, the bishop can move, but it is only in rare cases a good idea, as it lays the more valuable piece behind it under attack. Understand the Skewer. A skewer is similar to a pin, but instead of the bishop being in front of the king, the king is in front of the bishop. A skewer is when you put the king in check, forcing it to move, and forcing it to expose the bishop. Learn about the Fork. A fork is when one of your pieces (or pawns) attacks 2 of your opponents pieces. (Note, a pawn is not considered a piece.) An example of a fork is if a knight attacks both the opposing king and queen at the same time. Unless the knight can be taken, the king is forced to move, as it is in check, and the queen can be taken, at little to no expense. Discover Discovered Checks. Discovered Checks happen when a pawn or a piece moves somewhere else so that a piece behind it can attack the enemy king. Sometimes these attacks won't be very useful, but if a knight is in front of the major piece, be on the lookout for a serious attack on the queen. Understand Double Checks. These are a more dangerous form of discovered check. The difference being that the piece behind it is able to attack the enemy king while the moving piece is able to attack as well. These will force the king to move because capturing or blocking one piece doesn't work since the other piece will be able to attack no matter what; a king cannot place its self into checkmate. #*Masters love to set up double checks because of their awesome attacking power and can lead to dangerous tactics on the rooks, queen, and king. Playing the Opening Focus on developing. The goal in the opening is to develop, or take out, pieces. You can do this by performing the King's Gambit for white, or the Sicilian Dragon Defense for black. Try the King's Gambit. The King's Gambit Generally proceeds as follows: e4 e5, then f4 exf4\nNote that your opponent does not have to take the piece but there is no advantage to not taking the piece. After the Nf3 point, the opening can go in any direction, but white will eventually seek to play d4, resulting in the complete control of the center of the board. Try the Sicilian Dragon. The Sicilian Dragon generally begins as follows: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6. From here there are many different paths that white could take, but black will likely play Nc6 and 0-0, waiting to see how white develops. Playing the Middlegame Focus on coordination. The main strategy in the middle game is \"coordination of pieces\" (Jose Raul Capablanca). Control the center. Always retain control of the center, preferably using pawns as the core pieces. Undermine your opponents defense. Whether with a sacrifice or a pin, always be looking for ways to wear away your opponents defense. Have patience. Do not develop your queen too early, timing is critical. Protect your king. Do not open your king to attack when you have a choice. Always keep your king guarded behind pawns, or else bishops will sometimes work as well. Attack the king. Look for tactics to attack the opposing king and learn how to attack the king if it is castled wither queenside and kingside. Count the cost. When ahead in material, simplify by exchanging pieces and go for an all pawn endgame. Playing the Endgame Don't discount any pieces during the endgame. The endgame is a delicate part of a chess game where every pawn matters. Develop your Passed Pawns. A passed pawn is one that is not opposed by an opponent's pawn and can become a queen easier than a pawn that is opposed. The rule is not to advance too early or the pawn will be subject to attack. You must learn to advance pawns together so that they support one another, making them free from attack by your opponents pieces. Checkmate pieces. There are several piece combinations that can be used to attain checkmate when the opponent has no pieces remaining. Checkmate can be achieved with these pieces which are commonly available in the endgame:2 Bishops and a King. 1 Rook and a King. A Queen and A King. 1 Knight, 1 Bishop, and a King. The Knight, Bishop, and King vs. King checkmate is complicated, and some Masters don't even know it, but the other mentioned checkmates are simple. Use your rook against the king. The key to all checkmates is to keep the opponents king confined. Do not be overanxious to check the king, as it will not work. First move the rook to the rank ahead of the enemy king. This will confine the king to a certain number of squares. Advance the king to obtain opposition when your king is in front of the opponent's. When he moves away, you will need to make a waiting move, just move the rook one square over. He will move the king away from your king. When the kings are opposite each other, check him with the rook, and then repeat the process until he is on the back rank, where check becomes checkmate. The Queen checkmate is identical, but you must be careful not to stalemate.",
+  "tyn_model":[
+    "rook",
+    "pin",
+    "skewer",
+    "fork",
+    "castling",
+    "knight",
+    "sicilian dragon defense",
+    "dragon",
+    "bishops",
+    "chess",
+    "queen",
+    "bishop"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title":"How to Make a Video Game in an Hour with Reality Factory",
+  "url":"https://www.wikihow.com/Make-a-Video-Game-in-an-Hour-with-Reality-Factory",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Electronic Game Strategies"
+  ],
+  "steps":[
+    {
+      "headline":"Download Reality Factory.",
+      "description":""
+    },
+    {
+      "headline":"Install RF in the default location at a drive root.",
+      "description":""
+    },
+    {
+      "headline":"Browse to the C:\\RealityFactory\\tools and click on RFEditPro.exe which is the blue head icon in version .75.",
+      "description":""
+    },
+    {
+      "headline":"Click on the 'Texture' tab under the new, open, save icons.",
+      "description":"Pick a texture that you like."
+    },
+    {
+      "headline":"Click on the templates tab.",
+      "description":"In the tool bar there will be 2 icons each with an arrow in a box. Select the dark blue box if it is not already selected. In the templates section, click on the cylinder icon."
+    },
+    {
+      "headline":"On the right side of the screen there will be parameters for the cylinder that are grayed out.",
+      "description":"Click 'Customize Template' to make them editable. Change the 'top of cylinder x size to 1024 and the z size to 1024 also. Change the bottom x and z size to 1024 also. The Y size can be left at 512."
+    },
+    {
+      "headline":"Click 'Add Current Item To World' or press Enter.",
+      "description":"In the perspective view you will see your new room"
+    },
+    {
+      "headline":"To move around the perspective view, click and hold the Left Mouse Button to dolly forward and backward.",
+      "description":"The RMB will cause you to rotate at a fixed point and the MMB will allow you to pan perpendicular to the viewing plane. If you have a wheel you can use it to dolly too, although the LMB has more precision."
+    },
+    {
+      "headline":"Make sure that the icon with the dark blue square is selected and click on the arrow next to the words Act Material.",
+      "description":"Scroll down and select Player Setup"
+    },
+    {
+      "headline":"In the tool bar, click the icon with the perpendicular arrows.",
+      "description":"This is the move button. In the Orthographic (2D) top view move the blue dot so that it is somewhere in the room if it isn't already. Press Enter."
+    },
+    {
+      "headline":"Go back to the entity list and select Player Start.",
+      "description":"Using the same method to move as before, move the blue dot to just above the ground in the side view and near the center in the top view. This represents the bottom of your players feet."
+    },
+    {
+      "headline":"At the top menu click Build/Compile.",
+      "description":"Check 'Preview in Reality Factory' and click OK. Click Ok again to preview."
+    },
+    {
+      "headline":"Click Done twice and enjoy your creation.",
+      "description":""
+    }
+  ],
+  "text":" Download Reality Factory.  Install RF in the default location at a drive root.  Browse to the C:\\RealityFactory\\tools and click on RFEditPro.exe which is the blue head icon in version .75.  Click on the 'Texture' tab under the new, open, save icons. Pick a texture that you like. Click on the templates tab. In the tool bar there will be 2 icons each with an arrow in a box. Select the dark blue box if it is not already selected. In the templates section, click on the cylinder icon. On the right side of the screen there will be parameters for the cylinder that are grayed out. Click 'Customize Template' to make them editable. Change the 'top of cylinder x size to 1024 and the z size to 1024 also. Change the bottom x and z size to 1024 also. The Y size can be left at 512. Click 'Add Current Item To World' or press Enter. In the perspective view you will see your new room To move around the perspective view, click and hold the Left Mouse Button to dolly forward and backward. The RMB will cause you to rotate at a fixed point and the MMB will allow you to pan perpendicular to the viewing plane. If you have a wheel you can use it to dolly too, although the LMB has more precision. Make sure that the icon with the dark blue square is selected and click on the arrow next to the words Act Material. Scroll down and select Player Setup In the tool bar, click the icon with the perpendicular arrows. This is the move button. In the Orthographic (2D) top view move the blue dot so that it is somewhere in the room if it isn't already. Press Enter. Go back to the entity list and select Player Start. Using the same method to move as before, move the blue dot to just above the ground in the side view and near the center in the top view. This represents the bottom of your players feet. At the top menu click Build/Compile. Check 'Preview in Reality Factory' and click OK. Click Ok again to preview. Click Done twice and enjoy your creation. ",
+  "tyn_model":[
+    "reality factory"
+  ],
+  "tyn_section":[
+
+  ]
+}

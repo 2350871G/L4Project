@@ -1,0 +1,41 @@
+{
+  "title":"How to Fix Your Lag on Games",
+  "url":"https://www.wikihow.com/Fix-Your-Lag-on-Games",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "steps":[
+    {
+      "headline":"Start the necessary software.",
+      "description":"From your desktop, click Start and then Run, or for a shortcut, just WINKEY + R. This will open up the Run Program screen which will be used to launch the config screen we are looking for."
+    },
+    {
+      "headline":"Launch the config screen.",
+      "description":"Enter MSCONFIG into the textbox of the Run screen and press enter or click OK. This will launch the System Configuration screen."
+    },
+    {
+      "headline":"Click the Services tab.",
+      "description":"This tab contains or the background services running on your computer. For example, your graphic card drivers, Windows Explorer, etc. This screen can be used to enable or disable any service on your computer."
+    },
+    {
+      "headline":"Turn off the necessary service.",
+      "description":"Scroll down and find the Windows Event Log service. Click on the checkbox next to it and press apply. This will disable your computer's logging service, which writes down everything that happens on your computer."
+    },
+    {
+      "headline":"Restart your computer.",
+      "description":"This is necessary to complete the changes you just made and to completely disable the Event Log service. After the restart is complete, try running your game again. You should receive better performance now."
+    }
+  ],
+  "text":" Start the necessary software. From your desktop, click Start and then Run, or for a shortcut, just WINKEY + R. This will open up the Run Program screen which will be used to launch the config screen we are looking for. Launch the config screen. Enter MSCONFIG into the textbox of the Run screen and press enter or click OK. This will launch the System Configuration screen. Click the Services tab. This tab contains or the background services running on your computer. For example, your graphic card drivers, Windows Explorer, etc. This screen can be used to enable or disable any service on your computer. Turn off the necessary service. Scroll down and find the Windows Event Log service. Click on the checkbox next to it and press apply. This will disable your computer's logging service, which writes down everything that happens on your computer. Restart your computer. This is necessary to complete the changes you just made and to completely disable the Event Log service. After the restart is complete, try running your game again. You should receive better performance now.",
+  "tyn_model":[
+    "software",
+    "graphic card drivers",
+    "windows explorer",
+    "computer"
+  ],
+  "tyn_section":[
+
+  ]
+}

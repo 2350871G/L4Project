@@ -1,0 +1,99 @@
+{
+  "title":"How to Analyze Resistive Circuits Using Ohm's Law",
+  "url":"https://www.wikihow.com/Analyze-Resistive-Circuits-Using-Ohm%27s-Law",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Analyzing Resistive Circuits",
+      "steps":[
+        {
+          "headline":"Decide if your circuit is wired in series or parallel.",
+          "description":"When a circuit is wired in series, there is only one path for current to flow. When a circuit is wired in parallel, there are multiple paths that the current can move through simultaneously. These two types of circuits behave very differently, and it is important to recognize one from the other."
+        },
+        {
+          "headline":"Find the voltage of the circuit.",
+          "description":"Voltage can be calculated for resistive circuits by using Ohm\u2019s Law. In order to do this calculation, you will need to know values for the current and resistance of the circuit. By multiplying these values together, you will find the voltage of the circuit. Take, as an example, a circuit that has a current of 3 Amperes (I = 3A) and a resistance of 2 Ohms (R = 2 ohms). The voltage (V) for this circuit would be found by using the following equation:\nV=I\u00d7R{\\displaystyle V=I\\times R}\nV=3 A\u00d72 ohms{\\displaystyle V=3{\\rm {{\\ A}\\times 2{\\rm {\\ ohms}}}}}\nV=6 V{\\displaystyle V=6{\\rm {\\ V}}}"
+        },
+        {
+          "headline":"Solve for the current of the circuit.",
+          "description":"Using Ohm\u2019s Law, current can be calculated for a resistive circuit. To do this calculation, you will need to know the values for the resistance and voltage of the circuit. Divide the voltage by the resistance to obtain the current of the circuit. Take, as an example, a circuit that has a voltage of 6 volts (V = 6V) and a resistance of 2 Ohms (R = 2ohms). The current (I) for this circuit would be found by using the following equation:\nV=I\u00d7R{\\displaystyle V=I\\times R}\nV/I=R{\\displaystyle V/I=R}\n1/I=R/V{\\displaystyle 1/I=R/V}\nI=V/R{\\displaystyle I=V/R}\nI=(6 V)/(2 ohms){\\displaystyle I=(6{\\rm {{\\ V})/(2{\\rm {{\\ ohms})}}}}}\nI=3 A{\\displaystyle I=3{\\rm {\\ A}}}"
+        },
+        {
+          "headline":"Calculate the resistance of the circuit.",
+          "description":"Ohm\u2019s Law will allow you to find the resistance of a resistive circuit. You must know the values of voltage and current of the circuit to calculate the resistance. When these values are known, you can find the resistance by dividing the voltage of the circuit by the current. Take, as an example, a circuit that has a voltage of 6 volts (V = 6V) and a resistance of 2 Ohms (R = 2ohms). The current (I) for this circuit would be found by using the following equation:\nV=I\u00d7R{\\displaystyle V=I\\times R}\nV/R=I{\\displaystyle V/R=I}\n1/R=I/V{\\displaystyle 1/R=I/V}\nR=V/I{\\displaystyle R=V/I}\nR=(6 V)/(3 A){\\displaystyle R=(6{\\rm {{\\ V})/(3{\\rm {{\\ A})}}}}}\nR=2 ohms{\\displaystyle R=2{\\rm {\\ ohms}}}"
+        },
+        {
+          "headline":"Understand the \u201cTable Method.\u201d The table method is a great way to calculate the resistance of different resistors in the same circuit.",
+          "description":"Make a table with three rows and a column for each resistor in the circuit, plus one for the overall circuit. For example, if you have a circuit with three resistors, you would make a table that is three rows by four columns. The first row will correspond to voltage across each resistor, the second will correspond to current through each resistor, and the third will correspond to the resistance of each resistor. For circuits in parallel:\nThe voltage across all resistors is the same and is equal to the voltage of the total circuit. This means all values in Row 1 will be the same. The current of the total circuit is the sum of the current through all resistors. This means that the final column in Row 2 will be equal to the sum of all other columns in Row 2. The total resistance diminishes as resistors are added. For a circuit with \u201cn\u201d resistors, the last column in Row 3 will be found with the equation: 1 / ((1/R1) + (1/R2) \u2026 + (1/Rn-1) + (1/Rn))."
+        }
+      ]
+    },
+    {
+      "name":"Knowing the Variables of Ohm\u2019s Law",
+      "steps":[
+        {
+          "headline":"Think of voltage as being similar to pressure.",
+          "description":"Voltage is defined as the difference in charge between one point and another point and is measured in volts, designated \u201cV.\u201d It is often conceptualized by picturing a full tank of water and an empty tank connected by a hose. The full tank of water is at a high pressure, and the empty tank at a low pressure. The difference in water pressure is a similar concept to the difference in charge between the two terminals of a circuit."
+        },
+        {
+          "headline":"Know that current is the flow of charge.",
+          "description":"When there is a difference in charge between two points, you will have current. This is the movement of charge from a point of high charge to a point of low charge and is measured in amperes, shown as \u201cA.\u201d A good analogy is that of a full tank of water attached to an empty tank by a hose. Water will flow from the full tank (high pressure) to the empty tank (low pressure), just as current moves from a point of high charge (source) to a point of low charge (ground)."
+        },
+        {
+          "headline":"Consider how the material resists current.",
+          "description":"Resistance is a property inherent of the material through which current is flowing. It is different for different materials, and is measured in Ohms, designated \u201cohms\u201d. Resistance describes the degree to which the material inhibits current moving through it. High resistance will impede current more, and low resistance will impede the current less."
+        }
+      ]
+    },
+    {
+      "name":"Knowing the Components of a Resistive Circuit",
+      "steps":[
+        {
+          "headline":"Identify your power source.",
+          "description":"There must be a difference in charge before current will flow through a circuit. The point of highest charge in a power source is designated as the positive side, and the point of lowest charge is usually called the negative side. A circuit is run between the positive and negative side. Electricity is harnessed when other elements are put in the circuit to convert the flowing current into useful work."
+        },
+        {
+          "headline":"Understand the meaning of nodes.",
+          "description":"Nodes are simply the junctions between different parts of a circuit. In a typical circuit, the wires between the different parts of the circuit serve as the nodes. Things wired in parallel will have more nodes than things wired in series."
+        },
+        {
+          "headline":"Define a resistor.",
+          "description":"A resistor is an electronic component that limits current. Resistors cannot generate power, but they do consume it. They also have a fixed value of resistance that they provide, and that value does not change."
+        },
+        {
+          "headline":"Know that no other components are present.",
+          "description":"In an ideal resistive circuit, the only components present are the source, the resistor(s), and the nodes (or wires). No other components, capacitors for example, are present in an ideal resistive circuit. In these ideal circuits, current flows according to the principles in Ohm\u2019s Law: V=I\u00d7R{\\displaystyle V=I\\times R}."
+        }
+      ]
+    }
+  ],
+  "text":" Analyzing Resistive Circuits Decide if your circuit is wired in series or parallel. When a circuit is wired in series, there is only one path for current to flow. When a circuit is wired in parallel, there are multiple paths that the current can move through simultaneously. These two types of circuits behave very differently, and it is important to recognize one from the other. Find the voltage of the circuit. Voltage can be calculated for resistive circuits by using Ohm\u2019s Law. In order to do this calculation, you will need to know values for the current and resistance of the circuit. By multiplying these values together, you will find the voltage of the circuit. Take, as an example, a circuit that has a current of 3 Amperes (I = 3A) and a resistance of 2 Ohms (R = 2 ohms). The voltage (V) for this circuit would be found by using the following equation:\nV=I\u00d7R{\\displaystyle V=I\\times R}\nV=3 A\u00d72 ohms{\\displaystyle V=3{\\rm {{\\ A}\\times 2{\\rm {\\ ohms}}}}}\nV=6 V{\\displaystyle V=6{\\rm {\\ V}}} Solve for the current of the circuit. Using Ohm\u2019s Law, current can be calculated for a resistive circuit. To do this calculation, you will need to know the values for the resistance and voltage of the circuit. Divide the voltage by the resistance to obtain the current of the circuit. Take, as an example, a circuit that has a voltage of 6 volts (V = 6V) and a resistance of 2 Ohms (R = 2ohms). The current (I) for this circuit would be found by using the following equation:\nV=I\u00d7R{\\displaystyle V=I\\times R}\nV/I=R{\\displaystyle V/I=R}\n1/I=R/V{\\displaystyle 1/I=R/V}\nI=V/R{\\displaystyle I=V/R}\nI=(6 V)/(2 ohms){\\displaystyle I=(6{\\rm {{\\ V})/(2{\\rm {{\\ ohms})}}}}}\nI=3 A{\\displaystyle I=3{\\rm {\\ A}}} Calculate the resistance of the circuit. Ohm\u2019s Law will allow you to find the resistance of a resistive circuit. You must know the values of voltage and current of the circuit to calculate the resistance. When these values are known, you can find the resistance by dividing the voltage of the circuit by the current. Take, as an example, a circuit that has a voltage of 6 volts (V = 6V) and a resistance of 2 Ohms (R = 2ohms). The current (I) for this circuit would be found by using the following equation:\nV=I\u00d7R{\\displaystyle V=I\\times R}\nV/R=I{\\displaystyle V/R=I}\n1/R=I/V{\\displaystyle 1/R=I/V}\nR=V/I{\\displaystyle R=V/I}\nR=(6 V)/(3 A){\\displaystyle R=(6{\\rm {{\\ V})/(3{\\rm {{\\ A})}}}}}\nR=2 ohms{\\displaystyle R=2{\\rm {\\ ohms}}} Understand the \u201cTable Method.\u201d The table method is a great way to calculate the resistance of different resistors in the same circuit. Make a table with three rows and a column for each resistor in the circuit, plus one for the overall circuit. For example, if you have a circuit with three resistors, you would make a table that is three rows by four columns. The first row will correspond to voltage across each resistor, the second will correspond to current through each resistor, and the third will correspond to the resistance of each resistor. For circuits in parallel:\nThe voltage across all resistors is the same and is equal to the voltage of the total circuit. This means all values in Row 1 will be the same. The current of the total circuit is the sum of the current through all resistors. This means that the final column in Row 2 will be equal to the sum of all other columns in Row 2. The total resistance diminishes as resistors are added. For a circuit with \u201cn\u201d resistors, the last column in Row 3 will be found with the equation: 1 / ((1/R1) + (1/R2) \u2026 + (1/Rn-1) + (1/Rn)). Knowing the Variables of Ohm\u2019s Law Think of voltage as being similar to pressure. Voltage is defined as the difference in charge between one point and another point and is measured in volts, designated \u201cV.\u201d It is often conceptualized by picturing a full tank of water and an empty tank connected by a hose. The full tank of water is at a high pressure, and the empty tank at a low pressure. The difference in water pressure is a similar concept to the difference in charge between the two terminals of a circuit. Know that current is the flow of charge. When there is a difference in charge between two points, you will have current. This is the movement of charge from a point of high charge to a point of low charge and is measured in amperes, shown as \u201cA.\u201d A good analogy is that of a full tank of water attached to an empty tank by a hose. Water will flow from the full tank (high pressure) to the empty tank (low pressure), just as current moves from a point of high charge (source) to a point of low charge (ground). Consider how the material resists current. Resistance is a property inherent of the material through which current is flowing. It is different for different materials, and is measured in Ohms, designated \u201cohms\u201d. Resistance describes the degree to which the material inhibits current moving through it. High resistance will impede current more, and low resistance will impede the current less. Knowing the Components of a Resistive Circuit Identify your power source. There must be a difference in charge before current will flow through a circuit. The point of highest charge in a power source is designated as the positive side, and the point of lowest charge is usually called the negative side. A circuit is run between the positive and negative side. Electricity is harnessed when other elements are put in the circuit to convert the flowing current into useful work. Understand the meaning of nodes. Nodes are simply the junctions between different parts of a circuit. In a typical circuit, the wires between the different parts of the circuit serve as the nodes. Things wired in parallel will have more nodes than things wired in series. Define a resistor. A resistor is an electronic component that limits current. Resistors cannot generate power, but they do consume it. They also have a fixed value of resistance that they provide, and that value does not change. Know that no other components are present. In an ideal resistive circuit, the only components present are the source, the resistor(s), and the nodes (or wires). No other components, capacitors for example, are present in an ideal resistive circuit. In these ideal circuits, current flows according to the principles in Ohm\u2019s Law: V=I\u00d7R{\\displaystyle V=I\\times R}.",
+  "tyn_model":[
+    "water",
+    "table",
+    "voltage",
+    "hose",
+    "current",
+    "resistor",
+    "\u201ctable",
+    "\u201d the",
+    "\u201cn",
+    "\u201d resistors",
+    "\u2026 +",
+    "\u201cv.",
+    "\u201d it",
+    "\u201ca.",
+    "\u201d a",
+    "\u201cohms",
+    "\u201d.",
+    "electricity",
+    "wires"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title":"How to Make a Simple LED Circuit with an Arduino Uno",
+  "url":"https://www.wikihow.com/Make-a-Simple-LED-Circuit-with-an-Arduino-Uno",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Set up the Arduino software on your computer.",
+      "description":"If you haven't done this already, an excellent walk through on how to set it up for the first time can be found in How to Write Arduino Software in C."
+    },
+    {
+      "headline":"Place the desired number of LEDs on the breadboard in series with the resistors.",
+      "description":"The resistor must reach across the \"DIP Support\" section of the breadboard. Start with a 2.2k resistor or higher and work your way down in resistance to desired brightness once you are able to successfully run the program."
+    },
+    {
+      "headline":"Connect the digital output pins from the Arduino to the positive side of the LEDs.",
+      "description":"This will be the lead with the longer stem."
+    },
+    {
+      "headline":"Connect the ground from the Arduino to the breadboard.",
+      "description":"Connect a jumper from the negative leads of each LED to the ground. This will be the lead with the shorter stem. The ground runs the entire length of the board, and is sometimes called the \"power rail\"."
+    },
+    {
+      "headline":"Write a program to turn the LEDs on.",
+      "description":"A sample program to use pins 2 through 9 can be found here: https://pastebin.com/TSdTXA7e\n \n\n\nint time = 500;\nint inittime = 50;\n \nvoid setup()                        // initial setup\n{\n  for(int i=9; i>=2; i--)           // Loops from i=9 down to and including i=2\n  {\n  pinMode(i, OUTPUT);               // sets pin i the digital pin as output\n  delay(inittime);                  // waits for inittime\n  }\n}\n \nvoid loop()\n{\n \n  for(int i=2; i<10; i++)           // Loops from i=2 up to but not including i=10\n  {\n  digitalWrite(i, LOW);             // sets the LED on\n  delay(time);                      // waits for time\n  digitalWrite(i, HIGH);            // sets the LED off\n  delay(time);                      // waits for time\n  }\n}"
+    },
+    {
+      "headline":"Download the program to your Arduino Uno.",
+      "description":"Select the \"Upload\" button to download the program from your computer to your Arduino."
+    },
+    {
+      "headline":"Test your outputs.",
+      "description":"Make edits to your code as needed. Consult forums or adruino.cc for help with coding. Change timing values to experiment with different lighting patterns."
+    }
+  ],
+  "text":" Set up the Arduino software on your computer. If you haven't done this already, an excellent walk through on how to set it up for the first time can be found in How to Write Arduino Software in C. Place the desired number of LEDs on the breadboard in series with the resistors. The resistor must reach across the \"DIP Support\" section of the breadboard. Start with a 2.2k resistor or higher and work your way down in resistance to desired brightness once you are able to successfully run the program. Connect the digital output pins from the Arduino to the positive side of the LEDs. This will be the lead with the longer stem. Connect the ground from the Arduino to the breadboard. Connect a jumper from the negative leads of each LED to the ground. This will be the lead with the shorter stem. The ground runs the entire length of the board, and is sometimes called the \"power rail\". Write a program to turn the LEDs on. A sample program to use pins 2 through 9 can be found here: https://pastebin.com/TSdTXA7e\n \n\n\nint time = 500;\nint inittime = 50;\n \nvoid setup()                        // initial setup\n{\n  for(int i=9; i>=2; i--)           // Loops from i=9 down to and including i=2\n  {\n  pinMode(i, OUTPUT);               // sets pin i the digital pin as output\n  delay(inittime);                  // waits for inittime\n  }\n}\n \nvoid loop()\n{\n \n  for(int i=2; i<10; i++)           // Loops from i=2 up to but not including i=10\n  {\n  digitalWrite(i, LOW);             // sets the LED on\n  delay(time);                      // waits for time\n  digitalWrite(i, HIGH);            // sets the LED off\n  delay(time);                      // waits for time\n  }\n} Download the program to your Arduino Uno. Select the \"Upload\" button to download the program from your computer to your Arduino. Test your outputs. Make edits to your code as needed. Consult forums or adruino.cc for help with coding. Change timing values to experiment with different lighting patterns.",
+  "tyn_model":[
+    "arduino",
+    "arduino software",
+    "leds",
+    "breadboard",
+    "jumper",
+    "program",
+    "uno"
+  ],
+  "tyn_section":[
+
+  ]
+}

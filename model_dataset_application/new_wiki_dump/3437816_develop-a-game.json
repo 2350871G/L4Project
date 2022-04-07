@@ -1,0 +1,110 @@
+{
+  "title":"How to Develop a Game",
+  "url":"https://www.wikihow.com/Develop-a-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "parts":[
+    {
+      "name":"Planning the Concept",
+      "steps":[
+        {
+          "headline":"Understand the scale of the project.",
+          "description":"Before you begin work developing a game, it's important to understand what all needs to go into making a game. Video games have a lot of parts, from the game engine, programming, graphics, animation, to sound and music. All of these take many hours to create. If you've never developed a game before, start simple. Treat your first game as a learning experience rather than a polished project."
+        },
+        {
+          "headline":"Know what your skills are.",
+          "description":"When coming up with an idea for a game, come up with an idea based around your skills. If you are a great artist but have never coded before, pick a game engine that allows you to focus on your art skills while doing minimal coding. On the other hand, if you are a great programmer, but don't have a lot of art skills, you can create a game with great fundamentals that embraces a simplistic art style. Many popular indie games use simple 8-bit graphics or even just basic shapes for graphics."
+        },
+        {
+          "headline":"Decide what the goal of the game is.",
+          "description":"Video games come in a variety of different styles and genres. One thing they all have in common is they all have a goal. Some games have multiple goals and optional side missions. However, plenty of games have a goal that is as simple as \"Get to the end of the level\". Your first game may just be one screen with a dot that you try to navigate to the top of the screen."
+        },
+        {
+          "headline":"Decide how to communicate the goal to the player.",
+          "description":"Once you decide on a goal for the player, you'll need to figure out how to communicate the goal to the player. Some games have a complex narrative with lots of non-player characters (NPCs) that make the player feel like they are part of a living world. Other games have animations or cut-scenes before the start of a level. Some include a tutorial. Some games simply display text that tells the player what to do."
+        },
+        {
+          "headline":"Decide on an obstacle for the player.",
+          "description":"Once you decide on a goal for the player to accomplish, you need to decide on an obstacle that stands in the player's way. This can be a puzzle the player has to solve or platforms the player has to jump on or get around. Does your game have enemies? If so, how do they interact with the player? Does your game have levels, or is it an open-world game?"
+        },
+        {
+          "headline":"Figure out the rules.",
+          "description":"Once you come up with a goal and some obstacles, decide on some basic rules that have a logical flow. If you are designing a platformer game, what happens if the player misses the platform? If your game has enemies, what happens when the player touches or is attacked by an enemy? Does the player have a health bar? Is there a scoring system? Perhaps you want to add a time limit to your game? These are rules you need to decide for your game. If you are new to game design, try to keep the rules as simple as possible."
+        },
+        {
+          "headline":"Decide on a reward for the player.",
+          "description":"Since deciding on a goal for the player and an obstacle. A game should also have a way of rewarding the player for accomplishing the goal. This is what makes a game a satisfying experience. Some games have a final cutscene that shows the hero get a reward for their trouble. Some games give the player power-ups or new items. Other games have a complex leveling system that improves the player's stats over time."
+        },
+        {
+          "headline":"Create concept art.",
+          "description":"If graphics are a big part of your game, you'll want to figure out an art style for your game. Concept art allows you to put your ideas down on paper before you start building them as assets in a game. You'll want to create concept art for all your characters, NPCs and enemies. You'll want to keep the overall art style consistent, so figure out what art style you want before you start building. If your game has multiple levels, you'll want to create a sketch for how each level looks. You'll also want to map out the level design for each level on paper."
+        },
+        {
+          "headline":"Create a game design document.",
+          "description":"This is especially useful if you are designing a more complex game with a team of people. A game design document can contain the basic game mechanics and design. It can also contain plot points, character biographies, concept art, as well as level maps and objectives. This helps get your entire team on the same page."
+        }
+      ]
+    },
+    {
+      "name":"Developing the Game",
+      "steps":[
+        {
+          "headline":"Pick a game engine.",
+          "description":"The game engine is the backbone of the game. It renders the graphics and sound. It controls the game physics, collision detection, scripting, artificial intelligence and more. Picking the right game engine depends on your skill level and the needs of your game. Many game engines allow you to download a free version for personal use to test out. Here are a few game engines you can try:\n\nGame Maker Studio 2:  Game Maker Studio 2 is a good place to start if you are a beginner. It focuses on games with 2D graphics. It's one of the easier game engines to learn. Game Maker Studio 2 has a free 30 day trial, and then starts at $39 a year. Unity: Unity is a popular game engine that has been used to create many popular games on PC, mobile, and game consoles including, Angry Birds 2, Cuphead, and Sonic Forces. It is used to create both 2D and 3D games. It has an intuitive user interface that makes it fairly easy for beginners to learn. You can download the Personal Edition which comes with the core features completely free. The Plus Edition starts at $25 a month. Unreal:. Unreal is one of the most popular game engines. It has been used to create many popular games, including the Batman Arkham games, Mortal Kombat, and Deus X. It is a full-featured game engine that supports high-end graphics. It is also one of the more difficult game engines to learn. This makes it more ideal for advanced game developers. A full version of Unreal is free to download, however, you will need to pay a 5% royalty after the first $3000 dollars per quarter for any games you publish using Unreal."
+        },
+        {
+          "headline":"Learn how to use the game engine.",
+          "description":"Game engines are some of the most complex software you can purchase. Even if you are an experienced programmer, there are still probably going to be things you don't know how to do. Read the user's manual for the game engine you download. Watch YouTube tutorials and take classes online. Learn what you need to build and how to build it. If you get stuck on a problem, find someone who can help you solve it."
+        },
+        {
+          "headline":"Set a deadline.",
+          "description":"Whether you creating your first game or a AAA production, you'll need to have a deadline set for how long the project is going to take. If you are new to game design, set a month as your deadline to create a small game. Many unexpected things will come up during the development process, so expect to go over your deadline. However, if you go past your deadline by too much, you may want to scale back your project."
+        },
+        {
+          "headline":"Build a working prototype.",
+          "description":"This should be done as quickly as possible. It doesn't have to look good. It doesn't need to have all the features you want to add. It just needs to be one basic level with a basic playable character and a basic obstacle. This is used to build and test the core mechanics of your game."
+        },
+        {
+          "headline":"Test your prototype.",
+          "description":"You'll learn a lot by playing your game. You may find some of the game mechanics don't work or certain parts aren't as engaging as you thought they'd be. You'll also discover what you can add to the game to make the game better."
+        },
+        {
+          "headline":"Build your assets.",
+          "description":"After you have built a working prototype and you are confident that your game mechanics are working properly, you can start building the assets for your game. This includes adding additional levels, character animations, enemies, power-ups and any additional features you want to add. It also includes adding character models and decorating your levels so that the game starts to look aesthetically pleasing, though you should focus on aesthetics last. If your not sure how to build something, many game engines have an assets store where you can purchase game assets built by other people. You can also check for tutorials online to learn how to solve problems that may arise during the game development process. Be careful not to add too much content right away. This can obscure the core mechanics of the game and make it difficult for play-testers to give proper feedback."
+        },
+        {
+          "headline":"Beta-test your game.",
+          "description":"While you can learn a lot by playing your game yourself, you can also learn a lot by watching other people play your game. Real players may do things you didn't anticipate and point out things about the experience that you are not taking into account. Get other people to play your game. Even if it's your first game and you think it's not any good."
+        },
+        {
+          "headline":"Market your game.",
+          "description":"As you start nearing the end of the development process, you'll need to start getting the word out about your game. Know what's unique about your game. What experience does your game provide that other games don't? Push that message to as many people as you can. Create a website for your game and a video trailer. Plug your game on social media. Email your game to video game websites and video game tastemakers."
+        },
+        {
+          "headline":"Launch your game.",
+          "description":"Game engines such as Unity and Unreal make it easy to create ports of your game for any game system. Once you've published your game through your game engine, get it on as many digital distributors as possible. This includes Steam, Google Play Store, Apple's App Store. Even the Playstation Store, Xbox One, and Nintendo eShop are easier to get on than ever before. There's going to be QA and licensing standards that you'll have to get passed for each digital distributors. Learn what those standards are and make sure your game is able to pass those standards. You can also look at specialty distributors like Slitherine."
+        }
+      ]
+    }
+  ],
+  "text":" Planning the Concept Understand the scale of the project. Before you begin work developing a game, it's important to understand what all needs to go into making a game. Video games have a lot of parts, from the game engine, programming, graphics, animation, to sound and music. All of these take many hours to create. If you've never developed a game before, start simple. Treat your first game as a learning experience rather than a polished project. Know what your skills are. When coming up with an idea for a game, come up with an idea based around your skills. If you are a great artist but have never coded before, pick a game engine that allows you to focus on your art skills while doing minimal coding. On the other hand, if you are a great programmer, but don't have a lot of art skills, you can create a game with great fundamentals that embraces a simplistic art style. Many popular indie games use simple 8-bit graphics or even just basic shapes for graphics. Decide what the goal of the game is. Video games come in a variety of different styles and genres. One thing they all have in common is they all have a goal. Some games have multiple goals and optional side missions. However, plenty of games have a goal that is as simple as \"Get to the end of the level\". Your first game may just be one screen with a dot that you try to navigate to the top of the screen. Decide how to communicate the goal to the player. Once you decide on a goal for the player, you'll need to figure out how to communicate the goal to the player. Some games have a complex narrative with lots of non-player characters (NPCs) that make the player feel like they are part of a living world. Other games have animations or cut-scenes before the start of a level. Some include a tutorial. Some games simply display text that tells the player what to do. Decide on an obstacle for the player. Once you decide on a goal for the player to accomplish, you need to decide on an obstacle that stands in the player's way. This can be a puzzle the player has to solve or platforms the player has to jump on or get around. Does your game have enemies? If so, how do they interact with the player? Does your game have levels, or is it an open-world game? Figure out the rules. Once you come up with a goal and some obstacles, decide on some basic rules that have a logical flow. If you are designing a platformer game, what happens if the player misses the platform? If your game has enemies, what happens when the player touches or is attacked by an enemy? Does the player have a health bar? Is there a scoring system? Perhaps you want to add a time limit to your game? These are rules you need to decide for your game. If you are new to game design, try to keep the rules as simple as possible. Decide on a reward for the player. Since deciding on a goal for the player and an obstacle. A game should also have a way of rewarding the player for accomplishing the goal. This is what makes a game a satisfying experience. Some games have a final cutscene that shows the hero get a reward for their trouble. Some games give the player power-ups or new items. Other games have a complex leveling system that improves the player's stats over time. Create concept art. If graphics are a big part of your game, you'll want to figure out an art style for your game. Concept art allows you to put your ideas down on paper before you start building them as assets in a game. You'll want to create concept art for all your characters, NPCs and enemies. You'll want to keep the overall art style consistent, so figure out what art style you want before you start building. If your game has multiple levels, you'll want to create a sketch for how each level looks. You'll also want to map out the level design for each level on paper. Create a game design document. This is especially useful if you are designing a more complex game with a team of people. A game design document can contain the basic game mechanics and design. It can also contain plot points, character biographies, concept art, as well as level maps and objectives. This helps get your entire team on the same page. Developing the Game Pick a game engine. The game engine is the backbone of the game. It renders the graphics and sound. It controls the game physics, collision detection, scripting, artificial intelligence and more. Picking the right game engine depends on your skill level and the needs of your game. Many game engines allow you to download a free version for personal use to test out. Here are a few game engines you can try:\n\nGame Maker Studio 2:  Game Maker Studio 2 is a good place to start if you are a beginner. It focuses on games with 2D graphics. It's one of the easier game engines to learn. Game Maker Studio 2 has a free 30 day trial, and then starts at $39 a year. Unity: Unity is a popular game engine that has been used to create many popular games on PC, mobile, and game consoles including, Angry Birds 2, Cuphead, and Sonic Forces. It is used to create both 2D and 3D games. It has an intuitive user interface that makes it fairly easy for beginners to learn. You can download the Personal Edition which comes with the core features completely free. The Plus Edition starts at $25 a month. Unreal:. Unreal is one of the most popular game engines. It has been used to create many popular games, including the Batman Arkham games, Mortal Kombat, and Deus X. It is a full-featured game engine that supports high-end graphics. It is also one of the more difficult game engines to learn. This makes it more ideal for advanced game developers. A full version of Unreal is free to download, however, you will need to pay a 5% royalty after the first $3000 dollars per quarter for any games you publish using Unreal. Learn how to use the game engine. Game engines are some of the most complex software you can purchase. Even if you are an experienced programmer, there are still probably going to be things you don't know how to do. Read the user's manual for the game engine you download. Watch YouTube tutorials and take classes online. Learn what you need to build and how to build it. If you get stuck on a problem, find someone who can help you solve it. Set a deadline. Whether you creating your first game or a AAA production, you'll need to have a deadline set for how long the project is going to take. If you are new to game design, set a month as your deadline to create a small game. Many unexpected things will come up during the development process, so expect to go over your deadline. However, if you go past your deadline by too much, you may want to scale back your project. Build a working prototype. This should be done as quickly as possible. It doesn't have to look good. It doesn't need to have all the features you want to add. It just needs to be one basic level with a basic playable character and a basic obstacle. This is used to build and test the core mechanics of your game. Test your prototype. You'll learn a lot by playing your game. You may find some of the game mechanics don't work or certain parts aren't as engaging as you thought they'd be. You'll also discover what you can add to the game to make the game better. Build your assets. After you have built a working prototype and you are confident that your game mechanics are working properly, you can start building the assets for your game. This includes adding additional levels, character animations, enemies, power-ups and any additional features you want to add. It also includes adding character models and decorating your levels so that the game starts to look aesthetically pleasing, though you should focus on aesthetics last. If your not sure how to build something, many game engines have an assets store where you can purchase game assets built by other people. You can also check for tutorials online to learn how to solve problems that may arise during the game development process. Be careful not to add too much content right away. This can obscure the core mechanics of the game and make it difficult for play-testers to give proper feedback. Beta-test your game. While you can learn a lot by playing your game yourself, you can also learn a lot by watching other people play your game. Real players may do things you didn't anticipate and point out things about the experience that you are not taking into account. Get other people to play your game. Even if it's your first game and you think it's not any good. Market your game. As you start nearing the end of the development process, you'll need to start getting the word out about your game. Know what's unique about your game. What experience does your game provide that other games don't? Push that message to as many people as you can. Create a website for your game and a video trailer. Plug your game on social media. Email your game to video game websites and video game tastemakers. Launch your game. Game engines such as Unity and Unreal make it easy to create ports of your game for any game system. Once you've published your game through your game engine, get it on as many digital distributors as possible. This includes Steam, Google Play Store, Apple's App Store. Even the Playstation Store, Xbox One, and Nintendo eShop are easier to get on than ever before. There's going to be QA and licensing standards that you'll have to get passed for each digital distributors. Learn what those standards are and make sure your game is able to pass those standards. You can also look at specialty distributors like Slitherine.",
+  "tyn_model":[
+    "game engine",
+    "game engines",
+    "unreal",
+    "concept art",
+    "game design document",
+    "game maker studio",
+    "unity",
+    "8-bit graphics",
+    "game maker",
+    "angry birds 2",
+    "unreal:"
+  ],
+  "tyn_section":[
+
+  ]
+}

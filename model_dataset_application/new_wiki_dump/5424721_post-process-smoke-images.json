@@ -1,0 +1,163 @@
+{
+  "title":"How to Post Process Smoke Images",
+  "url":"https://www.wikihow.com/Post-Process-Smoke-Images",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Editing"
+  ],
+  "methods":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"Shoot the image in the best possible light and with a very dark background.",
+          "description":"This will lessen the cleanup that you will have to do."
+        },
+        {
+          "headline":"Shoot in RAW, if possible.",
+          "description":"It isn't required, but it certainly can help in processing it."
+        },
+        {
+          "headline":"Open your image in your software of choice.",
+          "description":""
+        },
+        {
+          "headline":"If shot in RAW, process the image in your chosen editor.",
+          "description":"The software here is Camera RAW."
+        },
+        {
+          "headline":"Adjust your file as needed.",
+          "description":"Some of the steps that you may need to take are:\nAdjusting the white point. This will help bring out the white of the smoke if it is hard to see. Possibly bringing down the exposure\nTry adding to the contrast\nAdjust (increase) the black point\nExperiment with the temperature and tint, as well."
+        },
+        {
+          "headline":"Crop your image the way you want it.",
+          "description":"That will reduce the cleanup that you have to do."
+        },
+        {
+          "headline":"Zoom in closer to your image and use a clone tool, or whichever tool you prefer, to get rid of the spots that you will see.",
+          "description":"To get an idea about how much cleanup you have to do, select the Selection wand, with a tolerance of about 20 or so, and click on the black. You will quickly see where the errant spots are."
+        },
+        {
+          "headline":"Look closely.",
+          "description":"Depending on your mood or the day, you may see different things. Some things that you can do are invert its color, mirror it, etc."
+        }
+      ]
+    },
+    {
+      "name":"Enhancing the Smoke Trail",
+      "steps":[
+        {
+          "headline":"Open your image in Photoshop.",
+          "description":"Photoshop CC is what is shown in the screenshots."
+        },
+        {
+          "headline":"Go to Windows >> Channels.",
+          "description":"This will bring up the Channels options and you will see the RGB, Red, Yellow, and Blue channels."
+        },
+        {
+          "headline":"Click the one that contains the smoke information with the most detail.",
+          "description":"The green channel in this image. Alternatively, you can press Ctrl+4."
+        },
+        {
+          "headline":"Click on the dotted line at the bottom of the dialog.",
+          "description":"This will load the channel as a selection."
+        },
+        {
+          "headline":"Fill the selection with white.",
+          "description":"Go to Layers >> New Fill Layer >> Solid Color... Select Luminosity for the Mode and the Opacity at 100%. In the RGB options, but 255 in each box.. Select OK."
+        },
+        {
+          "headline":"Add a transparent layer (Ctrl+N).",
+          "description":""
+        },
+        {
+          "headline":"Select the Paint brush with black as the foreground color.",
+          "description":""
+        },
+        {
+          "headline":"On the transparent layer, color out wherever you see something that you want to get rid of.",
+          "description":""
+        },
+        {
+          "headline":"Create a new flattened layer by pressing down Ctrl+Alt+\u21e7 Shift+E.",
+          "description":""
+        },
+        {
+          "headline":"Make sure that new layer is selected and select Image >> Adjustments >> Invert.",
+          "description":"This will invert your image's colors. Alternatively, use Ctrl+I."
+        },
+        {
+          "headline":"Darken your midtones.",
+          "description":"Add a curves adjustment layer. Choose the blending mode for the new layer to Luminosity. Click in the middle of the curves line and drag it straight out a small amount."
+        }
+      ]
+    },
+    {
+      "name":"Colorizing Your Smoke",
+      "steps":[
+        {
+          "headline":"Create a new layer.",
+          "description":""
+        },
+        {
+          "headline":"Create or choose a gradient.",
+          "description":""
+        },
+        {
+          "headline":"In the new transparent layer, apply the gradient.",
+          "description":"Make sure that you like its appearance."
+        },
+        {
+          "headline":"Set the layer mode to Color.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Getting a Negative",
+      "steps":[
+        {
+          "headline":"Be sure that the image is as clean as you can get it.",
+          "description":""
+        },
+        {
+          "headline":"Press Ctrl+I to invert the layer.",
+          "description":"Now you will have everything in its exact opposite color."
+        }
+      ]
+    },
+    {
+      "name":"Mirroring Your Smoke",
+      "steps":[
+        {
+          "headline":"Have your basically processed image.",
+          "description":"Expand the canvas to twice the size of your smoke image. Or more, depending on your end purpose."
+        },
+        {
+          "headline":"Make a selection of the smoke and invert it.",
+          "description":"(Ctrl+\u21e7 Shift+I)"
+        },
+        {
+          "headline":"Duplicate the layer and flip it so that it is 'reflected'.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Steps Shoot the image in the best possible light and with a very dark background. This will lessen the cleanup that you will have to do. Shoot in RAW, if possible. It isn't required, but it certainly can help in processing it. Open your image in your software of choice.  If shot in RAW, process the image in your chosen editor. The software here is Camera RAW. Adjust your file as needed. Some of the steps that you may need to take are:\nAdjusting the white point. This will help bring out the white of the smoke if it is hard to see. Possibly bringing down the exposure\nTry adding to the contrast\nAdjust (increase) the black point\nExperiment with the temperature and tint, as well. Crop your image the way you want it. That will reduce the cleanup that you have to do. Zoom in closer to your image and use a clone tool, or whichever tool you prefer, to get rid of the spots that you will see. To get an idea about how much cleanup you have to do, select the Selection wand, with a tolerance of about 20 or so, and click on the black. You will quickly see where the errant spots are. Look closely. Depending on your mood or the day, you may see different things. Some things that you can do are invert its color, mirror it, etc. Enhancing the Smoke Trail Open your image in Photoshop. Photoshop CC is what is shown in the screenshots. Go to Windows >> Channels. This will bring up the Channels options and you will see the RGB, Red, Yellow, and Blue channels. Click the one that contains the smoke information with the most detail. The green channel in this image. Alternatively, you can press Ctrl+4. Click on the dotted line at the bottom of the dialog. This will load the channel as a selection. Fill the selection with white. Go to Layers >> New Fill Layer >> Solid Color... Select Luminosity for the Mode and the Opacity at 100%. In the RGB options, but 255 in each box.. Select OK. Add a transparent layer (Ctrl+N).  Select the Paint brush with black as the foreground color.  On the transparent layer, color out wherever you see something that you want to get rid of.  Create a new flattened layer by pressing down Ctrl+Alt+\u21e7 Shift+E.  Make sure that new layer is selected and select Image >> Adjustments >> Invert. This will invert your image's colors. Alternatively, use Ctrl+I. Darken your midtones. Add a curves adjustment layer. Choose the blending mode for the new layer to Luminosity. Click in the middle of the curves line and drag it straight out a small amount. Colorizing Your Smoke Create a new layer.  Create or choose a gradient.  In the new transparent layer, apply the gradient. Make sure that you like its appearance. Set the layer mode to Color.  Getting a Negative Be sure that the image is as clean as you can get it.  Press Ctrl+I to invert the layer. Now you will have everything in its exact opposite color. Mirroring Your Smoke Have your basically processed image. Expand the canvas to twice the size of your smoke image. Or more, depending on your end purpose. Make a selection of the smoke and invert it. (Ctrl+\u21e7 Shift+I) Duplicate the layer and flip it so that it is 'reflected'. ",
+  "tyn_model":[
+    "smoke",
+    "gradient",
+    "camera raw",
+    "photoshop",
+    "luminosity",
+    "paint brush",
+    "\u21e7 shift+e.",
+    "canvas",
+    "\u21e7 shift+i"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title":"How to Create a Graph in Google Sheets",
+  "url":"https://www.wikihow.com/Create-a-Graph-in-Google-Sheets",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Drawing",
+    "Drawing Shapes"
+  ],
+  "steps":[
+    {
+      "headline":"Open the Google Sheets page.",
+      "description":"Go to https://sheets.google.com in your browser. This will open the Google Sheets dashboard if you're logged into your Google account. If you aren't logged into your Google account, you'll need to enter your email address and password when prompted before continuing."
+    },
+    {
+      "headline":"Click Blank.",
+      "description":"It's in the upper-left side of the page. Doing so will open a new, blank spreadsheet. If you have a spreadsheet with data already in it, click it and then skip to the \"Select your data\" step."
+    },
+    {
+      "headline":"Create your headers.",
+      "description":"Click cell A1, enter the x-axis label, and then click cell B1 and enter the y-axis label. If you wanted to document the number of cups of coffee you drink throughout the day, for example, you might put \"Hours\" in cell A1 and \"Cups of Coffee\" in cell B1. Depending on the type of graph you make, the label placement may vary slightly. You can add additional headers in C1, D1, and so on if your graph contains more than two sets of data."
+    },
+    {
+      "headline":"Enter your data.",
+      "description":"Type your x-axis data into the A column of cells, then type your y-axis data into the B column of cells. If you have more than two columns of headers to fill, enter information for them as well."
+    },
+    {
+      "headline":"Select your data.",
+      "description":"Click cell A1, then hold down \u21e7 Shift while clicking the bottom cell in the right-most column of data. This will select your entire set of data in blue."
+    },
+    {
+      "headline":"Click Insert.",
+      "description":"It's a tab near the top-left side of the page. A drop-down menu will appear."
+    },
+    {
+      "headline":"Click Chart.",
+      "description":"You'll find this option in the middle of the Insert drop-down menu. Clicking it creates a default chart from your data and brings up a window on the right side of the page."
+    },
+    {
+      "headline":"Select a chart format.",
+      "description":"Click the \"Chart type\" box at the top of the window, then click a chart format in the drop-down box that appears. The chart in the middle of the page will change to reflect your selection."
+    },
+    {
+      "headline":"Share the graph.",
+      "description":"Click File, click Share... in the drop-down menu, enter a name and click Save if prompted, and then enter an email address (or a series of email addresses) and click Send. You can first click the CUSTOMIZE tab at the top of the chart window to customize the graph's appearance, labels, and so on."
+    }
+  ],
+  "text":" Open the Google Sheets page. Go to https://sheets.google.com in your browser. This will open the Google Sheets dashboard if you're logged into your Google account. If you aren't logged into your Google account, you'll need to enter your email address and password when prompted before continuing. Click Blank. It's in the upper-left side of the page. Doing so will open a new, blank spreadsheet. If you have a spreadsheet with data already in it, click it and then skip to the \"Select your data\" step. Create your headers. Click cell A1, enter the x-axis label, and then click cell B1 and enter the y-axis label. If you wanted to document the number of cups of coffee you drink throughout the day, for example, you might put \"Hours\" in cell A1 and \"Cups of Coffee\" in cell B1. Depending on the type of graph you make, the label placement may vary slightly. You can add additional headers in C1, D1, and so on if your graph contains more than two sets of data. Enter your data. Type your x-axis data into the A column of cells, then type your y-axis data into the B column of cells. If you have more than two columns of headers to fill, enter information for them as well. Select your data. Click cell A1, then hold down \u21e7 Shift while clicking the bottom cell in the right-most column of data. This will select your entire set of data in blue. Click Insert. It's a tab near the top-left side of the page. A drop-down menu will appear. Click Chart. You'll find this option in the middle of the Insert drop-down menu. Clicking it creates a default chart from your data and brings up a window on the right side of the page. Select a chart format. Click the \"Chart type\" box at the top of the window, then click a chart format in the drop-down box that appears. The chart in the middle of the page will change to reflect your selection. Share the graph. Click File, click Share... in the drop-down menu, enter a name and click Save if prompted, and then enter an email address (or a series of email addresses) and click Send. You can first click the CUSTOMIZE tab at the top of the chart window to customize the graph's appearance, labels, and so on.",
+  "tyn_model":[
+    "google sheets",
+    "spreadsheet",
+    "headers",
+    "\u21e7 shift",
+    "chart",
+    "chart format"
+  ],
+  "tyn_section":[
+
+  ]
+}

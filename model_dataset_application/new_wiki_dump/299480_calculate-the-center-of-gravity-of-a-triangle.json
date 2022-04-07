@@ -1,0 +1,88 @@
+{
+  "title":"How to Calculate the Center of Gravity of a Triangle",
+  "url":"https://www.wikihow.com/Calculate-the-Center-of-Gravity-of-a-Triangle",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "methods":[
+    {
+      "name":"Using Intersecting Medians",
+      "steps":[
+        {
+          "headline":"Find the midpoint of one side of the triangle.",
+          "description":"To find the midpoint, measure the side, and divide the length in half. Label the midpoint A. For example, if one side of the triangle is 10 cm long, the midpoint will be at 5 cm, since 10/2=5{\\displaystyle 10/2=5}."
+        },
+        {
+          "headline":"Find the midpoint of a second side of the triangle.",
+          "description":"Measure the length of the side, and divide the length in half. Label the midpoint B. For example, if the side of the triangle is 12 cm long, the midpoint will be at 6 cm, since 12/2=6{\\displaystyle 12/2=6}."
+        },
+        {
+          "headline":"Draw a line from the midpoint of each side to its opposite vertex.",
+          "description":"These two lines are the median of each side. A vertex is the point at which two sides of a triangle meet."
+        },
+        {
+          "headline":"Draw a point where the two medians intersect.",
+          "description":"This point is the triangle's center of gravity, also called the centroid, or center of mass. The center of gravity is where the three medians intersect, but since the medians only intersect in one point, you can use a shortcut and find the center of gravity by only finding the intersection of two medians."
+        }
+      ]
+    },
+    {
+      "name":"Using the 2:1 Ratio",
+      "steps":[
+        {
+          "headline":"Draw a median of your triangle.",
+          "description":"Remember, the median is a line drawn from the midpoint of a side to the opposite vertex. You can use any median in the triangle."
+        },
+        {
+          "headline":"Measure the length of the median.",
+          "description":"Make sure the measurement is exact. For example, you might have a median that is 3.6 cm long."
+        },
+        {
+          "headline":"Divide the length of the median into thirds.",
+          "description":"To do this, divide the length by three. Again, make an exact calculation. If you round, you will not find the center of gravity. For example, if your median is 3.6 cm long, you would divide 3.6 by 3:3.6cm/3=1.2cm{\\displaystyle 3.6cm/3=1.2cm}, so \u2153 of the median is 1.2 cm."
+        },
+        {
+          "headline":"Mark a point on the median \u2153 from the midpoint.",
+          "description":"This point is the triangle's centroid, which will always divide a median into a 2:1 ratio; that is, the centroid is \u2153 the median's distance from the midpoint, and \u2154 the median's distance from the vertex. For example, on a median that is 3.6 cm long, the centroid will be 1.2 cm up from the midpoint."
+        }
+      ]
+    },
+    {
+      "name":"Using Averaged Coordinates",
+      "steps":[
+        {
+          "headline":"Determine the coordinates of the three vertices of the triangle.",
+          "description":"This method only works if you are working with a coordinate plane. The coordinates may already be given, or you may have a triangle drawn on a graph without the coordinates labeled. Remember that coordinates should be listed (x,y){\\displaystyle (x,y)}. For example, you might be given triangle PQR, and you need to find and label point P (3, 5), point Q (4, 1), and R (1, 0)."
+        },
+        {
+          "headline":"Add the value of the x-coordinates.",
+          "description":"Remember to add all three coordinates. You will not calculate the correct center of gravity if you only use two coordinates. For example, if your three x-coordinates are 3, 4, and 1, add these three values together: 3+4+1=8{\\displaystyle 3+4+1=8}."
+        },
+        {
+          "headline":"Add the value of the y-coordinates.",
+          "description":"Remember to add all three coordinates. For example, if your three y-coordinates are 5, 1, and 0, add these three values together: 5+1+0=6{\\displaystyle 5+1+0=6}."
+        },
+        {
+          "headline":"Find the average of the x- and y-coordinates.",
+          "description":"These coordinates will correspond to the triangle's center of gravity, also known as the centroid or center of mass. To find the average, divide the sum of the coordinates by 3. For example, if the sum of your x-coordinates is 8, the average x-coordinate is 8/3{\\displaystyle 8/3}. If the sum of your y-coordinates is 6, the average y-coordinate is 6/3{\\displaystyle 6/3}, or 2{\\displaystyle 2}."
+        },
+        {
+          "headline":"Plot the center of gravity on the triangle.",
+          "description":"The center of gravity, or centroid, is the average of the x- and y-coordinates. In the example problem, the center of gravity is the point (8/3,2){\\displaystyle (8/3,2)}."
+        }
+      ]
+    }
+  ],
+  "text":" Using Intersecting Medians Find the midpoint of one side of the triangle. To find the midpoint, measure the side, and divide the length in half. Label the midpoint A. For example, if one side of the triangle is 10 cm long, the midpoint will be at 5 cm, since 10/2=5{\\displaystyle 10/2=5}. Find the midpoint of a second side of the triangle. Measure the length of the side, and divide the length in half. Label the midpoint B. For example, if the side of the triangle is 12 cm long, the midpoint will be at 6 cm, since 12/2=6{\\displaystyle 12/2=6}. Draw a line from the midpoint of each side to its opposite vertex. These two lines are the median of each side. A vertex is the point at which two sides of a triangle meet. Draw a point where the two medians intersect. This point is the triangle's center of gravity, also called the centroid, or center of mass. The center of gravity is where the three medians intersect, but since the medians only intersect in one point, you can use a shortcut and find the center of gravity by only finding the intersection of two medians. Using the 2:1 Ratio Draw a median of your triangle. Remember, the median is a line drawn from the midpoint of a side to the opposite vertex. You can use any median in the triangle. Measure the length of the median. Make sure the measurement is exact. For example, you might have a median that is 3.6 cm long. Divide the length of the median into thirds. To do this, divide the length by three. Again, make an exact calculation. If you round, you will not find the center of gravity. For example, if your median is 3.6 cm long, you would divide 3.6 by 3:3.6cm/3=1.2cm{\\displaystyle 3.6cm/3=1.2cm}, so \u2153 of the median is 1.2 cm. Mark a point on the median \u2153 from the midpoint. This point is the triangle's centroid, which will always divide a median into a 2:1 ratio; that is, the centroid is \u2153 the median's distance from the midpoint, and \u2154 the median's distance from the vertex. For example, on a median that is 3.6 cm long, the centroid will be 1.2 cm up from the midpoint. Using Averaged Coordinates Determine the coordinates of the three vertices of the triangle. This method only works if you are working with a coordinate plane. The coordinates may already be given, or you may have a triangle drawn on a graph without the coordinates labeled. Remember that coordinates should be listed (x,y){\\displaystyle (x,y)}. For example, you might be given triangle PQR, and you need to find and label point P (3, 5), point Q (4, 1), and R (1, 0). Add the value of the x-coordinates. Remember to add all three coordinates. You will not calculate the correct center of gravity if you only use two coordinates. For example, if your three x-coordinates are 3, 4, and 1, add these three values together: 3+4+1=8{\\displaystyle 3+4+1=8}. Add the value of the y-coordinates. Remember to add all three coordinates. For example, if your three y-coordinates are 5, 1, and 0, add these three values together: 5+1+0=6{\\displaystyle 5+1+0=6}. Find the average of the x- and y-coordinates. These coordinates will correspond to the triangle's center of gravity, also known as the centroid or center of mass. To find the average, divide the sum of the coordinates by 3. For example, if the sum of your x-coordinates is 8, the average x-coordinate is 8/3{\\displaystyle 8/3}. If the sum of your y-coordinates is 6, the average y-coordinate is 6/3{\\displaystyle 6/3}, or 2{\\displaystyle 2}. Plot the center of gravity on the triangle. The center of gravity, or centroid, is the average of the x- and y-coordinates. In the example problem, the center of gravity is the point (8/3,2){\\displaystyle (8/3,2)}.",
+  "tyn_model":[
+    "triangle",
+    "\u2153 of",
+    "\u2153 from",
+    "\u2153 the",
+    "\u2154 the",
+    "graph"
+  ],
+  "tyn_section":[
+
+  ]
+}

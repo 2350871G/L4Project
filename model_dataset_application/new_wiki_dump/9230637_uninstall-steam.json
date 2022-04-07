@@ -1,0 +1,151 @@
+{
+  "title":"How to Uninstall Steam",
+  "url":"https://www.wikihow.com/Uninstall-Steam",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "methods":[
+    {
+      "name":"Uninstalling Steam on Windows 10",
+      "steps":[
+        {
+          "headline":"Open the Settings app.",
+          "description":"Click the Start {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"bigUrl\":\"\\/images\\/thumb\\/0\\/07\\/Windowsstart.png\\/30px-Windowsstart.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} button and select the settings gear {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d0\\/Windowssettings.png\\/31px-Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":\"31\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}."
+        },
+        {
+          "headline":"Go to the Apps category.",
+          "description":""
+        },
+        {
+          "headline":"Ensure Apps & features is selected to the left pane.",
+          "description":""
+        },
+        {
+          "headline":"Find and click \"Steam\" in the apps list.",
+          "description":""
+        },
+        {
+          "headline":"Click the Uninstall button.",
+          "description":""
+        },
+        {
+          "headline":"Allow the uninstall process to finish.",
+          "description":"Confirm any prompts if prompted."
+        }
+      ]
+    },
+    {
+      "name":"Uninstalling Steam on Windows 8 and 7",
+      "steps":[
+        {
+          "headline":"Open the Control Panel.",
+          "description":"Windows 8: Right-click the Start {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"bigUrl\":\"\\/images\\/thumb\\/0\\/07\\/Windowsstart.png\\/30px-Windowsstart.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} button and click Control Panel. Windows 7: Click the Start {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/b\\/b3\\/Windowswindows7_start.png\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/b3\\/Windowswindows7_start.png\\/30px-Windowswindows7_start.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows 7 icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} button and click Control Panel in the right column."
+        },
+        {
+          "headline":"Click \"Uninstall a Program\" under the \"Programs\" header.",
+          "description":"This is towards the bottom-left of the window."
+        },
+        {
+          "headline":"Find and select \"Steam\" in the apps list.",
+          "description":""
+        },
+        {
+          "headline":"Click the Uninstall button.",
+          "description":"It's right above the apps list."
+        },
+        {
+          "headline":"Allow the uninstall process to finish.",
+          "description":""
+        },
+        {
+          "headline":"Allow the uninstall process to finish.",
+          "description":"Confirm any prompts if prompted."
+        }
+      ]
+    },
+    {
+      "name":"Uninstalling Steam on a Mac",
+      "steps":[
+        {
+          "headline":"Open up the Applications list.",
+          "description":"Open Finder and press \u2318 Command+\u21e7 Shift+A simultaneously."
+        },
+        {
+          "headline":"Drag Steam to the trash.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Go\" from the menu bar.",
+          "description":""
+        },
+        {
+          "headline":"Hold down the \u2325 Option key (also known as the alt key) until you see the \"Library\" folder.",
+          "description":""
+        },
+        {
+          "headline":"Open the folder from the drop-down menu.",
+          "description":""
+        },
+        {
+          "headline":"Find and navigate to \"Library\\Application Support\\Steam\".",
+          "description":""
+        },
+        {
+          "headline":"Delete Steam data from your computer depending on whether you want to keep your game data or not.",
+          "description":"If you want to keep your data, delete all files and folders in \"\\Steam\" except the \"\\SteamApps\" folder. If not, simply delete the entire Steam folder."
+        },
+        {
+          "headline":"Empty the trash.",
+          "description":"Select \"Finder\" from the top toolbar, then select \"Empty Trash\". Confirm by clicking OK."
+        }
+      ]
+    },
+    {
+      "name":"Uninstall Steam on Linux (Ubuntu)",
+      "steps":[
+        {
+          "headline":"Open a \"Terminal\" window.",
+          "description":"Press Ctrl+Alt+T simultaneously."
+        },
+        {
+          "headline":"Type sudo apt-get remove steam and hit \u21b5 Enter.",
+          "description":""
+        },
+        {
+          "headline":"Type sudo apt-get purge steam and hit \u21b5 Enter.",
+          "description":""
+        },
+        {
+          "headline":"Type rm -rf ~/.local/share/Steam && rm -rf ~/.steam and hit \u21b5 Enter.",
+          "description":""
+        },
+        {
+          "headline":"Exit the Terminal window.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Uninstalling Steam on Windows 10 Open the Settings app. Click the Start {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"bigUrl\":\"\\/images\\/thumb\\/0\\/07\\/Windowsstart.png\\/30px-Windowsstart.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} button and select the settings gear {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/d\\/d0\\/Windowssettings.png\",\"bigUrl\":\"\\/images\\/thumb\\/d\\/d0\\/Windowssettings.png\\/31px-Windowssettings.png\",\"smallWidth\":460,\"smallHeight\":445,\"bigWidth\":\"31\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"}. Go to the Apps category.  Ensure Apps & features is selected to the left pane.  Find and click \"Steam\" in the apps list.  Click the Uninstall button.  Allow the uninstall process to finish. Confirm any prompts if prompted. Uninstalling Steam on Windows 8 and 7 Open the Control Panel. Windows 8: Right-click the Start {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/0\\/07\\/Windowsstart.png\",\"bigUrl\":\"\\/images\\/thumb\\/0\\/07\\/Windowsstart.png\\/30px-Windowsstart.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Public_domain\\\">Public Domain<\\/a><br>\\n<\\/p><\\/div>\"} button and click Control Panel. Windows 7: Click the Start {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/b\\/b3\\/Windowswindows7_start.png\",\"bigUrl\":\"\\/images\\/thumb\\/b\\/b3\\/Windowswindows7_start.png\\/30px-Windowswindows7_start.png\",\"smallWidth\":460,\"smallHeight\":460,\"bigWidth\":\"30\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Windows 7 icon.\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} button and click Control Panel in the right column. Click \"Uninstall a Program\" under the \"Programs\" header. This is towards the bottom-left of the window. Find and select \"Steam\" in the apps list.  Click the Uninstall button. It's right above the apps list. Allow the uninstall process to finish.  Allow the uninstall process to finish. Confirm any prompts if prompted. Uninstalling Steam on a Mac Open up the Applications list. Open Finder and press \u2318 Command+\u21e7 Shift+A simultaneously. Drag Steam to the trash.  Click \"Go\" from the menu bar.  Hold down the \u2325 Option key (also known as the alt key) until you see the \"Library\" folder.  Open the folder from the drop-down menu.  Find and navigate to \"Library\\Application Support\\Steam\".  Delete Steam data from your computer depending on whether you want to keep your game data or not. If you want to keep your data, delete all files and folders in \"\\Steam\" except the \"\\SteamApps\" folder. If not, simply delete the entire Steam folder. Empty the trash. Select \"Finder\" from the top toolbar, then select \"Empty Trash\". Confirm by clicking OK. Uninstall Steam on Linux (Ubuntu) Open a \"Terminal\" window. Press Ctrl+Alt+T simultaneously. Type sudo apt-get remove steam and hit \u21b5 Enter.  Type sudo apt-get purge steam and hit \u21b5 Enter.  Type rm -rf ~/.local/share/Steam && rm -rf ~/.steam and hit \u21b5 Enter.  Exit the Terminal window. ",
+  "tyn_model":[
+    "steam",
+    "\u21b5 enter",
+    "control panel",
+    "windows 7",
+    "program",
+    "mac",
+    "finder",
+    "\u2318 command+",
+    "\u21e7 shift+a",
+    "\u2325 option",
+    "apt-get remove",
+    "apt-get purge",
+    "terminal"
+  ],
+  "tyn_section":[
+
+  ]
+}

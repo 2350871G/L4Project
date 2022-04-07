@@ -1,0 +1,81 @@
+{
+  "title":"How to Connect to Xbox Live Through a Wireless PC",
+  "url":"https://www.wikihow.com/Connect-to-Xbox-Live-Through-a-Wireless-PC",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Xbox",
+    "Xbox Live"
+  ],
+  "methods":[
+    {
+      "name":"Linking Your Xbox to Your Laptop",
+      "steps":[
+        {
+          "headline":"Power everything down.",
+          "description":"Turn off your laptop, Xbox 360, and router/wireless modem. Connect your Xbox 360 to your laptop via the Ethernet cable. Turn your laptop and router/modem back on."
+        },
+        {
+          "headline":"Bridge the connection.",
+          "description":"In order to link the systems' internet connection, you will need to \"bridge\" it. Open your Network Connections manager. In Windows XP, click Start then select Control Panel. Open the Network Connections tool. In Vista/7/8 click the Start button and type \u201cncpa.cpl\u201d into the search bar, and click it in the results."
+        },
+        {
+          "headline":"Select both your Ethernet connection and wireless connection.",
+          "description":"You can either drag a box around them or hold Ctrl and select each one individually."
+        },
+        {
+          "headline":"Right-click the selected connections.",
+          "description":"Select Bridge Connections from the menu. Windows will work for a few moments as it processes the command. Your connection status in the System Tray (bottom-right corner of the desktop) should show that you have two active connections when you hover your mouse over the icon."
+        },
+        {
+          "headline":"Turn on the Xbox.",
+          "description":"Once the connection bridge is complete, turn on the Xbox. The system should connect automatically to Xbox LIVE. If you connect, then you are free to use the Xbox LIVE connection as you normally would. Turning off the laptop with sever the connection. If you cannot connect, right-click the bridged connection in your Network Connections manager. Select Repair Connection from the menu. Windows will automatically reset all of the settings, and rebuild the connection. This should resolve any issues. Should repairing the connection not work, try resetting all of the devices, including the router/modem."
+        }
+      ]
+    },
+    {
+      "name":"Use Internet Connection Sharing",
+      "steps":[
+        {
+          "headline":"Understand Internet Connection Sharing.",
+          "description":"Windows will forward your Internet connection to the attached device, in this case the Xbox 360."
+        },
+        {
+          "headline":"Connect the devices.",
+          "description":"Use a standard Ethernet cable to connect the wireless PC to the Xbox 360. You should see a green connection light near your PC\u2019s Ethernet port."
+        },
+        {
+          "headline":"Enable Internet Connection Sharing (ICS).",
+          "description":"Open your Network Connections manager. In Windows Vista/7 type ncpa.cpl into the search bar and click the result. In Windows XP, open the Control Panel and then select Network Connections. Right-click on your wireless connection. Select Properties. In the Properties window, select the Sharing tab. Check the box next to \u201cAllow other network users to connect through this computer\u2019s Internet connection.\u201d Uncheck the box below it. Click OK to save the changes. In Windows XP, you will need to click the Advanced tab, and then select Sharing."
+        },
+        {
+          "headline":"Turn on the Xbox 360.",
+          "description":"Navigate to settings and select Network Settings. Select Edit Settings open the IP Settings section. Ensure that the Xbox is set to obtain its IP address automatically. In the Network Settings menu, select Test Network Settings. A message should appear on your PC saying that a new local area connection was found and your Xbox 360 should be connected to Xbox LIVE."
+        }
+      ]
+    }
+  ],
+  "text":" Linking Your Xbox to Your Laptop Power everything down. Turn off your laptop, Xbox 360, and router/wireless modem. Connect your Xbox 360 to your laptop via the Ethernet cable. Turn your laptop and router/modem back on. Bridge the connection. In order to link the systems' internet connection, you will need to \"bridge\" it. Open your Network Connections manager. In Windows XP, click Start then select Control Panel. Open the Network Connections tool. In Vista/7/8 click the Start button and type \u201cncpa.cpl\u201d into the search bar, and click it in the results. Select both your Ethernet connection and wireless connection. You can either drag a box around them or hold Ctrl and select each one individually. Right-click the selected connections. Select Bridge Connections from the menu. Windows will work for a few moments as it processes the command. Your connection status in the System Tray (bottom-right corner of the desktop) should show that you have two active connections when you hover your mouse over the icon. Turn on the Xbox. Once the connection bridge is complete, turn on the Xbox. The system should connect automatically to Xbox LIVE. If you connect, then you are free to use the Xbox LIVE connection as you normally would. Turning off the laptop with sever the connection. If you cannot connect, right-click the bridged connection in your Network Connections manager. Select Repair Connection from the menu. Windows will automatically reset all of the settings, and rebuild the connection. This should resolve any issues. Should repairing the connection not work, try resetting all of the devices, including the router/modem. Use Internet Connection Sharing Understand Internet Connection Sharing. Windows will forward your Internet connection to the attached device, in this case the Xbox 360. Connect the devices. Use a standard Ethernet cable to connect the wireless PC to the Xbox 360. You should see a green connection light near your PC\u2019s Ethernet port. Enable Internet Connection Sharing (ICS). Open your Network Connections manager. In Windows Vista/7 type ncpa.cpl into the search bar and click the result. In Windows XP, open the Control Panel and then select Network Connections. Right-click on your wireless connection. Select Properties. In the Properties window, select the Sharing tab. Check the box next to \u201cAllow other network users to connect through this computer\u2019s Internet connection.\u201d Uncheck the box below it. Click OK to save the changes. In Windows XP, you will need to click the Advanced tab, and then select Sharing. Turn on the Xbox 360. Navigate to settings and select Network Settings. Select Edit Settings open the IP Settings section. Ensure that the Xbox is set to obtain its IP address automatically. In the Network Settings menu, select Test Network Settings. A message should appear on your PC saying that a new local area connection was found and your Xbox 360 should be connected to Xbox LIVE.",
+  "tyn_model":[
+    "xbox 360",
+    "xbox",
+    "laptop",
+    "internet connection sharing",
+    "ethernet cable",
+    "router",
+    "network connections manager",
+    "network connections",
+    "wireless modem",
+    "\u201cncpa.cpl",
+    "\u201d into",
+    "xbox live",
+    "xbox live connection",
+    "internet connection",
+    "\u201callow",
+    "\u201d uncheck"
+  ],
+  "tyn_section":[
+
+  ]
+}

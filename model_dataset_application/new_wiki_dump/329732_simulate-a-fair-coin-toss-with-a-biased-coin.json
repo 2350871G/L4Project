@@ -1,0 +1,68 @@
+{
+  "title":"How to Simulate a Fair Coin Toss With a Biased Coin",
+  "url":"https://www.wikihow.com/Simulate-a-Fair-Coin-Toss-With-a-Biased-Coin",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Games of Chance"
+  ],
+  "methods":[
+    {
+      "name":"Steps",
+      "steps":[
+        {
+          "headline":"Find any coin.",
+          "description":""
+        },
+        {
+          "headline":"Designate one outcome heads.",
+          "description":"(This outcome occurs with probability p.)"
+        },
+        {
+          "headline":"Designate another outcome tails.",
+          "description":"(This outcome occurs with probability q)."
+        },
+        {
+          "headline":"Flip the coin twice.",
+          "description":""
+        },
+        {
+          "headline":"If both tosses gave the same outcome, or if either toss landed on its edge or did something else not accounted for in steps 2 and 3, don't count either toss and redo step 4.",
+          "description":""
+        },
+        {
+          "headline":"If you got heads before tails, count it as heads.",
+          "description":"If you got tails before heads, count it as tails. Since these two outcomes for a pair of tosses each have probability p*q, you have a fair coin toss."
+        }
+      ]
+    },
+    {
+      "name":"Example",
+      "steps":[
+        {
+          "headline":"A biased coin might give a sequence like HHTHTHHHHHHSHHTTHTHTHHHH (generated on the assumption that heads are twice a probably as tails)",
+          "description":""
+        },
+        {
+          "headline":"Split this into pairs HH TH TH HH HH HS HH TT HT HT HH HH.",
+          "description":""
+        },
+        {
+          "headline":"Void anything other than HT or TH leaving only TH TH HT HT.",
+          "description":""
+        },
+        {
+          "headline":"Pick the first of each pair, for TTHH.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Steps Find any coin.  Designate one outcome heads. (This outcome occurs with probability p.) Designate another outcome tails. (This outcome occurs with probability q). Flip the coin twice.  If both tosses gave the same outcome, or if either toss landed on its edge or did something else not accounted for in steps 2 and 3, don't count either toss and redo step 4.  If you got heads before tails, count it as heads. If you got tails before heads, count it as tails. Since these two outcomes for a pair of tosses each have probability p*q, you have a fair coin toss. Example A biased coin might give a sequence like HHTHTHHHHHHSHHTTHTHTHHHH (generated on the assumption that heads are twice a probably as tails)  Split this into pairs HH TH TH HH HH HS HH TT HT HT HH HH.  Void anything other than HT or TH leaving only TH TH HT HT.  Pick the first of each pair, for TTHH. ",
+  "tyn_model":[
+    "coin"
+  ],
+  "tyn_section":[
+
+  ]
+}

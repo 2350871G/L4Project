@@ -1,0 +1,129 @@
+{
+  "title":"How to Play Games on LAN",
+  "url":"https://www.wikihow.com/Play-Games-on-LAN",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "methods":[
+    {
+      "name":"Making a Physical LAN",
+      "steps":[
+        {
+          "headline":"Check to see if the games you want to play support LAN play.",
+          "description":"LAN functionality is becoming less and less common in modern PC releases in favor of online multiplayer. Before you go through all the trouble of setting up your LAN, make sure the games you want to play actually support local multiplayer. You can check sites like langamelist.com (Check the \"Offline LAN\" box), or look through Steam curated lists like \"LAN Party Games,\" but be aware that these lists are never comprehensive. For most games, each player will need their own copy installed on their computer. Try to ensure that everyone has the games you intend to play installed before they come over, so you can get up and running without waiting for people to install things. Some of the most popular multiplayer PC games still support LAN. Minecraft, DOTA 2, League of Legends, Counter-Strike, and more have LAN support, though some require an internet connection to function. Note that recent Blizzard games like Diablo 3 and Overwatch do not support LAN."
+        },
+        {
+          "headline":"Gather your equipment.",
+          "description":"Running a LAN party doesn't require much, but there are some things you'll absolutely need:\nYou'll need enough Ethernet cables to connect each computer to your switch, as well as a cable to connect your switch to your router. You can ask your guests to bring their own Ethernet cables, but you'll probably want to have a few spare cables handy. You'll need surge protectors and extension cables to ensure that you don't trip circuits. If you don't have the table space, you'll need a few folding tables and chairs depending on how many people are coming."
+        },
+        {
+          "headline":"Connect the computers to multiple circuits.",
+          "description":"It doesn't take many computers on a single circuit to trip it and bring your LAN party to an early end. Knowing how your circuits are configured in your house or apartment can help you determine where to plug in all the computers. Most houses have separate circuits for different rooms (living room, kitchen, utility room, etc.). Keep in mind that most circuits have multiple outlets, so just spreading your computers between outlets in the same room won't help. You'll want to limit each circuit to about four computers. This means you'll likely need some heavy-duty extension cables and surge protectors to plug the computers into."
+        },
+        {
+          "headline":"Obtain a network switch.",
+          "description":"If you're connecting more computers to the LAN than there are ports on your router, you'll need a network switch to connect them all. You can find 5-port switches at most computer retailers for around $20 USD. Do not get another router, as this will make things needlessly complex and expensive. A simple switch is all you need to connect many more computers to your existing router. Make sure your new switch uses auto-sensing ports. This will allow you to connect everything with standard Ethernet cables instead of having to buy, or make, a special crossover cable. Most all modern switches have auto-sensing ports. While you can have everyone connect to your wireless network, this is not recommended for most multiplayer games. Once everyone is playing together, you'll likely notice serious lag."
+        },
+        {
+          "headline":"Plug the switch into a power source.",
+          "description":"Switches need to be powered in order to work."
+        },
+        {
+          "headline":"Connect an Ethernet cable from a LAN port on your router to any port on the switch.",
+          "description":"This will essentially extend the number of ports on your router, allowing you to connect more Ethernet devices to it. Any computers you connect to the switch will be connected to the router and the internet. If you don't need to have internet access during your LAN party, you can just use a switch and no router. You may want to have internet access, however, so that other players can download any necessary updates or games that they don't have installed. Routers will also handle assigning everyone a unique IP address, which makes getting connected much easier."
+        },
+        {
+          "headline":"Connect your computers to empty ports on the switch.",
+          "description":"Use Ethernet cables to connect each computer's network adapter to an empty port on the switch. If a computer doesn't have an Ethernet adapter, you can connect it wirelessly or use a USB Ethernet adapter. It doesn't matter which computers go into which ports on the switch. If you're using multiple switches to connect a lot of computers, don't connect all the switches to the router. Instead, connect the first switch to the router and the second switch to the first switch."
+        },
+        {
+          "headline":"Disable firewalls on all connected computers.",
+          "description":"If any of the connected computers are running a firewall program, it may hamper their ability to connect to the other computers. Make sure all firewall programs, including Windows Firewall, are disabled. If you're using an antivirus program, it may have firewall software built-in. Open the program's interface and check for an option to disable the firewall. See Turn Off Firewall for details on turning off the firewalls for Windows and Mac computers."
+        },
+        {
+          "headline":"Use a program like D-LAN to allow easy file sharing.",
+          "description":"Besides playing games, one of the common functions of a LAN party is massive file sharing. D-LAN is a program that makes setting up shared folders easy so that your guests don't have to fumble with Windows sharing settings. You can download D-LAN for free from www.d-lan.net. After installing it, you'll be able to see everyone else on the network who has it installed, and you can quickly create and access shared folders. Make sure your guests aren't transferring files while others are trying to play, as this will drag down the connection speed."
+        },
+        {
+          "headline":"Host games on the strongest computer.",
+          "description":"When you're creating a LAN game, one computer typically acts as the \"host.\" The other computers will essentially connect to this computer to get the game data. If your strongest computer is the host, you'll have the best connection for the game. You may want to consider setting up a computer as a dedicated server. This will allow for the best performance, but that computer will be unavailable to play on. The process for setting up a dedicated server varies depending on the game, and not all games support them."
+        }
+      ]
+    },
+    {
+      "name":"Making a Virtual LAN",
+      "steps":[
+        {
+          "headline":"Sign up for Evolve.",
+          "description":"Visit evolvehq.com and sign up for a free account. You'll just need to enter a nickname, enter your email, and create a password. This free program allows you to create private rooms for you and your friends. You can then use these rooms to launch LAN games as if you were all in the same house. There is no limit to the number of payers you can host in your private room."
+        },
+        {
+          "headline":"Download and install Evolve.",
+          "description":"After signing in, click the \"Install\" button in the upper-right corner. Click the \"Install the Evolve Client\" button to begin downloading the installer. Run the installer after downloading it, and it will begin downloading other essential files. Follow the prompts in the installer to install the program."
+        },
+        {
+          "headline":"Sign in with your new Evolve account.",
+          "description":"Enter your login details after the installation is complete to launch Evolve. After signing in for the first time, Evolve will download additional files, which may take a few moments."
+        },
+        {
+          "headline":"Click the \"Evolve\" button and select \"Create Party.\"",
+          "description":"This will open a new window."
+        },
+        {
+          "headline":"Click \"Install\" when prompted to install the Evolve Network Adapter.",
+          "description":"This is required in order to create a virtual LAN for you and your friends. Click \"Install\" again in the Windows notification that appears."
+        },
+        {
+          "headline":"Configure the Evolve Network Adapter (Windows 10 only).",
+          "description":"After installing the adapter in Windows 10, you'll need to perform some additional steps:\nOpen the Start menu and type \"Device Manager\" to open the Device Manager. Expand \"Network adapters\" and double-click \"Evolve Virtual Ethernet Adapter.\" Click the \"Advanced\" tab and select \"MAC Address.\" Enter 0 as the value and close the window. Restart Evolve."
+        },
+        {
+          "headline":"Click the Settings button in the upper-right corner of the party window.",
+          "description":"This button looks like a gear, and will open the Party Settings window."
+        },
+        {
+          "headline":"Set the party to \"Private Game\" and click Update.",
+          "description":"This will prevent random users from joining your party. You'll need to send invites to your friends in order for them to join you."
+        },
+        {
+          "headline":"Send invites to your friends to join the party.",
+          "description":"Your friends will also need to have Evolve installed and have Evolve accounts. Click the \"Send Party Invites\" button and then enter the usernames of the friends you want to invite. You can also open your friends list, then right-click on your friends and select \"Invite to Party.\""
+        },
+        {
+          "headline":"Start up a LAN session in the game you want to play.",
+          "description":"The process for this varies depending on the game you're playing. You'll do this completely in the game, without using Evolve. For example, in Minecraft you would start a game, open the Pause menu, and then select \"Open to LAN.\""
+        },
+        {
+          "headline":"Have your friends join the game.",
+          "description":"Once your game is up and running, Evolve will broadcast the IP address that your friends can connect to in the game. This usually isn't required, as your friends should see your game listed in their available local games. Connecting to the LAN game is done entirely through your game's menus."
+        }
+      ]
+    }
+  ],
+  "text":" Making a Physical LAN Check to see if the games you want to play support LAN play. LAN functionality is becoming less and less common in modern PC releases in favor of online multiplayer. Before you go through all the trouble of setting up your LAN, make sure the games you want to play actually support local multiplayer. You can check sites like langamelist.com (Check the \"Offline LAN\" box), or look through Steam curated lists like \"LAN Party Games,\" but be aware that these lists are never comprehensive. For most games, each player will need their own copy installed on their computer. Try to ensure that everyone has the games you intend to play installed before they come over, so you can get up and running without waiting for people to install things. Some of the most popular multiplayer PC games still support LAN. Minecraft, DOTA 2, League of Legends, Counter-Strike, and more have LAN support, though some require an internet connection to function. Note that recent Blizzard games like Diablo 3 and Overwatch do not support LAN. Gather your equipment. Running a LAN party doesn't require much, but there are some things you'll absolutely need:\nYou'll need enough Ethernet cables to connect each computer to your switch, as well as a cable to connect your switch to your router. You can ask your guests to bring their own Ethernet cables, but you'll probably want to have a few spare cables handy. You'll need surge protectors and extension cables to ensure that you don't trip circuits. If you don't have the table space, you'll need a few folding tables and chairs depending on how many people are coming. Connect the computers to multiple circuits. It doesn't take many computers on a single circuit to trip it and bring your LAN party to an early end. Knowing how your circuits are configured in your house or apartment can help you determine where to plug in all the computers. Most houses have separate circuits for different rooms (living room, kitchen, utility room, etc.). Keep in mind that most circuits have multiple outlets, so just spreading your computers between outlets in the same room won't help. You'll want to limit each circuit to about four computers. This means you'll likely need some heavy-duty extension cables and surge protectors to plug the computers into. Obtain a network switch. If you're connecting more computers to the LAN than there are ports on your router, you'll need a network switch to connect them all. You can find 5-port switches at most computer retailers for around $20 USD. Do not get another router, as this will make things needlessly complex and expensive. A simple switch is all you need to connect many more computers to your existing router. Make sure your new switch uses auto-sensing ports. This will allow you to connect everything with standard Ethernet cables instead of having to buy, or make, a special crossover cable. Most all modern switches have auto-sensing ports. While you can have everyone connect to your wireless network, this is not recommended for most multiplayer games. Once everyone is playing together, you'll likely notice serious lag. Plug the switch into a power source. Switches need to be powered in order to work. Connect an Ethernet cable from a LAN port on your router to any port on the switch. This will essentially extend the number of ports on your router, allowing you to connect more Ethernet devices to it. Any computers you connect to the switch will be connected to the router and the internet. If you don't need to have internet access during your LAN party, you can just use a switch and no router. You may want to have internet access, however, so that other players can download any necessary updates or games that they don't have installed. Routers will also handle assigning everyone a unique IP address, which makes getting connected much easier. Connect your computers to empty ports on the switch. Use Ethernet cables to connect each computer's network adapter to an empty port on the switch. If a computer doesn't have an Ethernet adapter, you can connect it wirelessly or use a USB Ethernet adapter. It doesn't matter which computers go into which ports on the switch. If you're using multiple switches to connect a lot of computers, don't connect all the switches to the router. Instead, connect the first switch to the router and the second switch to the first switch. Disable firewalls on all connected computers. If any of the connected computers are running a firewall program, it may hamper their ability to connect to the other computers. Make sure all firewall programs, including Windows Firewall, are disabled. If you're using an antivirus program, it may have firewall software built-in. Open the program's interface and check for an option to disable the firewall. See Turn Off Firewall for details on turning off the firewalls for Windows and Mac computers. Use a program like D-LAN to allow easy file sharing. Besides playing games, one of the common functions of a LAN party is massive file sharing. D-LAN is a program that makes setting up shared folders easy so that your guests don't have to fumble with Windows sharing settings. You can download D-LAN for free from www.d-lan.net. After installing it, you'll be able to see everyone else on the network who has it installed, and you can quickly create and access shared folders. Make sure your guests aren't transferring files while others are trying to play, as this will drag down the connection speed. Host games on the strongest computer. When you're creating a LAN game, one computer typically acts as the \"host.\" The other computers will essentially connect to this computer to get the game data. If your strongest computer is the host, you'll have the best connection for the game. You may want to consider setting up a computer as a dedicated server. This will allow for the best performance, but that computer will be unavailable to play on. The process for setting up a dedicated server varies depending on the game, and not all games support them. Making a Virtual LAN Sign up for Evolve. Visit evolvehq.com and sign up for a free account. You'll just need to enter a nickname, enter your email, and create a password. This free program allows you to create private rooms for you and your friends. You can then use these rooms to launch LAN games as if you were all in the same house. There is no limit to the number of payers you can host in your private room. Download and install Evolve. After signing in, click the \"Install\" button in the upper-right corner. Click the \"Install the Evolve Client\" button to begin downloading the installer. Run the installer after downloading it, and it will begin downloading other essential files. Follow the prompts in the installer to install the program. Sign in with your new Evolve account. Enter your login details after the installation is complete to launch Evolve. After signing in for the first time, Evolve will download additional files, which may take a few moments. Click the \"Evolve\" button and select \"Create Party.\" This will open a new window. Click \"Install\" when prompted to install the Evolve Network Adapter. This is required in order to create a virtual LAN for you and your friends. Click \"Install\" again in the Windows notification that appears. Configure the Evolve Network Adapter (Windows 10 only). After installing the adapter in Windows 10, you'll need to perform some additional steps:\nOpen the Start menu and type \"Device Manager\" to open the Device Manager. Expand \"Network adapters\" and double-click \"Evolve Virtual Ethernet Adapter.\" Click the \"Advanced\" tab and select \"MAC Address.\" Enter 0 as the value and close the window. Restart Evolve. Click the Settings button in the upper-right corner of the party window. This button looks like a gear, and will open the Party Settings window. Set the party to \"Private Game\" and click Update. This will prevent random users from joining your party. You'll need to send invites to your friends in order for them to join you. Send invites to your friends to join the party. Your friends will also need to have Evolve installed and have Evolve accounts. Click the \"Send Party Invites\" button and then enter the usernames of the friends you want to invite. You can also open your friends list, then right-click on your friends and select \"Invite to Party.\" Start up a LAN session in the game you want to play. The process for this varies depending on the game you're playing. You'll do this completely in the game, without using Evolve. For example, in Minecraft you would start a game, open the Pause menu, and then select \"Open to LAN.\" Have your friends join the game. Once your game is up and running, Evolve will broadcast the IP address that your friends can connect to in the game. This usually isn't required, as your friends should see your game listed in their available local games. Connecting to the LAN game is done entirely through your game's menus.",
+  "tyn_model":[
+    "router",
+    "computers",
+    "evolve",
+    "ethernet cables",
+    "d-lan",
+    "minecraft",
+    "surge protectors",
+    "network switch",
+    "firewall",
+    "device manager",
+    "lan",
+    "extension cables",
+    "ethernet cable",
+    "routers",
+    "windows firewall",
+    "computer",
+    "evolve network adapter"
+  ],
+  "tyn_section":[
+
+  ]
+}

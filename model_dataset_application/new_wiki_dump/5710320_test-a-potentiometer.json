@@ -1,0 +1,50 @@
+{
+  "title":"How to Test a Potentiometer",
+  "url":"https://www.wikihow.com/Test-a-Potentiometer",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Find out what the rating of the potentiometer is.",
+      "description":"This is actually the total resistance measured in ohms and it can usually be found written on the bottom or the side."
+    },
+    {
+      "headline":"Get an ohmmeter which you will set to a setting that is higher that your potentiometer's total resistance.",
+      "description":"For example, you can set the ohmmeter to 10000 ohms if the rating of the potentiometer is 1000 ohms."
+    },
+    {
+      "headline":"Take a closer look at the potentiometer.",
+      "description":"Locate the three tabs that should be sticking out of it. Two of those tabs are called \u201cends\u201d while the third one is called a \u201cwiper\u201d. Most of the time, the two ends are located next to each other, while the wiper is somewhere else."
+    },
+    {
+      "headline":"Take the probes of your ohmmeter.",
+      "description":"Put them on the two ends of the potentiometer. What you see on the display should be within only a few ohms of the potentiometer's rated resistance (see Note below). If the reading is way off, then that means that you have put one of the probes of the ohmmeter on the wiper. If you find it difficult to tell which tabs are the ends, and which tab is the wiper, try different combinations with the probes until you get a proper reading."
+    },
+    {
+      "headline":"Turn the controller all the way to the other side.",
+      "description":"Make sure to keep the probes in constant contact with the ends while doing this. The resistance should stay the same or only change very slightly. The actual reading may not be exactly what the potentiometer is rated for. These devices typically have a tolerance of 5-10%. Tolerance may be listed on the device but not always. The reading you get should not be outside of that range (e.g. a 10,000 ohm device rated 5% should read between 9500-10500 ohms)."
+    },
+    {
+      "headline":"Take one of the ohmmeter's probes off the end and put it on the wiper.",
+      "description":"Now you have to turn the controller slowly all the way to the other end and watch the ohmmeter while doing so. When you reach the end, the resistance should only be a few ohms. At the other end the value should be the maximum resistance of the potentiometer. The resistance should gradually and slowly increase as you turn the controller and there should be no sudden jumps."
+    }
+  ],
+  "text":" Find out what the rating of the potentiometer is. This is actually the total resistance measured in ohms and it can usually be found written on the bottom or the side. Get an ohmmeter which you will set to a setting that is higher that your potentiometer's total resistance. For example, you can set the ohmmeter to 10000 ohms if the rating of the potentiometer is 1000 ohms. Take a closer look at the potentiometer. Locate the three tabs that should be sticking out of it. Two of those tabs are called \u201cends\u201d while the third one is called a \u201cwiper\u201d. Most of the time, the two ends are located next to each other, while the wiper is somewhere else. Take the probes of your ohmmeter. Put them on the two ends of the potentiometer. What you see on the display should be within only a few ohms of the potentiometer's rated resistance (see Note below). If the reading is way off, then that means that you have put one of the probes of the ohmmeter on the wiper. If you find it difficult to tell which tabs are the ends, and which tab is the wiper, try different combinations with the probes until you get a proper reading. Turn the controller all the way to the other side. Make sure to keep the probes in constant contact with the ends while doing this. The resistance should stay the same or only change very slightly. The actual reading may not be exactly what the potentiometer is rated for. These devices typically have a tolerance of 5-10%. Tolerance may be listed on the device but not always. The reading you get should not be outside of that range (e.g. a 10,000 ohm device rated 5% should read between 9500-10500 ohms). Take one of the ohmmeter's probes off the end and put it on the wiper. Now you have to turn the controller slowly all the way to the other end and watch the ohmmeter while doing so. When you reach the end, the resistance should only be a few ohms. At the other end the value should be the maximum resistance of the potentiometer. The resistance should gradually and slowly increase as you turn the controller and there should be no sudden jumps.",
+  "tyn_model":[
+    "potentiometer",
+    "probes",
+    "ohmmeter",
+    "controller",
+    "\u201cends",
+    "\u201d while",
+    "\u201cwiper",
+    "\u201d.",
+    "wiper"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title":"How to Run Portal Prelude on Mac OS X",
+  "url":"https://www.wikihow.com/Run-Portal-Prelude-on-Mac-OS-X",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Portal"
+  ],
+  "steps":[
+    {
+      "headline":"Create a Steam account, install Steam (for free), and buy Portal.",
+      "description":"It costs only a small amount of money, and it's a good enough game that it's worth paying for. In addition, Portal: Prelude won't run if you have a pirated copy of Portal, the free demo of Portal, or (according to some reports) a copy of Portal that Steam offered for free as part of a promotion fairly recently. The copy of Portal on your computer and linked to your Steam account must be legal and have a Source engine."
+    },
+    {
+      "headline":"Download Portal: Prelude.",
+      "description":"The zipped copy of Portal can be found, along with an explanation of why the game isn't supposed to run on Mac, under the heading \"Mac users, read this!\" Simply click the link, follow the instructions, wait for the file to download, and you're ready to keep going."
+    },
+    {
+      "headline":"Unzip the file.",
+      "description":"Clicking on it in your downloads folder should start the process automatically. After it finishes unzipping, you will see a folder entitled \"portal prelude\" in your downloads. This contains all the information necessary to run the game."
+    },
+    {
+      "headline":"Open Finder and find /Users/<yourmacosxuser>/Library/Application Support/Steam/SteamApps/<yoursteamusername>/portal.",
+      "description":"This is the folder that contains the information needed to run regular Portal."
+    },
+    {
+      "headline":"Right-click the portal folder and select \"Duplicate\".",
+      "description":"This creates a new folder, \"portal copy\". Do not change anything in this folder. This is where will save regular Portal content. All your messing around will take place in the original portal folder."
+    },
+    {
+      "headline":"In the original portal folder, you will see another folder inside it, also labeled \"portal\".",
+      "description":"Delete everything in that sub-folder."
+    },
+    {
+      "headline":"Open the portal prelude folder that popped up when you unzipped the file earlier.",
+      "description":"Copy all the information in that folder and paste (or drag) it into the now-empty portal sub-folder."
+    },
+    {
+      "headline":"Launch Steam.",
+      "description":"Now that you have replaced the files, when you launch Portal, you will actually be launching Portal:Prelude. Give it a try. If all has gone well, you will see a menu similar to the one in Portal. Set your resolution and any other controls you're used to having, and enjoy playing Portal: Prelude."
+    },
+    {
+      "headline":"If you want to switch back to playing regular Portal, simply go back to Finder and change the \"portal\" folder to \"portal copy\" and vice versa.",
+      "description":"Now the original Portal content is in the \"portal\" folder that Steam will use to launch the game, the the Portal: Prelude content is in the \"portal copy\" folder, waiting to be used again."
+    }
+  ],
+  "text":" Create a Steam account, install Steam (for free), and buy Portal. It costs only a small amount of money, and it's a good enough game that it's worth paying for. In addition, Portal: Prelude won't run if you have a pirated copy of Portal, the free demo of Portal, or (according to some reports) a copy of Portal that Steam offered for free as part of a promotion fairly recently. The copy of Portal on your computer and linked to your Steam account must be legal and have a Source engine. Download Portal: Prelude. The zipped copy of Portal can be found, along with an explanation of why the game isn't supposed to run on Mac, under the heading \"Mac users, read this!\" Simply click the link, follow the instructions, wait for the file to download, and you're ready to keep going. Unzip the file. Clicking on it in your downloads folder should start the process automatically. After it finishes unzipping, you will see a folder entitled \"portal prelude\" in your downloads. This contains all the information necessary to run the game. Open Finder and find /Users/<yourmacosxuser>/Library/Application Support/Steam/SteamApps/<yoursteamusername>/portal. This is the folder that contains the information needed to run regular Portal. Right-click the portal folder and select \"Duplicate\". This creates a new folder, \"portal copy\". Do not change anything in this folder. This is where will save regular Portal content. All your messing around will take place in the original portal folder. In the original portal folder, you will see another folder inside it, also labeled \"portal\". Delete everything in that sub-folder. Open the portal prelude folder that popped up when you unzipped the file earlier. Copy all the information in that folder and paste (or drag) it into the now-empty portal sub-folder. Launch Steam. Now that you have replaced the files, when you launch Portal, you will actually be launching Portal:Prelude. Give it a try. If all has gone well, you will see a menu similar to the one in Portal. Set your resolution and any other controls you're used to having, and enjoy playing Portal: Prelude. If you want to switch back to playing regular Portal, simply go back to Finder and change the \"portal\" folder to \"portal copy\" and vice versa. Now the original Portal content is in the \"portal\" folder that Steam will use to launch the game, the the Portal: Prelude content is in the \"portal copy\" folder, waiting to be used again.",
+  "tyn_model":[
+    "portal",
+    "steam",
+    "finder"
+  ],
+  "tyn_section":[
+
+  ]
+}

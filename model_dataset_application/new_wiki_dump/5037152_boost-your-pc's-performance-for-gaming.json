@@ -1,0 +1,292 @@
+{
+  "title":"How to Boost Your PC's Performance for Gaming",
+  "url":"https://www.wikihow.com/Boost-Your-PC%27s-Performance-for-Gaming",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "methods":[
+    {
+      "name":"Upgrade Your Graphics Drivers",
+      "steps":[
+        {
+          "headline":"Identify your graphics card.",
+          "description":"It is important to know what kind you have before moving forward."
+        },
+        {
+          "headline":"Press the Windows Key on your keyboard.",
+          "description":"This will open the Start Menu."
+        },
+        {
+          "headline":"Enter \"Device Manager.\"",
+          "description":"Type this without the quotation marks into the search menu. The search may produce multiple results."
+        },
+        {
+          "headline":"Click the Device Manager.",
+          "description":"This will prompt the Device Manager window to open."
+        },
+        {
+          "headline":"Go to Display Adapters.",
+          "description":"Expand the category by clicking the arrow to the left of it once. This will display the make and model of your graphics card. In most machines you will see both Intel and NVIDIA hardware. Occasionally you will instead find AMD hardware. If you want to improve your gaming performance, you need to update the drivers on your graphics card."
+        },
+        {
+          "headline":"Find new drivers.",
+          "description":"Now that you know the make and model of your graphics card, you can go to the manufacturer's website and see the updated versions available."
+        }
+      ]
+    },
+    {
+      "name":"Uninstall Old Programs",
+      "steps":[
+        {
+          "headline":"Uninstall old programs.",
+          "description":"The more programs you have on your computer, the slower it will run. By deleting unnecessary programs, you can easily improve the efficiency of your device."
+        },
+        {
+          "headline":"Open the Control Panel on your PC.",
+          "description":"Navigate to the \"Uninstall Programs section. In windows 7, 8, 8.1, and 10, these settings are all in different places. You may have to search for the option if you don't see it immediately."
+        },
+        {
+          "headline":"Click on the organization tab and switch it to \"Date Last Used\".",
+          "description":"This will allow you to filter through your programs and find the ones you have not used in a while."
+        },
+        {
+          "headline":"Uninstall unused programs.",
+          "description":"When you find a program that you no longer want, click Uninstall. (Be careful, if you don't know what something is, look it up first, often times some applications are necessary to run games.)"
+        }
+      ]
+    },
+    {
+      "name":"Overclocking the GPU",
+      "steps":[
+        {
+          "headline":"IMPORTANT, before doing this, make sure your GPU \"can\" be overclocked, as many are factory locked.",
+          "description":"If not, skip to the next section."
+        },
+        {
+          "headline":"Overclocking your GPU is running the graphics card beyond the factory setting.",
+          "description":"This is a potentially damaging method to improve your gaming performance and therefore all precautions should be taken into account. To do this, you should determine the baseline from which your graphics card is currently running."
+        },
+        {
+          "headline":"Download free benchmarking and analytics software.",
+          "description":"One of the more popular options is the Heaven 4.0 benchmark."
+        },
+        {
+          "headline":"Run the Heaven 4.0 benchmark.",
+          "description":"This will prompt the settings menu to appear."
+        },
+        {
+          "headline":"Set Resolution to System.",
+          "description":"You may change some of the other settings if you have the tech know-how, but if you are working with a lower-end card, it is recommended that you refrain from adjusting too much."
+        },
+        {
+          "headline":"Click Run.",
+          "description":"This will prompt Heaven to play through a series of scene that are designed to test the capability of your device's performance. It may glitch but this is normal."
+        },
+        {
+          "headline":"Click Benchmark.",
+          "description":"This can be found in the upper left-hand corner of your screen and it will prompt Heaven to go through 26 scenes to test your GPU's performance abilities."
+        },
+        {
+          "headline":"Write down your score.",
+          "description":"Once the test is complete, a window will appear with your graphics card's score. Write this down so that you can compare it with your score after overclocking it."
+        },
+        {
+          "headline":"Download a GPU tweaking tool.",
+          "description":"You can find these for free online and some popular options are MSI's Afterburner and EVGA'S PrecisionX software."
+        },
+        {
+          "headline":"Open the software that you have chosen.",
+          "description":""
+        },
+        {
+          "headline":"Raise the core clock by 5 to 10 MHz.",
+          "description":"Make sure that the clocks entitles Core Clock and Shader Clock are connected."
+        },
+        {
+          "headline":"Click Apply.",
+          "description":"You can check to see if your changes were applied by going to GPU-Z and seeing if it matches."
+        },
+        {
+          "headline":"Click Save.",
+          "description":"You may be prompted to save your settings. Do so and assign a profile."
+        },
+        {
+          "headline":"Repeat the over clocking process.",
+          "description":"One of two things will occur: either Heaven will run without any problems and you may increase your MHz by 5 to 10, or you graphics card will crash. You can tell that your GPU has crashed if you start to see black glitches, blotches, or bright stars on the screen. This means that your overclock has become unstable and you need to either lower you MHz. You will also want to keep an eye on the temperature of your computer. If it gets too hot, you may risk frying your hardware."
+        },
+        {
+          "headline":"Set your new frequency.",
+          "description":"After you have found the correct frequency for your graphics card, restart your computer. Some overclocking software will prompt you to set the changes you\u2019ve made."
+        },
+        {
+          "headline":"Play through a game.",
+          "description":"To really make sure you\u2019ve found the right frequency, play though a graphics intensive game and see how it runs."
+        }
+      ]
+    },
+    {
+      "name":"Disable Superfetch and Prefetch",
+      "steps":[
+        {
+          "headline":"Go to the Start Menu.",
+          "description":""
+        },
+        {
+          "headline":"Type \"regedit\" without the quotation marks into the search box.",
+          "description":""
+        },
+        {
+          "headline":"Select the appropriate file path.",
+          "description":"This should be \u201cHKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SessionManager\\Memory Management\\PrefetchParameters.\u201d"
+        },
+        {
+          "headline":"Right-click on EnablePrefetcher as well as EnableSuperfetch.",
+          "description":""
+        },
+        {
+          "headline":"Hit Modify.",
+          "description":"This will present you with a window with given values."
+        },
+        {
+          "headline":"Change the given value from 3 to 0.",
+          "description":""
+        },
+        {
+          "headline":"Restart your computer.",
+          "description":"Prefetch and Superfetch should now be disabled."
+        }
+      ]
+    },
+    {
+      "name":"Defragment or TRIM Your Disk",
+      "steps":[
+        {
+          "headline":"Go to the Start Menu.",
+          "description":"In the Start Menu, click All Programs, then Accessories, and then go to System Tools."
+        },
+        {
+          "headline":"Select Disk Defragmenter.",
+          "description":"When files are deleted from your disk, they can become fragmented. This can lead to slower performance on your device. By collecting these fragments you can improve your performance speed."
+        },
+        {
+          "headline":"Select your Windows Disk.",
+          "description":"If you have Windows 8, proceed to the next step."
+        },
+        {
+          "headline":"Select Defragment Disk",
+          "description":"If you have an SSD, or solid-state disk, do not defrag your computer. Instead, proceed to the next step."
+        },
+        {
+          "headline":"Select Optimize.",
+          "description":"This will initiate the TRIM command."
+        },
+        {
+          "headline":"Check to see if TRIM is enabled.",
+          "description":"You can do this by opening the command prompt and inputting a simple command."
+        },
+        {
+          "headline":"Click Start.",
+          "description":"Type \"cmd\" without the quotation marks into the search bar and then select \"cmd.\""
+        },
+        {
+          "headline":"Click Run as Administrator.",
+          "description":""
+        },
+        {
+          "headline":"Wait for a black window, or terminal, to appear.",
+          "description":""
+        },
+        {
+          "headline":"Enter the command \u201cFsutil behavior query disabledeletenotify\u201d without the quotation marks.",
+          "description":"If TRIM is supported, the response will be \u201c= 0.\u201d If you do not receive this response, enter the command \u201cfsutil behavior set DisableDeleteNotify 0\u201d without the quotation marks. If you receive the same response, you may need to upgrade your firmware."
+        },
+        {
+          "headline":"Run through a game.",
+          "description":"If you still do not notice any change in the quality of game play, try another method."
+        }
+      ]
+    },
+    {
+      "name":"Adjust the AMD\\/ATI Control Panel",
+      "steps":[
+        {
+          "headline":"Right-click on your desktop.",
+          "description":"Select Catalyst Control Center."
+        },
+        {
+          "headline":"Go to Manage 3D Settings.",
+          "description":"This can be found to your left. Here you will be able to alter the settings of our graphics in order to optimize game play."
+        },
+        {
+          "headline":"Personalize your settings.",
+          "description":"Each player and each game may require distinct personalized settings for the optimal gaming experience."
+        }
+      ]
+    },
+    {
+      "name":"Adjust the NVIDIA Control Panel",
+      "steps":[
+        {
+          "headline":"Right-click on your desktop.",
+          "description":"This method is specifically for those with a NVIDIA graphics card."
+        },
+        {
+          "headline":"Select NVIDIA Control Panel.",
+          "description":""
+        },
+        {
+          "headline":"Go to Manage 3D Settings.",
+          "description":"You can find this on the left side of your screen."
+        },
+        {
+          "headline":"Personalize your settings.",
+          "description":"Each player and each individual game may require distinct personalized settings for the optimal gaming experience."
+        }
+      ]
+    },
+    {
+      "name":"Upgrade Your Hardware",
+      "steps":[
+        {
+          "headline":"Upgrade your SSD.",
+          "description":"Also known as a solid-state disk, SSDs are much more efficient than the mechanical hard disks and can greatly reduce the load time and play of a game."
+        },
+        {
+          "headline":"Research your options.",
+          "description":"There are is a wide range of quality and price range for SSDs and you should determine the best fit for you and your computer."
+        },
+        {
+          "headline":"Upgrade your PC.",
+          "description":"If you have tried all of the above methods and still do not experience improved game play, it may be time to update your computer to play the latest games."
+        }
+      ]
+    }
+  ],
+  "text":" Upgrade Your Graphics Drivers Identify your graphics card. It is important to know what kind you have before moving forward. Press the Windows Key on your keyboard. This will open the Start Menu. Enter \"Device Manager.\" Type this without the quotation marks into the search menu. The search may produce multiple results. Click the Device Manager. This will prompt the Device Manager window to open. Go to Display Adapters. Expand the category by clicking the arrow to the left of it once. This will display the make and model of your graphics card. In most machines you will see both Intel and NVIDIA hardware. Occasionally you will instead find AMD hardware. If you want to improve your gaming performance, you need to update the drivers on your graphics card. Find new drivers. Now that you know the make and model of your graphics card, you can go to the manufacturer's website and see the updated versions available. Uninstall Old Programs Uninstall old programs. The more programs you have on your computer, the slower it will run. By deleting unnecessary programs, you can easily improve the efficiency of your device. Open the Control Panel on your PC. Navigate to the \"Uninstall Programs section. In windows 7, 8, 8.1, and 10, these settings are all in different places. You may have to search for the option if you don't see it immediately. Click on the organization tab and switch it to \"Date Last Used\". This will allow you to filter through your programs and find the ones you have not used in a while. Uninstall unused programs. When you find a program that you no longer want, click Uninstall. (Be careful, if you don't know what something is, look it up first, often times some applications are necessary to run games.) Overclocking the GPU IMPORTANT, before doing this, make sure your GPU \"can\" be overclocked, as many are factory locked. If not, skip to the next section. Overclocking your GPU is running the graphics card beyond the factory setting. This is a potentially damaging method to improve your gaming performance and therefore all precautions should be taken into account. To do this, you should determine the baseline from which your graphics card is currently running. Download free benchmarking and analytics software. One of the more popular options is the Heaven 4.0 benchmark. Run the Heaven 4.0 benchmark. This will prompt the settings menu to appear. Set Resolution to System. You may change some of the other settings if you have the tech know-how, but if you are working with a lower-end card, it is recommended that you refrain from adjusting too much. Click Run. This will prompt Heaven to play through a series of scene that are designed to test the capability of your device's performance. It may glitch but this is normal. Click Benchmark. This can be found in the upper left-hand corner of your screen and it will prompt Heaven to go through 26 scenes to test your GPU's performance abilities. Write down your score. Once the test is complete, a window will appear with your graphics card's score. Write this down so that you can compare it with your score after overclocking it. Download a GPU tweaking tool. You can find these for free online and some popular options are MSI's Afterburner and EVGA'S PrecisionX software. Open the software that you have chosen.  Raise the core clock by 5 to 10 MHz. Make sure that the clocks entitles Core Clock and Shader Clock are connected. Click Apply. You can check to see if your changes were applied by going to GPU-Z and seeing if it matches. Click Save. You may be prompted to save your settings. Do so and assign a profile. Repeat the over clocking process. One of two things will occur: either Heaven will run without any problems and you may increase your MHz by 5 to 10, or you graphics card will crash. You can tell that your GPU has crashed if you start to see black glitches, blotches, or bright stars on the screen. This means that your overclock has become unstable and you need to either lower you MHz. You will also want to keep an eye on the temperature of your computer. If it gets too hot, you may risk frying your hardware. Set your new frequency. After you have found the correct frequency for your graphics card, restart your computer. Some overclocking software will prompt you to set the changes you\u2019ve made. Play through a game. To really make sure you\u2019ve found the right frequency, play though a graphics intensive game and see how it runs. Disable Superfetch and Prefetch Go to the Start Menu.  Type \"regedit\" without the quotation marks into the search box.  Select the appropriate file path. This should be \u201cHKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\SessionManager\\Memory Management\\PrefetchParameters.\u201d Right-click on EnablePrefetcher as well as EnableSuperfetch.  Hit Modify. This will present you with a window with given values. Change the given value from 3 to 0.  Restart your computer. Prefetch and Superfetch should now be disabled. Defragment or TRIM Your Disk Go to the Start Menu. In the Start Menu, click All Programs, then Accessories, and then go to System Tools. Select Disk Defragmenter. When files are deleted from your disk, they can become fragmented. This can lead to slower performance on your device. By collecting these fragments you can improve your performance speed. Select your Windows Disk. If you have Windows 8, proceed to the next step. Select Defragment Disk If you have an SSD, or solid-state disk, do not defrag your computer. Instead, proceed to the next step. Select Optimize. This will initiate the TRIM command. Check to see if TRIM is enabled. You can do this by opening the command prompt and inputting a simple command. Click Start. Type \"cmd\" without the quotation marks into the search bar and then select \"cmd.\" Click Run as Administrator.  Wait for a black window, or terminal, to appear.  Enter the command \u201cFsutil behavior query disabledeletenotify\u201d without the quotation marks. If TRIM is supported, the response will be \u201c= 0.\u201d If you do not receive this response, enter the command \u201cfsutil behavior set DisableDeleteNotify 0\u201d without the quotation marks. If you receive the same response, you may need to upgrade your firmware. Run through a game. If you still do not notice any change in the quality of game play, try another method. Adjust the AMD\\/ATI Control Panel Right-click on your desktop. Select Catalyst Control Center. Go to Manage 3D Settings. This can be found to your left. Here you will be able to alter the settings of our graphics in order to optimize game play. Personalize your settings. Each player and each game may require distinct personalized settings for the optimal gaming experience. Adjust the NVIDIA Control Panel Right-click on your desktop. This method is specifically for those with a NVIDIA graphics card. Select NVIDIA Control Panel.  Go to Manage 3D Settings. You can find this on the left side of your screen. Personalize your settings. Each player and each individual game may require distinct personalized settings for the optimal gaming experience. Upgrade Your Hardware Upgrade your SSD. Also known as a solid-state disk, SSDs are much more efficient than the mechanical hard disks and can greatly reduce the load time and play of a game. Research your options. There are is a wide range of quality and price range for SSDs and you should determine the best fit for you and your computer. Upgrade your PC. If you have tried all of the above methods and still do not experience improved game play, it may be time to update your computer to play the latest games.",
+  "tyn_model":[
+    "graphics card",
+    "computer",
+    "gpu",
+    "device manager",
+    "solid-state disk",
+    "\u201cfsutil",
+    "\u201d without",
+    "heaven 4.0 benchmark",
+    "\u201chkey_local_machine\\system\\currentcontrolset\\control\\sessionmanager\\memory",
+    "\u201d right",
+    "disk defragmenter",
+    "trim",
+    "terminal",
+    "\u201c=",
+    "\u201d if",
+    "ssd",
+    "ssds",
+    "pc"
+  ],
+  "tyn_section":[
+
+  ]
+}

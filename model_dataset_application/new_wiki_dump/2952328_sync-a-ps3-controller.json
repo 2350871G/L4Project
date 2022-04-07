@@ -1,0 +1,191 @@
+{
+  "title":"How to Sync a PS3 Controller",
+  "url":"https://www.wikihow.com/Sync-a-PS3-Controller",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PlayStation Video Game Consoles",
+    "PlayStation 3"
+  ],
+  "methods":[
+    {
+      "name":"Connecting on a PlayStation 3",
+      "steps":[
+        {
+          "headline":"Turn on the PlayStation 3.",
+          "description":"Press the Power button on the front of the console. When connecting a new controller, the PS3 cannot be in Standby mode."
+        },
+        {
+          "headline":"Connect the controller's charging cable to the controller.",
+          "description":"You'll find the charging port for the cable, which is a mini-USB cable, in the front of the controller's housing (between the triggers)."
+        },
+        {
+          "headline":"Connect the other end of the cable to the PS3.",
+          "description":"The other end of the charging cable should plug into a USB port on the front of the PS3. Depending on your PlayStation model, you'll find either two or four USB ports here."
+        },
+        {
+          "headline":"Turn on the controller.",
+          "description":"Press the PlayStation button in the middle of the controller. The lights on the front end of the controller will begin blinking."
+        },
+        {
+          "headline":"Wait for the controller lights to finish blinking.",
+          "description":"Once a single light is on and not blinking, your controller is synced with the PS3. The light that is on indicates which controller you are using (P1, P2, etc. )."
+        },
+        {
+          "headline":"Disconnect the USB cable from the controller.",
+          "description":"Your controller should now be connected to the PS3 wirelessly. Wireless functionality is only available on official Sony DualShock 3 controllers. On unofficial controllers, you'll need to leave the cable plugged in."
+        },
+        {
+          "headline":"Charge the controller if it doesn't stay on.",
+          "description":"If your controller turns off after unplugging it, it may be out of charge. Keep it plugged in for a few hours with the PS3 on to charge the battery."
+        },
+        {
+          "headline":"Reset the controller if it still won't sync.",
+          "description":"If you still can't get your controller to sync with the PS3, you may need to reset it. To do so:\nTurn over the controller and locate the Reset button. You can find it along the top of the backside, near the L2 button. Use a bent paperclip to press and hold the Reset button. You should be able to feel it click. Hold the Reset button for at least two seconds, then remove the paperclip. Try connecting and syncing the controller again."
+        }
+      ]
+    },
+    {
+      "name":"Connecting on Windows",
+      "steps":[
+        {
+          "headline":"Make sure that you have a Sony-certified controller and charging cable.",
+          "description":"The program that you'll use to connect your PlayStation 3 controller to your computer only works reliably with Sony DualShock 3 controllers that are connected to the computer via a PS3 controller charging cable. While you may be able to get third-party controllers to work (or Sony controllers to work wirelessly), the only reliable way of connecting a PlayStation 3 controller to your Windows computer is with the aforementioned Sony-certified controller and cable."
+        },
+        {
+          "headline":"Unplug your PlayStation 3.",
+          "description":"If you have a PS3 within range of your controller, unplug it from the wall to prevent the controller from accidentally connecting to it."
+        },
+        {
+          "headline":"Reset your controller.",
+          "description":"Using a bent paperclip, press the recessed Reset button that's on the bottom of your controller. This will prevent the controller from failing to connect due to past pairings."
+        },
+        {
+          "headline":"Turn on your controller.",
+          "description":"Press the PlayStation button in the middle of the controller to do so. Its lights will begin blinking. Due to a glitch on some Windows computers, you'll need to turn on your controller before connecting it to your computer."
+        },
+        {
+          "headline":"Connect your controller to your computer.",
+          "description":"Plug the small end of the charging cable into your PS3 controller, then plug the other end into one of your computer's USB ports."
+        },
+        {
+          "headline":"Download the SCP Toolkit.",
+          "description":"SCP Toolkit is a program that allows Windows to use a PlayStation 3 controller. Go to the SCP Toolkit website in a browser. Click ScpToolkit_Setup.exe below the \"Assets\" heading. Wait for the file to finish downloading."
+        },
+        {
+          "headline":"Install the SCP Toolkit program.",
+          "description":"To do so:\nDouble-click the setup file. Click Yes when prompted. Follow the on-screen instructions until you can click Install, then click it. You may have to click several different Install buttons. If prompted to install prerequisites, click Next until the prerequisites begin to install. Click Finish when prompted."
+        },
+        {
+          "headline":"Open the \u201cSCPToolkitDriver\u201d Installer program.",
+          "description":"Double-click this app icon on your desktop to open it."
+        },
+        {
+          "headline":"Disable unwanted options.",
+          "description":"Uncheck both the \"Install DualShock4 Controller\" box and the \"Bluetooth\" box, as well as any other options in the window that you don't want to use. If you're unfamiliar with the other checked boxes not listed here, it's best to leave them checked."
+        },
+        {
+          "headline":"Click the \"Choose DualShock 3 Controllers to Install\" box.",
+          "description":"You'll find this on the right side of the window."
+        },
+        {
+          "headline":"Check the \"Wireless Controller\" option.",
+          "description":"You'll see a list of all devices attached to your computer (e.g., keyboards, mouses, webcams, etc.). Your PS3 controller is the option marked \"Wireless Controller (Interface [number])\" here. The [number] section pertains to the USB port that your controller is using."
+        },
+        {
+          "headline":"Click Install.",
+          "description":"It's on the right side of the window. Doing so will prompt SCP Toolkit to begin installing your controller's drivers. Once the installation is complete, you'll hear a confirmation noise, at which point you should be able to use your PlayStation 3 controller with any compatible game."
+        }
+      ]
+    },
+    {
+      "name":"Connecting on a Mac",
+      "steps":[
+        {
+          "headline":"Power down and unplug your PS3.",
+          "description":"If you have a PS3 for which you would normally use your controller, turn it off and unplug it to prevent accidentally turning it on while you pair the controller with your Mac."
+        },
+        {
+          "headline":"Reset your controller.",
+          "description":"Using a bent paperclip, press the recessed Reset button that's on the bottom of your controller. This will prevent the controller from running into issues left over from previous pairings. This step is optional, but highly recommended."
+        },
+        {
+          "headline":"Open the Apple menu .",
+          "description":"Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear."
+        },
+        {
+          "headline":"Click System Preferences\u2026.",
+          "description":"It's in the drop-down menu. This will open the System Preferences window."
+        },
+        {
+          "headline":"Click Bluetooth.",
+          "description":"It's the Bluetooth icon {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/9c\\/Macbluetooth1.png\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/9c\\/Macbluetooth1.png\\/15px-Macbluetooth1.png\",\"smallWidth\":460,\"smallHeight\":920,\"bigWidth\":\"15\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Mac icon\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} in the middle of the System Preferences menu. If you don't see this option, click the \u22ee\u22ee\u22ee\u22ee button to return to the main System Preferences menu."
+        },
+        {
+          "headline":"Click Turn Bluetooth On.",
+          "description":"This button is on the left side of the page. Doing so enables your Mac's Bluetooth. If this button reads Turn Bluetooth Off instead, Bluetooth is already enabled."
+        },
+        {
+          "headline":"Connect the PS3 controller to your Mac.",
+          "description":"Attach the small end of the charger cable that came with your PS3 controller to the controller's charging port, then plug the other end into your Mac's USB port. If your Mac uses USB-C ports (ovals) instead of USB 3.0 ports (rectangles), you'll need to buy a USB 3.0 to USB-C adapter for your Mac before you can do this. You can find them on Amazon and in tech department stores."
+        },
+        {
+          "headline":"Let the controller charge if necessary.",
+          "description":"If the controller hasn't been charged for a while, you may want to let it charge for about 30 minutes before proceeding with setting up the Bluetooth connection."
+        },
+        {
+          "headline":"Press and hold the PlayStation button for 2 seconds.",
+          "description":"It's in the middle of the controller. Doing so will prompt the lights on the top of the controller to begin flashing."
+        },
+        {
+          "headline":"Unplug the controller and wait for it to sync.",
+          "description":"The PS3 controller will appear in the list as \"Connected\" after a few seconds."
+        },
+        {
+          "headline":"Enter 0000 as the passcode if prompted.",
+          "description":"If your Mac prompts you for the device's passcode, type 0000 and then click Pair. This usually isn't required on newer Macs."
+        },
+        {
+          "headline":"Set up your controller in-game.",
+          "description":"Now that the PS3 controller is connected to your computer via Bluetooth, you can use it in any game that supports gamepads. You may have to manually set the controller buttons for game functions; this varies from game to game."
+        },
+        {
+          "headline":"Finished.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Connecting on a PlayStation 3 Turn on the PlayStation 3. Press the Power button on the front of the console. When connecting a new controller, the PS3 cannot be in Standby mode. Connect the controller's charging cable to the controller. You'll find the charging port for the cable, which is a mini-USB cable, in the front of the controller's housing (between the triggers). Connect the other end of the cable to the PS3. The other end of the charging cable should plug into a USB port on the front of the PS3. Depending on your PlayStation model, you'll find either two or four USB ports here. Turn on the controller. Press the PlayStation button in the middle of the controller. The lights on the front end of the controller will begin blinking. Wait for the controller lights to finish blinking. Once a single light is on and not blinking, your controller is synced with the PS3. The light that is on indicates which controller you are using (P1, P2, etc. ). Disconnect the USB cable from the controller. Your controller should now be connected to the PS3 wirelessly. Wireless functionality is only available on official Sony DualShock 3 controllers. On unofficial controllers, you'll need to leave the cable plugged in. Charge the controller if it doesn't stay on. If your controller turns off after unplugging it, it may be out of charge. Keep it plugged in for a few hours with the PS3 on to charge the battery. Reset the controller if it still won't sync. If you still can't get your controller to sync with the PS3, you may need to reset it. To do so:\nTurn over the controller and locate the Reset button. You can find it along the top of the backside, near the L2 button. Use a bent paperclip to press and hold the Reset button. You should be able to feel it click. Hold the Reset button for at least two seconds, then remove the paperclip. Try connecting and syncing the controller again. Connecting on Windows Make sure that you have a Sony-certified controller and charging cable. The program that you'll use to connect your PlayStation 3 controller to your computer only works reliably with Sony DualShock 3 controllers that are connected to the computer via a PS3 controller charging cable. While you may be able to get third-party controllers to work (or Sony controllers to work wirelessly), the only reliable way of connecting a PlayStation 3 controller to your Windows computer is with the aforementioned Sony-certified controller and cable. Unplug your PlayStation 3. If you have a PS3 within range of your controller, unplug it from the wall to prevent the controller from accidentally connecting to it. Reset your controller. Using a bent paperclip, press the recessed Reset button that's on the bottom of your controller. This will prevent the controller from failing to connect due to past pairings. Turn on your controller. Press the PlayStation button in the middle of the controller to do so. Its lights will begin blinking. Due to a glitch on some Windows computers, you'll need to turn on your controller before connecting it to your computer. Connect your controller to your computer. Plug the small end of the charging cable into your PS3 controller, then plug the other end into one of your computer's USB ports. Download the SCP Toolkit. SCP Toolkit is a program that allows Windows to use a PlayStation 3 controller. Go to the SCP Toolkit website in a browser. Click ScpToolkit_Setup.exe below the \"Assets\" heading. Wait for the file to finish downloading. Install the SCP Toolkit program. To do so:\nDouble-click the setup file. Click Yes when prompted. Follow the on-screen instructions until you can click Install, then click it. You may have to click several different Install buttons. If prompted to install prerequisites, click Next until the prerequisites begin to install. Click Finish when prompted. Open the \u201cSCPToolkitDriver\u201d Installer program. Double-click this app icon on your desktop to open it. Disable unwanted options. Uncheck both the \"Install DualShock4 Controller\" box and the \"Bluetooth\" box, as well as any other options in the window that you don't want to use. If you're unfamiliar with the other checked boxes not listed here, it's best to leave them checked. Click the \"Choose DualShock 3 Controllers to Install\" box. You'll find this on the right side of the window. Check the \"Wireless Controller\" option. You'll see a list of all devices attached to your computer (e.g., keyboards, mouses, webcams, etc.). Your PS3 controller is the option marked \"Wireless Controller (Interface [number])\" here. The [number] section pertains to the USB port that your controller is using. Click Install. It's on the right side of the window. Doing so will prompt SCP Toolkit to begin installing your controller's drivers. Once the installation is complete, you'll hear a confirmation noise, at which point you should be able to use your PlayStation 3 controller with any compatible game. Connecting on a Mac Power down and unplug your PS3. If you have a PS3 for which you would normally use your controller, turn it off and unplug it to prevent accidentally turning it on while you pair the controller with your Mac. Reset your controller. Using a bent paperclip, press the recessed Reset button that's on the bottom of your controller. This will prevent the controller from running into issues left over from previous pairings. This step is optional, but highly recommended. Open the Apple menu . Click the Apple logo in the top-left corner of the screen. A drop-down menu will appear. Click System Preferences\u2026. It's in the drop-down menu. This will open the System Preferences window. Click Bluetooth. It's the Bluetooth icon {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/9\\/9c\\/Macbluetooth1.png\",\"bigUrl\":\"\\/images\\/thumb\\/9\\/9c\\/Macbluetooth1.png\\/15px-Macbluetooth1.png\",\"smallWidth\":460,\"smallHeight\":920,\"bigWidth\":\"15\",\"bigHeight\":\"30\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>I edited this screenshot of a Mac icon\\n<\\/p><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"http:\\/\\/en.wikipedia.org\\/wiki\\/Fair_use\\\">Fair Use<\\/a><br>\\n<\\/p><\\/div>\"} in the middle of the System Preferences menu. If you don't see this option, click the \u22ee\u22ee\u22ee\u22ee button to return to the main System Preferences menu. Click Turn Bluetooth On. This button is on the left side of the page. Doing so enables your Mac's Bluetooth. If this button reads Turn Bluetooth Off instead, Bluetooth is already enabled. Connect the PS3 controller to your Mac. Attach the small end of the charger cable that came with your PS3 controller to the controller's charging port, then plug the other end into your Mac's USB port. If your Mac uses USB-C ports (ovals) instead of USB 3.0 ports (rectangles), you'll need to buy a USB 3.0 to USB-C adapter for your Mac before you can do this. You can find them on Amazon and in tech department stores. Let the controller charge if necessary. If the controller hasn't been charged for a while, you may want to let it charge for about 30 minutes before proceeding with setting up the Bluetooth connection. Press and hold the PlayStation button for 2 seconds. It's in the middle of the controller. Doing so will prompt the lights on the top of the controller to begin flashing. Unplug the controller and wait for it to sync. The PS3 controller will appear in the list as \"Connected\" after a few seconds. Enter 0000 as the passcode if prompted. If your Mac prompts you for the device's passcode, type 0000 and then click Pair. This usually isn't required on newer Macs. Set up your controller in-game. Now that the PS3 controller is connected to your computer via Bluetooth, you can use it in any game that supports gamepads. You may have to manually set the controller buttons for game functions; this varies from game to game. Finished. ",
+  "tyn_model":[
+    "ps3",
+    "controller",
+    "ps3 controller",
+    "playstation",
+    "usb",
+    "playstation 3",
+    "mac",
+    "system preferences",
+    "dualshock 3 controllers",
+    "usb cable",
+    "ps3 controller charging",
+    "scp toolkit",
+    "playstation 3 controller",
+    "scp toolkit website",
+    "scp toolkit program",
+    "\u201cscptoolkitdriver",
+    "\u201d installer",
+    "dualshock 3",
+    "\u2026.",
+    "bluetooth icon",
+    "\u22ee\u22ee\u22ee\u22ee button",
+    "bluetooth",
+    "usb-c ports",
+    "usb 3.0 ports",
+    "usb 3.0 to usb-c adapter"
+  ],
+  "tyn_section":[
+
+  ]
+}

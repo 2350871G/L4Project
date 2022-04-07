@@ -1,0 +1,133 @@
+{
+  "title":"How to Back up Original Xbox Games",
+  "url":"https://www.wikihow.com/Back-up-Original-Xbox-Games",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Xbox"
+  ],
+  "methods":[
+    {
+      "name":"Ripping to Your Computer",
+      "steps":[
+        {
+          "headline":"Mod your Xbox.",
+          "description":"In order to backup your game discs to your computer, you'll need a modded Xbox. This requires the proper exploit, an exploitable game, and an Action Replay device to connect your Xbox memory card to your computer. You'll find an overview of the process below, but for detailed instructions click here. Download an All-In-One exploit for your Xbox. You can find these by simply searching for \"all-in-one xbox exploit\" in Google, but they can't be linked here. There may be different versions of the exploit for different exploitable games. Get an original copy of a game that can be exploited. Common exploitable games include \"007: Agent Under Fire\", \"Mech Assault\", and \"Splinter Cell\". These games have errors in them that allow the mod process to install itself. You may need to download a specific All-In-One exploit depending on the game you get. Connect the Action Replay to your computer and plug in your Xbox memory card. Copy the All-In-One exploit onto the memory card, and then copy it from the memory card to your Xbox's hard drive. Start up the exploitable game and load the saved game that you copied over. This will start the flashing process. Select \"Backup eeprom\" from the menu that appears. Select \"Install softmod\" or \"Basic install\". The option will vary depending on the exploit and version you are using. After the mod is finished, you'll be asked to select the dashboard you want to use."
+        },
+        {
+          "headline":"Download the tools for your computer.",
+          "description":"You'll need a few different free tools when creating backups on your computer to archive or burn:\nAn FTP client to connect to the Xbox's hard drive. The most popular free, open-source option is FileZilla, available at filezilla-project.org\n\nAn xISO creation program, such as Qwix, CloneXB, or Craxtion. An ISO burning program such as ImgBurn or Alcohol 120%."
+        },
+        {
+          "headline":"Connect your modded Xbox to your PC via cross-over Ethernet.",
+          "description":"A direct connection will allow you to quickly grab the files from your Xbox's disk drive. You'll need a cross-over cable in order to properly connect."
+        },
+        {
+          "headline":"Setup the network connection between the two devices.",
+          "description":"Open your Network Connections window and right-click on your Ethernet adapter. Select \"Properties\" from the menu that appears. Select \"Internet Protocol Version 4 (TCP/IP) from the list and click \"Properties\". Select \"Use the following IP address\" and enter 192.168.0.1 for \"IP address\" and \"255.255.255.0\" for the \"Subnet mask\". Set your Xbox IP to \"Static\" in the Xbox's Network Settings menu."
+        },
+        {
+          "headline":"Insert the game you want to backup into the Xbox.",
+          "description":"The original disc will need to be inserted in order to create the backup."
+        },
+        {
+          "headline":"Connect to the Xbox using the FTP program.",
+          "description":"Create a new connection in your FTP program, labeled \"Xbox\" or something similar. Enter 192.168.0.3 as the IP address for the new connection. For the username and password, enter xbox into each field. Open the connection after entering the details, and after a moment you should see several folders appear."
+        },
+        {
+          "headline":"Open the \"D:\" folder.",
+          "description":"This will display the contents of the game disc in the FTP program. It may take a minute or so for this folder to appear if you just inserted the disc."
+        },
+        {
+          "headline":"Create a folder for the game on your computer.",
+          "description":"Use the right frame in the FTP program to create a folder that will store the game backup files."
+        },
+        {
+          "headline":"Drag the files from the Xbox's \"D:\" folder to the new folder on your computer.",
+          "description":"Drag the files from the left frame to the right frame and drop them into the folder you just created. Wait as the data is transferred from the Xbox to your computer."
+        },
+        {
+          "headline":"Use your xISO creator to create the ISO file.",
+          "description":"Select the \"Create ISO\" or \"Create New\" option in your xISO file and select the files that you've copied to your computer. Wait as the program converts the files into an xISO file that you can burn to a DVD."
+        },
+        {
+          "headline":"Insert a blank DVD-R into your disc burner.",
+          "description":"The DVD-R format will provide the best results when burning your backup copies to disc. Try to use a high-quality brand like Verbatim or Memorex."
+        },
+        {
+          "headline":"Open your ISO burning program.",
+          "description":"When the program loads, browse for the xISO file that you just created."
+        },
+        {
+          "headline":"Lower the write speed.",
+          "description":"Find the Write Speed controls in the burning program interface. Lower it to 2X or 4X to reduce the possibility of errors while burning."
+        },
+        {
+          "headline":"Start the burning process.",
+          "description":"Burn the xISO image file to your blank DVD. This will create a working backup of your game that you can play on your modded Xbox. Make sure that you don't try to play online, as this could get your account banned."
+        }
+      ]
+    },
+    {
+      "name":"Backing Up to Your Xbox HDD",
+      "steps":[
+        {
+          "headline":"Mod your original Xbox.",
+          "description":"In order to install a new hard drive and back up your games to it, you'll need to mod your Xbox console. This will require an Action Replay so that you can copy files from your computer to the Xbox and an original copy of a game that can be exploited to install the custom software. The three most common games used to mod the Xbox are \"Mech Assault\", \"007: Agent Under Fire\", and \"Splinter Cell\". For detailed instructions on modding your Xbox, click here. Download the exploit for the game that you are using. You can find these exploits on a variety of different Xbox modding sites. Copy the exploit files from your computer to the Xbox memory card, and then copy them from the card to the Xbox HDD. Start the exploitable game and load the save file that you copied. This will begin installing the mod software. Select the menu option to start the installation. The menu will vary depending on your exploit. You'll usually be asked to choose a new dashboard, which is a personal preference as they share functionality."
+        },
+        {
+          "headline":"Install a new hard drive (optional).",
+          "description":"The standard hard drive on the Xbox will not be large enough to store more than one game (if that). Replacing the hard drive allows you to install a massive hard drive that can fit hundreds of games. Open your Xbox and remove the old drive. You'll need a Torx 20 and a Torx 10 screwdriver in order to access the hard drive. Click here for detailed instructions on opening the Xbox case and removing the hard drive. Make sure to store the drive in case you need to use it to restore the Xbox."
+        },
+        {
+          "headline":"Install DVD2Xbox.",
+          "description":"This is a program for your modded Xbox that can copy your game discs onto your Xbox hard drive. You can then play these backups directly from your hard drive. Some exploits may have installed this program automatically, or you can use the Slayer Auto Install tool to add it to your modded dashboard."
+        },
+        {
+          "headline":"Insert the game that you want to backup.",
+          "description":"You'll need to insert the original disc for the game that you want to backup to your hard drive."
+        },
+        {
+          "headline":"Launch DVD2Xbox.",
+          "description":"You'll find this in the \"Applications\" section of your Xbox's dashboard."
+        },
+        {
+          "headline":"Select \"Copy DVD/CD to Harddisk\".",
+          "description":"You'll be asked to select a directory. Choose the \"e:\\games\\\" folder to store the game. DVD2Xbox will automatically create a folder for the specific game."
+        },
+        {
+          "headline":"Wait for the game to copy.",
+          "description":"This will likely take several minutes to complete."
+        },
+        {
+          "headline":"Return to your dashboard and select the \"Games\" section.",
+          "description":"You'll see your newly backed up game listed here, along with any other games you've backed up. Selecting a game will launch it without the need for the disc."
+        }
+      ]
+    }
+  ],
+  "text":" Ripping to Your Computer Mod your Xbox. In order to backup your game discs to your computer, you'll need a modded Xbox. This requires the proper exploit, an exploitable game, and an Action Replay device to connect your Xbox memory card to your computer. You'll find an overview of the process below, but for detailed instructions click here. Download an All-In-One exploit for your Xbox. You can find these by simply searching for \"all-in-one xbox exploit\" in Google, but they can't be linked here. There may be different versions of the exploit for different exploitable games. Get an original copy of a game that can be exploited. Common exploitable games include \"007: Agent Under Fire\", \"Mech Assault\", and \"Splinter Cell\". These games have errors in them that allow the mod process to install itself. You may need to download a specific All-In-One exploit depending on the game you get. Connect the Action Replay to your computer and plug in your Xbox memory card. Copy the All-In-One exploit onto the memory card, and then copy it from the memory card to your Xbox's hard drive. Start up the exploitable game and load the saved game that you copied over. This will start the flashing process. Select \"Backup eeprom\" from the menu that appears. Select \"Install softmod\" or \"Basic install\". The option will vary depending on the exploit and version you are using. After the mod is finished, you'll be asked to select the dashboard you want to use. Download the tools for your computer. You'll need a few different free tools when creating backups on your computer to archive or burn:\nAn FTP client to connect to the Xbox's hard drive. The most popular free, open-source option is FileZilla, available at filezilla-project.org\n\nAn xISO creation program, such as Qwix, CloneXB, or Craxtion. An ISO burning program such as ImgBurn or Alcohol 120%. Connect your modded Xbox to your PC via cross-over Ethernet. A direct connection will allow you to quickly grab the files from your Xbox's disk drive. You'll need a cross-over cable in order to properly connect. Setup the network connection between the two devices. Open your Network Connections window and right-click on your Ethernet adapter. Select \"Properties\" from the menu that appears. Select \"Internet Protocol Version 4 (TCP/IP) from the list and click \"Properties\". Select \"Use the following IP address\" and enter 192.168.0.1 for \"IP address\" and \"255.255.255.0\" for the \"Subnet mask\". Set your Xbox IP to \"Static\" in the Xbox's Network Settings menu. Insert the game you want to backup into the Xbox. The original disc will need to be inserted in order to create the backup. Connect to the Xbox using the FTP program. Create a new connection in your FTP program, labeled \"Xbox\" or something similar. Enter 192.168.0.3 as the IP address for the new connection. For the username and password, enter xbox into each field. Open the connection after entering the details, and after a moment you should see several folders appear. Open the \"D:\" folder. This will display the contents of the game disc in the FTP program. It may take a minute or so for this folder to appear if you just inserted the disc. Create a folder for the game on your computer. Use the right frame in the FTP program to create a folder that will store the game backup files. Drag the files from the Xbox's \"D:\" folder to the new folder on your computer. Drag the files from the left frame to the right frame and drop them into the folder you just created. Wait as the data is transferred from the Xbox to your computer. Use your xISO creator to create the ISO file. Select the \"Create ISO\" or \"Create New\" option in your xISO file and select the files that you've copied to your computer. Wait as the program converts the files into an xISO file that you can burn to a DVD. Insert a blank DVD-R into your disc burner. The DVD-R format will provide the best results when burning your backup copies to disc. Try to use a high-quality brand like Verbatim or Memorex. Open your ISO burning program. When the program loads, browse for the xISO file that you just created. Lower the write speed. Find the Write Speed controls in the burning program interface. Lower it to 2X or 4X to reduce the possibility of errors while burning. Start the burning process. Burn the xISO image file to your blank DVD. This will create a working backup of your game that you can play on your modded Xbox. Make sure that you don't try to play online, as this could get your account banned. Backing Up to Your Xbox HDD Mod your original Xbox. In order to install a new hard drive and back up your games to it, you'll need to mod your Xbox console. This will require an Action Replay so that you can copy files from your computer to the Xbox and an original copy of a game that can be exploited to install the custom software. The three most common games used to mod the Xbox are \"Mech Assault\", \"007: Agent Under Fire\", and \"Splinter Cell\". For detailed instructions on modding your Xbox, click here. Download the exploit for the game that you are using. You can find these exploits on a variety of different Xbox modding sites. Copy the exploit files from your computer to the Xbox memory card, and then copy them from the card to the Xbox HDD. Start the exploitable game and load the save file that you copied. This will begin installing the mod software. Select the menu option to start the installation. The menu will vary depending on your exploit. You'll usually be asked to choose a new dashboard, which is a personal preference as they share functionality. Install a new hard drive (optional). The standard hard drive on the Xbox will not be large enough to store more than one game (if that). Replacing the hard drive allows you to install a massive hard drive that can fit hundreds of games. Open your Xbox and remove the old drive. You'll need a Torx 20 and a Torx 10 screwdriver in order to access the hard drive. Click here for detailed instructions on opening the Xbox case and removing the hard drive. Make sure to store the drive in case you need to use it to restore the Xbox. Install DVD2Xbox. This is a program for your modded Xbox that can copy your game discs onto your Xbox hard drive. You can then play these backups directly from your hard drive. Some exploits may have installed this program automatically, or you can use the Slayer Auto Install tool to add it to your modded dashboard. Insert the game that you want to backup. You'll need to insert the original disc for the game that you want to backup to your hard drive. Launch DVD2Xbox. You'll find this in the \"Applications\" section of your Xbox's dashboard. Select \"Copy DVD/CD to Harddisk\". You'll be asked to select a directory. Choose the \"e:\\games\\\" folder to store the game. DVD2Xbox will automatically create a folder for the specific game. Wait for the game to copy. This will likely take several minutes to complete. Return to your dashboard and select the \"Games\" section. You'll see your newly backed up game listed here, along with any other games you've backed up. Selecting a game will launch it without the need for the disc.",
+  "tyn_model":[
+    "xbox",
+    "ftp program",
+    "dvd-r",
+    "dvd",
+    "xbox hdd",
+    "hard drive",
+    "ftp client",
+    "ethernet adapter",
+    "internet protocol version",
+    "iso burning program",
+    "xbox console",
+    "torx 10",
+    "screwdriver",
+    "cd",
+    "games",
+    "game",
+    "disc"
+  ],
+  "tyn_section":[
+
+  ]
+}

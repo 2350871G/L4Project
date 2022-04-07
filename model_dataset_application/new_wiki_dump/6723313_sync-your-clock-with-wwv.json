@@ -1,0 +1,94 @@
+{
+  "title":"How to Sync Your Clock with WWV",
+  "url":"https://www.wikihow.com/Sync-Your-Clock-with-WWV",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Decorating",
+    "Home Decor"
+  ],
+  "methods":[
+    {
+      "name":"Computer Clocks",
+      "steps":[
+        {
+          "headline":"Get yourself a shortwave radio.",
+          "description":"A shortwave radio can tune to frequencies that includes WWV / WWVH. Cheap shortwave radios can be purchased from your local electrical store. If you don't want to use a shortwave radio, then you can use an online receiver such as Global Tuners or the Twente Web SDR to tune to WWV / WWVH."
+        },
+        {
+          "headline":"Turn on your shortwave radio and tune it to one of the WWV / WWVH frequencies.",
+          "description":"For the ones who uses an online receiver, tune the online receiver to the WWV / WWVH frequencies."
+        },
+        {
+          "headline":"Note the ticks and chimes of WWV / WWVH.",
+          "description":"If you have a pair of headphones, connect your headphones to your shortwave radio or computer."
+        },
+        {
+          "headline":"Sync up the time on your computer.",
+          "description":"If you're using Windows,  double-click the time on the taskbar. When the \"Time and Date Properties\" box appears, click \"Change date and time\" ."
+        },
+        {
+          "headline":"Set your computer time accurately to the station.",
+          "description":"When WWV / WWVH double ticks at the nine second (i.e. 11:02:09 UTC), click the \"OK\" button. You can also click the \"OK\" button when the station chimes at the beginning of the minute (i.e. 11:02:00 UTC). For those who live outside the UTC time zone, set your clock according to your local time zone."
+        },
+        {
+          "headline":"Viola!",
+          "description":"Your computer clock is now synced with WWV / WWVH. Remember to repeat the same steps if your computer clock loses a second again."
+        }
+      ]
+    },
+    {
+      "name":"Digital Clocks",
+      "steps":[
+        {
+          "headline":"Make sure you know how to change the time on your digital clock.",
+          "description":"Most digital clocks reset to zero seconds when you change their time."
+        },
+        {
+          "headline":"With the shortwave radio / online receiver on, change the time on the  physical  clock to a minute after the current time.",
+          "description":"Say like if it was 23:02:09 GMT+8 (15:02:09 UTC) , set it to 23:03 (15:03 UTC) on the physical clock."
+        },
+        {
+          "headline":"When the actual time reaches the stopped time, quickly confirm the time change on the digital clock.",
+          "description":""
+        },
+        {
+          "headline":"Repeat.",
+          "description":"With this single clock synced to the station, simply take this clock and use it to do the same with all the other clocks you own, replacing the station time with the time from your first synced clock."
+        }
+      ]
+    },
+    {
+      "name":"Analogue Clocks",
+      "steps":[
+        {
+          "headline":"Take the analogue clock and stop it when the seconds pointer is directly at 0 seconds, which would make it point to 12.",
+          "description":"This can be done by removing the battery quickly, or by pulling out the tab which lets you set the time on a watch."
+        },
+        {
+          "headline":"With the shortwave radio / online receiver on, change the time on the  physical  clock to a minute after the current time.",
+          "description":"Say like if it was 23:02:09 GMT+8 (15:02:09 UTC) , set it to 23:03 (15:03 UTC) on the physical clock."
+        },
+        {
+          "headline":"Wait until the real time is the same as the time set on the stopped clock.",
+          "description":"Replace the battery quickly, or quickly push the watch tab back in."
+        },
+        {
+          "headline":"With this single clock synced to the station, simply take this clock and use it to do the same with all the other clocks you own, replacing the station time with the time from your first synced clock.",
+          "description":""
+        }
+      ]
+    }
+  ],
+  "text":" Computer Clocks Get yourself a shortwave radio. A shortwave radio can tune to frequencies that includes WWV / WWVH. Cheap shortwave radios can be purchased from your local electrical store. If you don't want to use a shortwave radio, then you can use an online receiver such as Global Tuners or the Twente Web SDR to tune to WWV / WWVH. Turn on your shortwave radio and tune it to one of the WWV / WWVH frequencies. For the ones who uses an online receiver, tune the online receiver to the WWV / WWVH frequencies. Note the ticks and chimes of WWV / WWVH. If you have a pair of headphones, connect your headphones to your shortwave radio or computer. Sync up the time on your computer. If you're using Windows,  double-click the time on the taskbar. When the \"Time and Date Properties\" box appears, click \"Change date and time\" . Set your computer time accurately to the station. When WWV / WWVH double ticks at the nine second (i.e. 11:02:09 UTC), click the \"OK\" button. You can also click the \"OK\" button when the station chimes at the beginning of the minute (i.e. 11:02:00 UTC). For those who live outside the UTC time zone, set your clock according to your local time zone. Viola! Your computer clock is now synced with WWV / WWVH. Remember to repeat the same steps if your computer clock loses a second again. Digital Clocks Make sure you know how to change the time on your digital clock. Most digital clocks reset to zero seconds when you change their time. With the shortwave radio / online receiver on, change the time on the  physical  clock to a minute after the current time. Say like if it was 23:02:09 GMT+8 (15:02:09 UTC) , set it to 23:03 (15:03 UTC) on the physical clock. When the actual time reaches the stopped time, quickly confirm the time change on the digital clock.  Repeat. With this single clock synced to the station, simply take this clock and use it to do the same with all the other clocks you own, replacing the station time with the time from your first synced clock. Analogue Clocks Take the analogue clock and stop it when the seconds pointer is directly at 0 seconds, which would make it point to 12. This can be done by removing the battery quickly, or by pulling out the tab which lets you set the time on a watch. With the shortwave radio / online receiver on, change the time on the  physical  clock to a minute after the current time. Say like if it was 23:02:09 GMT+8 (15:02:09 UTC) , set it to 23:03 (15:03 UTC) on the physical clock. Wait until the real time is the same as the time set on the stopped clock. Replace the battery quickly, or quickly push the watch tab back in. With this single clock synced to the station, simply take this clock and use it to do the same with all the other clocks you own, replacing the station time with the time from your first synced clock. ",
+  "tyn_model":[
+    "shortwave radio",
+    "headphones",
+    "clocks",
+    "watch",
+    "shortwave radios",
+    "analogue clock"
+  ],
+  "tyn_section":[
+
+  ]
+}

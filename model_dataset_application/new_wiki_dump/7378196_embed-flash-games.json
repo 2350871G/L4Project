@@ -1,0 +1,34 @@
+{
+  "title":"How to Embed Flash Games",
+  "url":"https://www.wikihow.com/Embed-Flash-Games",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games"
+  ],
+  "steps":[
+    {
+      "headline":"Prepare the URL of the SWF( Macromedia Flash Object) you want to be embedded.",
+      "description":"You can use  SWF elements from any website that you find on the web. If you are confused about this part then make sure you read the Capture a Flash Object from a Web Site guide. Note that your URL must ends with .swf"
+    },
+    {
+      "headline":"Edit the SWF code with the game and size that you need.",
+      "description":"Edit the X,Y and Z parameters in the code below:\nX - the width of the embedded player. Y - the height of the embedded player. Z - the URL of the swf element(game) that you got while completing the first step. <object width=\"X\" height=\"Y\">\n<param name=\"movie\" value=\"Z\">\n<embed src=\"Z\" width=\"X\" height=\"Y\">\n</embed>\n</object>"
+    },
+    {
+      "headline":"Review the result.",
+      "description":"Once you are done your code should look like the following:\n\n<object width=\"600\" height=\"400\">\n<param name=\"movie\" value=\"http://www.yourlinkhere.com/gamename.swf\">\n<embed src=\"http://www.yourlinkhere.com/gamename.swf\" width=\"600\" height=\"400\">\n</embed>\n</object>"
+    },
+    {
+      "headline":"Copy and paste the code into your webpage.",
+      "description":"Connect to your server using the file manager or any ftp software like FILEZILLA or FETCH SOFTWORKS and place the code at the page where you want the embedded player to appear. The Flash player should appear at your website on the place where you pasted the code."
+    }
+  ],
+  "text":" Prepare the URL of the SWF( Macromedia Flash Object) you want to be embedded. You can use  SWF elements from any website that you find on the web. If you are confused about this part then make sure you read the Capture a Flash Object from a Web Site guide. Note that your URL must ends with .swf Edit the SWF code with the game and size that you need. Edit the X,Y and Z parameters in the code below:\nX - the width of the embedded player. Y - the height of the embedded player. Z - the URL of the swf element(game) that you got while completing the first step. <object width=\"X\" height=\"Y\">\n<param name=\"movie\" value=\"Z\">\n<embed src=\"Z\" width=\"X\" height=\"Y\">\n</embed>\n</object> Review the result. Once you are done your code should look like the following:\n\n<object width=\"600\" height=\"400\">\n<param name=\"movie\" value=\"http://www.yourlinkhere.com/gamename.swf\">\n<embed src=\"http://www.yourlinkhere.com/gamename.swf\" width=\"600\" height=\"400\">\n</embed>\n</object> Copy and paste the code into your webpage. Connect to your server using the file manager or any ftp software like FILEZILLA or FETCH SOFTWORKS and place the code at the page where you want the embedded player to appear. The Flash player should appear at your website on the place where you pasted the code.",
+  "tyn_model":[
+    "ftp software"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title":"How to Decode a Caesar Box Code",
+  "url":"https://www.wikihow.com/Decode-a-Caesar-Box-Code",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games"
+  ],
+  "steps":[
+    {
+      "headline":"Count the number of characters in the code.",
+      "description":"Here we have 16: G T Y O R J O T E O U I A B G T"
+    },
+    {
+      "headline":"Determine how many rows you can divide the letters into equally (Find the square root of the number you found in step 1.",
+      "description":"If the square root isn't a whole number, round up). We can put 16 into 4 rows of 4 (I.e. the square root of 16 is 4). If we had 25 letters we could put them into 5 rows of 5 (square root of 25 is 5) and so on. In cases where the number doesn't divide so neatly, use the number of rows for the next \"boxable\" (perfect square) number up. The \"boxable\" (square) numbers are 9, 16, 25, 36, 49, etc. If the code has 22 letters (square root of 22 is 4.69), the next number up is 25, which would mean 5 rows (4.69 rounds up to 5)."
+    },
+    {
+      "headline":"Write the letters out into rows.",
+      "description":"With the example given, it'd be written out as such: GTYORJOTEOUIABGT"
+    },
+    {
+      "headline":"Start from the top left letter and read down, then start at the top of the next column and read down again, and so on.",
+      "description":"This example has the message: \"GREAT JOB YOU GOT IT\"."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Count the number of characters in the code. Here we have 16: G T Y O R J O T E O U I A B G T Determine how many rows you can divide the letters into equally (Find the square root of the number you found in step 1. If the square root isn't a whole number, round up). We can put 16 into 4 rows of 4 (I.e. the square root of 16 is 4). If we had 25 letters we could put them into 5 rows of 5 (square root of 25 is 5) and so on. In cases where the number doesn't divide so neatly, use the number of rows for the next \"boxable\" (perfect square) number up. The \"boxable\" (square) numbers are 9, 16, 25, 36, 49, etc. If the code has 22 letters (square root of 22 is 4.69), the next number up is 25, which would mean 5 rows (4.69 rounds up to 5). Write the letters out into rows. With the example given, it'd be written out as such: GTYORJOTEOUIABGT Start from the top left letter and read down, then start at the top of the next column and read down again, and so on. This example has the message: \"GREAT JOB YOU GOT IT\". Finished. ",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

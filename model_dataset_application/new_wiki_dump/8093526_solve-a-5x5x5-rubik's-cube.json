@@ -1,0 +1,155 @@
+{
+  "title":"How to Solve a 5x5x5 Rubik's Cube",
+  "url":"https://www.wikihow.com/Solve-a-5x5x5-Rubik%27s-Cube",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games",
+    "Mechanical Puzzles",
+    "Rubik's Cube"
+  ],
+  "parts":[
+    {
+      "name":"Decoding the Rubik\u2019s Cube Shorthand",
+      "steps":[
+        {
+          "headline":"Remember that U, D, L, R, F, and B create the 6 cube faces.",
+          "description":"Hold your Rubik\u2019s cube in 1 hand, keeping the puzzle upright as you hold it. To have an easier time solving the puzzle, assign labels to all 6 faces. Label the top face as \u201cUpper\u201d (or \u201cU\u201d), the bottom face as \u201cDown\u201d (or \u201cD\u201d), the leftmost face as \u201cLeft\u201d (or \u201cL\u201d), the rightmost face as \u201cRight\u201d (or \u201cR\u201d), the front face as \u201cFront\u201d (or \u201cF\u201d), and the back face as \u201cBack\u201d (or \u201cB\u201d). Always keep the cube in the same position as you complete the puzzle, or else you won\u2019t be able to solve it properly."
+        },
+        {
+          "headline":"Perform a \u00bc clockwise turn when a single letter is shown.",
+          "description":"Grip the edges of a cube face and rotate it clockwise by 90 degrees. Use this small turn whenever the algorithm specifies a single letter. Unless specified, always perform a \u00bc turn in a clockwise direction. For example: Imagine that the upper face is completely green, while the front face is completely red. Grab the edge of the front face and rotate it 90 degrees clockwise to perform a \u00bc turn. At this point, 1 row of the green squares will now be visible of the right face of the cube."
+        },
+        {
+          "headline":"Use a \u00bd clockwise turn whenever you see the number 2.",
+          "description":"Keep an eye out for algorithm shorthand that includes both numbers and letters. If you see a \u201c2\u201d immediately after a letter, rotate 1 face of the cube by a full 180 degrees. Keep in mind that \u00bd turns are also clockwise, unless the algorithm specifies otherwise. For instance: Pretend that the upper face of the cube is white, the right face is blue, the bottom/down face is orange, the left face is red, and the front face is green. If the algorithm says \u201cF2,\u201d grip the front face of the cube and rotate it 180 degrees. Once you finish turning the front face, the bottom row of the upper face will be orange."
+        },
+        {
+          "headline":"Do a counter-clockwise \u00bc turn when you see an apostrophe ( \u2019 ).",
+          "description":"Keep an eye out for stray apostrophes, as they can make your puzzle-solving experience much more difficult. While most algorithm steps require you to turn the cube clockwise, this punctuation requires you to turn the cube in the opposite direction. Double check all algorithms before you rotate anything so your puzzle doesn\u2019t get jumbled. For example: Imagine again that upper face is green, while the front face is red. Turn the front face 90 degrees to the left whenever you see an apostrophe listed in the algorithm (e.g., U\u2019, F\u2019). More often than not, counter-clockwise movements are used for \u00bc turns, but not \u00bd turns."
+        },
+        {
+          "headline":"Turn 2 columns at once when you see the letter \u201cw.\u201d Rotate 2 columns 90 degrees to the right whenever you see a lowercase \u201cw\u201d next to a cube face (e.g., Rw, Uw).",
+          "description":"Since the Professor cube is much larger than its 3x3x3 counterpart, you\u2018ll need to rotate the cube in larger amounts in order to solve the puzzle. For instance, if a puzzle algorithm reads \u201cRw,\u201d perform a \u00bc turn using 2 layers of the right face. If you see an apostrophe after the \u201cw,\u201d be sure to turn the cube counter-clockwise."
+        },
+        {
+          "headline":"Spin 3 columns together whenever you see the number 3.",
+          "description":"Keep your eyes peeled for an additional number included in the puzzle algorithm. Whenever you see the number \u201c3,\u201d rotate 3 layers beneath the face specified in the algorithm. Depending on the algorithms you reference, you might not run into any instructions telling you to rotate 3 layers of the cube at once."
+        },
+        {
+          "headline":"Rotate the whole cube when you see \u201cx\u201d or \u201cy.\u201d Solve complicated algorithms by physically rotating the cube in the middle of the puzzle.",
+          "description":"When you see the letter \u201cx,\u201d turn the cube clockwise on its invisible x-axis. If you see the letter \u201cy,\u201d rotate the cube clockwise on its invisible y-axis. If you notice an apostrophe next to the \u201cx\u201d or \u201cy,\u201d rotate the cube counter-clockwise instead. Tip: Imagine that you have a Rubik's cube with a white upper face, a red front face, a yellow bottom/down face, an orange back face, a blue right face, and a green left face. If you see \u201cx\u201d listed in the algorithm, rotate the cube so that red becomes the upper face. If you see \u201cy\u201d in the algorithm, turn the cube so that white remains the upper face, but blue becomes the front face. If you see x\u2019 or y\u2019 in the algorithm, perform these actions in reverse."
+        }
+      ]
+    },
+    {
+      "name":"Finding the Centers",
+      "steps":[
+        {
+          "headline":"Form a small cross with the F R\u2019 D\u2019 R F2 algorithm.",
+          "description":"To make the puzzle-solving process less overwhelming, start solving the centers of the large Rubik\u2019s cube. In this case, pretend that you\u2019re tinkering with a generic, 3x3x3 cube instead of the more complex puzzle. To start, try using the F R\u2019 D\u2019 R F2 algorithm to get a cross on the upper layer of the cube. This algorithm is most commonly used on 3x3x3 cubes. For more information on algorithms specific to 5x5x5 cubes, check out this resource: https://protofusion.org/idiots_guide_to_rubiks_cube/oldsite/5x5x5.html. Make sure that you have a center cross/plus sign in the middle of each cube face before continuing."
+        },
+        {
+          "headline":"Find the centers using U\u2019 R\u2019 U R\u2019 U\u2019 2R U.",
+          "description":"Begin filling in a solid 3x3x3 center on each cube face by rotating the upper layer of the cube in a counter-clockwise \u00bc turn. Next, turn the right face of the cube in a counter-clockwise \u00bc turn. Take the algorithm one step at a time. If you think you\u2019ve made a mistake, try turning the cube in the opposite direction that you just rotated it in."
+        },
+        {
+          "headline":"Follow the U R\u2019 U\u2019 portion of the center algorithm.",
+          "description":"After completing the first 2 steps of the puzzle, continue by rotating the upper face of the cube in a clockwise \u00bc turn. Next, turn the right face of the cube in a counter-clockwise \u00bc turn. Finally, rotate the upper face again, but in a counter-clockwise \u00bc turn. Pay close attention to the apostrophes in any Rubik\u2019s cube algorithm. The can be easy to miss!"
+        },
+        {
+          "headline":"Finish finding the centers with 2R U.",
+          "description":"Proceed by rotating the right face of the cube in a clockwise \u00bd turn. Next, complete the algorithm by turning the upper face in a clockwise \u00bc turn. This is the only portion of the algorithm that involves a \u00bd turn."
+        }
+      ]
+    },
+    {
+      "name":"Aligning the Edges of the Cube",
+      "steps":[
+        {
+          "headline":"Use the R U\u2019 R\u2019 and F R\u2019 F\u2019 R algorithms first.",
+          "description":"Choose a method to begin adjusting the edges on your 5x5x5 Rubik\u2019s cube. For the first algorithm, rotate the right face clockwise, the upper face counter-clockwise, and the right face counter-clockwise. To solve the second algorithm, turn the front face clockwise, the right face counter-clockwise, the front face counter-clockwise, and the right face clockwise. Choose 1 or the other to start aligning the edges, as you don\u2019t need to use both. Keep in mind that all of these rotations will be \u00bc turns."
+        },
+        {
+          "headline":"Flip the edge with the R U R\u2019 F R\u2019 F\u2019 R algorithm.",
+          "description":"Adjust the front-right edge by turning the right cube face clockwise, then rotating the upper face in a clockwise direction as well. Continue by turning the right face counter-clockwise, the front face clockwise, the right face counter-clockwise again, and the front face counter-clockwise. Finish by rotating the right face clockwise. All of these cube rotations are still going to be \u00bc turns."
+        },
+        {
+          "headline":"Solve the edges with Uw\u2019 (R U R\u2019 F R\u2019 F\u2019 R) Uw.",
+          "description":"Once you\u2019ve assembled most of the edges together, use a \u201cslice-flip-slice\u201d technique to complete the last few edges without messing up the center colors. All of these rotations will be \u00bc turns. First, rotate the top 2 layers of the cube in a counter-clockwise direction. Next, \u201cflip\u201d the colors of the cube by rotating the right face clockwise, the upper clockwise, the right face counter-clockwise, the front face clockwise, the right face counter-clockwise, the front face counter-clockwise, and the right face clockwise. Finally, finish off the algorithm by rotating the top 2 layers of the cube clockwise."
+        },
+        {
+          "headline":"Use a special algorithm to get rid of the parities.",
+          "description":"Follow the Rw U2 x Rw U2 Rw U2 Rw\u2019 U2 Lw U2 3Rw\u2019 U2 Rw U2 Rw\u2019 U2 Rw\u2019 algorithm when you go to remove the parities, or mismatched cubes. First, rotate 2 of the rightmost layers in a clockwise \u00bc turn, then turn the upper face in a clockwise \u00bd turn. Physically roll the entire cube backward before proceeding. Next, turn 2 right layers clockwise in a \u00bc turn, 1 upper layer clockwise in a \u00bd turn, 2 right layers clockwise in a \u00bc turn again, and 1 upper layer clockwise in a \u00bd turn again. Continue following this algorithm until there are no more parities leftover on the cube. This algorithm repeats itself a lot, so do your best to keep track of how many steps you\u2019ve completed."
+        },
+        {
+          "headline":"Solve the rest of the cube like it\u2019s a 3x3x3 puzzle.",
+          "description":"Now that the bulk of the large cube is solved, pretend that you\u2019re solving a simpler Rubik\u2019s cube. Follow the basic principles of the layer by layer method to complete the Professor\u2019s Cube. To see a visual step-by-step guide to solve a 3x3x3 cube, look here: http://www.alchemistmatt.com/cube/rubikcenter.html. Don\u2019t be discouraged if you can\u2019t solve the puzzle correctly on your first try. The Professor\u2019s Cube is extremely difficult to play with, and even more tricky to master.Tip: If you\u2019re still stuck, use a 5x5x5 Rubik\u2019s cube solver to get a customized tutorial on how to solve your exact puzzle. Use the digital coloring system to fill in each block with the precise colors that are on your cube! Check it out here: https://www.grubiks.com/solvers/professors-cube-5x5x5."
+        }
+      ]
+    }
+  ],
+  "text":" Decoding the Rubik\u2019s Cube Shorthand Remember that U, D, L, R, F, and B create the 6 cube faces. Hold your Rubik\u2019s cube in 1 hand, keeping the puzzle upright as you hold it. To have an easier time solving the puzzle, assign labels to all 6 faces. Label the top face as \u201cUpper\u201d (or \u201cU\u201d), the bottom face as \u201cDown\u201d (or \u201cD\u201d), the leftmost face as \u201cLeft\u201d (or \u201cL\u201d), the rightmost face as \u201cRight\u201d (or \u201cR\u201d), the front face as \u201cFront\u201d (or \u201cF\u201d), and the back face as \u201cBack\u201d (or \u201cB\u201d). Always keep the cube in the same position as you complete the puzzle, or else you won\u2019t be able to solve it properly. Perform a \u00bc clockwise turn when a single letter is shown. Grip the edges of a cube face and rotate it clockwise by 90 degrees. Use this small turn whenever the algorithm specifies a single letter. Unless specified, always perform a \u00bc turn in a clockwise direction. For example: Imagine that the upper face is completely green, while the front face is completely red. Grab the edge of the front face and rotate it 90 degrees clockwise to perform a \u00bc turn. At this point, 1 row of the green squares will now be visible of the right face of the cube. Use a \u00bd clockwise turn whenever you see the number 2. Keep an eye out for algorithm shorthand that includes both numbers and letters. If you see a \u201c2\u201d immediately after a letter, rotate 1 face of the cube by a full 180 degrees. Keep in mind that \u00bd turns are also clockwise, unless the algorithm specifies otherwise. For instance: Pretend that the upper face of the cube is white, the right face is blue, the bottom/down face is orange, the left face is red, and the front face is green. If the algorithm says \u201cF2,\u201d grip the front face of the cube and rotate it 180 degrees. Once you finish turning the front face, the bottom row of the upper face will be orange. Do a counter-clockwise \u00bc turn when you see an apostrophe ( \u2019 ). Keep an eye out for stray apostrophes, as they can make your puzzle-solving experience much more difficult. While most algorithm steps require you to turn the cube clockwise, this punctuation requires you to turn the cube in the opposite direction. Double check all algorithms before you rotate anything so your puzzle doesn\u2019t get jumbled. For example: Imagine again that upper face is green, while the front face is red. Turn the front face 90 degrees to the left whenever you see an apostrophe listed in the algorithm (e.g., U\u2019, F\u2019). More often than not, counter-clockwise movements are used for \u00bc turns, but not \u00bd turns. Turn 2 columns at once when you see the letter \u201cw.\u201d Rotate 2 columns 90 degrees to the right whenever you see a lowercase \u201cw\u201d next to a cube face (e.g., Rw, Uw). Since the Professor cube is much larger than its 3x3x3 counterpart, you\u2018ll need to rotate the cube in larger amounts in order to solve the puzzle. For instance, if a puzzle algorithm reads \u201cRw,\u201d perform a \u00bc turn using 2 layers of the right face. If you see an apostrophe after the \u201cw,\u201d be sure to turn the cube counter-clockwise. Spin 3 columns together whenever you see the number 3. Keep your eyes peeled for an additional number included in the puzzle algorithm. Whenever you see the number \u201c3,\u201d rotate 3 layers beneath the face specified in the algorithm. Depending on the algorithms you reference, you might not run into any instructions telling you to rotate 3 layers of the cube at once. Rotate the whole cube when you see \u201cx\u201d or \u201cy.\u201d Solve complicated algorithms by physically rotating the cube in the middle of the puzzle. When you see the letter \u201cx,\u201d turn the cube clockwise on its invisible x-axis. If you see the letter \u201cy,\u201d rotate the cube clockwise on its invisible y-axis. If you notice an apostrophe next to the \u201cx\u201d or \u201cy,\u201d rotate the cube counter-clockwise instead. Tip: Imagine that you have a Rubik's cube with a white upper face, a red front face, a yellow bottom/down face, an orange back face, a blue right face, and a green left face. If you see \u201cx\u201d listed in the algorithm, rotate the cube so that red becomes the upper face. If you see \u201cy\u201d in the algorithm, turn the cube so that white remains the upper face, but blue becomes the front face. If you see x\u2019 or y\u2019 in the algorithm, perform these actions in reverse. Finding the Centers Form a small cross with the F R\u2019 D\u2019 R F2 algorithm. To make the puzzle-solving process less overwhelming, start solving the centers of the large Rubik\u2019s cube. In this case, pretend that you\u2019re tinkering with a generic, 3x3x3 cube instead of the more complex puzzle. To start, try using the F R\u2019 D\u2019 R F2 algorithm to get a cross on the upper layer of the cube. This algorithm is most commonly used on 3x3x3 cubes. For more information on algorithms specific to 5x5x5 cubes, check out this resource: https://protofusion.org/idiots_guide_to_rubiks_cube/oldsite/5x5x5.html. Make sure that you have a center cross/plus sign in the middle of each cube face before continuing. Find the centers using U\u2019 R\u2019 U R\u2019 U\u2019 2R U. Begin filling in a solid 3x3x3 center on each cube face by rotating the upper layer of the cube in a counter-clockwise \u00bc turn. Next, turn the right face of the cube in a counter-clockwise \u00bc turn. Take the algorithm one step at a time. If you think you\u2019ve made a mistake, try turning the cube in the opposite direction that you just rotated it in. Follow the U R\u2019 U\u2019 portion of the center algorithm. After completing the first 2 steps of the puzzle, continue by rotating the upper face of the cube in a clockwise \u00bc turn. Next, turn the right face of the cube in a counter-clockwise \u00bc turn. Finally, rotate the upper face again, but in a counter-clockwise \u00bc turn. Pay close attention to the apostrophes in any Rubik\u2019s cube algorithm. The can be easy to miss! Finish finding the centers with 2R U. Proceed by rotating the right face of the cube in a clockwise \u00bd turn. Next, complete the algorithm by turning the upper face in a clockwise \u00bc turn. This is the only portion of the algorithm that involves a \u00bd turn. Aligning the Edges of the Cube Use the R U\u2019 R\u2019 and F R\u2019 F\u2019 R algorithms first. Choose a method to begin adjusting the edges on your 5x5x5 Rubik\u2019s cube. For the first algorithm, rotate the right face clockwise, the upper face counter-clockwise, and the right face counter-clockwise. To solve the second algorithm, turn the front face clockwise, the right face counter-clockwise, the front face counter-clockwise, and the right face clockwise. Choose 1 or the other to start aligning the edges, as you don\u2019t need to use both. Keep in mind that all of these rotations will be \u00bc turns. Flip the edge with the R U R\u2019 F R\u2019 F\u2019 R algorithm. Adjust the front-right edge by turning the right cube face clockwise, then rotating the upper face in a clockwise direction as well. Continue by turning the right face counter-clockwise, the front face clockwise, the right face counter-clockwise again, and the front face counter-clockwise. Finish by rotating the right face clockwise. All of these cube rotations are still going to be \u00bc turns. Solve the edges with Uw\u2019 (R U R\u2019 F R\u2019 F\u2019 R) Uw. Once you\u2019ve assembled most of the edges together, use a \u201cslice-flip-slice\u201d technique to complete the last few edges without messing up the center colors. All of these rotations will be \u00bc turns. First, rotate the top 2 layers of the cube in a counter-clockwise direction. Next, \u201cflip\u201d the colors of the cube by rotating the right face clockwise, the upper clockwise, the right face counter-clockwise, the front face clockwise, the right face counter-clockwise, the front face counter-clockwise, and the right face clockwise. Finally, finish off the algorithm by rotating the top 2 layers of the cube clockwise. Use a special algorithm to get rid of the parities. Follow the Rw U2 x Rw U2 Rw U2 Rw\u2019 U2 Lw U2 3Rw\u2019 U2 Rw U2 Rw\u2019 U2 Rw\u2019 algorithm when you go to remove the parities, or mismatched cubes. First, rotate 2 of the rightmost layers in a clockwise \u00bc turn, then turn the upper face in a clockwise \u00bd turn. Physically roll the entire cube backward before proceeding. Next, turn 2 right layers clockwise in a \u00bc turn, 1 upper layer clockwise in a \u00bd turn, 2 right layers clockwise in a \u00bc turn again, and 1 upper layer clockwise in a \u00bd turn again. Continue following this algorithm until there are no more parities leftover on the cube. This algorithm repeats itself a lot, so do your best to keep track of how many steps you\u2019ve completed. Solve the rest of the cube like it\u2019s a 3x3x3 puzzle. Now that the bulk of the large cube is solved, pretend that you\u2019re solving a simpler Rubik\u2019s cube. Follow the basic principles of the layer by layer method to complete the Professor\u2019s Cube. To see a visual step-by-step guide to solve a 3x3x3 cube, look here: http://www.alchemistmatt.com/cube/rubikcenter.html. Don\u2019t be discouraged if you can\u2019t solve the puzzle correctly on your first try. The Professor\u2019s Cube is extremely difficult to play with, and even more tricky to master.Tip: If you\u2019re still stuck, use a 5x5x5 Rubik\u2019s cube solver to get a customized tutorial on how to solve your exact puzzle. Use the digital coloring system to fill in each block with the precise colors that are on your cube! Check it out here: https://www.grubiks.com/solvers/professors-cube-5x5x5.",
+  "tyn_model":[
+    "cube",
+    "rubik\u2019s cube",
+    "\u2019 r",
+    "\u201d (",
+    "\u201d)",
+    "\u2019 f",
+    "\u201d rotate",
+    "\u201cx",
+    "\u201cy",
+    "\u2019 u",
+    "\u2019 u2",
+    "\u201cw",
+    "\u201d or",
+    "\u2019 d",
+    "\u201cupper",
+    "\u201cu",
+    "\u201cdown",
+    "\u201cd",
+    "\u201cleft",
+    "\u201cl",
+    "\u201cright",
+    "\u201cr",
+    "\u201cfront",
+    "\u201cf",
+    "\u201cback",
+    "\u201cb",
+    "algorithm shorthand",
+    "\u201c2",
+    "\u201d immediately",
+    "\u201cf2",
+    "\u201d grip",
+    "\u2019 )",
+    "\u2019,",
+    "\u2019)",
+    "\u201cw.",
+    "\u201d next",
+    "\u201crw",
+    "\u201d perform",
+    "\u201d be",
+    "\u201c3",
+    "\u201cy.",
+    "\u201d solve",
+    "\u201d turn",
+    "rubik's",
+    "\u201d listed",
+    "\u201d in",
+    "\u2019 or",
+    "\u2019 in",
+    "\u2019 2r",
+    "\u2019 portion",
+    "\u2019 and",
+    "\u2019 (",
+    "\u201cslice",
+    "\u201d technique",
+    "\u201cflip",
+    "\u201d the",
+    "\u2019 algorithm"
+  ],
+  "tyn_section":[
+
+  ]
+}

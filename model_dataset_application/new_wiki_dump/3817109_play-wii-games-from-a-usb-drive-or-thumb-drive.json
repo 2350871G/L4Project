@@ -1,0 +1,381 @@
+{
+  "title":"How to Play Wii Games from a USB Drive or Thumb Drive",
+  "url":"https://www.wikihow.com/Play-Wii-Games-from-a-USB-Drive-or-Thumb-Drive",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Nintendo Video Game Consoles",
+    "Nintendo Wii"
+  ],
+  "parts":[
+    {
+      "name":"Preparing to Install",
+      "steps":[
+        {
+          "headline":"Make sure that you have the correct equipment.",
+          "description":"You'll need the following items for this task:\n\nSDHC card - A large SD card of up to 8 gigabytes is needed to install Homebrew and perform other file-based tasks. USB flash drive - This is the drive on which you'll install the games. Wii remote - If you have a newer (black) model of Wii, you'll need a generic Wii remote to help with the installation."
+        },
+        {
+          "headline":"Format your flash drive for FAT32.",
+          "description":"To do so, select FAT32 (or MS-DOS (FAT) on a Mac) in the \"File System\" section of the format menu. Keep in mind that formatting a flash drive will erase its contents, so back up the contents to your computer or another flash drive if necessary."
+        },
+        {
+          "headline":"Empty the Wii's disc drive.",
+          "description":"If there is currently a disc in the Wii, remove it before proceeding."
+        },
+        {
+          "headline":"Connect your Wii to the Internet.",
+          "description":"Your Wii will need a network connection in order to install the bulk of the USB tool's files."
+        },
+        {
+          "headline":"Install Homebrew on your Wii.",
+          "description":"If you haven't yet installed the Homebrew channel for your Wii, you'll need to do so before proceeding. The Homebrew channel allows you to install custom modifications, one of which will let you play games off of a USB drive."
+        },
+        {
+          "headline":"Format your SD card.",
+          "description":"Once you've installed Homebrew with the SD card, you'll need to wipe it clean so that you can use it for the USB installation files. The easiest way to do this is by formatting the SD card. As with the flash drive, choose FAT32 (or MS-DOS (FAT) on a Mac) as the file system."
+        }
+      ]
+    },
+    {
+      "name":"Creating a Wii Flash Drive",
+      "steps":[
+        {
+          "headline":"Use a Windows computer for this part.",
+          "description":"Unfortunately, you cannot format correctly your flash drive for Wii use on a Mac. If you don't have access to a Windows computer, try using a library PC or borrowing a friend's."
+        },
+        {
+          "headline":"Determine your Windows bit version.",
+          "description":"You'll need to know whether your version of Windows is a 64-bit system or a 32-bit system in order to know which file to download in a minute."
+        },
+        {
+          "headline":"Open the WBFS Manager website.",
+          "description":"Go to https://wbfsmanager.codeplex.com/ in your preferred browser."
+        },
+        {
+          "headline":"Click the DOWNLOADS tab.",
+          "description":"It's near the top of the page."
+        },
+        {
+          "headline":"Click a download link.",
+          "description":"Depending on your computer's bit number, this step will vary:\n\n64-bit - Click WBFSManager 3.0 RTW x64 under the \"OTHER AVAILABLE DOWNLOADS\" heading. 32-bit - Click WBFSManager 3.0.1 RTW x86 under the \"RECOMMENDED DOWNLOAD\" heading."
+        },
+        {
+          "headline":"Open the ZIP folder.",
+          "description":"Double-click the downloaded ZIP folder to open it."
+        },
+        {
+          "headline":"Double-click setup.",
+          "description":"It's in the ZIP folder. Doing so will open the setup window."
+        },
+        {
+          "headline":"Install the program.",
+          "description":"To do so:\nCheck the \"I agree\" box and click Next\n\nClick Next twice more. Click Install\n\nUncheck the \"Show Readme\" box. Click Finish"
+        },
+        {
+          "headline":"Plug your flash drive into your computer.",
+          "description":"The flash drive should fit into one of the rectangular USB ports on your computer."
+        },
+        {
+          "headline":"Open WBFS Manager.",
+          "description":"Double-click the WBFS Manager app icon, which resembles a Wii on a blue background, to do so. This should be on your computer's desktop."
+        },
+        {
+          "headline":"Click OK when prompted.",
+          "description":"This will bring you to the WBFS Manager main window."
+        },
+        {
+          "headline":"Select your flash drive.",
+          "description":"Click the \"Drive\" drop-down box in the upper-left corner of the window, then click your drive's letter (usually F:). If you don't know the flash drive's letter, look for it in the \"Devices and drives\" section of the This PC app."
+        },
+        {
+          "headline":"Format the flash drive.",
+          "description":"Click Format at the top of the window, click Yes when prompted, and then click OK when prompted."
+        },
+        {
+          "headline":"Eject the flash drive.",
+          "description":"Click on the flash drive's icon in the lower-right side of the screen, then click Eject in the pop-up menu and remove the drive from your computer. You may have to click ^ here to see the flash drive's icon."
+        }
+      ]
+    },
+    {
+      "name":"Downloading the Installation Files",
+      "steps":[
+        {
+          "headline":"Plug your SD card into your computer.",
+          "description":"The SD card should fit into your computer's SD card slot angled-side-in, logo-side-up. If your computer doesn't have an SD card slot, you'll need to use a USB adapter for your SD card as well."
+        },
+        {
+          "headline":"Open the file download site.",
+          "description":"Go to https://app.box.com/s/ztl5x4vlw56thgk1n4wlx147v8rsz6vt in your browser."
+        },
+        {
+          "headline":"Click Download.",
+          "description":"It's a blue button in the middle of the page. The files' ZIP folder will download onto your computer."
+        },
+        {
+          "headline":"Extract the files.",
+          "description":"On a Windows computer, double-click the ZIP folder, click Extract at the top of the folder's window, click Extract all in the resulting toolbar, and click Extract when prompted. This will extract the files to a regular folder and open the folder when the extraction completes. On a Mac, just double-click the ZIP folder to open it."
+        },
+        {
+          "headline":"Open the Files folder.",
+          "description":"Double-click the USB Loader GX folder, then double-click the Files folder at the top of the next window."
+        },
+        {
+          "headline":"Copy the files.",
+          "description":"Click on one file in the folder, click Ctrl+A (Windows) or \u2318 Command+A (Mac) to select all of the files, and press Ctrl+C (Windows) or \u2318 Command+C (Mac) to copy the files."
+        },
+        {
+          "headline":"Click your SD card's name.",
+          "description":"It's on the left side of the window."
+        },
+        {
+          "headline":"Paste in the files.",
+          "description":"Click a blank space in the SD card's window, then press Ctrl+V (Windows) or \u2318 Command+V (Mac). The files will copy onto the SD card."
+        },
+        {
+          "headline":"Eject the card.",
+          "description":"Once your files finish copying, you can proceed with removing your SD card. To do so:\n\nWindows - Click the Manage tab at the top of the SD card's window, then click Eject in the toolbar. Mac - Click the upward-facing arrow to the right of your SD card's name in the left-hand pane."
+        }
+      ]
+    },
+    {
+      "name":"Installing the IOS263 Software",
+      "steps":[
+        {
+          "headline":"Plug your SD card into your Wii.",
+          "description":"It should fit in a slot in the front of the Wii."
+        },
+        {
+          "headline":"Turn on your Wii.",
+          "description":"Press your Wii's power button, or use the power button on the remote. The Wii's remote will need to be on and synced as well."
+        },
+        {
+          "headline":"Press A when prompted.",
+          "description":"This will take you to the main menu."
+        },
+        {
+          "headline":"Start the Homebrew channel.",
+          "description":"Select the homebrew channel on your Wii's main menu, then select Start when prompted."
+        },
+        {
+          "headline":"Select IOS263 Installer.",
+          "description":"It's in the middle of the menu. A pop-up menu will appear."
+        },
+        {
+          "headline":"Select Load when prompted.",
+          "description":"You'll find this option in the bottom-middle of the pop-up menu."
+        },
+        {
+          "headline":"Press the 1 button.",
+          "description":"Doing so selects the Install option. If you're using a GameCube controller, press the Y button instead."
+        },
+        {
+          "headline":"Select <Download IOS from NUS>.",
+          "description":"It's at the bottom of the page. If you don't see this option, select the text in brackets at the bottom of the screen and press Right until you see it appear."
+        },
+        {
+          "headline":"Press A when prompted.",
+          "description":"Doing so will install the IOS263 base onto your Wii. This process can take upward of 20 minutes, so be patient."
+        },
+        {
+          "headline":"Press any button when prompted.",
+          "description":"This will exit the setup and return you to the Homebrew menu."
+        }
+      ]
+    },
+    {
+      "name":"Installing the cIOSX Rev20b Software",
+      "steps":[
+        {
+          "headline":"Select cIOSX rev20b Installer.",
+          "description":"It's in the middle of the Homebrew menu."
+        },
+        {
+          "headline":"Select Load when prompted.",
+          "description":"The installer window menu will open."
+        },
+        {
+          "headline":"Scroll left to the \"IOS236\" option.",
+          "description":"This will select the IOS236 file that you installed earlier."
+        },
+        {
+          "headline":"Press A.",
+          "description":"Doing so confirms your choice."
+        },
+        {
+          "headline":"Agree to the terms of use.",
+          "description":"Press A on your controller to agree to the terms of use."
+        },
+        {
+          "headline":"Select an IOS version.",
+          "description":"Press Left until you see \"IOS56  v5661\" between brackets, then press A."
+        },
+        {
+          "headline":"Select a custom IOS slot.",
+          "description":"Press Left until you see \"IOS249\" between brackets, then press A."
+        },
+        {
+          "headline":"Select a network installation.",
+          "description":"Press Left until you see \"Network installation\" appear between the brackets."
+        },
+        {
+          "headline":"Start the installation.",
+          "description":"Press A to begin installing the IOS installer."
+        },
+        {
+          "headline":"Press any button when prompted.",
+          "description":"This will move you to the next part of the installation."
+        },
+        {
+          "headline":"Select another IOS version.",
+          "description":"Press Left until you see \"IOS38  v4123\" between the brackets, then press A."
+        },
+        {
+          "headline":"Select another slot.",
+          "description":"Press Left until you see \"IOS250\" between brackets, then press A."
+        },
+        {
+          "headline":"Use the network installer.",
+          "description":"Select \"Network installation\" and press A as you did with the last installer, then wait for the installation to complete."
+        },
+        {
+          "headline":"Press any button when prompted, then press the B button.",
+          "description":"This will restart your Wii. When it finishes restarting, you'll be able to proceed."
+        }
+      ]
+    },
+    {
+      "name":"Installing USB Loader GX",
+      "steps":[
+        {
+          "headline":"Navigate to the next page over.",
+          "description":"Press the Right arrow on your Wii remote's D-pad to do so. You can also press the + button."
+        },
+        {
+          "headline":"Select WAD Manager.",
+          "description":"It's the second option on this page."
+        },
+        {
+          "headline":"Select Load when prompted.",
+          "description":"Doing so will start up the WAD Manager installer."
+        },
+        {
+          "headline":"Press A.",
+          "description":"This agrees to the terms of use."
+        },
+        {
+          "headline":"Select \"IOS249\" to load.",
+          "description":"Press Left until you see \"IOS249\" in between brackets, then press A."
+        },
+        {
+          "headline":"Disable the emulator.",
+          "description":"Select \"Disable\" in between the brackets and press A."
+        },
+        {
+          "headline":"Select your SD card.",
+          "description":"Select \"Wii SD Slot\" in between the brackets, then press A. Doing so brings up a list of the files on the SD card that you inserted earlier."
+        },
+        {
+          "headline":"Scroll down and select WAD.",
+          "description":"It's near the bottom of the screen."
+        },
+        {
+          "headline":"Select the USB loader.",
+          "description":"Scroll down to select USB Loader GX-UNEO_Forwarder.wad and press A."
+        },
+        {
+          "headline":"Install the WAD Manager.",
+          "description":"Press A when prompted to do so."
+        },
+        {
+          "headline":"Press any button when prompted, then press the Home \u2302 button.",
+          "description":"This will restart the Wii. Once the Wii finishes restarting, you'll be back on the second page of the Homebrew channel."
+        }
+      ]
+    },
+    {
+      "name":"Running Games from the USB Drive",
+      "steps":[
+        {
+          "headline":"Press the Home \u2302 button again.",
+          "description":"It's on the Wii remote. Pressing it brings up the Home menu."
+        },
+        {
+          "headline":"Select Shutdown.",
+          "description":"It's at the bottom of the menu. Your Wii will power down. It's best to wait until your Wii fully powers down before proceeding."
+        },
+        {
+          "headline":"Insert your flash drive into the Wii.",
+          "description":"The flash drive should plug into a USB port at the back of the Wii."
+        },
+        {
+          "headline":"Turn back on your Wii.",
+          "description":"Press your Wii's power button to do so."
+        },
+        {
+          "headline":"Press A when prompted.",
+          "description":"Doing so will take you to the Wii's home menu, where you should now see a USB Loader GX option to the right of the Homebrew channel."
+        },
+        {
+          "headline":"Select USB Loader GX.",
+          "description":"It's on the right side of the page."
+        },
+        {
+          "headline":"Select Start.",
+          "description":"Doing so will load the USB Loader GX program. This process will take several minutes, especially the first time you run the program. If you see a \"Waiting for your slow USB\" message, try plugging the USB flash drive into a different port on the back of the Wii."
+        },
+        {
+          "headline":"Insert a game.",
+          "description":"Place in the Wii the disc for a game that you want to back up to the USB flash drive."
+        },
+        {
+          "headline":"Select Install when prompted.",
+          "description":"The program will begin reading the contents of the disc."
+        },
+        {
+          "headline":"Select OK when prompted.",
+          "description":"Doing so will prompt your Wii to begin burning the disc onto the USB flash drive. This process will take quite some time, and the burning progress bar may appear to freeze at multiple points. Do not remove your USB drive or restart your Wii if this happens."
+        },
+        {
+          "headline":"Select OK when prompted.",
+          "description":"This will complete the burning process. At this point, you can eject the game disc from the Wii."
+        },
+        {
+          "headline":"Play your game.",
+          "description":"Click the game's name, then click the spinning disc icon in the middle of the window. This will launch the game."
+        }
+      ]
+    }
+  ],
+  "text":" Preparing to Install Make sure that you have the correct equipment. You'll need the following items for this task:\n\nSDHC card - A large SD card of up to 8 gigabytes is needed to install Homebrew and perform other file-based tasks. USB flash drive - This is the drive on which you'll install the games. Wii remote - If you have a newer (black) model of Wii, you'll need a generic Wii remote to help with the installation. Format your flash drive for FAT32. To do so, select FAT32 (or MS-DOS (FAT) on a Mac) in the \"File System\" section of the format menu. Keep in mind that formatting a flash drive will erase its contents, so back up the contents to your computer or another flash drive if necessary. Empty the Wii's disc drive. If there is currently a disc in the Wii, remove it before proceeding. Connect your Wii to the Internet. Your Wii will need a network connection in order to install the bulk of the USB tool's files. Install Homebrew on your Wii. If you haven't yet installed the Homebrew channel for your Wii, you'll need to do so before proceeding. The Homebrew channel allows you to install custom modifications, one of which will let you play games off of a USB drive. Format your SD card. Once you've installed Homebrew with the SD card, you'll need to wipe it clean so that you can use it for the USB installation files. The easiest way to do this is by formatting the SD card. As with the flash drive, choose FAT32 (or MS-DOS (FAT) on a Mac) as the file system. Creating a Wii Flash Drive Use a Windows computer for this part. Unfortunately, you cannot format correctly your flash drive for Wii use on a Mac. If you don't have access to a Windows computer, try using a library PC or borrowing a friend's. Determine your Windows bit version. You'll need to know whether your version of Windows is a 64-bit system or a 32-bit system in order to know which file to download in a minute. Open the WBFS Manager website. Go to https://wbfsmanager.codeplex.com/ in your preferred browser. Click the DOWNLOADS tab. It's near the top of the page. Click a download link. Depending on your computer's bit number, this step will vary:\n\n64-bit - Click WBFSManager 3.0 RTW x64 under the \"OTHER AVAILABLE DOWNLOADS\" heading. 32-bit - Click WBFSManager 3.0.1 RTW x86 under the \"RECOMMENDED DOWNLOAD\" heading. Open the ZIP folder. Double-click the downloaded ZIP folder to open it. Double-click setup. It's in the ZIP folder. Doing so will open the setup window. Install the program. To do so:\nCheck the \"I agree\" box and click Next\n\nClick Next twice more. Click Install\n\nUncheck the \"Show Readme\" box. Click Finish Plug your flash drive into your computer. The flash drive should fit into one of the rectangular USB ports on your computer. Open WBFS Manager. Double-click the WBFS Manager app icon, which resembles a Wii on a blue background, to do so. This should be on your computer's desktop. Click OK when prompted. This will bring you to the WBFS Manager main window. Select your flash drive. Click the \"Drive\" drop-down box in the upper-left corner of the window, then click your drive's letter (usually F:). If you don't know the flash drive's letter, look for it in the \"Devices and drives\" section of the This PC app. Format the flash drive. Click Format at the top of the window, click Yes when prompted, and then click OK when prompted. Eject the flash drive. Click on the flash drive's icon in the lower-right side of the screen, then click Eject in the pop-up menu and remove the drive from your computer. You may have to click ^ here to see the flash drive's icon. Downloading the Installation Files Plug your SD card into your computer. The SD card should fit into your computer's SD card slot angled-side-in, logo-side-up. If your computer doesn't have an SD card slot, you'll need to use a USB adapter for your SD card as well. Open the file download site. Go to https://app.box.com/s/ztl5x4vlw56thgk1n4wlx147v8rsz6vt in your browser. Click Download. It's a blue button in the middle of the page. The files' ZIP folder will download onto your computer. Extract the files. On a Windows computer, double-click the ZIP folder, click Extract at the top of the folder's window, click Extract all in the resulting toolbar, and click Extract when prompted. This will extract the files to a regular folder and open the folder when the extraction completes. On a Mac, just double-click the ZIP folder to open it. Open the Files folder. Double-click the USB Loader GX folder, then double-click the Files folder at the top of the next window. Copy the files. Click on one file in the folder, click Ctrl+A (Windows) or \u2318 Command+A (Mac) to select all of the files, and press Ctrl+C (Windows) or \u2318 Command+C (Mac) to copy the files. Click your SD card's name. It's on the left side of the window. Paste in the files. Click a blank space in the SD card's window, then press Ctrl+V (Windows) or \u2318 Command+V (Mac). The files will copy onto the SD card. Eject the card. Once your files finish copying, you can proceed with removing your SD card. To do so:\n\nWindows - Click the Manage tab at the top of the SD card's window, then click Eject in the toolbar. Mac - Click the upward-facing arrow to the right of your SD card's name in the left-hand pane. Installing the IOS263 Software Plug your SD card into your Wii. It should fit in a slot in the front of the Wii. Turn on your Wii. Press your Wii's power button, or use the power button on the remote. The Wii's remote will need to be on and synced as well. Press A when prompted. This will take you to the main menu. Start the Homebrew channel. Select the homebrew channel on your Wii's main menu, then select Start when prompted. Select IOS263 Installer. It's in the middle of the menu. A pop-up menu will appear. Select Load when prompted. You'll find this option in the bottom-middle of the pop-up menu. Press the 1 button. Doing so selects the Install option. If you're using a GameCube controller, press the Y button instead. Select <Download IOS from NUS>. It's at the bottom of the page. If you don't see this option, select the text in brackets at the bottom of the screen and press Right until you see it appear. Press A when prompted. Doing so will install the IOS263 base onto your Wii. This process can take upward of 20 minutes, so be patient. Press any button when prompted. This will exit the setup and return you to the Homebrew menu. Installing the cIOSX Rev20b Software Select cIOSX rev20b Installer. It's in the middle of the Homebrew menu. Select Load when prompted. The installer window menu will open. Scroll left to the \"IOS236\" option. This will select the IOS236 file that you installed earlier. Press A. Doing so confirms your choice. Agree to the terms of use. Press A on your controller to agree to the terms of use. Select an IOS version. Press Left until you see \"IOS56  v5661\" between brackets, then press A. Select a custom IOS slot. Press Left until you see \"IOS249\" between brackets, then press A. Select a network installation. Press Left until you see \"Network installation\" appear between the brackets. Start the installation. Press A to begin installing the IOS installer. Press any button when prompted. This will move you to the next part of the installation. Select another IOS version. Press Left until you see \"IOS38  v4123\" between the brackets, then press A. Select another slot. Press Left until you see \"IOS250\" between brackets, then press A. Use the network installer. Select \"Network installation\" and press A as you did with the last installer, then wait for the installation to complete. Press any button when prompted, then press the B button. This will restart your Wii. When it finishes restarting, you'll be able to proceed. Installing USB Loader GX Navigate to the next page over. Press the Right arrow on your Wii remote's D-pad to do so. You can also press the + button. Select WAD Manager. It's the second option on this page. Select Load when prompted. Doing so will start up the WAD Manager installer. Press A. This agrees to the terms of use. Select \"IOS249\" to load. Press Left until you see \"IOS249\" in between brackets, then press A. Disable the emulator. Select \"Disable\" in between the brackets and press A. Select your SD card. Select \"Wii SD Slot\" in between the brackets, then press A. Doing so brings up a list of the files on the SD card that you inserted earlier. Scroll down and select WAD. It's near the bottom of the screen. Select the USB loader. Scroll down to select USB Loader GX-UNEO_Forwarder.wad and press A. Install the WAD Manager. Press A when prompted to do so. Press any button when prompted, then press the Home \u2302 button. This will restart the Wii. Once the Wii finishes restarting, you'll be back on the second page of the Homebrew channel. Running Games from the USB Drive Press the Home \u2302 button again. It's on the Wii remote. Pressing it brings up the Home menu. Select Shutdown. It's at the bottom of the menu. Your Wii will power down. It's best to wait until your Wii fully powers down before proceeding. Insert your flash drive into the Wii. The flash drive should plug into a USB port at the back of the Wii. Turn back on your Wii. Press your Wii's power button to do so. Press A when prompted. Doing so will take you to the Wii's home menu, where you should now see a USB Loader GX option to the right of the Homebrew channel. Select USB Loader GX. It's on the right side of the page. Select Start. Doing so will load the USB Loader GX program. This process will take several minutes, especially the first time you run the program. If you see a \"Waiting for your slow USB\" message, try plugging the USB flash drive into a different port on the back of the Wii. Insert a game. Place in the Wii the disc for a game that you want to back up to the USB flash drive. Select Install when prompted. The program will begin reading the contents of the disc. Select OK when prompted. Doing so will prompt your Wii to begin burning the disc onto the USB flash drive. This process will take quite some time, and the burning progress bar may appear to freeze at multiple points. Do not remove your USB drive or restart your Wii if this happens. Select OK when prompted. This will complete the burning process. At this point, you can eject the game disc from the Wii. Play your game. Click the game's name, then click the spinning disc icon in the middle of the window. This will launch the game.",
+  "tyn_model":[
+    "sd card",
+    "wii",
+    "flash drive",
+    "usb loader",
+    "usb flash drive",
+    "wbfs manager",
+    "usb drive",
+    "sd card slot",
+    "ios version",
+    "wad manager",
+    "\u2302 button",
+    "sdhc card",
+    "usb adapter",
+    "\u2318 command+a",
+    "\u2318 command+c",
+    "\u2318 command+v",
+    "gamecube controller",
+    "ios",
+    "ios installer",
+    "emulator",
+    "wii remote",
+    "usb loader gx",
+    "spinning disc"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "title":"How to Play Pok\u00e9mon on Your PC",
+  "url":"https://www.wikihow.com/Play-Pok%C3%A9mon-on-Your-PC",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Pokemon Video Games"
+  ],
+  "methods":[
+    {
+      "name":"Playing ROMs Online",
+      "steps":[
+        {
+          "headline":"Go to https://www.emulatorgames.net in a web browser.",
+          "description":"This is one of many websites that has ROMs and emulators for download. If you don't want to worry about installing an emulator on your computer, you can use this site to play Pok\u00e9mon online."
+        },
+        {
+          "headline":"Type Pokemon in the search bar and press \u21b5 Enter.",
+          "description":"The search bar is in the upper-right corner of the website. This displays all Pok\u00e9mon title available for download."
+        },
+        {
+          "headline":"Click a Pok\u00e9mon game.",
+          "description":"Games are listed by their box cover on the website."
+        },
+        {
+          "headline":"Click Play ROM Online.",
+          "description":"It's the button to the right, below the \"Download ROM\" button. This loads the game in a window within the website."
+        },
+        {
+          "headline":"Click Run Game.",
+          "description":"This loads the game and initializes it in the web browser. This may take a few minutes."
+        },
+        {
+          "headline":"Click icon that resembles a game controller.",
+          "description":"It appears in the lower-left corner of the emulator window when you hover your mouse cursor over it. This displays the keyboard controls for the game. To change the keyboard controls, click a button you want to assign, and press the keyboard key you want to assign to that button. Then scroll down and click Update in the window. Click the \"X\" button in the upper-right corner of the keyboard controls window to exit the keyboard controls without saving."
+        },
+        {
+          "headline":"Click the icon that resembles two arrows pointing outward.",
+          "description":"It's in the lower-right corner of the ROM game window when you hover your mouse cursor over it. This allows you to play the game in full-screen mode."
+        },
+        {
+          "headline":"Click the Pause  button to pause the game.",
+          "description":"It's in the lower-left corner of the ROM window when you hover your mouse cursor over it."
+        },
+        {
+          "headline":"Click the music note icon to toggle sound on or off.",
+          "description":"It's in the lower-left corner of the ROM window when you hover the mouse cursor over it."
+        },
+        {
+          "headline":"Click the download button to save the game state to your computer.",
+          "description":"It's the icon of an arrow pointing down over a bar. A save state can be uploaded to resume a game in the exact state it was saved in."
+        },
+        {
+          "headline":"Click the upload button to upload a saved game.",
+          "description":"It's the icon of an arrow pointing up over a bar. To upload a save state, select a save state (.save) file you downloaded and click Open."
+        },
+        {
+          "headline":"Click the two arrows in a circle to reset the game.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Using a Nintendo DS Emulator",
+      "steps":[
+        {
+          "headline":"Find your computer's bit number.",
+          "description":"In order to download the Nintendo DS emulator, you need to know whether your computer uses a 32-bit processor or a 64-bit processor."
+        },
+        {
+          "headline":"Go to https://desmume.org/download in your browser.",
+          "description":"DeSmuME is a Nintendo DS emulator designed for both Windows and Mac computers."
+        },
+        {
+          "headline":"Select a download link.",
+          "description":"Beneath the \"DeSmuME v0.9.11 Binaries for Windows\" heading, click either Windows 32-bit (x86) (32-bit system) or Windows 64-bit (x86-64) (64-bit system). DeSmuME will begin downloading after a brief ad. You may need to click the direct link link if DeSmuME doesn't begin downloading."
+        },
+        {
+          "headline":"Open the DeSmuME ZIP file.",
+          "description":"In order to open a zip file, you need an archive program, such as WinZip, WinRAR, or 7-zip. Double-click the zip file to open it. By default, you can find downloaded files in your Downloads folder, or in your web browser. Double-click the downloaded ZIP folder to do so."
+        },
+        {
+          "headline":"Click Extract, Extract To or similar.",
+          "description":"Click the option to extract the contents of the zip file. This may be a little different depending on which archive program you are using."
+        },
+        {
+          "headline":"Navigate to the location you want to save the emulator too.",
+          "description":"It's recommended that you create a folder to store all of your video game ROMs to. You may even want to create a separate sub-folder for each game console. You can save the emulator to one of these folders, or any folder of your choice."
+        },
+        {
+          "headline":"Click Ok.",
+          "description":"This extracts the contents of the zip file to your computer."
+        },
+        {
+          "headline":"Download a Pok\u00e9mon ROM.",
+          "description":"DeSmuMe plays Nintendo DS games. Pok\u00e9mon games for Nintendo DS include Pok\u00e9mon: HeartGold Version, and Pok\u00e9mon: Black Version. Use the following steps to download a Pok\u00e9mon ROM:\nGo to https://www.emulatorgames.net/ in a web browser. Type \"Pokemon\" in the search bar in the upper-right corner and press \"Enter\". Click a Pok\u00e9mon title for Nintendo DS. Click Download Game. Open the zip file containing the ROM. Extract the contents of the zip file to a folder on your computer."
+        },
+        {
+          "headline":"Open DeSmuME.",
+          "description":"Double-click the DeSmuME application file to do so. The DeSmuME emulator will open. You may have to click Yes when prompted to confirm that you want to open DeSmuME."
+        },
+        {
+          "headline":"Click File.",
+          "description":"It's a tab in the top-left corner of the DeSmuME window. A drop-down menu will appear."
+        },
+        {
+          "headline":"Click Open ROM\u2026.",
+          "description":"This option is at the top of the drop-down menu."
+        },
+        {
+          "headline":"Select your downloaded ROM.",
+          "description":"Click the ROM that you downloaded. You may have to click the Downloads folder on the left-hand side of the window to find the ROM."
+        },
+        {
+          "headline":"Click Open.",
+          "description":"This will open the ROM in the Nintendo DS emulator, at which point your game should start."
+        },
+        {
+          "headline":"View and change keyboard controls.",
+          "description":"Use the following steps to view and change the keyboard controls:\nClick Config in the menu bar at the top. Click Control Config. Click a button and press the keyboard key you want to assign the button. Click Ok."
+        },
+        {
+          "headline":"Save a save state.",
+          "description":"You can save the game at any moment and load the game at the exact save state. Use the following steps to save the game as a save state:\nClick File\n\nClick Save State. Click a number 0 - 9."
+        },
+        {
+          "headline":"Load a save state.",
+          "description":"Use the following steps to load a save state:\nClick File\n\nClick Load State. Click a number 0 - 9."
+        }
+      ]
+    },
+    {
+      "name":"Using a Gameboy Color Emulator",
+      "steps":[
+        {
+          "headline":"Go to https://www.emulatorgames.net/emulators/gameboy-color/ in your browser.",
+          "description":"This page has a variety of Game Boy Color emulator downloads for a variety of platforms."
+        },
+        {
+          "headline":"Click BGB 1.5.3 (Windows).",
+          "description":"It's the first option on the web page. It has an image of the BGB user interface."
+        },
+        {
+          "headline":"Click Download Emulator.",
+          "description":"It's the blue button to the right. You'll need to wait about 5 seconds, and then it will download the emulator as a ZIP file."
+        },
+        {
+          "headline":"Open the BGB ZIP file.",
+          "description":"In order to open a zip file, you need an archive program, such as WinZip, WinRAR, or 7-zip. Double-click the zip file to open it. By default, you can find downloaded files in your Downloads folder, or in your web browser. Double-click the downloaded ZIP folder to do so."
+        },
+        {
+          "headline":"Click Extract, Extract To or similar.",
+          "description":"Click the option to extract the contents of the zip file. This may be a little different depending on which archive program you are using."
+        },
+        {
+          "headline":"Navigate to the location you want to save the emulator too.",
+          "description":"It's recommended that you create a folder to store all of your video game ROMs to. You may even want to create a separate sub-folder for each game console. You can save the emulator to one of these folders, or any folder of your choice."
+        },
+        {
+          "headline":"Click Ok.",
+          "description":"This extracts the contents of the zip file to your computer."
+        },
+        {
+          "headline":"Download a Pok\u00e9mon ROM.",
+          "description":"BGB plays Game Boy and Game Boy Color games. Pok\u00e9mon games for Game Boy and Game Boy Color include Pok\u00e9mon: Red. Pok\u00e9mon: Blue, Pok\u00e9mon: Yellow, Pok\u00e9mon: Gold, Pok\u00e9mon: Silver, and Pok\u00e9mon: Crystal. Use the following steps to download a Pok\u00e9mon ROM:\nGo to https://www.emulatorgames.net/ in a web browser. Type \"Pokemon\" in the search bar in the upper-right corner and press \"Enter\". Click a Pok\u00e9mon title for Gameboy Color. Click Download Game. Open the zip file containing the ROM. Extract the contents of the zip file to a folder on your computer."
+        },
+        {
+          "headline":"Double-click the bgb.exe application.",
+          "description":"It resembles a grey and black directional pad. Doing so will open the BGB emulator window."
+        },
+        {
+          "headline":"Right-click the emulator window.",
+          "description":"A drop-down menu will appear. If your mouse doesn't have a right-click button, click the right side of the mouse or use two fingers to click the mouse. If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad."
+        },
+        {
+          "headline":"Click Load ROM\u2026.",
+          "description":"It's near the top of the drop-down menu."
+        },
+        {
+          "headline":"Select your downloaded ROM and click Open.",
+          "description":"This loads the ROM in the BGB emulator."
+        },
+        {
+          "headline":"Configure the keyboard controls.",
+          "description":"Use the following steps to configure the keyboard controls:\nRight-click the BGB window. Click Options. Click Configure keyboard. Press and hold the keyboard button you want to assign for each Game Boy button when prompted. Click Apply."
+        },
+        {
+          "headline":"Save a game state.",
+          "description":"You can save the game at any moment and load the game at the exact save state. Use the following steps to save the game as a save state:\nRight-click the BGB window. Click State. Click Quick Save."
+        },
+        {
+          "headline":"Load a game state.",
+          "description":"Use the following steps to load a saved game state:\nRight-click the BGB window. Click State. Click Quick Load."
+        }
+      ]
+    },
+    {
+      "name":"Using a Gameboy Advance Emulator",
+      "steps":[
+        {
+          "headline":"Find your computer's bit number.",
+          "description":"In order to download the Nintendo DS emulator, you need to know whether your computer uses a 32-bit processor or a 64-bit processor."
+        },
+        {
+          "headline":"Go to https://www.emulatorgames.net/emulators/gameboy-advance/ in a web browser.",
+          "description":"This page has a variety of Game Boy Advance emulators for a variety of platforms."
+        },
+        {
+          "headline":"Click VisualBoyAdvance-M 64-Bit 2.0.2 (Windows).",
+          "description":"It's the second option on the web page. This takes you to the download link for VisualBoyAdvance. If you are running a 32-bit version of Windows, click VisualBoyAdvance-M 32-Bit 2.0.2 (Windows) instead."
+        },
+        {
+          "headline":"Click Download Emulator.",
+          "description":"It's the blue button to the right. You'll need to wait about 5 seconds, and then it will download the emulator as a ZIP file."
+        },
+        {
+          "headline":"Open the VisualBoyAdvance ZIP file.",
+          "description":"In order to open a zip file, you need an archive program, such as WinZip, WinRAR, or 7-zip. Double-click the zip file to open it. By default, you can find downloaded files in your Downloads folder, or in your web browser. Double-click the downloaded ZIP folder to do so."
+        },
+        {
+          "headline":"Click Extract, Extract To or similar.",
+          "description":"Click the option to extract the contents of the zip file. This may be a little different depending on which archive program you are using."
+        },
+        {
+          "headline":"Navigate to the location you want to save the emulator too.",
+          "description":"It's recommended that you create a folder to store all of your video game ROMs too. You may even want to create a separate sub-folder for each game console. You can save the emulator to one of these folders, or any folder of your choice."
+        },
+        {
+          "headline":"Click Ok.",
+          "description":"This extracts the contents of the zip file to your computer."
+        },
+        {
+          "headline":"Download a Pok\u00e9mon ROM.",
+          "description":"VisualBoyAdvance-M plays Game Boy Advance games. Pok\u00e9mon games for Game Boy Advance include Pok\u00e9mon: Fire Red, Pok\u00e9mon: Ruby, Pok\u00e9mon: Sapphire, Pok\u00e9mon: Leaf Green, and Pok\u00e9mon: Emerald. Use the following steps to download a Pok\u00e9mon ROM:\nGo to https://www.emulatorgames.net/ in a web browser. Type \"Pokemon\" in the search bar in the upper-right corner and press \"Enter\". Click a Pok\u00e9mon title for Gameboy Advance. Click Download Game. Open the zip file containing the ROM. Extract the contents of the zip file to a folder on your computer."
+        },
+        {
+          "headline":"Double-click the VisualBoyAdvance-M.exe file.",
+          "description":"This purple icon is in the new window. Doing so opens the VisualBoyAdvance program."
+        },
+        {
+          "headline":"Click the File tab.",
+          "description":"It's in the upper-left corner of the VisualBoyAdvance window. A drop-down menu will appear."
+        },
+        {
+          "headline":"Click Open\u2026.",
+          "description":"This option is near the top of the drop-down menu. You can also load Game Boy and Game Boy Color ROMS in VisualBoyAdvance."
+        },
+        {
+          "headline":"Select your downloaded ROM and click Open.",
+          "description":"This loads the ROM in the VisualBoyAdvance emulator."
+        },
+        {
+          "headline":"View and configure the keyboard controls.",
+          "description":"Use the following steps to view and configure the keyboard controls:\nClick Options. Click Configure\n\nClick a GBA button and press the keyboard button you want to assign it (optional). Click Ok."
+        },
+        {
+          "headline":"Save a save state.",
+          "description":"You can save the game at any moment and load the game at the exact save state. Use the following steps to save the game as a save state:\nClick File. Click Save state. Select one of the numbered save slots."
+        },
+        {
+          "headline":"Load a save state.",
+          "description":"Use the following steps to load a saved game state:\nClick File. Click Load state. Select one of the numbered save slots."
+        }
+      ]
+    }
+  ],
+  "text":" Playing ROMs Online Go to https://www.emulatorgames.net in a web browser. This is one of many websites that has ROMs and emulators for download. If you don't want to worry about installing an emulator on your computer, you can use this site to play Pok\u00e9mon online. Type Pokemon in the search bar and press \u21b5 Enter. The search bar is in the upper-right corner of the website. This displays all Pok\u00e9mon title available for download. Click a Pok\u00e9mon game. Games are listed by their box cover on the website. Click Play ROM Online. It's the button to the right, below the \"Download ROM\" button. This loads the game in a window within the website. Click Run Game. This loads the game and initializes it in the web browser. This may take a few minutes. Click icon that resembles a game controller. It appears in the lower-left corner of the emulator window when you hover your mouse cursor over it. This displays the keyboard controls for the game. To change the keyboard controls, click a button you want to assign, and press the keyboard key you want to assign to that button. Then scroll down and click Update in the window. Click the \"X\" button in the upper-right corner of the keyboard controls window to exit the keyboard controls without saving. Click the icon that resembles two arrows pointing outward. It's in the lower-right corner of the ROM game window when you hover your mouse cursor over it. This allows you to play the game in full-screen mode. Click the Pause  button to pause the game. It's in the lower-left corner of the ROM window when you hover your mouse cursor over it. Click the music note icon to toggle sound on or off. It's in the lower-left corner of the ROM window when you hover the mouse cursor over it. Click the download button to save the game state to your computer. It's the icon of an arrow pointing down over a bar. A save state can be uploaded to resume a game in the exact state it was saved in. Click the upload button to upload a saved game. It's the icon of an arrow pointing up over a bar. To upload a save state, select a save state (.save) file you downloaded and click Open. Click the two arrows in a circle to reset the game.  Using a Nintendo DS Emulator Find your computer's bit number. In order to download the Nintendo DS emulator, you need to know whether your computer uses a 32-bit processor or a 64-bit processor. Go to https://desmume.org/download in your browser. DeSmuME is a Nintendo DS emulator designed for both Windows and Mac computers. Select a download link. Beneath the \"DeSmuME v0.9.11 Binaries for Windows\" heading, click either Windows 32-bit (x86) (32-bit system) or Windows 64-bit (x86-64) (64-bit system). DeSmuME will begin downloading after a brief ad. You may need to click the direct link link if DeSmuME doesn't begin downloading. Open the DeSmuME ZIP file. In order to open a zip file, you need an archive program, such as WinZip, WinRAR, or 7-zip. Double-click the zip file to open it. By default, you can find downloaded files in your Downloads folder, or in your web browser. Double-click the downloaded ZIP folder to do so. Click Extract, Extract To or similar. Click the option to extract the contents of the zip file. This may be a little different depending on which archive program you are using. Navigate to the location you want to save the emulator too. It's recommended that you create a folder to store all of your video game ROMs to. You may even want to create a separate sub-folder for each game console. You can save the emulator to one of these folders, or any folder of your choice. Click Ok. This extracts the contents of the zip file to your computer. Download a Pok\u00e9mon ROM. DeSmuMe plays Nintendo DS games. Pok\u00e9mon games for Nintendo DS include Pok\u00e9mon: HeartGold Version, and Pok\u00e9mon: Black Version. Use the following steps to download a Pok\u00e9mon ROM:\nGo to https://www.emulatorgames.net/ in a web browser. Type \"Pokemon\" in the search bar in the upper-right corner and press \"Enter\". Click a Pok\u00e9mon title for Nintendo DS. Click Download Game. Open the zip file containing the ROM. Extract the contents of the zip file to a folder on your computer. Open DeSmuME. Double-click the DeSmuME application file to do so. The DeSmuME emulator will open. You may have to click Yes when prompted to confirm that you want to open DeSmuME. Click File. It's a tab in the top-left corner of the DeSmuME window. A drop-down menu will appear. Click Open ROM\u2026. This option is at the top of the drop-down menu. Select your downloaded ROM. Click the ROM that you downloaded. You may have to click the Downloads folder on the left-hand side of the window to find the ROM. Click Open. This will open the ROM in the Nintendo DS emulator, at which point your game should start. View and change keyboard controls. Use the following steps to view and change the keyboard controls:\nClick Config in the menu bar at the top. Click Control Config. Click a button and press the keyboard key you want to assign the button. Click Ok. Save a save state. You can save the game at any moment and load the game at the exact save state. Use the following steps to save the game as a save state:\nClick File\n\nClick Save State. Click a number 0 - 9. Load a save state. Use the following steps to load a save state:\nClick File\n\nClick Load State. Click a number 0 - 9. Using a Gameboy Color Emulator Go to https://www.emulatorgames.net/emulators/gameboy-color/ in your browser. This page has a variety of Game Boy Color emulator downloads for a variety of platforms. Click BGB 1.5.3 (Windows). It's the first option on the web page. It has an image of the BGB user interface. Click Download Emulator. It's the blue button to the right. You'll need to wait about 5 seconds, and then it will download the emulator as a ZIP file. Open the BGB ZIP file. In order to open a zip file, you need an archive program, such as WinZip, WinRAR, or 7-zip. Double-click the zip file to open it. By default, you can find downloaded files in your Downloads folder, or in your web browser. Double-click the downloaded ZIP folder to do so. Click Extract, Extract To or similar. Click the option to extract the contents of the zip file. This may be a little different depending on which archive program you are using. Navigate to the location you want to save the emulator too. It's recommended that you create a folder to store all of your video game ROMs to. You may even want to create a separate sub-folder for each game console. You can save the emulator to one of these folders, or any folder of your choice. Click Ok. This extracts the contents of the zip file to your computer. Download a Pok\u00e9mon ROM. BGB plays Game Boy and Game Boy Color games. Pok\u00e9mon games for Game Boy and Game Boy Color include Pok\u00e9mon: Red. Pok\u00e9mon: Blue, Pok\u00e9mon: Yellow, Pok\u00e9mon: Gold, Pok\u00e9mon: Silver, and Pok\u00e9mon: Crystal. Use the following steps to download a Pok\u00e9mon ROM:\nGo to https://www.emulatorgames.net/ in a web browser. Type \"Pokemon\" in the search bar in the upper-right corner and press \"Enter\". Click a Pok\u00e9mon title for Gameboy Color. Click Download Game. Open the zip file containing the ROM. Extract the contents of the zip file to a folder on your computer. Double-click the bgb.exe application. It resembles a grey and black directional pad. Doing so will open the BGB emulator window. Right-click the emulator window. A drop-down menu will appear. If your mouse doesn't have a right-click button, click the right side of the mouse or use two fingers to click the mouse. If your computer uses a trackpad instead of a mouse, use two fingers to tap the trackpad or press the bottom-right side of the trackpad. Click Load ROM\u2026. It's near the top of the drop-down menu. Select your downloaded ROM and click Open. This loads the ROM in the BGB emulator. Configure the keyboard controls. Use the following steps to configure the keyboard controls:\nRight-click the BGB window. Click Options. Click Configure keyboard. Press and hold the keyboard button you want to assign for each Game Boy button when prompted. Click Apply. Save a game state. You can save the game at any moment and load the game at the exact save state. Use the following steps to save the game as a save state:\nRight-click the BGB window. Click State. Click Quick Save. Load a game state. Use the following steps to load a saved game state:\nRight-click the BGB window. Click State. Click Quick Load. Using a Gameboy Advance Emulator Find your computer's bit number. In order to download the Nintendo DS emulator, you need to know whether your computer uses a 32-bit processor or a 64-bit processor. Go to https://www.emulatorgames.net/emulators/gameboy-advance/ in a web browser. This page has a variety of Game Boy Advance emulators for a variety of platforms. Click VisualBoyAdvance-M 64-Bit 2.0.2 (Windows). It's the second option on the web page. This takes you to the download link for VisualBoyAdvance. If you are running a 32-bit version of Windows, click VisualBoyAdvance-M 32-Bit 2.0.2 (Windows) instead. Click Download Emulator. It's the blue button to the right. You'll need to wait about 5 seconds, and then it will download the emulator as a ZIP file. Open the VisualBoyAdvance ZIP file. In order to open a zip file, you need an archive program, such as WinZip, WinRAR, or 7-zip. Double-click the zip file to open it. By default, you can find downloaded files in your Downloads folder, or in your web browser. Double-click the downloaded ZIP folder to do so. Click Extract, Extract To or similar. Click the option to extract the contents of the zip file. This may be a little different depending on which archive program you are using. Navigate to the location you want to save the emulator too. It's recommended that you create a folder to store all of your video game ROMs too. You may even want to create a separate sub-folder for each game console. You can save the emulator to one of these folders, or any folder of your choice. Click Ok. This extracts the contents of the zip file to your computer. Download a Pok\u00e9mon ROM. VisualBoyAdvance-M plays Game Boy Advance games. Pok\u00e9mon games for Game Boy Advance include Pok\u00e9mon: Fire Red, Pok\u00e9mon: Ruby, Pok\u00e9mon: Sapphire, Pok\u00e9mon: Leaf Green, and Pok\u00e9mon: Emerald. Use the following steps to download a Pok\u00e9mon ROM:\nGo to https://www.emulatorgames.net/ in a web browser. Type \"Pokemon\" in the search bar in the upper-right corner and press \"Enter\". Click a Pok\u00e9mon title for Gameboy Advance. Click Download Game. Open the zip file containing the ROM. Extract the contents of the zip file to a folder on your computer. Double-click the VisualBoyAdvance-M.exe file. This purple icon is in the new window. Doing so opens the VisualBoyAdvance program. Click the File tab. It's in the upper-left corner of the VisualBoyAdvance window. A drop-down menu will appear. Click Open\u2026. This option is near the top of the drop-down menu. You can also load Game Boy and Game Boy Color ROMS in VisualBoyAdvance. Select your downloaded ROM and click Open. This loads the ROM in the VisualBoyAdvance emulator. View and configure the keyboard controls. Use the following steps to view and configure the keyboard controls:\nClick Options. Click Configure\n\nClick a GBA button and press the keyboard button you want to assign it (optional). Click Ok. Save a save state. You can save the game at any moment and load the game at the exact save state. Use the following steps to save the game as a save state:\nClick File. Click Save state. Select one of the numbered save slots. Load a save state. Use the following steps to load a saved game state:\nClick File. Click Load state. Select one of the numbered save slots.",
+  "tyn_model":[
+    "nintendo ds emulator",
+    "pokemon",
+    "game boy color",
+    "mouse",
+    "emulator",
+    "7-zip",
+    "\u2026.",
+    "game boy and",
+    "video game",
+    "pok\u00e9mon rom",
+    "bgb emulator",
+    "game boy advance",
+    "emulators",
+    "\u21b5 enter",
+    "game controller",
+    "nintendo ds games",
+    "desmume emulator",
+    "gameboy color",
+    "keyboard",
+    "game boy",
+    "gameboy advance emulator",
+    "game boy advance games",
+    "gameboy advance"
+  ],
+  "tyn_section":[
+
+  ]
+}

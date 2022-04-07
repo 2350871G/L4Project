@@ -1,0 +1,322 @@
+{
+  "title":"How to Get an Emulator",
+  "url":"https://www.wikihow.com/Get-an-Emulator",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Emulators and Roms"
+  ],
+  "methods":[
+    {
+      "name":"Windows",
+      "steps":[
+        {
+          "headline":"Determine the systems you want to emulate.",
+          "description":"There are tons of emulation options available for Windows computers, more than any other platform. The emulator(s) you choose will depend on what you plan to play. You can emulate any retro system and most handheld systems. There are no stable emulators for PS3, PS4, Xbox 360, Xbox One, Vita, or 3DS. Wii U has one emulator as of this writing (cemu), which is somewhat stable but still very early."
+        },
+        {
+          "headline":"Decide on your emulator.",
+          "description":"Once you know the system you want to emulate, you can decide on the emulator you want to use. Below are the most popular and stable options:\nRetroArch - This program is a front-end for a variety of emulators. It is the best choice for all retro systems (including PlayStation 1, Nintendo 64, and PSP) and Nintendo handhelds (including all Game Boy systems and the Nintendo DS). It can also emulate DOS for old DOS games. PCSX2 - This is the best emulator for PlayStation 2, but be aware that each game will require individual configuration. Dolphin - This emulator can run Wii and GameCube games. nullDC - This is one of the more stable Dreamcast emulators."
+        },
+        {
+          "headline":"Visit the emulator's download site.",
+          "description":"This guide will focus on installing RetroArch, which will get you access to NES, SNES, Genesis, Saturn, Neo Geo, MAME, Game Boy family, Nintendo DS, PlayStation, Atari, PSP, Nintendo 64, and other emulators. Visit the Libretro (RetroArch) website and click the Download link."
+        },
+        {
+          "headline":"Click the Windows folder.",
+          "description":"This will display the Windows download options."
+        },
+        {
+          "headline":"Click the x86_64 folder.",
+          "description":"This will display the files for 64-bit systems, which most modern computers are. If you're using an older computer, check if your computer is 32-bit or 64-bit first."
+        },
+        {
+          "headline":"Click the RetroArch.7z file.",
+          "description":"This will begin downloading the RetroArch system files."
+        },
+        {
+          "headline":"Download and install 7-Zip.",
+          "description":"This is a free, open-source archiving program that is required to open files with the .7z format. You can download it from the 7-Zip website. Download the EXE file and follow the prompts to install it."
+        },
+        {
+          "headline":"Double-click the RetroArch.7z file.",
+          "description":"You'll find this in your Downloads folder. This will open the file in 7-Zip."
+        },
+        {
+          "headline":"Create a new folder for the RetroArch program.",
+          "description":"This can be anywhere on your computer, and you'll be running RetroArch from this folder."
+        },
+        {
+          "headline":"Drag the entire contents from the RetroArch.7z file to the new folder.",
+          "description":"This will copy all of the files from the .7z file into the folder, which is all you need to do to install RetroArch."
+        },
+        {
+          "headline":"Double-click retroarch.exe.",
+          "description":"This will launch RetroArch."
+        },
+        {
+          "headline":"Select Load Core and press X.",
+          "description":"This will select the menu option. Use this key until you connect a controller."
+        },
+        {
+          "headline":"Select Download Core.",
+          "description":"Use the arrow keys to navigate."
+        },
+        {
+          "headline":"Highlight the core you want to install and press X.",
+          "description":"You'll see a list of all the available emulators. Find an emulator for the system you want to play and press X to start downloading the emulator files. If the system has multiple emulators available, try the first one on the list."
+        },
+        {
+          "headline":"Press Z to go back.",
+          "description":"This will return you to the previous menu."
+        },
+        {
+          "headline":"Download some ROM (game) files.",
+          "description":"RetroArch does not contain any game files. You'll need to find and download these on your own. Do a web search for \"game name rom\" to find files hosted on various websites online."
+        },
+        {
+          "headline":"Place the ROMs into folders dedicated to their system.",
+          "description":"The easiest way to load your games into RetroArch is to sort your ROM files into folders for specific systems. For example, if you're loading NES games, place all of your NES ROMs in an \"NES\" folder."
+        },
+        {
+          "headline":"Select the + column in RetroArch.",
+          "description":""
+        },
+        {
+          "headline":"Highlight Scan Directory and press X.",
+          "description":""
+        },
+        {
+          "headline":"Navigate to the directory that contains your ROM files.",
+          "description":""
+        },
+        {
+          "headline":"Highlight a game you want to play and press X.",
+          "description":"This will load the game using the emulator you selected earlier. Note that different systems will use different input mappings."
+        }
+      ]
+    },
+    {
+      "name":"Mac",
+      "steps":[
+        {
+          "headline":"Decide which system you want to emulate.",
+          "description":"Your options for emulators on Mac are slightly more limited than on Windows, but you still have access to some of the most popular ones. For most retro systems, handhelds, and early 3D consoles, you'll want to use RetroArch. This guide will focus on RetroArch. For PlayStation 2, you'll want to use PCSX2. For Wii and GameCube, you'll want to use Dolphin."
+        },
+        {
+          "headline":"Visit the RetroArch download site.",
+          "description":"This guide will focus on using RetroArch, as it gives you access to the widest variety of systems."
+        },
+        {
+          "headline":"Click the Downloads link.",
+          "description":""
+        },
+        {
+          "headline":"Click the apple folder and then the osx folder.",
+          "description":""
+        },
+        {
+          "headline":"Click the x86_64 folder.",
+          "description":""
+        },
+        {
+          "headline":"Click the RetroArch.dmg file.",
+          "description":"This will begin downloading the RetroArch installer."
+        },
+        {
+          "headline":"Click the RetroArch.dmg file after downloading.",
+          "description":""
+        },
+        {
+          "headline":"Drag RetroArch into your Applications folder.",
+          "description":""
+        },
+        {
+          "headline":"Right-click the RetroArch program and select Open.",
+          "description":"You won't be able to launch it by double-clicking."
+        },
+        {
+          "headline":"Click the Open button.",
+          "description":""
+        },
+        {
+          "headline":"Highlight Load Core and press X.",
+          "description":""
+        },
+        {
+          "headline":"Highlight Download Core and press X.",
+          "description":""
+        },
+        {
+          "headline":"Highlight the emulator you want to download.",
+          "description":"If there are multiple emulators for the system you want to play, just try the first one on the list for now. You can always download a different one later."
+        },
+        {
+          "headline":"Press X to download the emulator.",
+          "description":""
+        },
+        {
+          "headline":"Press Z to return to the previous menu.",
+          "description":""
+        },
+        {
+          "headline":"Download some ROM (game) files.",
+          "description":"RetroArch doesn't come with any games, so you'll need to obtain game files (called \"ROMs\") on your own. Search for \"game name rom\" or \"system name rom\" to find games for your emulator. It is illegal in most areas to download ROM files for games you don't own."
+        },
+        {
+          "headline":"Place the ROM files in a dedicated directory.",
+          "description":"Create a folder for each system that you're downloading ROMs for and place the ROM files in them. For example, if you're downloading SNES ROMs, create an \"SNES\" folder on your desktop and place all of the games inside it."
+        },
+        {
+          "headline":"Highlight the + column in RetroArch.",
+          "description":"This will allow you to add game files to RetroArch."
+        },
+        {
+          "headline":"Press X to select Scan Directory.",
+          "description":""
+        },
+        {
+          "headline":"Navigate to and select the folder containing your game files.",
+          "description":""
+        },
+        {
+          "headline":"Select a game in the list added to RetroArch and press X.",
+          "description":"This will start the game in the emulator."
+        }
+      ]
+    },
+    {
+      "name":"iPhone",
+      "steps":[
+        {
+          "headline":"Open Safari on your iPhone.",
+          "description":"The iPhone has very limited emulation options, especially if your device is not jailbroken. The emulators that you can install have to be installed through Safari instead of the App Store."
+        },
+        {
+          "headline":"Visit the emulator website.",
+          "description":"There are several emulators available for iPhone that can be installed without jailbreaking. The availability of these emulators varies depending on whether or not Apple has revoked the necessary certificates."
+        },
+        {
+          "headline":"Tap the Apps tab.",
+          "description":"This will display the emulators available to download."
+        },
+        {
+          "headline":"Find the emulator you want to download.",
+          "description":"You'll want to find emulators that can be installed using the \"Signed\" method. The most popular emulators that this works for are GBA4iOS (Game Boy Advance), NDS4iOS (Nintendo DS), and PPSSPP\t (PSP)."
+        },
+        {
+          "headline":"Tap the emulator to open the install page.",
+          "description":""
+        },
+        {
+          "headline":"Tap the Install button.",
+          "description":""
+        },
+        {
+          "headline":"Tap Install again to confirm.",
+          "description":"Another screen will open with additional instructions."
+        },
+        {
+          "headline":"Press the Home button.",
+          "description":"This will minimize Safari and return you to your Home screen."
+        },
+        {
+          "headline":"Open the iPhone's Settings.",
+          "description":"Tap the Settings app on your Home screen. It looks like a gray gear."
+        },
+        {
+          "headline":"Tap General.",
+          "description":"You'll find this at the top of the third group of options."
+        },
+        {
+          "headline":"Scroll down and tap Device Management.",
+          "description":"You'll find this towards the bottom of the menu."
+        },
+        {
+          "headline":"Tap the listing in the Enterprise Apps section.",
+          "description":"If you installed multiple emulators, you may see multiple entries here. You'll need to do the same for each of them. If you don't see anything listed here, the app has not finished installing yet. Check your Home screen and try again once the app is done downloading and installing."
+        },
+        {
+          "headline":"Tap the Trust Name button.",
+          "description":"The Name will be a generic-sounding company name. These are dummy companies set up with certificates that allow you to install the app without the App Store."
+        },
+        {
+          "headline":"Tap Trust to confirm.",
+          "description":"Don't worry about your data. These emulator apps will not be able to access your personal data without your consent."
+        },
+        {
+          "headline":"Find a ROM file to use with your emulator.",
+          "description":"There are a variety of websites online that host ROM (game) files for the emulators that you've installed. Just search \"system rom\" or \"game rom\" to find the ROM files you want. It is illegal in most areas to download ROMs of games that you do not physically own."
+        },
+        {
+          "headline":"Tap the download link for the ROM file.",
+          "description":""
+        },
+        {
+          "headline":"Tap the Open in emulator link.",
+          "description":"This will appear after you tap the download link for the ROM file. For example, if you tapped a download link for a GBA ROM, you'll see the Open in GBA4iOS link. Tapping this link will add the ROM to your emulator's game list, so you can quickly select it in the future. If you don't see this, tap \"More\" and then tap your emulator."
+        }
+      ]
+    },
+    {
+      "name":"Android",
+      "steps":[
+        {
+          "headline":"Open the Play Store.",
+          "description":"You can find the Play Store in your Apps list, which can be opened by tapping the \u22ee\u22ee\u22ee button on your Home screen."
+        },
+        {
+          "headline":"Search for the emulator you want to install.",
+          "description":"There are a variety of emulators available for Android directly from the Play Store for most retro and handheld systems. Below are a few of the most popular:\nDraStic (Nintendo DS)\nFPse (PlayStation 1)\nPPSSPP (PSP)\nJohn GBC (Game Boy and Game Boy Color)\nMD.emu (Sega Genesis/Mega Drive)\nMy Boy! (Game Boy Advance)\nNostalgia.NES (NES)\nSuperRetro16 (SNES)"
+        },
+        {
+          "headline":"Tap the Install button for the emulator you want.",
+          "description":"Note that some emulators require purchase, but may have a free trial available."
+        },
+        {
+          "headline":"Open your Android's web browser.",
+          "description":"None of the emulators come with ROM (game) files, so you'll need to download these separately using your browser."
+        },
+        {
+          "headline":"Search for the game files you want to download.",
+          "description":"There are dozens of websites that host game files for you to download. You'll be using ROMs for systems that used cartridges (Game Boy, NES, etc. ), and ISO files for systems that used CDs (PS1, PSP, etc.). You can search for \"game name rom/iso\" to find a specific game, or \"system roms/isos\" for lists of all available games. It is illegal in most areas to download game files for games you don't physically own."
+        },
+        {
+          "headline":"Tap the download link for the ROM or ISO file.",
+          "description":"This will begin downloading the file to your Android's storage."
+        },
+        {
+          "headline":"Open your emulator app.",
+          "description":"After you've downloaded a game or two, start up your emulator."
+        },
+        {
+          "headline":"Load your ROM or ISO file.",
+          "description":"The process will vary depending on the emulator you are using. Generally you'll be asked to browse your Android's storage and locate the files. If you downloaded them with your browser, you'll find them in your Downloads folder. Some emulators will scan your storage for game files automatically."
+        }
+      ]
+    }
+  ],
+  "text":" Windows Determine the systems you want to emulate. There are tons of emulation options available for Windows computers, more than any other platform. The emulator(s) you choose will depend on what you plan to play. You can emulate any retro system and most handheld systems. There are no stable emulators for PS3, PS4, Xbox 360, Xbox One, Vita, or 3DS. Wii U has one emulator as of this writing (cemu), which is somewhat stable but still very early. Decide on your emulator. Once you know the system you want to emulate, you can decide on the emulator you want to use. Below are the most popular and stable options:\nRetroArch - This program is a front-end for a variety of emulators. It is the best choice for all retro systems (including PlayStation 1, Nintendo 64, and PSP) and Nintendo handhelds (including all Game Boy systems and the Nintendo DS). It can also emulate DOS for old DOS games. PCSX2 - This is the best emulator for PlayStation 2, but be aware that each game will require individual configuration. Dolphin - This emulator can run Wii and GameCube games. nullDC - This is one of the more stable Dreamcast emulators. Visit the emulator's download site. This guide will focus on installing RetroArch, which will get you access to NES, SNES, Genesis, Saturn, Neo Geo, MAME, Game Boy family, Nintendo DS, PlayStation, Atari, PSP, Nintendo 64, and other emulators. Visit the Libretro (RetroArch) website and click the Download link. Click the Windows folder. This will display the Windows download options. Click the x86_64 folder. This will display the files for 64-bit systems, which most modern computers are. If you're using an older computer, check if your computer is 32-bit or 64-bit first. Click the RetroArch.7z file. This will begin downloading the RetroArch system files. Download and install 7-Zip. This is a free, open-source archiving program that is required to open files with the .7z format. You can download it from the 7-Zip website. Download the EXE file and follow the prompts to install it. Double-click the RetroArch.7z file. You'll find this in your Downloads folder. This will open the file in 7-Zip. Create a new folder for the RetroArch program. This can be anywhere on your computer, and you'll be running RetroArch from this folder. Drag the entire contents from the RetroArch.7z file to the new folder. This will copy all of the files from the .7z file into the folder, which is all you need to do to install RetroArch. Double-click retroarch.exe. This will launch RetroArch. Select Load Core and press X. This will select the menu option. Use this key until you connect a controller. Select Download Core. Use the arrow keys to navigate. Highlight the core you want to install and press X. You'll see a list of all the available emulators. Find an emulator for the system you want to play and press X to start downloading the emulator files. If the system has multiple emulators available, try the first one on the list. Press Z to go back. This will return you to the previous menu. Download some ROM (game) files. RetroArch does not contain any game files. You'll need to find and download these on your own. Do a web search for \"game name rom\" to find files hosted on various websites online. Place the ROMs into folders dedicated to their system. The easiest way to load your games into RetroArch is to sort your ROM files into folders for specific systems. For example, if you're loading NES games, place all of your NES ROMs in an \"NES\" folder. Select the + column in RetroArch.  Highlight Scan Directory and press X.  Navigate to the directory that contains your ROM files.  Highlight a game you want to play and press X. This will load the game using the emulator you selected earlier. Note that different systems will use different input mappings. Mac Decide which system you want to emulate. Your options for emulators on Mac are slightly more limited than on Windows, but you still have access to some of the most popular ones. For most retro systems, handhelds, and early 3D consoles, you'll want to use RetroArch. This guide will focus on RetroArch. For PlayStation 2, you'll want to use PCSX2. For Wii and GameCube, you'll want to use Dolphin. Visit the RetroArch download site. This guide will focus on using RetroArch, as it gives you access to the widest variety of systems. Click the Downloads link.  Click the apple folder and then the osx folder.  Click the x86_64 folder.  Click the RetroArch.dmg file. This will begin downloading the RetroArch installer. Click the RetroArch.dmg file after downloading.  Drag RetroArch into your Applications folder.  Right-click the RetroArch program and select Open. You won't be able to launch it by double-clicking. Click the Open button.  Highlight Load Core and press X.  Highlight Download Core and press X.  Highlight the emulator you want to download. If there are multiple emulators for the system you want to play, just try the first one on the list for now. You can always download a different one later. Press X to download the emulator.  Press Z to return to the previous menu.  Download some ROM (game) files. RetroArch doesn't come with any games, so you'll need to obtain game files (called \"ROMs\") on your own. Search for \"game name rom\" or \"system name rom\" to find games for your emulator. It is illegal in most areas to download ROM files for games you don't own. Place the ROM files in a dedicated directory. Create a folder for each system that you're downloading ROMs for and place the ROM files in them. For example, if you're downloading SNES ROMs, create an \"SNES\" folder on your desktop and place all of the games inside it. Highlight the + column in RetroArch. This will allow you to add game files to RetroArch. Press X to select Scan Directory.  Navigate to and select the folder containing your game files.  Select a game in the list added to RetroArch and press X. This will start the game in the emulator. iPhone Open Safari on your iPhone. The iPhone has very limited emulation options, especially if your device is not jailbroken. The emulators that you can install have to be installed through Safari instead of the App Store. Visit the emulator website. There are several emulators available for iPhone that can be installed without jailbreaking. The availability of these emulators varies depending on whether or not Apple has revoked the necessary certificates. Tap the Apps tab. This will display the emulators available to download. Find the emulator you want to download. You'll want to find emulators that can be installed using the \"Signed\" method. The most popular emulators that this works for are GBA4iOS (Game Boy Advance), NDS4iOS (Nintendo DS), and PPSSPP\t (PSP). Tap the emulator to open the install page.  Tap the Install button.  Tap Install again to confirm. Another screen will open with additional instructions. Press the Home button. This will minimize Safari and return you to your Home screen. Open the iPhone's Settings. Tap the Settings app on your Home screen. It looks like a gray gear. Tap General. You'll find this at the top of the third group of options. Scroll down and tap Device Management. You'll find this towards the bottom of the menu. Tap the listing in the Enterprise Apps section. If you installed multiple emulators, you may see multiple entries here. You'll need to do the same for each of them. If you don't see anything listed here, the app has not finished installing yet. Check your Home screen and try again once the app is done downloading and installing. Tap the Trust Name button. The Name will be a generic-sounding company name. These are dummy companies set up with certificates that allow you to install the app without the App Store. Tap Trust to confirm. Don't worry about your data. These emulator apps will not be able to access your personal data without your consent. Find a ROM file to use with your emulator. There are a variety of websites online that host ROM (game) files for the emulators that you've installed. Just search \"system rom\" or \"game rom\" to find the ROM files you want. It is illegal in most areas to download ROMs of games that you do not physically own. Tap the download link for the ROM file.  Tap the Open in emulator link. This will appear after you tap the download link for the ROM file. For example, if you tapped a download link for a GBA ROM, you'll see the Open in GBA4iOS link. Tapping this link will add the ROM to your emulator's game list, so you can quickly select it in the future. If you don't see this, tap \"More\" and then tap your emulator. Android Open the Play Store. You can find the Play Store in your Apps list, which can be opened by tapping the \u22ee\u22ee\u22ee button on your Home screen. Search for the emulator you want to install. There are a variety of emulators available for Android directly from the Play Store for most retro and handheld systems. Below are a few of the most popular:\nDraStic (Nintendo DS)\nFPse (PlayStation 1)\nPPSSPP (PSP)\nJohn GBC (Game Boy and Game Boy Color)\nMD.emu (Sega Genesis/Mega Drive)\nMy Boy! (Game Boy Advance)\nNostalgia.NES (NES)\nSuperRetro16 (SNES) Tap the Install button for the emulator you want. Note that some emulators require purchase, but may have a free trial available. Open your Android's web browser. None of the emulators come with ROM (game) files, so you'll need to download these separately using your browser. Search for the game files you want to download. There are dozens of websites that host game files for you to download. You'll be using ROMs for systems that used cartridges (Game Boy, NES, etc. ), and ISO files for systems that used CDs (PS1, PSP, etc.). You can search for \"game name rom/iso\" to find a specific game, or \"system roms/isos\" for lists of all available games. It is illegal in most areas to download game files for games you don't physically own. Tap the download link for the ROM or ISO file. This will begin downloading the file to your Android's storage. Open your emulator app. After you've downloaded a game or two, start up your emulator. Load your ROM or ISO file. The process will vary depending on the emulator you are using. Generally you'll be asked to browse your Android's storage and locate the files. If you downloaded them with your browser, you'll find them in your Downloads folder. Some emulators will scan your storage for game files automatically.",
+  "tyn_model":[
+    "emulator",
+    "emulators",
+    "dolphin",
+    "7-zip",
+    "game boy advance",
+    "game boy family,",
+    "7-zip website",
+    "controller",
+    "retroarch",
+    "safari",
+    "iphone",
+    "\u22ee\u22ee\u22ee button",
+    "playstation 1)",
+    "game boy and game boy color",
+    "iso",
+    "android"
+  ],
+  "tyn_section":[
+
+  ]
+}

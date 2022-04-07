@@ -1,0 +1,51 @@
+{
+  "title":"How to Get Your Steam ID",
+  "url":"https://www.wikihow.com/Get-Your-Steam-ID",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "steps":[
+    {
+      "headline":"Go to the Steam website.",
+      "description":"If you're logged into Steam, doing so will open your Home page. Steam resides at the following address: http://store.steampowered.com/\nIf you aren't logged in, click the login link in the top-right corner of the page, then enter your Steam email address and password and click Sign in. If you haven't logged into Steam for several weeks, you may be prompted to enter a code that Steam will send to your email address to ensure it's you."
+    },
+    {
+      "headline":"Click your profile name.",
+      "description":"It's at the top of the Steam page, several tabs right of the \"Steam\" logo."
+    },
+    {
+      "headline":"Right-click (or two-finger click) the webpage.",
+      "description":"Make sure you do this away from any links or text (e.g., find a blank space to click)."
+    },
+    {
+      "headline":"Click View Page Source.",
+      "description":"This option, located in the right-click menu, will open a new tab with the Steam page's HTML code. You can also hold down Ctrl (or \u2318 Command+\u2325 Option for Mac) and tap U to open the page source menu. This shortcut works for most browsers, including Microsoft Edge and Safari. If you aren't automatically taken to the new tab, click it to view the Page Source."
+    },
+    {
+      "headline":"Hold down Ctrl (PC) or \u2318 Command (Mac) and press F. This will open a search window on the Page Source page.",
+      "description":""
+    },
+    {
+      "headline":"Type steamid into the search bar.",
+      "description":"Doing so will search the Page Source page for anything matching \"steamid\" and, as it happens, the only instance of \"steamid\" appearing on the page also displays your Steam ID number."
+    },
+    {
+      "headline":"Look at the number to the right of the \"steamid\" value.",
+      "description":"This number is your Steam ID."
+    }
+  ],
+  "text":" Go to the Steam website. If you're logged into Steam, doing so will open your Home page. Steam resides at the following address: http://store.steampowered.com/\nIf you aren't logged in, click the login link in the top-right corner of the page, then enter your Steam email address and password and click Sign in. If you haven't logged into Steam for several weeks, you may be prompted to enter a code that Steam will send to your email address to ensure it's you. Click your profile name. It's at the top of the Steam page, several tabs right of the \"Steam\" logo. Right-click (or two-finger click) the webpage. Make sure you do this away from any links or text (e.g., find a blank space to click). Click View Page Source. This option, located in the right-click menu, will open a new tab with the Steam page's HTML code. You can also hold down Ctrl (or \u2318 Command+\u2325 Option for Mac) and tap U to open the page source menu. This shortcut works for most browsers, including Microsoft Edge and Safari. If you aren't automatically taken to the new tab, click it to view the Page Source. Hold down Ctrl (PC) or \u2318 Command (Mac) and press F. This will open a search window on the Page Source page.  Type steamid into the search bar. Doing so will search the Page Source page for anything matching \"steamid\" and, as it happens, the only instance of \"steamid\" appearing on the page also displays your Steam ID number. Look at the number to the right of the \"steamid\" value. This number is your Steam ID.",
+  "tyn_model":[
+    "steam",
+    "steam id",
+    "\u2318 command+",
+    "\u2325 option",
+    "\u2318 command"
+  ],
+  "tyn_section":[
+
+  ]
+}

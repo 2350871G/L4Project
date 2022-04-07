@@ -1,0 +1,59 @@
+{
+  "title":"How to Solve a Skyscrapers Puzzle",
+  "url":"https://www.wikihow.com/Solve-a-Skyscrapers-Puzzle",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games",
+    "Mathematical Puzzles"
+  ],
+  "steps":[
+    {
+      "headline":"Examine the dimensions of the puzzle and the number of building heights available.",
+      "description":"In some cases, these will be equal and the entire grid will be filled with skyscrapers. In others, there may be some empty spaces or parks. Subtract the length of the rows from the number of heights to find the number of parks in each row. In this example, it is stated that there are four buildings heights. In the 5x5 grid, that means one park in each row and column."
+    },
+    {
+      "headline":"Look along the edges.",
+      "description":"The tallest building will block everything else in that row or column and therefore cannot be placed next to any digit other than 1. If there are multiple 1's in a row, all but one of them must be a park. Since this example has four heights in a 5x5 grid, each row and column contains only one park. Use the + symbol to indicate cells where the height is still unknown, but cannot be a park. Identifying the locations of the parks is a significant step towards the solution."
+    },
+    {
+      "headline":"Find any other locations that must contain a building and likewise mark those cells.",
+      "description":"When a building of maximum height is found, there must be at least as many other buildings between it and each edge as the number of buildings visible from that edge."
+    },
+    {
+      "headline":"If possible, find rows and columns where the order of the buildings can be determined.",
+      "description":"If the number of visible buildings equals the total number of building heights, they must be in increasing height. If the location of all park squares in that row or column are also known, then that row can be fully solved."
+    },
+    {
+      "headline":"Look for ways to discover the order of the missing elements in partially completed rows and columns.",
+      "description":"For example, the second row could be either 4123 or 4132, but only 4132 has three buildings visible from the right. Therefore the right edge must be height 2, since you already know it can't be empty."
+    },
+    {
+      "headline":"Try to place other taller buildings around the edges.",
+      "description":"In the example, since the maximum height is 4, a three can only be placed on an edge where the number of visible buildings is 2 (only itself and a 4 at some further locations can be seen). Along the top and right, there is only one possibility."
+    },
+    {
+      "headline":"Continue to look at how the new information can help solve partially known rows and columns.",
+      "description":"With the 3 and 4 placed, the top row must be 3421 to have three buildings visible from the right and the first column must be 3412 to have two buildings visible from below. Consider marking rows and columns whose constraints have been fully met. These won't always be completely solved\u2013\u2013the location of the 3 in the second row is not yet known, but in either available location, the left side will see only 4, while the right side will see 234, so those numbers will provide no more information."
+    },
+    {
+      "headline":"Look for heights that have been mostly placed and use the Latin square constraint to place remaining buildings of that height.",
+      "description":"In this example, four of the five height 2 buildings have been found, so there is only one place for the last one."
+    },
+    {
+      "headline":"Find the possible locations for any remaining empty park spaces.",
+      "description":"In the example, the fourth row can only have two buildings visible form the left, not the required 3, if the first cell is empty. Therefore the park squares of both the third and fourth rows can be determined."
+    },
+    {
+      "headline":"The remaining cells can be solved by considering the number of buildings visible from the bottom.",
+      "description":""
+    }
+  ],
+  "text":" Examine the dimensions of the puzzle and the number of building heights available. In some cases, these will be equal and the entire grid will be filled with skyscrapers. In others, there may be some empty spaces or parks. Subtract the length of the rows from the number of heights to find the number of parks in each row. In this example, it is stated that there are four buildings heights. In the 5x5 grid, that means one park in each row and column. Look along the edges. The tallest building will block everything else in that row or column and therefore cannot be placed next to any digit other than 1. If there are multiple 1's in a row, all but one of them must be a park. Since this example has four heights in a 5x5 grid, each row and column contains only one park. Use the + symbol to indicate cells where the height is still unknown, but cannot be a park. Identifying the locations of the parks is a significant step towards the solution. Find any other locations that must contain a building and likewise mark those cells. When a building of maximum height is found, there must be at least as many other buildings between it and each edge as the number of buildings visible from that edge. If possible, find rows and columns where the order of the buildings can be determined. If the number of visible buildings equals the total number of building heights, they must be in increasing height. If the location of all park squares in that row or column are also known, then that row can be fully solved. Look for ways to discover the order of the missing elements in partially completed rows and columns. For example, the second row could be either 4123 or 4132, but only 4132 has three buildings visible from the right. Therefore the right edge must be height 2, since you already know it can't be empty. Try to place other taller buildings around the edges. In the example, since the maximum height is 4, a three can only be placed on an edge where the number of visible buildings is 2 (only itself and a 4 at some further locations can be seen). Along the top and right, there is only one possibility. Continue to look at how the new information can help solve partially known rows and columns. With the 3 and 4 placed, the top row must be 3421 to have three buildings visible from the right and the first column must be 3412 to have two buildings visible from below. Consider marking rows and columns whose constraints have been fully met. These won't always be completely solved\u2013\u2013the location of the 3 in the second row is not yet known, but in either available location, the left side will see only 4, while the right side will see 234, so those numbers will provide no more information. Look for heights that have been mostly placed and use the Latin square constraint to place remaining buildings of that height. In this example, four of the five height 2 buildings have been found, so there is only one place for the last one. Find the possible locations for any remaining empty park spaces. In the example, the fourth row can only have two buildings visible form the left, not the required 3, if the first cell is empty. Therefore the park squares of both the third and fourth rows can be determined. The remaining cells can be solved by considering the number of buildings visible from the bottom. ",
+  "tyn_model":[
+
+  ],
+  "tyn_section":[
+
+  ]
+}

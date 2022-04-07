@@ -1,0 +1,246 @@
+{
+  "title":"How to Install Steam",
+  "url":"https://www.wikihow.com/Install-Steam",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "methods":[
+    {
+      "name":"Windows",
+      "steps":[
+        {
+          "headline":"Open the Steam website.",
+          "description":"You can download Steam from steampowered.com."
+        },
+        {
+          "headline":"Click \"Install Steam\".",
+          "description":"This button is green and is located at the top of the Steam page."
+        },
+        {
+          "headline":"Click \"Install Steam Now\".",
+          "description":"This will download the EXE installer program."
+        },
+        {
+          "headline":"Run the installer and follow the prompts.",
+          "description":"You will need to accept the license agreement and confirm that you are 13 or older. By default, Steam is installed to C:\\Program File\\Steam. You can change this during installation if you'd like. You can also set games to install to a different directory, which is useful if you want to store your games on a different partition. See Step # for more details."
+        },
+        {
+          "headline":"Launch Steam and wait for it to update.",
+          "description":"After installing Steam, you'll be prompted to start it. Steam will need to update the first time that it runs, which may take a few minutes."
+        },
+        {
+          "headline":"Log in with your account or create a new one.",
+          "description":"If you already have an account, you can use it to log in. If you don't have an account, you can create one for free. Follow the prompts to create an account. You'll need to pick a username and password, as well as enter a valid email address. You'll need to confirm this email address after creating your account by following the verification link you are sent. If your desired username is already taken, you'll be shown several alternates or you can try creating a new one. If you already have an account, you'll likely be prompted by SteamGuard to verify your identity. This is to help prevent unauthorized access to your account."
+        },
+        {
+          "headline":"Use the tabs along the top of the Steam window to navigate.",
+          "description":"When you first launch Steam, you'll be taken to the Store page. You can switch to the other sections by clicking the tabs along the top of the window. Hover over the tabs to select from the various subpages."
+        },
+        {
+          "headline":"Set a new location for games to be installed (optional).",
+          "description":"By default, games will be installed to the same directory that Steam was installed in. You can change this if you would prefer to store your games somewhere else, such as on a second hard drive. Click the \"Steam\" menu and select \"Settings\". Select the \"Downloads\" tab in the Settings menu and then click \"Steam Library Folders\". Click \"Add Library Folder\" and then select a folder you want to be able to install games to."
+        },
+        {
+          "headline":"Open the Library tab to view your purchased games.",
+          "description":"In the list of games on the left, uninstalled games will be grayed-out, while installed games will be white. Selecting a game will open the game's information page, allowing you to see achievements, DLC, news updates, and more."
+        },
+        {
+          "headline":"Double-click an uninstalled game to begin installing it.",
+          "description":"You can use the drop-down menu in the installation window to select which folder you want to install the game to. You'll also be given the option to create desktop and Start menu shortcuts directly to the game. Depending on the size of the game and your internet connection, the download and install process could take anywhere from a few minutes to a few days. You can monitor your current downloads by hovering over the Library tab and selecting \"Downloads\"."
+        }
+      ]
+    },
+    {
+      "name":"Mac",
+      "steps":[
+        {
+          "headline":"Visit the Steam website.",
+          "description":"You can access it at steampowered.com."
+        },
+        {
+          "headline":"Click the \"Install Steam\" button in the upper-right corner.",
+          "description":""
+        },
+        {
+          "headline":"Click \"Install Steam Now\" to download the installer.",
+          "description":"If the Mac version doesn't download, click the \"Mac\" link under the \"Install Steam Now\" button."
+        },
+        {
+          "headline":"Double-click the downloaded installer and agree to the Steam terms.",
+          "description":"Drag the Steam icon into your Applications folder. This will install the Steam client on your computer."
+        },
+        {
+          "headline":"Double-click Steam in your Applications folder.",
+          "description":"Click Open to confirm that you want to run the program."
+        },
+        {
+          "headline":"Wait for Steam to update.",
+          "description":"When you run Steam for the first time, it will need to download update files. This may take a few minutes. Steam will occasionally install updates when you start it."
+        },
+        {
+          "headline":"Log in with your Steam account or create a new one.",
+          "description":"If you have an account already, you can use it to log in when Steam finishes updating. If you don't have an account, you can create one for free by following the account creation prompts. When creating a new account, you'll need to create a username. If the name you choose is already taken, you'll be given several alternatives, or you can try creating a different one. You'll also need a valid email address to confirm the account. This email address will be used if you need to reset your password in the future, and for SteamGuard verification. If you already have an account, you'll likely be prompted for a SteamGuard verification code. You'll receive the code at your account's email address. This is to help protect against unauthorized access to your account."
+        },
+        {
+          "headline":"Use the tabs at the top of the Steam window to switch sections.",
+          "description":"Depending on your account settings, you'll be taken to either the Store or the Library page when Steam starts. You can click the tabs along the top of the window to switch sections. Hover over the tabs to see the various subpages for each section."
+        },
+        {
+          "headline":"Open the Library tab to see your purchased games.",
+          "description":"Uninstalled games will be grayed-out, while installed games will have white text. Note that not all games on Steam support Mac. If you've purchased a lot of games on Steam in the past, you'll likely not see all of them in the Library window. When purchasing a game, make sure to look for the Apple logo and the \"Mac OS X\" section of the System Requirements in the Store page."
+        },
+        {
+          "headline":"Double-click an uninstalled game to start the installation process.",
+          "description":"You'll be informed of how large the game will be on your hard drive, and will be given the option to create shortcuts. Note: The estimated download time is almost always incorrect. You will usually download faster than the indicated time."
+        },
+        {
+          "headline":"Wait for the download to complete.",
+          "description":"Depending on the size of the game and your internet speed, the download may take anywhere from minutes to many hours. You can monitor the progress in the list of your games. You can close Stem in the middle of a download and be able to pick up where you left off when you start back up."
+        }
+      ]
+    },
+    {
+      "name":"Ubuntu",
+      "steps":[
+        {
+          "headline":"Update your graphics drivers.",
+          "description":"While some games will work without updating, most newer games won't perform well or may not even start at all unless you have the latest drivers installed. The process varies depending on whether you're using an Nvidia or an AMD/ATI card. Nvidia - Open Software Sources and then click the \"Additional Drivers\" tab. Select the latest version of the \"experimental\" driver and then click \"Apply Changes\"."
+        },
+        {
+          "headline":"Open the Ubuntu Software Center.",
+          "description":"In Ubuntu, Steam can be downloaded directly from the Ubuntu Software Center."
+        },
+        {
+          "headline":"Search for \"steam\" and then click \"Install\" on the Steam entry.",
+          "description":"This will download install the Steam package on your computer. You may be prompted to install the Beta software. If this is the case, click \"Start Steam Beta\"."
+        },
+        {
+          "headline":"Log in with your Steam account or create a new one.",
+          "description":"If you already have a Steam account, you can use it to log in. You will usually be prompted to enter your SteamGuard verification code to confirm your identity. if you don't have an account, you can follow the prompts to create one."
+        },
+        {
+          "headline":"Use the tabs at the top of the window to change sections.",
+          "description":"You'll usually start Steam in either the Store or the Library window. You can click the tabs to switch sections, or hover over them to see the subpages for each section."
+        },
+        {
+          "headline":"View your Linux games in the Library tab.",
+          "description":"When you open the Library tab, you'll see a list of all of the games that you've purchased that support Linux. Since not all games support Linux, you'll likely see less games than normal if you have a large library."
+        },
+        {
+          "headline":"Double-click a game to begin installing it.",
+          "description":"You'll be shown how large the game is, as well as given options to create shortcuts. The download time will vary wildly depending on the size of the game and your internet connection."
+        }
+      ]
+    },
+    {
+      "name":"Mint",
+      "steps":[
+        {
+          "headline":"Open Software Sources.",
+          "description":"Steam is not included in the Mint repository, so you'll need to add it manually first before installing it. You can install Steam from the Steam website without doing this, but then you'll have to manually update it each time an update is released (which is very often)."
+        },
+        {
+          "headline":"Select \"Additional repositories\" and then click \"Add\".",
+          "description":""
+        },
+        {
+          "headline":"Paste .deb http://repo.steampowered.com/steam/ precise steam into the address bar.",
+          "description":""
+        },
+        {
+          "headline":"Open the Terminal and type .sudo apt-get update.",
+          "description":"This will update your repositories."
+        },
+        {
+          "headline":"Type .wget -O - http://repo.steampowered.com/steam/signature.gpg .",
+          "description":"Press \u21b5 Enter to run the command. this will download the signed key for the repository, allowing you to install software from it."
+        },
+        {
+          "headline":"Open the Software Center and follow the instructions for the Ubuntu installation.",
+          "description":"The rest of the process is the same as the Ubuntu process. Click here and follow the steps to install Steam and download some games."
+        }
+      ]
+    },
+    {
+      "name":"SteamOS",
+      "steps":[
+        {
+          "headline":"Understand what will happen when you install SteamOS.",
+          "description":"SteamOS is a Linux-based operating system designed for living room TV sets. Installing SteamOS will delete everything that is on the target computer, and SteamOS does not allow for dual-booting or multiple partitions. Make sure you don't need any of the data on the computer you intend to install it on."
+        },
+        {
+          "headline":"Download the SteamOS Beta Installer.",
+          "description":"You can download it from here. The installer file is 1 GB, so it may take a while to download."
+        },
+        {
+          "headline":"Insert a USB drive with at least 4 GB of storage.",
+          "description":"Make sure that you don't have any important files on it, as everything will be erased."
+        },
+        {
+          "headline":"Right-click on the USB drive and select \"Format\".",
+          "description":"You will need to format the USB drive so that you can load the recovery image from it. Select \"FAT32\" as the file system. Click Start and wait for the USB drive to be formatted."
+        },
+        {
+          "headline":"Double-click the downloaded ZIP file to open it.",
+          "description":"Drag all of the contents inside onto the USB drive."
+        },
+        {
+          "headline":"Reboot the computer and open the BIOS menu.",
+          "description":"You'll need to hit the BIOS key when you see the manufacturer's logo. Typical BIOS keys include F2, F10, F11, or Del."
+        },
+        {
+          "headline":"Open the BOOT menu in the BIOS.",
+          "description":"Set the UEFI option as the primary boot device. This will allow you to boot from the SteamOS recovery image on the USB drive. If you don't have a UEFI option, you may need to enable UEFI for the motherboard. If you can't enable UEFI, you'll need to download the ISO file and burn it to a disc. You can then boot from this disc to start the installation. You can download the ISO file from repo.steampowered.com/download/."
+        },
+        {
+          "headline":"Save your changes and reboot your computer.",
+          "description":"You'll see the SteamOS boot menu if you've set your Boot settings properly."
+        },
+        {
+          "headline":"Select \"Automated install\" and press .\u21b5 Enter.",
+          "description":"the rest of the installation process is hands-off. You can watch the screen to monitor the progress of the install. The computer will reboot after the installation is complete, and after a moment the SteamOS desktop will appear."
+        },
+        {
+          "headline":"Wait for Steam to install.",
+          "description":"After the computer boots to the desktop, the Steam client will automatically begin downloading updates so that Steam can be installed. During the Steam setup process, you'll see a wall of Terminal information flash by as files are installed and configured."
+        },
+        {
+          "headline":"Select \"reboot\" when Partclone is finished.",
+          "description":"A program called Partclone will run automatically at the end of the installation to create a backup of the system. When it's finished, you'll be prompted to select an option from the menu. Select \"reboot\" to reboot the computer."
+        },
+        {
+          "headline":"Start using SteamOS.",
+          "description":"After rebooting, SteamOS will load your hardware drivers, which may take a minute. this will only happen the first time you boot up. Once it's finished, you'll be taken through the SteamOS setup process, where you can select your language, adjust your display, set the timezone and review the license agreement."
+        },
+        {
+          "headline":"Log in or create an account.",
+          "description":"Once the setup is complete, you can log in with your Steam account or create a new one. If you don't have an account, follow the prompts to get one made in a few minutes. If you already have an account, you'll likely be asked for the SteamGuard verification code, which will be sent to your Steam email address."
+        },
+        {
+          "headline":"Use your controller or mouse to navigate.",
+          "description":"SteamOS has built-in controller support, and the interface is designed to be used with one. The tabs at the top allow you to switch between your library and the Store page. SteamOS is a Linux operating system, and only Linux games will work with it."
+        }
+      ]
+    }
+  ],
+  "text":" Windows Open the Steam website. You can download Steam from steampowered.com. Click \"Install Steam\". This button is green and is located at the top of the Steam page. Click \"Install Steam Now\". This will download the EXE installer program. Run the installer and follow the prompts. You will need to accept the license agreement and confirm that you are 13 or older. By default, Steam is installed to C:\\Program File\\Steam. You can change this during installation if you'd like. You can also set games to install to a different directory, which is useful if you want to store your games on a different partition. See Step # for more details. Launch Steam and wait for it to update. After installing Steam, you'll be prompted to start it. Steam will need to update the first time that it runs, which may take a few minutes. Log in with your account or create a new one. If you already have an account, you can use it to log in. If you don't have an account, you can create one for free. Follow the prompts to create an account. You'll need to pick a username and password, as well as enter a valid email address. You'll need to confirm this email address after creating your account by following the verification link you are sent. If your desired username is already taken, you'll be shown several alternates or you can try creating a new one. If you already have an account, you'll likely be prompted by SteamGuard to verify your identity. This is to help prevent unauthorized access to your account. Use the tabs along the top of the Steam window to navigate. When you first launch Steam, you'll be taken to the Store page. You can switch to the other sections by clicking the tabs along the top of the window. Hover over the tabs to select from the various subpages. Set a new location for games to be installed (optional). By default, games will be installed to the same directory that Steam was installed in. You can change this if you would prefer to store your games somewhere else, such as on a second hard drive. Click the \"Steam\" menu and select \"Settings\". Select the \"Downloads\" tab in the Settings menu and then click \"Steam Library Folders\". Click \"Add Library Folder\" and then select a folder you want to be able to install games to. Open the Library tab to view your purchased games. In the list of games on the left, uninstalled games will be grayed-out, while installed games will be white. Selecting a game will open the game's information page, allowing you to see achievements, DLC, news updates, and more. Double-click an uninstalled game to begin installing it. You can use the drop-down menu in the installation window to select which folder you want to install the game to. You'll also be given the option to create desktop and Start menu shortcuts directly to the game. Depending on the size of the game and your internet connection, the download and install process could take anywhere from a few minutes to a few days. You can monitor your current downloads by hovering over the Library tab and selecting \"Downloads\". Mac Visit the Steam website. You can access it at steampowered.com. Click the \"Install Steam\" button in the upper-right corner.  Click \"Install Steam Now\" to download the installer. If the Mac version doesn't download, click the \"Mac\" link under the \"Install Steam Now\" button. Double-click the downloaded installer and agree to the Steam terms. Drag the Steam icon into your Applications folder. This will install the Steam client on your computer. Double-click Steam in your Applications folder. Click Open to confirm that you want to run the program. Wait for Steam to update. When you run Steam for the first time, it will need to download update files. This may take a few minutes. Steam will occasionally install updates when you start it. Log in with your Steam account or create a new one. If you have an account already, you can use it to log in when Steam finishes updating. If you don't have an account, you can create one for free by following the account creation prompts. When creating a new account, you'll need to create a username. If the name you choose is already taken, you'll be given several alternatives, or you can try creating a different one. You'll also need a valid email address to confirm the account. This email address will be used if you need to reset your password in the future, and for SteamGuard verification. If you already have an account, you'll likely be prompted for a SteamGuard verification code. You'll receive the code at your account's email address. This is to help protect against unauthorized access to your account. Use the tabs at the top of the Steam window to switch sections. Depending on your account settings, you'll be taken to either the Store or the Library page when Steam starts. You can click the tabs along the top of the window to switch sections. Hover over the tabs to see the various subpages for each section. Open the Library tab to see your purchased games. Uninstalled games will be grayed-out, while installed games will have white text. Note that not all games on Steam support Mac. If you've purchased a lot of games on Steam in the past, you'll likely not see all of them in the Library window. When purchasing a game, make sure to look for the Apple logo and the \"Mac OS X\" section of the System Requirements in the Store page. Double-click an uninstalled game to start the installation process. You'll be informed of how large the game will be on your hard drive, and will be given the option to create shortcuts. Note: The estimated download time is almost always incorrect. You will usually download faster than the indicated time. Wait for the download to complete. Depending on the size of the game and your internet speed, the download may take anywhere from minutes to many hours. You can monitor the progress in the list of your games. You can close Stem in the middle of a download and be able to pick up where you left off when you start back up. Ubuntu Update your graphics drivers. While some games will work without updating, most newer games won't perform well or may not even start at all unless you have the latest drivers installed. The process varies depending on whether you're using an Nvidia or an AMD/ATI card. Nvidia - Open Software Sources and then click the \"Additional Drivers\" tab. Select the latest version of the \"experimental\" driver and then click \"Apply Changes\". Open the Ubuntu Software Center. In Ubuntu, Steam can be downloaded directly from the Ubuntu Software Center. Search for \"steam\" and then click \"Install\" on the Steam entry. This will download install the Steam package on your computer. You may be prompted to install the Beta software. If this is the case, click \"Start Steam Beta\". Log in with your Steam account or create a new one. If you already have a Steam account, you can use it to log in. You will usually be prompted to enter your SteamGuard verification code to confirm your identity. if you don't have an account, you can follow the prompts to create one. Use the tabs at the top of the window to change sections. You'll usually start Steam in either the Store or the Library window. You can click the tabs to switch sections, or hover over them to see the subpages for each section. View your Linux games in the Library tab. When you open the Library tab, you'll see a list of all of the games that you've purchased that support Linux. Since not all games support Linux, you'll likely see less games than normal if you have a large library. Double-click a game to begin installing it. You'll be shown how large the game is, as well as given options to create shortcuts. The download time will vary wildly depending on the size of the game and your internet connection. Mint Open Software Sources. Steam is not included in the Mint repository, so you'll need to add it manually first before installing it. You can install Steam from the Steam website without doing this, but then you'll have to manually update it each time an update is released (which is very often). Select \"Additional repositories\" and then click \"Add\".  Paste .deb http://repo.steampowered.com/steam/ precise steam into the address bar.  Open the Terminal and type .sudo apt-get update. This will update your repositories. Type .wget -O - http://repo.steampowered.com/steam/signature.gpg . Press \u21b5 Enter to run the command. this will download the signed key for the repository, allowing you to install software from it. Open the Software Center and follow the instructions for the Ubuntu installation. The rest of the process is the same as the Ubuntu process. Click here and follow the steps to install Steam and download some games. SteamOS Understand what will happen when you install SteamOS. SteamOS is a Linux-based operating system designed for living room TV sets. Installing SteamOS will delete everything that is on the target computer, and SteamOS does not allow for dual-booting or multiple partitions. Make sure you don't need any of the data on the computer you intend to install it on. Download the SteamOS Beta Installer. You can download it from here. The installer file is 1 GB, so it may take a while to download. Insert a USB drive with at least 4 GB of storage. Make sure that you don't have any important files on it, as everything will be erased. Right-click on the USB drive and select \"Format\". You will need to format the USB drive so that you can load the recovery image from it. Select \"FAT32\" as the file system. Click Start and wait for the USB drive to be formatted. Double-click the downloaded ZIP file to open it. Drag all of the contents inside onto the USB drive. Reboot the computer and open the BIOS menu. You'll need to hit the BIOS key when you see the manufacturer's logo. Typical BIOS keys include F2, F10, F11, or Del. Open the BOOT menu in the BIOS. Set the UEFI option as the primary boot device. This will allow you to boot from the SteamOS recovery image on the USB drive. If you don't have a UEFI option, you may need to enable UEFI for the motherboard. If you can't enable UEFI, you'll need to download the ISO file and burn it to a disc. You can then boot from this disc to start the installation. You can download the ISO file from repo.steampowered.com/download/. Save your changes and reboot your computer. You'll see the SteamOS boot menu if you've set your Boot settings properly. Select \"Automated install\" and press .\u21b5 Enter. the rest of the installation process is hands-off. You can watch the screen to monitor the progress of the install. The computer will reboot after the installation is complete, and after a moment the SteamOS desktop will appear. Wait for Steam to install. After the computer boots to the desktop, the Steam client will automatically begin downloading updates so that Steam can be installed. During the Steam setup process, you'll see a wall of Terminal information flash by as files are installed and configured. Select \"reboot\" when Partclone is finished. A program called Partclone will run automatically at the end of the installation to create a backup of the system. When it's finished, you'll be prompted to select an option from the menu. Select \"reboot\" to reboot the computer. Start using SteamOS. After rebooting, SteamOS will load your hardware drivers, which may take a minute. this will only happen the first time you boot up. Once it's finished, you'll be taken through the SteamOS setup process, where you can select your language, adjust your display, set the timezone and review the license agreement. Log in or create an account. Once the setup is complete, you can log in with your Steam account or create a new one. If you don't have an account, follow the prompts to get one made in a few minutes. If you already have an account, you'll likely be asked for the SteamGuard verification code, which will be sent to your Steam email address. Use your controller or mouse to navigate. SteamOS has built-in controller support, and the interface is designed to be used with one. The tabs at the top allow you to switch between your library and the Store page. SteamOS is a Linux operating system, and only Linux games will work with it.",
+  "tyn_model":[
+    "steam",
+    "usb drive",
+    "games",
+    "game",
+    "\u21b5 enter",
+    "steam client",
+    "ubuntu software center",
+    "mint",
+    "apt-get update",
+    "software center",
+    "linux-based operating system"
+  ],
+  "tyn_section":[
+
+  ]
+}

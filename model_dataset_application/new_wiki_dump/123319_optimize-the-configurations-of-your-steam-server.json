@@ -1,0 +1,43 @@
+{
+  "title":"How to Optimize the Configurations of Your Steam Server",
+  "url":"https://www.wikihow.com/Optimize-the-Configurations-of-Your-Steam-Server",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Steam Games"
+  ],
+  "steps":[
+    {
+      "headline":"Set up a Steam Server",
+      "description":""
+    },
+    {
+      "headline":"When starting the Dedicated Server, if you have windows and your are running the server from the GUI (the default option), you will be prompted a window in which you can change various constants.",
+      "description":"The Maximum Players constant should be selected according to the result of this formula:Bandwidth in Kbps / (sv_maxrate / 128) = Recommended Number of Slots Use 192 instead of 128 for SRCDS (Source Dedicated Servers)."
+    },
+    {
+      "headline":"Start the server.",
+      "description":""
+    },
+    {
+      "headline":"Edit [with notepad] the server.cfg in the server's directory (X:\\Program Files\\Valve\\Steam\\steamapps\\ServerOwner\\dedicated server\\ChosenGame\\server.cfg).",
+      "description":""
+    },
+    {
+      "headline":"Set your sv_maxrate to a multiple of 128 between 3072-6144.",
+      "description":"\"Anything above that is gravy.\" (SMPM-Sniper)"
+    },
+    {
+      "headline":"Set your sv_maxupdaterate to sv_maxrate/ 256.",
+      "description":"Set a round number, no need to be too precise."
+    }
+  ],
+  "text":" Set up a Steam Server  When starting the Dedicated Server, if you have windows and your are running the server from the GUI (the default option), you will be prompted a window in which you can change various constants. The Maximum Players constant should be selected according to the result of this formula:Bandwidth in Kbps / (sv_maxrate / 128) = Recommended Number of Slots Use 192 instead of 128 for SRCDS (Source Dedicated Servers). Start the server.  Edit [with notepad] the server.cfg in the server's directory (X:\\Program Files\\Valve\\Steam\\steamapps\\ServerOwner\\dedicated server\\ChosenGame\\server.cfg).  Set your sv_maxrate to a multiple of 128 between 3072-6144. \"Anything above that is gravy.\" (SMPM-Sniper) Set your sv_maxupdaterate to sv_maxrate/ 256. Set a round number, no need to be too precise.",
+  "tyn_model":[
+    "notepad"
+  ],
+  "tyn_section":[
+
+  ]
+}

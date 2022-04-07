@@ -1,0 +1,95 @@
+{
+  "title":"How to Read a Capacitor",
+  "url":"https://www.wikihow.com/Read-a-Capacitor",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "methods":[
+    {
+      "name":"Reading Large Capacitors",
+      "steps":[
+        {
+          "headline":"Know the units of measurement.",
+          "description":"The base unit of capacitance is the farad (F). This value is much too large for ordinary circuits, so household capacitors are labeled with one of the following units:\n1 \u00b5F, uF, or mF = 1 microfarad = 10 farads. (Careful \u2014 in other contexts, mF is the official abbreviation for millifarads, or 10 farads.) 1 nF = 1 nanofarad = 10 farads. 1 pF, mmF, or uuF = 1 picofarad = 1 micromicrofarad = 10 farads."
+        },
+        {
+          "headline":"Read the capacitance value.",
+          "description":"Most large capacitors have a capacitance value written on the side. Slight variations are common, so look for the value that most closely matches the units above. You may need to adjust for the following:\nIgnore capital letters in the units. For example, \"MF\" is just a variation on \"mf.\" (It is definitely not a megafarad, even though this is the official SI abbreviation.) Don't get thrown by \"fd.\" This is just another abbreviation for farad. For example, \"mmfd\" is the same as \"mmf.\" Beware single-letter markings such as \"475m,\" usually found on smaller capacitors.See below for instructions."
+        },
+        {
+          "headline":"Look for a tolerance value.",
+          "description":"Some capacitors list a tolerance, or the maximum expected range in capacitance compared to its listed value. This isn't important in all circuits, but you may need to pay attention to this if you require a precise capacitor value. For example, a capacitor labeled \"6000uF +50%/-70%\" could actually have a capacitance as high as 6000uF + (6000 * 0.5) = 9000uF, or as low as 6000 uF - (6000uF * 0.7) = 1800uF. If there is no percentage listed, look for a single letter after the capacitance value or on its own line. This may be code for a tolerance value, described below."
+        },
+        {
+          "headline":"Check the voltage rating.",
+          "description":"If there is room on the body of the capacitor, the manufacturer usually lists voltage as a number followed by a V, VDC, VDCW, or WV (for \"Working Voltage\"). This is the maximum voltage the capacitor is designed to handle. 1 kV = 1,000 volts. See below if you suspect your capacitor uses a code for voltage (a single letter or one digit and one letter). If there is no symbol at all, reserve the cap for low-voltage circuits only. If you are building an AC circuit, look for a capacitor rated specifically for VAC. Do not use a DC capacitor unless you have an in-depth knowledge of how to convert the voltage rating, and how to use that type of capacitor safely in AC applications."
+        },
+        {
+          "headline":"Look for a + or - sign.",
+          "description":"If you see one of these next to a terminal, the capacitor is polarized. Make sure to connect the capacitor's + end to the positive side of the circuit, or the capacitor could eventually cause a short or even explode. If there is no + or -, you can orient the capacitor either way. Some capacitors use a colored bar or a ring-shaped depression to show polarity. Traditionally, this mark designates the - end on an aluminum electrolytic capacitor (which are usually shaped like tin cans). On tantalum electrolytic capacitors (which are very small), this mark designates the + end. (Disregard the bar if it contradicts a + or - sign, or if it is on a non-electrolytic capacitor.)"
+        }
+      ]
+    },
+    {
+      "name":"Reading Compact Capacitor Codes",
+      "steps":[
+        {
+          "headline":"Write down the first two digits of the capacitance.",
+          "description":"Older capacitors are less predictable, but almost all modern examples use the EIA standard code when the capacitor is too small to write out the capacitance in full. To start, write down the first two digits, then decide what to do next based on your code:\nIf your code starts with exactly two digits followed by a letter (e.g. 44M), the first two digits are the full capacitance code. Skip down to finding units. If one of the first two characters is a letter, skip down to letter systems. If the first three characters are all numbers, continue to the next step."
+        },
+        {
+          "headline":"Use the third digit as a zero multiplier.",
+          "description":"The three-digit capacitance code works as follows:\nIf the third digit is 0 through 6, add that many zeroes to the end of the number. (For example, 453 \u2192 45 x 10 \u2192 45,000.) If the third digit is 8, multiply by 0.01. (e.g. 278 \u2192 27 x 0.01 \u2192 0.27)\nIf the third digit is 9, multiply by 0.1. (e.g. 309 \u2192 30 x 0.1 \u2192 3.0)"
+        },
+        {
+          "headline":"Work out the capacitance units from context.",
+          "description":"The smallest capacitors (made from ceramic, film, or tantalum) use units of picofarads (pF), equal to 10 farads. Larger capacitors (the cylindrical aluminum electrolyte type or the double-layer type) use units of microfarads (uF or \u00b5F), equal to 10 farads. A capacitor may overrule this by adding a unit after it (p for picofarad, n for nanofarad, or u for microfarad). However, if there is only one letter after the code, this is usually the tolerance code, not the unit. (P and N are uncommon tolerance codes, but they do exist.)"
+        },
+        {
+          "headline":"Read codes that contain letters instead.",
+          "description":"If your code includes a letter as one of the first two characters, there are three possibilities:\nIf the letter is an R, replace it with a decimal point to get the capacitance in pF. For example, 4R1 means a capacitance of 4.1pF. If the letter is p, n, or u, this tells you the units (pico-, nano-, or microfarad). Replace this letter with a decimal point. For example, n61 means 0.61 nF, and 5u2 means 5.2 uF. A code like \"1A253\" is actually two codes. 1A tells you the voltage, and 253 tells you the capacitance as described above."
+        },
+        {
+          "headline":"Read the tolerance code on ceramic capacitors.",
+          "description":"Ceramic capacitors, which are usually tiny \"pancakes\" with two pins, typically list the tolerance value as one letter immediately after the three-digit capacitance value. This letter represents the tolerance of the capacitor, meaning how close the actual value of the capacitor can be expected to be to the indicated value of the capacitor. If precision is important in your circuit, translate this code as follows:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/85\\/Read-a-Capacitor-Step-10-Version-3.jpg\\/v4-460px-Read-a-Capacitor-Step-10-Version-3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/85\\/Read-a-Capacitor-Step-10-Version-3.jpg\\/v4-760px-Read-a-Capacitor-Step-10-Version-3.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.02197802197804,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nB = \u00b1 0.1 pF. C = \u00b1 0.25 pF. D = \u00b1 0.5 pF  for capacitors rated below 10 pF, or \u00b1 0.5% for capacitors above 10 pF. F = \u00b1 1 pF or \u00b1 1% (same system as D above). G = \u00b1 2 pF or \u00b1 2% (see above). J = \u00b1 5%. K = \u00b1 10%. M = \u00b1 20%. Z = +80% / -20% (If you see no tolerance listed, assume this as the worst case scenario.)"
+        },
+        {
+          "headline":"Read letter-number-letter tolerance values.",
+          "description":"Many types of capacitors represent the tolerance with a more detailed three-symbol system. Interpret this as follows:\nThe first symbol shows minimum temperature. Z = 10\u00baC, Y = -30\u00baC, X = -55\u00baC. The second symbol shows maximum temperature. 2 = 45\u00baC, 4 = 65\u00baC, 5 = 85\u00baC, 6 = 105\u00baC, 7 = 125\u00baC. The third symbol shows variation in capacitance across this temperature range. This ranges from the most precise, A = \u00b11.0%, to the least precise, V = +22.0%/-82%. R, one of the most common symbols, represents a variation of \u00b115%."
+        },
+        {
+          "headline":"Interpret voltage codes.",
+          "description":"You can look up the EIA voltage chart for a full list, but most capacitors use one of the following common codes for maximum voltage (values given for DC capacitors only):\n\n0J = 6.3V\n\n1A = 10V\n\n1C = 16V\n\n1E = 25V\n\n1H = 50V\n\n2A = 100V\n\n2D = 200V\n\n2E = 250V\nOne letter codes are abbreviations of one of the common values above. If multiple values could apply (such as 1A or 2A), you'll need to work it out from context. For an estimate of other, less common codes, look at the first digit. 0 covers values less than ten; 1 goes from ten to 99; 2 goes from 100 to 999; and so on."
+        },
+        {
+          "headline":"Look up other systems.",
+          "description":"Old capacitors or capacitors made for specialist use may use different systems. These are not included in this article, but you can use this hints to guide your further research:\nIf the capacitor has one long code beginning with \"CM\" or \"DM,\" look up the U.S. military capacitor chart. If there is no code but a series of colored bands or dots, look up the capacitor color code."
+        }
+      ]
+    }
+  ],
+  "text":" Reading Large Capacitors Know the units of measurement. The base unit of capacitance is the farad (F). This value is much too large for ordinary circuits, so household capacitors are labeled with one of the following units:\n1 \u00b5F, uF, or mF = 1 microfarad = 10 farads. (Careful \u2014 in other contexts, mF is the official abbreviation for millifarads, or 10 farads.) 1 nF = 1 nanofarad = 10 farads. 1 pF, mmF, or uuF = 1 picofarad = 1 micromicrofarad = 10 farads. Read the capacitance value. Most large capacitors have a capacitance value written on the side. Slight variations are common, so look for the value that most closely matches the units above. You may need to adjust for the following:\nIgnore capital letters in the units. For example, \"MF\" is just a variation on \"mf.\" (It is definitely not a megafarad, even though this is the official SI abbreviation.) Don't get thrown by \"fd.\" This is just another abbreviation for farad. For example, \"mmfd\" is the same as \"mmf.\" Beware single-letter markings such as \"475m,\" usually found on smaller capacitors.See below for instructions. Look for a tolerance value. Some capacitors list a tolerance, or the maximum expected range in capacitance compared to its listed value. This isn't important in all circuits, but you may need to pay attention to this if you require a precise capacitor value. For example, a capacitor labeled \"6000uF +50%/-70%\" could actually have a capacitance as high as 6000uF + (6000 * 0.5) = 9000uF, or as low as 6000 uF - (6000uF * 0.7) = 1800uF. If there is no percentage listed, look for a single letter after the capacitance value or on its own line. This may be code for a tolerance value, described below. Check the voltage rating. If there is room on the body of the capacitor, the manufacturer usually lists voltage as a number followed by a V, VDC, VDCW, or WV (for \"Working Voltage\"). This is the maximum voltage the capacitor is designed to handle. 1 kV = 1,000 volts. See below if you suspect your capacitor uses a code for voltage (a single letter or one digit and one letter). If there is no symbol at all, reserve the cap for low-voltage circuits only. If you are building an AC circuit, look for a capacitor rated specifically for VAC. Do not use a DC capacitor unless you have an in-depth knowledge of how to convert the voltage rating, and how to use that type of capacitor safely in AC applications. Look for a + or - sign. If you see one of these next to a terminal, the capacitor is polarized. Make sure to connect the capacitor's + end to the positive side of the circuit, or the capacitor could eventually cause a short or even explode. If there is no + or -, you can orient the capacitor either way. Some capacitors use a colored bar or a ring-shaped depression to show polarity. Traditionally, this mark designates the - end on an aluminum electrolytic capacitor (which are usually shaped like tin cans). On tantalum electrolytic capacitors (which are very small), this mark designates the + end. (Disregard the bar if it contradicts a + or - sign, or if it is on a non-electrolytic capacitor.) Reading Compact Capacitor Codes Write down the first two digits of the capacitance. Older capacitors are less predictable, but almost all modern examples use the EIA standard code when the capacitor is too small to write out the capacitance in full. To start, write down the first two digits, then decide what to do next based on your code:\nIf your code starts with exactly two digits followed by a letter (e.g. 44M), the first two digits are the full capacitance code. Skip down to finding units. If one of the first two characters is a letter, skip down to letter systems. If the first three characters are all numbers, continue to the next step. Use the third digit as a zero multiplier. The three-digit capacitance code works as follows:\nIf the third digit is 0 through 6, add that many zeroes to the end of the number. (For example, 453 \u2192 45 x 10 \u2192 45,000.) If the third digit is 8, multiply by 0.01. (e.g. 278 \u2192 27 x 0.01 \u2192 0.27)\nIf the third digit is 9, multiply by 0.1. (e.g. 309 \u2192 30 x 0.1 \u2192 3.0) Work out the capacitance units from context. The smallest capacitors (made from ceramic, film, or tantalum) use units of picofarads (pF), equal to 10 farads. Larger capacitors (the cylindrical aluminum electrolyte type or the double-layer type) use units of microfarads (uF or \u00b5F), equal to 10 farads. A capacitor may overrule this by adding a unit after it (p for picofarad, n for nanofarad, or u for microfarad). However, if there is only one letter after the code, this is usually the tolerance code, not the unit. (P and N are uncommon tolerance codes, but they do exist.) Read codes that contain letters instead. If your code includes a letter as one of the first two characters, there are three possibilities:\nIf the letter is an R, replace it with a decimal point to get the capacitance in pF. For example, 4R1 means a capacitance of 4.1pF. If the letter is p, n, or u, this tells you the units (pico-, nano-, or microfarad). Replace this letter with a decimal point. For example, n61 means 0.61 nF, and 5u2 means 5.2 uF. A code like \"1A253\" is actually two codes. 1A tells you the voltage, and 253 tells you the capacitance as described above. Read the tolerance code on ceramic capacitors. Ceramic capacitors, which are usually tiny \"pancakes\" with two pins, typically list the tolerance value as one letter immediately after the three-digit capacitance value. This letter represents the tolerance of the capacitor, meaning how close the actual value of the capacitor can be expected to be to the indicated value of the capacitor. If precision is important in your circuit, translate this code as follows:{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/85\\/Read-a-Capacitor-Step-10-Version-3.jpg\\/v4-460px-Read-a-Capacitor-Step-10-Version-3.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/8\\/85\\/Read-a-Capacitor-Step-10-Version-3.jpg\\/v4-760px-Read-a-Capacitor-Step-10-Version-3.jpg\",\"smallWidth\":460,\"smallHeight\":259,\"bigWidth\":760,\"bigHeight\":428.02197802197804,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\nB = \u00b1 0.1 pF. C = \u00b1 0.25 pF. D = \u00b1 0.5 pF  for capacitors rated below 10 pF, or \u00b1 0.5% for capacitors above 10 pF. F = \u00b1 1 pF or \u00b1 1% (same system as D above). G = \u00b1 2 pF or \u00b1 2% (see above). J = \u00b1 5%. K = \u00b1 10%. M = \u00b1 20%. Z = +80% / -20% (If you see no tolerance listed, assume this as the worst case scenario.) Read letter-number-letter tolerance values. Many types of capacitors represent the tolerance with a more detailed three-symbol system. Interpret this as follows:\nThe first symbol shows minimum temperature. Z = 10\u00baC, Y = -30\u00baC, X = -55\u00baC. The second symbol shows maximum temperature. 2 = 45\u00baC, 4 = 65\u00baC, 5 = 85\u00baC, 6 = 105\u00baC, 7 = 125\u00baC. The third symbol shows variation in capacitance across this temperature range. This ranges from the most precise, A = \u00b11.0%, to the least precise, V = +22.0%/-82%. R, one of the most common symbols, represents a variation of \u00b115%. Interpret voltage codes. You can look up the EIA voltage chart for a full list, but most capacitors use one of the following common codes for maximum voltage (values given for DC capacitors only):\n\n0J = 6.3V\n\n1A = 10V\n\n1C = 16V\n\n1E = 25V\n\n1H = 50V\n\n2A = 100V\n\n2D = 200V\n\n2E = 250V\nOne letter codes are abbreviations of one of the common values above. If multiple values could apply (such as 1A or 2A), you'll need to work it out from context. For an estimate of other, less common codes, look at the first digit. 0 covers values less than ten; 1 goes from ten to 99; 2 goes from 100 to 999; and so on. Look up other systems. Old capacitors or capacitors made for specialist use may use different systems. These are not included in this article, but you can use this hints to guide your further research:\nIf the capacitor has one long code beginning with \"CM\" or \"DM,\" look up the U.S. military capacitor chart. If there is no code but a series of colored bands or dots, look up the capacitor color code.",
+  "tyn_model":[
+    "capacitor",
+    "capacitors",
+    "\u2014 in",
+    "farad",
+    "terminal",
+    "tantalum electrolytic capacitors",
+    "zero multiplier",
+    "capacitance code",
+    "\u2192 45",
+    "\u2192 45,000",
+    "\u2192 27",
+    "\u2192 0.27",
+    "\u2192 30",
+    "\u2192 3.0",
+    "tantalum",
+    "parser"
+  ],
+  "tyn_section":[
+
+  ]
+}

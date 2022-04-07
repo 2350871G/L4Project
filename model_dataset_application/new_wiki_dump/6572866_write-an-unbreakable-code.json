@@ -1,0 +1,110 @@
+{
+  "title":"How to Write an Unbreakable Code",
+  "url":"https://www.wikihow.com/Write-an-Unbreakable-Code",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Puzzles and Memory Games"
+  ],
+  "methods":[
+    {
+      "name":"Preparation",
+      "steps":[
+        {
+          "headline":"Write a one-time pad.",
+          "description":"You will need this to encrypt your messages. A one-time pad is a pad of paper with a random sequence of letters written on it. You will need two exact copies - one for yourself, one for your agent (the person receiving the message). Lets' say our one-time pad is abgsdpeycnghf."
+        },
+        {
+          "headline":"Give one copy to your agent, and keep the other.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Encrypting a message",
+      "steps":[
+        {
+          "headline":"Write the message at the top of a piece of paper.",
+          "description":"Our message is hello."
+        },
+        {
+          "headline":"Convert it into numbers.",
+          "description":"Hello becomes 8 5 12 12 15."
+        },
+        {
+          "headline":"Write down the letters of the one-time pad underneath.",
+          "description":"You only need as many letters as there are in the message. Using our one-time pad, these are abgsd. This is the key."
+        },
+        {
+          "headline":"Convert the key into numbers.",
+          "description":"The key is now 1 2 7 19 4."
+        },
+        {
+          "headline":"Add together the corresponding numbers to get the codetext.",
+          "description":"Add the first letter of the message to the first letter of the key, second to second, etc. Our codetext is 9 7 19 31 19."
+        },
+        {
+          "headline":"For every number over (not equal to) 26, subtract 26.",
+          "description":"Our codetext becomes 9 7 19 5 19."
+        },
+        {
+          "headline":"Convert back into letters.",
+          "description":"Our codetext message is IGSES."
+        },
+        {
+          "headline":"Destroy the part of the one-time pad that you used.",
+          "description":"This is why it is a one-time pad: each part is used once. If it's written on paper, tear it off and burn it. Our one-time pad is now peycnghf."
+        },
+        {
+          "headline":"Send the message.",
+          "description":""
+        }
+      ]
+    },
+    {
+      "name":"Decrypting a message",
+      "steps":[
+        {
+          "headline":"Your agent sends you a message back.",
+          "description":"You need to decrypt it. Say the message is WTNGPFM."
+        },
+        {
+          "headline":"Write the message at the top of a piece of paper.",
+          "description":"Convert it into numbers and write these underneath. The codetext is now 23 20 14 7 16 6 13."
+        },
+        {
+          "headline":"Write the necessary letters from the one-time pad underneath.",
+          "description":"This is the key. Our key is peycngh."
+        },
+        {
+          "headline":"Convert the key into numbers.",
+          "description":"Our key becomes 16 5 25 3 14 7 8."
+        },
+        {
+          "headline":"Subtract the corresponding numbers of the key from the message.",
+          "description":"23-16 = 7, 20-5 = 15, 14-25 = -11, etc. Our message becomes 7 15 -11 4 2 -1 5."
+        },
+        {
+          "headline":"For any negative number, or zero, add 26.",
+          "description":"The message is now 7 15 15 4 2 25 5."
+        },
+        {
+          "headline":"Convert into letters.",
+          "description":"The message is goodbye."
+        },
+        {
+          "headline":"Destroy the part of the one-time pad that was used.",
+          "description":"Our one-time pad is now f."
+        }
+      ]
+    }
+  ],
+  "text":" Preparation Write a one-time pad. You will need this to encrypt your messages. A one-time pad is a pad of paper with a random sequence of letters written on it. You will need two exact copies - one for yourself, one for your agent (the person receiving the message). Lets' say our one-time pad is abgsdpeycnghf. Give one copy to your agent, and keep the other.  Encrypting a message Write the message at the top of a piece of paper. Our message is hello. Convert it into numbers. Hello becomes 8 5 12 12 15. Write down the letters of the one-time pad underneath. You only need as many letters as there are in the message. Using our one-time pad, these are abgsd. This is the key. Convert the key into numbers. The key is now 1 2 7 19 4. Add together the corresponding numbers to get the codetext. Add the first letter of the message to the first letter of the key, second to second, etc. Our codetext is 9 7 19 31 19. For every number over (not equal to) 26, subtract 26. Our codetext becomes 9 7 19 5 19. Convert back into letters. Our codetext message is IGSES. Destroy the part of the one-time pad that you used. This is why it is a one-time pad: each part is used once. If it's written on paper, tear it off and burn it. Our one-time pad is now peycnghf. Send the message.  Decrypting a message Your agent sends you a message back. You need to decrypt it. Say the message is WTNGPFM. Write the message at the top of a piece of paper. Convert it into numbers and write these underneath. The codetext is now 23 20 14 7 16 6 13. Write the necessary letters from the one-time pad underneath. This is the key. Our key is peycngh. Convert the key into numbers. Our key becomes 16 5 25 3 14 7 8. Subtract the corresponding numbers of the key from the message. 23-16 = 7, 20-5 = 15, 14-25 = -11, etc. Our message becomes 7 15 -11 4 2 -1 5. For any negative number, or zero, add 26. The message is now 7 15 15 4 2 25 5. Convert into letters. The message is goodbye. Destroy the part of the one-time pad that was used. Our one-time pad is now f.",
+  "tyn_model":[
+    "paper",
+    "one-time pad"
+  ],
+  "tyn_section":[
+
+  ]
+}

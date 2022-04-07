@@ -1,0 +1,75 @@
+{
+  "title":"How to Install SKSE",
+  "url":"https://www.wikihow.com/Install-SKSE",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games",
+    "PC Roleplaying Games"
+  ],
+  "steps":[
+    {
+      "headline":"Download SKSE.",
+      "description":"You can download Skyrim Script Extender (SKSE) from the developer's website. Download the \"7z archive\", not the \"installer\" The self-installer can cause problems, and you'll generally have a much smoother experience if you install the files yourself."
+    },
+    {
+      "headline":"Download and install 7-Zip.",
+      "description":"This is a free archiving program that can open .7z files. You can download it from 7-zip.org."
+    },
+    {
+      "headline":"Extract the SKSE files.",
+      "description":"After installing 7-Zip, right-click on the archive and select 7-Zip \u2192 Extract Here. A folder will be created in the same location with the extracted files."
+    },
+    {
+      "headline":"Find your Skyrim directory.",
+      "description":"Skyrim requires Steam to install, so you'll need to look in your Steam directory. The most common default installation directory is:\nC:\\Program Files\\Steam\\steammapps\\common\\skyrim\\"
+    },
+    {
+      "headline":"Open the folder containing the extracted files in another window.",
+      "description":"You should now have two folders open: your Skyrim game directory and the folder with your SKSE files."
+    },
+    {
+      "headline":"Copy all of the ..dll and .exe files from the SKSE folder to the Skyrim folder.",
+      "description":"This should be all of the SKSE files except the two folders. If prompted, choose to overwrite or replace any existing files."
+    },
+    {
+      "headline":"Open the .Data\\Scripts\\ folders in both the Skyrim and SKSE folders.",
+      "description":""
+    },
+    {
+      "headline":"Copy all of the ..pex files from the SKSE folder to the Skyrim Scripts folder.",
+      "description":"If prompted, choose to overwrite or replace any existing files. The rest of the files can be left as is. They are only required if you plan on coding your own mods from scratch."
+    },
+    {
+      "headline":"Return to the Skyrim game directory.",
+      "description":""
+    },
+    {
+      "headline":"Right-click on .skse_loader.exe and select \"Create Shortcut\".",
+      "description":""
+    },
+    {
+      "headline":"Drag the shortcut to your desktop.",
+      "description":""
+    },
+    {
+      "headline":"Start Steam.",
+      "description":"You must have Steam running already before you can start your modified Skyrim."
+    },
+    {
+      "headline":"Double-click the .skse_loader.exe shortcut to start Skyrim.",
+      "description":"You can now download and install Skyrim mods that require SKSE."
+    }
+  ],
+  "text":" Download SKSE. You can download Skyrim Script Extender (SKSE) from the developer's website. Download the \"7z archive\", not the \"installer\" The self-installer can cause problems, and you'll generally have a much smoother experience if you install the files yourself. Download and install 7-Zip. This is a free archiving program that can open .7z files. You can download it from 7-zip.org. Extract the SKSE files. After installing 7-Zip, right-click on the archive and select 7-Zip \u2192 Extract Here. A folder will be created in the same location with the extracted files. Find your Skyrim directory. Skyrim requires Steam to install, so you'll need to look in your Steam directory. The most common default installation directory is:\nC:\\Program Files\\Steam\\steammapps\\common\\skyrim\\ Open the folder containing the extracted files in another window. You should now have two folders open: your Skyrim game directory and the folder with your SKSE files. Copy all of the ..dll and .exe files from the SKSE folder to the Skyrim folder. This should be all of the SKSE files except the two folders. If prompted, choose to overwrite or replace any existing files. Open the .Data\\Scripts\\ folders in both the Skyrim and SKSE folders.  Copy all of the ..pex files from the SKSE folder to the Skyrim Scripts folder. If prompted, choose to overwrite or replace any existing files. The rest of the files can be left as is. They are only required if you plan on coding your own mods from scratch. Return to the Skyrim game directory.  Right-click on .skse_loader.exe and select \"Create Shortcut\".  Drag the shortcut to your desktop.  Start Steam. You must have Steam running already before you can start your modified Skyrim. Double-click the .skse_loader.exe shortcut to start Skyrim. You can now download and install Skyrim mods that require SKSE.",
+  "tyn_model":[
+    "7-zip",
+    "steam",
+    "skyrim",
+    "\u2192 extract"
+  ],
+  "tyn_section":[
+
+  ]
+}

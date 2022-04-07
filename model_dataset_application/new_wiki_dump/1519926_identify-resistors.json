@@ -1,0 +1,79 @@
+{
+  "title":"How to Identify Resistors",
+  "url":"https://www.wikihow.com/Identify-Resistors",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Electrical and Electronic Circuits"
+  ],
+  "methods":[
+    {
+      "name":"Reading the Color Code on Axial Resistors",
+      "steps":[
+        {
+          "headline":"Count the number of colored bands to help find the total value.",
+          "description":"There are 3 types of band resistors: 4-band resistors, 5-band resistors, and 6-band resistors. Count the number of colored bands on the resistor so you can calculate the specific resistance value, or the number of ohms. A 4-band resistor has 3 colored bands on the left side and 1 colored band on the right side. The first 2 bands represent the first 2 numbers, and the third band represents the multiplier or the number of zeroes that need to be added to the first 2 numbers. The fourth band on the far right represents the tolerance, or the accuracy of the value represented by the bands on the resistor. On a 5-band resistor, the first 3 colored bands represent the digits, the fourth is the multiplier, and the fifth band represents the tolerance. A 6-band resistor is the same as a 5-band, with the first 3 representing the numbers, the fourth is the multiplier, and the fifth is the tolerance. But the sixth band on the far right represents the temperature coefficient of the resistor. If there are only 3 colored bands, then there isn\u2019t a tolerance value for that resistor."
+        },
+        {
+          "headline":"Check the color of the first band to find the first number.",
+          "description":"Locate the colored band to the far left of the resistor. Identify what color the band is. Compare the color of the band to the resistor color chart to find the first number in the value of the circuit. For example, if the first band is brown, then the first digit in the value of the circuit is 1. Always start with the colored band on the far left of the resistor. Resistor Color Chart\nBlack: 0\nBrown: 1\nRed: 2\nOrange: 3\nYellow: 4\nGreen: 5\nBlue: 6\nViolet: 7\nGrey: 8\nWhite: 9"
+        },
+        {
+          "headline":"Look at the color of the second band to find the second number.",
+          "description":"To the immediate right of the first colored band is a second colored band. Locate the band and identify what color it is. Then, consult the resistor color chart to identify the second number in the value of the resistor. For instance, if the first band was brown and the second band was red, then the first 2 numbers in the value of the resistor are 1 and 2."
+        },
+        {
+          "headline":"Use the third band on a 4-band resistor to multiply the value.",
+          "description":"On a 4-band resistor, the third band represents the multiplier, or the number of zeroes you need to add to the first 2 numbers to get the total number of ohms. Find the band and identify its color. Check the resistor color chart to find the number of zeroes that need to be added to the first 2 numbers to find the value. For example, if the first 3 colored bands are brown, red, and green, then the value, or number of ohms, would be 120,000 ohms. If there are only 3 colored bands, then there isn\u2019t a tolerance value."
+        },
+        {
+          "headline":"Find the multiplier of 5 and 6-band resistors using the fourth band.",
+          "description":"For 5 and 6-band resistors, identify the numbers that correspond with the first 3 colored bands. Then, identify the color of the fourth band, find the number that corresponds to that color on the chart, and add the number of zeroes represented by that number to the first 3 numbers to find the total number of ohms. If you have a 5  or 6-band resistor and the first 4 colored bands are orange, red, yellow, and brown, then the value of the resistor would be 3,240 ohms."
+        },
+        {
+          "headline":"Identify the tolerance of the resistor by finding the corresponding band.",
+          "description":"On a resistor, tolerance refers to the accuracy of the resistor value, and is represented by a plus or minus percentage. On a 4-band resistor, the last band on the far right represents the tolerance value. For a 5 and 6-band resistor, the tolerance is represented by the fifth colored band. Identify the color of the band and match the color to the color chart to find the tolerance percentage. For instance, if you have a 4-band resistor, and the colors are red, orange, yellow and red, then you have a resistor with a value of 230,000 with a tolerance, or accuracy, of plus or minus 2%. That means, that the resistor has between 225,400 and 234,600 ohms. The tolerance of a resistor may also be represented by a gold or silver band. Gold means plus or minus 5%, and silver means plus or minus 10%."
+        },
+        {
+          "headline":"Find the temperature coefficient on the last band of a 6-band resistor.",
+          "description":"The temperature coefficient refers to a resistor\u2019s change in resistance based on the ambient temperature On a 6-band resistor, the last colored band on the far right corresponds to a number that represents the temperature coefficient. The number that corresponds with the band will be expressed as parts per million in Kelvin degrees, or ppm/K. Use a colored chart that also includes values for temperature coefficients if you have 6-band resistors. For example, let\u2019s say you have a 6-band resistor with the colors red, orange, blue, orange, brown, red. The colors represent 2, 3, 6, and 3, which means you have a value of 236,000 ohms. The brown represents 1, so the resistor has a tolerance value of plus or minus 1%. The final red band equates to 50 ppm/K on the chart, which represents the temperature coefficient."
+        }
+      ]
+    },
+    {
+      "name":"Using the Code on SMD Resistors",
+      "steps":[
+        {
+          "headline":"Identify SMD resistors by locating the 3 or 4-digit code on top.",
+          "description":"Surface Mount Resistors or SMD Resistors, are small, rectangular resistors that are soldered directly onto a circuit. They are usually black and will have a 3 or 4 digit number printed on top of them. The code is generally located on top of the SMD resistor."
+        },
+        {
+          "headline":"Use the last number of a 3-digit code to magnify the first 2.",
+          "description":"On a resistor with a 3-digit code, the first 2 numbers represent the significant digits of the resistance value, and the third number represents the number of zeroes that need to be added. Identify the first 2 numbers, then add the number of zeroes represented by the last number to get the value, or the number of ohms. For instance, if you have a resistor with a code of 124, then the numbers would be 1, 2, and 4 zeroes, to give you a total value of 120,000 ohms."
+        },
+        {
+          "headline":"Calculate a 4-digit code by magnifying the first 3 numbers by the last number.",
+          "description":"For SMD resistors that have a 4-digit code printed on it, the first 3 numbers are the significant digits of the value of the resistor. Find the first 3 numbers, then use the fourth number to magnify them by adding the corresponding number of zeroes. If you have an SMD resistor with a 4-digit code that reads 1231, then the numbers would be 1, 2, 3, and 1 zero to give you a total value of 1,230 ohms.Tip: If the last digit is a zero, then it means that the SMD resistor has a value of less than 100 ohms, and is equal to a multiplier of 1. So if you have a code that reads 390, then the resistor has 39 ohms."
+        }
+      ]
+    }
+  ],
+  "text":" Reading the Color Code on Axial Resistors Count the number of colored bands to help find the total value. There are 3 types of band resistors: 4-band resistors, 5-band resistors, and 6-band resistors. Count the number of colored bands on the resistor so you can calculate the specific resistance value, or the number of ohms. A 4-band resistor has 3 colored bands on the left side and 1 colored band on the right side. The first 2 bands represent the first 2 numbers, and the third band represents the multiplier or the number of zeroes that need to be added to the first 2 numbers. The fourth band on the far right represents the tolerance, or the accuracy of the value represented by the bands on the resistor. On a 5-band resistor, the first 3 colored bands represent the digits, the fourth is the multiplier, and the fifth band represents the tolerance. A 6-band resistor is the same as a 5-band, with the first 3 representing the numbers, the fourth is the multiplier, and the fifth is the tolerance. But the sixth band on the far right represents the temperature coefficient of the resistor. If there are only 3 colored bands, then there isn\u2019t a tolerance value for that resistor. Check the color of the first band to find the first number. Locate the colored band to the far left of the resistor. Identify what color the band is. Compare the color of the band to the resistor color chart to find the first number in the value of the circuit. For example, if the first band is brown, then the first digit in the value of the circuit is 1. Always start with the colored band on the far left of the resistor. Resistor Color Chart\nBlack: 0\nBrown: 1\nRed: 2\nOrange: 3\nYellow: 4\nGreen: 5\nBlue: 6\nViolet: 7\nGrey: 8\nWhite: 9 Look at the color of the second band to find the second number. To the immediate right of the first colored band is a second colored band. Locate the band and identify what color it is. Then, consult the resistor color chart to identify the second number in the value of the resistor. For instance, if the first band was brown and the second band was red, then the first 2 numbers in the value of the resistor are 1 and 2. Use the third band on a 4-band resistor to multiply the value. On a 4-band resistor, the third band represents the multiplier, or the number of zeroes you need to add to the first 2 numbers to get the total number of ohms. Find the band and identify its color. Check the resistor color chart to find the number of zeroes that need to be added to the first 2 numbers to find the value. For example, if the first 3 colored bands are brown, red, and green, then the value, or number of ohms, would be 120,000 ohms. If there are only 3 colored bands, then there isn\u2019t a tolerance value. Find the multiplier of 5 and 6-band resistors using the fourth band. For 5 and 6-band resistors, identify the numbers that correspond with the first 3 colored bands. Then, identify the color of the fourth band, find the number that corresponds to that color on the chart, and add the number of zeroes represented by that number to the first 3 numbers to find the total number of ohms. If you have a 5  or 6-band resistor and the first 4 colored bands are orange, red, yellow, and brown, then the value of the resistor would be 3,240 ohms. Identify the tolerance of the resistor by finding the corresponding band. On a resistor, tolerance refers to the accuracy of the resistor value, and is represented by a plus or minus percentage. On a 4-band resistor, the last band on the far right represents the tolerance value. For a 5 and 6-band resistor, the tolerance is represented by the fifth colored band. Identify the color of the band and match the color to the color chart to find the tolerance percentage. For instance, if you have a 4-band resistor, and the colors are red, orange, yellow and red, then you have a resistor with a value of 230,000 with a tolerance, or accuracy, of plus or minus 2%. That means, that the resistor has between 225,400 and 234,600 ohms. The tolerance of a resistor may also be represented by a gold or silver band. Gold means plus or minus 5%, and silver means plus or minus 10%. Find the temperature coefficient on the last band of a 6-band resistor. The temperature coefficient refers to a resistor\u2019s change in resistance based on the ambient temperature On a 6-band resistor, the last colored band on the far right corresponds to a number that represents the temperature coefficient. The number that corresponds with the band will be expressed as parts per million in Kelvin degrees, or ppm/K. Use a colored chart that also includes values for temperature coefficients if you have 6-band resistors. For example, let\u2019s say you have a 6-band resistor with the colors red, orange, blue, orange, brown, red. The colors represent 2, 3, 6, and 3, which means you have a value of 236,000 ohms. The brown represents 1, so the resistor has a tolerance value of plus or minus 1%. The final red band equates to 50 ppm/K on the chart, which represents the temperature coefficient. Using the Code on SMD Resistors Identify SMD resistors by locating the 3 or 4-digit code on top. Surface Mount Resistors or SMD Resistors, are small, rectangular resistors that are soldered directly onto a circuit. They are usually black and will have a 3 or 4 digit number printed on top of them. The code is generally located on top of the SMD resistor. Use the last number of a 3-digit code to magnify the first 2. On a resistor with a 3-digit code, the first 2 numbers represent the significant digits of the resistance value, and the third number represents the number of zeroes that need to be added. Identify the first 2 numbers, then add the number of zeroes represented by the last number to get the value, or the number of ohms. For instance, if you have a resistor with a code of 124, then the numbers would be 1, 2, and 4 zeroes, to give you a total value of 120,000 ohms. Calculate a 4-digit code by magnifying the first 3 numbers by the last number. For SMD resistors that have a 4-digit code printed on it, the first 3 numbers are the significant digits of the value of the resistor. Find the first 3 numbers, then use the fourth number to magnify them by adding the corresponding number of zeroes. If you have an SMD resistor with a 4-digit code that reads 1231, then the numbers would be 1, 2, 3, and 1 zero to give you a total value of 1,230 ohms.Tip: If the last digit is a zero, then it means that the SMD resistor has a value of less than 100 ohms, and is equal to a multiplier of 1. So if you have a code that reads 390, then the resistor has 39 ohms.",
+  "tyn_model":[
+    "resistor",
+    "6-band resistor",
+    "4-band resistor",
+    "smd resistor",
+    "smd resistors",
+    "axial resistors",
+    "resistor color",
+    "colored chart",
+    "surface mount resistors",
+    "4-digit",
+    "4-digit code"
+  ],
+  "tyn_section":[
+
+  ]
+}

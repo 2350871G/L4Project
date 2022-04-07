@@ -1,0 +1,170 @@
+{
+  "title":"How to Use Teamspeak",
+  "url":"https://www.wikihow.com/Use-Teamspeak",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "methods":[
+    {
+      "name":"Downloading and Installing TeamSpeak",
+      "steps":[
+        {
+          "headline":"Visit the TeamSpeak website.",
+          "description":"You can download the latest version for free from the TeamSpeak homepage. Click the green \"Free Download\" button on the homepage to download the latest 32-bit version for Windows, or click the \"More Downloads\" link to find links to downloads for other operating systems. If you are using a 64-bit version of Windows, download the 64-bit client for best performance. You will need to download and install the client even if you are setting up a TeamSpeak server."
+        },
+        {
+          "headline":"Accept the license agreement.",
+          "description":"You will need to accept the agreement before your download can begin. Make sure to read the entire thing to understand your rights, then check the box labeled \"I agree\"."
+        },
+        {
+          "headline":"Install the client.",
+          "description":"Once the download is complete, run the setup file to begin installation. The setup process is identical to most software installations. Most users will not need to change any settings during installation."
+        }
+      ]
+    },
+    {
+      "name":"Configuring TeamSpeak",
+      "steps":[
+        {
+          "headline":"Launch the TeamSpeak client.",
+          "description":"After setup is complete, launch TeamSpeak for the first time. Before you connect to a server, you will need to configure TeamSpeak to get the optimal quality from your headphones and speakers."
+        },
+        {
+          "headline":"Start the Setup Wizard.",
+          "description":"If you haven't started TeamSpeak before, the Setup Wizard will begin when you start the program for the first time. If TeamSpeak has been used before, you can start the Setup Wizard by clicking Settings \u2192 Setup Wizard."
+        },
+        {
+          "headline":"Create a nickname.",
+          "description":"This will be the name displayed to other users and the admins of the TeamSpeak server you connect to. Your nickname is not a username, and has no impact on user accounts or security. Your nickname is simply your display name. Enter the name and click Next > to continue. You should make your nickname the same or similar to your in-game username. This will help your teammates recognize you and makes communication easier for everyone on the team."
+        },
+        {
+          "headline":"Choose your microphone activation settings.",
+          "description":"There are two different ways to activate your microphone so that you can  talk: Voice Activation Detection (VAD) and Push-to-Talk (PTT). VAD automatically activates your microphone when it detects sound. PTT requires you to set a hotkey which will activate the microphone while it is being held down. Most TeamSpeak servers prefer that people use PTT to prevent accidental broadcast of background noise. Using PTT will result in a better experience for both you and your teammates, though it requires remembering to push a button."
+        },
+        {
+          "headline":"Set your hotkey.",
+          "description":"When you select PTT, click on the \"No Hotkey Assigned\" field. The next key or button your press will become your PTT button. You can use any key on your keyboard or any button on your mouse. Make sure that the key doesn't conflict with a key you use during the game."
+        },
+        {
+          "headline":"Set your microphone sensitivity.",
+          "description":"If you select VAD, you will need to set the sensitivity of your microphone. This creates a threshold that volume will have to surpass before the microphone starts broadcasting. Click the Begin Test button to begin the calibration process. Move the slider as you talk to set the level that the microphone will activate."
+        },
+        {
+          "headline":"Create Microphone Mute and Speaker Mute hotkeys.",
+          "description":"These keys will allow you to mute either your microphone or speakers on command. Microphone mute is especially useful if you are using VAD, as you can toggle your microphone off if your room is too loud. Click each button and then press the desired key combination that you want to assign to the function. Click Next > when you are satisfied with your choices."
+        },
+        {
+          "headline":"Choose the sound pack.",
+          "description":"TeamSpeak will say when users join or leave the channel, as well as notify you when you have been \"poked\". You can choose between a male or female voice for the notifications. You can hear the example for each notification by pressing the Play button."
+        },
+        {
+          "headline":"Decide if you want to enable the overlay and volume control functions.",
+          "description":"On this page, you have the option of adding a few features to your TeamSpeak program. The Overlay allows you to access the TeamSpeak interface on top of your current program, which can allow you to see who is speaking. This is particularly useful in large groups. Volume Control will automatically lower the volume of your game while a teammate is speaking, which can be useful for loud games or music players. The Overlay requires a few extra resources, and may not be a viable option if you are already struggling to run the game."
+        },
+        {
+          "headline":"Finish the setup.",
+          "description":"On the final page of the Setup Wizard, you will have the option to open the public server list, the bookmarks manager, and rent your own server. At this point, setup is complete and you're ready to connect to a TeamSpeak server. See the next section for connecting to your team's server, or the final section for running your own server."
+        }
+      ]
+    },
+    {
+      "name":"Connecting to a Server",
+      "steps":[
+        {
+          "headline":"Open the Connect window.",
+          "description":"Click Connections \u2192 Connect to open the Connect window. You can also press Ctrl+S to quickly open the window. This window will allow you to enter in the server information. Alternatively, you can click TeamSpeak links on websites to automatically launch the TeamSpeak client and connect to the server."
+        },
+        {
+          "headline":"Enter in the required information.",
+          "description":"You will need to enter the channel address, which may be a name or it may be an IP address. Make sure to include the port of the server, denoted by a \":\" followed by the port number. If the server requires a password, you will need to enter it into the \"Server Password\" field. You can choose different profiles for hotkeys and microphone capture, but you probably won't need to change these right now. The nickname displayed will be your requested nickname. If that name is already taken by someone in the server, your name will be altered. You can usually find the TeamSpeak server information on your group's website or forum. Ask another member if you can't find it."
+        },
+        {
+          "headline":"Click the Connect button.",
+          "description":"TeamSpeak will attempt to connect to the server, and you will see the main window start to fill with information. You can check the status of the connection in the status frame at the bottom of the window."
+        },
+        {
+          "headline":"Navigate the server.",
+          "description":"On the left side of the window, you will see a list of channels on the server. Channels can be password protected, and you may need to be granted access by an admin. A list of users will be displayed beneath each channel. Most larger gaming groups will have the server broken into channels for different games that the group plays, along with an Senior-only section if the group is particularly large. Server setups will vary wildly from group to group. Double-click on a channel to join it. You will only be able to talk with users in the same channel as you."
+        },
+        {
+          "headline":"Text chat with other users.",
+          "description":"Besides being able to voice chat, there is a basic text chat for each channel. This can be accessed by clicking on the tab at the bottom of the window. Avoid putting important, time-sensitive information or commands in the text chat, as many players will not see it in-game."
+        },
+        {
+          "headline":"Bookmark frequent servers.",
+          "description":"If you plan on connecting to the server you are using on a frequent basis, you can make connecting much easier by bookmarking it. This will allow you to connect in the future with a single click. If you are currently connected to a server, click Bookmarks \u2192 Add to Bookmarks to add the current server to your bookmark list. If you want to add a server that you are not currently connected to, click Bookmarks \u2192 Manage Bookmarks to add a server manually."
+        }
+      ]
+    },
+    {
+      "name":"Running a TeamSpeak Server",
+      "steps":[
+        {
+          "headline":"Download the server software.",
+          "description":"TeamSpeak is free to anyone using it for non-profit use, such as gaming groups. You can run the server software on your own machine or hosted server for up to 32 people, or you can run it on a dedicated hosted server for up to 512 people. If you need a server larger than this, you will need to rent one from TeamSpeak. You can find the server software on the Downloads page of the TeamSpeak website. Make sure to download the correct version for the operating system you are installing the server on. The files will be downloaded as an archive. You will need to accept the license agreement before you can proceed with the download."
+        },
+        {
+          "headline":"Extract the archive.",
+          "description":"The file that you downloaded is an archive that contains multiple files. Extract the archive so that you can use the files contained within. Extract it somewhere that is easy to access, such as your desktop."
+        },
+        {
+          "headline":"Start the server.",
+          "description":"Run the application in the extracted folder. You will see several files and folders get created, and then a window will appear with several important pieces of information. You will see your server admin username, password, and privilege key. Copy each of these values to a blank Notepad document. You can click the button next to each one to copy to the clipboard. At this point, the server is already running. You will need to connect to the server in order to configure it."
+        },
+        {
+          "headline":"Connect to the server.",
+          "description":"Open up your TeamSpeak client. Open the Connect menu and enter localhost into the address bar. Change your nickname to whatever you'd like, and make sure the server password field is empty. Click the Connect button."
+        },
+        {
+          "headline":"Claim server admin rights.",
+          "description":"When you first connect to your server, you will be prompted for the privilege key that you copied into Notepad. This will allow you to change the configuration of the server and grant permissions to other users. After entering the key, a server administrator icon will appear next to your name on the users list."
+        },
+        {
+          "headline":"Configure your server.",
+          "description":"Right-click on the server name at the top of the channel list. Select \"Edit Virtual Server\" from the menu that appears. A window will open, allowing you to customize your server. You have a variety of options to help make your server feel more like \"yours\". In the Server Name field, enter in the name for your server. Usually this will be based off of your gaming group's name. Set a password for your server in the Password field. This can help make sure that only people you permit can access your server. Use your forums or private messages to distribute the password to people whom you you want connecting. In the Welcome Message field, you can write a short message that will be displayed to users every time they connect. Use it to link to your team's latest news post or important forum thread."
+        },
+        {
+          "headline":"Add customization.",
+          "description":"Click the \u25bc More button at the bottom of the \"Manage Virtual Server\" window to see a variety of deeper configuration options. These will allow you to fine tune how your server works. The most important is the Hosts tab. In the Host tab, you can set a banner image for your server that all of your users will see. You can also create a Host button that will appear in the upper-right corner. Many servers use this button to direct users to the team's website."
+        },
+        {
+          "headline":"Create your channels.",
+          "description":"If your group has a variety of interests, you may want to create multiple channels to help keep people on topic for the game at hand. For example, if your group primarily plays two games, you can create a channel for each game, as well as a general \"lounge\" channel. When people are playing, they can move to the appropriate channel, and when they're relaxing between games, they can use the lounge and not bother people who are playing. To create channels, right-click on the server name in the channel tree and click \"Create Channel\". You can set a channel name, a description, a password, as well as how permanent the channel is and where it should be sorted. You can create sub-channels within channels, which can be especially useful for large groups. The Permissions tab allows you to set what level permissions people need in order to perform various actions."
+        },
+        {
+          "headline":"Open ports.",
+          "description":"While most clients should be able to connect to your server, opening a few ports can make sure the most people possible can connect without issue. Access your router settings, and open the following ports: UDP 9987 & TCP 30033. UDP 9987 helps allow incoming connections, while TCP 30033 allows for easier file transferring between users."
+        },
+        {
+          "headline":"Set up dynamic DNS.",
+          "description":"You can give your teammates your server's IP address so that they can connect, but this IP address is liable to change sometime in the future. It's also not very easy to remember. You can use services such as DynDNS to assign a hostname to your IP address, which will automatically forward people even when your IP address changes."
+        }
+      ]
+    }
+  ],
+  "text":" Downloading and Installing TeamSpeak Visit the TeamSpeak website. You can download the latest version for free from the TeamSpeak homepage. Click the green \"Free Download\" button on the homepage to download the latest 32-bit version for Windows, or click the \"More Downloads\" link to find links to downloads for other operating systems. If you are using a 64-bit version of Windows, download the 64-bit client for best performance. You will need to download and install the client even if you are setting up a TeamSpeak server. Accept the license agreement. You will need to accept the agreement before your download can begin. Make sure to read the entire thing to understand your rights, then check the box labeled \"I agree\". Install the client. Once the download is complete, run the setup file to begin installation. The setup process is identical to most software installations. Most users will not need to change any settings during installation. Configuring TeamSpeak Launch the TeamSpeak client. After setup is complete, launch TeamSpeak for the first time. Before you connect to a server, you will need to configure TeamSpeak to get the optimal quality from your headphones and speakers. Start the Setup Wizard. If you haven't started TeamSpeak before, the Setup Wizard will begin when you start the program for the first time. If TeamSpeak has been used before, you can start the Setup Wizard by clicking Settings \u2192 Setup Wizard. Create a nickname. This will be the name displayed to other users and the admins of the TeamSpeak server you connect to. Your nickname is not a username, and has no impact on user accounts or security. Your nickname is simply your display name. Enter the name and click Next > to continue. You should make your nickname the same or similar to your in-game username. This will help your teammates recognize you and makes communication easier for everyone on the team. Choose your microphone activation settings. There are two different ways to activate your microphone so that you can  talk: Voice Activation Detection (VAD) and Push-to-Talk (PTT). VAD automatically activates your microphone when it detects sound. PTT requires you to set a hotkey which will activate the microphone while it is being held down. Most TeamSpeak servers prefer that people use PTT to prevent accidental broadcast of background noise. Using PTT will result in a better experience for both you and your teammates, though it requires remembering to push a button. Set your hotkey. When you select PTT, click on the \"No Hotkey Assigned\" field. The next key or button your press will become your PTT button. You can use any key on your keyboard or any button on your mouse. Make sure that the key doesn't conflict with a key you use during the game. Set your microphone sensitivity. If you select VAD, you will need to set the sensitivity of your microphone. This creates a threshold that volume will have to surpass before the microphone starts broadcasting. Click the Begin Test button to begin the calibration process. Move the slider as you talk to set the level that the microphone will activate. Create Microphone Mute and Speaker Mute hotkeys. These keys will allow you to mute either your microphone or speakers on command. Microphone mute is especially useful if you are using VAD, as you can toggle your microphone off if your room is too loud. Click each button and then press the desired key combination that you want to assign to the function. Click Next > when you are satisfied with your choices. Choose the sound pack. TeamSpeak will say when users join or leave the channel, as well as notify you when you have been \"poked\". You can choose between a male or female voice for the notifications. You can hear the example for each notification by pressing the Play button. Decide if you want to enable the overlay and volume control functions. On this page, you have the option of adding a few features to your TeamSpeak program. The Overlay allows you to access the TeamSpeak interface on top of your current program, which can allow you to see who is speaking. This is particularly useful in large groups. Volume Control will automatically lower the volume of your game while a teammate is speaking, which can be useful for loud games or music players. The Overlay requires a few extra resources, and may not be a viable option if you are already struggling to run the game. Finish the setup. On the final page of the Setup Wizard, you will have the option to open the public server list, the bookmarks manager, and rent your own server. At this point, setup is complete and you're ready to connect to a TeamSpeak server. See the next section for connecting to your team's server, or the final section for running your own server. Connecting to a Server Open the Connect window. Click Connections \u2192 Connect to open the Connect window. You can also press Ctrl+S to quickly open the window. This window will allow you to enter in the server information. Alternatively, you can click TeamSpeak links on websites to automatically launch the TeamSpeak client and connect to the server. Enter in the required information. You will need to enter the channel address, which may be a name or it may be an IP address. Make sure to include the port of the server, denoted by a \":\" followed by the port number. If the server requires a password, you will need to enter it into the \"Server Password\" field. You can choose different profiles for hotkeys and microphone capture, but you probably won't need to change these right now. The nickname displayed will be your requested nickname. If that name is already taken by someone in the server, your name will be altered. You can usually find the TeamSpeak server information on your group's website or forum. Ask another member if you can't find it. Click the Connect button. TeamSpeak will attempt to connect to the server, and you will see the main window start to fill with information. You can check the status of the connection in the status frame at the bottom of the window. Navigate the server. On the left side of the window, you will see a list of channels on the server. Channels can be password protected, and you may need to be granted access by an admin. A list of users will be displayed beneath each channel. Most larger gaming groups will have the server broken into channels for different games that the group plays, along with an Senior-only section if the group is particularly large. Server setups will vary wildly from group to group. Double-click on a channel to join it. You will only be able to talk with users in the same channel as you. Text chat with other users. Besides being able to voice chat, there is a basic text chat for each channel. This can be accessed by clicking on the tab at the bottom of the window. Avoid putting important, time-sensitive information or commands in the text chat, as many players will not see it in-game. Bookmark frequent servers. If you plan on connecting to the server you are using on a frequent basis, you can make connecting much easier by bookmarking it. This will allow you to connect in the future with a single click. If you are currently connected to a server, click Bookmarks \u2192 Add to Bookmarks to add the current server to your bookmark list. If you want to add a server that you are not currently connected to, click Bookmarks \u2192 Manage Bookmarks to add a server manually. Running a TeamSpeak Server Download the server software. TeamSpeak is free to anyone using it for non-profit use, such as gaming groups. You can run the server software on your own machine or hosted server for up to 32 people, or you can run it on a dedicated hosted server for up to 512 people. If you need a server larger than this, you will need to rent one from TeamSpeak. You can find the server software on the Downloads page of the TeamSpeak website. Make sure to download the correct version for the operating system you are installing the server on. The files will be downloaded as an archive. You will need to accept the license agreement before you can proceed with the download. Extract the archive. The file that you downloaded is an archive that contains multiple files. Extract the archive so that you can use the files contained within. Extract it somewhere that is easy to access, such as your desktop. Start the server. Run the application in the extracted folder. You will see several files and folders get created, and then a window will appear with several important pieces of information. You will see your server admin username, password, and privilege key. Copy each of these values to a blank Notepad document. You can click the button next to each one to copy to the clipboard. At this point, the server is already running. You will need to connect to the server in order to configure it. Connect to the server. Open up your TeamSpeak client. Open the Connect menu and enter localhost into the address bar. Change your nickname to whatever you'd like, and make sure the server password field is empty. Click the Connect button. Claim server admin rights. When you first connect to your server, you will be prompted for the privilege key that you copied into Notepad. This will allow you to change the configuration of the server and grant permissions to other users. After entering the key, a server administrator icon will appear next to your name on the users list. Configure your server. Right-click on the server name at the top of the channel list. Select \"Edit Virtual Server\" from the menu that appears. A window will open, allowing you to customize your server. You have a variety of options to help make your server feel more like \"yours\". In the Server Name field, enter in the name for your server. Usually this will be based off of your gaming group's name. Set a password for your server in the Password field. This can help make sure that only people you permit can access your server. Use your forums or private messages to distribute the password to people whom you you want connecting. In the Welcome Message field, you can write a short message that will be displayed to users every time they connect. Use it to link to your team's latest news post or important forum thread. Add customization. Click the \u25bc More button at the bottom of the \"Manage Virtual Server\" window to see a variety of deeper configuration options. These will allow you to fine tune how your server works. The most important is the Hosts tab. In the Host tab, you can set a banner image for your server that all of your users will see. You can also create a Host button that will appear in the upper-right corner. Many servers use this button to direct users to the team's website. Create your channels. If your group has a variety of interests, you may want to create multiple channels to help keep people on topic for the game at hand. For example, if your group primarily plays two games, you can create a channel for each game, as well as a general \"lounge\" channel. When people are playing, they can move to the appropriate channel, and when they're relaxing between games, they can use the lounge and not bother people who are playing. To create channels, right-click on the server name in the channel tree and click \"Create Channel\". You can set a channel name, a description, a password, as well as how permanent the channel is and where it should be sorted. You can create sub-channels within channels, which can be especially useful for large groups. The Permissions tab allows you to set what level permissions people need in order to perform various actions. Open ports. While most clients should be able to connect to your server, opening a few ports can make sure the most people possible can connect without issue. Access your router settings, and open the following ports: UDP 9987 & TCP 30033. UDP 9987 helps allow incoming connections, while TCP 30033 allows for easier file transferring between users. Set up dynamic DNS. You can give your teammates your server's IP address so that they can connect, but this IP address is liable to change sometime in the future. It's also not very easy to remember. You can use services such as DynDNS to assign a hostname to your IP address, which will automatically forward people even when your IP address changes.",
+  "tyn_model":[
+    "microphone",
+    "teamspeak",
+    "server",
+    "microphone mute",
+    "64-bit client",
+    "software",
+    "headphones",
+    "\u2192 setup",
+    "\u2192 connect",
+    "\u2192 add",
+    "\u2192 manage",
+    "notepad document",
+    "notepad",
+    "\u25bc more",
+    "router",
+    "dns"
+  ],
+  "tyn_section":[
+
+  ]
+}

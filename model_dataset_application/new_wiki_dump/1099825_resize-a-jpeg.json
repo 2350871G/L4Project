@@ -1,0 +1,183 @@
+{
+  "title":"How to Resize a JPEG",
+  "url":"https://www.wikihow.com/Resize-a-JPEG",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography",
+    "Photography Editing"
+  ],
+  "methods":[
+    {
+      "name":"Using an Image Resizing Website",
+      "steps":[
+        {
+          "headline":"Visit an image resizing website.",
+          "description":"There are tons of websites that will let you quickly upload and resize any image file, including JPEG files. Some of them allow you to resize multiple images at once. Search \"resize jpeg\" to find a bunch of different options. Resizing using a website is most effective while using a computer, not a mobile device. Some of the more popular sites include:\npicresize.com\nresizeyourimage.com\nresizeimage.net"
+        },
+        {
+          "headline":"Upload the JPG file you want to resize.",
+          "description":"Most resizing sites allow you to upload virtually any type of image file. Click the \"Choose file,\" \"Upload image,\" or \"Browse\" button to find the image file on your computer that you want to resize. If the image you want to resize is on another website, you'll need to download it to your computer first before uploading it to the resizing website."
+        },
+        {
+          "headline":"Use the resizing controls to change the size of the image.",
+          "description":"Each website has a different set of controls to adjust the image size. You may be able to click and drag a box, or use sliders to adjust the final size. You may also be able to enter the exact dimensions you want the resized image to be. Making an image larger than the original will result in a noticeably lower-quality picture."
+        },
+        {
+          "headline":"Select your compression (if available).",
+          "description":"Some resizing websites allow you to set a compression level. Higher compression will result in a smaller file size, but will also lead to a decrease in image quality. Look for a quality slider or drop-down menu to change the final quality. Not all resizing websites have quality options."
+        },
+        {
+          "headline":"Download the resized image.",
+          "description":"Once you've set your size and quality settings, you can resize and download the image. Click the \"Resize\" button to load the new image. You'll likely be shown a preview of the changes before the image file is downloaded to your computer. When downloading a resized image, make sure you don't overwrite the original. This will allow you to go back and make changes if you aren't happy with the outcome."
+        }
+      ]
+    },
+    {
+      "name":"Using Paint in Windows",
+      "steps":[
+        {
+          "headline":"Make a copy of the image file.",
+          "description":"Before resizing your image in Paint, make a copy of the file so that you don't lose the original. This will allow you to do the process again later if you aren't happy with the results. To make a copy of the image file, right-click on it and select \"Copy.\" Right-click a blank area in the same folder and select \"Paste\" to create a copy of the image."
+        },
+        {
+          "headline":"Open the image in Paint.",
+          "description":"Paint is a free image editor that comes with every version of Windows. Right-click on the image file and select \"Edit\" to open it in Paint."
+        },
+        {
+          "headline":"Select the entire image.",
+          "description":"If you want to resize the entire image, select the whole thing by pressing Ctrl+A. You can also click the \"Select\" button in the Home tab and choose \"Select all.\" You'll see a dashed line appear around the edge of the image."
+        },
+        {
+          "headline":"Click the \"Resize\" button.",
+          "description":"You can find this in the Home tab, or you can press Ctrl+W. This will open the \"Resize and Skew\" window."
+        },
+        {
+          "headline":"Use the \"Resize\" fields to change the size of the image.",
+          "description":"You can choose to resize by percentage or by pixels. If you select \"Pixels,\" you can enter the exact size that you want the resized image to be. You can enter percentages larger than \"100\" to make the image bigger than the original. By default, Paint will maintain the original aspect ratio, and entering a value in one field will automatically change the value in the other. This keeps the image from stretching or squishing during the resize. You can uncheck \"Maintain aspect ratio\" if you want to be able to define both the Horizontal and Vertical fields independently. Making an image larger than the original will result in a blocky final image."
+        },
+        {
+          "headline":"Click \"OK\" to see your resized image.",
+          "description":"Once you click \"OK,\" your image will be resized according to the values you entered. There is no preview available, so you'll need to apply the changes to see them. If you aren't happy with the outcome, press Ctrl+Z to undo the resize changes you made. You can also click the \"Undo\" button at the very top of the window next."
+        },
+        {
+          "headline":"Drag the canvas edges to match the resized image.",
+          "description":"Your image will be resized, but the canvas will stay the original size. Click and drag the boxes around the edges of the canvas to resize it accordingly and remove excess white space."
+        },
+        {
+          "headline":"Save your resized image.",
+          "description":"Once you're satisfied with the new size, you can save the changes to the file. Select \"Save As\" from the File tab and choose \"JPEG picture.\" You can then name the file and choose where to save it."
+        }
+      ]
+    },
+    {
+      "name":"Using Preview in Mac OS X",
+      "steps":[
+        {
+          "headline":"Make a copy of your image file.",
+          "description":"It's always a good idea to create a backup of your original image file before making changes to its size. This will allow you to revert to the original in case something goes wrong or you don't like the end result. Select the image file, press \u2318 Command+C, and then press \u2318 Command+V to make a copy in the same location."
+        },
+        {
+          "headline":"Open the image in the Preview application.",
+          "description":"Usually this will open by default when you double-click the file. If the image opens in something else, you can right-click the file and select \"Open With\" and then \"Preview.\""
+        },
+        {
+          "headline":"Click the Tools menu and select \"Adjust Size.\"",
+          "description":"This will open a new window that will allow you to resize the image."
+        },
+        {
+          "headline":"Click the drop-down menu to select the units you want to use.",
+          "description":"You can select \"Pixels,\" \"Percentage,\" and several other units to scale the image by. Selecting \"Pixels\" will allow you to determine the exact size of the resized image."
+        },
+        {
+          "headline":"Enter the new width or height that you want the image to be.",
+          "description":"The two fields are linked, and changing one will change the other to keep the image proportions correct. This will prevent stretching or squishing of the image. If you want to freely resize both fields, uncheck \"Scale proportionally\" to unlink the two."
+        },
+        {
+          "headline":"Check out the new file size.",
+          "description":"You'll be able to see what the new file size will be at the bottom of the window before you apply your changes. This is useful if you're resizing the image to fit the file size limitations of email or other online services."
+        },
+        {
+          "headline":"Click \"OK\" to apply the changes.",
+          "description":"The image will be resized according to the settings you entered. If you aren't happy with the results, press \u2318 Command+Z to undo the changes and revert to the original size."
+        },
+        {
+          "headline":"Save your file.",
+          "description":"If you are happy with the new size, you can save your changes to the file. Click the \"File\" menu and select \"save\" to save your changes."
+        }
+      ]
+    },
+    {
+      "name":"Using an iPhone, iPad, or iPod Touch",
+      "steps":[
+        {
+          "headline":"Install an app that allows you to resize images.",
+          "description":"There is no built-in way to resize a picture on iOS devices, but there are a variety of apps that can perform the task for you. You can download these apps from your iOS device's App Store. Some of the more popular apps include:\nResize It\nImage Resizer+\nDesqueeze"
+        },
+        {
+          "headline":"Open the app and select the photo you want to resize.",
+          "description":"You'll likely be prompted to give the app access to your photos. This is necessary for the app to be able to browse the photos stored on your device. Find the photo you want to resize and tap it to open it."
+        },
+        {
+          "headline":"Tap the \"Resize\" button.",
+          "description":"Most apps have various tools you can choose from, including resizing. Tap the \"Resize\" button to begin resizing the image."
+        },
+        {
+          "headline":"Enter a new size for the image.",
+          "description":"Different apps will have different interfaces, but generally you can select from a variety of preset sizes or you can enter your own custom resolution. The width and height will be linked, so that the proportions are maintained. If you don't mind if the image gets stretched or squished, you can tap the chainlink or padlock button to enter different values into each field."
+        },
+        {
+          "headline":"Save your resized image to your camera roll.",
+          "description":"After resizing the image, tap the \"Save\" button to save it to your camera roll. You'll be able to find it in your Photos app like you would any other image on your iOS device."
+        }
+      ]
+    },
+    {
+      "name":"Using an Android Device",
+      "steps":[
+        {
+          "headline":"Download an app that can resize pictures.",
+          "description":"Android devices do not have the ability to resize images out the box, but there are countless apps available that can do it for you. You can find these apps in the Google Play Store, many of which are free. Some of the most popular image resizing apps include:\nPhoto & Picture Resizer\nResize Me! Image Shrink\nReduce Photo Size"
+        },
+        {
+          "headline":"Open the downloaded app and give it access to your photos.",
+          "description":"When you launch the app for the first time, you may be prompted to give the app access to your stored photos. This is essential so that the app can load photos stored on your device."
+        },
+        {
+          "headline":"Open the photo you want to resize.",
+          "description":"Use the app to navigate to the photo that you want to resize. The process will vary depending on the app, but generally you can tap the \"Select photo\" button on the app's main menu to open your device's stored photos."
+        },
+        {
+          "headline":"Select the resize tool.",
+          "description":"After opening the image, you'll likely need to select the \"Resize\" tool in the app. Again, the process will vary for this depending on the app you are using."
+        },
+        {
+          "headline":"Select the size you want to make the image.",
+          "description":"You'll be shown the original size in both pixels and file size. Depending on the app, you may be able to select from preset image sizes, and enter custom sizes. When entering a custom size, you can just enter one value and the other value will scale accordingly."
+        },
+        {
+          "headline":"Save your resized image.",
+          "description":"Depending on the app, the resized image may be saved automatically, or you may need to manually tap the \"Save\" button. The original image will not be changed."
+        },
+        {
+          "headline":"Find your resized images.",
+          "description":"Each app will store its resized images in a different location. Generally, you'll be able to find the pictures by opening your Pictures folder and then opening the folder named after the app. You can then share the images just like you would any other picture on your device."
+        }
+      ]
+    }
+  ],
+  "text":" Using an Image Resizing Website Visit an image resizing website. There are tons of websites that will let you quickly upload and resize any image file, including JPEG files. Some of them allow you to resize multiple images at once. Search \"resize jpeg\" to find a bunch of different options. Resizing using a website is most effective while using a computer, not a mobile device. Some of the more popular sites include:\npicresize.com\nresizeyourimage.com\nresizeimage.net Upload the JPG file you want to resize. Most resizing sites allow you to upload virtually any type of image file. Click the \"Choose file,\" \"Upload image,\" or \"Browse\" button to find the image file on your computer that you want to resize. If the image you want to resize is on another website, you'll need to download it to your computer first before uploading it to the resizing website. Use the resizing controls to change the size of the image. Each website has a different set of controls to adjust the image size. You may be able to click and drag a box, or use sliders to adjust the final size. You may also be able to enter the exact dimensions you want the resized image to be. Making an image larger than the original will result in a noticeably lower-quality picture. Select your compression (if available). Some resizing websites allow you to set a compression level. Higher compression will result in a smaller file size, but will also lead to a decrease in image quality. Look for a quality slider or drop-down menu to change the final quality. Not all resizing websites have quality options. Download the resized image. Once you've set your size and quality settings, you can resize and download the image. Click the \"Resize\" button to load the new image. You'll likely be shown a preview of the changes before the image file is downloaded to your computer. When downloading a resized image, make sure you don't overwrite the original. This will allow you to go back and make changes if you aren't happy with the outcome. Using Paint in Windows Make a copy of the image file. Before resizing your image in Paint, make a copy of the file so that you don't lose the original. This will allow you to do the process again later if you aren't happy with the results. To make a copy of the image file, right-click on it and select \"Copy.\" Right-click a blank area in the same folder and select \"Paste\" to create a copy of the image. Open the image in Paint. Paint is a free image editor that comes with every version of Windows. Right-click on the image file and select \"Edit\" to open it in Paint. Select the entire image. If you want to resize the entire image, select the whole thing by pressing Ctrl+A. You can also click the \"Select\" button in the Home tab and choose \"Select all.\" You'll see a dashed line appear around the edge of the image. Click the \"Resize\" button. You can find this in the Home tab, or you can press Ctrl+W. This will open the \"Resize and Skew\" window. Use the \"Resize\" fields to change the size of the image. You can choose to resize by percentage or by pixels. If you select \"Pixels,\" you can enter the exact size that you want the resized image to be. You can enter percentages larger than \"100\" to make the image bigger than the original. By default, Paint will maintain the original aspect ratio, and entering a value in one field will automatically change the value in the other. This keeps the image from stretching or squishing during the resize. You can uncheck \"Maintain aspect ratio\" if you want to be able to define both the Horizontal and Vertical fields independently. Making an image larger than the original will result in a blocky final image. Click \"OK\" to see your resized image. Once you click \"OK,\" your image will be resized according to the values you entered. There is no preview available, so you'll need to apply the changes to see them. If you aren't happy with the outcome, press Ctrl+Z to undo the resize changes you made. You can also click the \"Undo\" button at the very top of the window next. Drag the canvas edges to match the resized image. Your image will be resized, but the canvas will stay the original size. Click and drag the boxes around the edges of the canvas to resize it accordingly and remove excess white space. Save your resized image. Once you're satisfied with the new size, you can save the changes to the file. Select \"Save As\" from the File tab and choose \"JPEG picture.\" You can then name the file and choose where to save it. Using Preview in Mac OS X Make a copy of your image file. It's always a good idea to create a backup of your original image file before making changes to its size. This will allow you to revert to the original in case something goes wrong or you don't like the end result. Select the image file, press \u2318 Command+C, and then press \u2318 Command+V to make a copy in the same location. Open the image in the Preview application. Usually this will open by default when you double-click the file. If the image opens in something else, you can right-click the file and select \"Open With\" and then \"Preview.\" Click the Tools menu and select \"Adjust Size.\" This will open a new window that will allow you to resize the image. Click the drop-down menu to select the units you want to use. You can select \"Pixels,\" \"Percentage,\" and several other units to scale the image by. Selecting \"Pixels\" will allow you to determine the exact size of the resized image. Enter the new width or height that you want the image to be. The two fields are linked, and changing one will change the other to keep the image proportions correct. This will prevent stretching or squishing of the image. If you want to freely resize both fields, uncheck \"Scale proportionally\" to unlink the two. Check out the new file size. You'll be able to see what the new file size will be at the bottom of the window before you apply your changes. This is useful if you're resizing the image to fit the file size limitations of email or other online services. Click \"OK\" to apply the changes. The image will be resized according to the settings you entered. If you aren't happy with the results, press \u2318 Command+Z to undo the changes and revert to the original size. Save your file. If you are happy with the new size, you can save your changes to the file. Click the \"File\" menu and select \"save\" to save your changes. Using an iPhone, iPad, or iPod Touch Install an app that allows you to resize images. There is no built-in way to resize a picture on iOS devices, but there are a variety of apps that can perform the task for you. You can download these apps from your iOS device's App Store. Some of the more popular apps include:\nResize It\nImage Resizer+\nDesqueeze Open the app and select the photo you want to resize. You'll likely be prompted to give the app access to your photos. This is necessary for the app to be able to browse the photos stored on your device. Find the photo you want to resize and tap it to open it. Tap the \"Resize\" button. Most apps have various tools you can choose from, including resizing. Tap the \"Resize\" button to begin resizing the image. Enter a new size for the image. Different apps will have different interfaces, but generally you can select from a variety of preset sizes or you can enter your own custom resolution. The width and height will be linked, so that the proportions are maintained. If you don't mind if the image gets stretched or squished, you can tap the chainlink or padlock button to enter different values into each field. Save your resized image to your camera roll. After resizing the image, tap the \"Save\" button to save it to your camera roll. You'll be able to find it in your Photos app like you would any other image on your iOS device. Using an Android Device Download an app that can resize pictures. Android devices do not have the ability to resize images out the box, but there are countless apps available that can do it for you. You can find these apps in the Google Play Store, many of which are free. Some of the most popular image resizing apps include:\nPhoto & Picture Resizer\nResize Me! Image Shrink\nReduce Photo Size Open the downloaded app and give it access to your photos. When you launch the app for the first time, you may be prompted to give the app access to your stored photos. This is essential so that the app can load photos stored on your device. Open the photo you want to resize. Use the app to navigate to the photo that you want to resize. The process will vary depending on the app, but generally you can tap the \"Select photo\" button on the app's main menu to open your device's stored photos. Select the resize tool. After opening the image, you'll likely need to select the \"Resize\" tool in the app. Again, the process will vary for this depending on the app you are using. Select the size you want to make the image. You'll be shown the original size in both pixels and file size. Depending on the app, you may be able to select from preset image sizes, and enter custom sizes. When entering a custom size, you can just enter one value and the other value will scale accordingly. Save your resized image. Depending on the app, the resized image may be saved automatically, or you may need to manually tap the \"Save\" button. The original image will not be changed. Find your resized images. Each app will store its resized images in a different location. Generally, you'll be able to find the pictures by opening your Pictures folder and then opening the folder named after the app. You can then share the images just like you would any other picture on your device.",
+  "tyn_model":[
+    "paint",
+    "canvas",
+    "image resizing website",
+    "image editor",
+    "\u2318 command+c",
+    "\u2318 command+v",
+    "\u2318 command+z",
+    "ios device",
+    "image resizing apps"
+  ],
+  "tyn_section":[
+
+  ]
+}

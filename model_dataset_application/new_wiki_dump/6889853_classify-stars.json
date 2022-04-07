@@ -1,0 +1,77 @@
+{
+  "title":"How to Classify Stars",
+  "url":"https://www.wikihow.com/Classify-Stars",
+  "category_hierarchy":[
+    "Hobbies and Crafts"
+  ],
+  "methods":[
+    {
+      "name":"Temperature",
+      "steps":[
+        {
+          "headline":"Determine the star's colour.",
+          "description":"Colour serves as a rough guide to temperature. Currently, there are ten colours, each with an associated temperature range. O class stars are blue/UV. B class are blue-white, A class white, F yellow-white, G yellow, K orange and M red. The other three classes are infrared. L class appear very deep red in visual light. Their spectra show alkali metals and metal hydrides. T class are cooler than L class. Their spectra show methane. Y class are the coolest of all, and apply only to brown dwarves. Their spectra are different to T and L class, but there is no definite definition."
+        },
+        {
+          "headline":"Put a number after the letter to show precise temperature.",
+          "description":"Within each colour, there are ten temperature bands, 0-9, with 0 being hottest. Thus, A0 is hotter than A5, which is hotter than A9, which is hotter than F0 (as an example)"
+        }
+      ]
+    },
+    {
+      "name":"Shortcut to Temperature and Size",
+      "steps":[
+        {
+          "headline":"Use a prism to split the star's light.",
+          "description":"This will give you a range of colours, called a spectrum, like what you get when you shine a torch through a prism. The spectrum of a star should have dark lines on it. These are absorption lines."
+        },
+        {
+          "headline":"Compare the star's spectrum to a database.",
+          "description":"A good astronomical database should give a typical spectrum for each star type. This is why the type is, sometimes called the spectral class."
+        }
+      ]
+    },
+    {
+      "name":"Metallicity",
+      "steps":[
+        {
+          "headline":"Determine the proportion of metals (elements other than hydrogen and helium) in a star.",
+          "description":"Stars with greater than 1% metals are termed metal-rich, and are part of something called Population I. Stars with about 0.1% metals are termed metal-poor, and are part of Population II. Population II stars formed earlier in the universe, when less metals had been formed."
+        },
+        {
+          "headline":"Keep your eyes open for stars with no metals.",
+          "description":"These stars (Population III) are expected to have been born just after the Big Bang, when the only elements were hydrogen and helium, and metals did not exist. As of yet, these stars are only theoretical, but people are looking very hard for them."
+        }
+      ]
+    },
+    {
+      "name":"Variability",
+      "steps":[
+        {
+          "headline":"Determine if the star is variable.",
+          "description":"Not all stars are, but some are, and can be very useful."
+        },
+        {
+          "headline":"Determine if it is an eclipsing binary.",
+          "description":"Eclipsing binaries, like Algol in Perseus, are two stars orbiting each other."
+        },
+        {
+          "headline":"Determine the amplitude and period of the variation.",
+          "description":"Compare these to the characteristics of known variable types to determine the type of variable star. For example, Cepheid variables have periods of days to months and amplitudes of up to 2 magnitudes, whereas Delta Scuti  variables have periods of less than 8 hours, and amplitudes of less than 0.9 magnitudes."
+        }
+      ]
+    }
+  ],
+  "text":" Temperature Determine the star's colour. Colour serves as a rough guide to temperature. Currently, there are ten colours, each with an associated temperature range. O class stars are blue/UV. B class are blue-white, A class white, F yellow-white, G yellow, K orange and M red. The other three classes are infrared. L class appear very deep red in visual light. Their spectra show alkali metals and metal hydrides. T class are cooler than L class. Their spectra show methane. Y class are the coolest of all, and apply only to brown dwarves. Their spectra are different to T and L class, but there is no definite definition. Put a number after the letter to show precise temperature. Within each colour, there are ten temperature bands, 0-9, with 0 being hottest. Thus, A0 is hotter than A5, which is hotter than A9, which is hotter than F0 (as an example) Shortcut to Temperature and Size Use a prism to split the star's light. This will give you a range of colours, called a spectrum, like what you get when you shine a torch through a prism. The spectrum of a star should have dark lines on it. These are absorption lines. Compare the star's spectrum to a database. A good astronomical database should give a typical spectrum for each star type. This is why the type is, sometimes called the spectral class. Metallicity Determine the proportion of metals (elements other than hydrogen and helium) in a star. Stars with greater than 1% metals are termed metal-rich, and are part of something called Population I. Stars with about 0.1% metals are termed metal-poor, and are part of Population II. Population II stars formed earlier in the universe, when less metals had been formed. Keep your eyes open for stars with no metals. These stars (Population III) are expected to have been born just after the Big Bang, when the only elements were hydrogen and helium, and metals did not exist. As of yet, these stars are only theoretical, but people are looking very hard for them. Variability Determine if the star is variable. Not all stars are, but some are, and can be very useful. Determine if it is an eclipsing binary. Eclipsing binaries, like Algol in Perseus, are two stars orbiting each other. Determine the amplitude and period of the variation. Compare these to the characteristics of known variable types to determine the type of variable star. For example, Cepheid variables have periods of days to months and amplitudes of up to 2 magnitudes, whereas Delta Scuti  variables have periods of less than 8 hours, and amplitudes of less than 0.9 magnitudes.",
+  "tyn_model":[
+    "metals",
+    "prism",
+    "stars",
+    "torch",
+    "astronomical database",
+    "algol"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title":"How to Add an Oil Preheater to a Generac Generator System",
+  "url":"https://www.wikihow.com/Add-an-Oil-Preheater-to-a-Generac-Generator-System",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance",
+    "Motors Generators and Transformers"
+  ],
+  "steps":[
+    {
+      "headline":"Obtain the parts.",
+      "description":"The parts required are a silicone heating pad, a temperature switch, and a \"soup\" can. The heating pad can be obtained from an auto parts store, a pet store (aquarium heater) or online. The wattage needed is low -- look for ones rated for wattage of less than 20 Watts, either 120VAC or 12 VDC, and about 2\" X 6\" (not very critical). The cost should be about $20 to $30. You can use a 12-volt heating pad and connect it to the battery, rather than running 120 volts to it. Some of them are rated as high as 120 watts, so be careful not to get one that is more powerful than you need. The temperature switch (i.e., thermostat), if you need a separate one, can be obtained on eBay for about $3. One rated for NC (normally closed) and about 25C (77F) to 40C (103F) is suitable, or lower. A commonly available part is the KSD301 but it has variants for many temperatures -- look for one in the lower temperature range. Many heating pads include an integral thermostat. Check for that on the pad before you you purchase one and also check the \"activation\" temperature. That way you can avoid running your heater when it is not necessary, or simply disconnect it unless freezing temperatures are forecast. Any empty can from your recycle bin will do, if it fits. Try to find one that fits loosely over the existing filter. (Check your filter and choose a can accordingly.) Several other \"parts\" you may need include an inline fuse holder and proper sized fuse, shrink-wrap tubing or electrical tape, a small amount of fiberglass or similar insulation, a 2 1/2 to 3\" hose clamp, and some duct tape. Another choice is to buy a commercially packaged (and certified) plug-in \"thermostatically controlled receptacle\" (or, \"thermo-cube\", for around $15) that contains a thermostat device set for around 40F, and one or two outlet receptacles that get switched on when the temperature is below that."
+    },
+    {
+      "headline":"Connect the thermostat.",
+      "description":"Once the parts are on-hand, the next step is to add the thermostat to the silicone pad heater. The heater comes with a 120V cord and socket (or, alternatively, a 12-volt cord). Separate the two wires close to the pad (a pocket knife works well) and cut the \"hot\" or line side of the cord. On a 12-volt pad, cut the red, positive-side conductor. Strip about 1/4\" of insulation off each exposed wire. On a polarized plug, the narrower prong is the \"hot\". Never switch or fuse a neutral wire. The thermostat will likely come with stripped leads, or you may need to solder, crimp or screw the wires  to it."
+    },
+    {
+      "headline":"Connect the thermostat wires to the cut in the cord.",
+      "description":"It makes no difference which \"direction\" the thermostat is connected -- it is just a simple switch that is \"on\" below the set-point and \"off\" when it is above that point. Twist the pairs of wires together, one pair at a time, and solder the connections. (Crimp connections will also work.) Wrap the connections with electrical tape or use heat-shrink tubing."
+    },
+    {
+      "headline":"Install a fuse.",
+      "description":"A fuse is desirable for protection in case of short or other circuit failure. At 120V, a fuse of .5 Amp is suitable as that will work with heating pads up to about 25 watts. The fuse is an in-line design and is soldered into the \"hot\" side of the 120V wiring by cutting and separating the wires, as for the thermostat, stripping, and soldering. Cover the joints with electrical tape or shrink tubing. At 12 volts, a 60-watt heating pad will draw as much as 5 amps, so plan accordingly. The thermostat (if required) and fuse may be installed immediately in line with each other to reduce the number of new connections you need to make For example: one cut, three soldered connections rather than two cuts and four connections. If you used a \"thermo-cube\", you still may want an inline fuse."
+    },
+    {
+      "headline":"Test.",
+      "description":"Testing of the pad can be done very carefully at this stage. Even at 20 watts, the pad may get very hot very quickly and may burn you when plugged into 120V! An appropriate test that is safe is to use an ohmmeter and check for a low resistance when the thermostat is cool (ice bath?) and an infinite resistance when the thermostat is warm (say 80F). In case the resistance at low temperatures is also high or infinite, recheck the connections!"
+    },
+    {
+      "headline":"Assemble the heater.",
+      "description":"A can is used as a sleeve over the oil filter so the heating pad can be re-used after you change the oil filter.The can probably will not fit perfectly over the oil filter. For the Generac system, the can should fit easily but snugly over the mount for the oil filter. You can cut some small slits in the open end of the can at roughly 90-degrees so that a hose clamp can be used to secure the heater to the mounting plate (or just the oil filter)."
+    },
+    {
+      "headline":"Mount the heating pad.",
+      "description":"The silicone pad typically comes with a paper backing and has adhesive under that."
+    },
+    {
+      "headline":"Wrap the pad and thermostat with tape.",
+      "description":"The other problem was how to attach the thermostat to the can. One solution was to wrap the pad and thermostat with high-temperature tape (metallic duct tape is designed for this -- cloth-backed \"duck\" tape is not). A perfect thermal path is not required as the temperatures that should be present will be between 60F or so and the operating temperature of the generator oil. During normal conditions when the generator is not running, the maximum temperature should be no more than about 10F more than the thermostat specification."
+    },
+    {
+      "headline":"Insulate the can assembly.",
+      "description":"It is desirable to limit heat loss (but not critical). Wrapping the can with a layer of fiberglass batting or some similar insulation layer will provide more-than-sufficient heat retention. There is no problem with over-heating when the generator is running as the oil temperature is automatically limited. You can put a layer of insulation over the can bottom held-on by a couple of strips of tape. The circumference of the can was then wrapped with insulation and a layer of tape applied loosely so as to not crush the insulation."
+    },
+    {
+      "headline":"Install the heater on the Generac.",
+      "description":"The side of most Generac systems removes with a few screws to provide easy access to the oil filter and battery. Once the side is removed, put the hose clamp around the open end of the can (where the slits are) and slide the whole heater and clamp over the oil filter. As noted, for at least the test system, the can fit nicely around the mount for the oil filter -- the hose clamp was tightened with a screwdriver to hold the heater over the oil filter. Be careful not to crush the oil filter by using too much torque on the hose clamp."
+    },
+    {
+      "headline":"Disconnect the generator from local power.",
+      "description":"Usually this will require turning off all power to the home unless there is a local disconnect for just the generator. Caution: An automatic transfer switch will automatically try to start the generator when you switch off the \"line\" power to it. Make sure the generator controls are properly set to avoid starting and remember to switch them back when you're done. Make sure any switches you have disconnected for safety are properly supervised while your hands are inside the machine, to prevent someone else from accidentally turning them on without your permission."
+    },
+    {
+      "headline":"Connect the heater.",
+      "description":"The Generac system comes with a 120V socket on the outside, but it is \"live\" only when the generator is running. To connect the heater to power it is necessary to connect the stripped wires to the N1 and Neutral wires under the generator control panel. N1 and N2 provide 240V while either N1 to Neutral or N2 to Neutral will provide 120V. Access to these connectors is under a plastic cover just above the control panel. Unless you are competent in working with high voltage wiring, this step should be done only by an electrician. There is a YouTube (\"Generac Cold Weather Kit Installation\") showing this general installation. You may want to wire a receptacle outlet cord to those terminals and use a plug-in \"thermo-cube\" device to activate your 120-volt heating pad. If you have chosen a 12-volt heating pad, it will be easy to connect the wiring to the battery or to the 12-volt lug on the electric starter solenoid. Refer to your generator manual for its location and configuration."
+    },
+    {
+      "headline":"Reassemble the generator.",
+      "description":"Reinstall the plastic cover over the connector box and the metal panel covering the wiring and battery. Reinstall the side panel."
+    },
+    {
+      "headline":"Reconnect the power.",
+      "description":"Turn the utility disconnect back to the \"on\" state."
+    },
+    {
+      "headline":"Test your system.",
+      "description":"It will be difficult to perform a complete operational test unless the outside temperatures are below the thermostat set-point which will not occur during summer. A primary test will be to test that the heater is operational when the generator is running. Generac systems have a manual run switch that makes it very simple to start the engine. Run the system for several minutes to make sure the hose clamp and can are secure from vibration and heat during running. Let the system cool-down and check that the heater system is still secure. Replace the side of the generator enclosure. Next time it is cold outside, your oil heater should automatically switch on. You can carefully test this by placing your hand near the heated oil filter while the generator has not been running. Consider also installing a similar unit to your battery compartment, so that the battery also does not fall below an efficient temperature for maximum cranking capacity when you most need it."
+    }
+  ],
+  "text":" Obtain the parts. The parts required are a silicone heating pad, a temperature switch, and a \"soup\" can. The heating pad can be obtained from an auto parts store, a pet store (aquarium heater) or online. The wattage needed is low -- look for ones rated for wattage of less than 20 Watts, either 120VAC or 12 VDC, and about 2\" X 6\" (not very critical). The cost should be about $20 to $30. You can use a 12-volt heating pad and connect it to the battery, rather than running 120 volts to it. Some of them are rated as high as 120 watts, so be careful not to get one that is more powerful than you need. The temperature switch (i.e., thermostat), if you need a separate one, can be obtained on eBay for about $3. One rated for NC (normally closed) and about 25C (77F) to 40C (103F) is suitable, or lower. A commonly available part is the KSD301 but it has variants for many temperatures -- look for one in the lower temperature range. Many heating pads include an integral thermostat. Check for that on the pad before you you purchase one and also check the \"activation\" temperature. That way you can avoid running your heater when it is not necessary, or simply disconnect it unless freezing temperatures are forecast. Any empty can from your recycle bin will do, if it fits. Try to find one that fits loosely over the existing filter. (Check your filter and choose a can accordingly.) Several other \"parts\" you may need include an inline fuse holder and proper sized fuse, shrink-wrap tubing or electrical tape, a small amount of fiberglass or similar insulation, a 2 1/2 to 3\" hose clamp, and some duct tape. Another choice is to buy a commercially packaged (and certified) plug-in \"thermostatically controlled receptacle\" (or, \"thermo-cube\", for around $15) that contains a thermostat device set for around 40F, and one or two outlet receptacles that get switched on when the temperature is below that. Connect the thermostat. Once the parts are on-hand, the next step is to add the thermostat to the silicone pad heater. The heater comes with a 120V cord and socket (or, alternatively, a 12-volt cord). Separate the two wires close to the pad (a pocket knife works well) and cut the \"hot\" or line side of the cord. On a 12-volt pad, cut the red, positive-side conductor. Strip about 1/4\" of insulation off each exposed wire. On a polarized plug, the narrower prong is the \"hot\". Never switch or fuse a neutral wire. The thermostat will likely come with stripped leads, or you may need to solder, crimp or screw the wires  to it. Connect the thermostat wires to the cut in the cord. It makes no difference which \"direction\" the thermostat is connected -- it is just a simple switch that is \"on\" below the set-point and \"off\" when it is above that point. Twist the pairs of wires together, one pair at a time, and solder the connections. (Crimp connections will also work.) Wrap the connections with electrical tape or use heat-shrink tubing. Install a fuse. A fuse is desirable for protection in case of short or other circuit failure. At 120V, a fuse of .5 Amp is suitable as that will work with heating pads up to about 25 watts. The fuse is an in-line design and is soldered into the \"hot\" side of the 120V wiring by cutting and separating the wires, as for the thermostat, stripping, and soldering. Cover the joints with electrical tape or shrink tubing. At 12 volts, a 60-watt heating pad will draw as much as 5 amps, so plan accordingly. The thermostat (if required) and fuse may be installed immediately in line with each other to reduce the number of new connections you need to make For example: one cut, three soldered connections rather than two cuts and four connections. If you used a \"thermo-cube\", you still may want an inline fuse. Test. Testing of the pad can be done very carefully at this stage. Even at 20 watts, the pad may get very hot very quickly and may burn you when plugged into 120V! An appropriate test that is safe is to use an ohmmeter and check for a low resistance when the thermostat is cool (ice bath?) and an infinite resistance when the thermostat is warm (say 80F). In case the resistance at low temperatures is also high or infinite, recheck the connections! Assemble the heater. A can is used as a sleeve over the oil filter so the heating pad can be re-used after you change the oil filter.The can probably will not fit perfectly over the oil filter. For the Generac system, the can should fit easily but snugly over the mount for the oil filter. You can cut some small slits in the open end of the can at roughly 90-degrees so that a hose clamp can be used to secure the heater to the mounting plate (or just the oil filter). Mount the heating pad. The silicone pad typically comes with a paper backing and has adhesive under that. Wrap the pad and thermostat with tape. The other problem was how to attach the thermostat to the can. One solution was to wrap the pad and thermostat with high-temperature tape (metallic duct tape is designed for this -- cloth-backed \"duck\" tape is not). A perfect thermal path is not required as the temperatures that should be present will be between 60F or so and the operating temperature of the generator oil. During normal conditions when the generator is not running, the maximum temperature should be no more than about 10F more than the thermostat specification. Insulate the can assembly. It is desirable to limit heat loss (but not critical). Wrapping the can with a layer of fiberglass batting or some similar insulation layer will provide more-than-sufficient heat retention. There is no problem with over-heating when the generator is running as the oil temperature is automatically limited. You can put a layer of insulation over the can bottom held-on by a couple of strips of tape. The circumference of the can was then wrapped with insulation and a layer of tape applied loosely so as to not crush the insulation. Install the heater on the Generac. The side of most Generac systems removes with a few screws to provide easy access to the oil filter and battery. Once the side is removed, put the hose clamp around the open end of the can (where the slits are) and slide the whole heater and clamp over the oil filter. As noted, for at least the test system, the can fit nicely around the mount for the oil filter -- the hose clamp was tightened with a screwdriver to hold the heater over the oil filter. Be careful not to crush the oil filter by using too much torque on the hose clamp. Disconnect the generator from local power. Usually this will require turning off all power to the home unless there is a local disconnect for just the generator. Caution: An automatic transfer switch will automatically try to start the generator when you switch off the \"line\" power to it. Make sure the generator controls are properly set to avoid starting and remember to switch them back when you're done. Make sure any switches you have disconnected for safety are properly supervised while your hands are inside the machine, to prevent someone else from accidentally turning them on without your permission. Connect the heater. The Generac system comes with a 120V socket on the outside, but it is \"live\" only when the generator is running. To connect the heater to power it is necessary to connect the stripped wires to the N1 and Neutral wires under the generator control panel. N1 and N2 provide 240V while either N1 to Neutral or N2 to Neutral will provide 120V. Access to these connectors is under a plastic cover just above the control panel. Unless you are competent in working with high voltage wiring, this step should be done only by an electrician. There is a YouTube (\"Generac Cold Weather Kit Installation\") showing this general installation. You may want to wire a receptacle outlet cord to those terminals and use a plug-in \"thermo-cube\" device to activate your 120-volt heating pad. If you have chosen a 12-volt heating pad, it will be easy to connect the wiring to the battery or to the 12-volt lug on the electric starter solenoid. Refer to your generator manual for its location and configuration. Reassemble the generator. Reinstall the plastic cover over the connector box and the metal panel covering the wiring and battery. Reinstall the side panel. Reconnect the power. Turn the utility disconnect back to the \"on\" state. Test your system. It will be difficult to perform a complete operational test unless the outside temperatures are below the thermostat set-point which will not occur during summer. A primary test will be to test that the heater is operational when the generator is running. Generac systems have a manual run switch that makes it very simple to start the engine. Run the system for several minutes to make sure the hose clamp and can are secure from vibration and heat during running. Let the system cool-down and check that the heater system is still secure. Replace the side of the generator enclosure. Next time it is cold outside, your oil heater should automatically switch on. You can carefully test this by placing your hand near the heated oil filter while the generator has not been running. Consider also installing a similar unit to your battery compartment, so that the battery also does not fall below an efficient temperature for maximum cranking capacity when you most need it.",
+  "tyn_model":[
+    "generator",
+    "heater",
+    "fuse",
+    "thermostat",
+    "tape",
+    "electrical tape",
+    "insulation",
+    "oil filter",
+    "generac",
+    "heating pad",
+    "12-volt heating pad",
+    "thermo-cube",
+    "soup\"",
+    "shrink-wrap tubing",
+    "duct tape",
+    "plug-in \"thermostatically controlled receptacle",
+    "silicone pad",
+    "12-volt cord",
+    "pocket knife",
+    "12-volt pad",
+    "heat-shrink tubing",
+    "shrink tubing",
+    "can",
+    "hose clamp",
+    "generator oil",
+    "fiberglass batting",
+    "hose",
+    "screwdriver",
+    "generac system",
+    "electrician",
+    "plug-in \"thermo-cube",
+    "120-volt heating pad",
+    "12-volt lug",
+    "electric starter solenoid",
+    "utility disconnect",
+    "oil heater"
+  ],
+  "tyn_section":[
+
+  ]
+}

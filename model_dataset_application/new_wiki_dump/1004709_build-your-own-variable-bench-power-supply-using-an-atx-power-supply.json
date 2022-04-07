@@ -1,0 +1,89 @@
+{
+  "title":"How to Build Your Own Variable Bench Power Supply Using an ATX Power Supply",
+  "url":"https://www.wikihow.com/Build-Your-Own-Variable-Bench-Power-Supply-Using-an-ATX-Power-Supply",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Unplug the power cord from the back of the computer.",
+      "description":"Make sure your computer is turned off first!"
+    },
+    {
+      "headline":"Cut off the connectors.",
+      "description":"(Leave a few inches of wire on the connectors so that you can use them later on for other projects)."
+    },
+    {
+      "headline":"Open up the power supply unit by removing the screws connecting the top and the bottom of the PSU case.",
+      "description":""
+    },
+    {
+      "headline":"Bundle wires of the same colors together.",
+      "description":"The color code for the wires is: Red = +5V, Black = Ground (0V), White = -5V (not used), Yellow = +12V, Blue = -12V, Orange = +3.3V (not used except if you have a brown wire in your supply, Purple = +5V Standby (not used), Gray = power is on (output), and Green = Turn DC on (input)."
+    },
+    {
+      "headline":"Start by drilling holes using a dremel tool or drill to the size of the banana jack post you are going to use.",
+      "description":"Also drill a hole for the LED, and also cut out square piece where the LCD will go and also drill room for a potentiometer with knob."
+    },
+    {
+      "headline":"Connect all the pieces together.",
+      "description":"Connect one of the red wires to the power resistor, connect all the remaining red wires to the red binding posts;\nConnect one of the black wires to the other end of the 10 ohm power resistor, one black wire to a resistor (330 ohm) attached to the cathode (shorter lead) of the LED and the other end of the LED (anode) connected to the gray wire,all the remaining black wires to the black binding post;\nConnect the +12VDC wires to the desired post( but leave one wire left alone so that you can use for variable voltage), the -12 VDC to desired post(the excess piece of wire cut and save for variable voltage section). Variable voltage binding should be left alone at this point and nothing should be soldered to it. Note some power supplies might have a brown sensing wire and or a pink wire. If you have a brown wire, solder it to the 3.3v orange wire and cut the rest out since you won't need to use them, and if you have a pink wire, solder it to the red wire. Please also notice the rubber grommets in the picture that are at the binding post. these are to be put on first then put on the nuts because this is to prevent metal nuts from making contact with the metal case so there for no shorting all the other binding posts together."
+    },
+    {
+      "headline":"Build the voltage regulator circuit.",
+      "description":"Using the components gathered, build the following circuit on a circuit board, but solder wires to the potentiometer to make it out of circuit. By that i mean only the wires are to be attached to the pc board rather then the actual pot being soldered. This is because we are attaching the potentiometer to the case so that we can use it as a knob to turn it to adjust the voltage we want. Note that the way you will power up the circuit is using those +12VDC wires and -12 VDC wires."
+    },
+    {
+      "headline":"Attach build circuit board with some kind of liquid adhesive to the case so that it sticks to the side somewhere.",
+      "description":"Use hot glue to paste it."
+    },
+    {
+      "headline":"Attach potentiometer to drilled hole in case and paste it with the hot glue.",
+      "description":""
+    },
+    {
+      "headline":"Attach V regulated wire out of the PC board onto the last empty post on your supply case and solder it onto it.",
+      "description":"This will be your regulated voltage coming out. Attach LCD voltmeter to case and then hook up power to the LCD using +12VDC supply from the bindings and hook up to ground and then hook up the +input to the regulated post and the - output to the ground post."
+    },
+    {
+      "headline":"Using this LCD will tell you what your regulated voltage out is from that post.",
+      "description":"This regulator can regulate voltages from 1.2VDC to 24VDC."
+    },
+    {
+      "headline":"Do a check following the checklist in the tips section to make sure everything is connected correctly and everything is cleaned correctly.",
+      "description":"And please read tips so that you can follow things more clearly."
+    },
+    {
+      "headline":"Once finished power up the power supply using switch in the back of the supply and LED should turn on along with fan and there should be no problems.",
+      "description":""
+    }
+  ],
+  "text":" Unplug the power cord from the back of the computer. Make sure your computer is turned off first! Cut off the connectors. (Leave a few inches of wire on the connectors so that you can use them later on for other projects). Open up the power supply unit by removing the screws connecting the top and the bottom of the PSU case.  Bundle wires of the same colors together. The color code for the wires is: Red = +5V, Black = Ground (0V), White = -5V (not used), Yellow = +12V, Blue = -12V, Orange = +3.3V (not used except if you have a brown wire in your supply, Purple = +5V Standby (not used), Gray = power is on (output), and Green = Turn DC on (input). Start by drilling holes using a dremel tool or drill to the size of the banana jack post you are going to use. Also drill a hole for the LED, and also cut out square piece where the LCD will go and also drill room for a potentiometer with knob. Connect all the pieces together. Connect one of the red wires to the power resistor, connect all the remaining red wires to the red binding posts;\nConnect one of the black wires to the other end of the 10 ohm power resistor, one black wire to a resistor (330 ohm) attached to the cathode (shorter lead) of the LED and the other end of the LED (anode) connected to the gray wire,all the remaining black wires to the black binding post;\nConnect the +12VDC wires to the desired post( but leave one wire left alone so that you can use for variable voltage), the -12 VDC to desired post(the excess piece of wire cut and save for variable voltage section). Variable voltage binding should be left alone at this point and nothing should be soldered to it. Note some power supplies might have a brown sensing wire and or a pink wire. If you have a brown wire, solder it to the 3.3v orange wire and cut the rest out since you won't need to use them, and if you have a pink wire, solder it to the red wire. Please also notice the rubber grommets in the picture that are at the binding post. these are to be put on first then put on the nuts because this is to prevent metal nuts from making contact with the metal case so there for no shorting all the other binding posts together. Build the voltage regulator circuit. Using the components gathered, build the following circuit on a circuit board, but solder wires to the potentiometer to make it out of circuit. By that i mean only the wires are to be attached to the pc board rather then the actual pot being soldered. This is because we are attaching the potentiometer to the case so that we can use it as a knob to turn it to adjust the voltage we want. Note that the way you will power up the circuit is using those +12VDC wires and -12 VDC wires. Attach build circuit board with some kind of liquid adhesive to the case so that it sticks to the side somewhere. Use hot glue to paste it. Attach potentiometer to drilled hole in case and paste it with the hot glue.  Attach V regulated wire out of the PC board onto the last empty post on your supply case and solder it onto it. This will be your regulated voltage coming out. Attach LCD voltmeter to case and then hook up power to the LCD using +12VDC supply from the bindings and hook up to ground and then hook up the +input to the regulated post and the - output to the ground post. Using this LCD will tell you what your regulated voltage out is from that post. This regulator can regulate voltages from 1.2VDC to 24VDC. Do a check following the checklist in the tips section to make sure everything is connected correctly and everything is cleaned correctly. And please read tips so that you can follow things more clearly. Once finished power up the power supply using switch in the back of the supply and LED should turn on along with fan and there should be no problems. ",
+  "tyn_model":[
+    "lcd",
+    "potentiometer",
+    "power supply",
+    "circuit board",
+    "hot glue",
+    "power cord",
+    "computer",
+    "dremel tool",
+    "drill",
+    "banana jack post",
+    "potentiometer with",
+    "resistor",
+    "nuts",
+    "voltage regulator",
+    "liquid adhesive",
+    "supply case",
+    "voltmeter",
+    "regulator",
+    "led",
+    "fan"
+  ],
+  "tyn_section":[
+
+  ]
+}

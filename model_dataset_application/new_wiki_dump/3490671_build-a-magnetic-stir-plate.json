@@ -1,0 +1,65 @@
+{
+  "title":"How to Build a Magnetic Stir Plate",
+  "url":"https://www.wikihow.com/Build-a-Magnetic-Stir-Plate",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Mount the magnet to the PC Fan by gluing the washer to the top of the fan.",
+      "description":"Then place the magnet on top of the washer. The washer acts as an electromagnetic shield between the magnetic components of the fan and the mounted magnet."
+    },
+    {
+      "headline":"Mount the fan to the enclosure.",
+      "description":"You want the magnet to be as close as possible to the top of the enclosure. Some people use bolts with nuts and washers to raise the fan from the bottom of the enclose. NOTE: Keep in mind that the weight of the container of liquid may cause the top of the enclosure to sink."
+    },
+    {
+      "headline":"Mount the remaining components (DC power jack, potentiometer, on/off switch) to the enclosure.",
+      "description":""
+    },
+    {
+      "headline":"Start the basic wiring by adding the positive and negative wiring to the DC power jack.",
+      "description":"Then connect the positive line from your jack to the on/off switch."
+    },
+    {
+      "headline":"{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a2\\/Voltage-Regulator-Pin-Diagram.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a2\\/Voltage-Regulator-Pin-Diagram.jpg\",\"smallWidth\":460,\"smallHeight\":322,\"bigWidth\":760,\"bigHeight\":532,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Voltage Regulator Pin Diagram",
+      "description":"Wire the Potentiometer, LM317T Voltage Regulator, Resistor, and Fan together. Review the \"LM317T Flowchart\" and \"Wiring Comments\" images, and the LM317T Voltage Regulator Datasheet link for specific wiring guidelines."
+    },
+    {
+      "headline":"Wire the Capacitors if necessary.",
+      "description":"The 0.1 \u00b5F capacitor is required if the distance between the DC power jack is greater than 6\" from potentiometer. The 1.0 \u00b5F capacitor is not necessary but is recommended to reduce transient response."
+    },
+    {
+      "headline":"Double Check & Turn it on.",
+      "description":"Double check your connections and make sure wires are not touching inappropriately. Turn your potentiometer about halfway, plug in your 9V or 12V power supply and click the on/off switch if necessary. If it doesn't work, review the diagrams and try to determine what's wrong."
+    },
+    {
+      "headline":"Add electrical tape to exposed wires.",
+      "description":"Remove any pieces of wire, solder, or woodchips that may still be in the enclosure. And, tape any loose wires down as necessary."
+    },
+    {
+      "headline":"FINAL THOUGHTS.The Images do not use the 1.0 \u00b5F Capacitor because of the added build cost.",
+      "description":""
+    }
+  ],
+  "text":" Mount the magnet to the PC Fan by gluing the washer to the top of the fan. Then place the magnet on top of the washer. The washer acts as an electromagnetic shield between the magnetic components of the fan and the mounted magnet. Mount the fan to the enclosure. You want the magnet to be as close as possible to the top of the enclosure. Some people use bolts with nuts and washers to raise the fan from the bottom of the enclose. NOTE: Keep in mind that the weight of the container of liquid may cause the top of the enclosure to sink. Mount the remaining components (DC power jack, potentiometer, on/off switch) to the enclosure.  Start the basic wiring by adding the positive and negative wiring to the DC power jack. Then connect the positive line from your jack to the on/off switch. {\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a2\\/Voltage-Regulator-Pin-Diagram.jpg\",\"bigUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/a\\/a2\\/Voltage-Regulator-Pin-Diagram.jpg\",\"smallWidth\":460,\"smallHeight\":322,\"bigWidth\":760,\"bigHeight\":532,\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}  Voltage Regulator Pin Diagram Wire the Potentiometer, LM317T Voltage Regulator, Resistor, and Fan together. Review the \"LM317T Flowchart\" and \"Wiring Comments\" images, and the LM317T Voltage Regulator Datasheet link for specific wiring guidelines. Wire the Capacitors if necessary. The 0.1 \u00b5F capacitor is required if the distance between the DC power jack is greater than 6\" from potentiometer. The 1.0 \u00b5F capacitor is not necessary but is recommended to reduce transient response. Double Check & Turn it on. Double check your connections and make sure wires are not touching inappropriately. Turn your potentiometer about halfway, plug in your 9V or 12V power supply and click the on/off switch if necessary. If it doesn't work, review the diagrams and try to determine what's wrong. Add electrical tape to exposed wires. Remove any pieces of wire, solder, or woodchips that may still be in the enclosure. And, tape any loose wires down as necessary. FINAL THOUGHTS.The Images do not use the 1.0 \u00b5F Capacitor because of the added build cost. ",
+  "tyn_model":[
+    "fan",
+    "washer",
+    "voltage regulator",
+    "capacitor",
+    "potentiometer",
+    "bolts",
+    "nuts",
+    "washers",
+    "dc power jack",
+    "potentiometer,",
+    "resistor",
+    "electrical tape"
+  ],
+  "tyn_section":[
+
+  ]
+}

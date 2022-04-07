@@ -1,0 +1,122 @@
+{
+  "title":"How to Install Old PC Games on a New Computer",
+  "url":"https://www.wikihow.com/Install-Old-PC-Games-on-a-New-Computer",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "PC Games"
+  ],
+  "methods":[
+    {
+      "name":"Installing DOS Games",
+      "steps":[
+        {
+          "headline":"Download a DOS emulator.",
+          "description":"Most Operating Systems (OSs) won't be able to run DOS games, but you can bypass this obstacle by making use of a DOS emulator. One highly recommended emulator by users is DOSBox, a free emulator you can find with a quick Internet search. Download and install DOSBox on your computer."
+        },
+        {
+          "headline":"Find the DOS game you wish to install and download it.",
+          "description":"This will require some searching on your part, but the DOSBox.com forum might connect you to the game you're looking for sooner than a general online search. After you find the game, download it to your computer."
+        },
+        {
+          "headline":"Follow manufacturer instructions, if applicable.",
+          "description":"In many cases, the DOS game software you download will be bundled with installation instructions. For best results, you should follow all included directions."
+        },
+        {
+          "headline":"Create a folder for your DOS games.",
+          "description":"It is recommended that you can make a new folder  directly to your hard drive (usually prefixed by \"C:\" or \"D:\") to make mounting these files to a virtual hard drive easier. Move the DOS game(s) you downloaded to this folder in preparation for mounting these files in DOSBox. Some recommended names for your DOS games folder are:\nDOSGames\nDOS"
+        },
+        {
+          "headline":"Mount your virtual drive.",
+          "description":"Open DOSBox and through the text interface, type in the command \"mount c C:\\DOSBox\". This will mount DOSBox's virtual drive, which you will use to install your game."
+        },
+        {
+          "headline":"Run the appropriate installation program.",
+          "description":"The file path for the right installation program for your game will vary depending on which game you have downloaded. In principle, you will type the approximate command: \"mount d C:\\DOSGames\\Installfolder - cdrom\", but you will have to follow the individual instructions outlining the correct file path for installation. These should have been included with your downloaded DOS game."
+        }
+      ]
+    },
+    {
+      "name":"Installing Games with Wine on Windows",
+      "steps":[
+        {
+          "headline":"Download the most recent version of Wine and necessary packages.",
+          "description":"Wine is a program that acts like a bridge between Windows and Linux, often described as a compatibility layer between the two. Using Wine, you can run an older version of your OS compatible with the game you want to play alongside your current OS. Your normal computer processes will continue as usual while you install your game with Wine. Many users recommend using the Ubuntu package, which is built including a stable version of Wine.Check to make sure this suits your purposes before downloading; other packs might work better for your situation."
+        },
+        {
+          "headline":"Download your desired application(s).",
+          "description":"You can find many outdated applications from your childhood online by means of a broad online search, or you can visit the Wine application database at appdb.winehq.org. Always exercise caution when you download third party software online. Some may be harmful to your computer, or in some cases these files might be other than what is claimed."
+        },
+        {
+          "headline":"Compile Wine if applicable.",
+          "description":"Depending on your goals and the OS you are using, you will need to find the appropriate packages needed to run a 32-bit/64-bit system. You can find a list of recommended packs on the FAQ page of wiki.winehq.org. Each pack is different; you will need to follow accompanying directions to compile your chosen package. If you have chosen Ubuntu as your package, you will not need to compile Wine to run older Windows applications."
+        },
+        {
+          "headline":"Add Wine as a source.",
+          "description":"Depending on the package, this process will vary. Follow the directions included with your download, or if you have downloaded the Ubuntu pack, access the applications menu and navigate through: Software & Updates \u2192 Other Software \u2192 Add. This should prompt a dialogue box, into which you should enter: \"ppa:ubuntu-wine/pp\". Now you can click \"Add Source\", enter a makeshift password (any will do), click \"Authenticate\" and then close the window."
+        },
+        {
+          "headline":"Finish Wine installation.",
+          "description":"Now that you've authenticated and added your source, you should be prompted with a dialogue box asking you to reload. Click \"Reload\", open the Software Center, search for Wine, click the entry labeled \"Wine\" and choose \"Install\". Once the installer finishing running, Wine will be ready for you to install and run apps."
+        },
+        {
+          "headline":"Create a folder for Wine.",
+          "description":"It is recommended, for ease of access, that you nest a new folder under your hard drive (usually prefixed by \"C:\" or \"D:\" ), giving it an easily recognizable name like \"Drive C\"."
+        },
+        {
+          "headline":"Configure Wine.",
+          "description":"Now that you have your folder, you can configure wine by opening your terminal (also known as your command prompt, accessible by searching your computer for \"Command Prompt\") and typing \"winecfg\" followed by \u21b5 Enter. You should now see the Wine configuration window, under which you can find the \"Drives\" tab. Click it and select \"C:\". Using the browse feature, you will be able to find your \"Drive C\" folder and press \"OK\" once to accept and a second time to close the dialogue box."
+        },
+        {
+          "headline":"Install your Windows application(s).",
+          "description":"In your terminal, you will now be able to access and use the installer file for your application. Go to System \u2192 Preference \u2192 \"WineFile\". In the prompted window, navigate to the folder containing your application, where you will find your installer file."
+        },
+        {
+          "headline":"Run the installer.",
+          "description":"You can run the installer by double clicking, which should prompt a series of dialogue boxes that direct you through the installation process. The process should be similar to the way you install a new program in your current version of Windows. Once the application finishes installing, in the application folder you should find an executable file (a file that ends in \".exe\"), which you will now be able to double click to run the application."
+        }
+      ]
+    },
+    {
+      "name":"Installing from a Disk",
+      "steps":[
+        {
+          "headline":"Allow your computer to fully boot.",
+          "description":"Putting in a disk in during startup could cause your computer to attempt to boot from the CD. Avoid this by waiting until your computer is fully activated."
+        },
+        {
+          "headline":"Insert the disk containing the application you want to install.",
+          "description":"The issue with running your game is not the CD itself, but the language in which the program on the CD was written. You will make use of Window's compatibility feature to work around this obstacle."
+        },
+        {
+          "headline":"Install your application.",
+          "description":"Ignore the pop-up installer, selecting cancel to close the window, and instead right clicking the program, choosing \"Properties\" from the drop down menu."
+        },
+        {
+          "headline":"Click the compatibility tab and see if your application is supported.",
+          "description":"If you know the version of Windows that your application runs in, you can check the box labeled \"Run this program in compatibility mode for...\" and select the version of windows that suits your application. If you are at a loss for which version of Windows to select, you can click to top box under the \"Compatibility\" tab, which should read \"Run compatibility troubleshooter\". Follow the troubleshooter prompts to see if another solution is available."
+        }
+      ]
+    }
+  ],
+  "text":" Installing DOS Games Download a DOS emulator. Most Operating Systems (OSs) won't be able to run DOS games, but you can bypass this obstacle by making use of a DOS emulator. One highly recommended emulator by users is DOSBox, a free emulator you can find with a quick Internet search. Download and install DOSBox on your computer. Find the DOS game you wish to install and download it. This will require some searching on your part, but the DOSBox.com forum might connect you to the game you're looking for sooner than a general online search. After you find the game, download it to your computer. Follow manufacturer instructions, if applicable. In many cases, the DOS game software you download will be bundled with installation instructions. For best results, you should follow all included directions. Create a folder for your DOS games. It is recommended that you can make a new folder  directly to your hard drive (usually prefixed by \"C:\" or \"D:\") to make mounting these files to a virtual hard drive easier. Move the DOS game(s) you downloaded to this folder in preparation for mounting these files in DOSBox. Some recommended names for your DOS games folder are:\nDOSGames\nDOS Mount your virtual drive. Open DOSBox and through the text interface, type in the command \"mount c C:\\DOSBox\". This will mount DOSBox's virtual drive, which you will use to install your game. Run the appropriate installation program. The file path for the right installation program for your game will vary depending on which game you have downloaded. In principle, you will type the approximate command: \"mount d C:\\DOSGames\\Installfolder - cdrom\", but you will have to follow the individual instructions outlining the correct file path for installation. These should have been included with your downloaded DOS game. Installing Games with Wine on Windows Download the most recent version of Wine and necessary packages. Wine is a program that acts like a bridge between Windows and Linux, often described as a compatibility layer between the two. Using Wine, you can run an older version of your OS compatible with the game you want to play alongside your current OS. Your normal computer processes will continue as usual while you install your game with Wine. Many users recommend using the Ubuntu package, which is built including a stable version of Wine.Check to make sure this suits your purposes before downloading; other packs might work better for your situation. Download your desired application(s). You can find many outdated applications from your childhood online by means of a broad online search, or you can visit the Wine application database at appdb.winehq.org. Always exercise caution when you download third party software online. Some may be harmful to your computer, or in some cases these files might be other than what is claimed. Compile Wine if applicable. Depending on your goals and the OS you are using, you will need to find the appropriate packages needed to run a 32-bit/64-bit system. You can find a list of recommended packs on the FAQ page of wiki.winehq.org. Each pack is different; you will need to follow accompanying directions to compile your chosen package. If you have chosen Ubuntu as your package, you will not need to compile Wine to run older Windows applications. Add Wine as a source. Depending on the package, this process will vary. Follow the directions included with your download, or if you have downloaded the Ubuntu pack, access the applications menu and navigate through: Software & Updates \u2192 Other Software \u2192 Add. This should prompt a dialogue box, into which you should enter: \"ppa:ubuntu-wine/pp\". Now you can click \"Add Source\", enter a makeshift password (any will do), click \"Authenticate\" and then close the window. Finish Wine installation. Now that you've authenticated and added your source, you should be prompted with a dialogue box asking you to reload. Click \"Reload\", open the Software Center, search for Wine, click the entry labeled \"Wine\" and choose \"Install\". Once the installer finishing running, Wine will be ready for you to install and run apps. Create a folder for Wine. It is recommended, for ease of access, that you nest a new folder under your hard drive (usually prefixed by \"C:\" or \"D:\" ), giving it an easily recognizable name like \"Drive C\". Configure Wine. Now that you have your folder, you can configure wine by opening your terminal (also known as your command prompt, accessible by searching your computer for \"Command Prompt\") and typing \"winecfg\" followed by \u21b5 Enter. You should now see the Wine configuration window, under which you can find the \"Drives\" tab. Click it and select \"C:\". Using the browse feature, you will be able to find your \"Drive C\" folder and press \"OK\" once to accept and a second time to close the dialogue box. Install your Windows application(s). In your terminal, you will now be able to access and use the installer file for your application. Go to System \u2192 Preference \u2192 \"WineFile\". In the prompted window, navigate to the folder containing your application, where you will find your installer file. Run the installer. You can run the installer by double clicking, which should prompt a series of dialogue boxes that direct you through the installation process. The process should be similar to the way you install a new program in your current version of Windows. Once the application finishes installing, in the application folder you should find an executable file (a file that ends in \".exe\"), which you will now be able to double click to run the application. Installing from a Disk Allow your computer to fully boot. Putting in a disk in during startup could cause your computer to attempt to boot from the CD. Avoid this by waiting until your computer is fully activated. Insert the disk containing the application you want to install. The issue with running your game is not the CD itself, but the language in which the program on the CD was written. You will make use of Window's compatibility feature to work around this obstacle. Install your application. Ignore the pop-up installer, selecting cancel to close the window, and instead right clicking the program, choosing \"Properties\" from the drop down menu. Click the compatibility tab and see if your application is supported. If you know the version of Windows that your application runs in, you can check the box labeled \"Run this program in compatibility mode for...\" and select the version of windows that suits your application. If you are at a loss for which version of Windows to select, you can click to top box under the \"Compatibility\" tab, which should read \"Run compatibility troubleshooter\". Follow the troubleshooter prompts to see if another solution is available.",
+  "tyn_model":[
+    "wine",
+    "terminal",
+    "dos emulator",
+    "dosbox",
+    "wine application",
+    "\u2192 other",
+    "\u2192 add",
+    "\u21b5 enter",
+    "\u2192 preference",
+    "\u2192 \"",
+    "disk",
+    "window",
+    "windows"
+  ],
+  "tyn_section":[
+
+  ]
+}

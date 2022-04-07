@@ -1,0 +1,119 @@
+{
+  "title":"How to Play Electronic Battleship",
+  "url":"https://www.wikihow.com/Play-Electronic-Battleship",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Board Games"
+  ],
+  "methods":[
+    {
+      "name":"Starting Play",
+      "steps":[
+        {
+          "headline":"Decide which player is Player 1 and which is Player 2.",
+          "description":"The game will consider the player sitting adjacent to the game's on-off switch to be Player 1."
+        },
+        {
+          "headline":"Turn on the game.",
+          "description":"The game will declare, \"Remote terminal activated. Input number of players.\""
+        },
+        {
+          "headline":"Input the number of players.",
+          "description":"Press \"1\" to play a solo game against the computer; press \"2\" to play against a human opponent. For a solo game, you then input the skill level when prompted by pressing \"1,\" \"2,\" or \"3.\" Level 1 is the easiest level; Level 3 is the most challenging."
+        },
+        {
+          "headline":"Select the mission you wish to compete in.",
+          "description":"Electronic Battleship has 4 mission levels:\nClassic Mission \ufffd You use all 5 of your ships, but not your Reconnaissance Planes. Each turn, you fire a single shot. Press \"1\" to select this mission. Salvo Mission \ufffd Plays like Classic Mission, except that you fire 1 shot for each ship still afloat. (You can fire 5 shots if all 5 of your ships are in play; if your opponent sinks 2 of them, you can then fire only 3 shots.) Press \"2\" to select this mission. Bonus Mission \ufffd Plays like Classic Mission, except that you get another shot if you score a hit on 1 of your opponent's ships and can keep shooting as long as you score a hit. Press \"3\" to select this mission. Advanced Mission \ufffd Each of your vessels is equipped with special attacks in the form of missiles, torpedoes, or scanning capabilities. You also have Reconnaissance Planes and Anti-aircraft Guns to shoot them down. Press \"4\" to select this mission. (It's recommended that you become proficient with the other 3 missions before playing the Advanced Mission.)"
+        },
+        {
+          "headline":"Enter the configuration of your fleet.",
+          "description":"Each player can choose the position of his or her ships or select from 100 different pre-programmed configurations. (One player may choose a pre-programmed formation, while the other may choose a custom configuration.) Press \"1\" to use a pre-programmed configuration. Formations are displayed in the back of the game manual; enter the letter-number code for the configuration you want to use and then place your ships accordingly on the horizontal surface in front of you. (Use the Reconnaissance Planes only if you are playing the Advanced Mission.) Press \"2\" to use a custom configuration. The game will prompt you to place each of your vessels on the horizontal surface in front of you, from the longest in length (the Aircraft Carrier) to the shortest (the Patrol Boat). You only have to enter the letter and number coordinates (in that order) of each end of the vessel. Once both players have configured their fleets, the game will report, \"General quarters, general quarters; man your battle stations. This is not a drill, repeat, this is not a drill!\""
+        }
+      ]
+    },
+    {
+      "name":"Playing the Classic, Salvo, or Bonus Mission",
+      "steps":[
+        {
+          "headline":"Listen for the game's prompt: \"Awaiting orders from Player (1 or 2).\"",
+          "description":""
+        },
+        {
+          "headline":"Place a white marking peg on the target grid coordinate where you intend to fire.",
+          "description":"The target grid is the upright grid in between the 2 players."
+        },
+        {
+          "headline":"Enter the coordinate you're targeting.",
+          "description":"Press the letter key first, then the number key, then \"Fire/Enter.\" A red light will flash to show your missile has been launched. If you hit an enemy vessel, the game reports, \"Radar confirms hit at,\" followed by the coordinate you entered. Replace the white peg on your target grid with a red peg; your opponent will mark the hit on his or her ship at that coordinate with a red peg. If there is no enemy vessel at that coordinate, the game reports, \"Radar confirms miss at,\" followed by the coordinate. Leave the white peg in place. Keep an accurate record of your shots so that you can figure out where your opponent's ships are placed. If you should fire onto a space where you previously recorded a hit, the game will record the second shot to that location as a miss. When all the spaces a ship occupies on the board record a hit, the game will report the ship as sunk. For example, when your Battleship takes a hit to each of its 4 spaces, the game will report, \"Target neutralized \ufffd battleship sunk.\" (You then have option to whine as in the TV commercial: \"You sank my battleship!\")"
+        },
+        {
+          "headline":"Continue until all 5 ships on one side are sunk.",
+          "description":"At this point, the game announces, \"Enemy fleet destroyed. Congratulations, Admiral.\""
+        }
+      ]
+    },
+    {
+      "name":"Playing the Advanced Mission",
+      "steps":[
+        {
+          "headline":"Place your ships as in the other missions.",
+          "description":"After placing your Patrol Boat, you'll hear, \"Recon 1 or 2 reporting. Enter coordinates.\""
+        },
+        {
+          "headline":"Place your Reconnaissance Plane aboard your Aircraft Carrier.",
+          "description":"Enter any of the 5 coordinates representing your carrier's position and then place a red Recon Plane on that space on your carrier."
+        },
+        {
+          "headline":"Repeat, when prompted, for your second Recon Plane.",
+          "description":"Enter the coordinates for your second plane and then place a blue plane on that space on your carrier. If you chose a pre-programmed fleet configuration, the spaces for your Recon Planes will be provided. Place them on the carrier in the places designated by the auto-configuration."
+        },
+        {
+          "headline":"Use your reconnaissance capabilities to find where your enemy's ships are located.",
+          "description":"You can perform reconnaissance with either your Submarine or your Recon Plane. Your Sub can scan a 3x3 grid for a target. Press \"Scan\" and then the Submarine button. Enter the letter-number coordinate of the center of the area you wish to scan, mark your target grid with a blue peg, and then press \"Scan\" again. If 1 of your opponent's ships occupies any portion of that area, you'll hear, \"Sonar system detects enemy craft, precise location unconfirmed,\" and can then surround the blue peg on your target grid with 8 more. If none of the 9 spaces are occupied by an enemy ship, you'll hear, \"Sonar system confirms clear waters,\" and can then mark your target grid with 9 white pegs. Your Recon Planes can pinpoint enemy locations. Choose which plane to send out (\"Recon 1\" for the red plane, \"Recon 2\" for the blue plane) and enter the coordinates to target. Move your plane to that location on your grid. On a subsequent turn, you can scan for enemy vessels by pressing \"Scan\" and choosing 1 of the 2 scan patterns. (Neither allows the plane to scan directly beneath it.) If an enemy vessel is found, you'll hear \"Enemy sighted,\" followed by the coordinates; mark those coordinates with blue pegs and the rest of the pattern with white pegs. If no vessel is found, you'll hear, \"No enemy sighted\"; mark all 4 spaces in the pattern with white pegs."
+        },
+        {
+          "headline":"Use your special weapons to increase your chances of hitting an enemy ship.",
+          "description":"Your Aircraft Carrier, Battleship, Destroyer, and Submarine each has special weaponry that can target multiple spaces. Your Submarine has 2 Torpedoes, which can fire on either a horizontal or vertical line. Press the Submarine button and enter the starting coordinate of the torpedo's path, then the direction. If your Torpedo hits, you'll hear \"Sonar confirms hit at,\" followed by the coordinates; mark those coordinates with a red peg and the rest of the path with a white peg. If it misses, mark the entire path with white pegs. Your Destroyer has 2 Apache Missiles, each of which can target a 3-space horizontal or vertical line. Press the Destroyer button, choose the firing pattern (1 for horizontal, 2 for vertical), and enter the center coordinate of the pattern, then press \"Fire/Enter\" once to confirm and again to fire. You'll hear an explosion if the missile hits something and silence if nothing was hit. Your Aircraft Carrier has 2 Exocet Missiles, each of which can target a 5-space orthogonal (\"+\") or diagonal (\"X\") criss-cross pattern. Press the Aircraft Carrier button, choose the firing pattern (1 for \"X,\" 2 for \"+\"), and enter the center coordinate of the pattern, then press \"Fire/Enter\" once to confirm and again to fire. You'll hear an explosion if the missile hits something and silence if nothing was hit. Your Battleship has 1 Tomahawk missile, which can target a 3x3 grid. Press the Battleship button and enter the center coordinate of the grid pattern, then press \"Fire/Enter\" once to confirm and again to fire. You'll hear an explosion if the missile hits something and silence if nothing was hit. You also have an Anti-aircraft Gun to shoot down your opponent's Recon Planes. Press the Anti-aircraft button, then enter the coordinates where you think the plane is flying. Press \"Fire/Enter\" once to confirm and again to fire. If you hit the plane, you'll hear an explosion followed by \"Bird down! Bird down!\" If you miss, you'll hear \"Target out of range.\" Once both your opponent's Recon Planes are downed or otherwise destroyed, your gun will go dead."
+        }
+      ]
+    }
+  ],
+  "text":" Starting Play Decide which player is Player 1 and which is Player 2. The game will consider the player sitting adjacent to the game's on-off switch to be Player 1. Turn on the game. The game will declare, \"Remote terminal activated. Input number of players.\" Input the number of players. Press \"1\" to play a solo game against the computer; press \"2\" to play against a human opponent. For a solo game, you then input the skill level when prompted by pressing \"1,\" \"2,\" or \"3.\" Level 1 is the easiest level; Level 3 is the most challenging. Select the mission you wish to compete in. Electronic Battleship has 4 mission levels:\nClassic Mission \ufffd You use all 5 of your ships, but not your Reconnaissance Planes. Each turn, you fire a single shot. Press \"1\" to select this mission. Salvo Mission \ufffd Plays like Classic Mission, except that you fire 1 shot for each ship still afloat. (You can fire 5 shots if all 5 of your ships are in play; if your opponent sinks 2 of them, you can then fire only 3 shots.) Press \"2\" to select this mission. Bonus Mission \ufffd Plays like Classic Mission, except that you get another shot if you score a hit on 1 of your opponent's ships and can keep shooting as long as you score a hit. Press \"3\" to select this mission. Advanced Mission \ufffd Each of your vessels is equipped with special attacks in the form of missiles, torpedoes, or scanning capabilities. You also have Reconnaissance Planes and Anti-aircraft Guns to shoot them down. Press \"4\" to select this mission. (It's recommended that you become proficient with the other 3 missions before playing the Advanced Mission.) Enter the configuration of your fleet. Each player can choose the position of his or her ships or select from 100 different pre-programmed configurations. (One player may choose a pre-programmed formation, while the other may choose a custom configuration.) Press \"1\" to use a pre-programmed configuration. Formations are displayed in the back of the game manual; enter the letter-number code for the configuration you want to use and then place your ships accordingly on the horizontal surface in front of you. (Use the Reconnaissance Planes only if you are playing the Advanced Mission.) Press \"2\" to use a custom configuration. The game will prompt you to place each of your vessels on the horizontal surface in front of you, from the longest in length (the Aircraft Carrier) to the shortest (the Patrol Boat). You only have to enter the letter and number coordinates (in that order) of each end of the vessel. Once both players have configured their fleets, the game will report, \"General quarters, general quarters; man your battle stations. This is not a drill, repeat, this is not a drill!\" Playing the Classic, Salvo, or Bonus Mission Listen for the game's prompt: \"Awaiting orders from Player (1 or 2).\"  Place a white marking peg on the target grid coordinate where you intend to fire. The target grid is the upright grid in between the 2 players. Enter the coordinate you're targeting. Press the letter key first, then the number key, then \"Fire/Enter.\" A red light will flash to show your missile has been launched. If you hit an enemy vessel, the game reports, \"Radar confirms hit at,\" followed by the coordinate you entered. Replace the white peg on your target grid with a red peg; your opponent will mark the hit on his or her ship at that coordinate with a red peg. If there is no enemy vessel at that coordinate, the game reports, \"Radar confirms miss at,\" followed by the coordinate. Leave the white peg in place. Keep an accurate record of your shots so that you can figure out where your opponent's ships are placed. If you should fire onto a space where you previously recorded a hit, the game will record the second shot to that location as a miss. When all the spaces a ship occupies on the board record a hit, the game will report the ship as sunk. For example, when your Battleship takes a hit to each of its 4 spaces, the game will report, \"Target neutralized \ufffd battleship sunk.\" (You then have option to whine as in the TV commercial: \"You sank my battleship!\") Continue until all 5 ships on one side are sunk. At this point, the game announces, \"Enemy fleet destroyed. Congratulations, Admiral.\" Playing the Advanced Mission Place your ships as in the other missions. After placing your Patrol Boat, you'll hear, \"Recon 1 or 2 reporting. Enter coordinates.\" Place your Reconnaissance Plane aboard your Aircraft Carrier. Enter any of the 5 coordinates representing your carrier's position and then place a red Recon Plane on that space on your carrier. Repeat, when prompted, for your second Recon Plane. Enter the coordinates for your second plane and then place a blue plane on that space on your carrier. If you chose a pre-programmed fleet configuration, the spaces for your Recon Planes will be provided. Place them on the carrier in the places designated by the auto-configuration. Use your reconnaissance capabilities to find where your enemy's ships are located. You can perform reconnaissance with either your Submarine or your Recon Plane. Your Sub can scan a 3x3 grid for a target. Press \"Scan\" and then the Submarine button. Enter the letter-number coordinate of the center of the area you wish to scan, mark your target grid with a blue peg, and then press \"Scan\" again. If 1 of your opponent's ships occupies any portion of that area, you'll hear, \"Sonar system detects enemy craft, precise location unconfirmed,\" and can then surround the blue peg on your target grid with 8 more. If none of the 9 spaces are occupied by an enemy ship, you'll hear, \"Sonar system confirms clear waters,\" and can then mark your target grid with 9 white pegs. Your Recon Planes can pinpoint enemy locations. Choose which plane to send out (\"Recon 1\" for the red plane, \"Recon 2\" for the blue plane) and enter the coordinates to target. Move your plane to that location on your grid. On a subsequent turn, you can scan for enemy vessels by pressing \"Scan\" and choosing 1 of the 2 scan patterns. (Neither allows the plane to scan directly beneath it.) If an enemy vessel is found, you'll hear \"Enemy sighted,\" followed by the coordinates; mark those coordinates with blue pegs and the rest of the pattern with white pegs. If no vessel is found, you'll hear, \"No enemy sighted\"; mark all 4 spaces in the pattern with white pegs. Use your special weapons to increase your chances of hitting an enemy ship. Your Aircraft Carrier, Battleship, Destroyer, and Submarine each has special weaponry that can target multiple spaces. Your Submarine has 2 Torpedoes, which can fire on either a horizontal or vertical line. Press the Submarine button and enter the starting coordinate of the torpedo's path, then the direction. If your Torpedo hits, you'll hear \"Sonar confirms hit at,\" followed by the coordinates; mark those coordinates with a red peg and the rest of the path with a white peg. If it misses, mark the entire path with white pegs. Your Destroyer has 2 Apache Missiles, each of which can target a 3-space horizontal or vertical line. Press the Destroyer button, choose the firing pattern (1 for horizontal, 2 for vertical), and enter the center coordinate of the pattern, then press \"Fire/Enter\" once to confirm and again to fire. You'll hear an explosion if the missile hits something and silence if nothing was hit. Your Aircraft Carrier has 2 Exocet Missiles, each of which can target a 5-space orthogonal (\"+\") or diagonal (\"X\") criss-cross pattern. Press the Aircraft Carrier button, choose the firing pattern (1 for \"X,\" 2 for \"+\"), and enter the center coordinate of the pattern, then press \"Fire/Enter\" once to confirm and again to fire. You'll hear an explosion if the missile hits something and silence if nothing was hit. Your Battleship has 1 Tomahawk missile, which can target a 3x3 grid. Press the Battleship button and enter the center coordinate of the grid pattern, then press \"Fire/Enter\" once to confirm and again to fire. You'll hear an explosion if the missile hits something and silence if nothing was hit. You also have an Anti-aircraft Gun to shoot down your opponent's Recon Planes. Press the Anti-aircraft button, then enter the coordinates where you think the plane is flying. Press \"Fire/Enter\" once to confirm and again to fire. If you hit the plane, you'll hear an explosion followed by \"Bird down! Bird down!\" If you miss, you'll hear \"Target out of range.\" Once both your opponent's Recon Planes are downed or otherwise destroyed, your gun will go dead.",
+  "tyn_model":[
+    "aircraft carrier",
+    "submarine",
+    "ships",
+    "missile",
+    "sonar",
+    "\ufffd plays",
+    "radar",
+    "battleship",
+    "torpedo",
+    "computer",
+    "electronic battleship",
+    "\ufffd you",
+    "\ufffd each",
+    "missiles",
+    "anti-aircraft guns",
+    "reconnaissance planes",
+    "vessels",
+    "\ufffd battleship",
+    "reconnaissance plane",
+    "planes",
+    "recon plane",
+    "sub",
+    "plane",
+    "special weapons",
+    "torpedoes",
+    "destroyer",
+    "apache missiles",
+    "exocet",
+    "tomahawk missile",
+    "anti-aircraft gun",
+    "gun"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "title":"How to Randomize a Pok\u00e9mon Game",
+  "url":"https://www.wikihow.com/Randomize-a-Pok%C3%A9mon-Game",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Games",
+    "Video Games",
+    "Multi Platform Games",
+    "Pokemon Video Games"
+  ],
+  "methods":[
+    {
+      "name":"Randomizing Generations One through Five",
+      "steps":[
+        {
+          "headline":"Make sure that you have a ROM and an emulator.",
+          "description":"In order to randomize a Pok\u00e9mon game, you'll need a ROM for the Pokemon game, and an emulator installed on your Windows or Mac computer is required to play the game. You can download both ROMs and emulators from places like LoveROMS (https://www.loveroms.online/) and EmuParadise (https://www.emuparadise.me/). You cannot randomize a Pok\u00e9mon game while playing on a console or a mobile platform."
+        },
+        {
+          "headline":"Download the Universal Randomizer application.",
+          "description":"Go to http://pokehacks.dabomstew.com/randomizer/downloads.php in your computer's web browser, then click the download link for your operating system (if you're using a Mac, you'll click the Download for all other platforms link). The Universal Randomizer supports randomizing Pok\u00e9mon games from generation one all the way through every game in generation five (e.g., Pok\u00e9mon Black Version 2 and White 2)."
+        },
+        {
+          "headline":"Install the Universal Randomizer application.",
+          "description":"This process will vary slightly depending on whether you're using Windows or a Mac computer:\n\nWindows - Open the downloaded ZIP folder, click Extract, click Extract all, and click Extract. Mac - Make sure that you have the Java JDK installed, then double-click the downloaded ZIP folder and wait for it to extract."
+        },
+        {
+          "headline":"Open Universal Randomizer.",
+          "description":"Double-click the randomizer item inside of the unzipped folder. The Universal Randomizer window will open. On a Mac, the Universal Randomizer is a Java file, meaning that it resembles a coffee cup."
+        },
+        {
+          "headline":"Click Open ROM.",
+          "description":"It's in the upper-right side of the Universal Randomizer window. Clicking it prompts a File Explorer (Windows) or a Finder (Mac) window to open."
+        },
+        {
+          "headline":"Select your ROM.",
+          "description":"Go to the file location of your ROM, then click it to select it."
+        },
+        {
+          "headline":"Click Open.",
+          "description":"It's in the lower-right side of the window. Doing so will import your ROM file into the Universal Randomizer, which will unlock the various randomizer options on the page."
+        },
+        {
+          "headline":"Randomize your preferred aspects of your ROM.",
+          "description":"Checking the \"Random\" or \"Randomize\" box below each Pok\u00e9mon heading will completely randomize the game, while selecting only a few random options will create a more familiar experience. Most randomized aspects allow you to select additional traits. For example, if you choose to randomize the \"Pok\u00e9mon Base Statistics\" section, you can still have the Pokemon progress along their evolution cycles by checking the \"Follow Evolutions\" box."
+        },
+        {
+          "headline":"Click Randomize (Save).",
+          "description":"It's in the upper-right side of the page. Doing so will bring up a save window."
+        },
+        {
+          "headline":"Save your ROM.",
+          "description":"To do so:\nSelect a save location. Enter a file name. Click Save\n\nClick Yes when prompted."
+        },
+        {
+          "headline":"Play your randomized ROM.",
+          "description":"Once your randomized ROM is saved, you can play it like any other ROM file:\nOpen your emulator. Click File\n\nClick Open\n\nDouble-click your ROM."
+        }
+      ]
+    },
+    {
+      "name":"Randomizing Generations Six and Seven",
+      "steps":[
+        {
+          "headline":"Understand how this method works.",
+          "description":"Pok\u00e9mon generations 6 and 7 include games like X, Y, Sun, and Moon, all of which have been notoriously difficult to randomize. Luckily, you can use a randomizer called PK3DS and a tool called PackHack to randomize some aspects of these games. Unfortunately, the PK3DS randomizer is only available for Windows computers."
+        },
+        {
+          "headline":"Make sure that you have an emulator and a ROM.",
+          "description":"You'll need an emulator that is capable of playing 3DS games, such as Citra, and you'll need a 3DS ROM for your preferred Pok\u00e9mon game to go along with your emulator. You can find torrents for 3DS ROMS, but most popular ROM sites don't carry 3DS ROM files that can be downloaded directly. Citra is a popular choice for a 3DS emulator: https://citra-emu.org/"
+        },
+        {
+          "headline":"Download the PK3DS randomizer.",
+          "description":"This randomizer can support most games from Pok\u00e9mon generation 6 and some games from generation 7:\nOpen the PS3DS download link on your computer. Click Log in as guest\n\nClick the Artifacts tab. Click Download all (.zip)"
+        },
+        {
+          "headline":"Extract the PK3DS files.",
+          "description":"To do so:\nRight-click the downloaded ZIP folder. Click Extract All...\n\nClick Extract\n\nDouble-click the pk3DS Build 337 ZIP folder. Click Extract at the top of the window. Click Extract all\n\nClick Extract when prompted."
+        },
+        {
+          "headline":"Download and install Pack Hack.",
+          "description":"This program is necessary in order to save your 3DS ROM as a new, randomized version:\nGo to https://github.com/Asia81/HackingToolkit9DS/releases in your computer's browser. Click PackEnglishV12.rar\n\n\nExtract the Pack Hack RAR file."
+        },
+        {
+          "headline":"Open the PackHack folder.",
+          "description":"Double-click the extracted PackEnglishV12 folder, double-click the only folder inside, and then double-click PackHack."
+        },
+        {
+          "headline":"Place your 3DS file inside of the PackHack folder.",
+          "description":"Copy the 3DS file by clicking it and pressing Ctrl+C, then press Ctrl+V while in the PackHack folder."
+        },
+        {
+          "headline":"Double-click SetupUS.",
+          "description":"It's in the PackHack folder. Doing so will prompt the 3DS file to begin extracting."
+        },
+        {
+          "headline":"Copy the entire folder's files.",
+          "description":"When the setup is done running, click one file, press Ctrl+A, and press Ctrl+C to copy everything that's in the PackHack folder."
+        },
+        {
+          "headline":"Paste the files into a new folder.",
+          "description":"Create a new folder in the same place as the extracted PackEnglishV12 folder (e.g., the Desktop), open the new folder, and press Ctrl+V."
+        },
+        {
+          "headline":"Open PD3DS.",
+          "description":"Double-click the pk3DS application file to do so. The PK3DS program window will open. If you see a pop-up window alerting you that PK3DS is an \"unknown program\", click More info, then click Run anyway at the bottom of the window."
+        },
+        {
+          "headline":"Click File.",
+          "description":"It's in the top-left corner of the window. A drop-down menu will appear."
+        },
+        {
+          "headline":"Click Open.",
+          "description":"You'll see this option in the drop-down menu."
+        },
+        {
+          "headline":"Open the new folder that you just made.",
+          "description":"Double-click the new folder to do so."
+        },
+        {
+          "headline":"Select your ROM.",
+          "description":"Click the 3DS game here."
+        },
+        {
+          "headline":"Click OK or Open.",
+          "description":"Your selected ROM will open in the PK3DS emulator."
+        },
+        {
+          "headline":"Randomize your game.",
+          "description":"Once you've opened the 3DS ROM in PK3DS, you can randomize specific attributes for the game in question by selecting a tab at the top of the window (e.g., ExeFS), selecting an attribute (e.g., Shiny Rate), and modifying your preferred options in the resulting pop-up window."
+        },
+        {
+          "headline":"Leave PK3DS open when saving your file.",
+          "description":"You'll need to do a couple of things in order to save your 3DS file as a randomized game, so make sure that you don't close PK3DS during this time."
+        },
+        {
+          "headline":"Copy the new folder's extracted ROM folder.",
+          "description":"Open the folder that you created, click the ExtractedRomFS folder, and press Ctrl+C."
+        },
+        {
+          "headline":"Paste the file into the PackHack folder.",
+          "description":"Re-open the PackHack folder that's inside of the PackEnglishV12 folder, then press Ctrl+V and choose to replace the conflicting file name."
+        },
+        {
+          "headline":"Double-click the HackingToolkit option.",
+          "description":"It's in the PackHack folder. This will open a Command Prompt window."
+        },
+        {
+          "headline":"Rebuild the Pok\u00e9mon 3DS file.",
+          "description":"Do the following in the Command Prompt window:\nType d and press \u21b5 Enter\n\nType in a unique, one-word name (no spaces) for your Pokemon ROM, then press \u21b5 Enter. Press any key when prompted."
+        },
+        {
+          "headline":"Play your randomized ROM.",
+          "description":"Once the rebuilding is complete, you can open the randomized 3DS file in your preferred emulator."
+        }
+      ]
+    }
+  ],
+  "text":" Randomizing Generations One through Five Make sure that you have a ROM and an emulator. In order to randomize a Pok\u00e9mon game, you'll need a ROM for the Pokemon game, and an emulator installed on your Windows or Mac computer is required to play the game. You can download both ROMs and emulators from places like LoveROMS (https://www.loveroms.online/) and EmuParadise (https://www.emuparadise.me/). You cannot randomize a Pok\u00e9mon game while playing on a console or a mobile platform. Download the Universal Randomizer application. Go to http://pokehacks.dabomstew.com/randomizer/downloads.php in your computer's web browser, then click the download link for your operating system (if you're using a Mac, you'll click the Download for all other platforms link). The Universal Randomizer supports randomizing Pok\u00e9mon games from generation one all the way through every game in generation five (e.g., Pok\u00e9mon Black Version 2 and White 2). Install the Universal Randomizer application. This process will vary slightly depending on whether you're using Windows or a Mac computer:\n\nWindows - Open the downloaded ZIP folder, click Extract, click Extract all, and click Extract. Mac - Make sure that you have the Java JDK installed, then double-click the downloaded ZIP folder and wait for it to extract. Open Universal Randomizer. Double-click the randomizer item inside of the unzipped folder. The Universal Randomizer window will open. On a Mac, the Universal Randomizer is a Java file, meaning that it resembles a coffee cup. Click Open ROM. It's in the upper-right side of the Universal Randomizer window. Clicking it prompts a File Explorer (Windows) or a Finder (Mac) window to open. Select your ROM. Go to the file location of your ROM, then click it to select it. Click Open. It's in the lower-right side of the window. Doing so will import your ROM file into the Universal Randomizer, which will unlock the various randomizer options on the page. Randomize your preferred aspects of your ROM. Checking the \"Random\" or \"Randomize\" box below each Pok\u00e9mon heading will completely randomize the game, while selecting only a few random options will create a more familiar experience. Most randomized aspects allow you to select additional traits. For example, if you choose to randomize the \"Pok\u00e9mon Base Statistics\" section, you can still have the Pokemon progress along their evolution cycles by checking the \"Follow Evolutions\" box. Click Randomize (Save). It's in the upper-right side of the page. Doing so will bring up a save window. Save your ROM. To do so:\nSelect a save location. Enter a file name. Click Save\n\nClick Yes when prompted. Play your randomized ROM. Once your randomized ROM is saved, you can play it like any other ROM file:\nOpen your emulator. Click File\n\nClick Open\n\nDouble-click your ROM. Randomizing Generations Six and Seven Understand how this method works. Pok\u00e9mon generations 6 and 7 include games like X, Y, Sun, and Moon, all of which have been notoriously difficult to randomize. Luckily, you can use a randomizer called PK3DS and a tool called PackHack to randomize some aspects of these games. Unfortunately, the PK3DS randomizer is only available for Windows computers. Make sure that you have an emulator and a ROM. You'll need an emulator that is capable of playing 3DS games, such as Citra, and you'll need a 3DS ROM for your preferred Pok\u00e9mon game to go along with your emulator. You can find torrents for 3DS ROMS, but most popular ROM sites don't carry 3DS ROM files that can be downloaded directly. Citra is a popular choice for a 3DS emulator: https://citra-emu.org/ Download the PK3DS randomizer. This randomizer can support most games from Pok\u00e9mon generation 6 and some games from generation 7:\nOpen the PS3DS download link on your computer. Click Log in as guest\n\nClick the Artifacts tab. Click Download all (.zip) Extract the PK3DS files. To do so:\nRight-click the downloaded ZIP folder. Click Extract All...\n\nClick Extract\n\nDouble-click the pk3DS Build 337 ZIP folder. Click Extract at the top of the window. Click Extract all\n\nClick Extract when prompted. Download and install Pack Hack. This program is necessary in order to save your 3DS ROM as a new, randomized version:\nGo to https://github.com/Asia81/HackingToolkit9DS/releases in your computer's browser. Click PackEnglishV12.rar\n\n\nExtract the Pack Hack RAR file. Open the PackHack folder. Double-click the extracted PackEnglishV12 folder, double-click the only folder inside, and then double-click PackHack. Place your 3DS file inside of the PackHack folder. Copy the 3DS file by clicking it and pressing Ctrl+C, then press Ctrl+V while in the PackHack folder. Double-click SetupUS. It's in the PackHack folder. Doing so will prompt the 3DS file to begin extracting. Copy the entire folder's files. When the setup is done running, click one file, press Ctrl+A, and press Ctrl+C to copy everything that's in the PackHack folder. Paste the files into a new folder. Create a new folder in the same place as the extracted PackEnglishV12 folder (e.g., the Desktop), open the new folder, and press Ctrl+V. Open PD3DS. Double-click the pk3DS application file to do so. The PK3DS program window will open. If you see a pop-up window alerting you that PK3DS is an \"unknown program\", click More info, then click Run anyway at the bottom of the window. Click File. It's in the top-left corner of the window. A drop-down menu will appear. Click Open. You'll see this option in the drop-down menu. Open the new folder that you just made. Double-click the new folder to do so. Select your ROM. Click the 3DS game here. Click OK or Open. Your selected ROM will open in the PK3DS emulator. Randomize your game. Once you've opened the 3DS ROM in PK3DS, you can randomize specific attributes for the game in question by selecting a tab at the top of the window (e.g., ExeFS), selecting an attribute (e.g., Shiny Rate), and modifying your preferred options in the resulting pop-up window. Leave PK3DS open when saving your file. You'll need to do a couple of things in order to save your 3DS file as a randomized game, so make sure that you don't close PK3DS during this time. Copy the new folder's extracted ROM folder. Open the folder that you created, click the ExtractedRomFS folder, and press Ctrl+C. Paste the file into the PackHack folder. Re-open the PackHack folder that's inside of the PackEnglishV12 folder, then press Ctrl+V and choose to replace the conflicting file name. Double-click the HackingToolkit option. It's in the PackHack folder. This will open a Command Prompt window. Rebuild the Pok\u00e9mon 3DS file. Do the following in the Command Prompt window:\nType d and press \u21b5 Enter\n\nType in a unique, one-word name (no spaces) for your Pokemon ROM, then press \u21b5 Enter. Press any key when prompted. Play your randomized ROM. Once the rebuilding is complete, you can open the randomized 3DS file in your preferred emulator.",
+  "tyn_model":[
+    "emulator",
+    "universal randomizer",
+    "3ds rom",
+    "3ds file",
+    "citra",
+    "command prompt",
+    "\u21b5 enter",
+    "emulators",
+    "java jdk",
+    "mac",
+    "file explorer",
+    "pokemon",
+    "pok\u00e9mon",
+    "rom",
+    "3ds emulator",
+    "pack hack",
+    "3ds game",
+    "pk3ds emulator"
+  ],
+  "tyn_section":[
+
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title":"How to Make a Simple Proximity Sensor Using Arduino",
+  "url":"https://www.wikihow.com/Make-a-Simple-Proximity-Sensor-Using-Arduino",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Home Maintenance",
+    "Electrical Maintenance"
+  ],
+  "steps":[
+    {
+      "headline":"Start off by setting aside the required materials",
+      "description":""
+    },
+    {
+      "headline":"Prepare the IR LED by cutting a small piece of the electric tape and then wrapping it around the LED to form a tube as shown above.",
+      "description":""
+    },
+    {
+      "headline":"Using the breadboard, jumper wires, resistor & LED's set up connection as follows.",
+      "description":"Connect the resistor from 5v to the positive( big pin) on the IR receiver. Connect all the IR LEDs to the 3.3v pin on the Arduino. Connect a jumper from A0 on the Arduino to the positive leg on the IR receiver. Connect all of the negatives of both the receiver and the LEDs to the GND on Arduino. Make sure none of the wires or LEDs are shorting as LEDs are very sensitive and can burn."
+    },
+    {
+      "headline":"Build your code.",
+      "description":"This is a simple code that will print out the IR data on your computer screen, these variables can then be used to control almost anything. This code will allow for a simple analog read of the IR sensor. int IRreceiver = A0; // initialize{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/45\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\\/v4-459px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/45\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\\/aid5882045-v4-728px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":334,\"bigWidth\":\"728\",\"bigHeight\":\"529\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nint IRval;{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/0\\/01\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\\/v4-459px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/0\\/01\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\\/aid5882045-v4-728px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":334,\"bigWidth\":\"728\",\"bigHeight\":\"529\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nvoid setup()\n{\npinMode(IRreceiver, INPUT); // declare its an input\nSerial.begin(9600); // speed at which the communication will happen\n}\nvoid loop()\n{\nint IRval= analogRead(IRreceiver); // declare data\n\nSerial.println(IRval); // print the data\ndelay(10); }    // add a delay to smoothen things out"
+    },
+    {
+      "headline":"Make sure all the connections are safe and then upload the code to your Arduino.",
+      "description":"After it's uploaded bring up the serial communication."
+    },
+    {
+      "headline":"Examine the data.",
+      "description":"The data should vary as the distance between the sensor and the object varies."
+    },
+    {
+      "headline":"Finished.",
+      "description":""
+    }
+  ],
+  "text":" Start off by setting aside the required materials  Prepare the IR LED by cutting a small piece of the electric tape and then wrapping it around the LED to form a tube as shown above.  Using the breadboard, jumper wires, resistor & LED's set up connection as follows. Connect the resistor from 5v to the positive( big pin) on the IR receiver. Connect all the IR LEDs to the 3.3v pin on the Arduino. Connect a jumper from A0 on the Arduino to the positive leg on the IR receiver. Connect all of the negatives of both the receiver and the LEDs to the GND on Arduino. Make sure none of the wires or LEDs are shorting as LEDs are very sensitive and can burn. Build your code. This is a simple code that will print out the IR data on your computer screen, these variables can then be used to control almost anything. This code will allow for a simple analog read of the IR sensor. int IRreceiver = A0; // initialize{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/4\\/45\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\\/v4-459px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/4\\/45\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\\/aid5882045-v4-728px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-5-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":334,\"bigWidth\":\"728\",\"bigHeight\":\"529\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nint IRval;{\"smallUrl\":\"https:\\/\\/www.wikihow.com\\/images\\/thumb\\/0\\/01\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\\/v4-459px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\",\"bigUrl\":\"\\/images\\/thumb\\/0\\/01\\/Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\\/aid5882045-v4-728px-Make-a-Simple-Proximity-Sensor-Using-Arduino-Step-6-Version-2.jpg\",\"smallWidth\":460,\"smallHeight\":334,\"bigWidth\":\"728\",\"bigHeight\":\"529\",\"licensing\":\"<div class=\\\"mw-parser-output\\\"><p>License: <a rel=\\\"nofollow\\\" class=\\\"external text\\\" href=\\\"https:\\/\\/creativecommons.org\\/licenses\\/by-nc-sa\\/3.0\\/\\\">Creative Commons<\\/a><br>\\n<\\/p><p><br \\/>\\n<\\/p><\\/div>\"}\n\nvoid setup()\n{\npinMode(IRreceiver, INPUT); // declare its an input\nSerial.begin(9600); // speed at which the communication will happen\n}\nvoid loop()\n{\nint IRval= analogRead(IRreceiver); // declare data\n\nSerial.println(IRval); // print the data\ndelay(10); }    // add a delay to smoothen things out Make sure all the connections are safe and then upload the code to your Arduino. After it's uploaded bring up the serial communication. Examine the data. The data should vary as the distance between the sensor and the object varies. Finished. ",
+  "tyn_model":[
+    "arduino",
+    "proximity-",
+    "resistor",
+    "ir receiver",
+    "parser",
+    "ir led",
+    "electric tape",
+    "breadboard",
+    "jumper wires",
+    "led",
+    "ir leds",
+    "jumper",
+    "leds",
+    "ir sensor",
+    "arduino-",
+    "serial",
+    "sensor"
+  ],
+  "tyn_section":[
+
+  ]
+}

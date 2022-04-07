@@ -1,0 +1,217 @@
+{
+  "title":"How to Open a Lock",
+  "url":"https://www.wikihow.com/Open-a-Lock",
+  "category_hierarchy":[
+    "Home and Garden",
+    "Disaster Preparedness"
+  ],
+  "methods":[
+    {
+      "name":"Opening a Combination Lock",
+      "steps":[
+        {
+          "headline":"Recognize combination locks.",
+          "description":"Combination locks require that you input in a series of numbers in the correct order to open the lock. They usually feature dials with numbers from 0-60 or 100, and you need to spin the dial to get the lock to open."
+        },
+        {
+          "headline":"Find the combination.",
+          "description":"Usually, the combination is on a sticker or engraved in the back of the lock. If you cannot find the combination, you will not be able to open the lock unless you can figure out the numbers or break the lock. As an example, this tutorial will solve for the combination 5 - 45 - 20"
+        },
+        {
+          "headline":"Turn the dial clockwise 3 times.",
+          "description":"This \"resets\" the dial, allowing you to input your combination."
+        },
+        {
+          "headline":"Turn the dial clockwise to your first number.",
+          "description":"Line up the first number in your combination with the small arrow on the top of the lock. In this case, stop on 5."
+        },
+        {
+          "headline":"Turn the dial counter-clockwise back to your first number.",
+          "description":"Turn the dial one full rotation, returning to your first number. Make sure your turn -counter-clockwise. You will pass your second number while spinning, but this is intentional. For this example, you would return back to 5."
+        },
+        {
+          "headline":"Keep turning counter-clockwise to your second number.",
+          "description":"After making the first full rotation, keep turning the same direction until you reach your second number. Here you would turn all the way to 45."
+        },
+        {
+          "headline":"Turn the dial clockwise to the final number.",
+          "description":"After landing on your second number, simply turn the dial to your last number, here 20. This completes your combination."
+        },
+        {
+          "headline":"Pull up on the U-shaped lock to open it.",
+          "description":"Once you've successfully input your combination the lock should easily come off. To review:\nSpin the dial 3 times clockwise, landing on your first number. Spin the dial counterclockwise 1 full rotation before landing on your second number. Spin the dial clockwise to your final number. Open the lock."
+        },
+        {
+          "headline":"Open multiple-dial locks by turning each dial individually.",
+          "description":"Some combination locks feature multiple dials with the numbers 0-9. To open one, simply turn each dial to create the correct combination. For example, if the combination is 1492, turn the first dial to 1, the second to 4, the third to 9, and the last to 2. The first number is almost always on the dial closest to the lock."
+        }
+      ]
+    },
+    {
+      "name":"Figuring out a Lost Combination",
+      "steps":[
+        {
+          "headline":"Know that you can cut down the number of tries needed to guess a combination lock.",
+          "description":"A classic MasterLock has 64,000 possible combinations, but with a few simple tricks and a web-based algorithm you can crack the code in fewer than 8 guesses."
+        },
+        {
+          "headline":"Set the dial to 0.",
+          "description":"Start with the triangle pointing down to 0 on the dial. It does not matter which way you turn to get there."
+        },
+        {
+          "headline":"Put pressure on the lock as if you were trying to open it.",
+          "description":"Pull on the U-lock as if you had put in the right combination and wanted to open the lock."
+        },
+        {
+          "headline":"Turn the dial clockwise until it \"sticks.\"",
+          "description":"As you turn the dial, you'll reach a point where the dial gets stuck. It will only move between two close points, either between two numbers (like 10 and 11) or between two half numbers (like 2.5 and 3.5). Write down the number in between the grooves as your first sticking point. For example, if you are stuck between 2.5 and 3.5, right down 3 as your first sticking point. If this number is a half number, like 1.5 (sticking point is between 1 and 2), ignore it. Release the lock to turn the dial and repeat this step until you find the next sticking point. This number will be under 11."
+        },
+        {
+          "headline":"Keep turning with the lock pulled tight to find the second sticking point.",
+          "description":"Repeat the previous step, holding the lock as if you were opening it and turning the dial until it sticks. Record the number in between the sticking points -- if you are stuck between 4.5 and 5.5, your second sticking point is 5. Like before, ignore half-sticking points (2.5, 9.5) and continue until you have a whole number. This number will also be below 11."
+        },
+        {
+          "headline":"Loosen your pressure on the lock.",
+          "description":"Put about half as much pressure as before on the top of the lock as before. You are completely trying to pry it open, but you are putting some pressure on it as if you were opening the U on top of the lock."
+        },
+        {
+          "headline":"Turn the dial counter-clockwise until you feel resistance.",
+          "description":"You will be able to turn past this number, but you'll feel the dial slow down as it passes this point. Record this number as the resistance point. You can turn the dial past this resistance point multiple times, all counter-clockwise, to make sure you feel resistance in the same place each time."
+        },
+        {
+          "headline":"Input your first and second sticking point and resistance point into an online calculator.",
+          "description":"While you can do some basic math to figure out the exact location by hand, online hackers have posted a free algorithm to determine the 8 potential combinations for your lock online. This calculator will give you two potential sticking points to test out."
+        },
+        {
+          "headline":"Try out a \"third digit\" provided by the computer.",
+          "description":"The online algorithm will provide the first digit for you and offer two potential third digits at the bottom. Turn to the first one to test it out. If one of the third digits is \"15,\" go to 15 on the dial."
+        },
+        {
+          "headline":"Pull hard on the lock as if you were opening it.",
+          "description":"With the dial on the potential digit, pull hard on the lock. Note how much resistance the lock gives."
+        },
+        {
+          "headline":"Turn to the other possible third digit and pull on the lock.",
+          "description":"Do the same thing with the second potential digit. Compare this with the resistance from the first number -- one of them should be much easier to pull on then the other."
+        },
+        {
+          "headline":"Choose the third digit that offered the least resistance.",
+          "description":"You can check them multiple times, but one number will provide noticeably less resistance when you pull on the lock. Click on this digit in the algorithm online. You should see the box labeled \"second digit\" fill up with 8 possible numbers."
+        },
+        {
+          "headline":"Try out all 8 potential combinations.",
+          "description":"Now that you have your 8 possible combinations, the only thing to do is try them all out. The first and last number will all be the same, but try out every one of the possible middle digits to get the lock open."
+        }
+      ]
+    },
+    {
+      "name":"Opening a Key Lock",
+      "steps":[
+        {
+          "headline":"Insert the key and turn it.",
+          "description":"Most locks turn clockwise to open, but try turning counter-clockwise if this doesn't work. As long as you have the correct key you will hear a faint \"click\" and the door will open. If the door does not open, you likely have the wrong key."
+        },
+        {
+          "headline":"Try picking the lock if you do not have a key.",
+          "description":"Lock picking works on any traditional pin lock. f you can use a key to open the lock, you can pick it."
+        },
+        {
+          "headline":"Pick up a basic lock picking set.",
+          "description":"You will need two tools -- a torque wrench and a pick. In a pinch, resourceful locksmiths have used bobby pins, paper clips, and butter knives as well. However, the easiest way to pick a lock is with a professional kit, which can be found cheaply online. Try using a flathead screwdriver, butter knife, or small Allen key if you do not have a torque wrench. Anything small enough to fit in the keyhole but sturdy enough not to break. Try using a bobby pin or paperclip if you cannot get a pick. Simply straighten them and use pliers to angle the last half a centimeter up 90 degrees."
+        },
+        {
+          "headline":"Look into the lock.",
+          "description":"You should see several \"pins,\" which are small metal cylinders that keep the lock in place. The grooves on a key are made to push all of these pins up into the right place, allowing you to turn the key. When you pick a lock, however, you use your pick to manually push each pin out of the way."
+        },
+        {
+          "headline":"Insert the torque wrench into the bottom of the lock.",
+          "description":"You want to wedge it lightly into the bottom of the lock so it is only a few centimeters deep."
+        },
+        {
+          "headline":"Turn the torque wrench like you were opening the lock.",
+          "description":"Act as if you were using a key, using light pressure to turn the lock. It will not go very far, but keep this pressure on the lock as you work."
+        },
+        {
+          "headline":"Insert your pick and feel the pins.",
+          "description":"Using your pin, feel each of the pins in the lock. You should be able to move them up individually,"
+        },
+        {
+          "headline":"Push up on one of the pins with your pick, maintaining pressure with the torque wrench.",
+          "description":"You easily push the pins up with your pick. To make them stay, however, you need to use your torque wrench to keep turning the lock so it doesn't slide back into place."
+        },
+        {
+          "headline":"Vary the pressure with your torque wrench if the pins don't move.",
+          "description":"When you push each pin up, the subtle turning of the torque wrench prevents them from sliding back into place. If the pins don't stay up when you push them, add more pressure the torque wrench. If they are too difficult to push up, apply less pressure. This is the \"art\" of lock picking, and takes some practice. Each lock is a little different, and you'll need to feel out how much pressure is correct as you work."
+        },
+        {
+          "headline":"Repeat this step with every pin.",
+          "description":"Keep up your pressure with torque wrench as you push up each pin."
+        },
+        {
+          "headline":"Once you've gotten every pin up, turn the torque wrench.",
+          "description":"The pins are what keep the lock from moving, but with every pin out of the way you'll be able to turn the lock freely."
+        },
+        {
+          "headline":"Call a locksmith if you still can't get into your door.",
+          "description":"Locksmiths are professionals who can open almost any door. Make sure, however, that you can prove that the lock they are breaking belongs to you, or they may not provide service."
+        }
+      ]
+    },
+    {
+      "name":"Opening Car Locks without a Key",
+      "steps":[
+        {
+          "headline":"Know that you can manually open some car doors.",
+          "description":"The following techniques only work on older cars that don't use electronic locking. If your car doors have small knobs or rods that move up and down when you lock the car you should be able to get the door open without a key."
+        },
+        {
+          "headline":"Pry open the door with a screwdriver and push the unlock button.",
+          "description":"Known as the \"screw and rod\" technique, this can damage your car if you are not careful. Since the locking mechanism is usually on the middle of the door, you can pry open the top part of the door with a screwdriver and use a long rod to push the unlock button. Pry open the top of the door with a flathead screwdriver. Take a metal rod or yardstick and stick it into the space you between the car and the door. Use the rod to press the \"unlock\" button on your door. This technique often works for newer cars as well."
+        },
+        {
+          "headline":"Use a clothes-hanger to open your door manually.",
+          "description":"Pull apart the clothes hanger so that you have a long wire with the hook at the end. You can use this hook to manually pull up the lock on your car door. Stick the hook end of the hanger between weather-stripping and the bottom of the window, lining the end of the hook up with the knob of the lock. Stick the hook down and feel around for the lock -- it will feel like a vertical rod sticking up from the keyhole to the lock inside the car. Get your hook under this rod and pull up to release the lock. This may take some time, especially if you are inexperienced, but it will work in a pinch. \"Slim-Jims\" are professional hooks made for this purpose. They are the long, slender tools seen in carjackers on movies and TV."
+        },
+        {
+          "headline":"Unlock your car with your shoelace.",
+          "description":"This strategy only works on cars that have a visible knob that unlocks the door. Still, it is quick, easy, and efficient. To open your car with a shoelace:\nCreate a slipknot in the middle of your lace. Get the lace inside the car by threading it between the door and the car frame. Think of \"flossing\" the space between your door and the car. Hook the loop in the middle of your lace around the locking mechanism. Tighten the lace around the lock by pulling on both ends. Pull the lock upwards to unlock your car."
+        },
+        {
+          "headline":"Call AAA if you cannot get into your car.",
+          "description":"If you have an AAA membership you may be entitled to a free or discounted visit from a locksmith. Be sure to call and ask about the price and how soon someone can come help you."
+        }
+      ]
+    }
+  ],
+  "text":" Opening a Combination Lock Recognize combination locks. Combination locks require that you input in a series of numbers in the correct order to open the lock. They usually feature dials with numbers from 0-60 or 100, and you need to spin the dial to get the lock to open. Find the combination. Usually, the combination is on a sticker or engraved in the back of the lock. If you cannot find the combination, you will not be able to open the lock unless you can figure out the numbers or break the lock. As an example, this tutorial will solve for the combination 5 - 45 - 20 Turn the dial clockwise 3 times. This \"resets\" the dial, allowing you to input your combination. Turn the dial clockwise to your first number. Line up the first number in your combination with the small arrow on the top of the lock. In this case, stop on 5. Turn the dial counter-clockwise back to your first number. Turn the dial one full rotation, returning to your first number. Make sure your turn -counter-clockwise. You will pass your second number while spinning, but this is intentional. For this example, you would return back to 5. Keep turning counter-clockwise to your second number. After making the first full rotation, keep turning the same direction until you reach your second number. Here you would turn all the way to 45. Turn the dial clockwise to the final number. After landing on your second number, simply turn the dial to your last number, here 20. This completes your combination. Pull up on the U-shaped lock to open it. Once you've successfully input your combination the lock should easily come off. To review:\nSpin the dial 3 times clockwise, landing on your first number. Spin the dial counterclockwise 1 full rotation before landing on your second number. Spin the dial clockwise to your final number. Open the lock. Open multiple-dial locks by turning each dial individually. Some combination locks feature multiple dials with the numbers 0-9. To open one, simply turn each dial to create the correct combination. For example, if the combination is 1492, turn the first dial to 1, the second to 4, the third to 9, and the last to 2. The first number is almost always on the dial closest to the lock. Figuring out a Lost Combination Know that you can cut down the number of tries needed to guess a combination lock. A classic MasterLock has 64,000 possible combinations, but with a few simple tricks and a web-based algorithm you can crack the code in fewer than 8 guesses. Set the dial to 0. Start with the triangle pointing down to 0 on the dial. It does not matter which way you turn to get there. Put pressure on the lock as if you were trying to open it. Pull on the U-lock as if you had put in the right combination and wanted to open the lock. Turn the dial clockwise until it \"sticks.\" As you turn the dial, you'll reach a point where the dial gets stuck. It will only move between two close points, either between two numbers (like 10 and 11) or between two half numbers (like 2.5 and 3.5). Write down the number in between the grooves as your first sticking point. For example, if you are stuck between 2.5 and 3.5, right down 3 as your first sticking point. If this number is a half number, like 1.5 (sticking point is between 1 and 2), ignore it. Release the lock to turn the dial and repeat this step until you find the next sticking point. This number will be under 11. Keep turning with the lock pulled tight to find the second sticking point. Repeat the previous step, holding the lock as if you were opening it and turning the dial until it sticks. Record the number in between the sticking points -- if you are stuck between 4.5 and 5.5, your second sticking point is 5. Like before, ignore half-sticking points (2.5, 9.5) and continue until you have a whole number. This number will also be below 11. Loosen your pressure on the lock. Put about half as much pressure as before on the top of the lock as before. You are completely trying to pry it open, but you are putting some pressure on it as if you were opening the U on top of the lock. Turn the dial counter-clockwise until you feel resistance. You will be able to turn past this number, but you'll feel the dial slow down as it passes this point. Record this number as the resistance point. You can turn the dial past this resistance point multiple times, all counter-clockwise, to make sure you feel resistance in the same place each time. Input your first and second sticking point and resistance point into an online calculator. While you can do some basic math to figure out the exact location by hand, online hackers have posted a free algorithm to determine the 8 potential combinations for your lock online. This calculator will give you two potential sticking points to test out. Try out a \"third digit\" provided by the computer. The online algorithm will provide the first digit for you and offer two potential third digits at the bottom. Turn to the first one to test it out. If one of the third digits is \"15,\" go to 15 on the dial. Pull hard on the lock as if you were opening it. With the dial on the potential digit, pull hard on the lock. Note how much resistance the lock gives. Turn to the other possible third digit and pull on the lock. Do the same thing with the second potential digit. Compare this with the resistance from the first number -- one of them should be much easier to pull on then the other. Choose the third digit that offered the least resistance. You can check them multiple times, but one number will provide noticeably less resistance when you pull on the lock. Click on this digit in the algorithm online. You should see the box labeled \"second digit\" fill up with 8 possible numbers. Try out all 8 potential combinations. Now that you have your 8 possible combinations, the only thing to do is try them all out. The first and last number will all be the same, but try out every one of the possible middle digits to get the lock open. Opening a Key Lock Insert the key and turn it. Most locks turn clockwise to open, but try turning counter-clockwise if this doesn't work. As long as you have the correct key you will hear a faint \"click\" and the door will open. If the door does not open, you likely have the wrong key. Try picking the lock if you do not have a key. Lock picking works on any traditional pin lock. f you can use a key to open the lock, you can pick it. Pick up a basic lock picking set. You will need two tools -- a torque wrench and a pick. In a pinch, resourceful locksmiths have used bobby pins, paper clips, and butter knives as well. However, the easiest way to pick a lock is with a professional kit, which can be found cheaply online. Try using a flathead screwdriver, butter knife, or small Allen key if you do not have a torque wrench. Anything small enough to fit in the keyhole but sturdy enough not to break. Try using a bobby pin or paperclip if you cannot get a pick. Simply straighten them and use pliers to angle the last half a centimeter up 90 degrees. Look into the lock. You should see several \"pins,\" which are small metal cylinders that keep the lock in place. The grooves on a key are made to push all of these pins up into the right place, allowing you to turn the key. When you pick a lock, however, you use your pick to manually push each pin out of the way. Insert the torque wrench into the bottom of the lock. You want to wedge it lightly into the bottom of the lock so it is only a few centimeters deep. Turn the torque wrench like you were opening the lock. Act as if you were using a key, using light pressure to turn the lock. It will not go very far, but keep this pressure on the lock as you work. Insert your pick and feel the pins. Using your pin, feel each of the pins in the lock. You should be able to move them up individually, Push up on one of the pins with your pick, maintaining pressure with the torque wrench. You easily push the pins up with your pick. To make them stay, however, you need to use your torque wrench to keep turning the lock so it doesn't slide back into place. Vary the pressure with your torque wrench if the pins don't move. When you push each pin up, the subtle turning of the torque wrench prevents them from sliding back into place. If the pins don't stay up when you push them, add more pressure the torque wrench. If they are too difficult to push up, apply less pressure. This is the \"art\" of lock picking, and takes some practice. Each lock is a little different, and you'll need to feel out how much pressure is correct as you work. Repeat this step with every pin. Keep up your pressure with torque wrench as you push up each pin. Once you've gotten every pin up, turn the torque wrench. The pins are what keep the lock from moving, but with every pin out of the way you'll be able to turn the lock freely. Call a locksmith if you still can't get into your door. Locksmiths are professionals who can open almost any door. Make sure, however, that you can prove that the lock they are breaking belongs to you, or they may not provide service. Opening Car Locks without a Key Know that you can manually open some car doors. The following techniques only work on older cars that don't use electronic locking. If your car doors have small knobs or rods that move up and down when you lock the car you should be able to get the door open without a key. Pry open the door with a screwdriver and push the unlock button. Known as the \"screw and rod\" technique, this can damage your car if you are not careful. Since the locking mechanism is usually on the middle of the door, you can pry open the top part of the door with a screwdriver and use a long rod to push the unlock button. Pry open the top of the door with a flathead screwdriver. Take a metal rod or yardstick and stick it into the space you between the car and the door. Use the rod to press the \"unlock\" button on your door. This technique often works for newer cars as well. Use a clothes-hanger to open your door manually. Pull apart the clothes hanger so that you have a long wire with the hook at the end. You can use this hook to manually pull up the lock on your car door. Stick the hook end of the hanger between weather-stripping and the bottom of the window, lining the end of the hook up with the knob of the lock. Stick the hook down and feel around for the lock -- it will feel like a vertical rod sticking up from the keyhole to the lock inside the car. Get your hook under this rod and pull up to release the lock. This may take some time, especially if you are inexperienced, but it will work in a pinch. \"Slim-Jims\" are professional hooks made for this purpose. They are the long, slender tools seen in carjackers on movies and TV. Unlock your car with your shoelace. This strategy only works on cars that have a visible knob that unlocks the door. Still, it is quick, easy, and efficient. To open your car with a shoelace:\nCreate a slipknot in the middle of your lace. Get the lace inside the car by threading it between the door and the car frame. Think of \"flossing\" the space between your door and the car. Hook the loop in the middle of your lace around the locking mechanism. Tighten the lace around the lock by pulling on both ends. Pull the lock upwards to unlock your car. Call AAA if you cannot get into your car. If you have an AAA membership you may be entitled to a free or discounted visit from a locksmith. Be sure to call and ask about the price and how soon someone can come help you.",
+  "tyn_model":[
+    "torque wrench",
+    "dial",
+    "pick",
+    "lock picking",
+    "calculator",
+    "flathead screwdriver",
+    "locksmith",
+    "screwdriver",
+    "shoelace",
+    "lace",
+    "computer",
+    "bobby pins",
+    "butter knives",
+    "butter knife",
+    "small allen key",
+    "bobby pin",
+    "pliers",
+    "wrench",
+    "metal rod",
+    "clothes-hanger",
+    "clothes hanger",
+    "hanger",
+    "weather-",
+    "hook",
+    "hooks"
+  ],
+  "tyn_section":[
+
+  ]
+}

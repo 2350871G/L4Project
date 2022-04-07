@@ -1,0 +1,49 @@
+{
+  "title":"How to View Your Liked Photos on 500px Without a Paid Account",
+  "url":"https://www.wikihow.com/View-Your-Liked-Photos-on-500px-Without-a-Paid-Account",
+  "category_hierarchy":[
+    "Hobbies and Crafts",
+    "Photography"
+  ],
+  "steps":[
+    {
+      "headline":"Log in to your 500px account.",
+      "description":"Open Google Chrome or a Chromium-based browser on your computer and navigate to 500px.com. Use your username or email and password to log in to your account. Go to 500px.com/login to directly access the log-in page."
+    },
+    {
+      "headline":"Navigate your liked photos.",
+      "description":"Move the mouse cursor to your profile picture at the top left side of the page and select My Liked Photos from the drop-down list. You can also view this page by visiting 500px.com/liked."
+    },
+    {
+      "headline":"Open \"Developer Tools\" in your browser.",
+      "description":"In Chrome, click on the \u22ee > More Tools > Developer Tools, or press Ctrl+\u21e7 Shift+I on your keyboard. In other browsers, the process is a little different, but usually you can find Inspect Element by right-clicking on an element and selecting that option from the menu that pops up."
+    },
+    {
+      "headline":"Select the \"Element Picker Tool\".",
+      "description":"Just click on the arrow mark icon from the Developer Tool. It will be the first tool in there."
+    },
+    {
+      "headline":"Select the black transparent side of the 500px page with that tool.",
+      "description":"When you click on the black overlay with Element Picker Tool, you will see the elements on the Developer Tool that you want to edit."
+    },
+    {
+      "headline":"Right-click on the highlighted elements.",
+      "description":"Select Delete element from the options. Alternatively, select the elements and hit the \"Delete\" button on your keyboard."
+    },
+    {
+      "headline":"Finished.",
+      "description":"Close the Developer Tools by clicking on the X icon from there and click on each image to enlarge it. Done!"
+    }
+  ],
+  "text":" Log in to your 500px account. Open Google Chrome or a Chromium-based browser on your computer and navigate to 500px.com. Use your username or email and password to log in to your account. Go to 500px.com/login to directly access the log-in page. Navigate your liked photos. Move the mouse cursor to your profile picture at the top left side of the page and select My Liked Photos from the drop-down list. You can also view this page by visiting 500px.com/liked. Open \"Developer Tools\" in your browser. In Chrome, click on the \u22ee > More Tools > Developer Tools, or press Ctrl+\u21e7 Shift+I on your keyboard. In other browsers, the process is a little different, but usually you can find Inspect Element by right-clicking on an element and selecting that option from the menu that pops up. Select the \"Element Picker Tool\". Just click on the arrow mark icon from the Developer Tool. It will be the first tool in there. Select the black transparent side of the 500px page with that tool. When you click on the black overlay with Element Picker Tool, you will see the elements on the Developer Tool that you want to edit. Right-click on the highlighted elements. Select Delete element from the options. Alternatively, select the elements and hit the \"Delete\" button on your keyboard. Finished. Close the Developer Tools by clicking on the X icon from there and click on each image to enlarge it. Done!",
+  "tyn_model":[
+    "element picker",
+    "google chrome",
+    "\u22ee >",
+    "\u21e7 shift+i",
+    "developer tools"
+  ],
+  "tyn_section":[
+
+  ]
+}
