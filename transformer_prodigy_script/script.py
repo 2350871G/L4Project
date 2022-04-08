@@ -34,13 +34,18 @@ def get_tyn_from_text(text):
         return collate_tyn(d.ents)
         
 def collate_tyn(tyn):
-    tyn_lower = set([thing.text.lower() for thing in tyn])
-    collated = []
-    for thing in tyn:
-        if thing.text.lower() in tyn_lower:
-            collated.append(thing)
-            tyn_lower.remove(thing.text.lower())
-    return collated
+    ents = [ent.text.lower() for ent in tyn]
+    freqs = freq(ents)
+    return sorted(list(freqs.keys()), key = lambda x: freqs[x], reverse = True)
+
+def freq(l):
+    d = {}
+    for x in l:
+        if x in d:
+            d[x]+=1
+        else:
+            d[x] = 1
+    return d
 
 # MAIN PROGRAM
 if __name__ == "__main__":
